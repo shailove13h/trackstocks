@@ -1,0 +1,233 @@
+{% extends "layouts/base.html" %}
+
+{% block title %} Fetch Option  {% endblock %} 
+
+<!-- Specific CSS goes HERE -->
+{% block stylesheets %} 
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+{% endblock stylesheets %}
+
+{% block content %}
+
+
+    <!-- [ Main Content ] start -->
+    
+    <div class="pcoded-main-container">
+        <div class="col-md-6">
+            <form method="post">
+                {% csrf_token %}
+                <div class="form-group">
+                    <label for="exampleInputEmail1">Select Date</label>
+                    <input type="date" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+                    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+                </div>
+            
+                <button type="submit" value="shailes" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+        <div class="pcoded-wrapper">
+            <div class="pcoded-content">
+                <div class="pcoded-inner-content">
+                    <!-- [ breadcrumb ] start -->
+                    <div class="page-header">
+                        <div class="page-block">
+                            <div class="row align-items-center">
+                                <div class="col-md-12">
+                                    <div class="page-header-title">
+                                        <h5 class="m-b-10">Fetch Option Data </h5>
+                                    </div>
+                                    <ul class="breadcrumb">
+                                        <li class="breadcrumb-item"><a href="/"><i class="feather icon-home"></i></a></li>
+                                        <li class="breadcrumb-item"><a href="javascript:">Fetch option</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- [ breadcrumb ] end -->
+                   
+
+                   
+                    <div class="col-xl-12 col-md-12 m-b-30">
+                        <ul class="nav nav-tabs" id="myTab" role="tablist">
+                           
+                            <li class="nav-item">
+                                <a class="nav-link " id="ceoihi-tab" data-toggle="tab"
+                                    href="#ceoihi" role="tab" aria-controls="ceoihi" aria-selected="true">
+                                    CE Side Highest OI</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link active show" id="cepehioi-tab" data-toggle="tab" href="#cepehioi" role="tab"
+                                    aria-controls="cepehioi" aria-selected="false">Both CE n PE Highest OI </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="peoihi-tab" data-toggle="tab" href="#peoihi"
+                                    role="tab" aria-controls="peoihi" aria-selected="false">PE Side Highest OI</a>
+                            </li>
+                        </ul>
+                        <div class="tab-content" id="myTabContent">
+                            
+                            <div class="tab-pane fade table-responsive " id="ceoihi" role="tabpanel"
+                                    aria-labelledby="ceoihi-tab">
+                                    <table class="table table-hover">
+                                        <thead>
+                                        <tr>
+                                            <th>Date and time</th>
+                                            <th>Change in Open Interest CE</th>
+                                            <th> Last Price CE</th>
+                                            <th>Open Interest CE</th>
+                                            <th>Strike Price CE</th>
+                                            <th>PCR</th>
+                                            <th>  Stoc/Index </th>
+                                            <th>  Stoc/Index Value </th>
+                                            <th>Strike Price PE</th>
+                                            <th>Open Interest PE</th>
+                                            <th> Last Price PE</th>
+                                            <th>Change in Open Interest</th>
+                                            
+                                            <th class="text-right"></th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                            {% for datas in ceoihi%}
+                                        <tr>
+                                            
+                                            <td>{{datas.created_at }}</td>
+                                            <td>{{datas.changeinOpenInterest }}</td>
+                                            <td>{{datas.lastPrice }}</td>
+                                            <td>{{datas.openInterest }}</td>
+                                            <td>{{datas.strikePrice }}</td>
+                                            <td>{{datas.pcr }}</td>
+                                            <td>{{datas.underlying }}</td>
+                                            <td>{{datas.underlyingValue }}</td>
+                                            
+                                            <td>{{datas.PE_strikePrice }}</td>
+    
+                                            <td>{{datas.PE_openInterest }}</td>
+                                            <td>{{datas.PE_lastPrice }}</td>
+                                           
+                                            <td>{{datas.PE_changeinOpenInterest }}</td>
+    
+    
+                                        </tr>
+                                        {% endfor %}
+    
+                                        </tbody>
+                                    </table>
+
+                            </div>
+                            <div class="tab-pane fade table-responsive active show" id="cepehioi" role="tabpanel" aria-labelledby="cepehioi-tab">
+                                <table class="table table-hover">
+                                    <thead>
+                                    <tr>
+                                        <th>Date and time</th>
+                                        <th>Change in Open Interest CE</th>
+                                        <th> Last Price CE</th>
+                                        <th>Open Interest CE</th>
+                                        <th>Strike Price CE</th>
+                                        <th>PCR</th>
+                                        <th>  Stoc/Index </th>
+                                        <th>  Stoc/Index Value </th>
+                                        <th>Strike Price PE</th>
+                                        <th>Open Interest PE</th>
+                                        <th> Last Price PE</th>
+                                        <th>Change in Open Interest</th>
+                                        <th class="text-right"></th>
+                                    </tr>
+                                    </thead>
+                                    <tbody>
+                                        {% for cepehiois in cepehioi%}
+                                    <tr>
+                                        <td>{{cepehiois.created_at }}</td>
+                                        <td>{{cepehiois.changeinOpenInterest }}</td>
+                                        <td>{{cepehiois.lastPrice }}</td>
+                                        <td>{{cepehiois.openInterest }}</td>
+                                        <td>{{cepehiois.strikePrice }}</td>
+                                        <td>{{cepehiois.pcr }}</td>
+                                        <td>{{cepehiois.underlying }}</td>
+                                        <td>{{cepehiois.underlyingValue }}</td>
+                                        <td>{{cepehiois.PE_strikePrice }}</td>
+
+                                        <td>{{cepehiois.PE_openInterest }}</td>
+                                        <td>{{cepehiois.PE_lastPrice }}</td>
+                                       
+                                        <td>{{cepehiois.PE_changeinOpenInterest }}</td>
+
+
+                                    </tr>
+                                    {% endfor %}
+
+                                    </tbody>
+                                </table>
+
+                            </div>
+                            <div class="tab-pane fade table-responsive" id="peoihi" role="tabpanel"
+                                    aria-labelledby="peoihi-tab">
+                                    <table class="table table-hover">
+                                        <thead>
+                                        <tr>
+                                            <th>Date and time</th>
+                                            <th>Change in Open Interest CE</th>
+                                            <th> Last Price CE</th>
+                                            <th>Open Interest CE</th>
+                                            <th>Strike Price CE</th>
+                                            <th>PCR</th>
+                                            <th>  Stoc/Index </th>
+                                            <th>  Stoc/Index Value </th>
+                                            <th>Strike Price PE</th>
+                                            <th>Open Interest PE</th>
+                                            <th> Last Price PE</th>
+                                            <th>Change in Open Interest</th>
+                                            <th class="text-right"></th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                            {% for peoihis in peoihi%}
+                                        <tr>
+                                            <td>{{peoihis.created_at }}</td>
+                                            <td>{{peoihis.changeinOpenInterest }}</td>
+                                            <td>{{peoihis.lastPrice }}</td>
+                                            <td>{{peoihis.openInterest }}</td>
+                                            <td>{{peoihis.strikePrice }}</td>
+                                            <td>{{peoihis.pcr }}</td>
+                                            <td>{{peoihis.underlying }}</td>
+                                            <td>{{peoihis.underlyingValue }}</td>
+                                            <td>{{peoihis.PE_strikePrice }}</td>
+    
+                                            <td>{{peoihis.PE_openInterest }}</td>
+                                            <td>{{peoihis.PE_lastPrice }}</td>
+                                           
+                                            <td>{{peoihis.PE_changeinOpenInterest }}</td>
+    
+    
+                                        </tr>
+                                        {% endfor %}
+    
+                                        </tbody>
+                                    </table>
+                            </div>
+                        </div>
+                    </div>   
+
+
+
+
+
+
+
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- [ Main Content ] end -->
+
+{% endblock content %}
+
+<!-- Specific Page JS goes HERE  -->
+{% block javascripts %}
+
+{% endblock javascripts %}

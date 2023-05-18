@@ -1,0 +1,14 @@
+<!-- {% extends "layouts/base.html" %} -->
+
+{% block title %} Fetch Option  {% endblock %} 
+
+<!-- Specific CSS goes HERE -->
+{% block stylesheets %} 
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+{% endblock stylesheets %}
+
+{# tutorial/templates/tutorial/people.html #}
+{% load django_tables2 %}
+{% render_table table %}

@@ -1,0 +1,123 @@
+{% extends "layouts/base.html" %}
+
+{% block title %} Fetch Option  {% endblock %} 
+
+<!-- Specific CSS goes HERE -->
+{% block stylesheets %} 
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+{% endblock stylesheets %}
+
+{% block content %}
+
+
+    <!-- [ Main Content ] start -->
+    <div class="pcoded-main-container">
+        <div class="pcoded-wrapper">
+            <div class="pcoded-content">
+                <div class="pcoded-inner-content">
+                    <!-- [ breadcrumb ] start -->
+                    <div class="page-header">
+                        <div class="page-block">
+                            <div class="row align-items-center">
+                                <div class="col-md-12">
+                                    <div class="page-header-title">
+                                        <h5 class="m-b-10">Fetch Option Data </h5>
+                                    </div>
+                                    <ul class="breadcrumb">
+                                        <li class="breadcrumb-item"><a href="/"><i class="feather icon-home"></i></a></li>
+                                        <li class="breadcrumb-item"><a href="javascript:">Fetch option</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- [ breadcrumb ] end -->
+                   
+
+                   
+                    
+
+
+
+                
+                   
+                <!-- [ Hover-table ] start -->
+                <div class="col-xl-12">
+                    <div class="card">
+                        <div class="card-header">
+                            <h5>Highest Open Interest Strike Price List</h5>
+                            
+                        </div>
+                        <div class="card-block table-border-style">
+                            <div class="table-responsive" >
+                                <table class="table table-hover">
+                                    <thead >
+                                        <tr>
+                                           
+                                            <th>Change in Open Interest CE</th>
+                                            <th> Last Price CE</th>
+                                            <th>Open Interest CE</th>
+                                            <th>Strike Price CE</th>
+                                            <th>  Stoc/Index </th>
+                                            <th>  Stoc/Index Value </th>
+                                            <th>Strike Price PE</th>
+                                            <th>Open Interest PE</th>
+                                            <th> Last Price PE</th>
+                                            <th>Change in Open Interest</th>
+                                            
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                       
+                                        
+                                            {% for datas in data%}
+                                        <tr>
+                                           
+
+                                          
+                                            <td>{{datas.changeinOpenInterest }}</td>
+                                            <td>{{datas.lastPrice }}</td>
+                                            <td>{{datas.openInterest }}</td>
+                                            <td>{{datas.strikePrice }}</td>
+                                            <td>{{datas.underlying }}</td>
+                                            <td>{{datas.underlyingValue }}</td>
+                                            <td>{{datas.PE_strikePrice }}</td>
+
+                                            <td>{{datas.PE_openInterest }}</td>
+                                            <td>{{datas.PE_lastPrice }}</td>
+                                           
+                                            <td>{{datas.PE_changeinOpenInterest }}</td>
+                                            
+                                          
+                                            
+                                        </tr>
+                                        {% endfor %}
+                                        
+                                        
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- [ Hover-table ] end -->
+
+
+
+
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- [ Main Content ] end -->
+
+{% endblock content %}
+
+<!-- Specific Page JS goes HERE  -->
+{% block javascripts %}
+
+{% endblock javascripts %}
