@@ -1,12 +1,12 @@
 {
     "filtered": {
         "CE": {
-            "totOI": 8076,
-            "totVol": 2385
+            "totOI": 8043,
+            "totVol": 2541
         },
         "PE": {
-            "totOI": 4335,
-            "totVol": 651
+            "totOI": 4360,
+            "totVol": 734
         },
         "data": [
             {
@@ -29,7 +29,7 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 250
@@ -54,7 +54,7 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 1.75,
@@ -75,7 +75,7 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 255
@@ -100,7 +100,7 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 260
@@ -125,7 +125,7 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 0,
@@ -146,7 +146,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 265
@@ -171,7 +171,7 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 270
@@ -196,7 +196,7 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 275
@@ -221,7 +221,7 @@
                     "totalSellQuantity": 86000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 280
@@ -246,7 +246,7 @@
                     "totalSellQuantity": 86000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 285
@@ -271,7 +271,7 @@
                     "totalSellQuantity": 86000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 290
@@ -296,7 +296,7 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 0.15,
@@ -317,17 +317,17 @@
                     "totalSellQuantity": 82000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 295
             },
             {
                 "CE": {
-                    "askPrice": 72.35,
+                    "askPrice": 73.8,
                     "askQty": 8000,
-                    "bidQty": 8000,
-                    "bidprice": 68.65,
+                    "bidQty": 6000,
+                    "bidprice": 68.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -342,7 +342,7 @@
                     "totalSellQuantity": 106000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 0.1,
@@ -353,7 +353,7 @@
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023PE300.00",
-                    "impliedVolatility": 60.4,
+                    "impliedVolatility": 60.91,
                     "lastPrice": 0.05,
                     "openInterest": 227,
                     "pChange": 0,
@@ -363,7 +363,7 @@
                     "totalSellQuantity": 238000,
                     "totalTradedVolume": 8,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 300
@@ -388,7 +388,7 @@
                     "totalSellQuantity": 98000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 0.15,
@@ -409,17 +409,17 @@
                     "totalSellQuantity": 76000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 305
             },
             {
                 "CE": {
-                    "askPrice": 62.8,
-                    "askQty": 2000,
+                    "askPrice": 63.15,
+                    "askQty": 8000,
                     "bidQty": 6000,
-                    "bidprice": 58.45,
+                    "bidprice": 59.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -430,11 +430,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 310,
-                    "totalBuyQuantity": 104000,
+                    "totalBuyQuantity": 106000,
                     "totalSellQuantity": 100000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 0.1,
@@ -455,7 +455,7 @@
                     "totalSellQuantity": 108000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 310
@@ -480,7 +480,7 @@
                     "totalSellQuantity": 98000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 0.15,
@@ -498,20 +498,20 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 315,
                     "totalBuyQuantity": 68000,
-                    "totalSellQuantity": 150000,
+                    "totalSellQuantity": 156000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 315
             },
             {
                 "CE": {
-                    "askPrice": 51.8,
-                    "askQty": 8000,
-                    "bidQty": 2000,
-                    "bidprice": 49.55,
+                    "askPrice": 51.85,
+                    "askQty": 2000,
+                    "bidQty": 10000,
+                    "bidprice": 49.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -522,32 +522,32 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 320,
-                    "totalBuyQuantity": 100000,
-                    "totalSellQuantity": 106000,
+                    "totalBuyQuantity": 108000,
+                    "totalSellQuantity": 108000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 0.2,
-                    "askQty": 14000,
-                    "bidQty": 10000,
+                    "askQty": 16000,
+                    "bidQty": 12000,
                     "bidprice": 0.15,
-                    "change": 0,
+                    "change": -0.05000000000000002,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023PE320.00",
                     "impliedVolatility": 0,
-                    "lastPrice": 0,
+                    "lastPrice": 0.15,
                     "openInterest": 285,
-                    "pChange": 0,
+                    "pChange": -25.000000000000007,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 320,
-                    "totalBuyQuantity": 514000,
-                    "totalSellQuantity": 160000,
-                    "totalTradedVolume": 0,
+                    "totalBuyQuantity": 518000,
+                    "totalSellQuantity": 248000,
+                    "totalTradedVolume": 1,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 320
@@ -572,38 +572,38 @@
                     "totalSellQuantity": 104000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 0.25,
-                    "askQty": 8000,
+                    "askQty": 20000,
                     "bidQty": 2000,
                     "bidprice": 0.2,
                     "change": -0.04999999999999999,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023PE325.00",
-                    "impliedVolatility": 49.65,
+                    "impliedVolatility": 50.28,
                     "lastPrice": 0.25,
                     "openInterest": 125,
                     "pChange": -16.666666666666664,
                     "pchangeinOpenInterest": -1.5748031496062993,
                     "strikePrice": 325,
-                    "totalBuyQuantity": 328000,
-                    "totalSellQuantity": 200000,
+                    "totalBuyQuantity": 330000,
+                    "totalSellQuantity": 194000,
                     "totalTradedVolume": 22,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 325
             },
             {
                 "CE": {
-                    "askPrice": 41.45,
+                    "askPrice": 42,
                     "askQty": 2000,
                     "bidQty": 2000,
-                    "bidprice": 40.05,
+                    "bidprice": 40.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -614,42 +614,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 330,
-                    "totalBuyQuantity": 156000,
-                    "totalSellQuantity": 136000,
+                    "totalBuyQuantity": 164000,
+                    "totalSellQuantity": 144000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 0.3,
-                    "askQty": 18000,
-                    "bidQty": 18000,
+                    "askQty": 16000,
+                    "bidQty": 4000,
                     "bidprice": 0.25,
-                    "change": -0.04999999999999999,
+                    "change": 0,
                     "changeinOpenInterest": 6,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023PE330.00",
-                    "impliedVolatility": 44.77,
-                    "lastPrice": 0.25,
+                    "impliedVolatility": 45.4,
+                    "lastPrice": 0.3,
                     "openInterest": 612,
-                    "pChange": -16.666666666666664,
+                    "pChange": 0,
                     "pchangeinOpenInterest": 0.9900990099009901,
                     "strikePrice": 330,
-                    "totalBuyQuantity": 1126000,
-                    "totalSellQuantity": 400000,
-                    "totalTradedVolume": 23,
+                    "totalBuyQuantity": 1122000,
+                    "totalSellQuantity": 398000,
+                    "totalTradedVolume": 24,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 330
             },
             {
                 "CE": {
-                    "askPrice": 37.2,
-                    "askQty": 2000,
+                    "askPrice": 38.05,
+                    "askQty": 16000,
                     "bidQty": 4000,
-                    "bidprice": 35.35,
+                    "bidprice": 35.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -661,87 +661,87 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 335,
                     "totalBuyQuantity": 76000,
-                    "totalSellQuantity": 160000,
+                    "totalSellQuantity": 166000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
-                    "askPrice": 0.4,
-                    "askQty": 30000,
-                    "bidQty": 4000,
-                    "bidprice": 0.35,
-                    "change": -0.04999999999999999,
-                    "changeinOpenInterest": 0,
+                    "askPrice": 0.35,
+                    "askQty": 14000,
+                    "bidQty": 18000,
+                    "bidprice": 0.3,
+                    "change": -0.10000000000000003,
+                    "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023PE335.00",
-                    "impliedVolatility": 43.53,
-                    "lastPrice": 0.4,
-                    "openInterest": 173,
-                    "pChange": -11.111111111111107,
-                    "pchangeinOpenInterest": 0,
+                    "impliedVolatility": 44.21,
+                    "lastPrice": 0.35,
+                    "openInterest": 174,
+                    "pChange": -22.22222222222223,
+                    "pchangeinOpenInterest": 0.5780346820809249,
                     "strikePrice": 335,
-                    "totalBuyQuantity": 730000,
-                    "totalSellQuantity": 266000,
-                    "totalTradedVolume": 1,
+                    "totalBuyQuantity": 736000,
+                    "totalSellQuantity": 274000,
+                    "totalTradedVolume": 2,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 335
             },
             {
                 "CE": {
-                    "askPrice": 31.15,
+                    "askPrice": 31.75,
                     "askQty": 2000,
                     "bidQty": 2000,
-                    "bidprice": 30.55,
+                    "bidprice": 31.2,
                     "change": 2.5500000000000007,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023CE340.00",
-                    "impliedVolatility": 33.6,
+                    "impliedVolatility": 0,
                     "lastPrice": 31,
                     "openInterest": 239,
                     "pChange": 8.963093145869951,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 340,
                     "totalBuyQuantity": 176000,
-                    "totalSellQuantity": 174000,
+                    "totalSellQuantity": 168000,
                     "totalTradedVolume": 1,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 0.45,
-                    "askQty": 28000,
-                    "bidQty": 8000,
+                    "askQty": 24000,
+                    "bidQty": 6000,
                     "bidprice": 0.4,
-                    "change": -0.10000000000000003,
+                    "change": -0.15000000000000002,
                     "changeinOpenInterest": -9,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023PE340.00",
-                    "impliedVolatility": 39.26,
-                    "lastPrice": 0.45,
+                    "impliedVolatility": 39.98,
+                    "lastPrice": 0.4,
                     "openInterest": 372,
-                    "pChange": -18.181818181818183,
+                    "pChange": -27.272727272727277,
                     "pchangeinOpenInterest": -2.3622047244094486,
                     "strikePrice": 340,
-                    "totalBuyQuantity": 1414000,
-                    "totalSellQuantity": 354000,
-                    "totalTradedVolume": 20,
+                    "totalBuyQuantity": 1402000,
+                    "totalSellQuantity": 340000,
+                    "totalTradedVolume": 21,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 340
             },
             {
                 "CE": {
-                    "askPrice": 26.35,
+                    "askPrice": 26.8,
                     "askQty": 2000,
-                    "bidQty": 4000,
-                    "bidprice": 25.8,
+                    "bidQty": 2000,
+                    "bidprice": 26.2,
                     "change": 3.6999999999999993,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
@@ -752,88 +752,88 @@
                     "pChange": 17.249417249417245,
                     "pchangeinOpenInterest": -1.0416666666666667,
                     "strikePrice": 345,
-                    "totalBuyQuantity": 190000,
-                    "totalSellQuantity": 168000,
+                    "totalBuyQuantity": 178000,
+                    "totalSellQuantity": 158000,
                     "totalTradedVolume": 2,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
-                    "askPrice": 0.6,
-                    "askQty": 6000,
-                    "bidQty": 8000,
-                    "bidprice": 0.55,
+                    "askPrice": 0.55,
+                    "askQty": 4000,
+                    "bidQty": 34000,
+                    "bidprice": 0.5,
                     "change": -0.25,
-                    "changeinOpenInterest": -1,
+                    "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023PE345.00",
-                    "impliedVolatility": 36.23,
+                    "impliedVolatility": 36.25,
                     "lastPrice": 0.55,
-                    "openInterest": 260,
+                    "openInterest": 259,
                     "pChange": -31.25,
-                    "pchangeinOpenInterest": -0.3831417624521073,
+                    "pchangeinOpenInterest": -0.7662835249042146,
                     "strikePrice": 345,
-                    "totalBuyQuantity": 626000,
-                    "totalSellQuantity": 302000,
-                    "totalTradedVolume": 16,
+                    "totalBuyQuantity": 622000,
+                    "totalSellQuantity": 306000,
+                    "totalTradedVolume": 18,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 345
             },
             {
                 "CE": {
-                    "askPrice": 21.6,
+                    "askPrice": 22,
                     "askQty": 2000,
                     "bidQty": 2000,
-                    "bidprice": 21.1,
-                    "change": 1.1000000000000014,
-                    "changeinOpenInterest": 0,
+                    "bidprice": 21.55,
+                    "change": 1.9500000000000028,
+                    "changeinOpenInterest": -25,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023CE350.00",
-                    "impliedVolatility": 23.58,
-                    "lastPrice": 21,
-                    "openInterest": 303,
-                    "pChange": 5.527638190954781,
-                    "pchangeinOpenInterest": 0,
+                    "impliedVolatility": 0,
+                    "lastPrice": 21.85,
+                    "openInterest": 278,
+                    "pChange": 9.798994974874386,
+                    "pchangeinOpenInterest": -8.250825082508252,
                     "strikePrice": 350,
-                    "totalBuyQuantity": 210000,
-                    "totalSellQuantity": 198000,
-                    "totalTradedVolume": 23,
+                    "totalBuyQuantity": 200000,
+                    "totalSellQuantity": 190000,
+                    "totalTradedVolume": 29,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
-                    "askPrice": 0.9,
-                    "askQty": 6000,
-                    "bidQty": 2000,
-                    "bidprice": 0.85,
-                    "change": -0.4,
-                    "changeinOpenInterest": 3,
+                    "askPrice": 0.8,
+                    "askQty": 4000,
+                    "bidQty": 32000,
+                    "bidprice": 0.75,
+                    "change": -0.44999999999999996,
+                    "changeinOpenInterest": 4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023PE350.00",
-                    "impliedVolatility": 34.07,
-                    "lastPrice": 0.85,
-                    "openInterest": 568,
-                    "pChange": -32,
-                    "pchangeinOpenInterest": 0.5309734513274337,
+                    "impliedVolatility": 34.36,
+                    "lastPrice": 0.8,
+                    "openInterest": 569,
+                    "pChange": -36,
+                    "pchangeinOpenInterest": 0.7079646017699115,
                     "strikePrice": 350,
-                    "totalBuyQuantity": 1974000,
-                    "totalSellQuantity": 380000,
-                    "totalTradedVolume": 68,
+                    "totalBuyQuantity": 1966000,
+                    "totalSellQuantity": 386000,
+                    "totalTradedVolume": 73,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 350
             },
             {
                 "CE": {
-                    "askPrice": 16.95,
+                    "askPrice": 17.35,
                     "askQty": 2000,
                     "bidQty": 2000,
-                    "bidprice": 16.3,
+                    "bidprice": 16.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -844,339 +844,339 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 355,
-                    "totalBuyQuantity": 186000,
-                    "totalSellQuantity": 170000,
+                    "totalBuyQuantity": 184000,
+                    "totalSellQuantity": 158000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 1.25,
-                    "askQty": 2000,
+                    "askQty": 6000,
                     "bidQty": 6000,
-                    "bidprice": 1.2,
-                    "change": -0.6499999999999999,
-                    "changeinOpenInterest": 2,
+                    "bidprice": 1.15,
+                    "change": -0.7,
+                    "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023PE355.00",
-                    "impliedVolatility": 32.23,
-                    "lastPrice": 1.25,
-                    "openInterest": 222,
-                    "pChange": -34.210526315789465,
-                    "pchangeinOpenInterest": 0.9090909090909091,
+                    "impliedVolatility": 31.93,
+                    "lastPrice": 1.2,
+                    "openInterest": 221,
+                    "pChange": -36.84210526315789,
+                    "pchangeinOpenInterest": 0.45454545454545453,
                     "strikePrice": 355,
-                    "totalBuyQuantity": 280000,
-                    "totalSellQuantity": 346000,
-                    "totalTradedVolume": 37,
+                    "totalBuyQuantity": 278000,
+                    "totalSellQuantity": 342000,
+                    "totalTradedVolume": 42,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 355
             },
             {
                 "CE": {
-                    "askPrice": 12.7,
-                    "askQty": 4000,
-                    "bidQty": 10000,
-                    "bidprice": 12.4,
-                    "change": 1.1999999999999993,
-                    "changeinOpenInterest": -14,
+                    "askPrice": 13.1,
+                    "askQty": 2000,
+                    "bidQty": 4000,
+                    "bidprice": 12.9,
+                    "change": 1.549999999999999,
+                    "changeinOpenInterest": -17,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023CE360.00",
-                    "impliedVolatility": 26.7,
-                    "lastPrice": 12.6,
-                    "openInterest": 541,
-                    "pChange": 10.526315789473678,
-                    "pchangeinOpenInterest": -2.5225225225225225,
+                    "impliedVolatility": 23.29,
+                    "lastPrice": 12.95,
+                    "openInterest": 538,
+                    "pChange": 13.596491228070166,
+                    "pchangeinOpenInterest": -3.063063063063063,
                     "strikePrice": 360,
-                    "totalBuyQuantity": 234000,
-                    "totalSellQuantity": 288000,
-                    "totalTradedVolume": 134,
+                    "totalBuyQuantity": 240000,
+                    "totalSellQuantity": 292000,
+                    "totalTradedVolume": 144,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
-                    "askPrice": 2.15,
+                    "askPrice": 2.1,
                     "askQty": 8000,
-                    "bidQty": 32000,
+                    "bidQty": 2000,
                     "bidprice": 2,
-                    "change": -0.9499999999999997,
-                    "changeinOpenInterest": 17,
+                    "change": -1.0499999999999998,
+                    "changeinOpenInterest": 34,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023PE360.00",
-                    "impliedVolatility": 31.22,
-                    "lastPrice": 2.1,
-                    "openInterest": 431,
-                    "pChange": -31.147540983606554,
-                    "pchangeinOpenInterest": 4.106280193236715,
+                    "impliedVolatility": 31.05,
+                    "lastPrice": 2,
+                    "openInterest": 448,
+                    "pChange": -34.42622950819671,
+                    "pchangeinOpenInterest": 8.21256038647343,
                     "strikePrice": 360,
-                    "totalBuyQuantity": 324000,
-                    "totalSellQuantity": 416000,
-                    "totalTradedVolume": 121,
+                    "totalBuyQuantity": 306000,
+                    "totalSellQuantity": 454000,
+                    "totalTradedVolume": 145,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 360
             },
             {
                 "CE": {
-                    "askPrice": 9.15,
-                    "askQty": 4000,
-                    "bidQty": 4000,
-                    "bidprice": 8.95,
-                    "change": 0.5999999999999996,
-                    "changeinOpenInterest": -42,
+                    "askPrice": 9.4,
+                    "askQty": 2000,
+                    "bidQty": 8000,
+                    "bidprice": 9.2,
+                    "change": 1.1499999999999986,
+                    "changeinOpenInterest": -43,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023CE365.00",
-                    "impliedVolatility": 23.77,
-                    "lastPrice": 8.9,
-                    "openInterest": 269,
-                    "pChange": 7.228915662650598,
-                    "pchangeinOpenInterest": -13.504823151125402,
+                    "impliedVolatility": 24.18,
+                    "lastPrice": 9.45,
+                    "openInterest": 268,
+                    "pChange": 13.855421686746968,
+                    "pchangeinOpenInterest": -13.82636655948553,
                     "strikePrice": 365,
-                    "totalBuyQuantity": 240000,
-                    "totalSellQuantity": 308000,
-                    "totalTradedVolume": 151,
+                    "totalBuyQuantity": 246000,
+                    "totalSellQuantity": 310000,
+                    "totalTradedVolume": 160,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
-                    "askPrice": 3.5,
-                    "askQty": 6000,
-                    "bidQty": 8000,
-                    "bidprice": 3.35,
-                    "change": -1.4500000000000002,
-                    "changeinOpenInterest": 9,
+                    "askPrice": 3.4,
+                    "askQty": 4000,
+                    "bidQty": 2000,
+                    "bidprice": 3.25,
+                    "change": -1.6000000000000005,
+                    "changeinOpenInterest": 10,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023PE365.00",
-                    "impliedVolatility": 31.57,
-                    "lastPrice": 3.45,
-                    "openInterest": 286,
-                    "pChange": -29.591836734693878,
-                    "pchangeinOpenInterest": 3.2490974729241877,
+                    "impliedVolatility": 30.53,
+                    "lastPrice": 3.3,
+                    "openInterest": 287,
+                    "pChange": -32.653061224489804,
+                    "pchangeinOpenInterest": 3.6101083032490973,
                     "strikePrice": 365,
-                    "totalBuyQuantity": 330000,
-                    "totalSellQuantity": 320000,
-                    "totalTradedVolume": 110,
+                    "totalBuyQuantity": 336000,
+                    "totalSellQuantity": 310000,
+                    "totalTradedVolume": 124,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 365
             },
             {
                 "CE": {
-                    "askPrice": 6.25,
-                    "askQty": 2000,
-                    "bidQty": 4000,
-                    "bidprice": 6.1,
-                    "change": 0.5,
-                    "changeinOpenInterest": 8,
+                    "askPrice": 6.5,
+                    "askQty": 4000,
+                    "bidQty": 8000,
+                    "bidprice": 6.4,
+                    "change": 0.6500000000000004,
+                    "changeinOpenInterest": 4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023CE370.00",
-                    "impliedVolatility": 26.24,
-                    "lastPrice": 6.25,
-                    "openInterest": 1045,
-                    "pChange": 8.695652173913043,
-                    "pchangeinOpenInterest": 0.7714561234329798,
+                    "impliedVolatility": 26.45,
+                    "lastPrice": 6.4,
+                    "openInterest": 1041,
+                    "pChange": 11.304347826086962,
+                    "pchangeinOpenInterest": 0.3857280617164899,
                     "strikePrice": 370,
-                    "totalBuyQuantity": 550000,
+                    "totalBuyQuantity": 544000,
                     "totalSellQuantity": 894000,
-                    "totalTradedVolume": 750,
+                    "totalTradedVolume": 807,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
-                    "askPrice": 5.65,
-                    "askQty": 8000,
-                    "bidQty": 4000,
-                    "bidprice": 5.5,
-                    "change": -1.6500000000000004,
-                    "changeinOpenInterest": 21,
+                    "askPrice": 5.45,
+                    "askQty": 14000,
+                    "bidQty": 2000,
+                    "bidprice": 5.35,
+                    "change": -1.8499999999999996,
+                    "changeinOpenInterest": 26,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023PE370.00",
-                    "impliedVolatility": 31.43,
-                    "lastPrice": 5.6,
-                    "openInterest": 313,
-                    "pChange": -22.758620689655178,
-                    "pchangeinOpenInterest": 7.191780821917808,
+                    "impliedVolatility": 31.17,
+                    "lastPrice": 5.4,
+                    "openInterest": 318,
+                    "pChange": -25.51724137931034,
+                    "pchangeinOpenInterest": 8.904109589041095,
                     "strikePrice": 370,
-                    "totalBuyQuantity": 412000,
-                    "totalSellQuantity": 322000,
-                    "totalTradedVolume": 194,
+                    "totalBuyQuantity": 396000,
+                    "totalSellQuantity": 336000,
+                    "totalTradedVolume": 219,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 370
             },
             {
                 "CE": {
-                    "askPrice": 4.1,
-                    "askQty": 4000,
-                    "bidQty": 2000,
-                    "bidprice": 4.05,
-                    "change": 0.1499999999999999,
-                    "changeinOpenInterest": 16,
+                    "askPrice": 4.25,
+                    "askQty": 2000,
+                    "bidQty": 6000,
+                    "bidprice": 4.15,
+                    "change": 0.3999999999999999,
+                    "changeinOpenInterest": 17,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023CE375.00",
-                    "impliedVolatility": 28.12,
-                    "lastPrice": 4,
-                    "openInterest": 606,
-                    "pChange": 3.896103896103894,
-                    "pchangeinOpenInterest": 2.711864406779661,
+                    "impliedVolatility": 27.35,
+                    "lastPrice": 4.25,
+                    "openInterest": 607,
+                    "pChange": 10.389610389610388,
+                    "pchangeinOpenInterest": 2.8813559322033897,
                     "strikePrice": 375,
-                    "totalBuyQuantity": 506000,
-                    "totalSellQuantity": 598000,
-                    "totalTradedVolume": 385,
+                    "totalBuyQuantity": 488000,
+                    "totalSellQuantity": 584000,
+                    "totalTradedVolume": 410,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
-                    "askPrice": 8.6,
-                    "askQty": 4000,
-                    "bidQty": 2000,
-                    "bidprice": 8.35,
-                    "change": -1.9000000000000004,
-                    "changeinOpenInterest": -2,
+                    "askPrice": 8.3,
+                    "askQty": 2000,
+                    "bidQty": 8000,
+                    "bidprice": 8.05,
+                    "change": -1.9499999999999993,
+                    "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023PE375.00",
-                    "impliedVolatility": 31.74,
-                    "lastPrice": 8.35,
-                    "openInterest": 121,
-                    "pChange": -18.53658536585366,
-                    "pchangeinOpenInterest": -1.6260162601626016,
+                    "impliedVolatility": 31.68,
+                    "lastPrice": 8.3,
+                    "openInterest": 122,
+                    "pChange": -19.02439024390243,
+                    "pchangeinOpenInterest": -0.8130081300813008,
                     "strikePrice": 375,
-                    "totalBuyQuantity": 242000,
-                    "totalSellQuantity": 202000,
-                    "totalTradedVolume": 27,
+                    "totalBuyQuantity": 224000,
+                    "totalSellQuantity": 198000,
+                    "totalTradedVolume": 30,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 375
             },
             {
                 "CE": {
-                    "askPrice": 2.65,
-                    "askQty": 4000,
+                    "askPrice": 2.8,
+                    "askQty": 14000,
                     "bidQty": 8000,
-                    "bidprice": 2.6,
-                    "change": 0.10000000000000009,
-                    "changeinOpenInterest": -58,
+                    "bidprice": 2.7,
+                    "change": 0.20000000000000018,
+                    "changeinOpenInterest": -56,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023CE380.00",
-                    "impliedVolatility": 28.64,
-                    "lastPrice": 2.65,
-                    "openInterest": 1384,
-                    "pChange": 3.921568627450984,
-                    "pchangeinOpenInterest": -4.0221914008321775,
+                    "impliedVolatility": 28.56,
+                    "lastPrice": 2.75,
+                    "openInterest": 1386,
+                    "pChange": 7.843137254901968,
+                    "pchangeinOpenInterest": -3.883495145631068,
                     "strikePrice": 380,
-                    "totalBuyQuantity": 440000,
-                    "totalSellQuantity": 1132000,
-                    "totalTradedVolume": 400,
+                    "totalBuyQuantity": 448000,
+                    "totalSellQuantity": 724000,
+                    "totalTradedVolume": 426,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
-                    "askPrice": 12.2,
-                    "askQty": 2000,
-                    "bidQty": 2000,
-                    "bidprice": 11.85,
-                    "change": -1.3499999999999996,
-                    "changeinOpenInterest": 1,
+                    "askPrice": 11.85,
+                    "askQty": 4000,
+                    "bidQty": 4000,
+                    "bidprice": 11.55,
+                    "change": -2,
+                    "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023PE380.00",
-                    "impliedVolatility": 33.89,
-                    "lastPrice": 12.5,
-                    "openInterest": 75,
-                    "pChange": -9.747292418772561,
-                    "pchangeinOpenInterest": 1.3513513513513513,
+                    "impliedVolatility": 36.64,
+                    "lastPrice": 11.85,
+                    "openInterest": 76,
+                    "pChange": -14.440433212996389,
+                    "pchangeinOpenInterest": 2.7027027027027026,
                     "strikePrice": 380,
-                    "totalBuyQuantity": 200000,
-                    "totalSellQuantity": 184000,
-                    "totalTradedVolume": 3,
+                    "totalBuyQuantity": 196000,
+                    "totalSellQuantity": 186000,
+                    "totalTradedVolume": 4,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 380
             },
             {
                 "CE": {
-                    "askPrice": 1.7,
-                    "askQty": 10000,
-                    "bidQty": 6000,
-                    "bidprice": 1.6,
-                    "change": 0.04999999999999982,
+                    "askPrice": 1.75,
+                    "askQty": 6000,
+                    "bidQty": 8000,
+                    "bidprice": 1.65,
+                    "change": 0.09999999999999987,
                     "changeinOpenInterest": 26,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023CE385.00",
-                    "impliedVolatility": 30.56,
-                    "lastPrice": 1.65,
+                    "impliedVolatility": 29.52,
+                    "lastPrice": 1.7,
                     "openInterest": 404,
-                    "pChange": 3.124999999999989,
+                    "pChange": 6.249999999999992,
                     "pchangeinOpenInterest": 6.878306878306878,
                     "strikePrice": 385,
-                    "totalBuyQuantity": 260000,
-                    "totalSellQuantity": 510000,
-                    "totalTradedVolume": 254,
+                    "totalBuyQuantity": 270000,
+                    "totalSellQuantity": 504000,
+                    "totalTradedVolume": 258,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
-                    "askPrice": 16.3,
+                    "askPrice": 15.9,
                     "askQty": 2000,
                     "bidQty": 2000,
-                    "bidprice": 15.65,
+                    "bidprice": 15.3,
                     "change": 1.3000000000000007,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023PE385.00",
-                    "impliedVolatility": 33.89,
+                    "impliedVolatility": 37.49,
                     "lastPrice": 16.25,
                     "openInterest": 8,
                     "pChange": 8.695652173913048,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 385,
-                    "totalBuyQuantity": 106000,
+                    "totalBuyQuantity": 116000,
                     "totalSellQuantity": 114000,
                     "totalTradedVolume": 1,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 385
             },
             {
                 "CE": {
-                    "askPrice": 1.05,
-                    "askQty": 4000,
-                    "bidQty": 108000,
-                    "bidprice": 1,
-                    "change": 0,
-                    "changeinOpenInterest": -10,
+                    "askPrice": 1.1,
+                    "askQty": 2000,
+                    "bidQty": 10000,
+                    "bidprice": 1.05,
+                    "change": 0.050000000000000044,
+                    "changeinOpenInterest": -13,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023CE390.00",
-                    "impliedVolatility": 31.77,
-                    "lastPrice": 1.05,
-                    "openInterest": 989,
-                    "pChange": 0,
-                    "pchangeinOpenInterest": -1.001001001001001,
+                    "impliedVolatility": 30.87,
+                    "lastPrice": 1.1,
+                    "openInterest": 986,
+                    "pChange": 4.761904761904765,
+                    "pchangeinOpenInterest": -1.3013013013013013,
                     "strikePrice": 390,
-                    "totalBuyQuantity": 2028000,
-                    "totalSellQuantity": 506000,
-                    "totalTradedVolume": 133,
+                    "totalBuyQuantity": 2034000,
+                    "totalSellQuantity": 498000,
+                    "totalTradedVolume": 146,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 20.95,
-                    "askQty": 2000,
+                    "askQty": 8000,
                     "bidQty": 2000,
-                    "bidprice": 20.25,
+                    "bidprice": 19.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1187,11 +1187,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 390,
-                    "totalBuyQuantity": 104000,
-                    "totalSellQuantity": 100000,
+                    "totalBuyQuantity": 114000,
+                    "totalSellQuantity": 116000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 390
@@ -1200,29 +1200,29 @@
                 "CE": {
                     "askPrice": 0.75,
                     "askQty": 6000,
-                    "bidQty": 6000,
+                    "bidQty": 20000,
                     "bidprice": 0.65,
-                    "change": 0,
+                    "change": -0.050000000000000044,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023CE395.00",
-                    "impliedVolatility": 33.97,
-                    "lastPrice": 0.75,
+                    "impliedVolatility": 33.15,
+                    "lastPrice": 0.7,
                     "openInterest": 259,
-                    "pChange": 0,
+                    "pChange": -6.666666666666672,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 395,
-                    "totalBuyQuantity": 476000,
-                    "totalSellQuantity": 316000,
-                    "totalTradedVolume": 28,
+                    "totalBuyQuantity": 484000,
+                    "totalSellQuantity": 318000,
+                    "totalTradedVolume": 30,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
-                    "askPrice": 25.95,
-                    "askQty": 8000,
-                    "bidQty": 2000,
-                    "bidprice": 24.85,
+                    "askPrice": 25.25,
+                    "askQty": 4000,
+                    "bidQty": 4000,
+                    "bidprice": 24.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1234,10 +1234,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 395,
                     "totalBuyQuantity": 104000,
-                    "totalSellQuantity": 108000,
+                    "totalSellQuantity": 104000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 395
@@ -1245,30 +1245,30 @@
             {
                 "CE": {
                     "askPrice": 0.6,
-                    "askQty": 18000,
-                    "bidQty": 4000,
-                    "bidprice": 0.55,
+                    "askQty": 12000,
+                    "bidQty": 60000,
+                    "bidprice": 0.5,
                     "change": -0.050000000000000044,
                     "changeinOpenInterest": -11,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023CE400.00",
-                    "impliedVolatility": 36.15,
+                    "impliedVolatility": 36.1,
                     "lastPrice": 0.6,
                     "openInterest": 1106,
                     "pChange": -7.692307692307699,
                     "pchangeinOpenInterest": -0.9847806624888094,
                     "strikePrice": 400,
-                    "totalBuyQuantity": 2026000,
-                    "totalSellQuantity": 416000,
-                    "totalTradedVolume": 94,
+                    "totalBuyQuantity": 2028000,
+                    "totalSellQuantity": 412000,
+                    "totalTradedVolume": 96,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
-                    "askPrice": 30.5,
+                    "askPrice": 30.1,
                     "askQty": 2000,
                     "bidQty": 2000,
-                    "bidprice": 29.6,
+                    "bidprice": 29.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1279,11 +1279,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 400,
-                    "totalBuyQuantity": 112000,
-                    "totalSellQuantity": 110000,
+                    "totalBuyQuantity": 106000,
+                    "totalSellQuantity": 102000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 400
@@ -1292,29 +1292,29 @@
                 "CE": {
                     "askPrice": 0.4,
                     "askQty": 18000,
-                    "bidQty": 20000,
-                    "bidprice": 0.3,
+                    "bidQty": 10000,
+                    "bidprice": 0.35,
                     "change": -0.050000000000000044,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023CE405.00",
-                    "impliedVolatility": 37.08,
+                    "impliedVolatility": 36.38,
                     "lastPrice": 0.35,
                     "openInterest": 178,
                     "pChange": -12.50000000000001,
                     "pchangeinOpenInterest": -1.1111111111111112,
                     "strikePrice": 405,
-                    "totalBuyQuantity": 558000,
+                    "totalBuyQuantity": 566000,
                     "totalSellQuantity": 180000,
-                    "totalTradedVolume": 12,
+                    "totalTradedVolume": 13,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
-                    "askPrice": 36.75,
-                    "askQty": 14000,
+                    "askPrice": 35.55,
+                    "askQty": 6000,
                     "bidQty": 2000,
-                    "bidprice": 33.85,
+                    "bidprice": 33.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1329,7 +1329,7 @@
                     "totalSellQuantity": 112000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 405
@@ -1338,23 +1338,23 @@
                 "CE": {
                     "askPrice": 0.25,
                     "askQty": 14000,
-                    "bidQty": 82000,
-                    "bidprice": 0.15,
+                    "bidQty": 12000,
+                    "bidprice": 0.2,
                     "change": -0.04999999999999999,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023CE410.00",
-                    "impliedVolatility": 37.33,
+                    "impliedVolatility": 36.7,
                     "lastPrice": 0.2,
                     "openInterest": 258,
                     "pChange": -19.999999999999996,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 410,
                     "totalBuyQuantity": 750000,
-                    "totalSellQuantity": 326000,
-                    "totalTradedVolume": 14,
+                    "totalSellQuantity": 246000,
+                    "totalTradedVolume": 15,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 41,
@@ -1375,14 +1375,14 @@
                     "totalSellQuantity": 104000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 410
             },
             {
                 "CE": {
-                    "askPrice": 1.05,
+                    "askPrice": 1.6,
                     "askQty": 2000,
                     "bidQty": 2000,
                     "bidprice": 0.1,
@@ -1390,7 +1390,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023CE415.00",
-                    "impliedVolatility": 41.04,
+                    "impliedVolatility": 40.41,
                     "lastPrice": 0.2,
                     "openInterest": 24,
                     "pChange": 0,
@@ -1400,7 +1400,7 @@
                     "totalSellQuantity": 84000,
                     "totalTradedVolume": 1,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 47.05,
@@ -1421,38 +1421,38 @@
                     "totalSellQuantity": 104000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 415
             },
             {
                 "CE": {
-                    "askPrice": 0.25,
+                    "askPrice": 1.25,
                     "askQty": 2000,
-                    "bidQty": 4000,
+                    "bidQty": 2000,
                     "bidprice": 0.15,
                     "change": 0.35000000000000003,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023CE420.00",
-                    "impliedVolatility": 53.3,
+                    "impliedVolatility": 52.59,
                     "lastPrice": 0.55,
                     "openInterest": 31,
                     "pChange": 175,
                     "pchangeinOpenInterest": 3.3333333333333335,
                     "strikePrice": 420,
-                    "totalBuyQuantity": 162000,
-                    "totalSellQuantity": 190000,
+                    "totalBuyQuantity": 160000,
+                    "totalSellQuantity": 168000,
                     "totalTradedVolume": 3,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
-                    "askPrice": 52.35,
+                    "askPrice": 51.35,
                     "askQty": 6000,
                     "bidQty": 6000,
-                    "bidprice": 47.6,
+                    "bidprice": 46.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1467,7 +1467,7 @@
                     "totalSellQuantity": 98000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 420
@@ -1492,7 +1492,7 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 61.85,
@@ -1513,7 +1513,7 @@
                     "totalSellQuantity": 86000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 425
@@ -1542,7 +1542,7 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 250
@@ -1567,7 +1567,7 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 1.75,
@@ -1588,7 +1588,7 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 255
@@ -1613,7 +1613,7 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 260
@@ -1638,7 +1638,7 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1659,7 +1659,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 265
@@ -1684,7 +1684,7 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 270
@@ -1709,7 +1709,7 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1730,7 +1730,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 270
@@ -1755,7 +1755,7 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1776,7 +1776,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 275
@@ -1801,7 +1801,7 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 275
@@ -1826,7 +1826,7 @@
                     "totalSellQuantity": 86000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 280
@@ -1851,7 +1851,7 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 280
@@ -1876,7 +1876,7 @@
                     "totalSellQuantity": 86000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 285
@@ -1901,7 +1901,7 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 285
@@ -1926,7 +1926,7 @@
                     "totalSellQuantity": 86000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 290
@@ -1951,7 +1951,7 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 290
@@ -1976,13 +1976,13 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 2000,
-                    "bidprice": 0.05,
+                    "bidprice": 0.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -1993,11 +1993,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 295,
-                    "totalBuyQuantity": 2000,
+                    "totalBuyQuantity": 4000,
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 295
@@ -2022,7 +2022,7 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 0.15,
@@ -2043,17 +2043,17 @@
                     "totalSellQuantity": 82000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 295
             },
             {
                 "CE": {
-                    "askPrice": 72.35,
+                    "askPrice": 73.8,
                     "askQty": 8000,
-                    "bidQty": 8000,
-                    "bidprice": 68.65,
+                    "bidQty": 6000,
+                    "bidprice": 68.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2068,7 +2068,7 @@
                     "totalSellQuantity": 106000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 0.1,
@@ -2079,7 +2079,7 @@
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023PE300.00",
-                    "impliedVolatility": 60.4,
+                    "impliedVolatility": 60.91,
                     "lastPrice": 0.05,
                     "openInterest": 227,
                     "pChange": 0,
@@ -2089,17 +2089,17 @@
                     "totalSellQuantity": 238000,
                     "totalTradedVolume": 8,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 300
             },
             {
                 "CE": {
-                    "askPrice": 75.45,
+                    "askPrice": 78.25,
                     "askQty": 6000,
-                    "bidQty": 4000,
-                    "bidprice": 70.25,
+                    "bidQty": 6000,
+                    "bidprice": 67.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2111,10 +2111,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 300,
                     "totalBuyQuantity": 86000,
-                    "totalSellQuantity": 90000,
+                    "totalSellQuantity": 86000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 1,
@@ -2135,7 +2135,7 @@
                     "totalSellQuantity": 6000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 300
@@ -2160,7 +2160,7 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2181,7 +2181,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 305
@@ -2206,7 +2206,7 @@
                     "totalSellQuantity": 98000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 0.15,
@@ -2227,17 +2227,17 @@
                     "totalSellQuantity": 76000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 305
             },
             {
                 "CE": {
-                    "askPrice": 65.1,
-                    "askQty": 2000,
+                    "askPrice": 69,
+                    "askQty": 6000,
                     "bidQty": 6000,
-                    "bidprice": 60.4,
+                    "bidprice": 61.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2249,15 +2249,15 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 310,
                     "totalBuyQuantity": 90000,
-                    "totalSellQuantity": 82000,
+                    "totalSellQuantity": 86000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
-                    "askPrice": 1.4,
+                    "askPrice": 1.3,
                     "askQty": 2000,
-                    "bidQty": 4000,
+                    "bidQty": 2000,
                     "bidprice": 0.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -2269,21 +2269,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 310,
-                    "totalBuyQuantity": 94000,
+                    "totalBuyQuantity": 98000,
                     "totalSellQuantity": 14000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 310
             },
             {
                 "CE": {
-                    "askPrice": 62.8,
-                    "askQty": 2000,
+                    "askPrice": 63.15,
+                    "askQty": 8000,
                     "bidQty": 6000,
-                    "bidprice": 58.45,
+                    "bidprice": 59.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2294,11 +2294,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 310,
-                    "totalBuyQuantity": 104000,
+                    "totalBuyQuantity": 106000,
                     "totalSellQuantity": 100000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 0.1,
@@ -2319,7 +2319,7 @@
                     "totalSellQuantity": 108000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 310
@@ -2329,7 +2329,7 @@
                     "askPrice": 70.7,
                     "askQty": 80000,
                     "bidQty": 6000,
-                    "bidprice": 51.5,
+                    "bidprice": 52.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2344,7 +2344,7 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 315
@@ -2369,7 +2369,7 @@
                     "totalSellQuantity": 98000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 0.15,
@@ -2387,10 +2387,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 315,
                     "totalBuyQuantity": 68000,
-                    "totalSellQuantity": 150000,
+                    "totalSellQuantity": 156000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 315
@@ -2400,7 +2400,7 @@
                     "askPrice": 65.55,
                     "askQty": 80000,
                     "bidQty": 6000,
-                    "bidprice": 46.9,
+                    "bidprice": 47.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2415,17 +2415,17 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 320
             },
             {
                 "CE": {
-                    "askPrice": 51.8,
-                    "askQty": 8000,
-                    "bidQty": 2000,
-                    "bidprice": 49.55,
+                    "askPrice": 51.85,
+                    "askQty": 2000,
+                    "bidQty": 10000,
+                    "bidprice": 49.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2436,32 +2436,32 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 320,
-                    "totalBuyQuantity": 100000,
-                    "totalSellQuantity": 106000,
+                    "totalBuyQuantity": 108000,
+                    "totalSellQuantity": 108000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 0.2,
-                    "askQty": 14000,
-                    "bidQty": 10000,
+                    "askQty": 16000,
+                    "bidQty": 12000,
                     "bidprice": 0.15,
-                    "change": 0,
+                    "change": -0.05000000000000002,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023PE320.00",
                     "impliedVolatility": 0,
-                    "lastPrice": 0,
+                    "lastPrice": 0.15,
                     "openInterest": 285,
-                    "pChange": 0,
+                    "pChange": -25.000000000000007,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 320,
-                    "totalBuyQuantity": 514000,
-                    "totalSellQuantity": 160000,
-                    "totalTradedVolume": 0,
+                    "totalBuyQuantity": 518000,
+                    "totalSellQuantity": 248000,
+                    "totalTradedVolume": 1,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 320
@@ -2486,28 +2486,28 @@
                     "totalSellQuantity": 104000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 0.25,
-                    "askQty": 8000,
+                    "askQty": 20000,
                     "bidQty": 2000,
                     "bidprice": 0.2,
                     "change": -0.04999999999999999,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023PE325.00",
-                    "impliedVolatility": 49.65,
+                    "impliedVolatility": 50.28,
                     "lastPrice": 0.25,
                     "openInterest": 125,
                     "pChange": -16.666666666666664,
                     "pchangeinOpenInterest": -1.5748031496062993,
                     "strikePrice": 325,
-                    "totalBuyQuantity": 328000,
-                    "totalSellQuantity": 200000,
+                    "totalBuyQuantity": 330000,
+                    "totalSellQuantity": 194000,
                     "totalTradedVolume": 22,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 325
@@ -2532,7 +2532,7 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 325
@@ -2557,7 +2557,7 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2578,17 +2578,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 330
             },
             {
                 "CE": {
-                    "askPrice": 41.45,
+                    "askPrice": 42,
                     "askQty": 2000,
                     "bidQty": 2000,
-                    "bidprice": 40.05,
+                    "bidprice": 40.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2599,32 +2599,32 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 330,
-                    "totalBuyQuantity": 156000,
-                    "totalSellQuantity": 136000,
+                    "totalBuyQuantity": 164000,
+                    "totalSellQuantity": 144000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 0.3,
-                    "askQty": 18000,
-                    "bidQty": 18000,
+                    "askQty": 16000,
+                    "bidQty": 4000,
                     "bidprice": 0.25,
-                    "change": -0.04999999999999999,
+                    "change": 0,
                     "changeinOpenInterest": 6,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023PE330.00",
-                    "impliedVolatility": 44.77,
-                    "lastPrice": 0.25,
+                    "impliedVolatility": 45.4,
+                    "lastPrice": 0.3,
                     "openInterest": 612,
-                    "pChange": -16.666666666666664,
+                    "pChange": 0,
                     "pchangeinOpenInterest": 0.9900990099009901,
                     "strikePrice": 330,
-                    "totalBuyQuantity": 1126000,
-                    "totalSellQuantity": 400000,
-                    "totalTradedVolume": 23,
+                    "totalBuyQuantity": 1122000,
+                    "totalSellQuantity": 398000,
+                    "totalTradedVolume": 24,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 330
@@ -2649,7 +2649,7 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2670,17 +2670,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 335
             },
             {
                 "CE": {
-                    "askPrice": 37.2,
-                    "askQty": 2000,
+                    "askPrice": 38.05,
+                    "askQty": 16000,
                     "bidQty": 4000,
-                    "bidprice": 35.35,
+                    "bidprice": 35.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2692,87 +2692,87 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 335,
                     "totalBuyQuantity": 76000,
-                    "totalSellQuantity": 160000,
+                    "totalSellQuantity": 166000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
-                    "askPrice": 0.4,
-                    "askQty": 30000,
-                    "bidQty": 4000,
-                    "bidprice": 0.35,
-                    "change": -0.04999999999999999,
-                    "changeinOpenInterest": 0,
+                    "askPrice": 0.35,
+                    "askQty": 14000,
+                    "bidQty": 18000,
+                    "bidprice": 0.3,
+                    "change": -0.10000000000000003,
+                    "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023PE335.00",
-                    "impliedVolatility": 43.53,
-                    "lastPrice": 0.4,
-                    "openInterest": 173,
-                    "pChange": -11.111111111111107,
-                    "pchangeinOpenInterest": 0,
+                    "impliedVolatility": 44.21,
+                    "lastPrice": 0.35,
+                    "openInterest": 174,
+                    "pChange": -22.22222222222223,
+                    "pchangeinOpenInterest": 0.5780346820809249,
                     "strikePrice": 335,
-                    "totalBuyQuantity": 730000,
-                    "totalSellQuantity": 266000,
-                    "totalTradedVolume": 1,
+                    "totalBuyQuantity": 736000,
+                    "totalSellQuantity": 274000,
+                    "totalTradedVolume": 2,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 335
             },
             {
                 "CE": {
-                    "askPrice": 31.15,
+                    "askPrice": 31.75,
                     "askQty": 2000,
                     "bidQty": 2000,
-                    "bidprice": 30.55,
+                    "bidprice": 31.2,
                     "change": 2.5500000000000007,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023CE340.00",
-                    "impliedVolatility": 33.6,
+                    "impliedVolatility": 0,
                     "lastPrice": 31,
                     "openInterest": 239,
                     "pChange": 8.963093145869951,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 340,
                     "totalBuyQuantity": 176000,
-                    "totalSellQuantity": 174000,
+                    "totalSellQuantity": 168000,
                     "totalTradedVolume": 1,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 0.45,
-                    "askQty": 28000,
-                    "bidQty": 8000,
+                    "askQty": 24000,
+                    "bidQty": 6000,
                     "bidprice": 0.4,
-                    "change": -0.10000000000000003,
+                    "change": -0.15000000000000002,
                     "changeinOpenInterest": -9,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023PE340.00",
-                    "impliedVolatility": 39.26,
-                    "lastPrice": 0.45,
+                    "impliedVolatility": 39.98,
+                    "lastPrice": 0.4,
                     "openInterest": 372,
-                    "pChange": -18.181818181818183,
+                    "pChange": -27.272727272727277,
                     "pchangeinOpenInterest": -2.3622047244094486,
                     "strikePrice": 340,
-                    "totalBuyQuantity": 1414000,
-                    "totalSellQuantity": 354000,
-                    "totalTradedVolume": 20,
+                    "totalBuyQuantity": 1402000,
+                    "totalSellQuantity": 340000,
+                    "totalTradedVolume": 21,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 340
             },
             {
                 "CE": {
-                    "askPrice": 37.65,
-                    "askQty": 2000,
-                    "bidQty": 2000,
-                    "bidprice": 35.85,
+                    "askPrice": 40.9,
+                    "askQty": 6000,
+                    "bidQty": 6000,
+                    "bidprice": 34.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2783,42 +2783,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 340,
-                    "totalBuyQuantity": 102000,
-                    "totalSellQuantity": 82000,
+                    "totalBuyQuantity": 108000,
+                    "totalSellQuantity": 88000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
-                    "askPrice": 4.65,
+                    "askPrice": 4.55,
                     "askQty": 2000,
                     "bidQty": 2000,
-                    "bidprice": 4.45,
-                    "change": -0.9500000000000002,
-                    "changeinOpenInterest": 4,
+                    "bidprice": 4.15,
+                    "change": -0.8999999999999995,
+                    "changeinOpenInterest": 5,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKINDHOTEL29-06-2023PE340.00",
-                    "impliedVolatility": 33.31,
-                    "lastPrice": 4.35,
-                    "openInterest": 270,
-                    "pChange": -17.924528301886795,
-                    "pchangeinOpenInterest": 1.5037593984962405,
+                    "impliedVolatility": 33.72,
+                    "lastPrice": 4.4,
+                    "openInterest": 271,
+                    "pChange": -16.981132075471688,
+                    "pchangeinOpenInterest": 1.8796992481203008,
                     "strikePrice": 340,
-                    "totalBuyQuantity": 136000,
-                    "totalSellQuantity": 42000,
-                    "totalTradedVolume": 17,
+                    "totalBuyQuantity": 134000,
+                    "totalSellQuantity": 46000,
+                    "totalTradedVolume": 20,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 340
             },
             {
                 "CE": {
-                    "askPrice": 26.35,
+                    "askPrice": 26.8,
                     "askQty": 2000,
-                    "bidQty": 4000,
-                    "bidprice": 25.8,
+                    "bidQty": 2000,
+                    "bidprice": 26.2,
                     "change": 3.6999999999999993,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
@@ -2829,32 +2829,32 @@
                     "pChange": 17.249417249417245,
                     "pchangeinOpenInterest": -1.0416666666666667,
                     "strikePrice": 345,
-                    "totalBuyQuantity": 190000,
-                    "totalSellQuantity": 168000,
+                    "totalBuyQuantity": 178000,
+                    "totalSellQuantity": 158000,
                     "totalTradedVolume": 2,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
-                    "askPrice": 0.6,
-                    "askQty": 6000,
-                    "bidQty": 8000,
-                    "bidprice": 0.55,
+                    "askPrice": 0.55,
+                    "askQty": 4000,
+                    "bidQty": 34000,
+                    "bidprice": 0.5,
                     "change": -0.25,
-                    "changeinOpenInterest": -1,
+                    "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023PE345.00",
-                    "impliedVolatility": 36.23,
+                    "impliedVolatility": 36.25,
                     "lastPrice": 0.55,
-                    "openInterest": 260,
+                    "openInterest": 259,
                     "pChange": -31.25,
-                    "pchangeinOpenInterest": -0.3831417624521073,
+                    "pchangeinOpenInterest": -0.7662835249042146,
                     "strikePrice": 345,
-                    "totalBuyQuantity": 626000,
-                    "totalSellQuantity": 302000,
-                    "totalTradedVolume": 16,
+                    "totalBuyQuantity": 622000,
+                    "totalSellQuantity": 306000,
+                    "totalTradedVolume": 18,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 345
@@ -2863,8 +2863,8 @@
                 "CE": {
                     "askPrice": 42.45,
                     "askQty": 80000,
-                    "bidQty": 6000,
-                    "bidprice": 23,
+                    "bidQty": 2000,
+                    "bidprice": 29.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2875,17 +2875,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 345,
-                    "totalBuyQuantity": 88000,
+                    "totalBuyQuantity": 84000,
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 2000,
-                    "bidprice": 2.8,
+                    "bidprice": 2.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2900,63 +2900,63 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 345
             },
             {
                 "CE": {
-                    "askPrice": 21.6,
+                    "askPrice": 22,
                     "askQty": 2000,
                     "bidQty": 2000,
-                    "bidprice": 21.1,
-                    "change": 1.1000000000000014,
-                    "changeinOpenInterest": 0,
+                    "bidprice": 21.55,
+                    "change": 1.9500000000000028,
+                    "changeinOpenInterest": -25,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023CE350.00",
-                    "impliedVolatility": 23.58,
-                    "lastPrice": 21,
-                    "openInterest": 303,
-                    "pChange": 5.527638190954781,
-                    "pchangeinOpenInterest": 0,
+                    "impliedVolatility": 0,
+                    "lastPrice": 21.85,
+                    "openInterest": 278,
+                    "pChange": 9.798994974874386,
+                    "pchangeinOpenInterest": -8.250825082508252,
                     "strikePrice": 350,
-                    "totalBuyQuantity": 210000,
-                    "totalSellQuantity": 198000,
-                    "totalTradedVolume": 23,
+                    "totalBuyQuantity": 200000,
+                    "totalSellQuantity": 190000,
+                    "totalTradedVolume": 29,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
-                    "askPrice": 0.9,
-                    "askQty": 6000,
-                    "bidQty": 2000,
-                    "bidprice": 0.85,
-                    "change": -0.4,
-                    "changeinOpenInterest": 3,
+                    "askPrice": 0.8,
+                    "askQty": 4000,
+                    "bidQty": 32000,
+                    "bidprice": 0.75,
+                    "change": -0.44999999999999996,
+                    "changeinOpenInterest": 4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023PE350.00",
-                    "impliedVolatility": 34.07,
-                    "lastPrice": 0.85,
-                    "openInterest": 568,
-                    "pChange": -32,
-                    "pchangeinOpenInterest": 0.5309734513274337,
+                    "impliedVolatility": 34.36,
+                    "lastPrice": 0.8,
+                    "openInterest": 569,
+                    "pChange": -36,
+                    "pchangeinOpenInterest": 0.7079646017699115,
                     "strikePrice": 350,
-                    "totalBuyQuantity": 1974000,
-                    "totalSellQuantity": 380000,
-                    "totalTradedVolume": 68,
+                    "totalBuyQuantity": 1966000,
+                    "totalSellQuantity": 386000,
+                    "totalTradedVolume": 73,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 350
             },
             {
                 "CE": {
-                    "askPrice": 30.05,
-                    "askQty": 2000,
-                    "bidQty": 4000,
-                    "bidprice": 28.15,
+                    "askPrice": 30.6,
+                    "askQty": 4000,
+                    "bidQty": 6000,
+                    "bidprice": 24.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2967,42 +2967,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 350,
-                    "totalBuyQuantity": 58000,
+                    "totalBuyQuantity": 66000,
                     "totalSellQuantity": 84000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
-                    "askPrice": 7.2,
+                    "askPrice": 7.05,
                     "askQty": 2000,
-                    "bidQty": 2000,
-                    "bidprice": 6.75,
+                    "bidQty": 4000,
+                    "bidprice": 6.5,
                     "change": -0.35000000000000053,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKINDHOTEL29-06-2023PE350.00",
-                    "impliedVolatility": 35.04,
+                    "impliedVolatility": 35.52,
                     "lastPrice": 7.55,
                     "openInterest": 47,
                     "pChange": -4.430379746835449,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 350,
                     "totalBuyQuantity": 98000,
-                    "totalSellQuantity": 22000,
+                    "totalSellQuantity": 20000,
                     "totalTradedVolume": 1,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 350
             },
             {
                 "CE": {
-                    "askPrice": 16.95,
+                    "askPrice": 17.35,
                     "askQty": 2000,
                     "bidQty": 2000,
-                    "bidprice": 16.3,
+                    "bidprice": 16.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3013,42 +3013,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 355,
-                    "totalBuyQuantity": 186000,
-                    "totalSellQuantity": 170000,
+                    "totalBuyQuantity": 184000,
+                    "totalSellQuantity": 158000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 1.25,
-                    "askQty": 2000,
+                    "askQty": 6000,
                     "bidQty": 6000,
-                    "bidprice": 1.2,
-                    "change": -0.6499999999999999,
-                    "changeinOpenInterest": 2,
+                    "bidprice": 1.15,
+                    "change": -0.7,
+                    "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023PE355.00",
-                    "impliedVolatility": 32.23,
-                    "lastPrice": 1.25,
-                    "openInterest": 222,
-                    "pChange": -34.210526315789465,
-                    "pchangeinOpenInterest": 0.9090909090909091,
+                    "impliedVolatility": 31.93,
+                    "lastPrice": 1.2,
+                    "openInterest": 221,
+                    "pChange": -36.84210526315789,
+                    "pchangeinOpenInterest": 0.45454545454545453,
                     "strikePrice": 355,
-                    "totalBuyQuantity": 280000,
-                    "totalSellQuantity": 346000,
-                    "totalTradedVolume": 37,
+                    "totalBuyQuantity": 278000,
+                    "totalSellQuantity": 342000,
+                    "totalTradedVolume": 42,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 355
             },
             {
                 "CE": {
-                    "askPrice": 28.95,
+                    "askPrice": 29.45,
                     "askQty": 2000,
                     "bidQty": 2000,
-                    "bidprice": 21.45,
+                    "bidprice": 22.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3059,11 +3059,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 355,
-                    "totalBuyQuantity": 82000,
+                    "totalBuyQuantity": 84000,
                     "totalSellQuantity": 82000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3084,109 +3084,180 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 355
             },
             {
                 "CE": {
-                    "askPrice": 22.55,
+                    "askPrice": 22.75,
                     "askQty": 2000,
                     "bidQty": 2000,
-                    "bidprice": 22.05,
-                    "change": 0.5,
-                    "changeinOpenInterest": -10,
+                    "bidprice": 22.2,
+                    "change": 1.1000000000000014,
+                    "changeinOpenInterest": -31,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKINDHOTEL29-06-2023CE360.00",
-                    "impliedVolatility": 28.23,
-                    "lastPrice": 22.15,
-                    "openInterest": 196,
-                    "pChange": 2.3094688221709005,
-                    "pchangeinOpenInterest": -4.854368932038835,
+                    "impliedVolatility": 27.09,
+                    "lastPrice": 22.75,
+                    "openInterest": 175,
+                    "pChange": 5.080831408775988,
+                    "pchangeinOpenInterest": -15.048543689320388,
                     "strikePrice": 360,
-                    "totalBuyQuantity": 166000,
-                    "totalSellQuantity": 178000,
-                    "totalTradedVolume": 59,
+                    "totalBuyQuantity": 164000,
+                    "totalSellQuantity": 166000,
+                    "totalTradedVolume": 61,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
-                    "askPrice": 10.5,
+                    "askPrice": 10.35,
                     "askQty": 2000,
                     "bidQty": 2000,
-                    "bidprice": 9.85,
-                    "change": -1.6999999999999993,
-                    "changeinOpenInterest": 1,
+                    "bidprice": 9.45,
+                    "change": -2.049999999999999,
+                    "changeinOpenInterest": 2,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKINDHOTEL29-06-2023PE360.00",
-                    "impliedVolatility": 32.88,
-                    "lastPrice": 10,
-                    "openInterest": 83,
-                    "pChange": -14.529914529914526,
-                    "pchangeinOpenInterest": 1.2195121951219512,
+                    "impliedVolatility": 33.43,
+                    "lastPrice": 9.65,
+                    "openInterest": 84,
+                    "pChange": -17.521367521367516,
+                    "pchangeinOpenInterest": 2.4390243902439024,
                     "strikePrice": 360,
-                    "totalBuyQuantity": 24000,
-                    "totalSellQuantity": 36000,
-                    "totalTradedVolume": 4,
+                    "totalBuyQuantity": 6000,
+                    "totalSellQuantity": 18000,
+                    "totalTradedVolume": 5,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 360
             },
             {
                 "CE": {
-                    "askPrice": 12.7,
-                    "askQty": 4000,
-                    "bidQty": 10000,
-                    "bidprice": 12.4,
-                    "change": 1.1999999999999993,
-                    "changeinOpenInterest": -14,
+                    "askPrice": 13.1,
+                    "askQty": 2000,
+                    "bidQty": 4000,
+                    "bidprice": 12.9,
+                    "change": 1.549999999999999,
+                    "changeinOpenInterest": -17,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023CE360.00",
-                    "impliedVolatility": 26.7,
-                    "lastPrice": 12.6,
-                    "openInterest": 541,
-                    "pChange": 10.526315789473678,
-                    "pchangeinOpenInterest": -2.5225225225225225,
+                    "impliedVolatility": 23.29,
+                    "lastPrice": 12.95,
+                    "openInterest": 538,
+                    "pChange": 13.596491228070166,
+                    "pchangeinOpenInterest": -3.063063063063063,
                     "strikePrice": 360,
-                    "totalBuyQuantity": 234000,
-                    "totalSellQuantity": 288000,
-                    "totalTradedVolume": 134,
+                    "totalBuyQuantity": 240000,
+                    "totalSellQuantity": 292000,
+                    "totalTradedVolume": 144,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
-                    "askPrice": 2.15,
+                    "askPrice": 2.1,
                     "askQty": 8000,
-                    "bidQty": 32000,
+                    "bidQty": 2000,
                     "bidprice": 2,
-                    "change": -0.9499999999999997,
-                    "changeinOpenInterest": 17,
+                    "change": -1.0499999999999998,
+                    "changeinOpenInterest": 34,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023PE360.00",
-                    "impliedVolatility": 31.22,
-                    "lastPrice": 2.1,
-                    "openInterest": 431,
-                    "pChange": -31.147540983606554,
-                    "pchangeinOpenInterest": 4.106280193236715,
+                    "impliedVolatility": 31.05,
+                    "lastPrice": 2,
+                    "openInterest": 448,
+                    "pChange": -34.42622950819671,
+                    "pchangeinOpenInterest": 8.21256038647343,
                     "strikePrice": 360,
-                    "totalBuyQuantity": 324000,
-                    "totalSellQuantity": 416000,
-                    "totalTradedVolume": 121,
+                    "totalBuyQuantity": 306000,
+                    "totalSellQuantity": 454000,
+                    "totalTradedVolume": 145,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 360
             },
             {
                 "CE": {
-                    "askPrice": 23.45,
-                    "askQty": 2000,
+                    "askPrice": 0,
+                    "askQty": 0,
                     "bidQty": 0,
                     "bidprice": 0,
+                    "change": 0,
+                    "changeinOpenInterest": 0,
+                    "expiryDate": "27-Jul-2023",
+                    "identifier": "OPTSTKINDHOTEL27-07-2023CE360.00",
+                    "impliedVolatility": 0,
+                    "lastPrice": 0,
+                    "openInterest": 1,
+                    "pChange": 0,
+                    "pchangeinOpenInterest": 0,
+                    "strikePrice": 360,
+                    "totalBuyQuantity": 0,
+                    "totalSellQuantity": 0,
+                    "totalTradedVolume": 0,
+                    "underlying": "INDHOTEL",
+                    "underlyingValue": 371.45
+                },
+                "expiryDate": "27-Jul-2023",
+                "strikePrice": 360
+            },
+            {
+                "CE": {
+                    "askPrice": 9.4,
+                    "askQty": 2000,
+                    "bidQty": 8000,
+                    "bidprice": 9.2,
+                    "change": 1.1499999999999986,
+                    "changeinOpenInterest": -43,
+                    "expiryDate": "25-May-2023",
+                    "identifier": "OPTSTKINDHOTEL25-05-2023CE365.00",
+                    "impliedVolatility": 24.18,
+                    "lastPrice": 9.45,
+                    "openInterest": 268,
+                    "pChange": 13.855421686746968,
+                    "pchangeinOpenInterest": -13.82636655948553,
+                    "strikePrice": 365,
+                    "totalBuyQuantity": 246000,
+                    "totalSellQuantity": 310000,
+                    "totalTradedVolume": 160,
+                    "underlying": "INDHOTEL",
+                    "underlyingValue": 371.45
+                },
+                "PE": {
+                    "askPrice": 3.4,
+                    "askQty": 4000,
+                    "bidQty": 2000,
+                    "bidprice": 3.25,
+                    "change": -1.6000000000000005,
+                    "changeinOpenInterest": 10,
+                    "expiryDate": "25-May-2023",
+                    "identifier": "OPTSTKINDHOTEL25-05-2023PE365.00",
+                    "impliedVolatility": 30.53,
+                    "lastPrice": 3.3,
+                    "openInterest": 287,
+                    "pChange": -32.653061224489804,
+                    "pchangeinOpenInterest": 3.6101083032490973,
+                    "strikePrice": 365,
+                    "totalBuyQuantity": 336000,
+                    "totalSellQuantity": 310000,
+                    "totalTradedVolume": 124,
+                    "underlying": "INDHOTEL",
+                    "underlyingValue": 371.45
+                },
+                "expiryDate": "25-May-2023",
+                "strikePrice": 365
+            },
+            {
+                "CE": {
+                    "askPrice": 21.65,
+                    "askQty": 4000,
+                    "bidQty": 4000,
+                    "bidprice": 14.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3197,15 +3268,15 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 365,
-                    "totalBuyQuantity": 0,
-                    "totalSellQuantity": 86000,
+                    "totalBuyQuantity": 6000,
+                    "totalSellQuantity": 96000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
-                    "askPrice": 0,
-                    "askQty": 0,
+                    "askPrice": 17.55,
+                    "askQty": 2000,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -3219,17 +3290,17 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 365,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 0,
+                    "totalSellQuantity": 2000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 365
             },
             {
                 "CE": {
-                    "askPrice": 31.95,
+                    "askPrice": 32.25,
                     "askQty": 2000,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -3247,152 +3318,106 @@
                     "totalSellQuantity": 2000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 365
             },
             {
                 "CE": {
-                    "askPrice": 9.15,
-                    "askQty": 4000,
-                    "bidQty": 4000,
-                    "bidprice": 8.95,
-                    "change": 0.5999999999999996,
-                    "changeinOpenInterest": -42,
-                    "expiryDate": "25-May-2023",
-                    "identifier": "OPTSTKINDHOTEL25-05-2023CE365.00",
-                    "impliedVolatility": 23.77,
-                    "lastPrice": 8.9,
-                    "openInterest": 269,
-                    "pChange": 7.228915662650598,
-                    "pchangeinOpenInterest": -13.504823151125402,
-                    "strikePrice": 365,
-                    "totalBuyQuantity": 240000,
-                    "totalSellQuantity": 308000,
-                    "totalTradedVolume": 151,
-                    "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
-                },
-                "PE": {
-                    "askPrice": 3.5,
-                    "askQty": 6000,
-                    "bidQty": 8000,
-                    "bidprice": 3.35,
-                    "change": -1.4500000000000002,
-                    "changeinOpenInterest": 9,
-                    "expiryDate": "25-May-2023",
-                    "identifier": "OPTSTKINDHOTEL25-05-2023PE365.00",
-                    "impliedVolatility": 31.57,
-                    "lastPrice": 3.45,
-                    "openInterest": 286,
-                    "pChange": -29.591836734693878,
-                    "pchangeinOpenInterest": 3.2490974729241877,
-                    "strikePrice": 365,
-                    "totalBuyQuantity": 330000,
-                    "totalSellQuantity": 320000,
-                    "totalTradedVolume": 110,
-                    "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
-                },
-                "expiryDate": "25-May-2023",
-                "strikePrice": 365
-            },
-            {
-                "CE": {
-                    "askPrice": 6.25,
+                    "askPrice": 17.45,
                     "askQty": 2000,
-                    "bidQty": 4000,
-                    "bidprice": 6.1,
-                    "change": 0.5,
-                    "changeinOpenInterest": 8,
-                    "expiryDate": "25-May-2023",
-                    "identifier": "OPTSTKINDHOTEL25-05-2023CE370.00",
-                    "impliedVolatility": 26.24,
-                    "lastPrice": 6.25,
-                    "openInterest": 1045,
-                    "pChange": 8.695652173913043,
-                    "pchangeinOpenInterest": 0.7714561234329798,
-                    "strikePrice": 370,
-                    "totalBuyQuantity": 550000,
-                    "totalSellQuantity": 894000,
-                    "totalTradedVolume": 750,
-                    "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
-                },
-                "PE": {
-                    "askPrice": 5.65,
-                    "askQty": 8000,
-                    "bidQty": 4000,
-                    "bidprice": 5.5,
-                    "change": -1.6500000000000004,
-                    "changeinOpenInterest": 21,
-                    "expiryDate": "25-May-2023",
-                    "identifier": "OPTSTKINDHOTEL25-05-2023PE370.00",
-                    "impliedVolatility": 31.43,
-                    "lastPrice": 5.6,
-                    "openInterest": 313,
-                    "pChange": -22.758620689655178,
-                    "pchangeinOpenInterest": 7.191780821917808,
-                    "strikePrice": 370,
-                    "totalBuyQuantity": 412000,
-                    "totalSellQuantity": 322000,
-                    "totalTradedVolume": 194,
-                    "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
-                },
-                "expiryDate": "25-May-2023",
-                "strikePrice": 370
-            },
-            {
-                "CE": {
-                    "askPrice": 17.35,
-                    "askQty": 4000,
-                    "bidQty": 4000,
-                    "bidprice": 16.95,
-                    "change": 0.4499999999999993,
+                    "bidQty": 2000,
+                    "bidprice": 17.2,
+                    "change": 0.6999999999999993,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKINDHOTEL29-06-2023CE370.00",
-                    "impliedVolatility": 29.85,
-                    "lastPrice": 17.15,
+                    "impliedVolatility": 28.98,
+                    "lastPrice": 17.4,
                     "openInterest": 127,
-                    "pChange": 2.6946107784431095,
+                    "pChange": 4.191616766467062,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 370,
-                    "totalBuyQuantity": 126000,
-                    "totalSellQuantity": 112000,
-                    "totalTradedVolume": 12,
+                    "totalBuyQuantity": 116000,
+                    "totalSellQuantity": 110000,
+                    "totalTradedVolume": 15,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
-                    "askPrice": 15.4,
+                    "askPrice": 15.05,
                     "askQty": 2000,
-                    "bidQty": 4000,
-                    "bidprice": 14.55,
-                    "change": 0,
+                    "bidQty": 2000,
+                    "bidprice": 14.25,
+                    "change": -2.5,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKINDHOTEL29-06-2023PE370.00",
                     "impliedVolatility": 0,
-                    "lastPrice": 0,
+                    "lastPrice": 14.5,
                     "openInterest": 13,
-                    "pChange": 0,
+                    "pChange": -14.705882352941178,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 370,
-                    "totalBuyQuantity": 106000,
-                    "totalSellQuantity": 16000,
-                    "totalTradedVolume": 0,
+                    "totalBuyQuantity": 110000,
+                    "totalSellQuantity": 18000,
+                    "totalTradedVolume": 2,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 370
             },
             {
                 "CE": {
-                    "askPrice": 29.4,
+                    "askPrice": 6.5,
+                    "askQty": 4000,
+                    "bidQty": 8000,
+                    "bidprice": 6.4,
+                    "change": 0.6500000000000004,
+                    "changeinOpenInterest": 4,
+                    "expiryDate": "25-May-2023",
+                    "identifier": "OPTSTKINDHOTEL25-05-2023CE370.00",
+                    "impliedVolatility": 26.45,
+                    "lastPrice": 6.4,
+                    "openInterest": 1041,
+                    "pChange": 11.304347826086962,
+                    "pchangeinOpenInterest": 0.3857280617164899,
+                    "strikePrice": 370,
+                    "totalBuyQuantity": 544000,
+                    "totalSellQuantity": 894000,
+                    "totalTradedVolume": 807,
+                    "underlying": "INDHOTEL",
+                    "underlyingValue": 371.45
+                },
+                "PE": {
+                    "askPrice": 5.45,
+                    "askQty": 14000,
+                    "bidQty": 2000,
+                    "bidprice": 5.35,
+                    "change": -1.8499999999999996,
+                    "changeinOpenInterest": 26,
+                    "expiryDate": "25-May-2023",
+                    "identifier": "OPTSTKINDHOTEL25-05-2023PE370.00",
+                    "impliedVolatility": 31.17,
+                    "lastPrice": 5.4,
+                    "openInterest": 318,
+                    "pChange": -25.51724137931034,
+                    "pchangeinOpenInterest": 8.904109589041095,
+                    "strikePrice": 370,
+                    "totalBuyQuantity": 396000,
+                    "totalSellQuantity": 336000,
+                    "totalTradedVolume": 219,
+                    "underlying": "INDHOTEL",
+                    "underlyingValue": 371.45
+                },
+                "expiryDate": "25-May-2023",
+                "strikePrice": 370
+            },
+            {
+                "CE": {
+                    "askPrice": 29.7,
                     "askQty": 2000,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -3410,88 +3435,63 @@
                     "totalSellQuantity": 2000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 370
             },
             {
                 "CE": {
-                    "askPrice": 4.1,
-                    "askQty": 4000,
-                    "bidQty": 2000,
-                    "bidprice": 4.05,
-                    "change": 0.1499999999999999,
-                    "changeinOpenInterest": 16,
+                    "askPrice": 4.25,
+                    "askQty": 2000,
+                    "bidQty": 6000,
+                    "bidprice": 4.15,
+                    "change": 0.3999999999999999,
+                    "changeinOpenInterest": 17,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023CE375.00",
-                    "impliedVolatility": 28.12,
-                    "lastPrice": 4,
-                    "openInterest": 606,
-                    "pChange": 3.896103896103894,
-                    "pchangeinOpenInterest": 2.711864406779661,
+                    "impliedVolatility": 27.35,
+                    "lastPrice": 4.25,
+                    "openInterest": 607,
+                    "pChange": 10.389610389610388,
+                    "pchangeinOpenInterest": 2.8813559322033897,
                     "strikePrice": 375,
-                    "totalBuyQuantity": 506000,
-                    "totalSellQuantity": 598000,
-                    "totalTradedVolume": 385,
+                    "totalBuyQuantity": 488000,
+                    "totalSellQuantity": 584000,
+                    "totalTradedVolume": 410,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
-                    "askPrice": 8.6,
-                    "askQty": 4000,
-                    "bidQty": 2000,
-                    "bidprice": 8.35,
-                    "change": -1.9000000000000004,
-                    "changeinOpenInterest": -2,
+                    "askPrice": 8.3,
+                    "askQty": 2000,
+                    "bidQty": 8000,
+                    "bidprice": 8.05,
+                    "change": -1.9499999999999993,
+                    "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023PE375.00",
-                    "impliedVolatility": 31.74,
-                    "lastPrice": 8.35,
-                    "openInterest": 121,
-                    "pChange": -18.53658536585366,
-                    "pchangeinOpenInterest": -1.6260162601626016,
+                    "impliedVolatility": 31.68,
+                    "lastPrice": 8.3,
+                    "openInterest": 122,
+                    "pChange": -19.02439024390243,
+                    "pchangeinOpenInterest": -0.8130081300813008,
                     "strikePrice": 375,
-                    "totalBuyQuantity": 242000,
-                    "totalSellQuantity": 202000,
-                    "totalTradedVolume": 27,
+                    "totalBuyQuantity": 224000,
+                    "totalSellQuantity": 198000,
+                    "totalTradedVolume": 30,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 375
             },
             {
                 "CE": {
-                    "askPrice": 0,
-                    "askQty": 0,
-                    "bidQty": 0,
-                    "bidprice": 0,
-                    "change": 0,
-                    "changeinOpenInterest": 0,
-                    "expiryDate": "27-Jul-2023",
-                    "identifier": "OPTSTKINDHOTEL27-07-2023CE375.00",
-                    "impliedVolatility": 0,
-                    "lastPrice": 0,
-                    "openInterest": 0,
-                    "pChange": 0,
-                    "pchangeinOpenInterest": 0,
-                    "strikePrice": 375,
-                    "totalBuyQuantity": 0,
-                    "totalSellQuantity": 0,
-                    "totalTradedVolume": 0,
-                    "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
-                },
-                "expiryDate": "27-Jul-2023",
-                "strikePrice": 375
-            },
-            {
-                "CE": {
-                    "askPrice": 15.35,
+                    "askPrice": 15.6,
                     "askQty": 2000,
                     "bidQty": 2000,
-                    "bidprice": 14.55,
+                    "bidprice": 14.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3506,7 +3506,7 @@
                     "totalSellQuantity": 226000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 38.1,
@@ -3527,84 +3527,109 @@
                     "totalSellQuantity": 2000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 375
             },
             {
                 "CE": {
-                    "askPrice": 2.65,
-                    "askQty": 4000,
+                    "askPrice": 27.2,
+                    "askQty": 2000,
+                    "bidQty": 0,
+                    "bidprice": 0,
+                    "change": 0,
+                    "changeinOpenInterest": 0,
+                    "expiryDate": "27-Jul-2023",
+                    "identifier": "OPTSTKINDHOTEL27-07-2023CE375.00",
+                    "impliedVolatility": 0,
+                    "lastPrice": 0,
+                    "openInterest": 0,
+                    "pChange": 0,
+                    "pchangeinOpenInterest": 0,
+                    "strikePrice": 375,
+                    "totalBuyQuantity": 0,
+                    "totalSellQuantity": 2000,
+                    "totalTradedVolume": 0,
+                    "underlying": "INDHOTEL",
+                    "underlyingValue": 371.45
+                },
+                "expiryDate": "27-Jul-2023",
+                "strikePrice": 375
+            },
+            {
+                "CE": {
+                    "askPrice": 2.8,
+                    "askQty": 14000,
                     "bidQty": 8000,
-                    "bidprice": 2.6,
-                    "change": 0.10000000000000009,
-                    "changeinOpenInterest": -58,
+                    "bidprice": 2.7,
+                    "change": 0.20000000000000018,
+                    "changeinOpenInterest": -56,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023CE380.00",
-                    "impliedVolatility": 28.64,
-                    "lastPrice": 2.65,
-                    "openInterest": 1384,
-                    "pChange": 3.921568627450984,
-                    "pchangeinOpenInterest": -4.0221914008321775,
+                    "impliedVolatility": 28.56,
+                    "lastPrice": 2.75,
+                    "openInterest": 1386,
+                    "pChange": 7.843137254901968,
+                    "pchangeinOpenInterest": -3.883495145631068,
                     "strikePrice": 380,
-                    "totalBuyQuantity": 440000,
-                    "totalSellQuantity": 1132000,
-                    "totalTradedVolume": 400,
+                    "totalBuyQuantity": 448000,
+                    "totalSellQuantity": 724000,
+                    "totalTradedVolume": 426,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
-                    "askPrice": 12.2,
-                    "askQty": 2000,
-                    "bidQty": 2000,
-                    "bidprice": 11.85,
-                    "change": -1.3499999999999996,
-                    "changeinOpenInterest": 1,
+                    "askPrice": 11.85,
+                    "askQty": 4000,
+                    "bidQty": 4000,
+                    "bidprice": 11.55,
+                    "change": -2,
+                    "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023PE380.00",
-                    "impliedVolatility": 33.89,
-                    "lastPrice": 12.5,
-                    "openInterest": 75,
-                    "pChange": -9.747292418772561,
-                    "pchangeinOpenInterest": 1.3513513513513513,
+                    "impliedVolatility": 36.64,
+                    "lastPrice": 11.85,
+                    "openInterest": 76,
+                    "pChange": -14.440433212996389,
+                    "pchangeinOpenInterest": 2.7027027027027026,
                     "strikePrice": 380,
-                    "totalBuyQuantity": 200000,
-                    "totalSellQuantity": 184000,
-                    "totalTradedVolume": 3,
+                    "totalBuyQuantity": 196000,
+                    "totalSellQuantity": 186000,
+                    "totalTradedVolume": 4,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 380
             },
             {
                 "CE": {
-                    "askPrice": 12.85,
+                    "askPrice": 12.95,
                     "askQty": 4000,
-                    "bidQty": 2000,
-                    "bidprice": 12.6,
-                    "change": 0.40000000000000036,
+                    "bidQty": 4000,
+                    "bidprice": 12.7,
+                    "change": 0.45000000000000107,
                     "changeinOpenInterest": 3,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKINDHOTEL29-06-2023CE380.00",
-                    "impliedVolatility": 30.22,
-                    "lastPrice": 12.85,
+                    "impliedVolatility": 29.92,
+                    "lastPrice": 12.9,
                     "openInterest": 416,
-                    "pChange": 3.212851405622493,
+                    "pChange": 3.61445783132531,
                     "pchangeinOpenInterest": 0.7263922518159807,
                     "strikePrice": 380,
-                    "totalBuyQuantity": 256000,
-                    "totalSellQuantity": 268000,
-                    "totalTradedVolume": 83,
+                    "totalBuyQuantity": 258000,
+                    "totalSellQuantity": 270000,
+                    "totalTradedVolume": 84,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
-                    "askPrice": 21,
+                    "askPrice": 20.6,
                     "askQty": 2000,
                     "bidQty": 2000,
-                    "bidprice": 20,
+                    "bidprice": 19.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3615,19 +3640,19 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 380,
-                    "totalBuyQuantity": 6000,
+                    "totalBuyQuantity": 8000,
                     "totalSellQuantity": 6000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 380
             },
             {
                 "CE": {
-                    "askPrice": 0,
-                    "askQty": 0,
+                    "askPrice": 24.85,
+                    "askQty": 2000,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -3641,66 +3666,66 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 380,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 0,
+                    "totalSellQuantity": 2000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 380
             },
             {
                 "CE": {
-                    "askPrice": 1.7,
-                    "askQty": 10000,
-                    "bidQty": 6000,
-                    "bidprice": 1.6,
-                    "change": 0.04999999999999982,
+                    "askPrice": 1.75,
+                    "askQty": 6000,
+                    "bidQty": 8000,
+                    "bidprice": 1.65,
+                    "change": 0.09999999999999987,
                     "changeinOpenInterest": 26,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023CE385.00",
-                    "impliedVolatility": 30.56,
-                    "lastPrice": 1.65,
+                    "impliedVolatility": 29.52,
+                    "lastPrice": 1.7,
                     "openInterest": 404,
-                    "pChange": 3.124999999999989,
+                    "pChange": 6.249999999999992,
                     "pchangeinOpenInterest": 6.878306878306878,
                     "strikePrice": 385,
-                    "totalBuyQuantity": 260000,
-                    "totalSellQuantity": 510000,
-                    "totalTradedVolume": 254,
+                    "totalBuyQuantity": 270000,
+                    "totalSellQuantity": 504000,
+                    "totalTradedVolume": 258,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
-                    "askPrice": 16.3,
+                    "askPrice": 15.9,
                     "askQty": 2000,
                     "bidQty": 2000,
-                    "bidprice": 15.65,
+                    "bidprice": 15.3,
                     "change": 1.3000000000000007,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023PE385.00",
-                    "impliedVolatility": 33.89,
+                    "impliedVolatility": 37.49,
                     "lastPrice": 16.25,
                     "openInterest": 8,
                     "pChange": 8.695652173913048,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 385,
-                    "totalBuyQuantity": 106000,
+                    "totalBuyQuantity": 116000,
                     "totalSellQuantity": 114000,
                     "totalTradedVolume": 1,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 385
             },
             {
                 "CE": {
-                    "askPrice": 11.65,
-                    "askQty": 4000,
+                    "askPrice": 11.75,
+                    "askQty": 2000,
                     "bidQty": 2000,
-                    "bidprice": 9.4,
+                    "bidprice": 9.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3711,11 +3736,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 385,
-                    "totalBuyQuantity": 164000,
+                    "totalBuyQuantity": 162000,
                     "totalSellQuantity": 168000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 45.45,
@@ -3736,38 +3761,38 @@
                     "totalSellQuantity": 8000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 385
             },
             {
                 "CE": {
-                    "askPrice": 1.05,
-                    "askQty": 4000,
-                    "bidQty": 108000,
-                    "bidprice": 1,
-                    "change": 0,
-                    "changeinOpenInterest": -10,
+                    "askPrice": 1.1,
+                    "askQty": 2000,
+                    "bidQty": 10000,
+                    "bidprice": 1.05,
+                    "change": 0.050000000000000044,
+                    "changeinOpenInterest": -13,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023CE390.00",
-                    "impliedVolatility": 31.77,
-                    "lastPrice": 1.05,
-                    "openInterest": 989,
-                    "pChange": 0,
-                    "pchangeinOpenInterest": -1.001001001001001,
+                    "impliedVolatility": 30.87,
+                    "lastPrice": 1.1,
+                    "openInterest": 986,
+                    "pChange": 4.761904761904765,
+                    "pchangeinOpenInterest": -1.3013013013013013,
                     "strikePrice": 390,
-                    "totalBuyQuantity": 2028000,
-                    "totalSellQuantity": 506000,
-                    "totalTradedVolume": 133,
+                    "totalBuyQuantity": 2034000,
+                    "totalSellQuantity": 498000,
+                    "totalTradedVolume": 146,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 20.95,
-                    "askQty": 2000,
+                    "askQty": 8000,
                     "bidQty": 2000,
-                    "bidprice": 20.25,
+                    "bidprice": 19.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3778,59 +3803,13 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 390,
-                    "totalBuyQuantity": 104000,
-                    "totalSellQuantity": 100000,
+                    "totalBuyQuantity": 114000,
+                    "totalSellQuantity": 116000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
-                "strikePrice": 390
-            },
-            {
-                "CE": {
-                    "askPrice": 9.3,
-                    "askQty": 4000,
-                    "bidQty": 2000,
-                    "bidprice": 8.95,
-                    "change": 0.3500000000000014,
-                    "changeinOpenInterest": -3,
-                    "expiryDate": "29-Jun-2023",
-                    "identifier": "OPTSTKINDHOTEL29-06-2023CE390.00",
-                    "impliedVolatility": 30.42,
-                    "lastPrice": 9.05,
-                    "openInterest": 41,
-                    "pChange": 4.022988505747143,
-                    "pchangeinOpenInterest": -6.818181818181818,
-                    "strikePrice": 390,
-                    "totalBuyQuantity": 118000,
-                    "totalSellQuantity": 208000,
-                    "totalTradedVolume": 9,
-                    "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
-                },
-                "PE": {
-                    "askPrice": 28.45,
-                    "askQty": 6000,
-                    "bidQty": 6000,
-                    "bidprice": 19.7,
-                    "change": 0,
-                    "changeinOpenInterest": 0,
-                    "expiryDate": "29-Jun-2023",
-                    "identifier": "OPTSTKINDHOTEL29-06-2023PE390.00",
-                    "impliedVolatility": 0,
-                    "lastPrice": 0,
-                    "openInterest": 0,
-                    "pChange": 0,
-                    "pchangeinOpenInterest": 0,
-                    "strikePrice": 390,
-                    "totalBuyQuantity": 12000,
-                    "totalSellQuantity": 8000,
-                    "totalTradedVolume": 0,
-                    "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
-                },
-                "expiryDate": "29-Jun-2023",
                 "strikePrice": 390
             },
             {
@@ -3853,38 +3832,84 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 390
             },
             {
                 "CE": {
+                    "askPrice": 9.45,
+                    "askQty": 2000,
+                    "bidQty": 2000,
+                    "bidprice": 9.1,
+                    "change": 0.5500000000000007,
+                    "changeinOpenInterest": -3,
+                    "expiryDate": "29-Jun-2023",
+                    "identifier": "OPTSTKINDHOTEL29-06-2023CE390.00",
+                    "impliedVolatility": 29.84,
+                    "lastPrice": 9.25,
+                    "openInterest": 41,
+                    "pChange": 6.321839080459779,
+                    "pchangeinOpenInterest": -6.818181818181818,
+                    "strikePrice": 390,
+                    "totalBuyQuantity": 122000,
+                    "totalSellQuantity": 210000,
+                    "totalTradedVolume": 10,
+                    "underlying": "INDHOTEL",
+                    "underlyingValue": 371.45
+                },
+                "PE": {
+                    "askPrice": 27.5,
+                    "askQty": 2000,
+                    "bidQty": 8000,
+                    "bidprice": 14.25,
+                    "change": 0,
+                    "changeinOpenInterest": 0,
+                    "expiryDate": "29-Jun-2023",
+                    "identifier": "OPTSTKINDHOTEL29-06-2023PE390.00",
+                    "impliedVolatility": 0,
+                    "lastPrice": 0,
+                    "openInterest": 0,
+                    "pChange": 0,
+                    "pchangeinOpenInterest": 0,
+                    "strikePrice": 390,
+                    "totalBuyQuantity": 10000,
+                    "totalSellQuantity": 2000,
+                    "totalTradedVolume": 0,
+                    "underlying": "INDHOTEL",
+                    "underlyingValue": 371.45
+                },
+                "expiryDate": "29-Jun-2023",
+                "strikePrice": 390
+            },
+            {
+                "CE": {
                     "askPrice": 0.75,
                     "askQty": 6000,
-                    "bidQty": 6000,
+                    "bidQty": 20000,
                     "bidprice": 0.65,
-                    "change": 0,
+                    "change": -0.050000000000000044,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023CE395.00",
-                    "impliedVolatility": 33.97,
-                    "lastPrice": 0.75,
+                    "impliedVolatility": 33.15,
+                    "lastPrice": 0.7,
                     "openInterest": 259,
-                    "pChange": 0,
+                    "pChange": -6.666666666666672,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 395,
-                    "totalBuyQuantity": 476000,
-                    "totalSellQuantity": 316000,
-                    "totalTradedVolume": 28,
+                    "totalBuyQuantity": 484000,
+                    "totalSellQuantity": 318000,
+                    "totalTradedVolume": 30,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
-                    "askPrice": 25.95,
-                    "askQty": 8000,
-                    "bidQty": 2000,
-                    "bidprice": 24.85,
+                    "askPrice": 25.25,
+                    "askQty": 4000,
+                    "bidQty": 4000,
+                    "bidprice": 24.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3896,10 +3921,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 395,
                     "totalBuyQuantity": 104000,
-                    "totalSellQuantity": 108000,
+                    "totalSellQuantity": 104000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 395
@@ -3924,10 +3949,10 @@
                     "totalSellQuantity": 160000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
-                    "askPrice": 52.25,
+                    "askPrice": 52.2,
                     "askQty": 6000,
                     "bidQty": 6000,
                     "bidprice": 17.85,
@@ -3945,7 +3970,7 @@
                     "totalSellQuantity": 86000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 395
@@ -3953,30 +3978,30 @@
             {
                 "CE": {
                     "askPrice": 0.6,
-                    "askQty": 18000,
-                    "bidQty": 4000,
-                    "bidprice": 0.55,
+                    "askQty": 12000,
+                    "bidQty": 60000,
+                    "bidprice": 0.5,
                     "change": -0.050000000000000044,
                     "changeinOpenInterest": -11,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023CE400.00",
-                    "impliedVolatility": 36.15,
+                    "impliedVolatility": 36.1,
                     "lastPrice": 0.6,
                     "openInterest": 1106,
                     "pChange": -7.692307692307699,
                     "pchangeinOpenInterest": -0.9847806624888094,
                     "strikePrice": 400,
-                    "totalBuyQuantity": 2026000,
-                    "totalSellQuantity": 416000,
-                    "totalTradedVolume": 94,
+                    "totalBuyQuantity": 2028000,
+                    "totalSellQuantity": 412000,
+                    "totalTradedVolume": 96,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
-                    "askPrice": 30.5,
+                    "askPrice": 30.1,
                     "askQty": 2000,
                     "bidQty": 2000,
-                    "bidprice": 29.6,
+                    "bidprice": 29.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3987,42 +4012,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 400,
-                    "totalBuyQuantity": 112000,
-                    "totalSellQuantity": 110000,
+                    "totalBuyQuantity": 106000,
+                    "totalSellQuantity": 102000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 400
             },
             {
                 "CE": {
-                    "askPrice": 6.55,
+                    "askPrice": 6.75,
                     "askQty": 8000,
-                    "bidQty": 4000,
-                    "bidprice": 6.35,
-                    "change": 0.04999999999999982,
-                    "changeinOpenInterest": -128,
+                    "bidQty": 14000,
+                    "bidprice": 6.55,
+                    "change": 0.15000000000000036,
+                    "changeinOpenInterest": -125,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKINDHOTEL29-06-2023CE400.00",
-                    "impliedVolatility": 30.94,
-                    "lastPrice": 6.55,
-                    "openInterest": 681,
-                    "pChange": 0.7692307692307665,
-                    "pchangeinOpenInterest": -15.822002472187886,
+                    "impliedVolatility": 30.67,
+                    "lastPrice": 6.65,
+                    "openInterest": 684,
+                    "pChange": 2.307692307692313,
+                    "pchangeinOpenInterest": -15.451174289245984,
                     "strikePrice": 400,
-                    "totalBuyQuantity": 202000,
-                    "totalSellQuantity": 260000,
-                    "totalTradedVolume": 341,
+                    "totalBuyQuantity": 216000,
+                    "totalSellQuantity": 258000,
+                    "totalTradedVolume": 343,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
-                    "askPrice": 34.75,
+                    "askPrice": 34.35,
                     "askQty": 2000,
                     "bidQty": 6000,
-                    "bidprice": 28.65,
+                    "bidprice": 30.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4033,11 +4058,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 400,
-                    "totalBuyQuantity": 90000,
+                    "totalBuyQuantity": 88000,
                     "totalSellQuantity": 2000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 400
@@ -4046,29 +4071,29 @@
                 "CE": {
                     "askPrice": 0.4,
                     "askQty": 18000,
-                    "bidQty": 20000,
-                    "bidprice": 0.3,
+                    "bidQty": 10000,
+                    "bidprice": 0.35,
                     "change": -0.050000000000000044,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023CE405.00",
-                    "impliedVolatility": 37.08,
+                    "impliedVolatility": 36.38,
                     "lastPrice": 0.35,
                     "openInterest": 178,
                     "pChange": -12.50000000000001,
                     "pchangeinOpenInterest": -1.1111111111111112,
                     "strikePrice": 405,
-                    "totalBuyQuantity": 558000,
+                    "totalBuyQuantity": 566000,
                     "totalSellQuantity": 180000,
-                    "totalTradedVolume": 12,
+                    "totalTradedVolume": 13,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
-                    "askPrice": 36.75,
-                    "askQty": 14000,
+                    "askPrice": 35.55,
+                    "askQty": 6000,
                     "bidQty": 2000,
-                    "bidprice": 33.85,
+                    "bidprice": 33.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4083,7 +4108,7 @@
                     "totalSellQuantity": 112000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 405
@@ -4104,14 +4129,14 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 405,
-                    "totalBuyQuantity": 92000,
+                    "totalBuyQuantity": 86000,
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
-                    "askPrice": 59.75,
+                    "askPrice": 59,
                     "askQty": 6000,
                     "bidQty": 6000,
                     "bidprice": 27.8,
@@ -4129,7 +4154,7 @@
                     "totalSellQuantity": 86000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 405
@@ -4138,23 +4163,23 @@
                 "CE": {
                     "askPrice": 0.25,
                     "askQty": 14000,
-                    "bidQty": 82000,
-                    "bidprice": 0.15,
+                    "bidQty": 12000,
+                    "bidprice": 0.2,
                     "change": -0.04999999999999999,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023CE410.00",
-                    "impliedVolatility": 37.33,
+                    "impliedVolatility": 36.7,
                     "lastPrice": 0.2,
                     "openInterest": 258,
                     "pChange": -19.999999999999996,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 410,
                     "totalBuyQuantity": 750000,
-                    "totalSellQuantity": 326000,
-                    "totalTradedVolume": 14,
+                    "totalSellQuantity": 246000,
+                    "totalTradedVolume": 15,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 41,
@@ -4175,38 +4200,38 @@
                     "totalSellQuantity": 104000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 410
             },
             {
                 "CE": {
-                    "askPrice": 4.7,
-                    "askQty": 2000,
-                    "bidQty": 4000,
-                    "bidprice": 4.45,
+                    "askPrice": 4.85,
+                    "askQty": 4000,
+                    "bidQty": 2000,
+                    "bidprice": 4.55,
                     "change": 0,
                     "changeinOpenInterest": 1,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKINDHOTEL29-06-2023CE410.00",
-                    "impliedVolatility": 30.8,
+                    "impliedVolatility": 30.37,
                     "lastPrice": 4.3,
                     "openInterest": 32,
                     "pChange": 0,
                     "pchangeinOpenInterest": 3.225806451612903,
                     "strikePrice": 410,
-                    "totalBuyQuantity": 206000,
+                    "totalBuyQuantity": 208000,
                     "totalSellQuantity": 200000,
                     "totalTradedVolume": 5,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
-                    "askPrice": 50.75,
+                    "askPrice": 45.9,
                     "askQty": 6000,
                     "bidQty": 6000,
-                    "bidprice": 35.65,
+                    "bidprice": 32.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4217,11 +4242,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 410,
-                    "totalBuyQuantity": 90000,
-                    "totalSellQuantity": 10000,
+                    "totalBuyQuantity": 86000,
+                    "totalSellQuantity": 8000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 410
@@ -4246,14 +4271,14 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 410
             },
             {
                 "CE": {
-                    "askPrice": 1.05,
+                    "askPrice": 1.6,
                     "askQty": 2000,
                     "bidQty": 2000,
                     "bidprice": 0.1,
@@ -4261,7 +4286,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023CE415.00",
-                    "impliedVolatility": 41.04,
+                    "impliedVolatility": 40.41,
                     "lastPrice": 0.2,
                     "openInterest": 24,
                     "pChange": 0,
@@ -4271,7 +4296,7 @@
                     "totalSellQuantity": 84000,
                     "totalTradedVolume": 1,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 47.05,
@@ -4292,17 +4317,17 @@
                     "totalSellQuantity": 104000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 415
             },
             {
                 "CE": {
-                    "askPrice": 4.65,
+                    "askPrice": 4.75,
                     "askQty": 2000,
-                    "bidQty": 4000,
-                    "bidprice": 3.35,
+                    "bidQty": 2000,
+                    "bidprice": 3.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4313,17 +4338,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 415,
-                    "totalBuyQuantity": 86000,
-                    "totalSellQuantity": 162000,
+                    "totalBuyQuantity": 88000,
+                    "totalSellQuantity": 164000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
-                    "askPrice": 48.5,
-                    "askQty": 2000,
+                    "askPrice": 67.45,
+                    "askQty": 6000,
                     "bidQty": 6000,
-                    "bidprice": 41.45,
+                    "bidprice": 37.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4334,42 +4359,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 415,
-                    "totalBuyQuantity": 88000,
-                    "totalSellQuantity": 2000,
+                    "totalBuyQuantity": 86000,
+                    "totalSellQuantity": 86000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 415
             },
             {
                 "CE": {
-                    "askPrice": 0.25,
+                    "askPrice": 1.25,
                     "askQty": 2000,
-                    "bidQty": 4000,
+                    "bidQty": 2000,
                     "bidprice": 0.15,
                     "change": 0.35000000000000003,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDHOTEL25-05-2023CE420.00",
-                    "impliedVolatility": 53.3,
+                    "impliedVolatility": 52.59,
                     "lastPrice": 0.55,
                     "openInterest": 31,
                     "pChange": 175,
                     "pchangeinOpenInterest": 3.3333333333333335,
                     "strikePrice": 420,
-                    "totalBuyQuantity": 162000,
-                    "totalSellQuantity": 190000,
+                    "totalBuyQuantity": 160000,
+                    "totalSellQuantity": 168000,
                     "totalTradedVolume": 3,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
-                    "askPrice": 52.35,
+                    "askPrice": 51.35,
                     "askQty": 6000,
                     "bidQty": 6000,
-                    "bidprice": 47.6,
+                    "bidprice": 46.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4384,38 +4409,38 @@
                     "totalSellQuantity": 98000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 420
             },
             {
                 "CE": {
-                    "askPrice": 3.55,
-                    "askQty": 4000,
+                    "askPrice": 3.6,
+                    "askQty": 2000,
                     "bidQty": 2000,
                     "bidprice": 3.05,
                     "change": 0.19999999999999973,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKINDHOTEL29-06-2023CE420.00",
-                    "impliedVolatility": 32.43,
+                    "impliedVolatility": 32.04,
                     "lastPrice": 3.3,
                     "openInterest": 452,
                     "pChange": 6.451612903225798,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 420,
-                    "totalBuyQuantity": 132000,
-                    "totalSellQuantity": 206000,
+                    "totalBuyQuantity": 136000,
+                    "totalSellQuantity": 208000,
                     "totalTradedVolume": 2,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
-                    "askPrice": 53.45,
-                    "askQty": 6000,
+                    "askPrice": 69.65,
+                    "askQty": 8000,
                     "bidQty": 2000,
-                    "bidprice": 48.55,
+                    "bidprice": 43.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4426,11 +4451,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 420,
-                    "totalBuyQuantity": 90000,
-                    "totalSellQuantity": 8000,
+                    "totalBuyQuantity": 88000,
+                    "totalSellQuantity": 88000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 420
@@ -4455,7 +4480,7 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
                     "askPrice": 61.85,
@@ -4476,7 +4501,7 @@
                     "totalSellQuantity": 86000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 425
@@ -4497,15 +4522,15 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 425,
-                    "totalBuyQuantity": 82000,
+                    "totalBuyQuantity": 84000,
                     "totalSellQuantity": 160000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "PE": {
-                    "askPrice": 76.6,
-                    "askQty": 6000,
+                    "askPrice": 76.8,
+                    "askQty": 80000,
                     "bidQty": 6000,
                     "bidprice": 47.85,
                     "change": 0,
@@ -4522,7 +4547,7 @@
                     "totalSellQuantity": 86000,
                     "totalTradedVolume": 0,
                     "underlying": "INDHOTEL",
-                    "underlyingValue": 370.9
+                    "underlyingValue": 371.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 425
@@ -4571,7 +4596,7 @@
             420,
             425
         ],
-        "timestamp": "18-May-2023 10:19:49",
-        "underlyingValue": 370.9
+        "timestamp": "18-May-2023 10:28:17",
+        "underlyingValue": 371.45
     }
 }

@@ -1,12 +1,12 @@
 {
     "filtered": {
         "CE": {
-            "totOI": 3260,
-            "totVol": 2037
+            "totOI": 3249,
+            "totVol": 2104
         },
         "PE": {
-            "totOI": 2885,
-            "totVol": 619
+            "totOI": 2881,
+            "totVol": 652
         },
         "data": [
             {
@@ -29,7 +29,7 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 0.5,
@@ -50,7 +50,7 @@
                     "totalSellQuantity": 56000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 180
@@ -75,7 +75,7 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 0.45,
@@ -96,7 +96,7 @@
                     "totalSellQuantity": 12000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 185
@@ -121,11 +121,11 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
-                    "askPrice": 0.55,
-                    "askQty": 44000,
+                    "askPrice": 0.45,
+                    "askQty": 4000,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -139,10 +139,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 190,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 80000,
+                    "totalSellQuantity": 96000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 190
@@ -167,7 +167,7 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 0.5,
@@ -188,7 +188,7 @@
                     "totalSellQuantity": 84000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 195
@@ -213,11 +213,11 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
-                    "askPrice": 1,
-                    "askQty": 4000,
+                    "askPrice": 0.4,
+                    "askQty": 16000,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -231,10 +231,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 200,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 36000,
+                    "totalSellQuantity": 96000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 200
@@ -259,7 +259,7 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 1,
@@ -280,7 +280,7 @@
                     "totalSellQuantity": 40000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287.5
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 205
@@ -305,11 +305,11 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287.5
                 },
                 "PE": {
-                    "askPrice": 0.55,
-                    "askQty": 40000,
+                    "askPrice": 0.5,
+                    "askQty": 16000,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -323,10 +323,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 210,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 80000,
+                    "totalSellQuantity": 96000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287.5
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 210
@@ -336,7 +336,7 @@
                     "askPrice": 78.1,
                     "askQty": 12000,
                     "bidQty": 12000,
-                    "bidprice": 45.35,
+                    "bidprice": 52.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -351,7 +351,7 @@
                     "totalSellQuantity": 132000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287.5
                 },
                 "PE": {
                     "askPrice": 0.45,
@@ -372,17 +372,17 @@
                     "totalSellQuantity": 84000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 215
             },
             {
                 "CE": {
-                    "askPrice": 69,
+                    "askPrice": 72.6,
                     "askQty": 12000,
                     "bidQty": 12000,
-                    "bidprice": 45.15,
+                    "bidprice": 58.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -394,10 +394,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 220,
                     "totalBuyQuantity": 20000,
-                    "totalSellQuantity": 140000,
+                    "totalSellQuantity": 132000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 0.05,
@@ -418,17 +418,17 @@
                     "totalSellQuantity": 156000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 220
             },
             {
                 "CE": {
-                    "askPrice": 67.25,
+                    "askPrice": 65.25,
                     "askQty": 12000,
                     "bidQty": 12000,
-                    "bidprice": 38.25,
+                    "bidprice": 40.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -439,11 +439,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 225,
-                    "totalBuyQuantity": 12000,
-                    "totalSellQuantity": 132000,
+                    "totalBuyQuantity": 20000,
+                    "totalSellQuantity": 140000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 0.05,
@@ -464,17 +464,17 @@
                     "totalSellQuantity": 8000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 225
             },
             {
                 "CE": {
-                    "askPrice": 60.15,
+                    "askPrice": 59.5,
                     "askQty": 12000,
-                    "bidQty": 24000,
-                    "bidprice": 56.5,
+                    "bidQty": 12000,
+                    "bidprice": 55.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -485,11 +485,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 230,
-                    "totalBuyQuantity": 24000,
+                    "totalBuyQuantity": 36000,
                     "totalSellQuantity": 156000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 0.1,
@@ -500,7 +500,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023PE230.00",
-                    "impliedVolatility": 66.29,
+                    "impliedVolatility": 65.5,
                     "lastPrice": 0.05,
                     "openInterest": 101,
                     "pChange": -50,
@@ -510,7 +510,7 @@
                     "totalSellQuantity": 200000,
                     "totalTradedVolume": 3,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 230
@@ -535,7 +535,7 @@
                     "totalSellQuantity": 156000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 0.1,
@@ -556,17 +556,17 @@
                     "totalSellQuantity": 348000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 235
             },
             {
                 "CE": {
-                    "askPrice": 48.5,
-                    "askQty": 24000,
-                    "bidQty": 12000,
-                    "bidprice": 45.95,
+                    "askPrice": 48.6,
+                    "askQty": 12000,
+                    "bidQty": 8000,
+                    "bidprice": 46.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -577,11 +577,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 240,
-                    "totalBuyQuantity": 56000,
+                    "totalBuyQuantity": 44000,
                     "totalSellQuantity": 180000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 0.1,
@@ -592,7 +592,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023PE240.00",
-                    "impliedVolatility": 60.17,
+                    "impliedVolatility": 54.28,
                     "lastPrice": 0.05,
                     "openInterest": 298,
                     "pChange": -50,
@@ -602,17 +602,17 @@
                     "totalSellQuantity": 344000,
                     "totalTradedVolume": 3,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 240
             },
             {
                 "CE": {
-                    "askPrice": 43.3,
+                    "askPrice": 43.2,
                     "askQty": 8000,
                     "bidQty": 12000,
-                    "bidprice": 40.8,
+                    "bidprice": 41.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -627,7 +627,7 @@
                     "totalSellQuantity": 164000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 0.1,
@@ -638,7 +638,7 @@
                     "changeinOpenInterest": -8,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023PE245.00",
-                    "impliedVolatility": 54.27,
+                    "impliedVolatility": 53.39,
                     "lastPrice": 0.1,
                     "openInterest": 56,
                     "pChange": 0,
@@ -648,7 +648,7 @@
                     "totalSellQuantity": 448000,
                     "totalTradedVolume": 10,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 245
@@ -658,7 +658,7 @@
                     "askPrice": 39.25,
                     "askQty": 28000,
                     "bidQty": 4000,
-                    "bidprice": 36.8,
+                    "bidprice": 36.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -673,38 +673,38 @@
                     "totalSellQuantity": 260000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 0.2,
-                    "askQty": 48000,
-                    "bidQty": 44000,
+                    "askQty": 44000,
+                    "bidQty": 48000,
                     "bidprice": 0.15,
                     "change": -0.05000000000000002,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023PE250.00",
-                    "impliedVolatility": 51.42,
+                    "impliedVolatility": 50.49,
                     "lastPrice": 0.15,
                     "openInterest": 258,
                     "pChange": -25.000000000000007,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 250,
-                    "totalBuyQuantity": 780000,
-                    "totalSellQuantity": 476000,
+                    "totalBuyQuantity": 776000,
+                    "totalSellQuantity": 508000,
                     "totalTradedVolume": 23,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287.5
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 250
             },
             {
                 "CE": {
-                    "askPrice": 34.9,
+                    "askPrice": 33.6,
                     "askQty": 16000,
-                    "bidQty": 12000,
-                    "bidprice": 31.35,
+                    "bidQty": 16000,
+                    "bidprice": 31.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -715,42 +715,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 255,
-                    "totalBuyQuantity": 312000,
-                    "totalSellQuantity": 288000,
+                    "totalBuyQuantity": 300000,
+                    "totalSellQuantity": 284000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
-                    "askPrice": 0.3,
-                    "askQty": 12000,
+                    "askPrice": 0.35,
+                    "askQty": 28000,
                     "bidQty": 100000,
                     "bidprice": 0.25,
                     "change": -0.09999999999999998,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023PE255.00",
-                    "impliedVolatility": 49.4,
+                    "impliedVolatility": 48.39,
                     "lastPrice": 0.25,
                     "openInterest": 223,
                     "pChange": -28.571428571428566,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 255,
-                    "totalBuyQuantity": 1020000,
-                    "totalSellQuantity": 312000,
+                    "totalBuyQuantity": 964000,
+                    "totalSellQuantity": 352000,
                     "totalTradedVolume": 6,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 255
             },
             {
                 "CE": {
-                    "askPrice": 29.4,
-                    "askQty": 16000,
-                    "bidQty": 4000,
-                    "bidprice": 27.25,
+                    "askPrice": 28.6,
+                    "askQty": 8000,
+                    "bidQty": 12000,
+                    "bidprice": 26.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -761,11 +761,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 260,
-                    "totalBuyQuantity": 308000,
-                    "totalSellQuantity": 296000,
+                    "totalBuyQuantity": 316000,
+                    "totalSellQuantity": 300000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 0.35,
@@ -776,124 +776,124 @@
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023PE260.00",
-                    "impliedVolatility": 45.8,
+                    "impliedVolatility": 44.72,
                     "lastPrice": 0.35,
                     "openInterest": 291,
                     "pChange": -22.22222222222223,
                     "pchangeinOpenInterest": -0.6825938566552902,
                     "strikePrice": 260,
                     "totalBuyQuantity": 1652000,
-                    "totalSellQuantity": 584000,
+                    "totalSellQuantity": 608000,
                     "totalTradedVolume": 23,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 260
             },
             {
                 "CE": {
-                    "askPrice": 23.1,
-                    "askQty": 4000,
+                    "askPrice": 23.35,
+                    "askQty": 12000,
                     "bidQty": 4000,
-                    "bidprice": 22.4,
+                    "bidprice": 22.6,
                     "change": 4.850000000000001,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023CE265.00",
-                    "impliedVolatility": 34.69,
+                    "impliedVolatility": 50.28,
                     "lastPrice": 24,
                     "openInterest": 96,
                     "pChange": 25.326370757180168,
                     "pchangeinOpenInterest": -1.0309278350515463,
                     "strikePrice": 265,
-                    "totalBuyQuantity": 320000,
-                    "totalSellQuantity": 284000,
+                    "totalBuyQuantity": 316000,
+                    "totalSellQuantity": 288000,
                     "totalTradedVolume": 3,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 0.55,
                     "askQty": 8000,
-                    "bidQty": 20000,
+                    "bidQty": 40000,
                     "bidprice": 0.45,
                     "change": -0.19999999999999996,
                     "changeinOpenInterest": -16,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023PE265.00",
-                    "impliedVolatility": 42.19,
+                    "impliedVolatility": 41.02,
                     "lastPrice": 0.5,
                     "openInterest": 170,
                     "pChange": -28.571428571428566,
                     "pchangeinOpenInterest": -8.602150537634408,
                     "strikePrice": 265,
-                    "totalBuyQuantity": 1140000,
-                    "totalSellQuantity": 464000,
+                    "totalBuyQuantity": 1136000,
+                    "totalSellQuantity": 468000,
                     "totalTradedVolume": 68,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287.5
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 265
             },
             {
                 "CE": {
-                    "askPrice": 18.65,
+                    "askPrice": 18.35,
                     "askQty": 4000,
-                    "bidQty": 4000,
-                    "bidprice": 18.25,
+                    "bidQty": 8000,
+                    "bidprice": 18.05,
                     "change": 4.35,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023CE270.00",
-                    "impliedVolatility": 28.11,
+                    "impliedVolatility": 41.84,
                     "lastPrice": 19,
                     "openInterest": 172,
                     "pChange": 29.692832764505116,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 270,
-                    "totalBuyQuantity": 340000,
-                    "totalSellQuantity": 300000,
+                    "totalBuyQuantity": 336000,
+                    "totalSellQuantity": 316000,
                     "totalTradedVolume": 4,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 0.85,
-                    "askQty": 28000,
-                    "bidQty": 8000,
+                    "askQty": 32000,
+                    "bidQty": 16000,
                     "bidprice": 0.75,
-                    "change": -0.25,
-                    "changeinOpenInterest": -7,
+                    "change": -0.30000000000000004,
+                    "changeinOpenInterest": -4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023PE270.00",
-                    "impliedVolatility": 38.11,
-                    "lastPrice": 0.8,
-                    "openInterest": 418,
-                    "pChange": -23.809523809523807,
-                    "pchangeinOpenInterest": -1.6470588235294117,
+                    "impliedVolatility": 38.9,
+                    "lastPrice": 0.75,
+                    "openInterest": 421,
+                    "pChange": -28.571428571428577,
+                    "pchangeinOpenInterest": -0.9411764705882353,
                     "strikePrice": 270,
-                    "totalBuyQuantity": 2268000,
-                    "totalSellQuantity": 664000,
-                    "totalTradedVolume": 73,
+                    "totalBuyQuantity": 2272000,
+                    "totalSellQuantity": 672000,
+                    "totalTradedVolume": 76,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 270
             },
             {
                 "CE": {
-                    "askPrice": 13.8,
+                    "askPrice": 14,
                     "askQty": 4000,
                     "bidQty": 4000,
-                    "bidprice": 13.25,
+                    "bidprice": 13.65,
                     "change": 2.25,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023CE275.00",
-                    "impliedVolatility": 34.65,
+                    "impliedVolatility": 41.82,
                     "lastPrice": 14.9,
                     "openInterest": 76,
                     "pChange": 17.786561264822133,
@@ -903,212 +903,212 @@
                     "totalSellQuantity": 312000,
                     "totalTradedVolume": 1,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
-                    "askPrice": 1.35,
-                    "askQty": 4000,
-                    "bidQty": 16000,
+                    "askPrice": 1.4,
+                    "askQty": 12000,
+                    "bidQty": 8000,
                     "bidprice": 1.3,
-                    "change": -0.44999999999999996,
-                    "changeinOpenInterest": 1,
+                    "change": -0.3500000000000001,
+                    "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023PE275.00",
-                    "impliedVolatility": 37.03,
-                    "lastPrice": 1.3,
-                    "openInterest": 213,
-                    "pChange": -25.71428571428571,
-                    "pchangeinOpenInterest": 0.4716981132075472,
+                    "impliedVolatility": 35.53,
+                    "lastPrice": 1.4,
+                    "openInterest": 212,
+                    "pChange": -20.000000000000004,
+                    "pchangeinOpenInterest": 0,
                     "strikePrice": 275,
                     "totalBuyQuantity": 708000,
-                    "totalSellQuantity": 636000,
-                    "totalTradedVolume": 45,
+                    "totalSellQuantity": 644000,
+                    "totalTradedVolume": 49,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 275
             },
             {
                 "CE": {
-                    "askPrice": 9.75,
+                    "askPrice": 9.9,
                     "askQty": 8000,
-                    "bidQty": 4000,
-                    "bidprice": 9.55,
-                    "change": 1.1500000000000004,
-                    "changeinOpenInterest": -20,
+                    "bidQty": 8000,
+                    "bidprice": 9.75,
+                    "change": 1.0999999999999996,
+                    "changeinOpenInterest": -19,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023CE280.00",
-                    "impliedVolatility": 33.41,
-                    "lastPrice": 9.8,
-                    "openInterest": 264,
-                    "pChange": 13.294797687861276,
-                    "pchangeinOpenInterest": -7.042253521126761,
+                    "impliedVolatility": 32.41,
+                    "lastPrice": 9.75,
+                    "openInterest": 265,
+                    "pChange": 12.716763005780344,
+                    "pchangeinOpenInterest": -6.690140845070423,
                     "strikePrice": 280,
-                    "totalBuyQuantity": 392000,
+                    "totalBuyQuantity": 404000,
                     "totalSellQuantity": 416000,
-                    "totalTradedVolume": 139,
+                    "totalTradedVolume": 143,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
-                    "askPrice": 2.2,
-                    "askQty": 8000,
-                    "bidQty": 24000,
-                    "bidprice": 2.05,
-                    "change": -0.6999999999999997,
-                    "changeinOpenInterest": 5,
+                    "askPrice": 2.35,
+                    "askQty": 16000,
+                    "bidQty": 4000,
+                    "bidprice": 2.25,
+                    "change": -0.5499999999999998,
+                    "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023PE280.00",
-                    "impliedVolatility": 34.09,
-                    "lastPrice": 2.1,
-                    "openInterest": 281,
-                    "pChange": -24.999999999999993,
-                    "pchangeinOpenInterest": 1.8115942028985508,
+                    "impliedVolatility": 32.7,
+                    "lastPrice": 2.25,
+                    "openInterest": 274,
+                    "pChange": -19.642857142857135,
+                    "pchangeinOpenInterest": -0.7246376811594203,
                     "strikePrice": 280,
-                    "totalBuyQuantity": 556000,
-                    "totalSellQuantity": 612000,
-                    "totalTradedVolume": 145,
+                    "totalBuyQuantity": 564000,
+                    "totalSellQuantity": 632000,
+                    "totalTradedVolume": 156,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287.5
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 280
             },
             {
                 "CE": {
-                    "askPrice": 6.55,
+                    "askPrice": 6.4,
                     "askQty": 4000,
-                    "bidQty": 8000,
-                    "bidprice": 6.4,
-                    "change": 0.8000000000000007,
-                    "changeinOpenInterest": -2,
+                    "bidQty": 4000,
+                    "bidprice": 6.25,
+                    "change": 1,
+                    "changeinOpenInterest": -4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023CE285.00",
-                    "impliedVolatility": 27.22,
-                    "lastPrice": 6.15,
-                    "openInterest": 197,
-                    "pChange": 14.953271028037399,
-                    "pchangeinOpenInterest": -1.0050251256281406,
+                    "impliedVolatility": 30.94,
+                    "lastPrice": 6.35,
+                    "openInterest": 195,
+                    "pChange": 18.691588785046733,
+                    "pchangeinOpenInterest": -2.0100502512562812,
                     "strikePrice": 285,
                     "totalBuyQuantity": 448000,
-                    "totalSellQuantity": 488000,
-                    "totalTradedVolume": 264,
+                    "totalSellQuantity": 500000,
+                    "totalTradedVolume": 267,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
-                    "askPrice": 3.85,
-                    "askQty": 16000,
-                    "bidQty": 4000,
-                    "bidprice": 3.65,
-                    "change": -0.6500000000000004,
-                    "changeinOpenInterest": 21,
+                    "askPrice": 3.9,
+                    "askQty": 8000,
+                    "bidQty": 8000,
+                    "bidprice": 3.7,
+                    "change": -0.6000000000000001,
+                    "changeinOpenInterest": 19,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023PE285.00",
-                    "impliedVolatility": 32.86,
-                    "lastPrice": 3.8,
-                    "openInterest": 148,
-                    "pChange": -14.606741573033716,
-                    "pchangeinOpenInterest": 16.53543307086614,
+                    "impliedVolatility": 30.58,
+                    "lastPrice": 3.85,
+                    "openInterest": 146,
+                    "pChange": -13.483146067415733,
+                    "pchangeinOpenInterest": 14.960629921259843,
                     "strikePrice": 285,
-                    "totalBuyQuantity": 556000,
-                    "totalSellQuantity": 608000,
-                    "totalTradedVolume": 99,
+                    "totalBuyQuantity": 560000,
+                    "totalSellQuantity": 600000,
+                    "totalTradedVolume": 103,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 285
             },
             {
                 "CE": {
-                    "askPrice": 4,
+                    "askPrice": 3.85,
                     "askQty": 4000,
-                    "bidQty": 20000,
-                    "bidprice": 3.9,
-                    "change": 0.8500000000000001,
-                    "changeinOpenInterest": 120,
+                    "bidQty": 16000,
+                    "bidprice": 3.75,
+                    "change": 0.7000000000000002,
+                    "changeinOpenInterest": 116,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023CE290.00",
-                    "impliedVolatility": 28.51,
-                    "lastPrice": 4,
-                    "openInterest": 583,
-                    "pChange": 26.984126984126988,
-                    "pchangeinOpenInterest": 25.91792656587473,
+                    "impliedVolatility": 31.1,
+                    "lastPrice": 3.85,
+                    "openInterest": 579,
+                    "pChange": 22.22222222222223,
+                    "pchangeinOpenInterest": 25.053995680345572,
                     "strikePrice": 290,
-                    "totalBuyQuantity": 996000,
-                    "totalSellQuantity": 968000,
-                    "totalTradedVolume": 721,
+                    "totalBuyQuantity": 984000,
+                    "totalSellQuantity": 996000,
+                    "totalTradedVolume": 763,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287.5
                 },
                 "PE": {
-                    "askPrice": 6.45,
-                    "askQty": 12000,
+                    "askPrice": 6.3,
+                    "askQty": 8000,
                     "bidQty": 8000,
-                    "bidprice": 6.3,
-                    "change": -1.2000000000000002,
-                    "changeinOpenInterest": 36,
+                    "bidprice": 6.2,
+                    "change": -0.9500000000000002,
+                    "changeinOpenInterest": 39,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023PE290.00",
-                    "impliedVolatility": 33.26,
-                    "lastPrice": 6,
-                    "openInterest": 161,
-                    "pChange": -16.666666666666668,
-                    "pchangeinOpenInterest": 28.8,
+                    "impliedVolatility": 30.82,
+                    "lastPrice": 6.25,
+                    "openInterest": 164,
+                    "pChange": -13.194444444444448,
+                    "pchangeinOpenInterest": 31.2,
                     "strikePrice": 290,
-                    "totalBuyQuantity": 548000,
-                    "totalSellQuantity": 388000,
-                    "totalTradedVolume": 117,
+                    "totalBuyQuantity": 544000,
+                    "totalSellQuantity": 524000,
+                    "totalTradedVolume": 128,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 290
             },
             {
                 "CE": {
-                    "askPrice": 2.1,
+                    "askPrice": 2.15,
                     "askQty": 4000,
-                    "bidQty": 28000,
-                    "bidprice": 2,
+                    "bidQty": 4000,
+                    "bidprice": 2.05,
                     "change": 0.40000000000000013,
-                    "changeinOpenInterest": 34,
+                    "changeinOpenInterest": 31,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023CE295.00",
-                    "impliedVolatility": 29.16,
+                    "impliedVolatility": 30.01,
                     "lastPrice": 2.1,
-                    "openInterest": 339,
+                    "openInterest": 336,
                     "pChange": 23.52941176470589,
-                    "pchangeinOpenInterest": 11.147540983606557,
+                    "pchangeinOpenInterest": 10.163934426229508,
                     "strikePrice": 295,
                     "totalBuyQuantity": 904000,
-                    "totalSellQuantity": 684000,
-                    "totalTradedVolume": 239,
+                    "totalSellQuantity": 704000,
+                    "totalTradedVolume": 250,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
-                    "askPrice": 9.55,
-                    "askQty": 8000,
+                    "askPrice": 9.8,
+                    "askQty": 4000,
                     "bidQty": 4000,
-                    "bidprice": 9.2,
+                    "bidprice": 9.35,
                     "change": -3.000000000000001,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023PE295.00",
-                    "impliedVolatility": 23,
+                    "impliedVolatility": 16.72,
                     "lastPrice": 7.55,
                     "openInterest": 29,
                     "pChange": -28.436018957345976,
                     "pchangeinOpenInterest": -3.3333333333333335,
                     "strikePrice": 295,
-                    "totalBuyQuantity": 180000,
-                    "totalSellQuantity": 184000,
+                    "totalBuyQuantity": 176000,
+                    "totalSellQuantity": 180000,
                     "totalTradedVolume": 2,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 295
@@ -1116,122 +1116,122 @@
             {
                 "CE": {
                     "askPrice": 1.35,
-                    "askQty": 28000,
-                    "bidQty": 4000,
+                    "askQty": 16000,
+                    "bidQty": 12000,
                     "bidprice": 1.25,
-                    "change": 0.25,
-                    "changeinOpenInterest": -9,
+                    "change": 0.30000000000000004,
+                    "changeinOpenInterest": -12,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023CE300.00",
-                    "impliedVolatility": 30.92,
-                    "lastPrice": 1.25,
-                    "openInterest": 702,
-                    "pChange": 25,
-                    "pchangeinOpenInterest": -1.2658227848101267,
+                    "impliedVolatility": 32.03,
+                    "lastPrice": 1.3,
+                    "openInterest": 699,
+                    "pChange": 30.000000000000004,
+                    "pchangeinOpenInterest": -1.6877637130801688,
                     "strikePrice": 300,
-                    "totalBuyQuantity": 2588000,
-                    "totalSellQuantity": 992000,
-                    "totalTradedVolume": 515,
+                    "totalBuyQuantity": 2616000,
+                    "totalSellQuantity": 884000,
+                    "totalTradedVolume": 521,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
-                    "askPrice": 14.15,
+                    "askPrice": 14.4,
                     "askQty": 4000,
                     "bidQty": 4000,
-                    "bidprice": 13.15,
+                    "bidprice": 13.45,
                     "change": -3,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023PE300.00",
-                    "impliedVolatility": 26.81,
+                    "impliedVolatility": 0,
                     "lastPrice": 12,
                     "openInterest": 46,
                     "pChange": -20,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 300,
                     "totalBuyQuantity": 336000,
-                    "totalSellQuantity": 332000,
+                    "totalSellQuantity": 340000,
                     "totalTradedVolume": 1,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 300
             },
             {
                 "CE": {
-                    "askPrice": 0.7,
-                    "askQty": 4000,
-                    "bidQty": 16000,
-                    "bidprice": 0.6,
+                    "askPrice": 0.75,
+                    "askQty": 12000,
+                    "bidQty": 12000,
+                    "bidprice": 0.65,
                     "change": 0.25,
                     "changeinOpenInterest": 5,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023CE305.00",
-                    "impliedVolatility": 33.31,
+                    "impliedVolatility": 34.04,
                     "lastPrice": 0.75,
                     "openInterest": 110,
                     "pChange": 50,
                     "pchangeinOpenInterest": 4.761904761904762,
                     "strikePrice": 305,
-                    "totalBuyQuantity": 928000,
-                    "totalSellQuantity": 588000,
+                    "totalBuyQuantity": 940000,
+                    "totalSellQuantity": 596000,
                     "totalTradedVolume": 52,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
-                    "askPrice": 19.7,
-                    "askQty": 4000,
-                    "bidQty": 4000,
-                    "bidprice": 17.55,
+                    "askPrice": 18.75,
+                    "askQty": 24000,
+                    "bidQty": 8000,
+                    "bidprice": 18,
                     "change": -5.399999999999999,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023PE305.00",
-                    "impliedVolatility": 28.26,
+                    "impliedVolatility": 0,
                     "lastPrice": 16.55,
                     "openInterest": 3,
                     "pChange": -24.601366742596806,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 305,
                     "totalBuyQuantity": 272000,
-                    "totalSellQuantity": 284000,
+                    "totalSellQuantity": 288000,
                     "totalTradedVolume": 1,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 305
             },
             {
                 "CE": {
-                    "askPrice": 0.4,
-                    "askQty": 4000,
-                    "bidQty": 20000,
-                    "bidprice": 0.35,
+                    "askPrice": 0.45,
+                    "askQty": 28000,
+                    "bidQty": 32000,
+                    "bidprice": 0.4,
                     "change": 0.10000000000000003,
                     "changeinOpenInterest": 9,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023CE310.00",
-                    "impliedVolatility": 34.7,
+                    "impliedVolatility": 33.95,
                     "lastPrice": 0.4,
                     "openInterest": 223,
                     "pChange": 33.33333333333335,
                     "pchangeinOpenInterest": 4.205607476635514,
                     "strikePrice": 310,
-                    "totalBuyQuantity": 1568000,
-                    "totalSellQuantity": 632000,
-                    "totalTradedVolume": 67,
+                    "totalBuyQuantity": 1596000,
+                    "totalSellQuantity": 636000,
+                    "totalTradedVolume": 68,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
-                    "askPrice": 23.7,
-                    "askQty": 16000,
-                    "bidQty": 16000,
-                    "bidprice": 21.4,
+                    "askPrice": 22.95,
+                    "askQty": 4000,
+                    "bidQty": 4000,
+                    "bidprice": 22.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1242,11 +1242,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 310,
-                    "totalBuyQuantity": 312000,
-                    "totalSellQuantity": 296000,
+                    "totalBuyQuantity": 304000,
+                    "totalSellQuantity": 284000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287.5
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 310
@@ -1261,7 +1261,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023CE315.00",
-                    "impliedVolatility": 0,
+                    "impliedVolatility": 37.06,
                     "lastPrice": 0.25,
                     "openInterest": 60,
                     "pChange": 66.66666666666667,
@@ -1271,13 +1271,13 @@
                     "totalSellQuantity": 456000,
                     "totalTradedVolume": 4,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
-                    "askPrice": 28.4,
-                    "askQty": 12000,
-                    "bidQty": 12000,
-                    "bidprice": 26.45,
+                    "askPrice": 28.95,
+                    "askQty": 24000,
+                    "bidQty": 24000,
+                    "bidprice": 26.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1289,10 +1289,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 315,
                     "totalBuyQuantity": 180000,
-                    "totalSellQuantity": 168000,
+                    "totalSellQuantity": 180000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 315
@@ -1300,24 +1300,24 @@
             {
                 "CE": {
                     "askPrice": 0.25,
-                    "askQty": 24000,
+                    "askQty": 12000,
                     "bidQty": 36000,
                     "bidprice": 0.2,
                     "change": 0.15,
                     "changeinOpenInterest": -5,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023CE320.00",
-                    "impliedVolatility": 41.19,
+                    "impliedVolatility": 42.23,
                     "lastPrice": 0.25,
                     "openInterest": 65,
                     "pChange": 149.99999999999997,
                     "pchangeinOpenInterest": -7.142857142857143,
                     "strikePrice": 320,
                     "totalBuyQuantity": 456000,
-                    "totalSellQuantity": 524000,
+                    "totalSellQuantity": 516000,
                     "totalTradedVolume": 25,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 33.95,
@@ -1338,7 +1338,7 @@
                     "totalSellQuantity": 168000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 320
@@ -1353,7 +1353,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023CE325.00",
-                    "impliedVolatility": 46.18,
+                    "impliedVolatility": 47.21,
                     "lastPrice": 0.25,
                     "openInterest": 56,
                     "pChange": 66.66666666666667,
@@ -1363,10 +1363,10 @@
                     "totalSellQuantity": 352000,
                     "totalTradedVolume": 1,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
-                    "askPrice": 39.25,
+                    "askPrice": 38.8,
                     "askQty": 12000,
                     "bidQty": 12000,
                     "bidprice": 35.8,
@@ -1384,7 +1384,7 @@
                     "totalSellQuantity": 168000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 325
@@ -1399,7 +1399,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023CE330.00",
-                    "impliedVolatility": 44.28,
+                    "impliedVolatility": 45.18,
                     "lastPrice": 0.1,
                     "openInterest": 25,
                     "pChange": 0,
@@ -1409,13 +1409,13 @@
                     "totalSellQuantity": 316000,
                     "totalTradedVolume": 2,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
-                    "askPrice": 43.3,
+                    "askPrice": 43.8,
                     "askQty": 12000,
                     "bidQty": 12000,
-                    "bidprice": 40.6,
+                    "bidprice": 41.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1427,10 +1427,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 330,
                     "totalBuyQuantity": 168000,
-                    "totalSellQuantity": 156000,
+                    "totalSellQuantity": 168000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 330
@@ -1455,7 +1455,7 @@
                     "totalSellQuantity": 12000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 51.9,
@@ -1476,7 +1476,7 @@
                     "totalSellQuantity": 132000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 335
@@ -1505,7 +1505,7 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 0.5,
@@ -1526,7 +1526,7 @@
                     "totalSellQuantity": 56000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 180
@@ -1551,7 +1551,7 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 0.45,
@@ -1572,7 +1572,7 @@
                     "totalSellQuantity": 12000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 185
@@ -1597,11 +1597,11 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
-                    "askPrice": 0.55,
-                    "askQty": 44000,
+                    "askPrice": 0.45,
+                    "askQty": 4000,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -1615,10 +1615,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 190,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 80000,
+                    "totalSellQuantity": 96000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 190
@@ -1643,7 +1643,7 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 0.5,
@@ -1664,7 +1664,7 @@
                     "totalSellQuantity": 84000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 195
@@ -1689,11 +1689,11 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
-                    "askPrice": 1,
-                    "askQty": 4000,
+                    "askPrice": 0.4,
+                    "askQty": 16000,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -1707,10 +1707,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 200,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 36000,
+                    "totalSellQuantity": 96000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 200
@@ -1735,7 +1735,7 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 1,
@@ -1756,7 +1756,7 @@
                     "totalSellQuantity": 40000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287.5
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 205
@@ -1781,7 +1781,7 @@
                     "totalSellQuantity": 132000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287.5
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 205
@@ -1806,11 +1806,11 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287.5
                 },
                 "PE": {
-                    "askPrice": 0.55,
-                    "askQty": 40000,
+                    "askPrice": 0.5,
+                    "askQty": 16000,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -1824,10 +1824,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 210,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 80000,
+                    "totalSellQuantity": 96000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287.5
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 210
@@ -1852,7 +1852,7 @@
                     "totalSellQuantity": 132000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1873,7 +1873,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 210
@@ -1883,7 +1883,7 @@
                     "askPrice": 78.1,
                     "askQty": 12000,
                     "bidQty": 12000,
-                    "bidprice": 45.35,
+                    "bidprice": 52.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1898,7 +1898,7 @@
                     "totalSellQuantity": 132000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287.5
                 },
                 "PE": {
                     "askPrice": 0.45,
@@ -1919,7 +1919,7 @@
                     "totalSellQuantity": 84000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 215
@@ -1944,13 +1944,13 @@
                     "totalSellQuantity": 132000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287.5
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
-                    "bidQty": 0,
-                    "bidprice": 0,
+                    "bidQty": 4000,
+                    "bidprice": 0.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -1961,21 +1961,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 215,
-                    "totalBuyQuantity": 0,
+                    "totalBuyQuantity": 4000,
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 215
             },
             {
                 "CE": {
-                    "askPrice": 69,
+                    "askPrice": 72.6,
                     "askQty": 12000,
                     "bidQty": 12000,
-                    "bidprice": 45.15,
+                    "bidprice": 58.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1987,10 +1987,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 220,
                     "totalBuyQuantity": 20000,
-                    "totalSellQuantity": 140000,
+                    "totalSellQuantity": 132000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 0.05,
@@ -2011,17 +2011,17 @@
                     "totalSellQuantity": 156000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 220
             },
             {
                 "CE": {
-                    "askPrice": 80.6,
+                    "askPrice": 80.2,
                     "askQty": 12000,
-                    "bidQty": 12000,
-                    "bidprice": 65.4,
+                    "bidQty": 120000,
+                    "bidprice": 63.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2032,11 +2032,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 220,
-                    "totalBuyQuantity": 132000,
+                    "totalBuyQuantity": 120000,
                     "totalSellQuantity": 132000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2057,17 +2057,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287.5
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 220
             },
             {
                 "CE": {
-                    "askPrice": 75.6,
+                    "askPrice": 75.3,
                     "askQty": 120000,
                     "bidQty": 12000,
-                    "bidprice": 60.5,
+                    "bidprice": 46.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2082,17 +2082,38 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
+                },
+                "PE": {
+                    "askPrice": 0,
+                    "askQty": 0,
+                    "bidQty": 4000,
+                    "bidprice": 0.1,
+                    "change": 0,
+                    "changeinOpenInterest": 0,
+                    "expiryDate": "29-Jun-2023",
+                    "identifier": "OPTSTKM&MFIN29-06-2023PE225.00",
+                    "impliedVolatility": 0,
+                    "lastPrice": 0,
+                    "openInterest": 0,
+                    "pChange": 0,
+                    "pchangeinOpenInterest": 0,
+                    "strikePrice": 225,
+                    "totalBuyQuantity": 8000,
+                    "totalSellQuantity": 0,
+                    "totalTradedVolume": 0,
+                    "underlying": "M&MFIN",
+                    "underlyingValue": 0
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 225
             },
             {
                 "CE": {
-                    "askPrice": 67.25,
+                    "askPrice": 65.25,
                     "askQty": 12000,
                     "bidQty": 12000,
-                    "bidprice": 38.25,
+                    "bidprice": 40.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2103,11 +2124,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 225,
-                    "totalBuyQuantity": 12000,
-                    "totalSellQuantity": 132000,
+                    "totalBuyQuantity": 20000,
+                    "totalSellQuantity": 140000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 0.05,
@@ -2128,17 +2149,17 @@
                     "totalSellQuantity": 8000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 225
             },
             {
                 "CE": {
-                    "askPrice": 60.15,
+                    "askPrice": 59.5,
                     "askQty": 12000,
-                    "bidQty": 24000,
-                    "bidprice": 56.5,
+                    "bidQty": 12000,
+                    "bidprice": 55.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2149,11 +2170,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 230,
-                    "totalBuyQuantity": 24000,
+                    "totalBuyQuantity": 36000,
                     "totalSellQuantity": 156000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 0.1,
@@ -2164,7 +2185,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023PE230.00",
-                    "impliedVolatility": 66.29,
+                    "impliedVolatility": 65.5,
                     "lastPrice": 0.05,
                     "openInterest": 101,
                     "pChange": -50,
@@ -2174,17 +2195,17 @@
                     "totalSellQuantity": 200000,
                     "totalTradedVolume": 3,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 230
             },
             {
                 "CE": {
-                    "askPrice": 71.55,
+                    "askPrice": 71.25,
                     "askQty": 120000,
                     "bidQty": 12000,
-                    "bidprice": 55.1,
+                    "bidprice": 54.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2199,17 +2220,17 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 230
             },
             {
                 "CE": {
-                    "askPrice": 68.05,
+                    "askPrice": 67.65,
                     "askQty": 120000,
                     "bidQty": 12000,
-                    "bidprice": 50.05,
+                    "bidprice": 48.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2224,7 +2245,7 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287.5
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2245,7 +2266,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 235
@@ -2270,7 +2291,7 @@
                     "totalSellQuantity": 156000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 0.1,
@@ -2291,17 +2312,17 @@
                     "totalSellQuantity": 348000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 235
             },
             {
                 "CE": {
-                    "askPrice": 58.4,
+                    "askPrice": 57.5,
                     "askQty": 12000,
                     "bidQty": 12000,
-                    "bidprice": 45.25,
+                    "bidprice": 44.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2312,17 +2333,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 240,
-                    "totalBuyQuantity": 140000,
+                    "totalBuyQuantity": 132000,
                     "totalSellQuantity": 140000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287.5
                 },
                 "PE": {
-                    "askPrice": 6.05,
-                    "askQty": 8000,
+                    "askPrice": 5.95,
+                    "askQty": 4000,
                     "bidQty": 4000,
-                    "bidprice": 0.3,
+                    "bidprice": 0.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2334,20 +2355,20 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 240,
                     "totalBuyQuantity": 16000,
-                    "totalSellQuantity": 8000,
+                    "totalSellQuantity": 12000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 240
             },
             {
                 "CE": {
-                    "askPrice": 48.5,
-                    "askQty": 24000,
-                    "bidQty": 12000,
-                    "bidprice": 45.95,
+                    "askPrice": 48.6,
+                    "askQty": 12000,
+                    "bidQty": 8000,
+                    "bidprice": 46.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2358,11 +2379,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 240,
-                    "totalBuyQuantity": 56000,
+                    "totalBuyQuantity": 44000,
                     "totalSellQuantity": 180000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 0.1,
@@ -2373,7 +2394,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023PE240.00",
-                    "impliedVolatility": 60.17,
+                    "impliedVolatility": 54.28,
                     "lastPrice": 0.05,
                     "openInterest": 298,
                     "pChange": -50,
@@ -2383,7 +2404,7 @@
                     "totalSellQuantity": 344000,
                     "totalTradedVolume": 3,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 240
@@ -2408,17 +2429,17 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 245
             },
             {
                 "CE": {
-                    "askPrice": 43.3,
+                    "askPrice": 43.2,
                     "askQty": 8000,
                     "bidQty": 12000,
-                    "bidprice": 40.8,
+                    "bidprice": 41.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2433,7 +2454,7 @@
                     "totalSellQuantity": 164000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 0.1,
@@ -2444,7 +2465,7 @@
                     "changeinOpenInterest": -8,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023PE245.00",
-                    "impliedVolatility": 54.27,
+                    "impliedVolatility": 53.39,
                     "lastPrice": 0.1,
                     "openInterest": 56,
                     "pChange": 0,
@@ -2454,17 +2475,17 @@
                     "totalSellQuantity": 448000,
                     "totalTradedVolume": 10,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 245
             },
             {
                 "CE": {
-                    "askPrice": 47.35,
+                    "askPrice": 47.05,
                     "askQty": 12000,
                     "bidQty": 12000,
-                    "bidprice": 35.05,
+                    "bidprice": 34.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2479,7 +2500,7 @@
                     "totalSellQuantity": 132000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 3.75,
@@ -2500,7 +2521,7 @@
                     "totalSellQuantity": 4000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 250
@@ -2525,7 +2546,7 @@
                     "totalSellQuantity": 4000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 7.7,
@@ -2546,7 +2567,7 @@
                     "totalSellQuantity": 4000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 250
@@ -2556,7 +2577,7 @@
                     "askPrice": 39.25,
                     "askQty": 28000,
                     "bidQty": 4000,
-                    "bidprice": 36.8,
+                    "bidprice": 36.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2571,28 +2592,28 @@
                     "totalSellQuantity": 260000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 0.2,
-                    "askQty": 48000,
-                    "bidQty": 44000,
+                    "askQty": 44000,
+                    "bidQty": 48000,
                     "bidprice": 0.15,
                     "change": -0.05000000000000002,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023PE250.00",
-                    "impliedVolatility": 51.42,
+                    "impliedVolatility": 50.49,
                     "lastPrice": 0.15,
                     "openInterest": 258,
                     "pChange": -25.000000000000007,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 250,
-                    "totalBuyQuantity": 780000,
-                    "totalSellQuantity": 476000,
+                    "totalBuyQuantity": 776000,
+                    "totalSellQuantity": 508000,
                     "totalTradedVolume": 23,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287.5
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 250
@@ -2617,7 +2638,7 @@
                     "totalSellQuantity": 144000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287.5
                 },
                 "PE": {
                     "askPrice": 4.2,
@@ -2638,17 +2659,17 @@
                     "totalSellQuantity": 4000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 255
             },
             {
                 "CE": {
-                    "askPrice": 34.9,
+                    "askPrice": 33.6,
                     "askQty": 16000,
-                    "bidQty": 12000,
-                    "bidprice": 31.35,
+                    "bidQty": 16000,
+                    "bidprice": 31.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2659,32 +2680,32 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 255,
-                    "totalBuyQuantity": 312000,
-                    "totalSellQuantity": 288000,
+                    "totalBuyQuantity": 300000,
+                    "totalSellQuantity": 284000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
-                    "askPrice": 0.3,
-                    "askQty": 12000,
+                    "askPrice": 0.35,
+                    "askQty": 28000,
                     "bidQty": 100000,
                     "bidprice": 0.25,
                     "change": -0.09999999999999998,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023PE255.00",
-                    "impliedVolatility": 49.4,
+                    "impliedVolatility": 48.39,
                     "lastPrice": 0.25,
                     "openInterest": 223,
                     "pChange": -28.571428571428566,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 255,
-                    "totalBuyQuantity": 1020000,
-                    "totalSellQuantity": 312000,
+                    "totalBuyQuantity": 964000,
+                    "totalSellQuantity": 352000,
                     "totalTradedVolume": 6,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 255
@@ -2709,17 +2730,17 @@
                     "totalSellQuantity": 4000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 255
             },
             {
                 "CE": {
-                    "askPrice": 29.4,
-                    "askQty": 16000,
-                    "bidQty": 4000,
-                    "bidprice": 27.25,
+                    "askPrice": 28.6,
+                    "askQty": 8000,
+                    "bidQty": 12000,
+                    "bidprice": 26.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2730,11 +2751,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 260,
-                    "totalBuyQuantity": 308000,
-                    "totalSellQuantity": 296000,
+                    "totalBuyQuantity": 316000,
+                    "totalSellQuantity": 300000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 0.35,
@@ -2745,17 +2766,17 @@
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023PE260.00",
-                    "impliedVolatility": 45.8,
+                    "impliedVolatility": 44.72,
                     "lastPrice": 0.35,
                     "openInterest": 291,
                     "pChange": -22.22222222222223,
                     "pchangeinOpenInterest": -0.6825938566552902,
                     "strikePrice": 260,
                     "totalBuyQuantity": 1652000,
-                    "totalSellQuantity": 584000,
+                    "totalSellQuantity": 608000,
                     "totalTradedVolume": 23,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 260
@@ -2780,7 +2801,7 @@
                     "totalSellQuantity": 148000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 4,
@@ -2801,7 +2822,7 @@
                     "totalSellQuantity": 8000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 260
@@ -2826,53 +2847,53 @@
                     "totalSellQuantity": 4000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 260
             },
             {
                 "CE": {
-                    "askPrice": 23.1,
-                    "askQty": 4000,
+                    "askPrice": 23.35,
+                    "askQty": 12000,
                     "bidQty": 4000,
-                    "bidprice": 22.4,
+                    "bidprice": 22.6,
                     "change": 4.850000000000001,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023CE265.00",
-                    "impliedVolatility": 34.69,
+                    "impliedVolatility": 50.28,
                     "lastPrice": 24,
                     "openInterest": 96,
                     "pChange": 25.326370757180168,
                     "pchangeinOpenInterest": -1.0309278350515463,
                     "strikePrice": 265,
-                    "totalBuyQuantity": 320000,
-                    "totalSellQuantity": 284000,
+                    "totalBuyQuantity": 316000,
+                    "totalSellQuantity": 288000,
                     "totalTradedVolume": 3,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 0.55,
                     "askQty": 8000,
-                    "bidQty": 20000,
+                    "bidQty": 40000,
                     "bidprice": 0.45,
                     "change": -0.19999999999999996,
                     "changeinOpenInterest": -16,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023PE265.00",
-                    "impliedVolatility": 42.19,
+                    "impliedVolatility": 41.02,
                     "lastPrice": 0.5,
                     "openInterest": 170,
                     "pChange": -28.571428571428566,
                     "pchangeinOpenInterest": -8.602150537634408,
                     "strikePrice": 265,
-                    "totalBuyQuantity": 1140000,
-                    "totalSellQuantity": 464000,
+                    "totalBuyQuantity": 1136000,
+                    "totalSellQuantity": 468000,
                     "totalTradedVolume": 68,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287.5
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 265
@@ -2897,7 +2918,7 @@
                     "totalSellQuantity": 144000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 5.3,
@@ -2918,53 +2939,53 @@
                     "totalSellQuantity": 8000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 265
             },
             {
                 "CE": {
-                    "askPrice": 18.65,
+                    "askPrice": 18.35,
                     "askQty": 4000,
-                    "bidQty": 4000,
-                    "bidprice": 18.25,
+                    "bidQty": 8000,
+                    "bidprice": 18.05,
                     "change": 4.35,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023CE270.00",
-                    "impliedVolatility": 28.11,
+                    "impliedVolatility": 41.84,
                     "lastPrice": 19,
                     "openInterest": 172,
                     "pChange": 29.692832764505116,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 270,
-                    "totalBuyQuantity": 340000,
-                    "totalSellQuantity": 300000,
+                    "totalBuyQuantity": 336000,
+                    "totalSellQuantity": 316000,
                     "totalTradedVolume": 4,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 0.85,
-                    "askQty": 28000,
-                    "bidQty": 8000,
+                    "askQty": 32000,
+                    "bidQty": 16000,
                     "bidprice": 0.75,
-                    "change": -0.25,
-                    "changeinOpenInterest": -7,
+                    "change": -0.30000000000000004,
+                    "changeinOpenInterest": -4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023PE270.00",
-                    "impliedVolatility": 38.11,
-                    "lastPrice": 0.8,
-                    "openInterest": 418,
-                    "pChange": -23.809523809523807,
-                    "pchangeinOpenInterest": -1.6470588235294117,
+                    "impliedVolatility": 38.9,
+                    "lastPrice": 0.75,
+                    "openInterest": 421,
+                    "pChange": -28.571428571428577,
+                    "pchangeinOpenInterest": -0.9411764705882353,
                     "strikePrice": 270,
-                    "totalBuyQuantity": 2268000,
-                    "totalSellQuantity": 664000,
-                    "totalTradedVolume": 73,
+                    "totalBuyQuantity": 2272000,
+                    "totalSellQuantity": 672000,
+                    "totalTradedVolume": 76,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 270
@@ -2989,18 +3010,18 @@
                     "totalSellQuantity": 136000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 6.2,
                     "askQty": 4000,
-                    "bidQty": 8000,
+                    "bidQty": 4000,
                     "bidprice": 3,
                     "change": -44.1,
                     "changeinOpenInterest": 2,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKM&MFIN29-06-2023PE270.00",
-                    "impliedVolatility": 21.45,
+                    "impliedVolatility": 28.79,
                     "lastPrice": 3.5,
                     "openInterest": 2,
                     "pChange": -92.64705882352942,
@@ -3010,7 +3031,7 @@
                     "totalSellQuantity": 24000,
                     "totalTradedVolume": 3,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 270
@@ -3035,22 +3056,22 @@
                     "totalSellQuantity": 4000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 270
             },
             {
                 "CE": {
-                    "askPrice": 13.8,
+                    "askPrice": 14,
                     "askQty": 4000,
                     "bidQty": 4000,
-                    "bidprice": 13.25,
+                    "bidprice": 13.65,
                     "change": 2.25,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023CE275.00",
-                    "impliedVolatility": 34.65,
+                    "impliedVolatility": 41.82,
                     "lastPrice": 14.9,
                     "openInterest": 76,
                     "pChange": 17.786561264822133,
@@ -3060,28 +3081,28 @@
                     "totalSellQuantity": 312000,
                     "totalTradedVolume": 1,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
-                    "askPrice": 1.35,
-                    "askQty": 4000,
-                    "bidQty": 16000,
+                    "askPrice": 1.4,
+                    "askQty": 12000,
+                    "bidQty": 8000,
                     "bidprice": 1.3,
-                    "change": -0.44999999999999996,
-                    "changeinOpenInterest": 1,
+                    "change": -0.3500000000000001,
+                    "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023PE275.00",
-                    "impliedVolatility": 37.03,
-                    "lastPrice": 1.3,
-                    "openInterest": 213,
-                    "pChange": -25.71428571428571,
-                    "pchangeinOpenInterest": 0.4716981132075472,
+                    "impliedVolatility": 35.53,
+                    "lastPrice": 1.4,
+                    "openInterest": 212,
+                    "pChange": -20.000000000000004,
+                    "pchangeinOpenInterest": 0,
                     "strikePrice": 275,
                     "totalBuyQuantity": 708000,
-                    "totalSellQuantity": 636000,
-                    "totalTradedVolume": 45,
+                    "totalSellQuantity": 644000,
+                    "totalTradedVolume": 49,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 275
@@ -3106,13 +3127,13 @@
                     "totalSellQuantity": 136000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 7.8,
                     "askQty": 4000,
                     "bidQty": 4000,
-                    "bidprice": 3.9,
+                    "bidprice": 4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3123,110 +3144,110 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 275,
-                    "totalBuyQuantity": 8000,
+                    "totalBuyQuantity": 16000,
                     "totalSellQuantity": 4000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287.5
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 275
             },
             {
                 "CE": {
-                    "askPrice": 18.25,
+                    "askPrice": 17.65,
                     "askQty": 4000,
                     "bidQty": 4000,
-                    "bidprice": 15.5,
+                    "bidprice": 15.6,
                     "change": 6.35,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKM&MFIN29-06-2023CE280.00",
-                    "impliedVolatility": 33.87,
+                    "impliedVolatility": 35.5,
                     "lastPrice": 19.5,
                     "openInterest": 7,
                     "pChange": 48.28897338403041,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 280,
-                    "totalBuyQuantity": 132000,
-                    "totalSellQuantity": 140000,
+                    "totalBuyQuantity": 12000,
+                    "totalSellQuantity": 136000,
                     "totalTradedVolume": 2,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 8.15,
                     "askQty": 4000,
                     "bidQty": 4000,
-                    "bidprice": 6.2,
+                    "bidprice": 6.25,
                     "change": -3.6499999999999995,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKM&MFIN29-06-2023PE280.00",
-                    "impliedVolatility": 27.66,
+                    "impliedVolatility": 26.84,
                     "lastPrice": 5.8,
                     "openInterest": 6,
                     "pChange": -38.62433862433862,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 280,
-                    "totalBuyQuantity": 20000,
+                    "totalBuyQuantity": 36000,
                     "totalSellQuantity": 16000,
                     "totalTradedVolume": 1,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287.5
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 280
             },
             {
                 "CE": {
-                    "askPrice": 9.75,
+                    "askPrice": 9.9,
                     "askQty": 8000,
-                    "bidQty": 4000,
-                    "bidprice": 9.55,
-                    "change": 1.1500000000000004,
-                    "changeinOpenInterest": -20,
+                    "bidQty": 8000,
+                    "bidprice": 9.75,
+                    "change": 1.0999999999999996,
+                    "changeinOpenInterest": -19,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023CE280.00",
-                    "impliedVolatility": 33.41,
-                    "lastPrice": 9.8,
-                    "openInterest": 264,
-                    "pChange": 13.294797687861276,
-                    "pchangeinOpenInterest": -7.042253521126761,
+                    "impliedVolatility": 32.41,
+                    "lastPrice": 9.75,
+                    "openInterest": 265,
+                    "pChange": 12.716763005780344,
+                    "pchangeinOpenInterest": -6.690140845070423,
                     "strikePrice": 280,
-                    "totalBuyQuantity": 392000,
+                    "totalBuyQuantity": 404000,
                     "totalSellQuantity": 416000,
-                    "totalTradedVolume": 139,
+                    "totalTradedVolume": 143,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
-                    "askPrice": 2.2,
-                    "askQty": 8000,
-                    "bidQty": 24000,
-                    "bidprice": 2.05,
-                    "change": -0.6999999999999997,
-                    "changeinOpenInterest": 5,
+                    "askPrice": 2.35,
+                    "askQty": 16000,
+                    "bidQty": 4000,
+                    "bidprice": 2.25,
+                    "change": -0.5499999999999998,
+                    "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023PE280.00",
-                    "impliedVolatility": 34.09,
-                    "lastPrice": 2.1,
-                    "openInterest": 281,
-                    "pChange": -24.999999999999993,
-                    "pchangeinOpenInterest": 1.8115942028985508,
+                    "impliedVolatility": 32.7,
+                    "lastPrice": 2.25,
+                    "openInterest": 274,
+                    "pChange": -19.642857142857135,
+                    "pchangeinOpenInterest": -0.7246376811594203,
                     "strikePrice": 280,
-                    "totalBuyQuantity": 556000,
-                    "totalSellQuantity": 612000,
-                    "totalTradedVolume": 145,
+                    "totalBuyQuantity": 564000,
+                    "totalSellQuantity": 632000,
+                    "totalTradedVolume": 156,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287.5
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 280
             },
             {
                 "CE": {
-                    "askPrice": 43.95,
+                    "askPrice": 43.9,
                     "askQty": 4000,
                     "bidQty": 4000,
                     "bidprice": 13.25,
@@ -3234,94 +3255,94 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "27-Jul-2023",
                     "identifier": "OPTSTKM&MFIN27-07-2023CE280.00",
-                    "impliedVolatility": 22.09,
+                    "impliedVolatility": 23.52,
                     "lastPrice": 19,
                     "openInterest": 1,
                     "pChange": 11.76470588235294,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 280,
                     "totalBuyQuantity": 12000,
-                    "totalSellQuantity": 8000,
+                    "totalSellQuantity": 4000,
                     "totalTradedVolume": 1,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287.5
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 280
             },
             {
                 "CE": {
-                    "askPrice": 6.55,
+                    "askPrice": 6.4,
                     "askQty": 4000,
-                    "bidQty": 8000,
-                    "bidprice": 6.4,
-                    "change": 0.8000000000000007,
-                    "changeinOpenInterest": -2,
+                    "bidQty": 4000,
+                    "bidprice": 6.25,
+                    "change": 1,
+                    "changeinOpenInterest": -4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023CE285.00",
-                    "impliedVolatility": 27.22,
-                    "lastPrice": 6.15,
-                    "openInterest": 197,
-                    "pChange": 14.953271028037399,
-                    "pchangeinOpenInterest": -1.0050251256281406,
+                    "impliedVolatility": 30.94,
+                    "lastPrice": 6.35,
+                    "openInterest": 195,
+                    "pChange": 18.691588785046733,
+                    "pchangeinOpenInterest": -2.0100502512562812,
                     "strikePrice": 285,
                     "totalBuyQuantity": 448000,
-                    "totalSellQuantity": 488000,
-                    "totalTradedVolume": 264,
+                    "totalSellQuantity": 500000,
+                    "totalTradedVolume": 267,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
-                    "askPrice": 3.85,
-                    "askQty": 16000,
-                    "bidQty": 4000,
-                    "bidprice": 3.65,
-                    "change": -0.6500000000000004,
-                    "changeinOpenInterest": 21,
+                    "askPrice": 3.9,
+                    "askQty": 8000,
+                    "bidQty": 8000,
+                    "bidprice": 3.7,
+                    "change": -0.6000000000000001,
+                    "changeinOpenInterest": 19,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023PE285.00",
-                    "impliedVolatility": 32.86,
-                    "lastPrice": 3.8,
-                    "openInterest": 148,
-                    "pChange": -14.606741573033716,
-                    "pchangeinOpenInterest": 16.53543307086614,
+                    "impliedVolatility": 30.58,
+                    "lastPrice": 3.85,
+                    "openInterest": 146,
+                    "pChange": -13.483146067415733,
+                    "pchangeinOpenInterest": 14.960629921259843,
                     "strikePrice": 285,
-                    "totalBuyQuantity": 556000,
-                    "totalSellQuantity": 608000,
-                    "totalTradedVolume": 99,
+                    "totalBuyQuantity": 560000,
+                    "totalSellQuantity": 600000,
+                    "totalTradedVolume": 103,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 285
             },
             {
                 "CE": {
-                    "askPrice": 14.15,
+                    "askPrice": 14.4,
                     "askQty": 4000,
                     "bidQty": 4000,
-                    "bidprice": 12.85,
+                    "bidprice": 12.75,
                     "change": 8.55,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKM&MFIN29-06-2023CE285.00",
-                    "impliedVolatility": 41.67,
+                    "impliedVolatility": 43.06,
                     "lastPrice": 19.55,
                     "openInterest": 1,
                     "pChange": 77.72727272727273,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 285,
-                    "totalBuyQuantity": 12000,
-                    "totalSellQuantity": 12000,
+                    "totalBuyQuantity": 8000,
+                    "totalSellQuantity": 20000,
                     "totalTradedVolume": 3,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 16000,
-                    "bidprice": 7.35,
+                    "bidprice": 7.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3336,7 +3357,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287.5
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 285
@@ -3361,7 +3382,7 @@
                     "totalSellQuantity": 4000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 19.4,
@@ -3382,53 +3403,53 @@
                     "totalSellQuantity": 4000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 285
             },
             {
                 "CE": {
-                    "askPrice": 4,
+                    "askPrice": 3.85,
                     "askQty": 4000,
-                    "bidQty": 20000,
-                    "bidprice": 3.9,
-                    "change": 0.8500000000000001,
-                    "changeinOpenInterest": 120,
+                    "bidQty": 16000,
+                    "bidprice": 3.75,
+                    "change": 0.7000000000000002,
+                    "changeinOpenInterest": 116,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023CE290.00",
-                    "impliedVolatility": 28.51,
-                    "lastPrice": 4,
-                    "openInterest": 583,
-                    "pChange": 26.984126984126988,
-                    "pchangeinOpenInterest": 25.91792656587473,
+                    "impliedVolatility": 31.1,
+                    "lastPrice": 3.85,
+                    "openInterest": 579,
+                    "pChange": 22.22222222222223,
+                    "pchangeinOpenInterest": 25.053995680345572,
                     "strikePrice": 290,
-                    "totalBuyQuantity": 996000,
-                    "totalSellQuantity": 968000,
-                    "totalTradedVolume": 721,
+                    "totalBuyQuantity": 984000,
+                    "totalSellQuantity": 996000,
+                    "totalTradedVolume": 763,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287.5
                 },
                 "PE": {
-                    "askPrice": 6.45,
-                    "askQty": 12000,
+                    "askPrice": 6.3,
+                    "askQty": 8000,
                     "bidQty": 8000,
-                    "bidprice": 6.3,
-                    "change": -1.2000000000000002,
-                    "changeinOpenInterest": 36,
+                    "bidprice": 6.2,
+                    "change": -0.9500000000000002,
+                    "changeinOpenInterest": 39,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023PE290.00",
-                    "impliedVolatility": 33.26,
-                    "lastPrice": 6,
-                    "openInterest": 161,
-                    "pChange": -16.666666666666668,
-                    "pchangeinOpenInterest": 28.8,
+                    "impliedVolatility": 30.82,
+                    "lastPrice": 6.25,
+                    "openInterest": 164,
+                    "pChange": -13.194444444444448,
+                    "pchangeinOpenInterest": 31.2,
                     "strikePrice": 290,
-                    "totalBuyQuantity": 548000,
-                    "totalSellQuantity": 388000,
-                    "totalTradedVolume": 117,
+                    "totalBuyQuantity": 544000,
+                    "totalSellQuantity": 524000,
+                    "totalTradedVolume": 128,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 290
@@ -3453,7 +3474,7 @@
                     "totalSellQuantity": 4000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 21.75,
@@ -3474,38 +3495,38 @@
                     "totalSellQuantity": 4000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 290
             },
             {
                 "CE": {
-                    "askPrice": 11.5,
+                    "askPrice": 11.45,
                     "askQty": 4000,
                     "bidQty": 4000,
-                    "bidprice": 10.85,
+                    "bidprice": 10.35,
                     "change": 2.4499999999999993,
                     "changeinOpenInterest": 5,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKM&MFIN29-06-2023CE290.00",
-                    "impliedVolatility": 28.6,
+                    "impliedVolatility": 29.84,
                     "lastPrice": 11.95,
                     "openInterest": 12,
                     "pChange": 25.789473684210517,
                     "pchangeinOpenInterest": 71.42857142857143,
                     "strikePrice": 290,
-                    "totalBuyQuantity": 264000,
+                    "totalBuyQuantity": 152000,
                     "totalSellQuantity": 24000,
                     "totalTradedVolume": 8,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
-                    "askPrice": 14.4,
+                    "askPrice": 14.2,
                     "askQty": 4000,
                     "bidQty": 4000,
-                    "bidprice": 10.9,
+                    "bidprice": 9.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3516,57 +3537,57 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 290,
-                    "totalBuyQuantity": 8000,
+                    "totalBuyQuantity": 12000,
                     "totalSellQuantity": 8000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 290
             },
             {
                 "CE": {
-                    "askPrice": 2.1,
+                    "askPrice": 2.15,
                     "askQty": 4000,
-                    "bidQty": 28000,
-                    "bidprice": 2,
+                    "bidQty": 4000,
+                    "bidprice": 2.05,
                     "change": 0.40000000000000013,
-                    "changeinOpenInterest": 34,
+                    "changeinOpenInterest": 31,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023CE295.00",
-                    "impliedVolatility": 29.16,
+                    "impliedVolatility": 30.01,
                     "lastPrice": 2.1,
-                    "openInterest": 339,
+                    "openInterest": 336,
                     "pChange": 23.52941176470589,
-                    "pchangeinOpenInterest": 11.147540983606557,
+                    "pchangeinOpenInterest": 10.163934426229508,
                     "strikePrice": 295,
                     "totalBuyQuantity": 904000,
-                    "totalSellQuantity": 684000,
-                    "totalTradedVolume": 239,
+                    "totalSellQuantity": 704000,
+                    "totalTradedVolume": 250,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
-                    "askPrice": 9.55,
-                    "askQty": 8000,
+                    "askPrice": 9.8,
+                    "askQty": 4000,
                     "bidQty": 4000,
-                    "bidprice": 9.2,
+                    "bidprice": 9.35,
                     "change": -3.000000000000001,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023PE295.00",
-                    "impliedVolatility": 23,
+                    "impliedVolatility": 16.72,
                     "lastPrice": 7.55,
                     "openInterest": 29,
                     "pChange": -28.436018957345976,
                     "pchangeinOpenInterest": -3.3333333333333335,
                     "strikePrice": 295,
-                    "totalBuyQuantity": 180000,
-                    "totalSellQuantity": 184000,
+                    "totalBuyQuantity": 176000,
+                    "totalSellQuantity": 180000,
                     "totalTradedVolume": 2,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 295
@@ -3591,13 +3612,13 @@
                     "totalSellQuantity": 248000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287.5
                 },
                 "PE": {
                     "askPrice": 18.45,
                     "askQty": 16000,
-                    "bidQty": 4000,
-                    "bidprice": 10.5,
+                    "bidQty": 12000,
+                    "bidprice": 10.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3608,11 +3629,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 295,
-                    "totalBuyQuantity": 4000,
+                    "totalBuyQuantity": 16000,
                     "totalSellQuantity": 16000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 295
@@ -3637,7 +3658,7 @@
                     "totalSellQuantity": 4000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 24.35,
@@ -3658,7 +3679,7 @@
                     "totalSellQuantity": 4000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 295
@@ -3666,45 +3687,45 @@
             {
                 "CE": {
                     "askPrice": 1.35,
-                    "askQty": 28000,
-                    "bidQty": 4000,
+                    "askQty": 16000,
+                    "bidQty": 12000,
                     "bidprice": 1.25,
-                    "change": 0.25,
-                    "changeinOpenInterest": -9,
+                    "change": 0.30000000000000004,
+                    "changeinOpenInterest": -12,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023CE300.00",
-                    "impliedVolatility": 30.92,
-                    "lastPrice": 1.25,
-                    "openInterest": 702,
-                    "pChange": 25,
-                    "pchangeinOpenInterest": -1.2658227848101267,
+                    "impliedVolatility": 32.03,
+                    "lastPrice": 1.3,
+                    "openInterest": 699,
+                    "pChange": 30.000000000000004,
+                    "pchangeinOpenInterest": -1.6877637130801688,
                     "strikePrice": 300,
-                    "totalBuyQuantity": 2588000,
-                    "totalSellQuantity": 992000,
-                    "totalTradedVolume": 515,
+                    "totalBuyQuantity": 2616000,
+                    "totalSellQuantity": 884000,
+                    "totalTradedVolume": 521,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
-                    "askPrice": 14.15,
+                    "askPrice": 14.4,
                     "askQty": 4000,
                     "bidQty": 4000,
-                    "bidprice": 13.15,
+                    "bidprice": 13.45,
                     "change": -3,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023PE300.00",
-                    "impliedVolatility": 26.81,
+                    "impliedVolatility": 0,
                     "lastPrice": 12,
                     "openInterest": 46,
                     "pChange": -20,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 300,
                     "totalBuyQuantity": 336000,
-                    "totalSellQuantity": 332000,
+                    "totalSellQuantity": 340000,
                     "totalTradedVolume": 1,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 300
@@ -3719,23 +3740,23 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKM&MFIN29-06-2023CE300.00",
-                    "impliedVolatility": 29.64,
+                    "impliedVolatility": 30.6,
                     "lastPrice": 8.05,
                     "openInterest": 4,
                     "pChange": 15.00000000000001,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 300,
-                    "totalBuyQuantity": 32000,
+                    "totalBuyQuantity": 148000,
                     "totalSellQuantity": 136000,
                     "totalTradedVolume": 1,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
-                    "askPrice": 20,
+                    "askPrice": 20.2,
                     "askQty": 4000,
-                    "bidQty": 16000,
-                    "bidprice": 13.4,
+                    "bidQty": 12000,
+                    "bidprice": 14.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3746,11 +3767,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 300,
-                    "totalBuyQuantity": 28000,
+                    "totalBuyQuantity": 20000,
                     "totalSellQuantity": 8000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 300
@@ -3775,7 +3796,7 @@
                     "totalSellQuantity": 4000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 27.25,
@@ -3796,53 +3817,53 @@
                     "totalSellQuantity": 4000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 300
             },
             {
                 "CE": {
-                    "askPrice": 0.7,
-                    "askQty": 4000,
-                    "bidQty": 16000,
-                    "bidprice": 0.6,
+                    "askPrice": 0.75,
+                    "askQty": 12000,
+                    "bidQty": 12000,
+                    "bidprice": 0.65,
                     "change": 0.25,
                     "changeinOpenInterest": 5,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023CE305.00",
-                    "impliedVolatility": 33.31,
+                    "impliedVolatility": 34.04,
                     "lastPrice": 0.75,
                     "openInterest": 110,
                     "pChange": 50,
                     "pchangeinOpenInterest": 4.761904761904762,
                     "strikePrice": 305,
-                    "totalBuyQuantity": 928000,
-                    "totalSellQuantity": 588000,
+                    "totalBuyQuantity": 940000,
+                    "totalSellQuantity": 596000,
                     "totalTradedVolume": 52,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
-                    "askPrice": 19.7,
-                    "askQty": 4000,
-                    "bidQty": 4000,
-                    "bidprice": 17.55,
+                    "askPrice": 18.75,
+                    "askQty": 24000,
+                    "bidQty": 8000,
+                    "bidprice": 18,
                     "change": -5.399999999999999,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023PE305.00",
-                    "impliedVolatility": 28.26,
+                    "impliedVolatility": 0,
                     "lastPrice": 16.55,
                     "openInterest": 3,
                     "pChange": -24.601366742596806,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 305,
                     "totalBuyQuantity": 272000,
-                    "totalSellQuantity": 284000,
+                    "totalSellQuantity": 288000,
                     "totalTradedVolume": 1,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 305
@@ -3867,7 +3888,7 @@
                     "totalSellQuantity": 4000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287.5
                 },
                 "PE": {
                     "askPrice": 33.95,
@@ -3888,7 +3909,7 @@
                     "totalSellQuantity": 4000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 305
@@ -3913,7 +3934,7 @@
                     "totalSellQuantity": 244000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 27.35,
@@ -3934,38 +3955,38 @@
                     "totalSellQuantity": 16000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 305
             },
             {
                 "CE": {
-                    "askPrice": 0.4,
-                    "askQty": 4000,
-                    "bidQty": 20000,
-                    "bidprice": 0.35,
+                    "askPrice": 0.45,
+                    "askQty": 28000,
+                    "bidQty": 32000,
+                    "bidprice": 0.4,
                     "change": 0.10000000000000003,
                     "changeinOpenInterest": 9,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023CE310.00",
-                    "impliedVolatility": 34.7,
+                    "impliedVolatility": 33.95,
                     "lastPrice": 0.4,
                     "openInterest": 223,
                     "pChange": 33.33333333333335,
                     "pchangeinOpenInterest": 4.205607476635514,
                     "strikePrice": 310,
-                    "totalBuyQuantity": 1568000,
-                    "totalSellQuantity": 632000,
-                    "totalTradedVolume": 67,
+                    "totalBuyQuantity": 1596000,
+                    "totalSellQuantity": 636000,
+                    "totalTradedVolume": 68,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
-                    "askPrice": 23.7,
-                    "askQty": 16000,
-                    "bidQty": 16000,
-                    "bidprice": 21.4,
+                    "askPrice": 22.95,
+                    "askQty": 4000,
+                    "bidQty": 4000,
+                    "bidprice": 22.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3976,18 +3997,18 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 310,
-                    "totalBuyQuantity": 312000,
-                    "totalSellQuantity": 296000,
+                    "totalBuyQuantity": 304000,
+                    "totalSellQuantity": 284000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287.5
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 310
             },
             {
                 "CE": {
-                    "askPrice": 5.55,
+                    "askPrice": 5.45,
                     "askQty": 4000,
                     "bidQty": 8000,
                     "bidprice": 3.1,
@@ -4005,7 +4026,7 @@
                     "totalSellQuantity": 128000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 30.7,
@@ -4026,7 +4047,7 @@
                     "totalSellQuantity": 4000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 310
@@ -4041,7 +4062,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023CE315.00",
-                    "impliedVolatility": 0,
+                    "impliedVolatility": 37.06,
                     "lastPrice": 0.25,
                     "openInterest": 60,
                     "pChange": 66.66666666666667,
@@ -4051,13 +4072,13 @@
                     "totalSellQuantity": 456000,
                     "totalTradedVolume": 4,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
-                    "askPrice": 28.4,
-                    "askQty": 12000,
-                    "bidQty": 12000,
-                    "bidprice": 26.45,
+                    "askPrice": 28.95,
+                    "askQty": 24000,
+                    "bidQty": 24000,
+                    "bidprice": 26.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4069,10 +4090,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 315,
                     "totalBuyQuantity": 180000,
-                    "totalSellQuantity": 168000,
+                    "totalSellQuantity": 180000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 315
@@ -4097,7 +4118,7 @@
                     "totalSellQuantity": 124000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 34.75,
@@ -4118,7 +4139,7 @@
                     "totalSellQuantity": 16000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 315
@@ -4126,24 +4147,24 @@
             {
                 "CE": {
                     "askPrice": 0.25,
-                    "askQty": 24000,
+                    "askQty": 12000,
                     "bidQty": 36000,
                     "bidprice": 0.2,
                     "change": 0.15,
                     "changeinOpenInterest": -5,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023CE320.00",
-                    "impliedVolatility": 41.19,
+                    "impliedVolatility": 42.23,
                     "lastPrice": 0.25,
                     "openInterest": 65,
                     "pChange": 149.99999999999997,
                     "pchangeinOpenInterest": -7.142857142857143,
                     "strikePrice": 320,
                     "totalBuyQuantity": 456000,
-                    "totalSellQuantity": 524000,
+                    "totalSellQuantity": 516000,
                     "totalTradedVolume": 25,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 33.95,
@@ -4164,15 +4185,15 @@
                     "totalSellQuantity": 168000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 320
             },
             {
                 "CE": {
-                    "askPrice": 4.85,
-                    "askQty": 4000,
+                    "askPrice": 4.75,
+                    "askQty": 8000,
                     "bidQty": 8000,
                     "bidprice": 0.3,
                     "change": 0,
@@ -4189,7 +4210,7 @@
                     "totalSellQuantity": 128000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 38.9,
@@ -4210,7 +4231,7 @@
                     "totalSellQuantity": 16000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 320
@@ -4225,7 +4246,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023CE325.00",
-                    "impliedVolatility": 46.18,
+                    "impliedVolatility": 47.21,
                     "lastPrice": 0.25,
                     "openInterest": 56,
                     "pChange": 66.66666666666667,
@@ -4235,10 +4256,10 @@
                     "totalSellQuantity": 352000,
                     "totalTradedVolume": 1,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
-                    "askPrice": 39.25,
+                    "askPrice": 38.8,
                     "askQty": 12000,
                     "bidQty": 12000,
                     "bidprice": 35.8,
@@ -4256,7 +4277,7 @@
                     "totalSellQuantity": 168000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 325
@@ -4281,7 +4302,7 @@
                     "totalSellQuantity": 244000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 43.65,
@@ -4302,7 +4323,7 @@
                     "totalSellQuantity": 24000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 325
@@ -4317,7 +4338,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKM&MFIN25-05-2023CE330.00",
-                    "impliedVolatility": 44.28,
+                    "impliedVolatility": 45.18,
                     "lastPrice": 0.1,
                     "openInterest": 25,
                     "pChange": 0,
@@ -4327,13 +4348,13 @@
                     "totalSellQuantity": 316000,
                     "totalTradedVolume": 2,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
-                    "askPrice": 43.3,
+                    "askPrice": 43.8,
                     "askQty": 12000,
                     "bidQty": 12000,
-                    "bidprice": 40.6,
+                    "bidprice": 41.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4345,10 +4366,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 330,
                     "totalBuyQuantity": 168000,
-                    "totalSellQuantity": 156000,
+                    "totalSellQuantity": 168000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 330
@@ -4370,10 +4391,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 330,
                     "totalBuyQuantity": 12000,
-                    "totalSellQuantity": 128000,
+                    "totalSellQuantity": 248000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 65,
@@ -4394,7 +4415,7 @@
                     "totalSellQuantity": 12000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 330
@@ -4419,7 +4440,7 @@
                     "totalSellQuantity": 12000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "PE": {
                     "askPrice": 51.9,
@@ -4440,7 +4461,7 @@
                     "totalSellQuantity": 132000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 335
@@ -4455,7 +4476,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKM&MFIN29-06-2023CE335.00",
-                    "impliedVolatility": 28.4,
+                    "impliedVolatility": 28.9,
                     "lastPrice": 1,
                     "openInterest": 2,
                     "pChange": -79.16666666666666,
@@ -4465,11 +4486,11 @@
                     "totalSellQuantity": 244000,
                     "totalTradedVolume": 1,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287.5
                 },
                 "PE": {
-                    "askPrice": 51.95,
-                    "askQty": 12000,
+                    "askPrice": 51.1,
+                    "askQty": 8000,
                     "bidQty": 12000,
                     "bidprice": 41.7,
                     "change": 0,
@@ -4483,10 +4504,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 335,
                     "totalBuyQuantity": 132000,
-                    "totalSellQuantity": 20000,
+                    "totalSellQuantity": 8000,
                     "totalTradedVolume": 0,
                     "underlying": "M&MFIN",
-                    "underlyingValue": 287.4
+                    "underlyingValue": 287
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 335
@@ -4531,7 +4552,7 @@
             330,
             335
         ],
-        "timestamp": "18-May-2023 10:19:49",
-        "underlyingValue": 287.4
+        "timestamp": "18-May-2023 10:24:15",
+        "underlyingValue": 287
     }
 }

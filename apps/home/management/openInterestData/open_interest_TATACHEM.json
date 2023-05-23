@@ -1,12 +1,12 @@
 {
     "filtered": {
         "CE": {
-            "totOI": 10483,
-            "totVol": 3459
+            "totOI": 10480,
+            "totVol": 3486
         },
         "PE": {
-            "totOI": 5327,
-            "totVol": 1290
+            "totOI": 5325,
+            "totVol": 1294
         },
         "data": [
             {
@@ -29,14 +29,14 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 780
             },
             {
                 "CE": {
-                    "askPrice": 231.6,
+                    "askPrice": 219.5,
                     "askQty": 1500,
                     "bidQty": 1500,
                     "bidprice": 186.1,
@@ -54,7 +54,7 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 2,
@@ -75,7 +75,7 @@
                     "totalSellQuantity": 24500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 790
@@ -100,7 +100,7 @@
                     "totalSellQuantity": 24500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 1.45,
@@ -121,7 +121,7 @@
                     "totalSellQuantity": 4000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 800
@@ -146,7 +146,7 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 2.05,
@@ -167,7 +167,7 @@
                     "totalSellQuantity": 500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 810
@@ -192,7 +192,7 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 1,
@@ -213,7 +213,7 @@
                     "totalSellQuantity": 21000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 820
@@ -238,7 +238,7 @@
                     "totalSellQuantity": 24500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 0.5,
@@ -259,7 +259,7 @@
                     "totalSellQuantity": 1000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 830
@@ -284,7 +284,7 @@
                     "totalSellQuantity": 24500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 0.5,
@@ -305,7 +305,7 @@
                     "totalSellQuantity": 20500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 840
@@ -330,12 +330,12 @@
                     "totalSellQuantity": 24500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 0.15,
-                    "askQty": 1000,
-                    "bidQty": 500,
+                    "askQty": 2000,
+                    "bidQty": 10500,
                     "bidprice": 0.1,
                     "change": -0.15,
                     "changeinOpenInterest": -1,
@@ -347,21 +347,21 @@
                     "pChange": -60,
                     "pchangeinOpenInterest": -0.45662100456621,
                     "strikePrice": 850,
-                    "totalBuyQuantity": 7000,
-                    "totalSellQuantity": 33000,
+                    "totalBuyQuantity": 22000,
+                    "totalSellQuantity": 38500,
                     "totalTradedVolume": 2,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 850
             },
             {
                 "CE": {
-                    "askPrice": 135.9,
+                    "askPrice": 134.3,
                     "askQty": 1500,
-                    "bidQty": 1000,
-                    "bidprice": 123.25,
+                    "bidQty": 1500,
+                    "bidprice": 119.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -372,11 +372,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 860,
-                    "totalBuyQuantity": 24000,
-                    "totalSellQuantity": 24500,
+                    "totalBuyQuantity": 24500,
+                    "totalSellQuantity": 25500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 2.5,
@@ -397,7 +397,7 @@
                     "totalSellQuantity": 4000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 860
@@ -422,7 +422,7 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -443,14 +443,14 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 870
             },
             {
                 "CE": {
-                    "askPrice": 115.65,
+                    "askPrice": 113.25,
                     "askQty": 1500,
                     "bidQty": 1500,
                     "bidprice": 101.5,
@@ -465,10 +465,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 880,
                     "totalBuyQuantity": 24500,
-                    "totalSellQuantity": 24500,
+                    "totalSellQuantity": 25000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 3.5,
@@ -489,17 +489,17 @@
                     "totalSellQuantity": 500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 880
             },
             {
                 "CE": {
-                    "askPrice": 104.7,
+                    "askPrice": 103.2,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 92.65,
+                    "bidprice": 93.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -511,10 +511,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 890,
                     "totalBuyQuantity": 26000,
-                    "totalSellQuantity": 26000,
+                    "totalSellQuantity": 24500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 2.95,
@@ -535,17 +535,17 @@
                     "totalSellQuantity": 1000,
                     "totalTradedVolume": 1,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 890
             },
             {
                 "CE": {
-                    "askPrice": 89.55,
-                    "askQty": 2000,
+                    "askPrice": 89.6,
+                    "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 84.6,
+                    "bidprice": 86.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -557,10 +557,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 900,
                     "totalBuyQuantity": 38500,
-                    "totalSellQuantity": 38500,
+                    "totalSellQuantity": 37500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 0.4,
@@ -581,17 +581,17 @@
                     "totalSellQuantity": 62500,
                     "totalTradedVolume": 66,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 900
             },
             {
                 "CE": {
-                    "askPrice": 79.95,
-                    "askQty": 500,
+                    "askPrice": 81.15,
+                    "askQty": 1500,
                     "bidQty": 500,
-                    "bidprice": 73.75,
+                    "bidprice": 74.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -603,16 +603,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 910,
                     "totalBuyQuantity": 27000,
-                    "totalSellQuantity": 27000,
+                    "totalSellQuantity": 28500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 0.6,
-                    "askQty": 500,
-                    "bidQty": 1000,
-                    "bidprice": 0.55,
+                    "askQty": 1000,
+                    "bidQty": 3500,
+                    "bidprice": 0.5,
                     "change": -0.5999999999999999,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
@@ -623,21 +623,21 @@
                     "pChange": -52.17391304347825,
                     "pchangeinOpenInterest": -1.6666666666666667,
                     "strikePrice": 910,
-                    "totalBuyQuantity": 48000,
-                    "totalSellQuantity": 57000,
+                    "totalBuyQuantity": 52500,
+                    "totalSellQuantity": 57500,
                     "totalTradedVolume": 32,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 910
             },
             {
                 "CE": {
-                    "askPrice": 69.65,
-                    "askQty": 1500,
+                    "askPrice": 70.85,
+                    "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 65.15,
+                    "bidprice": 65.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -648,42 +648,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 920,
-                    "totalBuyQuantity": 25000,
-                    "totalSellQuantity": 26500,
+                    "totalBuyQuantity": 25500,
+                    "totalSellQuantity": 25000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 0.85,
                     "askQty": 1000,
-                    "bidQty": 1500,
+                    "bidQty": 2500,
                     "bidprice": 0.75,
-                    "change": -0.19999999999999996,
+                    "change": -0.25,
                     "changeinOpenInterest": -14,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACHEM25-05-2023PE920.00",
                     "impliedVolatility": 30.8,
-                    "lastPrice": 0.8,
+                    "lastPrice": 0.75,
                     "openInterest": 268,
-                    "pChange": -19.999999999999996,
+                    "pChange": -25,
                     "pchangeinOpenInterest": -4.964539007092198,
                     "strikePrice": 920,
-                    "totalBuyQuantity": 61500,
-                    "totalSellQuantity": 61500,
-                    "totalTradedVolume": 26,
+                    "totalBuyQuantity": 62500,
+                    "totalSellQuantity": 62500,
+                    "totalTradedVolume": 27,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 920
             },
             {
                 "CE": {
-                    "askPrice": 58.85,
+                    "askPrice": 59.75,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 56,
+                    "bidprice": 57.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -695,10 +695,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 930,
                     "totalBuyQuantity": 46000,
-                    "totalSellQuantity": 47000,
+                    "totalSellQuantity": 46500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 1.1,
@@ -715,21 +715,21 @@
                     "pChange": -30,
                     "pchangeinOpenInterest": 5.809128630705394,
                     "strikePrice": 930,
-                    "totalBuyQuantity": 76000,
-                    "totalSellQuantity": 63000,
+                    "totalBuyQuantity": 78000,
+                    "totalSellQuantity": 65000,
                     "totalTradedVolume": 61,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 930
             },
             {
                 "CE": {
-                    "askPrice": 48.75,
+                    "askPrice": 49.8,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 46.9,
+                    "bidprice": 48.25,
                     "change": 12.550000000000004,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
@@ -740,17 +740,17 @@
                     "pChange": 36.32416787264835,
                     "pchangeinOpenInterest": -0.8695652173913043,
                     "strikePrice": 940,
-                    "totalBuyQuantity": 45500,
+                    "totalBuyQuantity": 46000,
                     "totalSellQuantity": 42000,
                     "totalTradedVolume": 6,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 1.65,
-                    "askQty": 500,
-                    "bidQty": 1000,
-                    "bidprice": 1.55,
+                    "askPrice": 1.6,
+                    "askQty": 1500,
+                    "bidQty": 500,
+                    "bidprice": 1.5,
                     "change": -0.9999999999999998,
                     "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
@@ -761,21 +761,21 @@
                     "pChange": -39.2156862745098,
                     "pchangeinOpenInterest": 0.7009345794392523,
                     "strikePrice": 940,
-                    "totalBuyQuantity": 65500,
-                    "totalSellQuantity": 62500,
+                    "totalBuyQuantity": 78500,
+                    "totalSellQuantity": 66000,
                     "totalTradedVolume": 61,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 940
             },
             {
                 "CE": {
-                    "askPrice": 39.55,
+                    "askPrice": 40.55,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 36.75,
+                    "bidprice": 38.75,
                     "change": 6.850000000000001,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
@@ -786,17 +786,17 @@
                     "pChange": 20.206489675516227,
                     "pchangeinOpenInterest": 0.7092198581560284,
                     "strikePrice": 950,
-                    "totalBuyQuantity": 40000,
-                    "totalSellQuantity": 42500,
+                    "totalBuyQuantity": 46000,
+                    "totalSellQuantity": 44000,
                     "totalTradedVolume": 2,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 2.3,
-                    "askQty": 3500,
-                    "bidQty": 1000,
-                    "bidprice": 2.2,
+                    "askPrice": 2.15,
+                    "askQty": 1000,
+                    "bidQty": 2500,
+                    "bidprice": 2,
                     "change": -1.2999999999999998,
                     "changeinOpenInterest": -7,
                     "expiryDate": "25-May-2023",
@@ -807,21 +807,21 @@
                     "pChange": -36.61971830985915,
                     "pchangeinOpenInterest": -1.1965811965811965,
                     "strikePrice": 950,
-                    "totalBuyQuantity": 68500,
-                    "totalSellQuantity": 76500,
+                    "totalBuyQuantity": 73000,
+                    "totalSellQuantity": 80500,
                     "totalTradedVolume": 227,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 950
             },
             {
                 "CE": {
-                    "askPrice": 30,
+                    "askPrice": 31.75,
                     "askQty": 500,
-                    "bidQty": 500,
-                    "bidprice": 29.55,
+                    "bidQty": 1000,
+                    "bidprice": 30.95,
                     "change": 3.950000000000003,
                     "changeinOpenInterest": -10,
                     "expiryDate": "25-May-2023",
@@ -832,17 +832,17 @@
                     "pChange": 15.250965250965262,
                     "pchangeinOpenInterest": -7.8125,
                     "strikePrice": 960,
-                    "totalBuyQuantity": 61000,
+                    "totalBuyQuantity": 62000,
                     "totalSellQuantity": 46500,
                     "totalTradedVolume": 28,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 3.6,
-                    "askQty": 500,
-                    "bidQty": 5500,
-                    "bidprice": 3.45,
+                    "askPrice": 3.5,
+                    "askQty": 1000,
+                    "bidQty": 1000,
+                    "bidprice": 3.35,
                     "change": -1.9500000000000002,
                     "changeinOpenInterest": -35,
                     "expiryDate": "25-May-2023",
@@ -853,88 +853,88 @@
                     "pChange": -34.51327433628319,
                     "pchangeinOpenInterest": -11.075949367088608,
                     "strikePrice": 960,
-                    "totalBuyQuantity": 61500,
+                    "totalBuyQuantity": 60500,
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 139,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 960
             },
             {
                 "CE": {
-                    "askPrice": 22,
+                    "askPrice": 23.6,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 21.6,
-                    "change": 2.049999999999997,
+                    "bidprice": 23.25,
+                    "change": 2.1499999999999986,
                     "changeinOpenInterest": -45,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACHEM25-05-2023CE970.00",
                     "impliedVolatility": 19.78,
-                    "lastPrice": 21.9,
+                    "lastPrice": 22,
                     "openInterest": 221,
-                    "pChange": 10.327455919395451,
+                    "pChange": 10.831234256926944,
                     "pchangeinOpenInterest": -16.917293233082706,
                     "strikePrice": 970,
-                    "totalBuyQuantity": 55500,
-                    "totalSellQuantity": 54000,
-                    "totalTradedVolume": 160,
+                    "totalBuyQuantity": 63500,
+                    "totalSellQuantity": 53500,
+                    "totalTradedVolume": 161,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 5.95,
-                    "askQty": 2000,
-                    "bidQty": 1500,
-                    "bidprice": 5.8,
-                    "change": -2.999999999999999,
+                    "askPrice": 5.75,
+                    "askQty": 1500,
+                    "bidQty": 1000,
+                    "bidprice": 5.5,
+                    "change": -3.1499999999999995,
                     "changeinOpenInterest": 26,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACHEM25-05-2023PE970.00",
                     "impliedVolatility": 23.92,
-                    "lastPrice": 5.95,
+                    "lastPrice": 5.8,
                     "openInterest": 344,
-                    "pChange": -33.51955307262569,
+                    "pChange": -35.195530726256976,
                     "pchangeinOpenInterest": 8.176100628930818,
                     "strikePrice": 970,
-                    "totalBuyQuantity": 64000,
-                    "totalSellQuantity": 83000,
-                    "totalTradedVolume": 252,
+                    "totalBuyQuantity": 63000,
+                    "totalSellQuantity": 82500,
+                    "totalTradedVolume": 254,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 970
             },
             {
                 "CE": {
-                    "askPrice": 16.15,
-                    "askQty": 1000,
-                    "bidQty": 1000,
-                    "bidprice": 15.85,
-                    "change": 1.6500000000000004,
+                    "askPrice": 17.45,
+                    "askQty": 500,
+                    "bidQty": 500,
+                    "bidprice": 17.2,
+                    "change": 2.799999999999999,
                     "changeinOpenInterest": -6,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACHEM25-05-2023CE980.00",
                     "impliedVolatility": 22.03,
-                    "lastPrice": 16.05,
+                    "lastPrice": 17.2,
                     "openInterest": 676,
-                    "pChange": 11.458333333333336,
+                    "pChange": 19.444444444444436,
                     "pchangeinOpenInterest": -0.8797653958944281,
                     "strikePrice": 980,
-                    "totalBuyQuantity": 67500,
-                    "totalSellQuantity": 102000,
-                    "totalTradedVolume": 604,
+                    "totalBuyQuantity": 71000,
+                    "totalSellQuantity": 101000,
+                    "totalTradedVolume": 608,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 9.6,
+                    "askPrice": 9.3,
                     "askQty": 500,
                     "bidQty": 1000,
-                    "bidprice": 9.3,
+                    "bidprice": 9,
                     "change": -4.15,
                     "changeinOpenInterest": 21,
                     "expiryDate": "25-May-2023",
@@ -945,21 +945,21 @@
                     "pChange": -30.627306273062732,
                     "pchangeinOpenInterest": 3.626943005181347,
                     "strikePrice": 980,
-                    "totalBuyQuantity": 61000,
-                    "totalSellQuantity": 73000,
+                    "totalBuyQuantity": 60500,
+                    "totalSellQuantity": 74500,
                     "totalTradedVolume": 232,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 980
             },
             {
                 "CE": {
-                    "askPrice": 12.3,
+                    "askPrice": 12.7,
                     "askQty": 500,
-                    "bidQty": 1500,
-                    "bidprice": 12,
+                    "bidQty": 1000,
+                    "bidprice": 12.35,
                     "change": 0.8499999999999996,
                     "changeinOpenInterest": -38,
                     "expiryDate": "25-May-2023",
@@ -970,17 +970,17 @@
                     "pChange": 7.623318385650221,
                     "pchangeinOpenInterest": -4.497041420118343,
                     "strikePrice": 990,
-                    "totalBuyQuantity": 96500,
-                    "totalSellQuantity": 116000,
+                    "totalBuyQuantity": 95000,
+                    "totalSellQuantity": 115000,
                     "totalTradedVolume": 552,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 15.6,
+                    "askPrice": 14.95,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 15.2,
+                    "bidprice": 14.6,
                     "change": -5.299999999999999,
                     "changeinOpenInterest": 31,
                     "expiryDate": "25-May-2023",
@@ -991,67 +991,67 @@
                     "pChange": -25.358851674641148,
                     "pchangeinOpenInterest": 18.023255813953487,
                     "strikePrice": 990,
-                    "totalBuyQuantity": 80000,
-                    "totalSellQuantity": 65000,
+                    "totalBuyQuantity": 80500,
+                    "totalSellQuantity": 68000,
                     "totalTradedVolume": 113,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 990
             },
             {
                 "CE": {
-                    "askPrice": 8.85,
+                    "askPrice": 9.45,
                     "askQty": 1000,
                     "bidQty": 1500,
-                    "bidprice": 8.7,
-                    "change": -0.05000000000000071,
-                    "changeinOpenInterest": -189,
+                    "bidprice": 9.3,
+                    "change": 0.7999999999999989,
+                    "changeinOpenInterest": -191,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACHEM25-05-2023CE1000.00",
                     "impliedVolatility": 25,
-                    "lastPrice": 8.6,
-                    "openInterest": 2370,
-                    "pChange": -0.5780346820809331,
-                    "pchangeinOpenInterest": -7.38569753810082,
+                    "lastPrice": 9.45,
+                    "openInterest": 2368,
+                    "pChange": 9.248554913294784,
+                    "pchangeinOpenInterest": -7.463853067604533,
                     "strikePrice": 1000,
-                    "totalBuyQuantity": 124000,
-                    "totalSellQuantity": 277000,
-                    "totalTradedVolume": 1087,
+                    "totalBuyQuantity": 127000,
+                    "totalSellQuantity": 275500,
+                    "totalTradedVolume": 1094,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 22.25,
+                    "askPrice": 21.85,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 21.9,
-                    "change": -6.599999999999998,
-                    "changeinOpenInterest": -18,
+                    "bidprice": 21.2,
+                    "change": -7,
+                    "changeinOpenInterest": -20,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACHEM25-05-2023PE1000.00",
                     "impliedVolatility": 27.64,
-                    "lastPrice": 21.85,
-                    "openInterest": 453,
-                    "pChange": -23.198594024604564,
-                    "pchangeinOpenInterest": -3.821656050955414,
+                    "lastPrice": 21.45,
+                    "openInterest": 451,
+                    "pChange": -24.604569420035148,
+                    "pchangeinOpenInterest": -4.246284501061571,
                     "strikePrice": 1000,
-                    "totalBuyQuantity": 67000,
-                    "totalSellQuantity": 46000,
-                    "totalTradedVolume": 70,
+                    "totalBuyQuantity": 65000,
+                    "totalSellQuantity": 47000,
+                    "totalTradedVolume": 71,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1000
             },
             {
                 "CE": {
-                    "askPrice": 6.1,
-                    "askQty": 500,
-                    "bidQty": 1500,
-                    "bidprice": 5.9,
+                    "askPrice": 6.5,
+                    "askQty": 1000,
+                    "bidQty": 1000,
+                    "bidprice": 6.25,
                     "change": -0.20000000000000018,
                     "changeinOpenInterest": -12,
                     "expiryDate": "25-May-2023",
@@ -1062,17 +1062,17 @@
                     "pChange": -3.200000000000003,
                     "pchangeinOpenInterest": -2.051282051282051,
                     "strikePrice": 1010,
-                    "totalBuyQuantity": 80000,
-                    "totalSellQuantity": 110500,
+                    "totalBuyQuantity": 81000,
+                    "totalSellQuantity": 106500,
                     "totalTradedVolume": 265,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 31.3,
-                    "askQty": 2000,
+                    "askPrice": 30.2,
+                    "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 28.1,
+                    "bidprice": 28.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1083,42 +1083,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1010,
-                    "totalBuyQuantity": 24500,
-                    "totalSellQuantity": 40500,
+                    "totalBuyQuantity": 26500,
+                    "totalSellQuantity": 41000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1010
             },
             {
                 "CE": {
-                    "askPrice": 4.45,
-                    "askQty": 500,
-                    "bidQty": 1500,
-                    "bidprice": 4.35,
-                    "change": -0.40000000000000036,
-                    "changeinOpenInterest": -2,
+                    "askPrice": 4.7,
+                    "askQty": 2000,
+                    "bidQty": 1000,
+                    "bidprice": 4.55,
+                    "change": -0.20000000000000018,
+                    "changeinOpenInterest": -4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACHEM25-05-2023CE1020.00",
                     "impliedVolatility": 27.18,
-                    "lastPrice": 4.3,
-                    "openInterest": 749,
-                    "pChange": -8.510638297872347,
-                    "pchangeinOpenInterest": -0.2663115845539281,
+                    "lastPrice": 4.5,
+                    "openInterest": 747,
+                    "pChange": -4.255319148936174,
+                    "pchangeinOpenInterest": -0.5326231691078562,
                     "strikePrice": 1020,
-                    "totalBuyQuantity": 78500,
-                    "totalSellQuantity": 145500,
-                    "totalTradedVolume": 265,
+                    "totalBuyQuantity": 80000,
+                    "totalSellQuantity": 145000,
+                    "totalTradedVolume": 267,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 38.85,
+                    "askPrice": 37.75,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 36,
+                    "bidprice": 35.5,
                     "change": -16.049999999999997,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1130,41 +1130,41 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1020,
                     "totalBuyQuantity": 45500,
-                    "totalSellQuantity": 39000,
+                    "totalSellQuantity": 41000,
                     "totalTradedVolume": 5,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1020
             },
             {
                 "CE": {
-                    "askPrice": 3.25,
+                    "askPrice": 3.35,
                     "askQty": 500,
                     "bidQty": 1500,
-                    "bidprice": 3.1,
-                    "change": -0.34999999999999964,
+                    "bidprice": 3.2,
+                    "change": -0.3999999999999999,
                     "changeinOpenInterest": -5,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACHEM25-05-2023CE1030.00",
                     "impliedVolatility": 29.23,
-                    "lastPrice": 3.2,
+                    "lastPrice": 3.15,
                     "openInterest": 411,
-                    "pChange": -9.859154929577455,
+                    "pChange": -11.267605633802814,
                     "pchangeinOpenInterest": -1.2019230769230769,
                     "strikePrice": 1030,
-                    "totalBuyQuantity": 67500,
-                    "totalSellQuantity": 129500,
-                    "totalTradedVolume": 133,
+                    "totalBuyQuantity": 75000,
+                    "totalSellQuantity": 124500,
+                    "totalTradedVolume": 135,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 47.85,
+                    "askPrice": 46.45,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 45.55,
+                    "bidprice": 43.8,
                     "change": -7.649999999999999,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1175,42 +1175,42 @@
                     "pChange": -14.325842696629213,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1030,
-                    "totalBuyQuantity": 45500,
-                    "totalSellQuantity": 41500,
+                    "totalBuyQuantity": 46000,
+                    "totalSellQuantity": 41000,
                     "totalTradedVolume": 2,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1030
             },
             {
                 "CE": {
-                    "askPrice": 2.1,
-                    "askQty": 3000,
+                    "askPrice": 2.25,
+                    "askQty": 6000,
                     "bidQty": 1500,
-                    "bidprice": 1.95,
-                    "change": -0.4500000000000002,
-                    "changeinOpenInterest": 5,
+                    "bidprice": 2.1,
+                    "change": -0.30000000000000027,
+                    "changeinOpenInterest": 6,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACHEM25-05-2023CE1040.00",
                     "impliedVolatility": 29.28,
-                    "lastPrice": 2,
-                    "openInterest": 590,
-                    "pChange": -18.367346938775515,
-                    "pchangeinOpenInterest": 0.8547008547008547,
+                    "lastPrice": 2.15,
+                    "openInterest": 591,
+                    "pChange": -12.244897959183684,
+                    "pchangeinOpenInterest": 1.0256410256410255,
                     "strikePrice": 1040,
-                    "totalBuyQuantity": 65500,
-                    "totalSellQuantity": 97000,
-                    "totalTradedVolume": 70,
+                    "totalBuyQuantity": 70000,
+                    "totalSellQuantity": 96500,
+                    "totalTradedVolume": 73,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 58.15,
+                    "askPrice": 56.25,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 53.8,
+                    "bidprice": 52.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1221,42 +1221,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1040,
-                    "totalBuyQuantity": 32000,
-                    "totalSellQuantity": 27000,
+                    "totalBuyQuantity": 34000,
+                    "totalSellQuantity": 29000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1040
             },
             {
                 "CE": {
-                    "askPrice": 1.6,
+                    "askPrice": 1.75,
                     "askQty": 1500,
-                    "bidQty": 4500,
-                    "bidprice": 1.5,
-                    "change": -0.34999999999999987,
+                    "bidQty": 1000,
+                    "bidprice": 1.65,
+                    "change": -0.25,
                     "changeinOpenInterest": -8,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACHEM25-05-2023CE1050.00",
                     "impliedVolatility": 31.34,
-                    "lastPrice": 1.6,
+                    "lastPrice": 1.7,
                     "openInterest": 775,
-                    "pChange": -17.948717948717942,
+                    "pChange": -12.820512820512823,
                     "pchangeinOpenInterest": -1.0217113665389528,
                     "strikePrice": 1050,
-                    "totalBuyQuantity": 70500,
-                    "totalSellQuantity": 101500,
-                    "totalTradedVolume": 96,
+                    "totalBuyQuantity": 75000,
+                    "totalSellQuantity": 108000,
+                    "totalTradedVolume": 98,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 67.45,
-                    "askQty": 2000,
+                    "askPrice": 66,
+                    "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 64.45,
+                    "bidprice": 61.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1267,42 +1267,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1050,
-                    "totalBuyQuantity": 26000,
+                    "totalBuyQuantity": 28500,
                     "totalSellQuantity": 27000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1050
             },
             {
                 "CE": {
-                    "askPrice": 1.2,
-                    "askQty": 1500,
-                    "bidQty": 4500,
-                    "bidprice": 1.1,
-                    "change": -0.30000000000000004,
+                    "askPrice": 1.3,
+                    "askQty": 2000,
+                    "bidQty": 500,
+                    "bidprice": 1.2,
+                    "change": -0.3500000000000001,
                     "changeinOpenInterest": -11,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACHEM25-05-2023CE1060.00",
                     "impliedVolatility": 33.04,
-                    "lastPrice": 1.25,
+                    "lastPrice": 1.2,
                     "openInterest": 242,
-                    "pChange": -19.35483870967742,
+                    "pChange": -22.580645161290327,
                     "pchangeinOpenInterest": -4.3478260869565215,
                     "strikePrice": 1060,
-                    "totalBuyQuantity": 59500,
-                    "totalSellQuantity": 66000,
-                    "totalTradedVolume": 31,
+                    "totalBuyQuantity": 64000,
+                    "totalSellQuantity": 64000,
+                    "totalTradedVolume": 32,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 77.9,
-                    "askQty": 1500,
-                    "bidQty": 500,
-                    "bidprice": 74,
+                    "askPrice": 78.5,
+                    "askQty": 2000,
+                    "bidQty": 1000,
+                    "bidprice": 71,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1313,11 +1313,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1060,
-                    "totalBuyQuantity": 26000,
-                    "totalSellQuantity": 28500,
+                    "totalBuyQuantity": 28000,
+                    "totalSellQuantity": 27000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1060
@@ -1325,9 +1325,9 @@
             {
                 "CE": {
                     "askPrice": 0.95,
-                    "askQty": 1000,
+                    "askQty": 1500,
                     "bidQty": 500,
-                    "bidprice": 0.65,
+                    "bidprice": 0.7,
                     "change": 0.04999999999999982,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1338,17 +1338,17 @@
                     "pChange": 4.545454545454529,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1070,
-                    "totalBuyQuantity": 67000,
-                    "totalSellQuantity": 55500,
+                    "totalBuyQuantity": 67500,
+                    "totalSellQuantity": 56000,
                     "totalTradedVolume": 7,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 86.4,
-                    "askQty": 1500,
+                    "askPrice": 84.5,
+                    "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 82.35,
+                    "bidprice": 82.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1359,11 +1359,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1070,
-                    "totalBuyQuantity": 25500,
-                    "totalSellQuantity": 26500,
+                    "totalBuyQuantity": 26000,
+                    "totalSellQuantity": 25500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1070
@@ -1371,9 +1371,9 @@
             {
                 "CE": {
                     "askPrice": 0.7,
-                    "askQty": 2000,
-                    "bidQty": 4500,
-                    "bidprice": 0.6,
+                    "askQty": 500,
+                    "bidQty": 500,
+                    "bidprice": 0.65,
                     "change": -0.20000000000000007,
                     "changeinOpenInterest": -18,
                     "expiryDate": "25-May-2023",
@@ -1384,14 +1384,14 @@
                     "pChange": -22.22222222222223,
                     "pchangeinOpenInterest": -10.778443113772456,
                     "strikePrice": 1080,
-                    "totalBuyQuantity": 73500,
-                    "totalSellQuantity": 69500,
+                    "totalBuyQuantity": 74000,
+                    "totalSellQuantity": 68000,
                     "totalTradedVolume": 40,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 97.1,
+                    "askPrice": 97.05,
                     "askQty": 1500,
                     "bidQty": 1500,
                     "bidprice": 89.2,
@@ -1406,19 +1406,19 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1080,
                     "totalBuyQuantity": 26000,
-                    "totalSellQuantity": 24500,
+                    "totalSellQuantity": 26000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1080
             },
             {
                 "CE": {
-                    "askPrice": 0.65,
-                    "askQty": 1000,
-                    "bidQty": 1000,
+                    "askPrice": 0.6,
+                    "askQty": 500,
+                    "bidQty": 500,
                     "bidprice": 0.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -1430,11 +1430,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1090,
-                    "totalBuyQuantity": 39000,
+                    "totalBuyQuantity": 38500,
                     "totalSellQuantity": 58000,
                     "totalTradedVolume": 1,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 110.15,
@@ -1455,7 +1455,7 @@
                     "totalSellQuantity": 24500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1090
@@ -1463,8 +1463,8 @@
             {
                 "CE": {
                     "askPrice": 0.6,
-                    "askQty": 500,
-                    "bidQty": 10000,
+                    "askQty": 3000,
+                    "bidQty": 2000,
                     "bidprice": 0.55,
                     "change": 0,
                     "changeinOpenInterest": -55,
@@ -1476,17 +1476,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": -3.8141470180305133,
                     "strikePrice": 1100,
-                    "totalBuyQuantity": 190000,
-                    "totalSellQuantity": 143500,
-                    "totalTradedVolume": 108,
+                    "totalBuyQuantity": 196500,
+                    "totalSellQuantity": 140000,
+                    "totalTradedVolume": 113,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 114.6,
+                    "askPrice": 113.75,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 111.75,
+                    "bidprice": 110.6,
                     "change": -6,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1501,7 +1501,7 @@
                     "totalSellQuantity": 24000,
                     "totalTradedVolume": 1,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1100
@@ -1526,7 +1526,7 @@
                     "totalSellQuantity": 54500,
                     "totalTradedVolume": 1,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 128.7,
@@ -1547,16 +1547,16 @@
                     "totalSellQuantity": 24500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1110
             },
             {
                 "CE": {
-                    "askPrice": 0.6,
-                    "askQty": 500,
-                    "bidQty": 500,
+                    "askPrice": 0.65,
+                    "askQty": 1000,
+                    "bidQty": 1000,
                     "bidprice": 0.3,
                     "change": 0.04999999999999999,
                     "changeinOpenInterest": 0,
@@ -1572,7 +1572,7 @@
                     "totalSellQuantity": 54500,
                     "totalTradedVolume": 3,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 140.95,
@@ -1593,7 +1593,7 @@
                     "totalSellQuantity": 24500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1120
@@ -1618,7 +1618,7 @@
                     "totalSellQuantity": 23000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 147,
@@ -1639,7 +1639,7 @@
                     "totalSellQuantity": 24500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1130
@@ -1664,10 +1664,10 @@
                     "totalSellQuantity": 9000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 159.15,
+                    "askPrice": 156.15,
                     "askQty": 1500,
                     "bidQty": 1500,
                     "bidprice": 147.5,
@@ -1682,10 +1682,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1140,
                     "totalBuyQuantity": 24500,
-                    "totalSellQuantity": 24500,
+                    "totalSellQuantity": 25500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1140
@@ -1710,7 +1710,7 @@
                     "totalSellQuantity": 1500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 168.3,
@@ -1731,7 +1731,7 @@
                     "totalSellQuantity": 24500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1150
@@ -1756,7 +1756,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 181.1,
@@ -1777,7 +1777,7 @@
                     "totalSellQuantity": 25500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1160
@@ -1802,7 +1802,7 @@
                     "totalSellQuantity": 21000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 187.3,
@@ -1823,7 +1823,7 @@
                     "totalSellQuantity": 23000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1170
@@ -1848,13 +1848,13 @@
                     "totalSellQuantity": 44500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 198.05,
+                    "askPrice": 197.85,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 185.2,
+                    "bidprice": 188.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1865,11 +1865,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1180,
-                    "totalBuyQuantity": 24500,
+                    "totalBuyQuantity": 25500,
                     "totalSellQuantity": 25500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1180
@@ -1898,17 +1898,17 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 780
             },
             {
                 "CE": {
-                    "askPrice": 237.25,
+                    "askPrice": 229.65,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 134.4,
+                    "bidprice": 143.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -1923,7 +1923,7 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1944,17 +1944,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 780
             },
             {
                 "CE": {
-                    "askPrice": 225.9,
+                    "askPrice": 219.3,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 164.75,
+                    "bidprice": 171.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -1969,7 +1969,7 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1990,14 +1990,14 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 790
             },
             {
                 "CE": {
-                    "askPrice": 231.6,
+                    "askPrice": 219.5,
                     "askQty": 1500,
                     "bidQty": 1500,
                     "bidprice": 186.1,
@@ -2015,7 +2015,7 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 2,
@@ -2036,7 +2036,7 @@
                     "totalSellQuantity": 24500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 790
@@ -2061,7 +2061,7 @@
                     "totalSellQuantity": 24500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 1.45,
@@ -2082,17 +2082,17 @@
                     "totalSellQuantity": 4000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 800
             },
             {
                 "CE": {
-                    "askPrice": 214.7,
+                    "askPrice": 209.8,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 120.7,
+                    "bidprice": 127.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2107,17 +2107,17 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 800
             },
             {
                 "CE": {
-                    "askPrice": 204.8,
+                    "askPrice": 199.1,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 145.85,
+                    "bidprice": 152.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2132,7 +2132,7 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2153,7 +2153,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 810
@@ -2178,7 +2178,7 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 2.05,
@@ -2199,7 +2199,7 @@
                     "totalSellQuantity": 500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 810
@@ -2224,7 +2224,7 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 1,
@@ -2245,17 +2245,17 @@
                     "totalSellQuantity": 21000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 820
             },
             {
                 "CE": {
-                    "askPrice": 246.1,
+                    "askPrice": 239.2,
                     "askQty": 1500,
-                    "bidQty": 20000,
-                    "bidprice": 133.3,
+                    "bidQty": 1500,
+                    "bidprice": 141.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2266,11 +2266,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 820,
-                    "totalBuyQuantity": 20000,
+                    "totalBuyQuantity": 21500,
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 820
@@ -2295,7 +2295,7 @@
                     "totalSellQuantity": 24500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 0.5,
@@ -2316,17 +2316,17 @@
                     "totalSellQuantity": 1000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 830
             },
             {
                 "CE": {
-                    "askPrice": 199.85,
+                    "askPrice": 193.65,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 124.35,
+                    "bidprice": 132.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2341,7 +2341,7 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2362,7 +2362,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 830
@@ -2387,7 +2387,7 @@
                     "totalSellQuantity": 24500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 0.5,
@@ -2408,17 +2408,17 @@
                     "totalSellQuantity": 20500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 840
             },
             {
                 "CE": {
-                    "askPrice": 219.25,
+                    "askPrice": 215.05,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 116.55,
+                    "bidprice": 122.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2433,7 +2433,7 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 840
@@ -2458,12 +2458,12 @@
                     "totalSellQuantity": 24500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 0.15,
-                    "askQty": 1000,
-                    "bidQty": 500,
+                    "askQty": 2000,
+                    "bidQty": 10500,
                     "bidprice": 0.1,
                     "change": -0.15,
                     "changeinOpenInterest": -1,
@@ -2475,21 +2475,21 @@
                     "pChange": -60,
                     "pchangeinOpenInterest": -0.45662100456621,
                     "strikePrice": 850,
-                    "totalBuyQuantity": 7000,
-                    "totalSellQuantity": 33000,
+                    "totalBuyQuantity": 22000,
+                    "totalSellQuantity": 38500,
                     "totalTradedVolume": 2,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 850
             },
             {
                 "CE": {
-                    "askPrice": 177.45,
+                    "askPrice": 173.85,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 92.85,
+                    "bidprice": 99.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2504,7 +2504,7 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2525,17 +2525,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 850
             },
             {
                 "CE": {
-                    "askPrice": 135.9,
+                    "askPrice": 134.3,
                     "askQty": 1500,
-                    "bidQty": 1000,
-                    "bidprice": 123.25,
+                    "bidQty": 1500,
+                    "bidprice": 119.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2546,11 +2546,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 860,
-                    "totalBuyQuantity": 24000,
-                    "totalSellQuantity": 24500,
+                    "totalBuyQuantity": 24500,
+                    "totalSellQuantity": 25500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 2.5,
@@ -2571,7 +2571,7 @@
                     "totalSellQuantity": 4000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 860
@@ -2581,7 +2581,7 @@
                     "askPrice": 157.5,
                     "askQty": 20000,
                     "bidQty": 1500,
-                    "bidprice": 97.45,
+                    "bidprice": 102.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2596,7 +2596,7 @@
                     "totalSellQuantity": 20000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 860
@@ -2621,7 +2621,7 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2642,17 +2642,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 870
             },
             {
                 "CE": {
-                    "askPrice": 143.15,
+                    "askPrice": 138.45,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 83.65,
+                    "bidprice": 89.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2667,7 +2667,7 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2688,14 +2688,14 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 870
             },
             {
                 "CE": {
-                    "askPrice": 115.65,
+                    "askPrice": 113.25,
                     "askQty": 1500,
                     "bidQty": 1500,
                     "bidprice": 101.5,
@@ -2710,10 +2710,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 880,
                     "totalBuyQuantity": 24500,
-                    "totalSellQuantity": 24500,
+                    "totalSellQuantity": 25000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 3.5,
@@ -2734,7 +2734,7 @@
                     "totalSellQuantity": 500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 880
@@ -2744,7 +2744,7 @@
                     "askPrice": 126.8,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 77.45,
+                    "bidprice": 82.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2759,17 +2759,38 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
+                },
+                "PE": {
+                    "askPrice": 23,
+                    "askQty": 20000,
+                    "bidQty": 1000,
+                    "bidprice": 0.2,
+                    "change": 0,
+                    "changeinOpenInterest": 0,
+                    "expiryDate": "29-Jun-2023",
+                    "identifier": "OPTSTKTATACHEM29-06-2023PE880.00",
+                    "impliedVolatility": 0,
+                    "lastPrice": 0,
+                    "openInterest": 0,
+                    "pChange": 0,
+                    "pchangeinOpenInterest": 0,
+                    "strikePrice": 880,
+                    "totalBuyQuantity": 1000,
+                    "totalSellQuantity": 20000,
+                    "totalTradedVolume": 0,
+                    "underlying": "TATACHEM",
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 880
             },
             {
                 "CE": {
-                    "askPrice": 104.7,
+                    "askPrice": 103.2,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 92.65,
+                    "bidprice": 93.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2781,10 +2802,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 890,
                     "totalBuyQuantity": 26000,
-                    "totalSellQuantity": 26000,
+                    "totalSellQuantity": 24500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 2.95,
@@ -2805,7 +2826,7 @@
                     "totalSellQuantity": 1000,
                     "totalTradedVolume": 1,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 890
@@ -2815,7 +2836,7 @@
                     "askPrice": 116.85,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 71.25,
+                    "bidprice": 72.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2830,7 +2851,7 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 23.1,
@@ -2851,17 +2872,17 @@
                     "totalSellQuantity": 20000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 890
             },
             {
                 "CE": {
-                    "askPrice": 89.55,
-                    "askQty": 2000,
+                    "askPrice": 89.6,
+                    "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 84.6,
+                    "bidprice": 86.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2873,10 +2894,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 900,
                     "totalBuyQuantity": 38500,
-                    "totalSellQuantity": 38500,
+                    "totalSellQuantity": 37500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 0.4,
@@ -2897,17 +2918,17 @@
                     "totalSellQuantity": 62500,
                     "totalTradedVolume": 66,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 900
             },
             {
                 "CE": {
-                    "askPrice": 89.2,
-                    "askQty": 1500,
-                    "bidQty": 1500,
-                    "bidprice": 75.55,
+                    "askPrice": 85.35,
+                    "askQty": 1000,
+                    "bidQty": 2000,
+                    "bidprice": 79.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2918,17 +2939,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 900,
-                    "totalBuyQuantity": 3000,
-                    "totalSellQuantity": 23000,
+                    "totalBuyQuantity": 2500,
+                    "totalSellQuantity": 22000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 6.25,
+                    "askPrice": 5.95,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 5.25,
+                    "bidprice": 5.2,
                     "change": -1.6500000000000004,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2940,20 +2961,20 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 900,
                     "totalBuyQuantity": 26000,
-                    "totalSellQuantity": 27000,
+                    "totalSellQuantity": 28500,
                     "totalTradedVolume": 2,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 900
             },
             {
                 "CE": {
-                    "askPrice": 79.95,
-                    "askQty": 500,
+                    "askPrice": 81.15,
+                    "askQty": 1500,
                     "bidQty": 500,
-                    "bidprice": 73.75,
+                    "bidprice": 74.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2965,16 +2986,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 910,
                     "totalBuyQuantity": 27000,
-                    "totalSellQuantity": 27000,
+                    "totalSellQuantity": 28500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 0.6,
-                    "askQty": 500,
-                    "bidQty": 1000,
-                    "bidprice": 0.55,
+                    "askQty": 1000,
+                    "bidQty": 3500,
+                    "bidprice": 0.5,
                     "change": -0.5999999999999999,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
@@ -2985,11 +3006,11 @@
                     "pChange": -52.17391304347825,
                     "pchangeinOpenInterest": -1.6666666666666667,
                     "strikePrice": 910,
-                    "totalBuyQuantity": 48000,
-                    "totalSellQuantity": 57000,
+                    "totalBuyQuantity": 52500,
+                    "totalSellQuantity": 57500,
                     "totalTradedVolume": 32,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 910
@@ -3014,7 +3035,7 @@
                     "totalSellQuantity": 550,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 25.25,
@@ -3035,7 +3056,7 @@
                     "totalSellQuantity": 550,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 910
@@ -3060,7 +3081,7 @@
                     "totalSellQuantity": 22000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 12.25,
@@ -3081,7 +3102,7 @@
                     "totalSellQuantity": 40500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 910
@@ -3089,9 +3110,9 @@
             {
                 "CE": {
                     "askPrice": 73.85,
-                    "askQty": 1500,
-                    "bidQty": 500,
-                    "bidprice": 57.35,
+                    "askQty": 2500,
+                    "bidQty": 2000,
+                    "bidprice": 59.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3102,17 +3123,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 920,
-                    "totalBuyQuantity": 500,
+                    "totalBuyQuantity": 3000,
                     "totalSellQuantity": 23000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 12,
+                    "askPrice": 11.95,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 5.45,
+                    "bidprice": 5.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3124,20 +3145,20 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 920,
                     "totalBuyQuantity": 20500,
-                    "totalSellQuantity": 41000,
+                    "totalSellQuantity": 41500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 920
             },
             {
                 "CE": {
-                    "askPrice": 69.65,
-                    "askQty": 1500,
+                    "askPrice": 70.85,
+                    "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 65.15,
+                    "bidprice": 65.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3148,32 +3169,32 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 920,
-                    "totalBuyQuantity": 25000,
-                    "totalSellQuantity": 26500,
+                    "totalBuyQuantity": 25500,
+                    "totalSellQuantity": 25000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 0.85,
                     "askQty": 1000,
-                    "bidQty": 1500,
+                    "bidQty": 2500,
                     "bidprice": 0.75,
-                    "change": -0.19999999999999996,
+                    "change": -0.25,
                     "changeinOpenInterest": -14,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACHEM25-05-2023PE920.00",
                     "impliedVolatility": 30.8,
-                    "lastPrice": 0.8,
+                    "lastPrice": 0.75,
                     "openInterest": 268,
-                    "pChange": -19.999999999999996,
+                    "pChange": -25,
                     "pchangeinOpenInterest": -4.964539007092198,
                     "strikePrice": 920,
-                    "totalBuyQuantity": 61500,
-                    "totalSellQuantity": 61500,
-                    "totalTradedVolume": 26,
+                    "totalBuyQuantity": 62500,
+                    "totalSellQuantity": 62500,
+                    "totalTradedVolume": 27,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 920
@@ -3198,17 +3219,17 @@
                     "totalSellQuantity": 550,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 920
             },
             {
                 "CE": {
-                    "askPrice": 58.85,
+                    "askPrice": 59.75,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 56,
+                    "bidprice": 57.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3220,10 +3241,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 930,
                     "totalBuyQuantity": 46000,
-                    "totalSellQuantity": 47000,
+                    "totalSellQuantity": 46500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 1.1,
@@ -3240,18 +3261,18 @@
                     "pChange": -30,
                     "pchangeinOpenInterest": 5.809128630705394,
                     "strikePrice": 930,
-                    "totalBuyQuantity": 76000,
-                    "totalSellQuantity": 63000,
+                    "totalBuyQuantity": 78000,
+                    "totalSellQuantity": 65000,
                     "totalTradedVolume": 61,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 930
             },
             {
                 "CE": {
-                    "askPrice": 69.7,
+                    "askPrice": 67.7,
                     "askQty": 500,
                     "bidQty": 500,
                     "bidprice": 50.05,
@@ -3269,13 +3290,13 @@
                     "totalSellQuantity": 21000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 28.8,
+                    "askPrice": 27,
                     "askQty": 500,
-                    "bidQty": 0,
-                    "bidprice": 0,
+                    "bidQty": 500,
+                    "bidprice": 7.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3286,18 +3307,18 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 930,
-                    "totalBuyQuantity": 0,
+                    "totalBuyQuantity": 20500,
                     "totalSellQuantity": 21000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 930
             },
             {
                 "CE": {
-                    "askPrice": 61.4,
+                    "askPrice": 59.95,
                     "askQty": 500,
                     "bidQty": 1500,
                     "bidprice": 43.25,
@@ -3315,13 +3336,13 @@
                     "totalSellQuantity": 21000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 16.45,
                     "askQty": 500,
-                    "bidQty": 1000,
-                    "bidprice": 12.85,
+                    "bidQty": 500,
+                    "bidprice": 13.05,
                     "change": -5,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3332,11 +3353,11 @@
                     "pChange": -23.809523809523807,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 940,
-                    "totalBuyQuantity": 2500,
-                    "totalSellQuantity": 22500,
+                    "totalBuyQuantity": 23000,
+                    "totalSellQuantity": 42500,
                     "totalTradedVolume": 1,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 940
@@ -3361,7 +3382,7 @@
                     "totalSellQuantity": 550,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 39.9,
@@ -3382,17 +3403,17 @@
                     "totalSellQuantity": 550,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 940
             },
             {
                 "CE": {
-                    "askPrice": 48.75,
+                    "askPrice": 49.8,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 46.9,
+                    "bidprice": 48.25,
                     "change": 12.550000000000004,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
@@ -3403,17 +3424,17 @@
                     "pChange": 36.32416787264835,
                     "pchangeinOpenInterest": -0.8695652173913043,
                     "strikePrice": 940,
-                    "totalBuyQuantity": 45500,
+                    "totalBuyQuantity": 46000,
                     "totalSellQuantity": 42000,
                     "totalTradedVolume": 6,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 1.65,
-                    "askQty": 500,
-                    "bidQty": 1000,
-                    "bidprice": 1.55,
+                    "askPrice": 1.6,
+                    "askQty": 1500,
+                    "bidQty": 500,
+                    "bidprice": 1.5,
                     "change": -0.9999999999999998,
                     "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
@@ -3424,21 +3445,21 @@
                     "pChange": -39.2156862745098,
                     "pchangeinOpenInterest": 0.7009345794392523,
                     "strikePrice": 940,
-                    "totalBuyQuantity": 65500,
-                    "totalSellQuantity": 62500,
+                    "totalBuyQuantity": 78500,
+                    "totalSellQuantity": 66000,
                     "totalTradedVolume": 61,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 940
             },
             {
                 "CE": {
-                    "askPrice": 39.55,
+                    "askPrice": 40.55,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 36.75,
+                    "bidprice": 38.75,
                     "change": 6.850000000000001,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
@@ -3449,17 +3470,17 @@
                     "pChange": 20.206489675516227,
                     "pchangeinOpenInterest": 0.7092198581560284,
                     "strikePrice": 950,
-                    "totalBuyQuantity": 40000,
-                    "totalSellQuantity": 42500,
+                    "totalBuyQuantity": 46000,
+                    "totalSellQuantity": 44000,
                     "totalTradedVolume": 2,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 2.3,
-                    "askQty": 3500,
-                    "bidQty": 1000,
-                    "bidprice": 2.2,
+                    "askPrice": 2.15,
+                    "askQty": 1000,
+                    "bidQty": 2500,
+                    "bidprice": 2,
                     "change": -1.2999999999999998,
                     "changeinOpenInterest": -7,
                     "expiryDate": "25-May-2023",
@@ -3470,11 +3491,11 @@
                     "pChange": -36.61971830985915,
                     "pchangeinOpenInterest": -1.1965811965811965,
                     "strikePrice": 950,
-                    "totalBuyQuantity": 68500,
-                    "totalSellQuantity": 76500,
+                    "totalBuyQuantity": 73000,
+                    "totalSellQuantity": 80500,
                     "totalTradedVolume": 227,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 950
@@ -3499,7 +3520,7 @@
                     "totalSellQuantity": 550,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 41.55,
@@ -3520,15 +3541,15 @@
                     "totalSellQuantity": 550,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 950
             },
             {
                 "CE": {
-                    "askPrice": 58.35,
-                    "askQty": 1500,
+                    "askPrice": 70.45,
+                    "askQty": 500,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -3542,16 +3563,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 950,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 23000,
+                    "totalSellQuantity": 20500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 19.85,
+                    "askPrice": 19.15,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 18.95,
+                    "bidprice": 18.25,
                     "change": -3,
                     "changeinOpenInterest": -1,
                     "expiryDate": "29-Jun-2023",
@@ -3562,21 +3583,21 @@
                     "pChange": -13.636363636363635,
                     "pchangeinOpenInterest": -1.1111111111111112,
                     "strikePrice": 950,
-                    "totalBuyQuantity": 51500,
-                    "totalSellQuantity": 51000,
+                    "totalBuyQuantity": 52000,
+                    "totalSellQuantity": 31000,
                     "totalTradedVolume": 8,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 950
             },
             {
                 "CE": {
-                    "askPrice": 30,
+                    "askPrice": 31.75,
                     "askQty": 500,
-                    "bidQty": 500,
-                    "bidprice": 29.55,
+                    "bidQty": 1000,
+                    "bidprice": 30.95,
                     "change": 3.950000000000003,
                     "changeinOpenInterest": -10,
                     "expiryDate": "25-May-2023",
@@ -3587,17 +3608,17 @@
                     "pChange": 15.250965250965262,
                     "pchangeinOpenInterest": -7.8125,
                     "strikePrice": 960,
-                    "totalBuyQuantity": 61000,
+                    "totalBuyQuantity": 62000,
                     "totalSellQuantity": 46500,
                     "totalTradedVolume": 28,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 3.6,
-                    "askQty": 500,
-                    "bidQty": 5500,
-                    "bidprice": 3.45,
+                    "askPrice": 3.5,
+                    "askQty": 1000,
+                    "bidQty": 1000,
+                    "bidprice": 3.35,
                     "change": -1.9500000000000002,
                     "changeinOpenInterest": -35,
                     "expiryDate": "25-May-2023",
@@ -3608,19 +3629,19 @@
                     "pChange": -34.51327433628319,
                     "pchangeinOpenInterest": -11.075949367088608,
                     "strikePrice": 960,
-                    "totalBuyQuantity": 61500,
+                    "totalBuyQuantity": 60500,
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 139,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 960
             },
             {
                 "CE": {
-                    "askPrice": 86.65,
-                    "askQty": 1500,
+                    "askPrice": 66.1,
+                    "askQty": 500,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -3634,16 +3655,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 960,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 22000,
+                    "totalSellQuantity": 20500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 24.6,
+                    "askPrice": 24.2,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 22.65,
+                    "bidprice": 22.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3658,7 +3679,7 @@
                     "totalSellQuantity": 40500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 960
@@ -3683,61 +3704,61 @@
                     "totalSellQuantity": 550,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 960
             },
             {
                 "CE": {
-                    "askPrice": 22,
+                    "askPrice": 23.6,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 21.6,
-                    "change": 2.049999999999997,
+                    "bidprice": 23.25,
+                    "change": 2.1499999999999986,
                     "changeinOpenInterest": -45,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACHEM25-05-2023CE970.00",
                     "impliedVolatility": 19.78,
-                    "lastPrice": 21.9,
+                    "lastPrice": 22,
                     "openInterest": 221,
-                    "pChange": 10.327455919395451,
+                    "pChange": 10.831234256926944,
                     "pchangeinOpenInterest": -16.917293233082706,
                     "strikePrice": 970,
-                    "totalBuyQuantity": 55500,
-                    "totalSellQuantity": 54000,
-                    "totalTradedVolume": 160,
+                    "totalBuyQuantity": 63500,
+                    "totalSellQuantity": 53500,
+                    "totalTradedVolume": 161,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 5.95,
-                    "askQty": 2000,
-                    "bidQty": 1500,
-                    "bidprice": 5.8,
-                    "change": -2.999999999999999,
+                    "askPrice": 5.75,
+                    "askQty": 1500,
+                    "bidQty": 1000,
+                    "bidprice": 5.5,
+                    "change": -3.1499999999999995,
                     "changeinOpenInterest": 26,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACHEM25-05-2023PE970.00",
                     "impliedVolatility": 23.92,
-                    "lastPrice": 5.95,
+                    "lastPrice": 5.8,
                     "openInterest": 344,
-                    "pChange": -33.51955307262569,
+                    "pChange": -35.195530726256976,
                     "pchangeinOpenInterest": 8.176100628930818,
                     "strikePrice": 970,
-                    "totalBuyQuantity": 64000,
-                    "totalSellQuantity": 83000,
-                    "totalTradedVolume": 252,
+                    "totalBuyQuantity": 63000,
+                    "totalSellQuantity": 82500,
+                    "totalTradedVolume": 254,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 970
             },
             {
                 "CE": {
-                    "askPrice": 49.55,
-                    "askQty": 500,
+                    "askPrice": 39.85,
+                    "askQty": 2000,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -3751,10 +3772,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 970,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 23000,
+                    "totalSellQuantity": 22500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 29,
@@ -3775,7 +3796,7 @@
                     "totalSellQuantity": 41000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 970
@@ -3800,38 +3821,38 @@
                     "totalSellQuantity": 550,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 970
             },
             {
                 "CE": {
-                    "askPrice": 16.15,
-                    "askQty": 1000,
-                    "bidQty": 1000,
-                    "bidprice": 15.85,
-                    "change": 1.6500000000000004,
+                    "askPrice": 17.45,
+                    "askQty": 500,
+                    "bidQty": 500,
+                    "bidprice": 17.2,
+                    "change": 2.799999999999999,
                     "changeinOpenInterest": -6,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACHEM25-05-2023CE980.00",
                     "impliedVolatility": 22.03,
-                    "lastPrice": 16.05,
+                    "lastPrice": 17.2,
                     "openInterest": 676,
-                    "pChange": 11.458333333333336,
+                    "pChange": 19.444444444444436,
                     "pchangeinOpenInterest": -0.8797653958944281,
                     "strikePrice": 980,
-                    "totalBuyQuantity": 67500,
-                    "totalSellQuantity": 102000,
-                    "totalTradedVolume": 604,
+                    "totalBuyQuantity": 71000,
+                    "totalSellQuantity": 101000,
+                    "totalTradedVolume": 608,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 9.6,
+                    "askPrice": 9.3,
                     "askQty": 500,
                     "bidQty": 1000,
-                    "bidprice": 9.3,
+                    "bidprice": 9,
                     "change": -4.15,
                     "changeinOpenInterest": 21,
                     "expiryDate": "25-May-2023",
@@ -3842,11 +3863,11 @@
                     "pChange": -30.627306273062732,
                     "pchangeinOpenInterest": 3.626943005181347,
                     "strikePrice": 980,
-                    "totalBuyQuantity": 61000,
-                    "totalSellQuantity": 73000,
+                    "totalBuyQuantity": 60500,
+                    "totalSellQuantity": 74500,
                     "totalTradedVolume": 232,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 980
@@ -3871,28 +3892,28 @@
                     "totalSellQuantity": 26000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 34.7,
+                    "askPrice": 33.2,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 32.6,
-                    "change": 0,
+                    "bidprice": 31.55,
+                    "change": -6.200000000000003,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKTATACHEM29-06-2023PE980.00",
                     "impliedVolatility": 0,
-                    "lastPrice": 0,
+                    "lastPrice": 33,
                     "openInterest": 13,
-                    "pChange": 0,
+                    "pChange": -15.816326530612251,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 980,
-                    "totalBuyQuantity": 1000,
-                    "totalSellQuantity": 1000,
-                    "totalTradedVolume": 0,
+                    "totalBuyQuantity": 26000,
+                    "totalSellQuantity": 6000,
+                    "totalTradedVolume": 3,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 980
@@ -3917,17 +3938,17 @@
                     "totalSellQuantity": 550,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 980
             },
             {
                 "CE": {
-                    "askPrice": 12.3,
+                    "askPrice": 12.7,
                     "askQty": 500,
-                    "bidQty": 1500,
-                    "bidprice": 12,
+                    "bidQty": 1000,
+                    "bidprice": 12.35,
                     "change": 0.8499999999999996,
                     "changeinOpenInterest": -38,
                     "expiryDate": "25-May-2023",
@@ -3938,17 +3959,17 @@
                     "pChange": 7.623318385650221,
                     "pchangeinOpenInterest": -4.497041420118343,
                     "strikePrice": 990,
-                    "totalBuyQuantity": 96500,
-                    "totalSellQuantity": 116000,
+                    "totalBuyQuantity": 95000,
+                    "totalSellQuantity": 115000,
                     "totalTradedVolume": 552,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 15.6,
+                    "askPrice": 14.95,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 15.2,
+                    "bidprice": 14.6,
                     "change": -5.299999999999999,
                     "changeinOpenInterest": 31,
                     "expiryDate": "25-May-2023",
@@ -3959,42 +3980,42 @@
                     "pChange": -25.358851674641148,
                     "pchangeinOpenInterest": 18.023255813953487,
                     "strikePrice": 990,
-                    "totalBuyQuantity": 80000,
-                    "totalSellQuantity": 65000,
+                    "totalBuyQuantity": 80500,
+                    "totalSellQuantity": 68000,
                     "totalTradedVolume": 113,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 990
             },
             {
                 "CE": {
-                    "askPrice": 26.25,
+                    "askPrice": 27.2,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 25.05,
+                    "bidprice": 25.5,
                     "change": -5.899999999999999,
-                    "changeinOpenInterest": 5,
+                    "changeinOpenInterest": 7,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKTATACHEM29-06-2023CE990.00",
                     "impliedVolatility": 16.93,
                     "lastPrice": 26.35,
-                    "openInterest": 13,
+                    "openInterest": 15,
                     "pChange": -18.29457364341085,
-                    "pchangeinOpenInterest": 62.5,
+                    "pchangeinOpenInterest": 87.5,
                     "strikePrice": 990,
-                    "totalBuyQuantity": 46000,
+                    "totalBuyQuantity": 46500,
                     "totalSellQuantity": 27500,
-                    "totalTradedVolume": 8,
+                    "totalTradedVolume": 9,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 44.55,
-                    "askQty": 1000,
+                    "askPrice": 39.4,
+                    "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 31.5,
+                    "bidprice": 36.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4005,11 +4026,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 990,
-                    "totalBuyQuantity": 1500,
+                    "totalBuyQuantity": 1000,
                     "totalSellQuantity": 21000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 990
@@ -4031,20 +4052,20 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 990,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 1100,
+                    "totalSellQuantity": 550,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 990
             },
             {
                 "CE": {
-                    "askPrice": 22,
+                    "askPrice": 22.4,
                     "askQty": 500,
-                    "bidQty": 500,
-                    "bidprice": 21.65,
+                    "bidQty": 1000,
+                    "bidprice": 21.85,
                     "change": 2.3999999999999986,
                     "changeinOpenInterest": 10,
                     "expiryDate": "29-Jun-2023",
@@ -4055,78 +4076,78 @@
                     "pChange": 12.467532467532461,
                     "pchangeinOpenInterest": 3.5587188612099645,
                     "strikePrice": 1000,
-                    "totalBuyQuantity": 46500,
-                    "totalSellQuantity": 60500,
+                    "totalBuyQuantity": 47500,
+                    "totalSellQuantity": 60000,
                     "totalTradedVolume": 81,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 44.95,
+                    "askPrice": 44.1,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 43.45,
+                    "bidprice": 42.85,
                     "change": -5.5,
-                    "changeinOpenInterest": 2,
+                    "changeinOpenInterest": 3,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKTATACHEM29-06-2023PE1000.00",
                     "impliedVolatility": 31.98,
                     "lastPrice": 44,
-                    "openInterest": 88,
+                    "openInterest": 89,
                     "pChange": -11.11111111111111,
-                    "pchangeinOpenInterest": 2.3255813953488373,
+                    "pchangeinOpenInterest": 3.488372093023256,
                     "strikePrice": 1000,
                     "totalBuyQuantity": 15500,
                     "totalSellQuantity": 26000,
-                    "totalTradedVolume": 3,
+                    "totalTradedVolume": 4,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1000
             },
             {
                 "CE": {
-                    "askPrice": 8.85,
+                    "askPrice": 9.45,
                     "askQty": 1000,
                     "bidQty": 1500,
-                    "bidprice": 8.7,
-                    "change": -0.05000000000000071,
-                    "changeinOpenInterest": -189,
+                    "bidprice": 9.3,
+                    "change": 0.7999999999999989,
+                    "changeinOpenInterest": -191,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACHEM25-05-2023CE1000.00",
                     "impliedVolatility": 25,
-                    "lastPrice": 8.6,
-                    "openInterest": 2370,
-                    "pChange": -0.5780346820809331,
-                    "pchangeinOpenInterest": -7.38569753810082,
+                    "lastPrice": 9.45,
+                    "openInterest": 2368,
+                    "pChange": 9.248554913294784,
+                    "pchangeinOpenInterest": -7.463853067604533,
                     "strikePrice": 1000,
-                    "totalBuyQuantity": 124000,
-                    "totalSellQuantity": 277000,
-                    "totalTradedVolume": 1087,
+                    "totalBuyQuantity": 127000,
+                    "totalSellQuantity": 275500,
+                    "totalTradedVolume": 1094,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 22.25,
+                    "askPrice": 21.85,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 21.9,
-                    "change": -6.599999999999998,
-                    "changeinOpenInterest": -18,
+                    "bidprice": 21.2,
+                    "change": -7,
+                    "changeinOpenInterest": -20,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACHEM25-05-2023PE1000.00",
                     "impliedVolatility": 27.64,
-                    "lastPrice": 21.85,
-                    "openInterest": 453,
-                    "pChange": -23.198594024604564,
-                    "pchangeinOpenInterest": -3.821656050955414,
+                    "lastPrice": 21.45,
+                    "openInterest": 451,
+                    "pChange": -24.604569420035148,
+                    "pchangeinOpenInterest": -4.246284501061571,
                     "strikePrice": 1000,
-                    "totalBuyQuantity": 67000,
-                    "totalSellQuantity": 46000,
-                    "totalTradedVolume": 70,
+                    "totalBuyQuantity": 65000,
+                    "totalSellQuantity": 47000,
+                    "totalTradedVolume": 71,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1000
@@ -4148,10 +4169,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1000,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 1100,
+                    "totalSellQuantity": 550,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 65.5,
@@ -4172,17 +4193,17 @@
                     "totalSellQuantity": 550,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1000
             },
             {
                 "CE": {
-                    "askPrice": 6.1,
-                    "askQty": 500,
-                    "bidQty": 1500,
-                    "bidprice": 5.9,
+                    "askPrice": 6.5,
+                    "askQty": 1000,
+                    "bidQty": 1000,
+                    "bidprice": 6.25,
                     "change": -0.20000000000000018,
                     "changeinOpenInterest": -12,
                     "expiryDate": "25-May-2023",
@@ -4193,17 +4214,17 @@
                     "pChange": -3.200000000000003,
                     "pchangeinOpenInterest": -2.051282051282051,
                     "strikePrice": 1010,
-                    "totalBuyQuantity": 80000,
-                    "totalSellQuantity": 110500,
+                    "totalBuyQuantity": 81000,
+                    "totalSellQuantity": 106500,
                     "totalTradedVolume": 265,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 31.3,
-                    "askQty": 2000,
+                    "askPrice": 30.2,
+                    "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 28.1,
+                    "bidprice": 28.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4214,11 +4235,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1010,
-                    "totalBuyQuantity": 24500,
-                    "totalSellQuantity": 40500,
+                    "totalBuyQuantity": 26500,
+                    "totalSellQuantity": 41000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1010
@@ -4228,7 +4249,7 @@
                     "askPrice": 40.35,
                     "askQty": 20000,
                     "bidQty": 500,
-                    "bidprice": 17.3,
+                    "bidprice": 15.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4239,17 +4260,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1010,
-                    "totalBuyQuantity": 1000,
+                    "totalBuyQuantity": 500,
                     "totalSellQuantity": 20000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 59.2,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 46,
+                    "bidprice": 44.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4264,7 +4285,7 @@
                     "totalSellQuantity": 21000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1010
@@ -4289,17 +4310,17 @@
                     "totalSellQuantity": 550,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1010
             },
             {
                 "CE": {
-                    "askPrice": 26.75,
+                    "askPrice": 27.5,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 11.7,
+                    "bidprice": 12.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4310,17 +4331,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1020,
-                    "totalBuyQuantity": 500,
+                    "totalBuyQuantity": 1000,
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 66.2,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 51.9,
+                    "bidprice": 50.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4335,14 +4356,14 @@
                     "totalSellQuantity": 21000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1020
             },
             {
                 "PE": {
-                    "askPrice": 79.1,
+                    "askPrice": 78,
                     "askQty": 550,
                     "bidQty": 550,
                     "bidprice": 44.7,
@@ -4360,38 +4381,38 @@
                     "totalSellQuantity": 550,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1020
             },
             {
                 "CE": {
-                    "askPrice": 4.45,
-                    "askQty": 500,
-                    "bidQty": 1500,
-                    "bidprice": 4.35,
-                    "change": -0.40000000000000036,
-                    "changeinOpenInterest": -2,
+                    "askPrice": 4.7,
+                    "askQty": 2000,
+                    "bidQty": 1000,
+                    "bidprice": 4.55,
+                    "change": -0.20000000000000018,
+                    "changeinOpenInterest": -4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACHEM25-05-2023CE1020.00",
                     "impliedVolatility": 27.18,
-                    "lastPrice": 4.3,
-                    "openInterest": 749,
-                    "pChange": -8.510638297872347,
-                    "pchangeinOpenInterest": -0.2663115845539281,
+                    "lastPrice": 4.5,
+                    "openInterest": 747,
+                    "pChange": -4.255319148936174,
+                    "pchangeinOpenInterest": -0.5326231691078562,
                     "strikePrice": 1020,
-                    "totalBuyQuantity": 78500,
-                    "totalSellQuantity": 145500,
-                    "totalTradedVolume": 265,
+                    "totalBuyQuantity": 80000,
+                    "totalSellQuantity": 145000,
+                    "totalTradedVolume": 267,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 38.85,
+                    "askPrice": 37.75,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 36,
+                    "bidprice": 35.5,
                     "change": -16.049999999999997,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4403,41 +4424,41 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1020,
                     "totalBuyQuantity": 45500,
-                    "totalSellQuantity": 39000,
+                    "totalSellQuantity": 41000,
                     "totalTradedVolume": 5,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1020
             },
             {
                 "CE": {
-                    "askPrice": 3.25,
+                    "askPrice": 3.35,
                     "askQty": 500,
                     "bidQty": 1500,
-                    "bidprice": 3.1,
-                    "change": -0.34999999999999964,
+                    "bidprice": 3.2,
+                    "change": -0.3999999999999999,
                     "changeinOpenInterest": -5,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACHEM25-05-2023CE1030.00",
                     "impliedVolatility": 29.23,
-                    "lastPrice": 3.2,
+                    "lastPrice": 3.15,
                     "openInterest": 411,
-                    "pChange": -9.859154929577455,
+                    "pChange": -11.267605633802814,
                     "pchangeinOpenInterest": -1.2019230769230769,
                     "strikePrice": 1030,
-                    "totalBuyQuantity": 67500,
-                    "totalSellQuantity": 129500,
-                    "totalTradedVolume": 133,
+                    "totalBuyQuantity": 75000,
+                    "totalSellQuantity": 124500,
+                    "totalTradedVolume": 135,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 47.85,
+                    "askPrice": 46.45,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 45.55,
+                    "bidprice": 43.8,
                     "change": -7.649999999999999,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4448,18 +4469,18 @@
                     "pChange": -14.325842696629213,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1030,
-                    "totalBuyQuantity": 45500,
-                    "totalSellQuantity": 41500,
+                    "totalBuyQuantity": 46000,
+                    "totalSellQuantity": 41000,
                     "totalTradedVolume": 2,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1030
             },
             {
                 "CE": {
-                    "askPrice": 36.45,
+                    "askPrice": 36.9,
                     "askQty": 500,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -4477,7 +4498,7 @@
                     "totalSellQuantity": 21000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 97.4,
@@ -4498,38 +4519,38 @@
                     "totalSellQuantity": 1500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1030
             },
             {
                 "CE": {
-                    "askPrice": 2.1,
-                    "askQty": 3000,
+                    "askPrice": 2.25,
+                    "askQty": 6000,
                     "bidQty": 1500,
-                    "bidprice": 1.95,
-                    "change": -0.4500000000000002,
-                    "changeinOpenInterest": 5,
+                    "bidprice": 2.1,
+                    "change": -0.30000000000000027,
+                    "changeinOpenInterest": 6,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACHEM25-05-2023CE1040.00",
                     "impliedVolatility": 29.28,
-                    "lastPrice": 2,
-                    "openInterest": 590,
-                    "pChange": -18.367346938775515,
-                    "pchangeinOpenInterest": 0.8547008547008547,
+                    "lastPrice": 2.15,
+                    "openInterest": 591,
+                    "pChange": -12.244897959183684,
+                    "pchangeinOpenInterest": 1.0256410256410255,
                     "strikePrice": 1040,
-                    "totalBuyQuantity": 65500,
-                    "totalSellQuantity": 97000,
-                    "totalTradedVolume": 70,
+                    "totalBuyQuantity": 70000,
+                    "totalSellQuantity": 96500,
+                    "totalTradedVolume": 73,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 58.15,
+                    "askPrice": 56.25,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 53.8,
+                    "bidprice": 52.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4540,11 +4561,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1040,
-                    "totalBuyQuantity": 32000,
-                    "totalSellQuantity": 27000,
+                    "totalBuyQuantity": 34000,
+                    "totalSellQuantity": 29000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1040
@@ -4569,7 +4590,7 @@
                     "totalSellQuantity": 5000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 81,
@@ -4590,38 +4611,38 @@
                     "totalSellQuantity": 500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1040
             },
             {
                 "CE": {
-                    "askPrice": 1.6,
+                    "askPrice": 1.75,
                     "askQty": 1500,
-                    "bidQty": 4500,
-                    "bidprice": 1.5,
-                    "change": -0.34999999999999987,
+                    "bidQty": 1000,
+                    "bidprice": 1.65,
+                    "change": -0.25,
                     "changeinOpenInterest": -8,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACHEM25-05-2023CE1050.00",
                     "impliedVolatility": 31.34,
-                    "lastPrice": 1.6,
+                    "lastPrice": 1.7,
                     "openInterest": 775,
-                    "pChange": -17.948717948717942,
+                    "pChange": -12.820512820512823,
                     "pchangeinOpenInterest": -1.0217113665389528,
                     "strikePrice": 1050,
-                    "totalBuyQuantity": 70500,
-                    "totalSellQuantity": 101500,
-                    "totalTradedVolume": 96,
+                    "totalBuyQuantity": 75000,
+                    "totalSellQuantity": 108000,
+                    "totalTradedVolume": 98,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 67.45,
-                    "askQty": 2000,
+                    "askPrice": 66,
+                    "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 64.45,
+                    "bidprice": 61.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4632,18 +4653,18 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1050,
-                    "totalBuyQuantity": 26000,
+                    "totalBuyQuantity": 28500,
                     "totalSellQuantity": 27000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1050
             },
             {
                 "CE": {
-                    "askPrice": 22.95,
+                    "askPrice": 14.55,
                     "askQty": 500,
                     "bidQty": 500,
                     "bidprice": 8,
@@ -4661,13 +4682,13 @@
                     "totalSellQuantity": 4000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 89.75,
+                    "askPrice": 89.55,
                     "askQty": 500,
-                    "bidQty": 1500,
-                    "bidprice": 75.85,
+                    "bidQty": 2000,
+                    "bidprice": 72.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4682,15 +4703,15 @@
                     "totalSellQuantity": 20500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1050
             },
             {
                 "CE": {
-                    "askPrice": 49.65,
-                    "askQty": 550,
+                    "askPrice": 0,
+                    "askQty": 0,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -4704,41 +4725,41 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1050,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 550,
+                    "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1050
             },
             {
                 "CE": {
-                    "askPrice": 1.2,
-                    "askQty": 1500,
-                    "bidQty": 4500,
-                    "bidprice": 1.1,
-                    "change": -0.30000000000000004,
+                    "askPrice": 1.3,
+                    "askQty": 2000,
+                    "bidQty": 500,
+                    "bidprice": 1.2,
+                    "change": -0.3500000000000001,
                     "changeinOpenInterest": -11,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACHEM25-05-2023CE1060.00",
                     "impliedVolatility": 33.04,
-                    "lastPrice": 1.25,
+                    "lastPrice": 1.2,
                     "openInterest": 242,
-                    "pChange": -19.35483870967742,
+                    "pChange": -22.580645161290327,
                     "pchangeinOpenInterest": -4.3478260869565215,
                     "strikePrice": 1060,
-                    "totalBuyQuantity": 59500,
-                    "totalSellQuantity": 66000,
-                    "totalTradedVolume": 31,
+                    "totalBuyQuantity": 64000,
+                    "totalSellQuantity": 64000,
+                    "totalTradedVolume": 32,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 77.9,
-                    "askQty": 1500,
-                    "bidQty": 500,
-                    "bidprice": 74,
+                    "askPrice": 78.5,
+                    "askQty": 2000,
+                    "bidQty": 1000,
+                    "bidprice": 71,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4749,11 +4770,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1060,
-                    "totalBuyQuantity": 26000,
-                    "totalSellQuantity": 28500,
+                    "totalBuyQuantity": 28000,
+                    "totalSellQuantity": 27000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1060
@@ -4778,11 +4799,11 @@
                     "totalSellQuantity": 1000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 98.3,
-                    "askQty": 500,
+                    "askPrice": 97.75,
+                    "askQty": 1500,
                     "bidQty": 500,
                     "bidprice": 79.9,
                     "change": 0,
@@ -4796,10 +4817,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1060,
                     "totalBuyQuantity": 20500,
-                    "totalSellQuantity": 20500,
+                    "totalSellQuantity": 22000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1060
@@ -4807,9 +4828,9 @@
             {
                 "CE": {
                     "askPrice": 0.95,
-                    "askQty": 1000,
+                    "askQty": 1500,
                     "bidQty": 500,
-                    "bidprice": 0.65,
+                    "bidprice": 0.7,
                     "change": 0.04999999999999982,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4820,17 +4841,17 @@
                     "pChange": 4.545454545454529,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1070,
-                    "totalBuyQuantity": 67000,
-                    "totalSellQuantity": 55500,
+                    "totalBuyQuantity": 67500,
+                    "totalSellQuantity": 56000,
                     "totalTradedVolume": 7,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 86.4,
-                    "askQty": 1500,
+                    "askPrice": 84.5,
+                    "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 82.35,
+                    "bidprice": 82.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4841,11 +4862,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1070,
-                    "totalBuyQuantity": 25500,
-                    "totalSellQuantity": 26500,
+                    "totalBuyQuantity": 26000,
+                    "totalSellQuantity": 25500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1070
@@ -4870,7 +4891,7 @@
                     "totalSellQuantity": 20000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1070
@@ -4878,9 +4899,9 @@
             {
                 "CE": {
                     "askPrice": 0.7,
-                    "askQty": 2000,
-                    "bidQty": 4500,
-                    "bidprice": 0.6,
+                    "askQty": 500,
+                    "bidQty": 500,
+                    "bidprice": 0.65,
                     "change": -0.20000000000000007,
                     "changeinOpenInterest": -18,
                     "expiryDate": "25-May-2023",
@@ -4891,14 +4912,14 @@
                     "pChange": -22.22222222222223,
                     "pchangeinOpenInterest": -10.778443113772456,
                     "strikePrice": 1080,
-                    "totalBuyQuantity": 73500,
-                    "totalSellQuantity": 69500,
+                    "totalBuyQuantity": 74000,
+                    "totalSellQuantity": 68000,
                     "totalTradedVolume": 40,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 97.1,
+                    "askPrice": 97.05,
                     "askQty": 1500,
                     "bidQty": 1500,
                     "bidprice": 89.2,
@@ -4913,18 +4934,18 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1080,
                     "totalBuyQuantity": 26000,
-                    "totalSellQuantity": 24500,
+                    "totalSellQuantity": 26000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1080
             },
             {
                 "CE": {
-                    "askPrice": 8.05,
-                    "askQty": 500,
+                    "askPrice": 0,
+                    "askQty": 0,
                     "bidQty": 500,
                     "bidprice": 1.25,
                     "change": 0,
@@ -4938,13 +4959,13 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1080,
                     "totalBuyQuantity": 500,
-                    "totalSellQuantity": 20500,
+                    "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 147.4,
+                    "askPrice": 143,
                     "askQty": 1500,
                     "bidQty": 1500,
                     "bidprice": 79.15,
@@ -4962,16 +4983,16 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1080
             },
             {
                 "CE": {
-                    "askPrice": 0.65,
-                    "askQty": 1000,
-                    "bidQty": 1000,
+                    "askPrice": 0.6,
+                    "askQty": 500,
+                    "bidQty": 500,
                     "bidprice": 0.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -4983,11 +5004,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1090,
-                    "totalBuyQuantity": 39000,
+                    "totalBuyQuantity": 38500,
                     "totalSellQuantity": 58000,
                     "totalTradedVolume": 1,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 110.15,
@@ -5008,14 +5029,14 @@
                     "totalSellQuantity": 24500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1090
             },
             {
                 "CE": {
-                    "askPrice": 33.35,
+                    "askPrice": 28.95,
                     "askQty": 500,
                     "bidQty": 500,
                     "bidprice": 0.6,
@@ -5033,13 +5054,13 @@
                     "totalSellQuantity": 20500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 159.85,
+                    "askPrice": 158.25,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 82.75,
+                    "bidprice": 86.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -5051,10 +5072,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1090,
                     "totalBuyQuantity": 21500,
-                    "totalSellQuantity": 1500,
+                    "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1090
@@ -5062,8 +5083,8 @@
             {
                 "CE": {
                     "askPrice": 0.6,
-                    "askQty": 500,
-                    "bidQty": 10000,
+                    "askQty": 3000,
+                    "bidQty": 2000,
                     "bidprice": 0.55,
                     "change": 0,
                     "changeinOpenInterest": -55,
@@ -5075,17 +5096,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": -3.8141470180305133,
                     "strikePrice": 1100,
-                    "totalBuyQuantity": 190000,
-                    "totalSellQuantity": 143500,
-                    "totalTradedVolume": 108,
+                    "totalBuyQuantity": 196500,
+                    "totalSellQuantity": 140000,
+                    "totalTradedVolume": 113,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 114.6,
+                    "askPrice": 113.75,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 111.75,
+                    "bidprice": 110.6,
                     "change": -6,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5100,17 +5121,17 @@
                     "totalSellQuantity": 24000,
                     "totalTradedVolume": 1,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1100
             },
             {
                 "CE": {
-                    "askPrice": 4.2,
+                    "askPrice": 4.5,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 3.6,
+                    "bidprice": 3.55,
                     "change": 0.5,
                     "changeinOpenInterest": 1,
                     "expiryDate": "29-Jun-2023",
@@ -5121,17 +5142,17 @@
                     "pChange": 14.285714285714285,
                     "pchangeinOpenInterest": 1.0309278350515463,
                     "strikePrice": 1100,
-                    "totalBuyQuantity": 41000,
-                    "totalSellQuantity": 29000,
+                    "totalBuyQuantity": 41500,
+                    "totalSellQuantity": 30500,
                     "totalTradedVolume": 4,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 129.35,
+                    "askPrice": 129.15,
                     "askQty": 1500,
                     "bidQty": 1000,
-                    "bidprice": 123.5,
+                    "bidprice": 123.55,
                     "change": -5,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -5142,11 +5163,11 @@
                     "pChange": -3.8461538461538463,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1100,
-                    "totalBuyQuantity": 23000,
+                    "totalBuyQuantity": 21500,
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 1,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1100
@@ -5171,7 +5192,7 @@
                     "totalSellQuantity": 54500,
                     "totalTradedVolume": 1,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 128.7,
@@ -5192,7 +5213,7 @@
                     "totalSellQuantity": 24500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1110
@@ -5217,13 +5238,13 @@
                     "totalSellQuantity": 20000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 165.4,
+                    "askPrice": 162.2,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 92.75,
+                    "bidprice": 97.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -5238,16 +5259,16 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1110
             },
             {
                 "CE": {
-                    "askPrice": 0.6,
-                    "askQty": 500,
-                    "bidQty": 500,
+                    "askPrice": 0.65,
+                    "askQty": 1000,
+                    "bidQty": 1000,
                     "bidprice": 0.3,
                     "change": 0.04999999999999999,
                     "changeinOpenInterest": 0,
@@ -5263,7 +5284,7 @@
                     "totalSellQuantity": 54500,
                     "totalTradedVolume": 3,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 140.95,
@@ -5284,17 +5305,17 @@
                     "totalSellQuantity": 24500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1120
             },
             {
                 "CE": {
-                    "askPrice": 18.85,
+                    "askPrice": 18.8,
                     "askQty": 20000,
-                    "bidQty": 500,
-                    "bidprice": 1.8,
+                    "bidQty": 1000,
+                    "bidprice": 1.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -5305,17 +5326,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1120,
-                    "totalBuyQuantity": 21000,
-                    "totalSellQuantity": 20000,
+                    "totalBuyQuantity": 21500,
+                    "totalSellQuantity": 40000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 176.95,
+                    "askPrice": 174.85,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 96.1,
+                    "bidprice": 101.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -5330,7 +5351,7 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1120
@@ -5355,7 +5376,7 @@
                     "totalSellQuantity": 23000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 147,
@@ -5376,14 +5397,14 @@
                     "totalSellQuantity": 24500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1130
             },
             {
                 "CE": {
-                    "askPrice": 20.25,
+                    "askPrice": 20.2,
                     "askQty": 20000,
                     "bidQty": 6000,
                     "bidprice": 0.3,
@@ -5401,13 +5422,13 @@
                     "totalSellQuantity": 20000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 183.2,
-                    "askQty": 20000,
+                    "askPrice": 183.55,
+                    "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 101.35,
+                    "bidprice": 104.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -5419,10 +5440,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1130,
                     "totalBuyQuantity": 21500,
-                    "totalSellQuantity": 20000,
+                    "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1130
@@ -5447,10 +5468,10 @@
                     "totalSellQuantity": 9000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 159.15,
+                    "askPrice": 156.15,
                     "askQty": 1500,
                     "bidQty": 1500,
                     "bidprice": 147.5,
@@ -5465,10 +5486,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1140,
                     "totalBuyQuantity": 24500,
-                    "totalSellQuantity": 24500,
+                    "totalSellQuantity": 25500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1140
@@ -5493,13 +5514,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 193.6,
+                    "askPrice": 193.2,
                     "askQty": 20000,
                     "bidQty": 1500,
-                    "bidprice": 107.5,
+                    "bidprice": 111.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -5514,7 +5535,7 @@
                     "totalSellQuantity": 20000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1140
@@ -5539,7 +5560,7 @@
                     "totalSellQuantity": 1500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 168.3,
@@ -5560,38 +5581,38 @@
                     "totalSellQuantity": 24500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1150
             },
             {
                 "CE": {
-                    "askPrice": 0,
-                    "askQty": 0,
+                    "askPrice": 2.5,
+                    "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 2,
-                    "change": -2.5,
-                    "changeinOpenInterest": 0,
+                    "bidprice": 0.65,
+                    "change": -3.5,
+                    "changeinOpenInterest": 1,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKTATACHEM29-06-2023CE1150.00",
                     "impliedVolatility": 28.1,
-                    "lastPrice": 3,
-                    "openInterest": 2,
-                    "pChange": -45.45454545454545,
-                    "pchangeinOpenInterest": 0,
+                    "lastPrice": 2,
+                    "openInterest": 3,
+                    "pChange": -63.63636363636363,
+                    "pchangeinOpenInterest": 50,
                     "strikePrice": 1150,
-                    "totalBuyQuantity": 28500,
-                    "totalSellQuantity": 0,
-                    "totalTradedVolume": 1,
+                    "totalBuyQuantity": 29000,
+                    "totalSellQuantity": 30500,
+                    "totalTradedVolume": 2,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 203.65,
-                    "askQty": 20000,
+                    "askPrice": 200,
+                    "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 152.35,
+                    "bidprice": 164.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -5603,10 +5624,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1150,
                     "totalBuyQuantity": 22500,
-                    "totalSellQuantity": 20000,
+                    "totalSellQuantity": 22500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1150
@@ -5631,7 +5652,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 181.1,
@@ -5652,15 +5673,15 @@
                     "totalSellQuantity": 25500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1160
             },
             {
                 "CE": {
-                    "askPrice": 0,
-                    "askQty": 0,
+                    "askPrice": 17.4,
+                    "askQty": 20000,
                     "bidQty": 6000,
                     "bidprice": 0.1,
                     "change": 0,
@@ -5674,16 +5695,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1160,
                     "totalBuyQuantity": 6500,
-                    "totalSellQuantity": 0,
+                    "totalSellQuantity": 40000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 213.8,
-                    "askQty": 20000,
+                    "askPrice": 213.75,
+                    "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 119.05,
+                    "bidprice": 123.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -5695,10 +5716,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1160,
                     "totalBuyQuantity": 21500,
-                    "totalSellQuantity": 20000,
+                    "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1160
@@ -5723,7 +5744,7 @@
                     "totalSellQuantity": 21000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
                     "askPrice": 187.3,
@@ -5744,17 +5765,17 @@
                     "totalSellQuantity": 23000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1170
             },
             {
                 "PE": {
-                    "askPrice": 239,
+                    "askPrice": 222.9,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 127.55,
+                    "bidprice": 131.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -5769,7 +5790,7 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1170
@@ -5794,13 +5815,13 @@
                     "totalSellQuantity": 44500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 198.05,
+                    "askPrice": 197.85,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 185.2,
+                    "bidprice": 188.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5811,19 +5832,19 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1180,
-                    "totalBuyQuantity": 24500,
+                    "totalBuyQuantity": 25500,
                     "totalSellQuantity": 25500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1180
             },
             {
                 "CE": {
-                    "askPrice": 0,
-                    "askQty": 0,
+                    "askPrice": 4.85,
+                    "askQty": 500,
                     "bidQty": 500,
                     "bidprice": 0.1,
                     "change": 0,
@@ -5837,16 +5858,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1180,
                     "totalBuyQuantity": 500,
-                    "totalSellQuantity": 0,
+                    "totalSellQuantity": 500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "PE": {
-                    "askPrice": 249.75,
+                    "askPrice": 246.15,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 135.35,
+                    "bidprice": 139.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -5861,7 +5882,7 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACHEM",
-                    "underlyingValue": 986.5
+                    "underlyingValue": 986.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1180
@@ -5915,7 +5936,7 @@
             1170,
             1180
         ],
-        "timestamp": "18-May-2023 10:21:15",
-        "underlyingValue": 986.5
+        "timestamp": "18-May-2023 10:25:46",
+        "underlyingValue": 986.95
     }
 }

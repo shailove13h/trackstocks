@@ -29,7 +29,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 1,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 180
@@ -54,7 +54,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 185
@@ -79,7 +79,7 @@
                     "totalSellQuantity": 2800,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 187.5
@@ -104,7 +104,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 190
@@ -129,7 +129,7 @@
                     "totalSellQuantity": 25200,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 195
@@ -154,7 +154,7 @@
                     "totalSellQuantity": 2800,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225
                 },
                 "PE": {
                     "askPrice": 0.1,
@@ -175,7 +175,7 @@
                     "totalSellQuantity": 114800,
                     "totalTradedVolume": 5,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 200
@@ -200,7 +200,7 @@
                     "totalSellQuantity": 5600,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 202.5
@@ -210,7 +210,7 @@
                     "askPrice": 25.65,
                     "askQty": 2800,
                     "bidQty": 2800,
-                    "bidprice": 15,
+                    "bidprice": 18,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -221,11 +221,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 205,
-                    "totalBuyQuantity": 25200,
+                    "totalBuyQuantity": 30800,
                     "totalSellQuantity": 2800,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225
                 },
                 "PE": {
                     "askPrice": 0.6,
@@ -246,14 +246,14 @@
                     "totalSellQuantity": 39200,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 205
             },
             {
                 "CE": {
-                    "askPrice": 19.8,
+                    "askPrice": 19.65,
                     "askQty": 2800,
                     "bidQty": 11200,
                     "bidprice": 1.3,
@@ -271,15 +271,15 @@
                     "totalSellQuantity": 2800,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 207.5
             },
             {
                 "CE": {
-                    "askPrice": 17.9,
-                    "askQty": 14000,
+                    "askPrice": 18.4,
+                    "askQty": 2800,
                     "bidQty": 2800,
                     "bidprice": 15.95,
                     "change": 1.450000000000001,
@@ -296,7 +296,7 @@
                     "totalSellQuantity": 36400,
                     "totalTradedVolume": 6,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225.1
                 },
                 "PE": {
                     "askPrice": 0.5,
@@ -317,7 +317,7 @@
                     "totalSellQuantity": 72800,
                     "totalTradedVolume": 2,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 210
@@ -342,7 +342,7 @@
                     "totalSellQuantity": 8400,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225
                 },
                 "PE": {
                     "askPrice": 0.35,
@@ -360,10 +360,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 212.5,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 16800,
+                    "totalSellQuantity": 19600,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 212.5
@@ -388,7 +388,7 @@
                     "totalSellQuantity": 28000,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225.1
                 },
                 "PE": {
                     "askPrice": 0.35,
@@ -409,7 +409,7 @@
                     "totalSellQuantity": 19600,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 215
@@ -434,7 +434,7 @@
                     "totalSellQuantity": 5600,
                     "totalTradedVolume": 2,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225
                 },
                 "PE": {
                     "askPrice": 1.2,
@@ -455,14 +455,14 @@
                     "totalSellQuantity": 5600,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 217.5
             },
             {
                 "CE": {
-                    "askPrice": 8,
+                    "askPrice": 7.9,
                     "askQty": 2800,
                     "bidQty": 2800,
                     "bidprice": 7,
@@ -477,13 +477,13 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 220,
                     "totalBuyQuantity": 42000,
-                    "totalSellQuantity": 86800,
+                    "totalSellQuantity": 98000,
                     "totalTradedVolume": 1,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225
                 },
                 "PE": {
-                    "askPrice": 6.05,
+                    "askPrice": 3,
                     "askQty": 2800,
                     "bidQty": 2800,
                     "bidprice": 1.5,
@@ -498,10 +498,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 220,
                     "totalBuyQuantity": 19600,
-                    "totalSellQuantity": 2800,
+                    "totalSellQuantity": 5600,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 220
@@ -526,7 +526,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 222.5
@@ -551,7 +551,7 @@
                     "totalSellQuantity": 25200,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225
                 },
                 "PE": {
                     "askPrice": 5.85,
@@ -572,7 +572,7 @@
                     "totalSellQuantity": 2800,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 225
@@ -597,7 +597,7 @@
                     "totalSellQuantity": 159600,
                     "totalTradedVolume": 2,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225
                 },
                 "PE": {
                     "askPrice": 0,
@@ -618,7 +618,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 230
@@ -640,10 +640,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 235,
                     "totalBuyQuantity": 5600,
-                    "totalSellQuantity": 16800,
+                    "totalSellQuantity": 19600,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 235
@@ -668,7 +668,7 @@
                     "totalSellQuantity": 75600,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 240
@@ -693,7 +693,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 242.5
@@ -722,7 +722,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 1,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 180
@@ -747,7 +747,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 185
@@ -772,7 +772,7 @@
                     "totalSellQuantity": 2800,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 187.5
@@ -797,7 +797,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 190
@@ -822,7 +822,7 @@
                     "totalSellQuantity": 2800,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 190
@@ -847,7 +847,7 @@
                     "totalSellQuantity": 25200,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 195
@@ -872,7 +872,7 @@
                     "totalSellQuantity": 2800,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225
                 },
                 "PE": {
                     "askPrice": 0.1,
@@ -893,7 +893,7 @@
                     "totalSellQuantity": 114800,
                     "totalTradedVolume": 5,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 200
@@ -918,7 +918,7 @@
                     "totalSellQuantity": 5600,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 202.5
@@ -928,7 +928,7 @@
                     "askPrice": 25.65,
                     "askQty": 2800,
                     "bidQty": 2800,
-                    "bidprice": 15,
+                    "bidprice": 18,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -939,11 +939,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 205,
-                    "totalBuyQuantity": 25200,
+                    "totalBuyQuantity": 30800,
                     "totalSellQuantity": 2800,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225
                 },
                 "PE": {
                     "askPrice": 0.6,
@@ -964,14 +964,14 @@
                     "totalSellQuantity": 39200,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 205
             },
             {
                 "CE": {
-                    "askPrice": 19.8,
+                    "askPrice": 19.65,
                     "askQty": 2800,
                     "bidQty": 11200,
                     "bidprice": 1.3,
@@ -989,15 +989,15 @@
                     "totalSellQuantity": 2800,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 207.5
             },
             {
                 "CE": {
-                    "askPrice": 17.9,
-                    "askQty": 14000,
+                    "askPrice": 18.4,
+                    "askQty": 2800,
                     "bidQty": 2800,
                     "bidprice": 15.95,
                     "change": 1.450000000000001,
@@ -1014,7 +1014,7 @@
                     "totalSellQuantity": 36400,
                     "totalTradedVolume": 6,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225.1
                 },
                 "PE": {
                     "askPrice": 0.5,
@@ -1035,7 +1035,7 @@
                     "totalSellQuantity": 72800,
                     "totalTradedVolume": 2,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 210
@@ -1060,7 +1060,7 @@
                     "totalSellQuantity": 8400,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225
                 },
                 "PE": {
                     "askPrice": 0.35,
@@ -1078,10 +1078,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 212.5,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 16800,
+                    "totalSellQuantity": 19600,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 212.5
@@ -1106,7 +1106,7 @@
                     "totalSellQuantity": 28000,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225.1
                 },
                 "PE": {
                     "askPrice": 0.35,
@@ -1127,7 +1127,7 @@
                     "totalSellQuantity": 19600,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 215
@@ -1152,7 +1152,7 @@
                     "totalSellQuantity": 5600,
                     "totalTradedVolume": 2,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225
                 },
                 "PE": {
                     "askPrice": 1.2,
@@ -1173,14 +1173,14 @@
                     "totalSellQuantity": 5600,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 217.5
             },
             {
                 "CE": {
-                    "askPrice": 8,
+                    "askPrice": 7.9,
                     "askQty": 2800,
                     "bidQty": 2800,
                     "bidprice": 7,
@@ -1195,13 +1195,13 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 220,
                     "totalBuyQuantity": 42000,
-                    "totalSellQuantity": 86800,
+                    "totalSellQuantity": 98000,
                     "totalTradedVolume": 1,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225
                 },
                 "PE": {
-                    "askPrice": 6.05,
+                    "askPrice": 3,
                     "askQty": 2800,
                     "bidQty": 2800,
                     "bidprice": 1.5,
@@ -1216,10 +1216,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 220,
                     "totalBuyQuantity": 19600,
-                    "totalSellQuantity": 2800,
+                    "totalSellQuantity": 5600,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 220
@@ -1244,7 +1244,7 @@
                     "totalSellQuantity": 2800,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 220
@@ -1269,7 +1269,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 222.5
@@ -1294,7 +1294,7 @@
                     "totalSellQuantity": 25200,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225
                 },
                 "PE": {
                     "askPrice": 5.85,
@@ -1315,7 +1315,7 @@
                     "totalSellQuantity": 2800,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 225
@@ -1340,7 +1340,7 @@
                     "totalSellQuantity": 159600,
                     "totalTradedVolume": 2,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1361,7 +1361,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 230
@@ -1386,7 +1386,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 230
@@ -1408,10 +1408,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 235,
                     "totalBuyQuantity": 5600,
-                    "totalSellQuantity": 16800,
+                    "totalSellQuantity": 19600,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 235
@@ -1436,7 +1436,7 @@
                     "totalSellQuantity": 75600,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 240
@@ -1461,7 +1461,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "DELTACORP",
-                    "underlyingValue": 225.3
+                    "underlyingValue": 225.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 242.5
@@ -1493,7 +1493,7 @@
             240,
             242.5
         ],
-        "timestamp": "18-May-2023 10:21:15",
-        "underlyingValue": 225.3
+        "timestamp": "18-May-2023 10:26:47",
+        "underlyingValue": 225.1
     }
 }

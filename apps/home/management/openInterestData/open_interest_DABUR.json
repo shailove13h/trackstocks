@@ -1,18 +1,18 @@
 {
     "filtered": {
         "CE": {
-            "totOI": 4813,
-            "totVol": 788
+            "totOI": 4810,
+            "totVol": 862
         },
         "PE": {
-            "totOI": 3924,
-            "totVol": 407
+            "totOI": 3925,
+            "totVol": 435
         },
         "data": [
             {
                 "CE": {
-                    "askPrice": 109,
-                    "askQty": 3750,
+                    "askPrice": 109.05,
+                    "askQty": 50000,
                     "bidQty": 3750,
                     "bidprice": 92.25,
                     "change": 0,
@@ -26,18 +26,18 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 425,
                     "totalBuyQuantity": 53750,
-                    "totalSellQuantity": 53750,
+                    "totalSellQuantity": 50000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 425
             },
             {
                 "CE": {
-                    "askPrice": 103.95,
-                    "askQty": 3750,
+                    "askPrice": 104,
+                    "askQty": 50000,
                     "bidQty": 3750,
                     "bidprice": 87.25,
                     "change": 0,
@@ -51,10 +51,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 430,
                     "totalBuyQuantity": 53750,
-                    "totalSellQuantity": 53750,
+                    "totalSellQuantity": 50000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 523.55
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 430
@@ -79,15 +79,36 @@
                     "totalSellQuantity": 53750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
+                },
+                "PE": {
+                    "askPrice": 2.5,
+                    "askQty": 50000,
+                    "bidQty": 0,
+                    "bidprice": 0,
+                    "change": 0,
+                    "changeinOpenInterest": 0,
+                    "expiryDate": "25-May-2023",
+                    "identifier": "OPTSTKDABUR25-05-2023PE435.00",
+                    "impliedVolatility": 0,
+                    "lastPrice": 0,
+                    "openInterest": 0,
+                    "pChange": 0,
+                    "pchangeinOpenInterest": 0,
+                    "strikePrice": 435,
+                    "totalBuyQuantity": 0,
+                    "totalSellQuantity": 50000,
+                    "totalTradedVolume": 0,
+                    "underlying": "DABUR",
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 435
             },
             {
                 "CE": {
-                    "askPrice": 94.45,
-                    "askQty": 3750,
+                    "askPrice": 94,
+                    "askQty": 50000,
                     "bidQty": 3750,
                     "bidprice": 77.25,
                     "change": 0,
@@ -101,18 +122,18 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 440,
                     "totalBuyQuantity": 53750,
-                    "totalSellQuantity": 53750,
+                    "totalSellQuantity": 50000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 523.55
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 440
             },
             {
                 "CE": {
-                    "askPrice": 89.5,
-                    "askQty": 3750,
+                    "askPrice": 89.05,
+                    "askQty": 50000,
                     "bidQty": 3750,
                     "bidprice": 72.25,
                     "change": 0,
@@ -126,10 +147,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 445,
                     "totalBuyQuantity": 53750,
-                    "totalSellQuantity": 53750,
+                    "totalSellQuantity": 50000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
                     "askPrice": 2.5,
@@ -150,7 +171,7 @@
                     "totalSellQuantity": 50000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 445
@@ -175,11 +196,11 @@
                     "totalSellQuantity": 61250,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 523.55
                 },
                 "PE": {
                     "askPrice": 0.25,
-                    "askQty": 6250,
+                    "askQty": 3750,
                     "bidQty": 10000,
                     "bidprice": 0.15,
                     "change": 0,
@@ -192,21 +213,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 7.382550335570469,
                     "strikePrice": 450,
-                    "totalBuyQuantity": 155000,
-                    "totalSellQuantity": 35000,
-                    "totalTradedVolume": 11,
+                    "totalBuyQuantity": 160000,
+                    "totalSellQuantity": 32500,
+                    "totalTradedVolume": 12,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 450
             },
             {
                 "CE": {
-                    "askPrice": 78.1,
+                    "askPrice": 75.45,
                     "askQty": 3750,
                     "bidQty": 3750,
-                    "bidprice": 62.25,
+                    "bidprice": 65.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -217,14 +238,14 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 455,
-                    "totalBuyQuantity": 53750,
-                    "totalSellQuantity": 53750,
+                    "totalBuyQuantity": 61250,
+                    "totalSellQuantity": 61250,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 3.05,
+                    "askPrice": 1.9,
                     "askQty": 50000,
                     "bidQty": 8750,
                     "bidprice": 0.1,
@@ -242,7 +263,7 @@
                     "totalSellQuantity": 50000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 523.55
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 455
@@ -267,12 +288,12 @@
                     "totalSellQuantity": 61250,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 1.45,
-                    "askQty": 1250,
-                    "bidQty": 76250,
+                    "askPrice": 0.3,
+                    "askQty": 10000,
+                    "bidQty": 77500,
                     "bidprice": 0.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -284,21 +305,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 460,
-                    "totalBuyQuantity": 131250,
-                    "totalSellQuantity": 66250,
+                    "totalBuyQuantity": 132500,
+                    "totalSellQuantity": 26250,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 460
             },
             {
                 "CE": {
-                    "askPrice": 67.65,
-                    "askQty": 50000,
+                    "askPrice": 66.2,
+                    "askQty": 3750,
                     "bidQty": 3750,
-                    "bidprice": 52.45,
+                    "bidprice": 56.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -309,16 +330,16 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 465,
-                    "totalBuyQuantity": 53750,
-                    "totalSellQuantity": 50000,
+                    "totalBuyQuantity": 61250,
+                    "totalSellQuantity": 61250,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 0,
-                    "askQty": 0,
-                    "bidQty": 56250,
+                    "askPrice": 2.05,
+                    "askQty": 50000,
+                    "bidQty": 53750,
                     "bidprice": 0.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -330,11 +351,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 465,
-                    "totalBuyQuantity": 56250,
-                    "totalSellQuantity": 0,
+                    "totalBuyQuantity": 53750,
+                    "totalSellQuantity": 50000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 465
@@ -344,7 +365,7 @@
                     "askPrice": 57.75,
                     "askQty": 3750,
                     "bidQty": 3750,
-                    "bidprice": 49.85,
+                    "bidprice": 51.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -359,12 +380,12 @@
                     "totalSellQuantity": 61250,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
                     "askPrice": 0.25,
-                    "askQty": 3750,
-                    "bidQty": 10000,
+                    "askQty": 6250,
+                    "bidQty": 12500,
                     "bidprice": 0.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -376,21 +397,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 470,
-                    "totalBuyQuantity": 131250,
-                    "totalSellQuantity": 102500,
+                    "totalBuyQuantity": 133750,
+                    "totalSellQuantity": 115000,
                     "totalTradedVolume": 8,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 470
             },
             {
                 "CE": {
-                    "askPrice": 52.15,
+                    "askPrice": 51.35,
                     "askQty": 3750,
                     "bidQty": 3750,
-                    "bidprice": 47.6,
+                    "bidprice": 46.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -402,10 +423,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 475,
                     "totalBuyQuantity": 65000,
-                    "totalSellQuantity": 65000,
+                    "totalSellQuantity": 61250,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
                     "askPrice": 0.2,
@@ -426,17 +447,17 @@
                     "totalSellQuantity": 52500,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 475
             },
             {
                 "CE": {
-                    "askPrice": 46.45,
+                    "askPrice": 47.4,
                     "askQty": 3750,
                     "bidQty": 5000,
-                    "bidprice": 41.5,
+                    "bidprice": 42.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -448,10 +469,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 480,
                     "totalBuyQuantity": 66250,
-                    "totalSellQuantity": 65000,
+                    "totalSellQuantity": 66250,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
                     "askPrice": 0.3,
@@ -472,17 +493,17 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 8,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 480
             },
             {
                 "CE": {
-                    "askPrice": 41.5,
+                    "askPrice": 42.8,
                     "askQty": 3750,
                     "bidQty": 3750,
-                    "bidprice": 36,
+                    "bidprice": 36.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -497,11 +518,11 @@
                     "totalSellQuantity": 65000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
                     "askPrice": 0.25,
-                    "askQty": 1250,
+                    "askQty": 7500,
                     "bidQty": 1250,
                     "bidprice": 0.15,
                     "change": -0.04999999999999999,
@@ -515,20 +536,20 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 485,
                     "totalBuyQuantity": 116250,
-                    "totalSellQuantity": 131250,
+                    "totalSellQuantity": 136250,
                     "totalTradedVolume": 1,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 485
             },
             {
                 "CE": {
-                    "askPrice": 36.35,
+                    "askPrice": 38.05,
                     "askQty": 3750,
-                    "bidQty": 1250,
-                    "bidprice": 31.3,
+                    "bidQty": 3750,
+                    "bidprice": 32.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -539,15 +560,15 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 490,
-                    "totalBuyQuantity": 62500,
-                    "totalSellQuantity": 66250,
+                    "totalBuyQuantity": 65000,
+                    "totalSellQuantity": 65000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
                     "askPrice": 0.25,
-                    "askQty": 1250,
+                    "askQty": 2500,
                     "bidQty": 5000,
                     "bidprice": 0.2,
                     "change": -0.04999999999999999,
@@ -564,17 +585,17 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 14,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 523.55
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 490
             },
             {
                 "CE": {
-                    "askPrice": 31.9,
-                    "askQty": 1250,
+                    "askPrice": 32.5,
+                    "askQty": 3750,
                     "bidQty": 1250,
-                    "bidprice": 27.45,
+                    "bidprice": 28.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -585,16 +606,16 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 495,
-                    "totalBuyQuantity": 68750,
-                    "totalSellQuantity": 68750,
+                    "totalBuyQuantity": 62500,
+                    "totalSellQuantity": 67500,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 0.55,
+                    "askPrice": 0.5,
                     "askQty": 2500,
-                    "bidQty": 3750,
+                    "bidQty": 2500,
                     "bidprice": 0.4,
                     "change": -0.14999999999999997,
                     "changeinOpenInterest": 0,
@@ -606,21 +627,21 @@
                     "pChange": -42.85714285714285,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 495,
-                    "totalBuyQuantity": 167500,
-                    "totalSellQuantity": 135000,
+                    "totalBuyQuantity": 166250,
+                    "totalSellQuantity": 136250,
                     "totalTradedVolume": 1,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 495
             },
             {
                 "CE": {
-                    "askPrice": 25,
+                    "askPrice": 26.6,
                     "askQty": 1250,
-                    "bidQty": 1250,
-                    "bidprice": 23.45,
+                    "bidQty": 5000,
+                    "bidprice": 24.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -631,17 +652,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 500,
-                    "totalBuyQuantity": 108750,
+                    "totalBuyQuantity": 113750,
                     "totalSellQuantity": 101250,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 0.8,
-                    "askQty": 21250,
-                    "bidQty": 6250,
-                    "bidprice": 0.75,
+                    "askPrice": 0.7,
+                    "askQty": 3750,
+                    "bidQty": 1250,
+                    "bidprice": 0.65,
                     "change": 0.15000000000000002,
                     "changeinOpenInterest": -7,
                     "expiryDate": "25-May-2023",
@@ -652,21 +673,21 @@
                     "pChange": 25.000000000000007,
                     "pchangeinOpenInterest": -1.4462809917355373,
                     "strikePrice": 500,
-                    "totalBuyQuantity": 326250,
-                    "totalSellQuantity": 260000,
-                    "totalTradedVolume": 76,
+                    "totalBuyQuantity": 311250,
+                    "totalSellQuantity": 267500,
+                    "totalTradedVolume": 80,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 523.55
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 500
             },
             {
                 "CE": {
-                    "askPrice": 21.3,
-                    "askQty": 3750,
+                    "askPrice": 23.8,
+                    "askQty": 8750,
                     "bidQty": 1250,
-                    "bidprice": 19.4,
+                    "bidprice": 20.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -678,16 +699,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 505,
                     "totalBuyQuantity": 106250,
-                    "totalSellQuantity": 105000,
+                    "totalSellQuantity": 103750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 1.15,
-                    "askQty": 2500,
-                    "bidQty": 2500,
-                    "bidprice": 1.05,
+                    "askPrice": 1,
+                    "askQty": 3750,
+                    "bidQty": 10000,
+                    "bidprice": 0.9,
                     "change": 0.050000000000000044,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
@@ -698,67 +719,67 @@
                     "pChange": 5.263157894736848,
                     "pchangeinOpenInterest": 1.5151515151515151,
                     "strikePrice": 505,
-                    "totalBuyQuantity": 306250,
-                    "totalSellQuantity": 175000,
-                    "totalTradedVolume": 12,
+                    "totalBuyQuantity": 305000,
+                    "totalSellQuantity": 182500,
+                    "totalTradedVolume": 13,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 505
             },
             {
                 "CE": {
-                    "askPrice": 16.35,
-                    "askQty": 1250,
+                    "askPrice": 16.95,
+                    "askQty": 2500,
                     "bidQty": 1250,
-                    "bidprice": 14.2,
-                    "change": -0.8499999999999996,
-                    "changeinOpenInterest": 0,
+                    "bidprice": 16.45,
+                    "change": 0.14999999999999858,
+                    "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKDABUR25-05-2023CE510.00",
                     "impliedVolatility": 23.34,
-                    "lastPrice": 15.65,
-                    "openInterest": 65,
-                    "pChange": -5.15151515151515,
-                    "pchangeinOpenInterest": 0,
+                    "lastPrice": 16.65,
+                    "openInterest": 66,
+                    "pChange": 0.9090909090909005,
+                    "pchangeinOpenInterest": 1.5384615384615385,
                     "strikePrice": 510,
-                    "totalBuyQuantity": 110000,
-                    "totalSellQuantity": 107500,
-                    "totalTradedVolume": 1,
+                    "totalBuyQuantity": 118750,
+                    "totalSellQuantity": 110000,
+                    "totalTradedVolume": 7,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 1.7,
-                    "askQty": 1250,
-                    "bidQty": 5000,
-                    "bidprice": 1.6,
-                    "change": 0.19999999999999996,
-                    "changeinOpenInterest": 7,
+                    "askPrice": 1.45,
+                    "askQty": 5000,
+                    "bidQty": 13750,
+                    "bidprice": 1.35,
+                    "change": 0,
+                    "changeinOpenInterest": 6,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKDABUR25-05-2023PE510.00",
                     "impliedVolatility": 22.22,
-                    "lastPrice": 1.65,
-                    "openInterest": 341,
-                    "pChange": 13.79310344827586,
-                    "pchangeinOpenInterest": 2.095808383233533,
+                    "lastPrice": 1.45,
+                    "openInterest": 340,
+                    "pChange": 0,
+                    "pchangeinOpenInterest": 1.7964071856287425,
                     "strikePrice": 510,
-                    "totalBuyQuantity": 221250,
-                    "totalSellQuantity": 185000,
-                    "totalTradedVolume": 33,
+                    "totalBuyQuantity": 211250,
+                    "totalSellQuantity": 197500,
+                    "totalTradedVolume": 34,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 510
             },
             {
                 "CE": {
-                    "askPrice": 11.4,
+                    "askPrice": 12.1,
                     "askQty": 2500,
                     "bidQty": 1250,
-                    "bidprice": 10.8,
+                    "bidprice": 11.65,
                     "change": -1.200000000000001,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -769,201 +790,201 @@
                     "pChange": -9.756097560975618,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 515,
-                    "totalBuyQuantity": 107500,
+                    "totalBuyQuantity": 106250,
                     "totalSellQuantity": 103750,
                     "totalTradedVolume": 3,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 2.4,
-                    "askQty": 1250,
-                    "bidQty": 6250,
-                    "bidprice": 2.25,
-                    "change": 0.25,
+                    "askPrice": 1.95,
+                    "askQty": 2500,
+                    "bidQty": 11250,
+                    "bidprice": 1.85,
+                    "change": -0.09999999999999987,
                     "changeinOpenInterest": 11,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKDABUR25-05-2023PE515.00",
                     "impliedVolatility": 20.05,
-                    "lastPrice": 2.3,
+                    "lastPrice": 1.95,
                     "openInterest": 192,
-                    "pChange": 12.195121951219514,
+                    "pChange": -4.8780487804877986,
                     "pchangeinOpenInterest": 6.077348066298343,
                     "strikePrice": 515,
-                    "totalBuyQuantity": 170000,
-                    "totalSellQuantity": 185000,
-                    "totalTradedVolume": 40,
+                    "totalBuyQuantity": 163750,
+                    "totalSellQuantity": 192500,
+                    "totalTradedVolume": 42,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 515
             },
             {
                 "CE": {
-                    "askPrice": 7.55,
-                    "askQty": 1250,
+                    "askPrice": 8.45,
+                    "askQty": 3750,
                     "bidQty": 1250,
-                    "bidprice": 7.35,
-                    "change": -0.8000000000000007,
+                    "bidprice": 8.3,
+                    "change": 0,
                     "changeinOpenInterest": -9,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKDABUR25-05-2023CE520.00",
                     "impliedVolatility": 18.84,
-                    "lastPrice": 7.5,
+                    "lastPrice": 8.3,
                     "openInterest": 321,
-                    "pChange": -9.638554216867478,
+                    "pChange": 0,
                     "pchangeinOpenInterest": -2.727272727272727,
                     "strikePrice": 520,
-                    "totalBuyQuantity": 103750,
-                    "totalSellQuantity": 193750,
-                    "totalTradedVolume": 100,
+                    "totalBuyQuantity": 115000,
+                    "totalSellQuantity": 188750,
+                    "totalTradedVolume": 105,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 3.75,
+                    "askPrice": 3.05,
                     "askQty": 2500,
-                    "bidQty": 2500,
-                    "bidprice": 3.6,
-                    "change": 0.5,
-                    "changeinOpenInterest": -4,
+                    "bidQty": 10000,
+                    "bidprice": 2.9,
+                    "change": 0,
+                    "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKDABUR25-05-2023PE520.00",
                     "impliedVolatility": 18.47,
-                    "lastPrice": 3.6,
-                    "openInterest": 340,
-                    "pChange": 16.129032258064516,
-                    "pchangeinOpenInterest": -1.1627906976744187,
+                    "lastPrice": 3.1,
+                    "openInterest": 342,
+                    "pChange": 0,
+                    "pchangeinOpenInterest": -0.5813953488372093,
                     "strikePrice": 520,
-                    "totalBuyQuantity": 150000,
-                    "totalSellQuantity": 205000,
-                    "totalTradedVolume": 126,
+                    "totalBuyQuantity": 141250,
+                    "totalSellQuantity": 221250,
+                    "totalTradedVolume": 137,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 520
             },
             {
                 "CE": {
-                    "askPrice": 4.55,
+                    "askPrice": 5.3,
                     "askQty": 2500,
-                    "bidQty": 3750,
-                    "bidprice": 4.4,
-                    "change": -0.6500000000000004,
-                    "changeinOpenInterest": -4,
+                    "bidQty": 1250,
+                    "bidprice": 5.15,
+                    "change": -0.05000000000000071,
+                    "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKDABUR25-05-2023CE525.00",
                     "impliedVolatility": 17.8,
-                    "lastPrice": 4.5,
-                    "openInterest": 164,
-                    "pChange": -12.621359223300976,
-                    "pchangeinOpenInterest": -2.380952380952381,
+                    "lastPrice": 5.1,
+                    "openInterest": 166,
+                    "pChange": -0.9708737864077808,
+                    "pchangeinOpenInterest": -1.1904761904761905,
                     "strikePrice": 525,
-                    "totalBuyQuantity": 135000,
-                    "totalSellQuantity": 215000,
-                    "totalTradedVolume": 132,
+                    "totalBuyQuantity": 150000,
+                    "totalSellQuantity": 198750,
+                    "totalTradedVolume": 144,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 5.8,
-                    "askQty": 1250,
-                    "bidQty": 1250,
-                    "bidprice": 5.6,
-                    "change": 0.6000000000000005,
+                    "askPrice": 4.85,
+                    "askQty": 2500,
+                    "bidQty": 6250,
+                    "bidprice": 4.7,
+                    "change": 0.6500000000000004,
                     "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKDABUR25-05-2023PE525.00",
                     "impliedVolatility": 17.48,
-                    "lastPrice": 5.65,
+                    "lastPrice": 5.7,
                     "openInterest": 203,
-                    "pChange": 11.881188118811892,
+                    "pChange": 12.87128712871288,
                     "pchangeinOpenInterest": 1.5,
                     "strikePrice": 525,
-                    "totalBuyQuantity": 132500,
-                    "totalSellQuantity": 180000,
-                    "totalTradedVolume": 38,
+                    "totalBuyQuantity": 125000,
+                    "totalSellQuantity": 186250,
+                    "totalTradedVolume": 40,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 523.55
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 525
             },
             {
                 "CE": {
-                    "askPrice": 2.65,
+                    "askPrice": 3,
                     "askQty": 1250,
-                    "bidQty": 2500,
-                    "bidprice": 2.55,
-                    "change": -0.3500000000000001,
-                    "changeinOpenInterest": 27,
+                    "bidQty": 3750,
+                    "bidprice": 2.9,
+                    "change": -0.04999999999999982,
+                    "changeinOpenInterest": 26,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKDABUR25-05-2023CE530.00",
                     "impliedVolatility": 17.64,
-                    "lastPrice": 2.65,
-                    "openInterest": 717,
-                    "pChange": -11.66666666666667,
-                    "pchangeinOpenInterest": 3.9130434782608696,
+                    "lastPrice": 2.95,
+                    "openInterest": 716,
+                    "pChange": -1.6666666666666607,
+                    "pchangeinOpenInterest": 3.7681159420289854,
                     "strikePrice": 530,
-                    "totalBuyQuantity": 176250,
-                    "totalSellQuantity": 311250,
-                    "totalTradedVolume": 204,
+                    "totalBuyQuantity": 185000,
+                    "totalSellQuantity": 325000,
+                    "totalTradedVolume": 226,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 9,
+                    "askPrice": 7.8,
                     "askQty": 2500,
-                    "bidQty": 2500,
-                    "bidprice": 8.7,
-                    "change": 0.8500000000000005,
+                    "bidQty": 1250,
+                    "bidprice": 7.55,
+                    "change": -0.10000000000000053,
                     "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKDABUR25-05-2023PE530.00",
                     "impliedVolatility": 16.53,
-                    "lastPrice": 8.55,
+                    "lastPrice": 7.6,
                     "openInterest": 335,
-                    "pChange": 11.038961038961045,
+                    "pChange": -1.2987012987013056,
                     "pchangeinOpenInterest": 0.6006006006006006,
                     "strikePrice": 530,
-                    "totalBuyQuantity": 133750,
-                    "totalSellQuantity": 135000,
-                    "totalTradedVolume": 37,
+                    "totalBuyQuantity": 82500,
+                    "totalSellQuantity": 136250,
+                    "totalTradedVolume": 42,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 530
             },
             {
                 "CE": {
-                    "askPrice": 1.6,
-                    "askQty": 8750,
-                    "bidQty": 2500,
-                    "bidprice": 1.5,
-                    "change": -0.19999999999999996,
-                    "changeinOpenInterest": -1,
+                    "askPrice": 1.8,
+                    "askQty": 5000,
+                    "bidQty": 5000,
+                    "bidprice": 1.7,
+                    "change": 0.050000000000000044,
+                    "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKDABUR25-05-2023CE535.00",
                     "impliedVolatility": 18.77,
-                    "lastPrice": 1.6,
-                    "openInterest": 581,
-                    "pChange": -11.111111111111107,
-                    "pchangeinOpenInterest": -0.1718213058419244,
+                    "lastPrice": 1.85,
+                    "openInterest": 579,
+                    "pChange": 2.77777777777778,
+                    "pchangeinOpenInterest": -0.5154639175257731,
                     "strikePrice": 535,
-                    "totalBuyQuantity": 93750,
-                    "totalSellQuantity": 250000,
-                    "totalTradedVolume": 94,
+                    "totalBuyQuantity": 98750,
+                    "totalSellQuantity": 246250,
+                    "totalTradedVolume": 102,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 13.95,
-                    "askQty": 2500,
-                    "bidQty": 3750,
-                    "bidprice": 10.35,
+                    "askPrice": 11.95,
+                    "askQty": 1250,
+                    "bidQty": 1250,
+                    "bidprice": 10.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -974,88 +995,88 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 535,
-                    "totalBuyQuantity": 101250,
-                    "totalSellQuantity": 86250,
+                    "totalBuyQuantity": 110000,
+                    "totalSellQuantity": 101250,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 535
             },
             {
                 "CE": {
-                    "askPrice": 1.15,
-                    "askQty": 2500,
-                    "bidQty": 2500,
-                    "bidprice": 1.1,
-                    "change": -0.10000000000000009,
-                    "changeinOpenInterest": -1,
+                    "askPrice": 1.35,
+                    "askQty": 3750,
+                    "bidQty": 6250,
+                    "bidprice": 1.25,
+                    "change": 0,
+                    "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKDABUR25-05-2023CE540.00",
                     "impliedVolatility": 20.9,
-                    "lastPrice": 1.15,
-                    "openInterest": 897,
-                    "pChange": -8.000000000000007,
-                    "pchangeinOpenInterest": -0.111358574610245,
+                    "lastPrice": 1.25,
+                    "openInterest": 898,
+                    "pChange": 0,
+                    "pchangeinOpenInterest": 0,
                     "strikePrice": 540,
-                    "totalBuyQuantity": 311250,
-                    "totalSellQuantity": 345000,
-                    "totalTradedVolume": 90,
+                    "totalBuyQuantity": 327500,
+                    "totalSellQuantity": 346250,
+                    "totalTradedVolume": 99,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 17.6,
-                    "askQty": 2500,
-                    "bidQty": 2500,
-                    "bidprice": 17.05,
-                    "change": 0.4499999999999993,
+                    "askPrice": 16.25,
+                    "askQty": 1250,
+                    "bidQty": 1250,
+                    "bidprice": 15.6,
+                    "change": 0.6999999999999993,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKDABUR25-05-2023PE540.00",
                     "impliedVolatility": 17.1,
-                    "lastPrice": 16.8,
+                    "lastPrice": 17.05,
                     "openInterest": 143,
-                    "pChange": 2.752293577981647,
+                    "pChange": 4.281345565749231,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 540,
-                    "totalBuyQuantity": 110000,
-                    "totalSellQuantity": 103750,
-                    "totalTradedVolume": 2,
+                    "totalBuyQuantity": 107500,
+                    "totalSellQuantity": 102500,
+                    "totalTradedVolume": 3,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 540
             },
             {
                 "CE": {
-                    "askPrice": 0.8,
-                    "askQty": 5000,
-                    "bidQty": 2500,
-                    "bidprice": 0.75,
-                    "change": -0.15000000000000002,
-                    "changeinOpenInterest": 0,
+                    "askPrice": 0.9,
+                    "askQty": 8750,
+                    "bidQty": 5000,
+                    "bidprice": 0.8,
+                    "change": -0.09999999999999998,
+                    "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKDABUR25-05-2023CE545.00",
                     "impliedVolatility": 22.15,
-                    "lastPrice": 0.75,
-                    "openInterest": 241,
-                    "pChange": -16.666666666666668,
-                    "pchangeinOpenInterest": 0,
+                    "lastPrice": 0.8,
+                    "openInterest": 242,
+                    "pChange": -11.111111111111107,
+                    "pchangeinOpenInterest": 0.4149377593360996,
                     "strikePrice": 545,
-                    "totalBuyQuantity": 353750,
-                    "totalSellQuantity": 201250,
-                    "totalTradedVolume": 30,
+                    "totalBuyQuantity": 355000,
+                    "totalSellQuantity": 195000,
+                    "totalTradedVolume": 34,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 523.55
                 },
                 "PE": {
-                    "askPrice": 22.9,
-                    "askQty": 1250,
+                    "askPrice": 21.8,
+                    "askQty": 6250,
                     "bidQty": 1250,
-                    "bidprice": 20.2,
+                    "bidprice": 19.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1066,42 +1087,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 545,
-                    "totalBuyQuantity": 111250,
-                    "totalSellQuantity": 98750,
+                    "totalBuyQuantity": 106250,
+                    "totalSellQuantity": 103750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 545
             },
             {
                 "CE": {
-                    "askPrice": 0.6,
+                    "askPrice": 0.65,
                     "askQty": 5000,
-                    "bidQty": 62500,
-                    "bidprice": 0.55,
-                    "change": -0.09999999999999998,
-                    "changeinOpenInterest": -18,
+                    "bidQty": 6250,
+                    "bidprice": 0.6,
+                    "change": -0.050000000000000044,
+                    "changeinOpenInterest": -17,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKDABUR25-05-2023CE550.00",
                     "impliedVolatility": 23.93,
-                    "lastPrice": 0.55,
-                    "openInterest": 590,
-                    "pChange": -15.38461538461538,
-                    "pchangeinOpenInterest": -2.960526315789474,
+                    "lastPrice": 0.6,
+                    "openInterest": 591,
+                    "pChange": -7.692307692307699,
+                    "pchangeinOpenInterest": -2.7960526315789473,
                     "strikePrice": 550,
-                    "totalBuyQuantity": 438750,
-                    "totalSellQuantity": 215000,
-                    "totalTradedVolume": 79,
+                    "totalBuyQuantity": 453750,
+                    "totalSellQuantity": 210000,
+                    "totalTradedVolume": 86,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 27.25,
-                    "askQty": 1250,
-                    "bidQty": 1250,
-                    "bidprice": 26.3,
+                    "askPrice": 26,
+                    "askQty": 2500,
+                    "bidQty": 2500,
+                    "bidprice": 24.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1112,11 +1133,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 550,
-                    "totalBuyQuantity": 101250,
-                    "totalSellQuantity": 101250,
+                    "totalBuyQuantity": 108750,
+                    "totalSellQuantity": 106250,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 550
@@ -1124,9 +1145,9 @@
             {
                 "CE": {
                     "askPrice": 0.5,
-                    "askQty": 5000,
+                    "askQty": 2500,
                     "bidQty": 6250,
-                    "bidprice": 0.4,
+                    "bidprice": 0.45,
                     "change": -0.04999999999999999,
                     "changeinOpenInterest": 7,
                     "expiryDate": "25-May-2023",
@@ -1137,17 +1158,17 @@
                     "pChange": -9.999999999999998,
                     "pchangeinOpenInterest": 6.60377358490566,
                     "strikePrice": 555,
-                    "totalBuyQuantity": 298750,
-                    "totalSellQuantity": 162500,
+                    "totalBuyQuantity": 311250,
+                    "totalSellQuantity": 163750,
                     "totalTradedVolume": 19,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 32.55,
-                    "askQty": 1250,
-                    "bidQty": 3750,
-                    "bidprice": 29.8,
+                    "askPrice": 31.45,
+                    "askQty": 5000,
+                    "bidQty": 1250,
+                    "bidprice": 29.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1158,42 +1179,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 555,
-                    "totalBuyQuantity": 76250,
-                    "totalSellQuantity": 71250,
+                    "totalBuyQuantity": 72500,
+                    "totalSellQuantity": 72500,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 555
             },
             {
                 "CE": {
-                    "askPrice": 0.35,
-                    "askQty": 8750,
-                    "bidQty": 11250,
+                    "askPrice": 0.4,
+                    "askQty": 32500,
+                    "bidQty": 20000,
                     "bidprice": 0.3,
-                    "change": -0.10000000000000003,
-                    "changeinOpenInterest": 10,
+                    "change": -0.050000000000000044,
+                    "changeinOpenInterest": 4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKDABUR25-05-2023CE560.00",
                     "impliedVolatility": 27.06,
-                    "lastPrice": 0.3,
-                    "openInterest": 402,
-                    "pChange": -25.000000000000007,
-                    "pchangeinOpenInterest": 2.5510204081632653,
+                    "lastPrice": 0.35,
+                    "openInterest": 396,
+                    "pChange": -12.50000000000001,
+                    "pchangeinOpenInterest": 1.0204081632653061,
                     "strikePrice": 560,
-                    "totalBuyQuantity": 375000,
-                    "totalSellQuantity": 240000,
-                    "totalTradedVolume": 36,
+                    "totalBuyQuantity": 412500,
+                    "totalSellQuantity": 232500,
+                    "totalTradedVolume": 37,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 523.55
                 },
                 "PE": {
-                    "askPrice": 38.65,
-                    "askQty": 2500,
+                    "askPrice": 35.9,
+                    "askQty": 1250,
                     "bidQty": 3750,
-                    "bidprice": 35.15,
+                    "bidprice": 32.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1204,20 +1225,20 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 560,
-                    "totalBuyQuantity": 70000,
-                    "totalSellQuantity": 68750,
+                    "totalBuyQuantity": 75000,
+                    "totalSellQuantity": 73750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 560
             },
             {
                 "CE": {
-                    "askPrice": 0.5,
+                    "askPrice": 0.55,
                     "askQty": 1250,
-                    "bidQty": 1250,
+                    "bidQty": 5000,
                     "bidprice": 0.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -1229,17 +1250,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 565,
-                    "totalBuyQuantity": 146250,
-                    "totalSellQuantity": 125000,
+                    "totalBuyQuantity": 158750,
+                    "totalSellQuantity": 123750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 523.55
                 },
                 "PE": {
-                    "askPrice": 43.25,
-                    "askQty": 5000,
-                    "bidQty": 3750,
-                    "bidprice": 39.85,
+                    "askPrice": 42.25,
+                    "askQty": 3750,
+                    "bidQty": 11250,
+                    "bidprice": 37.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1250,11 +1271,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 565,
-                    "totalBuyQuantity": 70000,
-                    "totalSellQuantity": 66250,
+                    "totalBuyQuantity": 61250,
+                    "totalSellQuantity": 70000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 565
@@ -1263,7 +1284,7 @@
                 "CE": {
                     "askPrice": 0.3,
                     "askQty": 2500,
-                    "bidQty": 3750,
+                    "bidQty": 5000,
                     "bidprice": 0.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -1275,17 +1296,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 570,
-                    "totalBuyQuantity": 240000,
+                    "totalBuyQuantity": 226250,
                     "totalSellQuantity": 105000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 48.05,
-                    "askQty": 5000,
-                    "bidQty": 5000,
-                    "bidprice": 44.05,
+                    "askPrice": 47.7,
+                    "askQty": 3750,
+                    "bidQty": 3750,
+                    "bidprice": 43.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1296,11 +1317,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 570,
-                    "totalBuyQuantity": 66250,
-                    "totalSellQuantity": 66250,
+                    "totalBuyQuantity": 70000,
+                    "totalSellQuantity": 70000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 570
@@ -1325,13 +1346,13 @@
                     "totalSellQuantity": 63750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 523.55
                 },
                 "PE": {
-                    "askPrice": 55.75,
-                    "askQty": 7500,
+                    "askPrice": 54.5,
+                    "askQty": 3750,
                     "bidQty": 3750,
-                    "bidprice": 49.65,
+                    "bidprice": 47.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1342,11 +1363,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 575,
-                    "totalBuyQuantity": 62500,
-                    "totalSellQuantity": 57500,
+                    "totalBuyQuantity": 61250,
+                    "totalSellQuantity": 61250,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 575
@@ -1371,13 +1392,13 @@
                     "totalSellQuantity": 100000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 60.5,
-                    "askQty": 3750,
+                    "askPrice": 59.6,
+                    "askQty": 7500,
                     "bidQty": 3750,
-                    "bidprice": 54.6,
+                    "bidprice": 52.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1388,11 +1409,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 580,
-                    "totalBuyQuantity": 65000,
-                    "totalSellQuantity": 66250,
+                    "totalBuyQuantity": 66250,
+                    "totalSellQuantity": 57500,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 580
@@ -1417,13 +1438,13 @@
                     "totalSellQuantity": 50000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 69.95,
+                    "askPrice": 69.75,
                     "askQty": 3750,
                     "bidQty": 3750,
-                    "bidprice": 53.2,
+                    "bidprice": 53.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1438,7 +1459,7 @@
                     "totalSellQuantity": 53750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 585
@@ -1463,11 +1484,11 @@
                     "totalSellQuantity": 62500,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 68.85,
-                    "askQty": 3750,
+                    "askPrice": 68.9,
+                    "askQty": 7500,
                     "bidQty": 3750,
                     "bidprice": 62.7,
                     "change": 0,
@@ -1481,10 +1502,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 590,
                     "totalBuyQuantity": 61250,
-                    "totalSellQuantity": 61250,
+                    "totalSellQuantity": 57500,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 590
@@ -1509,7 +1530,7 @@
                     "totalSellQuantity": 12500,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
                     "askPrice": 79.45,
@@ -1530,7 +1551,7 @@
                     "totalSellQuantity": 53750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 595
@@ -1555,13 +1576,13 @@
                     "totalSellQuantity": 67500,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 523.55
                 },
                 "PE": {
-                    "askPrice": 80.15,
+                    "askPrice": 77.55,
                     "askQty": 3750,
                     "bidQty": 3750,
-                    "bidprice": 74.05,
+                    "bidprice": 72.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1572,11 +1593,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 600,
-                    "totalBuyQuantity": 63750,
-                    "totalSellQuantity": 61250,
+                    "totalBuyQuantity": 61250,
+                    "totalSellQuantity": 63750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 523.55
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 600
@@ -1601,7 +1622,7 @@
                     "totalSellQuantity": 50000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
                     "askPrice": 87.85,
@@ -1622,7 +1643,7 @@
                     "totalSellQuantity": 53750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 605
@@ -1647,7 +1668,7 @@
                     "totalSellQuantity": 10000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 523.55
                 },
                 "PE": {
                     "askPrice": 94.5,
@@ -1668,7 +1689,7 @@
                     "totalSellQuantity": 53750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 610
@@ -1693,7 +1714,7 @@
                     "totalSellQuantity": 5000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
                     "askPrice": 99.6,
@@ -1714,7 +1735,7 @@
                     "totalSellQuantity": 53750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 615
@@ -1739,7 +1760,7 @@
                     "totalSellQuantity": 53750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 620
@@ -1764,7 +1785,7 @@
                     "totalSellQuantity": 1250,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
                     "askPrice": 109.6,
@@ -1785,7 +1806,7 @@
                     "totalSellQuantity": 53750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 523.55
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 625
@@ -1810,7 +1831,7 @@
                     "totalSellQuantity": 53750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 630
@@ -1821,8 +1842,8 @@
         "data": [
             {
                 "CE": {
-                    "askPrice": 109,
-                    "askQty": 3750,
+                    "askPrice": 109.05,
+                    "askQty": 50000,
                     "bidQty": 3750,
                     "bidprice": 92.25,
                     "change": 0,
@@ -1836,10 +1857,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 425,
                     "totalBuyQuantity": 53750,
-                    "totalSellQuantity": 53750,
+                    "totalSellQuantity": 50000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 425
@@ -1864,7 +1885,7 @@
                     "totalSellQuantity": 53750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 425
@@ -1889,15 +1910,15 @@
                     "totalSellQuantity": 53750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 430
             },
             {
                 "CE": {
-                    "askPrice": 103.95,
-                    "askQty": 3750,
+                    "askPrice": 104,
+                    "askQty": 50000,
                     "bidQty": 3750,
                     "bidprice": 87.25,
                     "change": 0,
@@ -1911,10 +1932,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 430,
                     "totalBuyQuantity": 53750,
-                    "totalSellQuantity": 53750,
+                    "totalSellQuantity": 50000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 523.55
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 430
@@ -1939,7 +1960,28 @@
                     "totalSellQuantity": 53750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
+                },
+                "PE": {
+                    "askPrice": 2.5,
+                    "askQty": 50000,
+                    "bidQty": 0,
+                    "bidprice": 0,
+                    "change": 0,
+                    "changeinOpenInterest": 0,
+                    "expiryDate": "25-May-2023",
+                    "identifier": "OPTSTKDABUR25-05-2023PE435.00",
+                    "impliedVolatility": 0,
+                    "lastPrice": 0,
+                    "openInterest": 0,
+                    "pChange": 0,
+                    "pchangeinOpenInterest": 0,
+                    "strikePrice": 435,
+                    "totalBuyQuantity": 0,
+                    "totalSellQuantity": 50000,
+                    "totalTradedVolume": 0,
+                    "underlying": "DABUR",
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 435
@@ -1964,7 +2006,7 @@
                     "totalSellQuantity": 53750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 435
@@ -1989,7 +2031,7 @@
                     "totalSellQuantity": 53750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2010,15 +2052,15 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 440
             },
             {
                 "CE": {
-                    "askPrice": 94.45,
-                    "askQty": 3750,
+                    "askPrice": 94,
+                    "askQty": 50000,
                     "bidQty": 3750,
                     "bidprice": 77.25,
                     "change": 0,
@@ -2032,18 +2074,18 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 440,
                     "totalBuyQuantity": 53750,
-                    "totalSellQuantity": 53750,
+                    "totalSellQuantity": 50000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 523.55
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 440
             },
             {
                 "CE": {
-                    "askPrice": 89.5,
-                    "askQty": 3750,
+                    "askPrice": 89.05,
+                    "askQty": 50000,
                     "bidQty": 3750,
                     "bidprice": 72.25,
                     "change": 0,
@@ -2057,10 +2099,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 445,
                     "totalBuyQuantity": 53750,
-                    "totalSellQuantity": 53750,
+                    "totalSellQuantity": 50000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
                     "askPrice": 2.5,
@@ -2081,7 +2123,7 @@
                     "totalSellQuantity": 50000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 445
@@ -2106,7 +2148,7 @@
                     "totalSellQuantity": 53750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 445
@@ -2131,11 +2173,11 @@
                     "totalSellQuantity": 61250,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 523.55
                 },
                 "PE": {
                     "askPrice": 0.25,
-                    "askQty": 6250,
+                    "askQty": 3750,
                     "bidQty": 10000,
                     "bidprice": 0.15,
                     "change": 0,
@@ -2148,11 +2190,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 7.382550335570469,
                     "strikePrice": 450,
-                    "totalBuyQuantity": 155000,
-                    "totalSellQuantity": 35000,
-                    "totalTradedVolume": 11,
+                    "totalBuyQuantity": 160000,
+                    "totalSellQuantity": 32500,
+                    "totalTradedVolume": 12,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 450
@@ -2177,7 +2219,7 @@
                     "totalSellQuantity": 53750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2198,17 +2240,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 450
             },
             {
                 "CE": {
-                    "askPrice": 78.1,
+                    "askPrice": 75.45,
                     "askQty": 3750,
                     "bidQty": 3750,
-                    "bidprice": 62.25,
+                    "bidprice": 65.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2219,14 +2261,14 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 455,
-                    "totalBuyQuantity": 53750,
-                    "totalSellQuantity": 53750,
+                    "totalBuyQuantity": 61250,
+                    "totalSellQuantity": 61250,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 3.05,
+                    "askPrice": 1.9,
                     "askQty": 50000,
                     "bidQty": 8750,
                     "bidprice": 0.1,
@@ -2244,7 +2286,7 @@
                     "totalSellQuantity": 50000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 523.55
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 455
@@ -2269,7 +2311,7 @@
                     "totalSellQuantity": 53750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2290,7 +2332,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 455
@@ -2315,12 +2357,12 @@
                     "totalSellQuantity": 61250,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 1.45,
-                    "askQty": 1250,
-                    "bidQty": 76250,
+                    "askPrice": 0.3,
+                    "askQty": 10000,
+                    "bidQty": 77500,
                     "bidprice": 0.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -2332,19 +2374,19 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 460,
-                    "totalBuyQuantity": 131250,
-                    "totalSellQuantity": 66250,
+                    "totalBuyQuantity": 132500,
+                    "totalSellQuantity": 26250,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 460
             },
             {
                 "CE": {
-                    "askPrice": 81.5,
-                    "askQty": 3750,
+                    "askPrice": 80.55,
+                    "askQty": 50000,
                     "bidQty": 3750,
                     "bidprice": 42,
                     "change": 0,
@@ -2358,10 +2400,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 460,
                     "totalBuyQuantity": 3750,
-                    "totalSellQuantity": 53750,
+                    "totalSellQuantity": 50000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2382,17 +2424,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 460
             },
             {
                 "CE": {
-                    "askPrice": 75.6,
+                    "askPrice": 75.5,
                     "askQty": 50000,
                     "bidQty": 3750,
-                    "bidprice": 38.25,
+                    "bidprice": 38.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2407,7 +2449,7 @@
                     "totalSellQuantity": 50000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2428,17 +2470,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 465
             },
             {
                 "CE": {
-                    "askPrice": 67.65,
-                    "askQty": 50000,
+                    "askPrice": 66.2,
+                    "askQty": 3750,
                     "bidQty": 3750,
-                    "bidprice": 52.45,
+                    "bidprice": 56.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2449,16 +2491,16 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 465,
-                    "totalBuyQuantity": 53750,
-                    "totalSellQuantity": 50000,
+                    "totalBuyQuantity": 61250,
+                    "totalSellQuantity": 61250,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 0,
-                    "askQty": 0,
-                    "bidQty": 56250,
+                    "askPrice": 2.05,
+                    "askQty": 50000,
+                    "bidQty": 53750,
                     "bidprice": 0.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -2470,11 +2512,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 465,
-                    "totalBuyQuantity": 56250,
-                    "totalSellQuantity": 0,
+                    "totalBuyQuantity": 53750,
+                    "totalSellQuantity": 50000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 465
@@ -2484,7 +2526,7 @@
                     "askPrice": 57.75,
                     "askQty": 3750,
                     "bidQty": 3750,
-                    "bidprice": 49.85,
+                    "bidprice": 51.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2499,12 +2541,12 @@
                     "totalSellQuantity": 61250,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
                     "askPrice": 0.25,
-                    "askQty": 3750,
-                    "bidQty": 10000,
+                    "askQty": 6250,
+                    "bidQty": 12500,
                     "bidprice": 0.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -2516,21 +2558,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 470,
-                    "totalBuyQuantity": 131250,
-                    "totalSellQuantity": 102500,
+                    "totalBuyQuantity": 133750,
+                    "totalSellQuantity": 115000,
                     "totalTradedVolume": 8,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 470
             },
             {
                 "CE": {
-                    "askPrice": 72.35,
-                    "askQty": 3750,
+                    "askPrice": 71.4,
+                    "askQty": 50000,
                     "bidQty": 3750,
-                    "bidprice": 36.25,
+                    "bidprice": 36.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2542,10 +2584,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 470,
                     "totalBuyQuantity": 3750,
-                    "totalSellQuantity": 53750,
+                    "totalSellQuantity": 50000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2566,17 +2608,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 470
             },
             {
                 "CE": {
-                    "askPrice": 52.15,
+                    "askPrice": 51.35,
                     "askQty": 3750,
                     "bidQty": 3750,
-                    "bidprice": 47.6,
+                    "bidprice": 46.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2588,10 +2630,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 475,
                     "totalBuyQuantity": 65000,
-                    "totalSellQuantity": 65000,
+                    "totalSellQuantity": 61250,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
                     "askPrice": 0.2,
@@ -2612,17 +2654,17 @@
                     "totalSellQuantity": 52500,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 475
             },
             {
                 "CE": {
-                    "askPrice": 68.45,
+                    "askPrice": 67.95,
                     "askQty": 50000,
                     "bidQty": 3750,
-                    "bidprice": 33.6,
+                    "bidprice": 33.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2637,7 +2679,7 @@
                     "totalSellQuantity": 50000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2658,17 +2700,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 475
             },
             {
                 "CE": {
-                    "askPrice": 46.45,
+                    "askPrice": 47.4,
                     "askQty": 3750,
                     "bidQty": 5000,
-                    "bidprice": 41.5,
+                    "bidprice": 42.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2680,10 +2722,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 480,
                     "totalBuyQuantity": 66250,
-                    "totalSellQuantity": 65000,
+                    "totalSellQuantity": 66250,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
                     "askPrice": 0.3,
@@ -2704,17 +2746,17 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 8,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 480
             },
             {
                 "CE": {
-                    "askPrice": 61.6,
+                    "askPrice": 60.5,
                     "askQty": 3750,
                     "bidQty": 3750,
-                    "bidprice": 31.05,
+                    "bidprice": 30.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2729,7 +2771,7 @@
                     "totalSellQuantity": 53750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
                     "askPrice": 5,
@@ -2750,17 +2792,17 @@
                     "totalSellQuantity": 1250,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 480
             },
             {
                 "CE": {
-                    "askPrice": 41.5,
+                    "askPrice": 42.8,
                     "askQty": 3750,
                     "bidQty": 3750,
-                    "bidprice": 36,
+                    "bidprice": 36.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2775,11 +2817,11 @@
                     "totalSellQuantity": 65000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
                     "askPrice": 0.25,
-                    "askQty": 1250,
+                    "askQty": 7500,
                     "bidQty": 1250,
                     "bidprice": 0.15,
                     "change": -0.04999999999999999,
@@ -2793,10 +2835,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 485,
                     "totalBuyQuantity": 116250,
-                    "totalSellQuantity": 131250,
+                    "totalSellQuantity": 136250,
                     "totalTradedVolume": 1,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 485
@@ -2821,7 +2863,7 @@
                     "totalSellQuantity": 50000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 523.55
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 485
@@ -2846,7 +2888,7 @@
                     "totalSellQuantity": 53750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
                     "askPrice": 2,
@@ -2867,17 +2909,17 @@
                     "totalSellQuantity": 1250,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 490
             },
             {
                 "CE": {
-                    "askPrice": 36.35,
+                    "askPrice": 38.05,
                     "askQty": 3750,
-                    "bidQty": 1250,
-                    "bidprice": 31.3,
+                    "bidQty": 3750,
+                    "bidprice": 32.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2888,15 +2930,15 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 490,
-                    "totalBuyQuantity": 62500,
-                    "totalSellQuantity": 66250,
+                    "totalBuyQuantity": 65000,
+                    "totalSellQuantity": 65000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
                     "askPrice": 0.25,
-                    "askQty": 1250,
+                    "askQty": 2500,
                     "bidQty": 5000,
                     "bidprice": 0.2,
                     "change": -0.04999999999999999,
@@ -2913,17 +2955,17 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 14,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 523.55
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 490
             },
             {
                 "CE": {
-                    "askPrice": 48.75,
+                    "askPrice": 46.35,
                     "askQty": 50000,
                     "bidQty": 3750,
-                    "bidprice": 19.7,
+                    "bidprice": 19.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2938,17 +2980,17 @@
                     "totalSellQuantity": 50000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 495
             },
             {
                 "CE": {
-                    "askPrice": 31.9,
-                    "askQty": 1250,
+                    "askPrice": 32.5,
+                    "askQty": 3750,
                     "bidQty": 1250,
-                    "bidprice": 27.45,
+                    "bidprice": 28.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2959,16 +3001,16 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 495,
-                    "totalBuyQuantity": 68750,
-                    "totalSellQuantity": 68750,
+                    "totalBuyQuantity": 62500,
+                    "totalSellQuantity": 67500,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 0.55,
+                    "askPrice": 0.5,
                     "askQty": 2500,
-                    "bidQty": 3750,
+                    "bidQty": 2500,
                     "bidprice": 0.4,
                     "change": -0.14999999999999997,
                     "changeinOpenInterest": 0,
@@ -2980,21 +3022,21 @@
                     "pChange": -42.85714285714285,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 495,
-                    "totalBuyQuantity": 167500,
-                    "totalSellQuantity": 135000,
+                    "totalBuyQuantity": 166250,
+                    "totalSellQuantity": 136250,
                     "totalTradedVolume": 1,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 495
             },
             {
                 "CE": {
-                    "askPrice": 25,
+                    "askPrice": 26.6,
                     "askQty": 1250,
-                    "bidQty": 1250,
-                    "bidprice": 23.45,
+                    "bidQty": 5000,
+                    "bidprice": 24.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3005,17 +3047,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 500,
-                    "totalBuyQuantity": 108750,
+                    "totalBuyQuantity": 113750,
                     "totalSellQuantity": 101250,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 0.8,
-                    "askQty": 21250,
-                    "bidQty": 6250,
-                    "bidprice": 0.75,
+                    "askPrice": 0.7,
+                    "askQty": 3750,
+                    "bidQty": 1250,
+                    "bidprice": 0.65,
                     "change": 0.15000000000000002,
                     "changeinOpenInterest": -7,
                     "expiryDate": "25-May-2023",
@@ -3026,21 +3068,21 @@
                     "pChange": 25.000000000000007,
                     "pchangeinOpenInterest": -1.4462809917355373,
                     "strikePrice": 500,
-                    "totalBuyQuantity": 326250,
-                    "totalSellQuantity": 260000,
-                    "totalTradedVolume": 76,
+                    "totalBuyQuantity": 311250,
+                    "totalSellQuantity": 267500,
+                    "totalTradedVolume": 80,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 523.55
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 500
             },
             {
                 "CE": {
-                    "askPrice": 39.35,
-                    "askQty": 50000,
-                    "bidQty": 0,
-                    "bidprice": 0,
+                    "askPrice": 39.2,
+                    "askQty": 2500,
+                    "bidQty": 3750,
+                    "bidprice": 25.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3051,42 +3093,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 500,
-                    "totalBuyQuantity": 0,
-                    "totalSellQuantity": 50000,
+                    "totalBuyQuantity": 6250,
+                    "totalSellQuantity": 52500,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 3.75,
+                    "askPrice": 3.35,
                     "askQty": 1250,
                     "bidQty": 1250,
-                    "bidprice": 2.95,
+                    "bidprice": 2.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKDABUR29-06-2023PE500.00",
                     "impliedVolatility": 0,
-                    "lastPrice": 0,
+                    "lastPrice": 2.95,
                     "openInterest": 63,
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 500,
-                    "totalBuyQuantity": 91250,
+                    "totalBuyQuantity": 90000,
                     "totalSellQuantity": 7500,
-                    "totalTradedVolume": 0,
+                    "totalTradedVolume": 1,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 523.55
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 500
             },
             {
                 "CE": {
-                    "askPrice": 21.3,
-                    "askQty": 3750,
+                    "askPrice": 23.8,
+                    "askQty": 8750,
                     "bidQty": 1250,
-                    "bidprice": 19.4,
+                    "bidprice": 20.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3098,16 +3140,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 505,
                     "totalBuyQuantity": 106250,
-                    "totalSellQuantity": 105000,
+                    "totalSellQuantity": 103750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 1.15,
-                    "askQty": 2500,
-                    "bidQty": 2500,
-                    "bidprice": 1.05,
+                    "askPrice": 1,
+                    "askQty": 3750,
+                    "bidQty": 10000,
+                    "bidprice": 0.9,
                     "change": 0.050000000000000044,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
@@ -3118,11 +3160,11 @@
                     "pChange": 5.263157894736848,
                     "pchangeinOpenInterest": 1.5151515151515151,
                     "strikePrice": 505,
-                    "totalBuyQuantity": 306250,
-                    "totalSellQuantity": 175000,
-                    "totalTradedVolume": 12,
+                    "totalBuyQuantity": 305000,
+                    "totalSellQuantity": 182500,
+                    "totalTradedVolume": 13,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 505
@@ -3147,60 +3189,60 @@
                     "totalSellQuantity": 50000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 523.55
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 505
             },
             {
                 "CE": {
-                    "askPrice": 16.35,
-                    "askQty": 1250,
+                    "askPrice": 16.95,
+                    "askQty": 2500,
                     "bidQty": 1250,
-                    "bidprice": 14.2,
-                    "change": -0.8499999999999996,
-                    "changeinOpenInterest": 0,
+                    "bidprice": 16.45,
+                    "change": 0.14999999999999858,
+                    "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKDABUR25-05-2023CE510.00",
                     "impliedVolatility": 23.34,
-                    "lastPrice": 15.65,
-                    "openInterest": 65,
-                    "pChange": -5.15151515151515,
-                    "pchangeinOpenInterest": 0,
+                    "lastPrice": 16.65,
+                    "openInterest": 66,
+                    "pChange": 0.9090909090909005,
+                    "pchangeinOpenInterest": 1.5384615384615385,
                     "strikePrice": 510,
-                    "totalBuyQuantity": 110000,
-                    "totalSellQuantity": 107500,
-                    "totalTradedVolume": 1,
+                    "totalBuyQuantity": 118750,
+                    "totalSellQuantity": 110000,
+                    "totalTradedVolume": 7,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 1.7,
-                    "askQty": 1250,
-                    "bidQty": 5000,
-                    "bidprice": 1.6,
-                    "change": 0.19999999999999996,
-                    "changeinOpenInterest": 7,
+                    "askPrice": 1.45,
+                    "askQty": 5000,
+                    "bidQty": 13750,
+                    "bidprice": 1.35,
+                    "change": 0,
+                    "changeinOpenInterest": 6,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKDABUR25-05-2023PE510.00",
                     "impliedVolatility": 22.22,
-                    "lastPrice": 1.65,
-                    "openInterest": 341,
-                    "pChange": 13.79310344827586,
-                    "pchangeinOpenInterest": 2.095808383233533,
+                    "lastPrice": 1.45,
+                    "openInterest": 340,
+                    "pChange": 0,
+                    "pchangeinOpenInterest": 1.7964071856287425,
                     "strikePrice": 510,
-                    "totalBuyQuantity": 221250,
-                    "totalSellQuantity": 185000,
-                    "totalTradedVolume": 33,
+                    "totalBuyQuantity": 211250,
+                    "totalSellQuantity": 197500,
+                    "totalTradedVolume": 34,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 510
             },
             {
                 "CE": {
-                    "askPrice": 32.2,
+                    "askPrice": 31.9,
                     "askQty": 3750,
                     "bidQty": 5000,
                     "bidprice": 9.8,
@@ -3215,13 +3257,13 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 510,
                     "totalBuyQuantity": 5000,
-                    "totalSellQuantity": 55000,
+                    "totalSellQuantity": 53750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 6,
+                    "askPrice": 6.05,
                     "askQty": 1250,
                     "bidQty": 1250,
                     "bidprice": 3.5,
@@ -3239,17 +3281,17 @@
                     "totalSellQuantity": 2500,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 510
             },
             {
                 "CE": {
-                    "askPrice": 11.4,
+                    "askPrice": 12.1,
                     "askQty": 2500,
                     "bidQty": 1250,
-                    "bidprice": 10.8,
+                    "bidprice": 11.65,
                     "change": -1.200000000000001,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3260,42 +3302,42 @@
                     "pChange": -9.756097560975618,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 515,
-                    "totalBuyQuantity": 107500,
+                    "totalBuyQuantity": 106250,
                     "totalSellQuantity": 103750,
                     "totalTradedVolume": 3,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 2.4,
-                    "askQty": 1250,
-                    "bidQty": 6250,
-                    "bidprice": 2.25,
-                    "change": 0.25,
+                    "askPrice": 1.95,
+                    "askQty": 2500,
+                    "bidQty": 11250,
+                    "bidprice": 1.85,
+                    "change": -0.09999999999999987,
                     "changeinOpenInterest": 11,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKDABUR25-05-2023PE515.00",
                     "impliedVolatility": 20.05,
-                    "lastPrice": 2.3,
+                    "lastPrice": 1.95,
                     "openInterest": 192,
-                    "pChange": 12.195121951219514,
+                    "pChange": -4.8780487804877986,
                     "pchangeinOpenInterest": 6.077348066298343,
                     "strikePrice": 515,
-                    "totalBuyQuantity": 170000,
-                    "totalSellQuantity": 185000,
-                    "totalTradedVolume": 40,
+                    "totalBuyQuantity": 163750,
+                    "totalSellQuantity": 192500,
+                    "totalTradedVolume": 42,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 515
             },
             {
                 "CE": {
-                    "askPrice": 30.35,
-                    "askQty": 3750,
+                    "askPrice": 30.2,
+                    "askQty": 1250,
                     "bidQty": 1250,
-                    "bidprice": 11.3,
+                    "bidprice": 11.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3306,14 +3348,14 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 515,
-                    "totalBuyQuantity": 2500,
-                    "totalSellQuantity": 53750,
+                    "totalBuyQuantity": 1250,
+                    "totalSellQuantity": 51250,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 9.6,
+                    "askPrice": 9.2,
                     "askQty": 1250,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -3331,63 +3373,63 @@
                     "totalSellQuantity": 1250,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 515
             },
             {
                 "CE": {
-                    "askPrice": 7.55,
-                    "askQty": 1250,
+                    "askPrice": 8.45,
+                    "askQty": 3750,
                     "bidQty": 1250,
-                    "bidprice": 7.35,
-                    "change": -0.8000000000000007,
+                    "bidprice": 8.3,
+                    "change": 0,
                     "changeinOpenInterest": -9,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKDABUR25-05-2023CE520.00",
                     "impliedVolatility": 18.84,
-                    "lastPrice": 7.5,
+                    "lastPrice": 8.3,
                     "openInterest": 321,
-                    "pChange": -9.638554216867478,
+                    "pChange": 0,
                     "pchangeinOpenInterest": -2.727272727272727,
                     "strikePrice": 520,
-                    "totalBuyQuantity": 103750,
-                    "totalSellQuantity": 193750,
-                    "totalTradedVolume": 100,
+                    "totalBuyQuantity": 115000,
+                    "totalSellQuantity": 188750,
+                    "totalTradedVolume": 105,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 3.75,
+                    "askPrice": 3.05,
                     "askQty": 2500,
-                    "bidQty": 2500,
-                    "bidprice": 3.6,
-                    "change": 0.5,
-                    "changeinOpenInterest": -4,
+                    "bidQty": 10000,
+                    "bidprice": 2.9,
+                    "change": 0,
+                    "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKDABUR25-05-2023PE520.00",
                     "impliedVolatility": 18.47,
-                    "lastPrice": 3.6,
-                    "openInterest": 340,
-                    "pChange": 16.129032258064516,
-                    "pchangeinOpenInterest": -1.1627906976744187,
+                    "lastPrice": 3.1,
+                    "openInterest": 342,
+                    "pChange": 0,
+                    "pchangeinOpenInterest": -0.5813953488372093,
                     "strikePrice": 520,
-                    "totalBuyQuantity": 150000,
-                    "totalSellQuantity": 205000,
-                    "totalTradedVolume": 126,
+                    "totalBuyQuantity": 141250,
+                    "totalSellQuantity": 221250,
+                    "totalTradedVolume": 137,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 520
             },
             {
                 "CE": {
-                    "askPrice": 17.5,
+                    "askPrice": 17.9,
                     "askQty": 1250,
                     "bidQty": 1250,
-                    "bidprice": 14.85,
+                    "bidprice": 16.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3398,17 +3440,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 520,
-                    "totalBuyQuantity": 5000,
+                    "totalBuyQuantity": 3750,
                     "totalSellQuantity": 5000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 8.45,
+                    "askPrice": 7.75,
                     "askQty": 1250,
                     "bidQty": 1250,
-                    "bidprice": 8,
+                    "bidprice": 7.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3419,64 +3461,64 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 520,
-                    "totalBuyQuantity": 60000,
+                    "totalBuyQuantity": 61250,
                     "totalSellQuantity": 17500,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 520
             },
             {
                 "CE": {
-                    "askPrice": 4.55,
+                    "askPrice": 5.3,
                     "askQty": 2500,
-                    "bidQty": 3750,
-                    "bidprice": 4.4,
-                    "change": -0.6500000000000004,
-                    "changeinOpenInterest": -4,
+                    "bidQty": 1250,
+                    "bidprice": 5.15,
+                    "change": -0.05000000000000071,
+                    "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKDABUR25-05-2023CE525.00",
                     "impliedVolatility": 17.8,
-                    "lastPrice": 4.5,
-                    "openInterest": 164,
-                    "pChange": -12.621359223300976,
-                    "pchangeinOpenInterest": -2.380952380952381,
+                    "lastPrice": 5.1,
+                    "openInterest": 166,
+                    "pChange": -0.9708737864077808,
+                    "pchangeinOpenInterest": -1.1904761904761905,
                     "strikePrice": 525,
-                    "totalBuyQuantity": 135000,
-                    "totalSellQuantity": 215000,
-                    "totalTradedVolume": 132,
+                    "totalBuyQuantity": 150000,
+                    "totalSellQuantity": 198750,
+                    "totalTradedVolume": 144,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 5.8,
-                    "askQty": 1250,
-                    "bidQty": 1250,
-                    "bidprice": 5.6,
-                    "change": 0.6000000000000005,
+                    "askPrice": 4.85,
+                    "askQty": 2500,
+                    "bidQty": 6250,
+                    "bidprice": 4.7,
+                    "change": 0.6500000000000004,
                     "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKDABUR25-05-2023PE525.00",
                     "impliedVolatility": 17.48,
-                    "lastPrice": 5.65,
+                    "lastPrice": 5.7,
                     "openInterest": 203,
-                    "pChange": 11.881188118811892,
+                    "pChange": 12.87128712871288,
                     "pchangeinOpenInterest": 1.5,
                     "strikePrice": 525,
-                    "totalBuyQuantity": 132500,
-                    "totalSellQuantity": 180000,
-                    "totalTradedVolume": 38,
+                    "totalBuyQuantity": 125000,
+                    "totalSellQuantity": 186250,
+                    "totalTradedVolume": 40,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 523.55
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 525
             },
             {
                 "CE": {
-                    "askPrice": 17,
+                    "askPrice": 17.7,
                     "askQty": 1250,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -3494,14 +3536,14 @@
                     "totalSellQuantity": 3750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 525
             },
             {
                 "CE": {
-                    "askPrice": 28.7,
+                    "askPrice": 29.45,
                     "askQty": 1250,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -3519,63 +3561,63 @@
                     "totalSellQuantity": 1250,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 525
             },
             {
                 "CE": {
-                    "askPrice": 2.65,
+                    "askPrice": 3,
                     "askQty": 1250,
-                    "bidQty": 2500,
-                    "bidprice": 2.55,
-                    "change": -0.3500000000000001,
-                    "changeinOpenInterest": 27,
+                    "bidQty": 3750,
+                    "bidprice": 2.9,
+                    "change": -0.04999999999999982,
+                    "changeinOpenInterest": 26,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKDABUR25-05-2023CE530.00",
                     "impliedVolatility": 17.64,
-                    "lastPrice": 2.65,
-                    "openInterest": 717,
-                    "pChange": -11.66666666666667,
-                    "pchangeinOpenInterest": 3.9130434782608696,
+                    "lastPrice": 2.95,
+                    "openInterest": 716,
+                    "pChange": -1.6666666666666607,
+                    "pchangeinOpenInterest": 3.7681159420289854,
                     "strikePrice": 530,
-                    "totalBuyQuantity": 176250,
-                    "totalSellQuantity": 311250,
-                    "totalTradedVolume": 204,
+                    "totalBuyQuantity": 185000,
+                    "totalSellQuantity": 325000,
+                    "totalTradedVolume": 226,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 9,
+                    "askPrice": 7.8,
                     "askQty": 2500,
-                    "bidQty": 2500,
-                    "bidprice": 8.7,
-                    "change": 0.8500000000000005,
+                    "bidQty": 1250,
+                    "bidprice": 7.55,
+                    "change": -0.10000000000000053,
                     "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKDABUR25-05-2023PE530.00",
                     "impliedVolatility": 16.53,
-                    "lastPrice": 8.55,
+                    "lastPrice": 7.6,
                     "openInterest": 335,
-                    "pChange": 11.038961038961045,
+                    "pChange": -1.2987012987013056,
                     "pchangeinOpenInterest": 0.6006006006006006,
                     "strikePrice": 530,
-                    "totalBuyQuantity": 133750,
-                    "totalSellQuantity": 135000,
-                    "totalTradedVolume": 37,
+                    "totalBuyQuantity": 82500,
+                    "totalSellQuantity": 136250,
+                    "totalTradedVolume": 42,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 530
             },
             {
                 "CE": {
-                    "askPrice": 11.35,
+                    "askPrice": 12.25,
                     "askQty": 1250,
-                    "bidQty": 2500,
-                    "bidprice": 10.55,
+                    "bidQty": 1250,
+                    "bidprice": 11.3,
                     "change": -0.5,
                     "changeinOpenInterest": 6,
                     "expiryDate": "29-Jun-2023",
@@ -3586,18 +3628,18 @@
                     "pChange": -4.310344827586207,
                     "pchangeinOpenInterest": 17.142857142857142,
                     "strikePrice": 530,
-                    "totalBuyQuantity": 82500,
+                    "totalBuyQuantity": 81250,
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 14,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 530
             },
             {
                 "CE": {
-                    "askPrice": 26.2,
+                    "askPrice": 27,
                     "askQty": 1250,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -3615,38 +3657,38 @@
                     "totalSellQuantity": 1250,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 530
             },
             {
                 "CE": {
-                    "askPrice": 1.6,
-                    "askQty": 8750,
-                    "bidQty": 2500,
-                    "bidprice": 1.5,
-                    "change": -0.19999999999999996,
-                    "changeinOpenInterest": -1,
+                    "askPrice": 1.8,
+                    "askQty": 5000,
+                    "bidQty": 5000,
+                    "bidprice": 1.7,
+                    "change": 0.050000000000000044,
+                    "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKDABUR25-05-2023CE535.00",
                     "impliedVolatility": 18.77,
-                    "lastPrice": 1.6,
-                    "openInterest": 581,
-                    "pChange": -11.111111111111107,
-                    "pchangeinOpenInterest": -0.1718213058419244,
+                    "lastPrice": 1.85,
+                    "openInterest": 579,
+                    "pChange": 2.77777777777778,
+                    "pchangeinOpenInterest": -0.5154639175257731,
                     "strikePrice": 535,
-                    "totalBuyQuantity": 93750,
-                    "totalSellQuantity": 250000,
-                    "totalTradedVolume": 94,
+                    "totalBuyQuantity": 98750,
+                    "totalSellQuantity": 246250,
+                    "totalTradedVolume": 102,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 13.95,
-                    "askQty": 2500,
-                    "bidQty": 3750,
-                    "bidprice": 10.35,
+                    "askPrice": 11.95,
+                    "askQty": 1250,
+                    "bidQty": 1250,
+                    "bidprice": 10.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3657,18 +3699,18 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 535,
-                    "totalBuyQuantity": 101250,
-                    "totalSellQuantity": 86250,
+                    "totalBuyQuantity": 110000,
+                    "totalSellQuantity": 101250,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 535
             },
             {
                 "CE": {
-                    "askPrice": 12.3,
+                    "askPrice": 12.8,
                     "askQty": 1250,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -3686,14 +3728,14 @@
                     "totalSellQuantity": 53750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 535
             },
             {
                 "CE": {
-                    "askPrice": 23.9,
+                    "askPrice": 24.6,
                     "askQty": 1250,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -3711,14 +3753,14 @@
                     "totalSellQuantity": 1250,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 535
             },
             {
                 "CE": {
-                    "askPrice": 9.55,
+                    "askPrice": 9.8,
                     "askQty": 1250,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -3736,7 +3778,7 @@
                     "totalSellQuantity": 1250,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
                     "askPrice": 41.75,
@@ -3757,63 +3799,63 @@
                     "totalSellQuantity": 3750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 523.55
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 540
             },
             {
                 "CE": {
-                    "askPrice": 1.15,
-                    "askQty": 2500,
-                    "bidQty": 2500,
-                    "bidprice": 1.1,
-                    "change": -0.10000000000000009,
-                    "changeinOpenInterest": -1,
+                    "askPrice": 1.35,
+                    "askQty": 3750,
+                    "bidQty": 6250,
+                    "bidprice": 1.25,
+                    "change": 0,
+                    "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKDABUR25-05-2023CE540.00",
                     "impliedVolatility": 20.9,
-                    "lastPrice": 1.15,
-                    "openInterest": 897,
-                    "pChange": -8.000000000000007,
-                    "pchangeinOpenInterest": -0.111358574610245,
+                    "lastPrice": 1.25,
+                    "openInterest": 898,
+                    "pChange": 0,
+                    "pchangeinOpenInterest": 0,
                     "strikePrice": 540,
-                    "totalBuyQuantity": 311250,
-                    "totalSellQuantity": 345000,
-                    "totalTradedVolume": 90,
+                    "totalBuyQuantity": 327500,
+                    "totalSellQuantity": 346250,
+                    "totalTradedVolume": 99,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 17.6,
-                    "askQty": 2500,
-                    "bidQty": 2500,
-                    "bidprice": 17.05,
-                    "change": 0.4499999999999993,
+                    "askPrice": 16.25,
+                    "askQty": 1250,
+                    "bidQty": 1250,
+                    "bidprice": 15.6,
+                    "change": 0.6999999999999993,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKDABUR25-05-2023PE540.00",
                     "impliedVolatility": 17.1,
-                    "lastPrice": 16.8,
+                    "lastPrice": 17.05,
                     "openInterest": 143,
-                    "pChange": 2.752293577981647,
+                    "pChange": 4.281345565749231,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 540,
-                    "totalBuyQuantity": 110000,
-                    "totalSellQuantity": 103750,
-                    "totalTradedVolume": 2,
+                    "totalBuyQuantity": 107500,
+                    "totalSellQuantity": 102500,
+                    "totalTradedVolume": 3,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 540
             },
             {
                 "CE": {
-                    "askPrice": 6.85,
+                    "askPrice": 10.8,
                     "askQty": 1250,
                     "bidQty": 1250,
-                    "bidprice": 3.4,
+                    "bidprice": 3.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3824,11 +3866,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 545,
-                    "totalBuyQuantity": 3750,
-                    "totalSellQuantity": 51250,
+                    "totalBuyQuantity": 2500,
+                    "totalSellQuantity": 56250,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 523.55
                 },
                 "PE": {
                     "askPrice": 45.95,
@@ -3849,38 +3891,38 @@
                     "totalSellQuantity": 6250,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 545
             },
             {
                 "CE": {
-                    "askPrice": 0.8,
-                    "askQty": 5000,
-                    "bidQty": 2500,
-                    "bidprice": 0.75,
-                    "change": -0.15000000000000002,
-                    "changeinOpenInterest": 0,
+                    "askPrice": 0.9,
+                    "askQty": 8750,
+                    "bidQty": 5000,
+                    "bidprice": 0.8,
+                    "change": -0.09999999999999998,
+                    "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKDABUR25-05-2023CE545.00",
                     "impliedVolatility": 22.15,
-                    "lastPrice": 0.75,
-                    "openInterest": 241,
-                    "pChange": -16.666666666666668,
-                    "pchangeinOpenInterest": 0,
+                    "lastPrice": 0.8,
+                    "openInterest": 242,
+                    "pChange": -11.111111111111107,
+                    "pchangeinOpenInterest": 0.4149377593360996,
                     "strikePrice": 545,
-                    "totalBuyQuantity": 353750,
-                    "totalSellQuantity": 201250,
-                    "totalTradedVolume": 30,
+                    "totalBuyQuantity": 355000,
+                    "totalSellQuantity": 195000,
+                    "totalTradedVolume": 34,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 523.55
                 },
                 "PE": {
-                    "askPrice": 22.9,
-                    "askQty": 1250,
+                    "askPrice": 21.8,
+                    "askQty": 6250,
                     "bidQty": 1250,
-                    "bidprice": 20.2,
+                    "bidprice": 19.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3891,42 +3933,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 545,
-                    "totalBuyQuantity": 111250,
-                    "totalSellQuantity": 98750,
+                    "totalBuyQuantity": 106250,
+                    "totalSellQuantity": 103750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 545
             },
             {
                 "CE": {
-                    "askPrice": 0.6,
+                    "askPrice": 0.65,
                     "askQty": 5000,
-                    "bidQty": 62500,
-                    "bidprice": 0.55,
-                    "change": -0.09999999999999998,
-                    "changeinOpenInterest": -18,
+                    "bidQty": 6250,
+                    "bidprice": 0.6,
+                    "change": -0.050000000000000044,
+                    "changeinOpenInterest": -17,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKDABUR25-05-2023CE550.00",
                     "impliedVolatility": 23.93,
-                    "lastPrice": 0.55,
-                    "openInterest": 590,
-                    "pChange": -15.38461538461538,
-                    "pchangeinOpenInterest": -2.960526315789474,
+                    "lastPrice": 0.6,
+                    "openInterest": 591,
+                    "pChange": -7.692307692307699,
+                    "pchangeinOpenInterest": -2.7960526315789473,
                     "strikePrice": 550,
-                    "totalBuyQuantity": 438750,
-                    "totalSellQuantity": 215000,
-                    "totalTradedVolume": 79,
+                    "totalBuyQuantity": 453750,
+                    "totalSellQuantity": 210000,
+                    "totalTradedVolume": 86,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 27.25,
-                    "askQty": 1250,
-                    "bidQty": 1250,
-                    "bidprice": 26.3,
+                    "askPrice": 26,
+                    "askQty": 2500,
+                    "bidQty": 2500,
+                    "bidprice": 24.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3937,21 +3979,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 550,
-                    "totalBuyQuantity": 101250,
-                    "totalSellQuantity": 101250,
+                    "totalBuyQuantity": 108750,
+                    "totalSellQuantity": 106250,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 550
             },
             {
                 "CE": {
-                    "askPrice": 5.5,
-                    "askQty": 1250,
+                    "askPrice": 5.65,
+                    "askQty": 2500,
                     "bidQty": 1250,
-                    "bidprice": 4.5,
+                    "bidprice": 4.25,
                     "change": -0.75,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3962,17 +4004,17 @@
                     "pChange": -15.463917525773196,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 550,
-                    "totalBuyQuantity": 97500,
+                    "totalBuyQuantity": 96250,
                     "totalSellQuantity": 83750,
                     "totalTradedVolume": 2,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 28.75,
+                    "askPrice": 27.75,
                     "askQty": 1250,
                     "bidQty": 2500,
-                    "bidprice": 23.1,
+                    "bidprice": 23.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3983,11 +4025,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 550,
-                    "totalBuyQuantity": 7500,
-                    "totalSellQuantity": 1250,
+                    "totalBuyQuantity": 6250,
+                    "totalSellQuantity": 2500,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 550
@@ -4012,7 +4054,7 @@
                     "totalSellQuantity": 50000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
                     "askPrice": 0,
@@ -4033,7 +4075,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 523.55
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 555
@@ -4041,9 +4083,9 @@
             {
                 "CE": {
                     "askPrice": 0.5,
-                    "askQty": 5000,
+                    "askQty": 2500,
                     "bidQty": 6250,
-                    "bidprice": 0.4,
+                    "bidprice": 0.45,
                     "change": -0.04999999999999999,
                     "changeinOpenInterest": 7,
                     "expiryDate": "25-May-2023",
@@ -4054,17 +4096,17 @@
                     "pChange": -9.999999999999998,
                     "pchangeinOpenInterest": 6.60377358490566,
                     "strikePrice": 555,
-                    "totalBuyQuantity": 298750,
-                    "totalSellQuantity": 162500,
+                    "totalBuyQuantity": 311250,
+                    "totalSellQuantity": 163750,
                     "totalTradedVolume": 19,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 32.55,
-                    "askQty": 1250,
-                    "bidQty": 3750,
-                    "bidprice": 29.8,
+                    "askPrice": 31.45,
+                    "askQty": 5000,
+                    "bidQty": 1250,
+                    "bidprice": 29.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4075,42 +4117,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 555,
-                    "totalBuyQuantity": 76250,
-                    "totalSellQuantity": 71250,
+                    "totalBuyQuantity": 72500,
+                    "totalSellQuantity": 72500,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 555
             },
             {
                 "CE": {
-                    "askPrice": 0.35,
-                    "askQty": 8750,
-                    "bidQty": 11250,
+                    "askPrice": 0.4,
+                    "askQty": 32500,
+                    "bidQty": 20000,
                     "bidprice": 0.3,
-                    "change": -0.10000000000000003,
-                    "changeinOpenInterest": 10,
+                    "change": -0.050000000000000044,
+                    "changeinOpenInterest": 4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKDABUR25-05-2023CE560.00",
                     "impliedVolatility": 27.06,
-                    "lastPrice": 0.3,
-                    "openInterest": 402,
-                    "pChange": -25.000000000000007,
-                    "pchangeinOpenInterest": 2.5510204081632653,
+                    "lastPrice": 0.35,
+                    "openInterest": 396,
+                    "pChange": -12.50000000000001,
+                    "pchangeinOpenInterest": 1.0204081632653061,
                     "strikePrice": 560,
-                    "totalBuyQuantity": 375000,
-                    "totalSellQuantity": 240000,
-                    "totalTradedVolume": 36,
+                    "totalBuyQuantity": 412500,
+                    "totalSellQuantity": 232500,
+                    "totalTradedVolume": 37,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 523.55
                 },
                 "PE": {
-                    "askPrice": 38.65,
-                    "askQty": 2500,
+                    "askPrice": 35.9,
+                    "askQty": 1250,
                     "bidQty": 3750,
-                    "bidprice": 35.15,
+                    "bidprice": 32.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4121,11 +4163,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 560,
-                    "totalBuyQuantity": 70000,
-                    "totalSellQuantity": 68750,
+                    "totalBuyQuantity": 75000,
+                    "totalSellQuantity": 73750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 560
@@ -4133,30 +4175,30 @@
             {
                 "CE": {
                     "askPrice": 3.7,
-                    "askQty": 2500,
+                    "askQty": 1250,
                     "bidQty": 1250,
-                    "bidprice": 2.45,
+                    "bidprice": 1.25,
                     "change": 0.3999999999999999,
-                    "changeinOpenInterest": 0,
+                    "changeinOpenInterest": 1,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKDABUR29-06-2023CE560.00",
                     "impliedVolatility": 18.9,
                     "lastPrice": 3.5,
-                    "openInterest": 22,
+                    "openInterest": 23,
                     "pChange": 12.90322580645161,
-                    "pchangeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 4.545454545454546,
                     "strikePrice": 560,
                     "totalBuyQuantity": 81250,
                     "totalSellQuantity": 73750,
-                    "totalTradedVolume": 2,
+                    "totalTradedVolume": 3,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 37.75,
-                    "askQty": 2500,
+                    "askPrice": 36.8,
+                    "askQty": 3750,
                     "bidQty": 3750,
-                    "bidprice": 32.4,
+                    "bidprice": 24.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4168,19 +4210,19 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 560,
                     "totalBuyQuantity": 6250,
-                    "totalSellQuantity": 2500,
+                    "totalSellQuantity": 6250,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 560
             },
             {
                 "CE": {
-                    "askPrice": 0.5,
+                    "askPrice": 0.55,
                     "askQty": 1250,
-                    "bidQty": 1250,
+                    "bidQty": 5000,
                     "bidprice": 0.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -4192,17 +4234,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 565,
-                    "totalBuyQuantity": 146250,
-                    "totalSellQuantity": 125000,
+                    "totalBuyQuantity": 158750,
+                    "totalSellQuantity": 123750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 523.55
                 },
                 "PE": {
-                    "askPrice": 43.25,
-                    "askQty": 5000,
-                    "bidQty": 3750,
-                    "bidprice": 39.85,
+                    "askPrice": 42.25,
+                    "askQty": 3750,
+                    "bidQty": 11250,
+                    "bidprice": 37.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4213,11 +4255,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 565,
-                    "totalBuyQuantity": 70000,
-                    "totalSellQuantity": 66250,
+                    "totalBuyQuantity": 61250,
+                    "totalSellQuantity": 70000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 565
@@ -4242,13 +4284,13 @@
                     "totalSellQuantity": 50000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 63.25,
+                    "askPrice": 62.55,
                     "askQty": 3750,
-                    "bidQty": 3750,
-                    "bidprice": 23.25,
+                    "bidQty": 0,
+                    "bidprice": 0,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4259,11 +4301,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 565,
-                    "totalBuyQuantity": 3750,
+                    "totalBuyQuantity": 0,
                     "totalSellQuantity": 3750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 565
@@ -4272,7 +4314,7 @@
                 "CE": {
                     "askPrice": 0.3,
                     "askQty": 2500,
-                    "bidQty": 3750,
+                    "bidQty": 5000,
                     "bidprice": 0.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -4284,17 +4326,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 570,
-                    "totalBuyQuantity": 240000,
+                    "totalBuyQuantity": 226250,
                     "totalSellQuantity": 105000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 48.05,
-                    "askQty": 5000,
-                    "bidQty": 5000,
-                    "bidprice": 44.05,
+                    "askPrice": 47.7,
+                    "askQty": 3750,
+                    "bidQty": 3750,
+                    "bidprice": 43.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4305,11 +4347,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 570,
-                    "totalBuyQuantity": 66250,
-                    "totalSellQuantity": 66250,
+                    "totalBuyQuantity": 70000,
+                    "totalSellQuantity": 70000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 570
@@ -4319,7 +4361,7 @@
                     "askPrice": 5.5,
                     "askQty": 1250,
                     "bidQty": 1250,
-                    "bidprice": 0.7,
+                    "bidprice": 0.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4330,17 +4372,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 570,
-                    "totalBuyQuantity": 116250,
+                    "totalBuyQuantity": 66250,
                     "totalSellQuantity": 1250,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 49.7,
+                    "askPrice": 48.7,
                     "askQty": 2500,
-                    "bidQty": 3750,
-                    "bidprice": 27.2,
+                    "bidQty": 2500,
+                    "bidprice": 36.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4351,11 +4393,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 570,
-                    "totalBuyQuantity": 3750,
+                    "totalBuyQuantity": 6250,
                     "totalSellQuantity": 2500,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 570
@@ -4380,13 +4422,13 @@
                     "totalSellQuantity": 63750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 523.55
                 },
                 "PE": {
-                    "askPrice": 55.75,
-                    "askQty": 7500,
+                    "askPrice": 54.5,
+                    "askQty": 3750,
                     "bidQty": 3750,
-                    "bidprice": 49.65,
+                    "bidprice": 47.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4397,11 +4439,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 575,
-                    "totalBuyQuantity": 62500,
-                    "totalSellQuantity": 57500,
+                    "totalBuyQuantity": 61250,
+                    "totalSellQuantity": 61250,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 575
@@ -4426,13 +4468,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
-                    "bidQty": 3750,
-                    "bidprice": 30.2,
+                    "bidQty": 0,
+                    "bidprice": 0,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4443,11 +4485,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 575,
-                    "totalBuyQuantity": 3750,
+                    "totalBuyQuantity": 0,
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 523.55
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 575
@@ -4472,13 +4514,13 @@
                     "totalSellQuantity": 100000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 60.5,
-                    "askQty": 3750,
+                    "askPrice": 59.6,
+                    "askQty": 7500,
                     "bidQty": 3750,
-                    "bidprice": 54.6,
+                    "bidprice": 52.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4489,19 +4531,19 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 580,
-                    "totalBuyQuantity": 65000,
-                    "totalSellQuantity": 66250,
+                    "totalBuyQuantity": 66250,
+                    "totalSellQuantity": 57500,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 580
             },
             {
                 "CE": {
-                    "askPrice": 0,
-                    "askQty": 0,
+                    "askPrice": 3.45,
+                    "askQty": 1250,
                     "bidQty": 1250,
                     "bidprice": 1,
                     "change": 0,
@@ -4515,16 +4557,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 580,
                     "totalBuyQuantity": 95000,
-                    "totalSellQuantity": 0,
+                    "totalSellQuantity": 1250,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 77.85,
+                    "askPrice": 76.8,
                     "askQty": 3750,
-                    "bidQty": 3750,
-                    "bidprice": 33.4,
+                    "bidQty": 0,
+                    "bidprice": 0,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4535,11 +4577,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 580,
-                    "totalBuyQuantity": 3750,
+                    "totalBuyQuantity": 0,
                     "totalSellQuantity": 3750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 523.55
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 580
@@ -4564,13 +4606,13 @@
                     "totalSellQuantity": 50000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 69.95,
+                    "askPrice": 69.75,
                     "askQty": 3750,
                     "bidQty": 3750,
-                    "bidprice": 53.2,
+                    "bidprice": 53.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4585,7 +4627,7 @@
                     "totalSellQuantity": 53750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 585
@@ -4610,7 +4652,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
                     "askPrice": 82.4,
@@ -4631,7 +4673,7 @@
                     "totalSellQuantity": 3750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 523.55
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 585
@@ -4656,11 +4698,11 @@
                     "totalSellQuantity": 62500,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 68.85,
-                    "askQty": 3750,
+                    "askPrice": 68.9,
+                    "askQty": 7500,
                     "bidQty": 3750,
                     "bidprice": 62.7,
                     "change": 0,
@@ -4674,10 +4716,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 590,
                     "totalBuyQuantity": 61250,
-                    "totalSellQuantity": 61250,
+                    "totalSellQuantity": 57500,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 590
@@ -4702,11 +4744,11 @@
                     "totalSellQuantity": 2500,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
-                    "askPrice": 0,
-                    "askQty": 0,
+                    "askPrice": 88.9,
+                    "askQty": 3750,
                     "bidQty": 3750,
                     "bidprice": 38.4,
                     "change": 0,
@@ -4720,10 +4762,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 590,
                     "totalBuyQuantity": 3750,
-                    "totalSellQuantity": 0,
+                    "totalSellQuantity": 3750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 523.55
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 590
@@ -4748,7 +4790,7 @@
                     "totalSellQuantity": 12500,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
                     "askPrice": 79.45,
@@ -4769,7 +4811,7 @@
                     "totalSellQuantity": 53750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 595
@@ -4794,7 +4836,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
                     "askPrice": 0,
@@ -4815,7 +4857,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 595
@@ -4840,13 +4882,13 @@
                     "totalSellQuantity": 67500,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 523.55
                 },
                 "PE": {
-                    "askPrice": 80.15,
+                    "askPrice": 77.55,
                     "askQty": 3750,
                     "bidQty": 3750,
-                    "bidprice": 74.05,
+                    "bidprice": 72.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4857,11 +4899,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 600,
-                    "totalBuyQuantity": 63750,
-                    "totalSellQuantity": 61250,
+                    "totalBuyQuantity": 61250,
+                    "totalSellQuantity": 63750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 523.55
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 600
@@ -4886,7 +4928,7 @@
                     "totalSellQuantity": 62500,
                     "totalTradedVolume": 3,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
                     "askPrice": 98.95,
@@ -4907,7 +4949,7 @@
                     "totalSellQuantity": 6250,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 523.55
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 600
@@ -4932,7 +4974,7 @@
                     "totalSellQuantity": 50000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
                     "askPrice": 87.85,
@@ -4953,7 +4995,7 @@
                     "totalSellQuantity": 53750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 605
@@ -4978,7 +5020,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 523.55
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 605
@@ -5003,7 +5045,7 @@
                     "totalSellQuantity": 10000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 523.55
                 },
                 "PE": {
                     "askPrice": 94.5,
@@ -5024,7 +5066,7 @@
                     "totalSellQuantity": 53750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 610
@@ -5049,7 +5091,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 610
@@ -5074,7 +5116,7 @@
                     "totalSellQuantity": 5000,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
                     "askPrice": 99.6,
@@ -5095,7 +5137,7 @@
                     "totalSellQuantity": 53750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 615
@@ -5120,7 +5162,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 615
@@ -5145,7 +5187,7 @@
                     "totalSellQuantity": 53750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 620
@@ -5170,7 +5212,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 620
@@ -5195,7 +5237,7 @@
                     "totalSellQuantity": 1250,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
                     "askPrice": 109.6,
@@ -5216,7 +5258,7 @@
                     "totalSellQuantity": 53750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 523.55
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 625
@@ -5241,7 +5283,7 @@
                     "totalSellQuantity": 53750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 630
@@ -5266,7 +5308,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "PE": {
                     "askPrice": 129,
@@ -5287,7 +5329,7 @@
                     "totalSellQuantity": 3750,
                     "totalTradedVolume": 0,
                     "underlying": "DABUR",
-                    "underlyingValue": 522.75
+                    "underlyingValue": 524.05
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 630
@@ -5342,7 +5384,7 @@
             625,
             630
         ],
-        "timestamp": "18-May-2023 10:21:15",
-        "underlyingValue": 522.75
+        "timestamp": "18-May-2023 10:26:47",
+        "underlyingValue": 524.05
     }
 }

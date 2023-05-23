@@ -1,12 +1,12 @@
 {
     "filtered": {
         "CE": {
-            "totOI": 11465,
-            "totVol": 2767
+            "totOI": 11482,
+            "totVol": 2826
         },
         "PE": {
-            "totOI": 6109,
-            "totVol": 1037
+            "totOI": 6105,
+            "totVol": 1078
         },
         "data": [
             {
@@ -29,7 +29,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 240
@@ -54,7 +54,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 250
@@ -79,7 +79,7 @@
                     "totalSellQuantity": 54000,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 260
@@ -104,7 +104,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 270
@@ -129,7 +129,7 @@
                     "totalSellQuantity": 54000,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
                     "askPrice": 0,
@@ -150,7 +150,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 280
@@ -175,7 +175,7 @@
                     "totalSellQuantity": 64800,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 403.9
                 },
                 "PE": {
                     "askPrice": 1.95,
@@ -196,14 +196,14 @@
                     "totalSellQuantity": 18000,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 290
             },
             {
                 "CE": {
-                    "askPrice": 106.65,
+                    "askPrice": 105.9,
                     "askQty": 1800,
                     "bidQty": 10800,
                     "bidprice": 101.6,
@@ -218,17 +218,17 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 300,
                     "totalBuyQuantity": 64800,
-                    "totalSellQuantity": 68400,
+                    "totalSellQuantity": 70200,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 300
             },
             {
                 "CE": {
-                    "askPrice": 95.9,
+                    "askPrice": 96,
                     "askQty": 5400,
                     "bidQty": 5400,
                     "bidprice": 92.35,
@@ -243,14 +243,14 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 310,
                     "totalBuyQuantity": 72000,
-                    "totalSellQuantity": 77400,
+                    "totalSellQuantity": 75600,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
                     "askPrice": 0.25,
-                    "askQty": 28800,
+                    "askQty": 25200,
                     "bidQty": 10800,
                     "bidprice": 0.15,
                     "change": 0,
@@ -264,10 +264,10 @@
                     "pchangeinOpenInterest": 9.375,
                     "strikePrice": 310,
                     "totalBuyQuantity": 34200,
-                    "totalSellQuantity": 214200,
+                    "totalSellQuantity": 216000,
                     "totalTradedVolume": 6,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 310
@@ -292,12 +292,12 @@
                     "totalSellQuantity": 75600,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
-                    "askPrice": 0.35,
-                    "askQty": 5400,
-                    "bidQty": 3600,
+                    "askPrice": 0.3,
+                    "askQty": 1800,
+                    "bidQty": 1800,
                     "bidprice": 0.15,
                     "change": -0.04999999999999999,
                     "changeinOpenInterest": 0,
@@ -309,21 +309,21 @@
                     "pChange": -19.999999999999996,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 320,
-                    "totalBuyQuantity": 36000,
-                    "totalSellQuantity": 219600,
+                    "totalBuyQuantity": 34200,
+                    "totalSellQuantity": 223200,
                     "totalTradedVolume": 1,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 320
             },
             {
                 "CE": {
-                    "askPrice": 76.35,
+                    "askPrice": 75.7,
                     "askQty": 5400,
-                    "bidQty": 5400,
-                    "bidprice": 72.5,
+                    "bidQty": 1800,
+                    "bidprice": 72.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -334,11 +334,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 330,
-                    "totalBuyQuantity": 70200,
-                    "totalSellQuantity": 75600,
+                    "totalBuyQuantity": 72000,
+                    "totalSellQuantity": 70200,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
                     "askPrice": 0.35,
@@ -355,21 +355,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 330,
-                    "totalBuyQuantity": 95400,
+                    "totalBuyQuantity": 109800,
                     "totalSellQuantity": 180000,
                     "totalTradedVolume": 2,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 330
             },
             {
                 "CE": {
-                    "askPrice": 65.25,
+                    "askPrice": 65.65,
                     "askQty": 5400,
                     "bidQty": 1800,
-                    "bidprice": 63.35,
+                    "bidprice": 63.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -381,15 +381,15 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 340,
                     "totalBuyQuantity": 72000,
-                    "totalSellQuantity": 75600,
+                    "totalSellQuantity": 81000,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
                     "askPrice": 0.4,
                     "askQty": 9000,
-                    "bidQty": 61200,
+                    "bidQty": 72000,
                     "bidprice": 0.3,
                     "change": -0.04999999999999999,
                     "changeinOpenInterest": -10,
@@ -405,17 +405,17 @@
                     "totalSellQuantity": 252000,
                     "totalTradedVolume": 51,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 340
             },
             {
                 "CE": {
-                    "askPrice": 54.95,
+                    "askPrice": 54.6,
                     "askQty": 1800,
                     "bidQty": 1800,
-                    "bidprice": 53.75,
+                    "bidprice": 53.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -427,15 +427,15 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 350,
                     "totalBuyQuantity": 117000,
-                    "totalSellQuantity": 122400,
+                    "totalSellQuantity": 118800,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
                     "askPrice": 0.5,
-                    "askQty": 57600,
-                    "bidQty": 10800,
+                    "askQty": 66600,
+                    "bidQty": 21600,
                     "bidprice": 0.45,
                     "change": -0.04999999999999999,
                     "changeinOpenInterest": -5,
@@ -448,20 +448,20 @@
                     "pchangeinOpenInterest": -0.6361323155216285,
                     "strikePrice": 350,
                     "totalBuyQuantity": 338400,
-                    "totalSellQuantity": 320400,
+                    "totalSellQuantity": 316800,
                     "totalTradedVolume": 11,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 350
             },
             {
                 "CE": {
-                    "askPrice": 44.7,
-                    "askQty": 3600,
+                    "askPrice": 44.8,
+                    "askQty": 1800,
                     "bidQty": 1800,
-                    "bidprice": 43.9,
+                    "bidprice": 44,
                     "change": 0.8499999999999943,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -472,16 +472,16 @@
                     "pChange": 1.8498367791077133,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 360,
-                    "totalBuyQuantity": 126000,
-                    "totalSellQuantity": 118800,
+                    "totalBuyQuantity": 131400,
+                    "totalSellQuantity": 115200,
                     "totalTradedVolume": 1,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
-                    "askPrice": 0.6,
-                    "askQty": 10800,
-                    "bidQty": 3600,
+                    "askPrice": 0.55,
+                    "askQty": 14400,
+                    "bidQty": 1800,
                     "bidprice": 0.5,
                     "change": -0.050000000000000044,
                     "changeinOpenInterest": -1,
@@ -494,20 +494,20 @@
                     "pchangeinOpenInterest": -0.24937655860349128,
                     "strikePrice": 360,
                     "totalBuyQuantity": 196200,
-                    "totalSellQuantity": 252000,
+                    "totalSellQuantity": 250200,
                     "totalTradedVolume": 10,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 360
             },
             {
                 "CE": {
-                    "askPrice": 34.7,
-                    "askQty": 3600,
-                    "bidQty": 1800,
-                    "bidprice": 34.1,
+                    "askPrice": 34.65,
+                    "askQty": 1800,
+                    "bidQty": 3600,
+                    "bidprice": 34.25,
                     "change": 1.2999999999999972,
                     "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
@@ -518,15 +518,15 @@
                     "pChange": 3.5763411279229635,
                     "pchangeinOpenInterest": -2.158273381294964,
                     "strikePrice": 370,
-                    "totalBuyQuantity": 135000,
-                    "totalSellQuantity": 136800,
+                    "totalBuyQuantity": 129600,
+                    "totalSellQuantity": 122400,
                     "totalTradedVolume": 6,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
                     "askPrice": 0.65,
-                    "askQty": 9000,
+                    "askQty": 7200,
                     "bidQty": 14400,
                     "bidprice": 0.6,
                     "change": 0,
@@ -539,21 +539,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": -0.47619047619047616,
                     "strikePrice": 370,
-                    "totalBuyQuantity": 421200,
-                    "totalSellQuantity": 322200,
-                    "totalTradedVolume": 65,
+                    "totalBuyQuantity": 424800,
+                    "totalSellQuantity": 315000,
+                    "totalTradedVolume": 71,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 370
             },
             {
                 "CE": {
-                    "askPrice": 25.6,
+                    "askPrice": 25.25,
                     "askQty": 1800,
                     "bidQty": 1800,
-                    "bidprice": 24.8,
+                    "bidprice": 24.55,
                     "change": -1,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -564,16 +564,16 @@
                     "pChange": -3.7037037037037033,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 380,
-                    "totalBuyQuantity": 142200,
-                    "totalSellQuantity": 145800,
+                    "totalBuyQuantity": 149400,
+                    "totalSellQuantity": 144000,
                     "totalTradedVolume": 4,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
                     "askPrice": 1.2,
                     "askQty": 12600,
-                    "bidQty": 12600,
+                    "bidQty": 14400,
                     "bidprice": 1.1,
                     "change": 0.04999999999999982,
                     "changeinOpenInterest": -10,
@@ -585,149 +585,149 @@
                     "pChange": 4.545454545454529,
                     "pchangeinOpenInterest": -1.5432098765432098,
                     "strikePrice": 380,
-                    "totalBuyQuantity": 1234800,
-                    "totalSellQuantity": 412200,
+                    "totalBuyQuantity": 1227600,
+                    "totalSellQuantity": 405000,
                     "totalTradedVolume": 127,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 380
             },
             {
                 "CE": {
-                    "askPrice": 16.15,
+                    "askPrice": 16,
                     "askQty": 1800,
-                    "bidQty": 3600,
-                    "bidprice": 15.9,
-                    "change": -1.3999999999999986,
+                    "bidQty": 7200,
+                    "bidprice": 15.7,
+                    "change": -1.8499999999999996,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKAMBUJACEM25-05-2023CE390.00",
                     "impliedVolatility": 28.85,
-                    "lastPrice": 16.35,
+                    "lastPrice": 15.9,
                     "openInterest": 427,
-                    "pChange": -7.887323943661964,
+                    "pChange": -10.422535211267604,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 390,
                     "totalBuyQuantity": 163800,
                     "totalSellQuantity": 113400,
-                    "totalTradedVolume": 46,
+                    "totalTradedVolume": 47,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 403.9
                 },
                 "PE": {
                     "askPrice": 2.1,
-                    "askQty": 7200,
+                    "askQty": 10800,
                     "bidQty": 10800,
                     "bidprice": 2,
-                    "change": 0.24999999999999978,
+                    "change": 0.30000000000000004,
                     "changeinOpenInterest": -8,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKAMBUJACEM25-05-2023PE390.00",
                     "impliedVolatility": 33.54,
-                    "lastPrice": 2.05,
+                    "lastPrice": 2.1,
                     "openInterest": 761,
-                    "pChange": 13.888888888888875,
+                    "pChange": 16.666666666666668,
                     "pchangeinOpenInterest": -1.0403120936280885,
                     "strikePrice": 390,
-                    "totalBuyQuantity": 318600,
-                    "totalSellQuantity": 390600,
-                    "totalTradedVolume": 196,
+                    "totalBuyQuantity": 309600,
+                    "totalSellQuantity": 396000,
+                    "totalTradedVolume": 201,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 390
             },
             {
                 "CE": {
-                    "askPrice": 9.45,
-                    "askQty": 3600,
-                    "bidQty": 5400,
-                    "bidprice": 9.25,
-                    "change": -1.5500000000000007,
-                    "changeinOpenInterest": -44,
+                    "askPrice": 9.2,
+                    "askQty": 7200,
+                    "bidQty": 3600,
+                    "bidprice": 9.05,
+                    "change": -1.6500000000000004,
+                    "changeinOpenInterest": -34,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKAMBUJACEM25-05-2023CE400.00",
                     "impliedVolatility": 30.49,
-                    "lastPrice": 9.2,
-                    "openInterest": 1856,
-                    "pChange": -14.418604651162797,
-                    "pchangeinOpenInterest": -2.3157894736842106,
+                    "lastPrice": 9.1,
+                    "openInterest": 1866,
+                    "pChange": -15.34883720930233,
+                    "pchangeinOpenInterest": -1.7894736842105263,
                     "strikePrice": 400,
-                    "totalBuyQuantity": 293400,
-                    "totalSellQuantity": 500400,
-                    "totalTradedVolume": 810,
+                    "totalBuyQuantity": 270000,
+                    "totalSellQuantity": 511200,
+                    "totalTradedVolume": 837,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
-                    "askPrice": 5.2,
-                    "askQty": 1800,
-                    "bidQty": 14400,
-                    "bidprice": 5.05,
-                    "change": 0.8999999999999995,
-                    "changeinOpenInterest": -5,
+                    "askPrice": 5.35,
+                    "askQty": 5400,
+                    "bidQty": 3600,
+                    "bidprice": 5.2,
+                    "change": 0.7999999999999998,
+                    "changeinOpenInterest": -10,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKAMBUJACEM25-05-2023PE400.00",
                     "impliedVolatility": 33.15,
-                    "lastPrice": 5.3,
-                    "openInterest": 1162,
-                    "pChange": 20.454545454545443,
-                    "pchangeinOpenInterest": -0.4284490145672665,
+                    "lastPrice": 5.2,
+                    "openInterest": 1157,
+                    "pChange": 18.181818181818176,
+                    "pchangeinOpenInterest": -0.856898029134533,
                     "strikePrice": 400,
-                    "totalBuyQuantity": 367200,
-                    "totalSellQuantity": 370800,
-                    "totalTradedVolume": 403,
+                    "totalBuyQuantity": 376200,
+                    "totalSellQuantity": 354600,
+                    "totalTradedVolume": 424,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 400
             },
             {
                 "CE": {
-                    "askPrice": 5.3,
-                    "askQty": 7200,
-                    "bidQty": 1800,
-                    "bidprice": 5.2,
-                    "change": -0.8999999999999995,
-                    "changeinOpenInterest": 125,
+                    "askPrice": 5.1,
+                    "askQty": 1800,
+                    "bidQty": 7200,
+                    "bidprice": 5,
+                    "change": -1.0999999999999996,
+                    "changeinOpenInterest": 127,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKAMBUJACEM25-05-2023CE410.00",
                     "impliedVolatility": 33.39,
-                    "lastPrice": 5.2,
-                    "openInterest": 1826,
-                    "pChange": -14.754098360655728,
-                    "pchangeinOpenInterest": 7.348618459729571,
+                    "lastPrice": 5,
+                    "openInterest": 1828,
+                    "pChange": -18.032786885245898,
+                    "pchangeinOpenInterest": 7.466196355085244,
                     "strikePrice": 410,
-                    "totalBuyQuantity": 320400,
-                    "totalSellQuantity": 840600,
-                    "totalTradedVolume": 786,
+                    "totalBuyQuantity": 291600,
+                    "totalSellQuantity": 838800,
+                    "totalTradedVolume": 808,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
-                    "askPrice": 11.4,
-                    "askQty": 7200,
-                    "bidQty": 3600,
-                    "bidprice": 11.15,
+                    "askPrice": 11.25,
+                    "askQty": 5400,
+                    "bidQty": 5400,
+                    "bidprice": 11,
                     "change": 1.549999999999999,
-                    "changeinOpenInterest": 1,
+                    "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKAMBUJACEM25-05-2023PE410.00",
                     "impliedVolatility": 37.91,
                     "lastPrice": 11.2,
-                    "openInterest": 518,
+                    "openInterest": 519,
                     "pChange": 16.062176165803095,
-                    "pchangeinOpenInterest": 0.19342359767891681,
+                    "pchangeinOpenInterest": 0.38684719535783363,
                     "strikePrice": 410,
-                    "totalBuyQuantity": 212400,
-                    "totalSellQuantity": 174600,
-                    "totalTradedVolume": 140,
+                    "totalBuyQuantity": 205200,
+                    "totalSellQuantity": 171000,
+                    "totalTradedVolume": 147,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 410
@@ -735,45 +735,45 @@
             {
                 "CE": {
                     "askPrice": 2.5,
-                    "askQty": 3600,
-                    "bidQty": 16200,
+                    "askQty": 7200,
+                    "bidQty": 19800,
                     "bidprice": 2.4,
                     "change": -0.6999999999999997,
-                    "changeinOpenInterest": 52,
+                    "changeinOpenInterest": 57,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKAMBUJACEM25-05-2023CE420.00",
                     "impliedVolatility": 34.81,
                     "lastPrice": 2.45,
-                    "openInterest": 2033,
+                    "openInterest": 2038,
                     "pChange": -22.222222222222214,
-                    "pchangeinOpenInterest": 2.624936900555275,
+                    "pchangeinOpenInterest": 2.8773346794548207,
                     "strikePrice": 420,
-                    "totalBuyQuantity": 300600,
-                    "totalSellQuantity": 943200,
-                    "totalTradedVolume": 502,
+                    "totalBuyQuantity": 279000,
+                    "totalSellQuantity": 936000,
+                    "totalTradedVolume": 508,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
-                    "askPrice": 18.7,
-                    "askQty": 7200,
+                    "askPrice": 18.75,
+                    "askQty": 3600,
                     "bidQty": 1800,
-                    "bidprice": 18.3,
-                    "change": 1.8999999999999986,
+                    "bidprice": 18.4,
+                    "change": 2.049999999999997,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKAMBUJACEM25-05-2023PE420.00",
                     "impliedVolatility": 40.44,
-                    "lastPrice": 18.5,
+                    "lastPrice": 18.65,
                     "openInterest": 211,
-                    "pChange": 11.445783132530112,
+                    "pChange": 12.349397590361427,
                     "pchangeinOpenInterest": 0.47619047619047616,
                     "strikePrice": 420,
-                    "totalBuyQuantity": 171000,
-                    "totalSellQuantity": 149400,
-                    "totalTradedVolume": 21,
+                    "totalBuyQuantity": 174600,
+                    "totalSellQuantity": 160200,
+                    "totalTradedVolume": 23,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 420
@@ -782,29 +782,29 @@
                 "CE": {
                     "askPrice": 1.2,
                     "askQty": 10800,
-                    "bidQty": 3600,
-                    "bidprice": 1.15,
-                    "change": -0.4500000000000002,
+                    "bidQty": 27000,
+                    "bidprice": 1.1,
+                    "change": -0.40000000000000013,
                     "changeinOpenInterest": 5,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKAMBUJACEM25-05-2023CE430.00",
                     "impliedVolatility": 35.82,
-                    "lastPrice": 1.15,
+                    "lastPrice": 1.2,
                     "openInterest": 852,
-                    "pChange": -28.12500000000001,
+                    "pChange": -25.000000000000007,
                     "pchangeinOpenInterest": 0.5903187721369539,
                     "strikePrice": 430,
-                    "totalBuyQuantity": 1184400,
-                    "totalSellQuantity": 414000,
-                    "totalTradedVolume": 197,
+                    "totalBuyQuantity": 1132200,
+                    "totalSellQuantity": 410400,
+                    "totalTradedVolume": 198,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
-                    "askPrice": 27.45,
+                    "askPrice": 27.55,
                     "askQty": 1800,
-                    "bidQty": 5400,
-                    "bidprice": 26.9,
+                    "bidQty": 1800,
+                    "bidprice": 27,
                     "change": 2.1499999999999986,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -815,11 +815,11 @@
                     "pChange": 8.651911468812871,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 430,
-                    "totalBuyQuantity": 147600,
-                    "totalSellQuantity": 127800,
+                    "totalBuyQuantity": 138600,
+                    "totalSellQuantity": 135000,
                     "totalTradedVolume": 3,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 403.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 430
@@ -828,7 +828,7 @@
                 "CE": {
                     "askPrice": 0.7,
                     "askQty": 10800,
-                    "bidQty": 23400,
+                    "bidQty": 25200,
                     "bidprice": 0.65,
                     "change": -0.25,
                     "changeinOpenInterest": -28,
@@ -841,14 +841,14 @@
                     "pchangeinOpenInterest": -3.2941176470588234,
                     "strikePrice": 440,
                     "totalBuyQuantity": 1117800,
-                    "totalSellQuantity": 489600,
+                    "totalSellQuantity": 487800,
                     "totalTradedVolume": 151,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
                     "askPrice": 36.95,
-                    "askQty": 1800,
+                    "askQty": 3600,
                     "bidQty": 9000,
                     "bidprice": 35.85,
                     "change": 0,
@@ -862,10 +862,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 440,
                     "totalBuyQuantity": 138600,
-                    "totalSellQuantity": 127800,
+                    "totalSellQuantity": 129600,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 440
@@ -873,8 +873,8 @@
             {
                 "CE": {
                     "askPrice": 0.5,
-                    "askQty": 21600,
-                    "bidQty": 7200,
+                    "askQty": 23400,
+                    "bidQty": 14400,
                     "bidprice": 0.45,
                     "change": -0.2,
                     "changeinOpenInterest": -54,
@@ -886,17 +886,17 @@
                     "pChange": -30.76923076923077,
                     "pchangeinOpenInterest": -3.057757644394111,
                     "strikePrice": 450,
-                    "totalBuyQuantity": 950400,
-                    "totalSellQuantity": 435600,
-                    "totalTradedVolume": 189,
+                    "totalBuyQuantity": 961200,
+                    "totalSellQuantity": 437400,
+                    "totalTradedVolume": 191,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
-                    "askPrice": 47.15,
+                    "askPrice": 47,
                     "askQty": 1800,
                     "bidQty": 1800,
-                    "bidprice": 46.35,
+                    "bidprice": 46.2,
                     "change": 1.9499999999999957,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -908,10 +908,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 450,
                     "totalBuyQuantity": 126000,
-                    "totalSellQuantity": 127800,
+                    "totalSellQuantity": 122400,
                     "totalTradedVolume": 1,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 450
@@ -919,8 +919,8 @@
             {
                 "CE": {
                     "askPrice": 0.3,
-                    "askQty": 19800,
-                    "bidQty": 14400,
+                    "askQty": 18000,
+                    "bidQty": 25200,
                     "bidprice": 0.25,
                     "change": -0.15000000000000002,
                     "changeinOpenInterest": -12,
@@ -932,17 +932,17 @@
                     "pChange": -37.50000000000001,
                     "pchangeinOpenInterest": -2.0547945205479454,
                     "strikePrice": 460,
-                    "totalBuyQuantity": 266400,
-                    "totalSellQuantity": 300600,
+                    "totalBuyQuantity": 230400,
+                    "totalSellQuantity": 286200,
                     "totalTradedVolume": 53,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
-                    "askPrice": 57.65,
+                    "askPrice": 57.6,
                     "askQty": 1800,
                     "bidQty": 5400,
-                    "bidprice": 54.9,
+                    "bidprice": 54.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -953,11 +953,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 460,
-                    "totalBuyQuantity": 131400,
-                    "totalSellQuantity": 115200,
+                    "totalBuyQuantity": 138600,
+                    "totalSellQuantity": 122400,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 460
@@ -982,13 +982,13 @@
                     "totalSellQuantity": 178200,
                     "totalTradedVolume": 6,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
-                    "askPrice": 67.35,
+                    "askPrice": 67.7,
                     "askQty": 5400,
                     "bidQty": 5400,
-                    "bidprice": 64.4,
+                    "bidprice": 64.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -999,11 +999,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 470,
-                    "totalBuyQuantity": 77400,
-                    "totalSellQuantity": 75600,
+                    "totalBuyQuantity": 82800,
+                    "totalSellQuantity": 81000,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 470
@@ -1012,7 +1012,7 @@
                 "CE": {
                     "askPrice": 0.1,
                     "askQty": 64800,
-                    "bidQty": 75600,
+                    "bidQty": 77400,
                     "bidprice": 0.05,
                     "change": 0,
                     "changeinOpenInterest": -2,
@@ -1024,17 +1024,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": -0.32,
                     "strikePrice": 480,
-                    "totalBuyQuantity": 75600,
-                    "totalSellQuantity": 304200,
+                    "totalBuyQuantity": 77400,
+                    "totalSellQuantity": 309600,
                     "totalTradedVolume": 16,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
                     "askPrice": 77.55,
                     "askQty": 5400,
                     "bidQty": 5400,
-                    "bidprice": 74.3,
+                    "bidprice": 74.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1045,11 +1045,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 480,
-                    "totalBuyQuantity": 75600,
+                    "totalBuyQuantity": 81000,
                     "totalSellQuantity": 70200,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 480
@@ -1078,7 +1078,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 240
@@ -1103,7 +1103,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 250
@@ -1128,7 +1128,7 @@
                     "totalSellQuantity": 54000,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 260
@@ -1153,7 +1153,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 270
@@ -1178,7 +1178,7 @@
                     "totalSellQuantity": 54000,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1199,7 +1199,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 280
@@ -1224,7 +1224,7 @@
                     "totalSellQuantity": 64800,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 403.9
                 },
                 "PE": {
                     "askPrice": 1.95,
@@ -1245,14 +1245,14 @@
                     "totalSellQuantity": 18000,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 290
             },
             {
                 "CE": {
-                    "askPrice": 106.65,
+                    "askPrice": 105.9,
                     "askQty": 1800,
                     "bidQty": 10800,
                     "bidprice": 101.6,
@@ -1267,18 +1267,18 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 300,
                     "totalBuyQuantity": 64800,
-                    "totalSellQuantity": 68400,
+                    "totalSellQuantity": 70200,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 300
             },
             {
                 "CE": {
-                    "askPrice": 116.4,
-                    "askQty": 5400,
+                    "askPrice": 116.45,
+                    "askQty": 54000,
                     "bidQty": 7200,
                     "bidprice": 102.55,
                     "change": 0,
@@ -1292,10 +1292,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 300,
                     "totalBuyQuantity": 61200,
-                    "totalSellQuantity": 59400,
+                    "totalSellQuantity": 54000,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
                     "askPrice": 1.95,
@@ -1316,14 +1316,14 @@
                     "totalSellQuantity": 5400,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 300
             },
             {
                 "CE": {
-                    "askPrice": 95.9,
+                    "askPrice": 96,
                     "askQty": 5400,
                     "bidQty": 5400,
                     "bidprice": 92.35,
@@ -1338,14 +1338,14 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 310,
                     "totalBuyQuantity": 72000,
-                    "totalSellQuantity": 77400,
+                    "totalSellQuantity": 75600,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
                     "askPrice": 0.25,
-                    "askQty": 28800,
+                    "askQty": 25200,
                     "bidQty": 10800,
                     "bidprice": 0.15,
                     "change": 0,
@@ -1359,20 +1359,20 @@
                     "pchangeinOpenInterest": 9.375,
                     "strikePrice": 310,
                     "totalBuyQuantity": 34200,
-                    "totalSellQuantity": 214200,
+                    "totalSellQuantity": 216000,
                     "totalTradedVolume": 6,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 310
             },
             {
                 "CE": {
-                    "askPrice": 106.2,
+                    "askPrice": 105.3,
                     "askQty": 5400,
-                    "bidQty": 5400,
-                    "bidprice": 93.35,
+                    "bidQty": 54000,
+                    "bidprice": 90,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -1383,11 +1383,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 310,
-                    "totalBuyQuantity": 61200,
-                    "totalSellQuantity": 59400,
+                    "totalBuyQuantity": 54000,
+                    "totalSellQuantity": 61200,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 403.9
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1408,7 +1408,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 310
@@ -1433,7 +1433,7 @@
                     "totalSellQuantity": 54000,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1454,7 +1454,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 320
@@ -1479,12 +1479,12 @@
                     "totalSellQuantity": 75600,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
-                    "askPrice": 0.35,
-                    "askQty": 5400,
-                    "bidQty": 3600,
+                    "askPrice": 0.3,
+                    "askQty": 1800,
+                    "bidQty": 1800,
                     "bidprice": 0.15,
                     "change": -0.04999999999999999,
                     "changeinOpenInterest": 0,
@@ -1496,11 +1496,11 @@
                     "pChange": -19.999999999999996,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 320,
-                    "totalBuyQuantity": 36000,
-                    "totalSellQuantity": 219600,
+                    "totalBuyQuantity": 34200,
+                    "totalSellQuantity": 223200,
                     "totalTradedVolume": 1,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 320
@@ -1525,7 +1525,7 @@
                     "totalSellQuantity": 54000,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1546,17 +1546,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 330
             },
             {
                 "CE": {
-                    "askPrice": 76.35,
+                    "askPrice": 75.7,
                     "askQty": 5400,
-                    "bidQty": 5400,
-                    "bidprice": 72.5,
+                    "bidQty": 1800,
+                    "bidprice": 72.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1567,11 +1567,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 330,
-                    "totalBuyQuantity": 70200,
-                    "totalSellQuantity": 75600,
+                    "totalBuyQuantity": 72000,
+                    "totalSellQuantity": 70200,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
                     "askPrice": 0.35,
@@ -1588,21 +1588,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 330,
-                    "totalBuyQuantity": 95400,
+                    "totalBuyQuantity": 109800,
                     "totalSellQuantity": 180000,
                     "totalTradedVolume": 2,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 330
             },
             {
                 "CE": {
-                    "askPrice": 65.25,
+                    "askPrice": 65.65,
                     "askQty": 5400,
                     "bidQty": 1800,
-                    "bidprice": 63.35,
+                    "bidprice": 63.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1614,15 +1614,15 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 340,
                     "totalBuyQuantity": 72000,
-                    "totalSellQuantity": 75600,
+                    "totalSellQuantity": 81000,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
                     "askPrice": 0.4,
                     "askQty": 9000,
-                    "bidQty": 61200,
+                    "bidQty": 72000,
                     "bidprice": 0.3,
                     "change": -0.04999999999999999,
                     "changeinOpenInterest": -10,
@@ -1638,7 +1638,7 @@
                     "totalSellQuantity": 252000,
                     "totalTradedVolume": 51,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 340
@@ -1663,7 +1663,7 @@
                     "totalSellQuantity": 59400,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
                     "askPrice": 8.3,
@@ -1684,17 +1684,17 @@
                     "totalSellQuantity": 59400,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.3
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 340
             },
             {
                 "CE": {
-                    "askPrice": 54.95,
+                    "askPrice": 54.6,
                     "askQty": 1800,
                     "bidQty": 1800,
-                    "bidprice": 53.75,
+                    "bidprice": 53.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1706,15 +1706,15 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 350,
                     "totalBuyQuantity": 117000,
-                    "totalSellQuantity": 122400,
+                    "totalSellQuantity": 118800,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
                     "askPrice": 0.5,
-                    "askQty": 57600,
-                    "bidQty": 10800,
+                    "askQty": 66600,
+                    "bidQty": 21600,
                     "bidprice": 0.45,
                     "change": -0.04999999999999999,
                     "changeinOpenInterest": -5,
@@ -1727,20 +1727,20 @@
                     "pchangeinOpenInterest": -0.6361323155216285,
                     "strikePrice": 350,
                     "totalBuyQuantity": 338400,
-                    "totalSellQuantity": 320400,
+                    "totalSellQuantity": 316800,
                     "totalTradedVolume": 11,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 350
             },
             {
                 "CE": {
-                    "askPrice": 59.3,
-                    "askQty": 3600,
+                    "askPrice": 60.3,
+                    "askQty": 5400,
                     "bidQty": 5400,
-                    "bidprice": 57.15,
+                    "bidprice": 53.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -1751,14 +1751,14 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 350,
-                    "totalBuyQuantity": 59400,
-                    "totalSellQuantity": 57600,
+                    "totalBuyQuantity": 64800,
+                    "totalSellQuantity": 59400,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
-                    "askPrice": 2.2,
+                    "askPrice": 2.25,
                     "askQty": 1800,
                     "bidQty": 1800,
                     "bidprice": 1.95,
@@ -1772,21 +1772,21 @@
                     "pChange": 5.263157894736848,
                     "pchangeinOpenInterest": 1.3888888888888888,
                     "strikePrice": 350,
-                    "totalBuyQuantity": 162000,
-                    "totalSellQuantity": 99000,
+                    "totalBuyQuantity": 129600,
+                    "totalSellQuantity": 70200,
                     "totalTradedVolume": 4,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 350
             },
             {
                 "CE": {
-                    "askPrice": 44.7,
-                    "askQty": 3600,
+                    "askPrice": 44.8,
+                    "askQty": 1800,
                     "bidQty": 1800,
-                    "bidprice": 43.9,
+                    "bidprice": 44,
                     "change": 0.8499999999999943,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1797,16 +1797,16 @@
                     "pChange": 1.8498367791077133,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 360,
-                    "totalBuyQuantity": 126000,
-                    "totalSellQuantity": 118800,
+                    "totalBuyQuantity": 131400,
+                    "totalSellQuantity": 115200,
                     "totalTradedVolume": 1,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
-                    "askPrice": 0.6,
-                    "askQty": 10800,
-                    "bidQty": 3600,
+                    "askPrice": 0.55,
+                    "askQty": 14400,
+                    "bidQty": 1800,
                     "bidprice": 0.5,
                     "change": -0.050000000000000044,
                     "changeinOpenInterest": -1,
@@ -1819,20 +1819,20 @@
                     "pchangeinOpenInterest": -0.24937655860349128,
                     "strikePrice": 360,
                     "totalBuyQuantity": 196200,
-                    "totalSellQuantity": 252000,
+                    "totalSellQuantity": 250200,
                     "totalTradedVolume": 10,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 360
             },
             {
                 "CE": {
-                    "askPrice": 56,
+                    "askPrice": 55.8,
                     "askQty": 5400,
-                    "bidQty": 5400,
-                    "bidprice": 41.6,
+                    "bidQty": 54000,
+                    "bidprice": 40.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -1843,11 +1843,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 360,
-                    "totalBuyQuantity": 61200,
+                    "totalBuyQuantity": 54000,
                     "totalSellQuantity": 59400,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
                     "askPrice": 2.9,
@@ -1865,20 +1865,20 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 360,
                     "totalBuyQuantity": 138600,
-                    "totalSellQuantity": 149400,
+                    "totalSellQuantity": 147600,
                     "totalTradedVolume": 1,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 360
             },
             {
                 "CE": {
-                    "askPrice": 34.7,
-                    "askQty": 3600,
-                    "bidQty": 1800,
-                    "bidprice": 34.1,
+                    "askPrice": 34.65,
+                    "askQty": 1800,
+                    "bidQty": 3600,
+                    "bidprice": 34.25,
                     "change": 1.2999999999999972,
                     "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
@@ -1889,15 +1889,15 @@
                     "pChange": 3.5763411279229635,
                     "pchangeinOpenInterest": -2.158273381294964,
                     "strikePrice": 370,
-                    "totalBuyQuantity": 135000,
-                    "totalSellQuantity": 136800,
+                    "totalBuyQuantity": 129600,
+                    "totalSellQuantity": 122400,
                     "totalTradedVolume": 6,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
                     "askPrice": 0.65,
-                    "askQty": 9000,
+                    "askQty": 7200,
                     "bidQty": 14400,
                     "bidprice": 0.6,
                     "change": 0,
@@ -1910,21 +1910,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": -0.47619047619047616,
                     "strikePrice": 370,
-                    "totalBuyQuantity": 421200,
-                    "totalSellQuantity": 322200,
-                    "totalTradedVolume": 65,
+                    "totalBuyQuantity": 424800,
+                    "totalSellQuantity": 315000,
+                    "totalTradedVolume": 71,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 370
             },
             {
                 "CE": {
-                    "askPrice": 46.9,
-                    "askQty": 5400,
-                    "bidQty": 7200,
-                    "bidprice": 30.65,
+                    "askPrice": 47.15,
+                    "askQty": 1800,
+                    "bidQty": 0,
+                    "bidprice": 0,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -1935,42 +1935,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 370,
-                    "totalBuyQuantity": 9000,
-                    "totalSellQuantity": 61200,
+                    "totalBuyQuantity": 0,
+                    "totalSellQuantity": 55800,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
                     "askPrice": 4.4,
                     "askQty": 1800,
-                    "bidQty": 3600,
-                    "bidprice": 4.2,
-                    "change": 0.6500000000000004,
+                    "bidQty": 1800,
+                    "bidprice": 4.1,
+                    "change": 0.7000000000000002,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKAMBUJACEM29-06-2023PE370.00",
-                    "impliedVolatility": 32.27,
-                    "lastPrice": 4.2,
+                    "impliedVolatility": 32.54,
+                    "lastPrice": 4.25,
                     "openInterest": 7,
-                    "pChange": 18.30985915492959,
+                    "pChange": 19.718309859154935,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 370,
-                    "totalBuyQuantity": 142200,
-                    "totalSellQuantity": 136800,
-                    "totalTradedVolume": 2,
+                    "totalBuyQuantity": 163800,
+                    "totalSellQuantity": 165600,
+                    "totalTradedVolume": 3,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.3
+                    "underlyingValue": 403.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 370
             },
             {
                 "CE": {
-                    "askPrice": 25.6,
+                    "askPrice": 25.25,
                     "askQty": 1800,
                     "bidQty": 1800,
-                    "bidprice": 24.8,
+                    "bidprice": 24.55,
                     "change": -1,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1981,16 +1981,16 @@
                     "pChange": -3.7037037037037033,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 380,
-                    "totalBuyQuantity": 142200,
-                    "totalSellQuantity": 145800,
+                    "totalBuyQuantity": 149400,
+                    "totalSellQuantity": 144000,
                     "totalTradedVolume": 4,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
                     "askPrice": 1.2,
                     "askQty": 12600,
-                    "bidQty": 12600,
+                    "bidQty": 14400,
                     "bidprice": 1.1,
                     "change": 0.04999999999999982,
                     "changeinOpenInterest": -10,
@@ -2002,11 +2002,11 @@
                     "pChange": 4.545454545454529,
                     "pchangeinOpenInterest": -1.5432098765432098,
                     "strikePrice": 380,
-                    "totalBuyQuantity": 1234800,
-                    "totalSellQuantity": 412200,
+                    "totalBuyQuantity": 1227600,
+                    "totalSellQuantity": 405000,
                     "totalTradedVolume": 127,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 380
@@ -2015,8 +2015,8 @@
                 "CE": {
                     "askPrice": 39.55,
                     "askQty": 7200,
-                    "bidQty": 5400,
-                    "bidprice": 23.4,
+                    "bidQty": 0,
+                    "bidprice": 0,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2027,11 +2027,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 380,
-                    "totalBuyQuantity": 5400,
+                    "totalBuyQuantity": 0,
                     "totalSellQuantity": 61200,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
                     "askPrice": 6.65,
@@ -2052,60 +2052,60 @@
                     "totalSellQuantity": 118800,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 380
             },
             {
                 "CE": {
-                    "askPrice": 16.15,
+                    "askPrice": 16,
                     "askQty": 1800,
-                    "bidQty": 3600,
-                    "bidprice": 15.9,
-                    "change": -1.3999999999999986,
+                    "bidQty": 7200,
+                    "bidprice": 15.7,
+                    "change": -1.8499999999999996,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKAMBUJACEM25-05-2023CE390.00",
                     "impliedVolatility": 28.85,
-                    "lastPrice": 16.35,
+                    "lastPrice": 15.9,
                     "openInterest": 427,
-                    "pChange": -7.887323943661964,
+                    "pChange": -10.422535211267604,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 390,
                     "totalBuyQuantity": 163800,
                     "totalSellQuantity": 113400,
-                    "totalTradedVolume": 46,
+                    "totalTradedVolume": 47,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 403.9
                 },
                 "PE": {
                     "askPrice": 2.1,
-                    "askQty": 7200,
+                    "askQty": 10800,
                     "bidQty": 10800,
                     "bidprice": 2,
-                    "change": 0.24999999999999978,
+                    "change": 0.30000000000000004,
                     "changeinOpenInterest": -8,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKAMBUJACEM25-05-2023PE390.00",
                     "impliedVolatility": 33.54,
-                    "lastPrice": 2.05,
+                    "lastPrice": 2.1,
                     "openInterest": 761,
-                    "pChange": 13.888888888888875,
+                    "pChange": 16.666666666666668,
                     "pchangeinOpenInterest": -1.0403120936280885,
                     "strikePrice": 390,
-                    "totalBuyQuantity": 318600,
-                    "totalSellQuantity": 390600,
-                    "totalTradedVolume": 196,
+                    "totalBuyQuantity": 309600,
+                    "totalSellQuantity": 396000,
+                    "totalTradedVolume": 201,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 390
             },
             {
                 "CE": {
-                    "askPrice": 26.9,
+                    "askPrice": 26.85,
                     "askQty": 1800,
                     "bidQty": 5400,
                     "bidprice": 17.6,
@@ -2120,108 +2120,108 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 390,
                     "totalBuyQuantity": 5400,
-                    "totalSellQuantity": 55800,
+                    "totalSellQuantity": 57600,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
-                    "askPrice": 9.35,
+                    "askPrice": 9.4,
                     "askQty": 1800,
                     "bidQty": 1800,
-                    "bidprice": 9.2,
-                    "change": 0.9499999999999993,
+                    "bidprice": 9.25,
+                    "change": 1.049999999999999,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKAMBUJACEM29-06-2023PE390.00",
                     "impliedVolatility": 31.85,
-                    "lastPrice": 9.25,
+                    "lastPrice": 9.35,
                     "openInterest": 16,
-                    "pChange": 11.445783132530112,
+                    "pChange": 12.65060240963854,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 390,
-                    "totalBuyQuantity": 126000,
+                    "totalBuyQuantity": 124200,
                     "totalSellQuantity": 120600,
-                    "totalTradedVolume": 1,
+                    "totalTradedVolume": 2,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 390
             },
             {
                 "CE": {
-                    "askPrice": 9.45,
-                    "askQty": 3600,
-                    "bidQty": 5400,
-                    "bidprice": 9.25,
-                    "change": -1.5500000000000007,
-                    "changeinOpenInterest": -44,
+                    "askPrice": 9.2,
+                    "askQty": 7200,
+                    "bidQty": 3600,
+                    "bidprice": 9.05,
+                    "change": -1.6500000000000004,
+                    "changeinOpenInterest": -34,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKAMBUJACEM25-05-2023CE400.00",
                     "impliedVolatility": 30.49,
-                    "lastPrice": 9.2,
-                    "openInterest": 1856,
-                    "pChange": -14.418604651162797,
-                    "pchangeinOpenInterest": -2.3157894736842106,
+                    "lastPrice": 9.1,
+                    "openInterest": 1866,
+                    "pChange": -15.34883720930233,
+                    "pchangeinOpenInterest": -1.7894736842105263,
                     "strikePrice": 400,
-                    "totalBuyQuantity": 293400,
-                    "totalSellQuantity": 500400,
-                    "totalTradedVolume": 810,
+                    "totalBuyQuantity": 270000,
+                    "totalSellQuantity": 511200,
+                    "totalTradedVolume": 837,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
-                    "askPrice": 5.2,
-                    "askQty": 1800,
-                    "bidQty": 14400,
-                    "bidprice": 5.05,
-                    "change": 0.8999999999999995,
-                    "changeinOpenInterest": -5,
+                    "askPrice": 5.35,
+                    "askQty": 5400,
+                    "bidQty": 3600,
+                    "bidprice": 5.2,
+                    "change": 0.7999999999999998,
+                    "changeinOpenInterest": -10,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKAMBUJACEM25-05-2023PE400.00",
                     "impliedVolatility": 33.15,
-                    "lastPrice": 5.3,
-                    "openInterest": 1162,
-                    "pChange": 20.454545454545443,
-                    "pchangeinOpenInterest": -0.4284490145672665,
+                    "lastPrice": 5.2,
+                    "openInterest": 1157,
+                    "pChange": 18.181818181818176,
+                    "pchangeinOpenInterest": -0.856898029134533,
                     "strikePrice": 400,
-                    "totalBuyQuantity": 367200,
-                    "totalSellQuantity": 370800,
-                    "totalTradedVolume": 403,
+                    "totalBuyQuantity": 376200,
+                    "totalSellQuantity": 354600,
+                    "totalTradedVolume": 424,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 400
             },
             {
                 "CE": {
-                    "askPrice": 20.4,
+                    "askPrice": 20.8,
                     "askQty": 1800,
-                    "bidQty": 1800,
-                    "bidprice": 19.95,
-                    "change": -1.8500000000000014,
-                    "changeinOpenInterest": 5,
+                    "bidQty": 3600,
+                    "bidprice": 20.3,
+                    "change": -1.6000000000000014,
+                    "changeinOpenInterest": 9,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKAMBUJACEM29-06-2023CE400.00",
                     "impliedVolatility": 28.48,
-                    "lastPrice": 20,
-                    "openInterest": 126,
-                    "pChange": -8.46681922196797,
-                    "pchangeinOpenInterest": 4.132231404958677,
+                    "lastPrice": 20.25,
+                    "openInterest": 130,
+                    "pChange": -7.322654462242569,
+                    "pchangeinOpenInterest": 7.43801652892562,
                     "strikePrice": 400,
-                    "totalBuyQuantity": 144000,
-                    "totalSellQuantity": 138600,
-                    "totalTradedVolume": 42,
+                    "totalBuyQuantity": 145800,
+                    "totalSellQuantity": 140400,
+                    "totalTradedVolume": 45,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
-                    "askPrice": 13.55,
+                    "askPrice": 13.6,
                     "askQty": 1800,
                     "bidQty": 1800,
-                    "bidprice": 13.15,
+                    "bidprice": 13.25,
                     "change": 1.200000000000001,
                     "changeinOpenInterest": 4,
                     "expiryDate": "29-Jun-2023",
@@ -2232,67 +2232,67 @@
                     "pChange": 9.836065573770501,
                     "pchangeinOpenInterest": 3.4782608695652173,
                     "strikePrice": 400,
-                    "totalBuyQuantity": 201600,
+                    "totalBuyQuantity": 199800,
                     "totalSellQuantity": 189000,
                     "totalTradedVolume": 10,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 403.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 400
             },
             {
                 "CE": {
-                    "askPrice": 5.3,
-                    "askQty": 7200,
-                    "bidQty": 1800,
-                    "bidprice": 5.2,
-                    "change": -0.8999999999999995,
-                    "changeinOpenInterest": 125,
+                    "askPrice": 5.1,
+                    "askQty": 1800,
+                    "bidQty": 7200,
+                    "bidprice": 5,
+                    "change": -1.0999999999999996,
+                    "changeinOpenInterest": 127,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKAMBUJACEM25-05-2023CE410.00",
                     "impliedVolatility": 33.39,
-                    "lastPrice": 5.2,
-                    "openInterest": 1826,
-                    "pChange": -14.754098360655728,
-                    "pchangeinOpenInterest": 7.348618459729571,
+                    "lastPrice": 5,
+                    "openInterest": 1828,
+                    "pChange": -18.032786885245898,
+                    "pchangeinOpenInterest": 7.466196355085244,
                     "strikePrice": 410,
-                    "totalBuyQuantity": 320400,
-                    "totalSellQuantity": 840600,
-                    "totalTradedVolume": 786,
+                    "totalBuyQuantity": 291600,
+                    "totalSellQuantity": 838800,
+                    "totalTradedVolume": 808,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
-                    "askPrice": 11.4,
-                    "askQty": 7200,
-                    "bidQty": 3600,
-                    "bidprice": 11.15,
+                    "askPrice": 11.25,
+                    "askQty": 5400,
+                    "bidQty": 5400,
+                    "bidprice": 11,
                     "change": 1.549999999999999,
-                    "changeinOpenInterest": 1,
+                    "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKAMBUJACEM25-05-2023PE410.00",
                     "impliedVolatility": 37.91,
                     "lastPrice": 11.2,
-                    "openInterest": 518,
+                    "openInterest": 519,
                     "pChange": 16.062176165803095,
-                    "pchangeinOpenInterest": 0.19342359767891681,
+                    "pchangeinOpenInterest": 0.38684719535783363,
                     "strikePrice": 410,
-                    "totalBuyQuantity": 212400,
-                    "totalSellQuantity": 174600,
-                    "totalTradedVolume": 140,
+                    "totalBuyQuantity": 205200,
+                    "totalSellQuantity": 171000,
+                    "totalTradedVolume": 147,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 410
             },
             {
                 "CE": {
-                    "askPrice": 15.8,
-                    "askQty": 3600,
-                    "bidQty": 3600,
-                    "bidprice": 15.15,
+                    "askPrice": 15.75,
+                    "askQty": 1800,
+                    "bidQty": 1800,
+                    "bidprice": 15.25,
                     "change": -0.7999999999999989,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2303,14 +2303,14 @@
                     "pChange": -4.8780487804877986,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 410,
-                    "totalBuyQuantity": 140400,
+                    "totalBuyQuantity": 142200,
                     "totalSellQuantity": 91800,
                     "totalTradedVolume": 9,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
-                    "askPrice": 18.85,
+                    "askPrice": 18.9,
                     "askQty": 1800,
                     "bidQty": 1800,
                     "bidprice": 18.25,
@@ -2324,11 +2324,11 @@
                     "pChange": -5.684754521963831,
                     "pchangeinOpenInterest": 18.75,
                     "strikePrice": 410,
-                    "totalBuyQuantity": 79200,
-                    "totalSellQuantity": 81000,
+                    "totalBuyQuantity": 81000,
+                    "totalSellQuantity": 82800,
                     "totalTradedVolume": 5,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 410
@@ -2336,55 +2336,55 @@
             {
                 "CE": {
                     "askPrice": 2.5,
-                    "askQty": 3600,
-                    "bidQty": 16200,
+                    "askQty": 7200,
+                    "bidQty": 19800,
                     "bidprice": 2.4,
                     "change": -0.6999999999999997,
-                    "changeinOpenInterest": 52,
+                    "changeinOpenInterest": 57,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKAMBUJACEM25-05-2023CE420.00",
                     "impliedVolatility": 34.81,
                     "lastPrice": 2.45,
-                    "openInterest": 2033,
+                    "openInterest": 2038,
                     "pChange": -22.222222222222214,
-                    "pchangeinOpenInterest": 2.624936900555275,
+                    "pchangeinOpenInterest": 2.8773346794548207,
                     "strikePrice": 420,
-                    "totalBuyQuantity": 300600,
-                    "totalSellQuantity": 943200,
-                    "totalTradedVolume": 502,
+                    "totalBuyQuantity": 279000,
+                    "totalSellQuantity": 936000,
+                    "totalTradedVolume": 508,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
-                    "askPrice": 18.7,
-                    "askQty": 7200,
+                    "askPrice": 18.75,
+                    "askQty": 3600,
                     "bidQty": 1800,
-                    "bidprice": 18.3,
-                    "change": 1.8999999999999986,
+                    "bidprice": 18.4,
+                    "change": 2.049999999999997,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKAMBUJACEM25-05-2023PE420.00",
                     "impliedVolatility": 40.44,
-                    "lastPrice": 18.5,
+                    "lastPrice": 18.65,
                     "openInterest": 211,
-                    "pChange": 11.445783132530112,
+                    "pChange": 12.349397590361427,
                     "pchangeinOpenInterest": 0.47619047619047616,
                     "strikePrice": 420,
-                    "totalBuyQuantity": 171000,
-                    "totalSellQuantity": 149400,
-                    "totalTradedVolume": 21,
+                    "totalBuyQuantity": 174600,
+                    "totalSellQuantity": 160200,
+                    "totalTradedVolume": 23,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 420
             },
             {
                 "CE": {
-                    "askPrice": 11.55,
-                    "askQty": 1800,
-                    "bidQty": 1800,
-                    "bidprice": 11.3,
+                    "askPrice": 11.7,
+                    "askQty": 3600,
+                    "bidQty": 3600,
+                    "bidprice": 11.45,
                     "change": -0.6500000000000004,
                     "changeinOpenInterest": 3,
                     "expiryDate": "29-Jun-2023",
@@ -2396,16 +2396,16 @@
                     "pchangeinOpenInterest": 1.9736842105263157,
                     "strikePrice": 420,
                     "totalBuyQuantity": 194400,
-                    "totalSellQuantity": 153000,
+                    "totalSellQuantity": 154800,
                     "totalTradedVolume": 47,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
                     "askPrice": 25.3,
                     "askQty": 1800,
-                    "bidQty": 5400,
-                    "bidprice": 19,
+                    "bidQty": 0,
+                    "bidprice": 0,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2416,11 +2416,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 420,
-                    "totalBuyQuantity": 7200,
+                    "totalBuyQuantity": 0,
                     "totalSellQuantity": 55800,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 420
@@ -2429,29 +2429,29 @@
                 "CE": {
                     "askPrice": 1.2,
                     "askQty": 10800,
-                    "bidQty": 3600,
-                    "bidprice": 1.15,
-                    "change": -0.4500000000000002,
+                    "bidQty": 27000,
+                    "bidprice": 1.1,
+                    "change": -0.40000000000000013,
                     "changeinOpenInterest": 5,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKAMBUJACEM25-05-2023CE430.00",
                     "impliedVolatility": 35.82,
-                    "lastPrice": 1.15,
+                    "lastPrice": 1.2,
                     "openInterest": 852,
-                    "pChange": -28.12500000000001,
+                    "pChange": -25.000000000000007,
                     "pchangeinOpenInterest": 0.5903187721369539,
                     "strikePrice": 430,
-                    "totalBuyQuantity": 1184400,
-                    "totalSellQuantity": 414000,
-                    "totalTradedVolume": 197,
+                    "totalBuyQuantity": 1132200,
+                    "totalSellQuantity": 410400,
+                    "totalTradedVolume": 198,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
-                    "askPrice": 27.45,
+                    "askPrice": 27.55,
                     "askQty": 1800,
-                    "bidQty": 5400,
-                    "bidprice": 26.9,
+                    "bidQty": 1800,
+                    "bidprice": 27,
                     "change": 2.1499999999999986,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2462,18 +2462,18 @@
                     "pChange": 8.651911468812871,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 430,
-                    "totalBuyQuantity": 147600,
-                    "totalSellQuantity": 127800,
+                    "totalBuyQuantity": 138600,
+                    "totalSellQuantity": 135000,
                     "totalTradedVolume": 3,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 403.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 430
             },
             {
                 "CE": {
-                    "askPrice": 8.55,
+                    "askPrice": 8.7,
                     "askQty": 1800,
                     "bidQty": 1800,
                     "bidprice": 8.15,
@@ -2487,17 +2487,17 @@
                     "pChange": -6.07734806629835,
                     "pchangeinOpenInterest": 1.2820512820512822,
                     "strikePrice": 430,
-                    "totalBuyQuantity": 140400,
+                    "totalBuyQuantity": 138600,
                     "totalSellQuantity": 147600,
                     "totalTradedVolume": 7,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
-                    "askPrice": 37,
-                    "askQty": 5400,
+                    "askPrice": 35.35,
+                    "askQty": 7200,
                     "bidQty": 5400,
-                    "bidprice": 22.45,
+                    "bidprice": 24.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2509,10 +2509,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 430,
                     "totalBuyQuantity": 7200,
-                    "totalSellQuantity": 61200,
+                    "totalSellQuantity": 63000,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 403.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 430
@@ -2521,7 +2521,7 @@
                 "CE": {
                     "askPrice": 0.7,
                     "askQty": 10800,
-                    "bidQty": 23400,
+                    "bidQty": 25200,
                     "bidprice": 0.65,
                     "change": -0.25,
                     "changeinOpenInterest": -28,
@@ -2534,14 +2534,14 @@
                     "pchangeinOpenInterest": -3.2941176470588234,
                     "strikePrice": 440,
                     "totalBuyQuantity": 1117800,
-                    "totalSellQuantity": 489600,
+                    "totalSellQuantity": 487800,
                     "totalTradedVolume": 151,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
                     "askPrice": 36.95,
-                    "askQty": 1800,
+                    "askQty": 3600,
                     "bidQty": 9000,
                     "bidprice": 35.85,
                     "change": 0,
@@ -2555,10 +2555,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 440,
                     "totalBuyQuantity": 138600,
-                    "totalSellQuantity": 127800,
+                    "totalSellQuantity": 129600,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 440
@@ -2579,17 +2579,17 @@
                     "pChange": -11.67883211678832,
                     "pchangeinOpenInterest": 6.666666666666667,
                     "strikePrice": 440,
-                    "totalBuyQuantity": 147600,
+                    "totalBuyQuantity": 145800,
                     "totalSellQuantity": 140400,
                     "totalTradedVolume": 10,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
-                    "askPrice": 44.6,
+                    "askPrice": 48.8,
                     "askQty": 5400,
                     "bidQty": 5400,
-                    "bidprice": 29.05,
+                    "bidprice": 28.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2604,7 +2604,7 @@
                     "totalSellQuantity": 59400,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 440
@@ -2612,8 +2612,8 @@
             {
                 "CE": {
                     "askPrice": 0.5,
-                    "askQty": 21600,
-                    "bidQty": 7200,
+                    "askQty": 23400,
+                    "bidQty": 14400,
                     "bidprice": 0.45,
                     "change": -0.2,
                     "changeinOpenInterest": -54,
@@ -2625,17 +2625,17 @@
                     "pChange": -30.76923076923077,
                     "pchangeinOpenInterest": -3.057757644394111,
                     "strikePrice": 450,
-                    "totalBuyQuantity": 950400,
-                    "totalSellQuantity": 435600,
-                    "totalTradedVolume": 189,
+                    "totalBuyQuantity": 961200,
+                    "totalSellQuantity": 437400,
+                    "totalTradedVolume": 191,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
-                    "askPrice": 47.15,
+                    "askPrice": 47,
                     "askQty": 1800,
                     "bidQty": 1800,
-                    "bidprice": 46.35,
+                    "bidprice": 46.2,
                     "change": 1.9499999999999957,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2647,19 +2647,19 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 450,
                     "totalBuyQuantity": 126000,
-                    "totalSellQuantity": 127800,
+                    "totalSellQuantity": 122400,
                     "totalTradedVolume": 1,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 450
             },
             {
                 "CE": {
-                    "askPrice": 4.4,
+                    "askPrice": 4.75,
                     "askQty": 1800,
-                    "bidQty": 3600,
+                    "bidQty": 1800,
                     "bidprice": 4.25,
                     "change": -0.7000000000000002,
                     "changeinOpenInterest": 6,
@@ -2671,17 +2671,17 @@
                     "pChange": -13.861386138613865,
                     "pchangeinOpenInterest": 6.122448979591836,
                     "strikePrice": 450,
-                    "totalBuyQuantity": 151200,
-                    "totalSellQuantity": 154800,
-                    "totalTradedVolume": 18,
+                    "totalBuyQuantity": 156600,
+                    "totalSellQuantity": 156600,
+                    "totalTradedVolume": 19,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
-                    "askPrice": 48.5,
+                    "askPrice": 48.3,
                     "askQty": 3600,
-                    "bidQty": 5400,
-                    "bidprice": 41.05,
+                    "bidQty": 1800,
+                    "bidprice": 45.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2692,11 +2692,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 450,
-                    "totalBuyQuantity": 66600,
+                    "totalBuyQuantity": 55800,
                     "totalSellQuantity": 59400,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 450
@@ -2704,8 +2704,8 @@
             {
                 "CE": {
                     "askPrice": 0.3,
-                    "askQty": 19800,
-                    "bidQty": 14400,
+                    "askQty": 18000,
+                    "bidQty": 25200,
                     "bidprice": 0.25,
                     "change": -0.15000000000000002,
                     "changeinOpenInterest": -12,
@@ -2717,17 +2717,17 @@
                     "pChange": -37.50000000000001,
                     "pchangeinOpenInterest": -2.0547945205479454,
                     "strikePrice": 460,
-                    "totalBuyQuantity": 266400,
-                    "totalSellQuantity": 300600,
+                    "totalBuyQuantity": 230400,
+                    "totalSellQuantity": 286200,
                     "totalTradedVolume": 53,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
-                    "askPrice": 57.65,
+                    "askPrice": 57.6,
                     "askQty": 1800,
                     "bidQty": 5400,
-                    "bidprice": 54.9,
+                    "bidprice": 54.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2738,21 +2738,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 460,
-                    "totalBuyQuantity": 131400,
-                    "totalSellQuantity": 115200,
+                    "totalBuyQuantity": 138600,
+                    "totalSellQuantity": 122400,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 460
             },
             {
                 "CE": {
-                    "askPrice": 3.45,
+                    "askPrice": 3.6,
                     "askQty": 1800,
                     "bidQty": 1800,
-                    "bidprice": 2.9,
+                    "bidprice": 2.7,
                     "change": 0.30000000000000027,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2764,15 +2764,15 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 460,
                     "totalBuyQuantity": 144000,
-                    "totalSellQuantity": 135000,
+                    "totalSellQuantity": 131400,
                     "totalTradedVolume": 1,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
-                    "askPrice": 62.55,
-                    "askQty": 5400,
-                    "bidQty": 5400,
+                    "askPrice": 62.6,
+                    "askQty": 54000,
+                    "bidQty": 7200,
                     "bidprice": 47.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -2784,11 +2784,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 460,
-                    "totalBuyQuantity": 59400,
-                    "totalSellQuantity": 59400,
+                    "totalBuyQuantity": 61200,
+                    "totalSellQuantity": 54000,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 460
@@ -2813,13 +2813,13 @@
                     "totalSellQuantity": 178200,
                     "totalTradedVolume": 6,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
-                    "askPrice": 67.35,
+                    "askPrice": 67.7,
                     "askQty": 5400,
                     "bidQty": 5400,
-                    "bidprice": 64.4,
+                    "bidprice": 64.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2830,19 +2830,19 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 470,
-                    "totalBuyQuantity": 77400,
-                    "totalSellQuantity": 75600,
+                    "totalBuyQuantity": 82800,
+                    "totalSellQuantity": 81000,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 470
             },
             {
                 "CE": {
-                    "askPrice": 2.3,
-                    "askQty": 3600,
+                    "askPrice": 2.35,
+                    "askQty": 1800,
                     "bidQty": 1800,
                     "bidprice": 2.1,
                     "change": -0.19999999999999973,
@@ -2855,17 +2855,17 @@
                     "pChange": -8.695652173913032,
                     "pchangeinOpenInterest": 3.4482758620689653,
                     "strikePrice": 470,
-                    "totalBuyQuantity": 154800,
-                    "totalSellQuantity": 320400,
+                    "totalBuyQuantity": 153000,
+                    "totalSellQuantity": 318600,
                     "totalTradedVolume": 3,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
-                    "askPrice": 70.4,
-                    "askQty": 5400,
-                    "bidQty": 1800,
-                    "bidprice": 61.5,
+                    "askPrice": 70.45,
+                    "askQty": 54000,
+                    "bidQty": 54000,
+                    "bidprice": 57.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2876,11 +2876,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 470,
-                    "totalBuyQuantity": 61200,
-                    "totalSellQuantity": 59400,
+                    "totalBuyQuantity": 54000,
+                    "totalSellQuantity": 54000,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 470
@@ -2889,7 +2889,7 @@
                 "CE": {
                     "askPrice": 0.1,
                     "askQty": 64800,
-                    "bidQty": 75600,
+                    "bidQty": 77400,
                     "bidprice": 0.05,
                     "change": 0,
                     "changeinOpenInterest": -2,
@@ -2901,17 +2901,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": -0.32,
                     "strikePrice": 480,
-                    "totalBuyQuantity": 75600,
-                    "totalSellQuantity": 304200,
+                    "totalBuyQuantity": 77400,
+                    "totalSellQuantity": 309600,
                     "totalTradedVolume": 16,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "PE": {
                     "askPrice": 77.55,
                     "askQty": 5400,
                     "bidQty": 5400,
-                    "bidprice": 74.3,
+                    "bidprice": 74.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2922,11 +2922,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 480,
-                    "totalBuyQuantity": 75600,
+                    "totalBuyQuantity": 81000,
                     "totalSellQuantity": 70200,
                     "totalTradedVolume": 0,
                     "underlying": "AMBUJACEM",
-                    "underlyingValue": 404.2
+                    "underlyingValue": 404.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 480
@@ -2963,7 +2963,7 @@
             470,
             480
         ],
-        "timestamp": "18-May-2023 10:21:15",
-        "underlyingValue": 404.2
+        "timestamp": "18-May-2023 10:26:47",
+        "underlyingValue": 404.1
     }
 }

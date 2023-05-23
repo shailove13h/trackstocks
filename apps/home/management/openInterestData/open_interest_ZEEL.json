@@ -1,12 +1,12 @@
 {
     "filtered": {
         "CE": {
-            "totOI": 13280,
-            "totVol": 887
+            "totOI": 13270,
+            "totVol": 946
         },
         "PE": {
-            "totOI": 5263,
-            "totVol": 493
+            "totOI": 5259,
+            "totVol": 504
         },
         "data": [
             {
@@ -29,7 +29,7 @@
                     "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 0.9,
@@ -50,7 +50,7 @@
                     "totalSellQuantity": 258000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 145
@@ -75,7 +75,7 @@
                     "totalSellQuantity": 147000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 0.1,
@@ -86,7 +86,7 @@
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023PE150.00",
-                    "impliedVolatility": 69.54,
+                    "impliedVolatility": 69.26,
                     "lastPrice": 0.05,
                     "openInterest": 42,
                     "pChange": -50,
@@ -96,7 +96,7 @@
                     "totalSellQuantity": 198000,
                     "totalTradedVolume": 8,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 150
@@ -121,11 +121,11 @@
                     "totalSellQuantity": 147000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 0.9,
-                    "askQty": 12000,
+                    "askPrice": 0.8,
+                    "askQty": 6000,
                     "bidQty": 45000,
                     "bidprice": 0.05,
                     "change": 0,
@@ -139,20 +139,20 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 155,
                     "totalBuyQuantity": 45000,
-                    "totalSellQuantity": 141000,
+                    "totalSellQuantity": 21000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 155
             },
             {
                 "CE": {
-                    "askPrice": 35.65,
-                    "askQty": 120000,
+                    "askPrice": 33.9,
+                    "askQty": 9000,
                     "bidQty": 9000,
-                    "bidprice": 28.15,
+                    "bidprice": 29.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -163,17 +163,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 157.5,
-                    "totalBuyQuantity": 129000,
-                    "totalSellQuantity": 120000,
+                    "totalBuyQuantity": 147000,
+                    "totalSellQuantity": 147000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 1.55,
-                    "askQty": 120000,
-                    "bidQty": 0,
-                    "bidprice": 0,
+                    "askPrice": 2,
+                    "askQty": 6000,
+                    "bidQty": 6000,
+                    "bidprice": 0.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -184,11 +184,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 157.5,
-                    "totalBuyQuantity": 0,
-                    "totalSellQuantity": 120000,
+                    "totalBuyQuantity": 6000,
+                    "totalSellQuantity": 135000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 157.5
@@ -213,7 +213,7 @@
                     "totalSellQuantity": 147000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 0.2,
@@ -234,17 +234,17 @@
                     "totalSellQuantity": 411000,
                     "totalTradedVolume": 13,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 160
             },
             {
                 "CE": {
-                    "askPrice": 28.05,
+                    "askPrice": 27.2,
                     "askQty": 9000,
-                    "bidQty": 27000,
-                    "bidprice": 24.75,
+                    "bidQty": 9000,
+                    "bidprice": 24.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -255,16 +255,16 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 162.5,
-                    "totalBuyQuantity": 147000,
-                    "totalSellQuantity": 156000,
+                    "totalBuyQuantity": 156000,
+                    "totalSellQuantity": 147000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 1.7,
-                    "askQty": 120000,
-                    "bidQty": 9000,
+                    "askPrice": 1,
+                    "askQty": 6000,
+                    "bidQty": 18000,
                     "bidprice": 0.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -276,11 +276,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 162.5,
-                    "totalBuyQuantity": 18000,
-                    "totalSellQuantity": 249000,
+                    "totalBuyQuantity": 27000,
+                    "totalSellQuantity": 273000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 162.5
@@ -305,35 +305,35 @@
                     "totalSellQuantity": 156000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 0.25,
-                    "askQty": 15000,
-                    "bidQty": 120000,
+                    "askQty": 18000,
+                    "bidQty": 102000,
                     "bidprice": 0.15,
                     "change": -0.15,
                     "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023PE165.00",
-                    "impliedVolatility": 50.95,
+                    "impliedVolatility": 50.62,
                     "lastPrice": 0.15,
                     "openInterest": 86,
                     "pChange": -50,
                     "pchangeinOpenInterest": -3.3707865168539324,
                     "strikePrice": 165,
-                    "totalBuyQuantity": 279000,
-                    "totalSellQuantity": 459000,
+                    "totalBuyQuantity": 261000,
+                    "totalSellQuantity": 528000,
                     "totalTradedVolume": 27,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 165
             },
             {
                 "CE": {
-                    "askPrice": 22.25,
+                    "askPrice": 21.95,
                     "askQty": 9000,
                     "bidQty": 9000,
                     "bidprice": 19.9,
@@ -351,7 +351,7 @@
                     "totalSellQuantity": 156000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 0.9,
@@ -372,17 +372,17 @@
                     "totalSellQuantity": 315000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 167.5
             },
             {
                 "CE": {
-                    "askPrice": 18.3,
-                    "askQty": 3000,
+                    "askPrice": 18.8,
+                    "askQty": 9000,
                     "bidQty": 3000,
-                    "bidprice": 17.65,
+                    "bidprice": 17.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -394,10 +394,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 170,
                     "totalBuyQuantity": 258000,
-                    "totalSellQuantity": 222000,
+                    "totalSellQuantity": 240000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 0.3,
@@ -418,17 +418,17 @@
                     "totalSellQuantity": 573000,
                     "totalTradedVolume": 46,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 170
             },
             {
                 "CE": {
-                    "askPrice": 15.75,
-                    "askQty": 3000,
+                    "askPrice": 15.9,
+                    "askQty": 6000,
                     "bidQty": 3000,
-                    "bidprice": 15.15,
+                    "bidprice": 15,
                     "change": 2.950000000000001,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
@@ -443,12 +443,12 @@
                     "totalSellQuantity": 159000,
                     "totalTradedVolume": 3,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 0.35,
                     "askQty": 15000,
-                    "bidQty": 33000,
+                    "bidQty": 51000,
                     "bidprice": 0.3,
                     "change": -0.15000000000000002,
                     "changeinOpenInterest": -1,
@@ -464,7 +464,7 @@
                     "totalSellQuantity": 666000,
                     "totalTradedVolume": 28,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 172.5
@@ -489,12 +489,12 @@
                     "totalSellQuantity": 165000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 0.5,
-                    "askQty": 27000,
-                    "bidQty": 24000,
+                    "askQty": 39000,
+                    "bidQty": 21000,
                     "bidprice": 0.45,
                     "change": -0.3,
                     "changeinOpenInterest": -5,
@@ -506,11 +506,11 @@
                     "pChange": -40,
                     "pchangeinOpenInterest": -1.5015015015015014,
                     "strikePrice": 175,
-                    "totalBuyQuantity": 1086000,
+                    "totalBuyQuantity": 1083000,
                     "totalSellQuantity": 582000,
                     "totalTradedVolume": 89,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 175
@@ -535,11 +535,11 @@
                     "totalSellQuantity": 168000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 0.7,
-                    "askQty": 6000,
+                    "askQty": 21000,
                     "bidQty": 21000,
                     "bidprice": 0.65,
                     "change": -0.4,
@@ -552,21 +552,21 @@
                     "pChange": -38.095238095238095,
                     "pchangeinOpenInterest": 5.319148936170213,
                     "strikePrice": 177.5,
-                    "totalBuyQuantity": 504000,
-                    "totalSellQuantity": 510000,
+                    "totalBuyQuantity": 492000,
+                    "totalSellQuantity": 534000,
                     "totalTradedVolume": 29,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 177.5
             },
             {
                 "CE": {
-                    "askPrice": 8.95,
-                    "askQty": 6000,
+                    "askPrice": 9.25,
+                    "askQty": 3000,
                     "bidQty": 6000,
-                    "bidprice": 8.65,
+                    "bidprice": 8.9,
                     "change": 0.34999999999999964,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
@@ -577,155 +577,155 @@
                     "pChange": 3.9548022598870016,
                     "pchangeinOpenInterest": -1.0582010582010581,
                     "strikePrice": 180,
-                    "totalBuyQuantity": 294000,
-                    "totalSellQuantity": 306000,
+                    "totalBuyQuantity": 297000,
+                    "totalSellQuantity": 291000,
                     "totalTradedVolume": 4,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 1.1,
-                    "askQty": 24000,
-                    "bidQty": 6000,
-                    "bidprice": 1.05,
+                    "askQty": 42000,
+                    "bidQty": 42000,
+                    "bidprice": 1,
                     "change": -0.44999999999999996,
-                    "changeinOpenInterest": 0,
+                    "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023PE180.00",
-                    "impliedVolatility": 37.04,
+                    "impliedVolatility": 36.5,
                     "lastPrice": 1.1,
-                    "openInterest": 751,
+                    "openInterest": 748,
                     "pChange": -29.032258064516125,
-                    "pchangeinOpenInterest": 0,
+                    "pchangeinOpenInterest": -0.3994673768308921,
                     "strikePrice": 180,
-                    "totalBuyQuantity": 2034000,
-                    "totalSellQuantity": 597000,
+                    "totalBuyQuantity": 2040000,
+                    "totalSellQuantity": 594000,
                     "totalTradedVolume": 70,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 180
             },
             {
                 "CE": {
-                    "askPrice": 7.25,
+                    "askPrice": 7.3,
                     "askQty": 3000,
                     "bidQty": 3000,
-                    "bidprice": 6.55,
+                    "bidprice": 6.7,
                     "change": 0.04999999999999982,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023CE182.50",
-                    "impliedVolatility": 33.48,
+                    "impliedVolatility": 35.27,
                     "lastPrice": 7,
                     "openInterest": 74,
                     "pChange": 0.7194244604316521,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 182.5,
-                    "totalBuyQuantity": 279000,
-                    "totalSellQuantity": 261000,
+                    "totalBuyQuantity": 282000,
+                    "totalSellQuantity": 264000,
                     "totalTradedVolume": 1,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 1.65,
-                    "askQty": 3000,
-                    "bidQty": 9000,
+                    "askQty": 12000,
+                    "bidQty": 6000,
                     "bidprice": 1.6,
-                    "change": -0.5500000000000003,
+                    "change": -0.5000000000000002,
                     "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023PE182.50",
                     "impliedVolatility": 36.43,
-                    "lastPrice": 1.65,
+                    "lastPrice": 1.7,
                     "openInterest": 88,
-                    "pChange": -25.00000000000001,
+                    "pChange": -22.727272727272734,
                     "pchangeinOpenInterest": -3.2967032967032965,
                     "strikePrice": 182.5,
-                    "totalBuyQuantity": 444000,
-                    "totalSellQuantity": 522000,
-                    "totalTradedVolume": 12,
+                    "totalBuyQuantity": 435000,
+                    "totalSellQuantity": 510000,
+                    "totalTradedVolume": 13,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 182.5
             },
             {
                 "CE": {
-                    "askPrice": 5.3,
+                    "askPrice": 5.5,
                     "askQty": 3000,
                     "bidQty": 12000,
-                    "bidprice": 5.2,
-                    "change": 0.09999999999999964,
+                    "bidprice": 5.35,
+                    "change": 0.04999999999999982,
                     "changeinOpenInterest": -7,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023CE185.00",
-                    "impliedVolatility": 36.26,
-                    "lastPrice": 5.5,
+                    "impliedVolatility": 37.06,
+                    "lastPrice": 5.45,
                     "openInterest": 440,
-                    "pChange": 1.8518518518518452,
+                    "pChange": 0.9259259259259226,
                     "pchangeinOpenInterest": -1.5659955257270695,
                     "strikePrice": 185,
-                    "totalBuyQuantity": 396000,
-                    "totalSellQuantity": 396000,
-                    "totalTradedVolume": 64,
+                    "totalBuyQuantity": 402000,
+                    "totalSellQuantity": 378000,
+                    "totalTradedVolume": 65,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 2.5,
-                    "askQty": 15000,
-                    "bidQty": 3000,
-                    "bidprice": 2.45,
-                    "change": -0.6999999999999997,
-                    "changeinOpenInterest": -22,
+                    "askPrice": 2.45,
+                    "askQty": 6000,
+                    "bidQty": 12000,
+                    "bidprice": 2.35,
+                    "change": -0.5999999999999996,
+                    "changeinOpenInterest": -23,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023PE185.00",
                     "impliedVolatility": 35.57,
-                    "lastPrice": 2.35,
-                    "openInterest": 633,
-                    "pChange": -22.95081967213114,
-                    "pchangeinOpenInterest": -3.3587786259541983,
+                    "lastPrice": 2.45,
+                    "openInterest": 632,
+                    "pChange": -19.672131147540973,
+                    "pchangeinOpenInterest": -3.5114503816793894,
                     "strikePrice": 185,
-                    "totalBuyQuantity": 510000,
-                    "totalSellQuantity": 648000,
-                    "totalTradedVolume": 91,
+                    "totalBuyQuantity": 480000,
+                    "totalSellQuantity": 666000,
+                    "totalTradedVolume": 101,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 185
             },
             {
                 "CE": {
-                    "askPrice": 4,
-                    "askQty": 12000,
-                    "bidQty": 21000,
-                    "bidprice": 3.85,
-                    "change": -0.15000000000000036,
-                    "changeinOpenInterest": -2,
+                    "askPrice": 4.1,
+                    "askQty": 9000,
+                    "bidQty": 3000,
+                    "bidprice": 4,
+                    "change": -0.10000000000000053,
+                    "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023CE187.50",
-                    "impliedVolatility": 37.99,
-                    "lastPrice": 4,
-                    "openInterest": 96,
-                    "pChange": -3.6144578313253093,
-                    "pchangeinOpenInterest": -2.0408163265306123,
+                    "impliedVolatility": 37.58,
+                    "lastPrice": 4.05,
+                    "openInterest": 98,
+                    "pChange": -2.40963855421688,
+                    "pchangeinOpenInterest": 0,
                     "strikePrice": 187.5,
-                    "totalBuyQuantity": 489000,
-                    "totalSellQuantity": 600000,
-                    "totalTradedVolume": 52,
+                    "totalBuyQuantity": 495000,
+                    "totalSellQuantity": 570000,
+                    "totalTradedVolume": 53,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 3.75,
-                    "askQty": 3000,
-                    "bidQty": 6000,
-                    "bidprice": 3.6,
+                    "askPrice": 3.7,
+                    "askQty": 24000,
+                    "bidQty": 9000,
+                    "bidprice": 3.55,
                     "change": -0.9999999999999996,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
@@ -736,88 +736,88 @@
                     "pChange": -22.98850574712643,
                     "pchangeinOpenInterest": -1.3157894736842106,
                     "strikePrice": 187.5,
-                    "totalBuyQuantity": 552000,
-                    "totalSellQuantity": 573000,
+                    "totalBuyQuantity": 519000,
+                    "totalSellQuantity": 582000,
                     "totalTradedVolume": 26,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 187.5
             },
             {
                 "CE": {
-                    "askPrice": 3.05,
-                    "askQty": 12000,
-                    "bidQty": 12000,
-                    "bidprice": 3,
-                    "change": -0.1499999999999999,
-                    "changeinOpenInterest": 19,
+                    "askPrice": 3.15,
+                    "askQty": 6000,
+                    "bidQty": 15000,
+                    "bidprice": 3.05,
+                    "change": -0.10000000000000009,
+                    "changeinOpenInterest": 21,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023CE190.00",
-                    "impliedVolatility": 38.17,
-                    "lastPrice": 3,
-                    "openInterest": 1546,
-                    "pChange": -4.761904761904759,
-                    "pchangeinOpenInterest": 1.2442698100851342,
+                    "impliedVolatility": 38.53,
+                    "lastPrice": 3.05,
+                    "openInterest": 1548,
+                    "pChange": -3.174603174603177,
+                    "pchangeinOpenInterest": 1.37524557956778,
                     "strikePrice": 190,
-                    "totalBuyQuantity": 612000,
-                    "totalSellQuantity": 990000,
-                    "totalTradedVolume": 275,
+                    "totalBuyQuantity": 645000,
+                    "totalSellQuantity": 966000,
+                    "totalTradedVolume": 280,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 5.3,
-                    "askQty": 18000,
+                    "askPrice": 5.15,
+                    "askQty": 9000,
                     "bidQty": 9000,
-                    "bidprice": 5.1,
+                    "bidprice": 4.95,
                     "change": -0.8499999999999996,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023PE190.00",
-                    "impliedVolatility": 36.35,
+                    "impliedVolatility": 37.69,
                     "lastPrice": 5,
                     "openInterest": 629,
                     "pChange": -14.529914529914526,
                     "pchangeinOpenInterest": -0.15873015873015872,
                     "strikePrice": 190,
-                    "totalBuyQuantity": 387000,
-                    "totalSellQuantity": 309000,
+                    "totalBuyQuantity": 366000,
+                    "totalSellQuantity": 303000,
                     "totalTradedVolume": 42,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 190
             },
             {
                 "CE": {
-                    "askPrice": 2.25,
-                    "askQty": 24000,
-                    "bidQty": 27000,
-                    "bidprice": 2.1,
+                    "askPrice": 2.3,
+                    "askQty": 27000,
+                    "bidQty": 6000,
+                    "bidprice": 2.2,
                     "change": -0.04999999999999982,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023CE192.50",
-                    "impliedVolatility": 39.48,
+                    "impliedVolatility": 39.16,
                     "lastPrice": 2.25,
                     "openInterest": 176,
                     "pChange": -2.173913043478253,
                     "pchangeinOpenInterest": -1.1235955056179776,
                     "strikePrice": 192.5,
-                    "totalBuyQuantity": 435000,
-                    "totalSellQuantity": 615000,
+                    "totalBuyQuantity": 477000,
+                    "totalSellQuantity": 579000,
                     "totalTradedVolume": 34,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 7,
+                    "askPrice": 7.15,
                     "askQty": 3000,
                     "bidQty": 3000,
-                    "bidprice": 6.15,
+                    "bidprice": 6.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -828,20 +828,20 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 192.5,
-                    "totalBuyQuantity": 297000,
-                    "totalSellQuantity": 249000,
+                    "totalBuyQuantity": 276000,
+                    "totalSellQuantity": 252000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 192.5
             },
             {
                 "CE": {
-                    "askPrice": 1.65,
-                    "askQty": 30000,
-                    "bidQty": 6000,
+                    "askPrice": 1.7,
+                    "askQty": 21000,
+                    "bidQty": 33000,
                     "bidprice": 1.6,
                     "change": -0.10000000000000009,
                     "changeinOpenInterest": 4,
@@ -853,32 +853,32 @@
                     "pChange": -5.71428571428572,
                     "pchangeinOpenInterest": 0.4784688995215311,
                     "strikePrice": 195,
-                    "totalBuyQuantity": 687000,
-                    "totalSellQuantity": 723000,
-                    "totalTradedVolume": 68,
+                    "totalBuyQuantity": 714000,
+                    "totalSellQuantity": 693000,
+                    "totalTradedVolume": 71,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 8.7,
-                    "askQty": 3000,
+                    "askPrice": 8.75,
+                    "askQty": 6000,
                     "bidQty": 3000,
-                    "bidprice": 8.15,
+                    "bidprice": 8.35,
                     "change": -0.75,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023PE195.00",
-                    "impliedVolatility": 40.58,
+                    "impliedVolatility": 38.86,
                     "lastPrice": 8.5,
                     "openInterest": 166,
                     "pChange": -8.108108108108109,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 195,
-                    "totalBuyQuantity": 300000,
+                    "totalBuyQuantity": 306000,
                     "totalSellQuantity": 255000,
                     "totalTradedVolume": 2,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 195
@@ -886,30 +886,30 @@
             {
                 "CE": {
                     "askPrice": 1.25,
-                    "askQty": 15000,
-                    "bidQty": 9000,
+                    "askQty": 12000,
+                    "bidQty": 24000,
                     "bidprice": 1.15,
-                    "change": -0.050000000000000044,
+                    "change": -0.10000000000000009,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023CE197.50",
                     "impliedVolatility": 42.17,
-                    "lastPrice": 1.25,
+                    "lastPrice": 1.2,
                     "openInterest": 214,
-                    "pChange": -3.8461538461538494,
+                    "pChange": -7.692307692307699,
                     "pchangeinOpenInterest": -0.46511627906976744,
                     "strikePrice": 197.5,
-                    "totalBuyQuantity": 468000,
-                    "totalSellQuantity": 525000,
-                    "totalTradedVolume": 8,
+                    "totalBuyQuantity": 474000,
+                    "totalSellQuantity": 495000,
+                    "totalTradedVolume": 12,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 11.55,
+                    "askPrice": 11.6,
                     "askQty": 3000,
-                    "bidQty": 3000,
-                    "bidprice": 10.15,
+                    "bidQty": 6000,
+                    "bidprice": 10.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -920,20 +920,20 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 197.5,
-                    "totalBuyQuantity": 300000,
+                    "totalBuyQuantity": 282000,
                     "totalSellQuantity": 270000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 197.5
             },
             {
                 "CE": {
-                    "askPrice": 0.9,
-                    "askQty": 27000,
-                    "bidQty": 48000,
+                    "askPrice": 0.95,
+                    "askQty": 39000,
+                    "bidQty": 66000,
                     "bidprice": 0.85,
                     "change": -0.04999999999999993,
                     "changeinOpenInterest": 7,
@@ -945,32 +945,32 @@
                     "pChange": -5.263157894736835,
                     "pchangeinOpenInterest": 0.2764612954186414,
                     "strikePrice": 200,
-                    "totalBuyQuantity": 2706000,
-                    "totalSellQuantity": 1314000,
+                    "totalBuyQuantity": 2721000,
+                    "totalSellQuantity": 1296000,
                     "totalTradedVolume": 137,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 12.95,
-                    "askQty": 6000,
+                    "askPrice": 13.2,
+                    "askQty": 3000,
                     "bidQty": 3000,
-                    "bidprice": 12.7,
+                    "bidprice": 12.95,
                     "change": -1.1999999999999993,
                     "changeinOpenInterest": -4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023PE200.00",
-                    "impliedVolatility": 38.11,
+                    "impliedVolatility": 34.65,
                     "lastPrice": 12.4,
                     "openInterest": 594,
                     "pChange": -8.823529411764701,
                     "pchangeinOpenInterest": -0.6688963210702341,
                     "strikePrice": 200,
-                    "totalBuyQuantity": 369000,
-                    "totalSellQuantity": 270000,
+                    "totalBuyQuantity": 372000,
+                    "totalSellQuantity": 264000,
                     "totalTradedVolume": 7,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 200
@@ -978,30 +978,30 @@
             {
                 "CE": {
                     "askPrice": 0.65,
-                    "askQty": 21000,
-                    "bidQty": 39000,
-                    "bidprice": 0.55,
+                    "askQty": 33000,
+                    "bidQty": 3000,
+                    "bidprice": 0.6,
                     "change": -0.09999999999999998,
                     "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023CE202.50",
-                    "impliedVolatility": 43.72,
+                    "impliedVolatility": 43.19,
                     "lastPrice": 0.6,
                     "openInterest": 123,
                     "pChange": -14.285714285714283,
                     "pchangeinOpenInterest": -2.380952380952381,
                     "strikePrice": 202.5,
-                    "totalBuyQuantity": 432000,
-                    "totalSellQuantity": 528000,
+                    "totalBuyQuantity": 435000,
+                    "totalSellQuantity": 522000,
                     "totalTradedVolume": 14,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 15.65,
+                    "askPrice": 15.35,
                     "askQty": 3000,
                     "bidQty": 3000,
-                    "bidprice": 14.8,
+                    "bidprice": 14.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1012,11 +1012,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 202.5,
-                    "totalBuyQuantity": 201000,
-                    "totalSellQuantity": 174000,
+                    "totalBuyQuantity": 189000,
+                    "totalSellQuantity": 162000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 202.5
@@ -1024,30 +1024,30 @@
             {
                 "CE": {
                     "askPrice": 0.4,
-                    "askQty": 12000,
+                    "askQty": 15000,
                     "bidQty": 120000,
                     "bidprice": 0.35,
                     "change": -0.04999999999999999,
                     "changeinOpenInterest": 4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023CE205.00",
-                    "impliedVolatility": 44.35,
+                    "impliedVolatility": 43.52,
                     "lastPrice": 0.4,
                     "openInterest": 1611,
                     "pChange": -11.111111111111107,
                     "pchangeinOpenInterest": 0.24891101431238333,
                     "strikePrice": 205,
                     "totalBuyQuantity": 1128000,
-                    "totalSellQuantity": 705000,
-                    "totalTradedVolume": 23,
+                    "totalSellQuantity": 711000,
+                    "totalTradedVolume": 34,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 17.55,
+                    "askPrice": 17.7,
                     "askQty": 3000,
-                    "bidQty": 3000,
-                    "bidprice": 16.9,
+                    "bidQty": 6000,
+                    "bidprice": 16.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1058,11 +1058,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 205,
-                    "totalBuyQuantity": 195000,
+                    "totalBuyQuantity": 216000,
                     "totalSellQuantity": 165000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 205
@@ -1070,8 +1070,8 @@
             {
                 "CE": {
                     "askPrice": 0.35,
-                    "askQty": 30000,
-                    "bidQty": 12000,
+                    "askQty": 33000,
+                    "bidQty": 6000,
                     "bidprice": 0.3,
                     "change": 0,
                     "changeinOpenInterest": -1,
@@ -1083,17 +1083,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": -0.2717391304347826,
                     "strikePrice": 207.5,
-                    "totalBuyQuantity": 318000,
-                    "totalSellQuantity": 696000,
+                    "totalBuyQuantity": 303000,
+                    "totalSellQuantity": 672000,
                     "totalTradedVolume": 7,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 20.35,
+                    "askPrice": 20.3,
                     "askQty": 3000,
                     "bidQty": 3000,
-                    "bidprice": 19.85,
+                    "bidprice": 19.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1104,11 +1104,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 207.5,
-                    "totalBuyQuantity": 156000,
-                    "totalSellQuantity": 153000,
+                    "totalBuyQuantity": 153000,
+                    "totalSellQuantity": 150000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 207.5
@@ -1116,45 +1116,45 @@
             {
                 "CE": {
                     "askPrice": 0.35,
-                    "askQty": 36000,
-                    "bidQty": 36000,
+                    "askQty": 48000,
+                    "bidQty": 27000,
                     "bidprice": 0.3,
-                    "change": -0.050000000000000044,
-                    "changeinOpenInterest": -3,
+                    "change": -0.10000000000000003,
+                    "changeinOpenInterest": -10,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023CE210.00",
                     "impliedVolatility": 50.93,
-                    "lastPrice": 0.35,
-                    "openInterest": 1857,
-                    "pChange": -12.50000000000001,
-                    "pchangeinOpenInterest": -0.16129032258064516,
+                    "lastPrice": 0.3,
+                    "openInterest": 1850,
+                    "pChange": -25.000000000000007,
+                    "pchangeinOpenInterest": -0.5376344086021505,
                     "strikePrice": 210,
-                    "totalBuyQuantity": 1812000,
-                    "totalSellQuantity": 618000,
-                    "totalTradedVolume": 72,
+                    "totalBuyQuantity": 1821000,
+                    "totalSellQuantity": 630000,
+                    "totalTradedVolume": 90,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 22.75,
-                    "askQty": 6000,
-                    "bidQty": 6000,
-                    "bidprice": 22.35,
+                    "askPrice": 22.5,
+                    "askQty": 3000,
+                    "bidQty": 9000,
+                    "bidprice": 22.1,
                     "change": -0.7999999999999972,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023PE210.00",
-                    "impliedVolatility": 57.3,
+                    "impliedVolatility": 52.5,
                     "lastPrice": 22.35,
                     "openInterest": 221,
                     "pChange": -3.4557235421166186,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 210,
                     "totalBuyQuantity": 279000,
-                    "totalSellQuantity": 231000,
+                    "totalSellQuantity": 228000,
                     "totalTradedVolume": 2,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 210
@@ -1179,10 +1179,10 @@
                     "totalSellQuantity": 378000,
                     "totalTradedVolume": 4,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 26.05,
+                    "askPrice": 26.1,
                     "askQty": 9000,
                     "bidQty": 9000,
                     "bidprice": 23.3,
@@ -1196,11 +1196,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 212.5,
-                    "totalBuyQuantity": 156000,
+                    "totalBuyQuantity": 159000,
                     "totalSellQuantity": 159000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 212.5
@@ -1215,7 +1215,7 @@
                     "changeinOpenInterest": -9,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023CE215.00",
-                    "impliedVolatility": 55.04,
+                    "impliedVolatility": 55.41,
                     "lastPrice": 0.25,
                     "openInterest": 255,
                     "pChange": 0,
@@ -1225,7 +1225,7 @@
                     "totalSellQuantity": 408000,
                     "totalTradedVolume": 38,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 28.1,
@@ -1246,7 +1246,7 @@
                     "totalSellQuantity": 150000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 215
@@ -1271,13 +1271,13 @@
                     "totalSellQuantity": 123000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 32.3,
+                    "askPrice": 32.2,
                     "askQty": 9000,
                     "bidQty": 9000,
-                    "bidprice": 29,
+                    "bidprice": 28.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1292,7 +1292,7 @@
                     "totalSellQuantity": 150000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 217.5
@@ -1300,24 +1300,24 @@
             {
                 "CE": {
                     "askPrice": 0.2,
-                    "askQty": 3000,
-                    "bidQty": 3000,
+                    "askQty": 6000,
+                    "bidQty": 6000,
                     "bidprice": 0.15,
-                    "change": -0.1,
-                    "changeinOpenInterest": -14,
+                    "change": -0.04999999999999999,
+                    "changeinOpenInterest": -19,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023CE220.00",
                     "impliedVolatility": 57.67,
-                    "lastPrice": 0.15,
-                    "openInterest": 1338,
-                    "pChange": -40,
-                    "pchangeinOpenInterest": -1.0355029585798816,
+                    "lastPrice": 0.2,
+                    "openInterest": 1333,
+                    "pChange": -19.999999999999996,
+                    "pchangeinOpenInterest": -1.4053254437869822,
                     "strikePrice": 220,
-                    "totalBuyQuantity": 1008000,
-                    "totalSellQuantity": 981000,
-                    "totalTradedVolume": 57,
+                    "totalBuyQuantity": 993000,
+                    "totalSellQuantity": 999000,
+                    "totalTradedVolume": 72,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 32.55,
@@ -1338,7 +1338,7 @@
                     "totalSellQuantity": 147000,
                     "totalTradedVolume": 1,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 220
@@ -1363,13 +1363,13 @@
                     "totalSellQuantity": 261000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 36.2,
-                    "askQty": 9000,
-                    "bidQty": 9000,
-                    "bidprice": 33.25,
+                    "askPrice": 36.25,
+                    "askQty": 18000,
+                    "bidQty": 12000,
+                    "bidprice": 33.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1381,10 +1381,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 222.5,
                     "totalBuyQuantity": 150000,
-                    "totalSellQuantity": 147000,
+                    "totalSellQuantity": 138000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 222.5
@@ -1409,7 +1409,7 @@
                     "totalSellQuantity": 261000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 37.7,
@@ -1430,7 +1430,7 @@
                     "totalSellQuantity": 150000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 225
@@ -1455,13 +1455,13 @@
                     "totalSellQuantity": 135000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 42.35,
+                    "askPrice": 43.15,
                     "askQty": 9000,
-                    "bidQty": 9000,
-                    "bidprice": 38.15,
+                    "bidQty": 6000,
+                    "bidprice": 36.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1472,11 +1472,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 227.5,
-                    "totalBuyQuantity": 138000,
+                    "totalBuyQuantity": 135000,
                     "totalSellQuantity": 135000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 227.5
@@ -1484,30 +1484,30 @@
             {
                 "CE": {
                     "askPrice": 0.15,
-                    "askQty": 15000,
-                    "bidQty": 342000,
+                    "askQty": 9000,
+                    "bidQty": 354000,
                     "bidprice": 0.1,
                     "change": -0.05000000000000002,
-                    "changeinOpenInterest": -2,
+                    "changeinOpenInterest": -4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023CE230.00",
                     "impliedVolatility": 70.92,
                     "lastPrice": 0.15,
-                    "openInterest": 474,
+                    "openInterest": 472,
                     "pChange": -25.000000000000007,
-                    "pchangeinOpenInterest": -0.42016806722689076,
+                    "pchangeinOpenInterest": -0.8403361344537815,
                     "strikePrice": 230,
-                    "totalBuyQuantity": 894000,
+                    "totalBuyQuantity": 906000,
                     "totalSellQuantity": 315000,
-                    "totalTradedVolume": 14,
+                    "totalTradedVolume": 15,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 43.1,
-                    "askQty": 9000,
+                    "askPrice": 42.7,
+                    "askQty": 12000,
                     "bidQty": 9000,
-                    "bidprice": 40.6,
+                    "bidprice": 41,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1518,11 +1518,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 230,
-                    "totalBuyQuantity": 177000,
-                    "totalSellQuantity": 165000,
+                    "totalBuyQuantity": 165000,
+                    "totalSellQuantity": 159000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 230
@@ -1547,13 +1547,13 @@
                     "totalSellQuantity": 123000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 47.1,
-                    "askQty": 9000,
-                    "bidQty": 18000,
-                    "bidprice": 43.05,
+                    "askPrice": 47.15,
+                    "askQty": 18000,
+                    "bidQty": 9000,
+                    "bidprice": 43.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1564,11 +1564,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 232.5,
-                    "totalBuyQuantity": 138000,
-                    "totalSellQuantity": 147000,
+                    "totalBuyQuantity": 147000,
+                    "totalSellQuantity": 138000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 232.5
@@ -1593,7 +1593,7 @@
                     "totalSellQuantity": 63000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 48.2,
@@ -1614,7 +1614,7 @@
                     "totalSellQuantity": 138000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 235
@@ -1639,7 +1639,7 @@
                     "totalSellQuantity": 243000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1660,7 +1660,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 237.5
@@ -1685,7 +1685,7 @@
                     "totalSellQuantity": 261000,
                     "totalTradedVolume": 4,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 52.8,
@@ -1706,7 +1706,7 @@
                     "totalSellQuantity": 138000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 240
@@ -1731,7 +1731,7 @@
                     "totalSellQuantity": 36000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 62.65,
@@ -1752,7 +1752,7 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 242.5
@@ -1767,7 +1767,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023CE245.00",
-                    "impliedVolatility": 77.05,
+                    "impliedVolatility": 77.33,
                     "lastPrice": 0.05,
                     "openInterest": 67,
                     "pChange": -66.66666666666666,
@@ -1777,7 +1777,7 @@
                     "totalSellQuantity": 117000,
                     "totalTradedVolume": 5,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1798,7 +1798,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 245
@@ -1813,7 +1813,7 @@
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023CE250.00",
-                    "impliedVolatility": 82.15,
+                    "impliedVolatility": 82.43,
                     "lastPrice": 0.05,
                     "openInterest": 421,
                     "pChange": 0,
@@ -1823,7 +1823,7 @@
                     "totalSellQuantity": 453000,
                     "totalTradedVolume": 3,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 66.5,
@@ -1844,7 +1844,7 @@
                     "totalSellQuantity": 135000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 250
@@ -1869,7 +1869,7 @@
                     "totalSellQuantity": 303000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 71.2,
@@ -1890,7 +1890,7 @@
                     "totalSellQuantity": 126000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 255
@@ -1919,7 +1919,7 @@
                     "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 0.9,
@@ -1940,7 +1940,7 @@
                     "totalSellQuantity": 258000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 145
@@ -1965,7 +1965,7 @@
                     "totalSellQuantity": 147000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 0.1,
@@ -1976,7 +1976,7 @@
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023PE150.00",
-                    "impliedVolatility": 69.54,
+                    "impliedVolatility": 69.26,
                     "lastPrice": 0.05,
                     "openInterest": 42,
                     "pChange": -50,
@@ -1986,7 +1986,7 @@
                     "totalSellQuantity": 198000,
                     "totalTradedVolume": 8,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 150
@@ -2011,7 +2011,7 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 4.35,
@@ -2032,7 +2032,7 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 155
@@ -2057,11 +2057,11 @@
                     "totalSellQuantity": 147000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 0.9,
-                    "askQty": 12000,
+                    "askPrice": 0.8,
+                    "askQty": 6000,
                     "bidQty": 45000,
                     "bidprice": 0.05,
                     "change": 0,
@@ -2075,20 +2075,20 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 155,
                     "totalBuyQuantity": 45000,
-                    "totalSellQuantity": 141000,
+                    "totalSellQuantity": 21000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 155
             },
             {
                 "CE": {
-                    "askPrice": 35.65,
-                    "askQty": 120000,
+                    "askPrice": 33.9,
+                    "askQty": 9000,
                     "bidQty": 9000,
-                    "bidprice": 28.15,
+                    "bidprice": 29.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2099,17 +2099,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 157.5,
-                    "totalBuyQuantity": 129000,
-                    "totalSellQuantity": 120000,
+                    "totalBuyQuantity": 147000,
+                    "totalSellQuantity": 147000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 1.55,
-                    "askQty": 120000,
-                    "bidQty": 0,
-                    "bidprice": 0,
+                    "askPrice": 2,
+                    "askQty": 6000,
+                    "bidQty": 6000,
+                    "bidprice": 0.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2120,11 +2120,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 157.5,
-                    "totalBuyQuantity": 0,
-                    "totalSellQuantity": 120000,
+                    "totalBuyQuantity": 6000,
+                    "totalSellQuantity": 135000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 157.5
@@ -2149,7 +2149,7 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 4.35,
@@ -2170,7 +2170,7 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 157.5
@@ -2195,12 +2195,12 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 1.35,
+                    "askPrice": 1.3,
                     "askQty": 3000,
-                    "bidQty": 3000,
+                    "bidQty": 6000,
                     "bidprice": 1.25,
                     "change": -0.050000000000000044,
                     "changeinOpenInterest": 8,
@@ -2213,10 +2213,10 @@
                     "pchangeinOpenInterest": 20,
                     "strikePrice": 160,
                     "totalBuyQuantity": 312000,
-                    "totalSellQuantity": 147000,
+                    "totalSellQuantity": 150000,
                     "totalTradedVolume": 14,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 160
@@ -2241,7 +2241,7 @@
                     "totalSellQuantity": 147000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 0.2,
@@ -2262,17 +2262,17 @@
                     "totalSellQuantity": 411000,
                     "totalTradedVolume": 13,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 160
             },
             {
                 "CE": {
-                    "askPrice": 28.05,
+                    "askPrice": 27.2,
                     "askQty": 9000,
-                    "bidQty": 27000,
-                    "bidprice": 24.75,
+                    "bidQty": 9000,
+                    "bidprice": 24.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2283,16 +2283,16 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 162.5,
-                    "totalBuyQuantity": 147000,
-                    "totalSellQuantity": 156000,
+                    "totalBuyQuantity": 156000,
+                    "totalSellQuantity": 147000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 1.7,
-                    "askQty": 120000,
-                    "bidQty": 9000,
+                    "askPrice": 1,
+                    "askQty": 6000,
+                    "bidQty": 18000,
                     "bidprice": 0.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -2304,11 +2304,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 162.5,
-                    "totalBuyQuantity": 18000,
-                    "totalSellQuantity": 249000,
+                    "totalBuyQuantity": 27000,
+                    "totalSellQuantity": 273000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 162.5
@@ -2333,7 +2333,7 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2354,7 +2354,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 162.5
@@ -2379,28 +2379,28 @@
                     "totalSellQuantity": 156000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 0.25,
-                    "askQty": 15000,
-                    "bidQty": 120000,
+                    "askQty": 18000,
+                    "bidQty": 102000,
                     "bidprice": 0.15,
                     "change": -0.15,
                     "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023PE165.00",
-                    "impliedVolatility": 50.95,
+                    "impliedVolatility": 50.62,
                     "lastPrice": 0.15,
                     "openInterest": 86,
                     "pChange": -50,
                     "pchangeinOpenInterest": -3.3707865168539324,
                     "strikePrice": 165,
-                    "totalBuyQuantity": 279000,
-                    "totalSellQuantity": 459000,
+                    "totalBuyQuantity": 261000,
+                    "totalSellQuantity": 528000,
                     "totalTradedVolume": 27,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 165
@@ -2425,7 +2425,7 @@
                     "totalSellQuantity": 12000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 2.95,
@@ -2446,14 +2446,14 @@
                     "totalSellQuantity": 3000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 165
             },
             {
                 "CE": {
-                    "askPrice": 22.25,
+                    "askPrice": 21.95,
                     "askQty": 9000,
                     "bidQty": 9000,
                     "bidprice": 19.9,
@@ -2471,7 +2471,7 @@
                     "totalSellQuantity": 156000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 0.9,
@@ -2492,7 +2492,7 @@
                     "totalSellQuantity": 315000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 167.5
@@ -2517,7 +2517,7 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 167.5
@@ -2542,17 +2542,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 170
             },
             {
                 "CE": {
-                    "askPrice": 18.3,
-                    "askQty": 3000,
+                    "askPrice": 18.8,
+                    "askQty": 9000,
                     "bidQty": 3000,
-                    "bidprice": 17.65,
+                    "bidprice": 17.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2564,10 +2564,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 170,
                     "totalBuyQuantity": 258000,
-                    "totalSellQuantity": 222000,
+                    "totalSellQuantity": 240000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 0.3,
@@ -2588,7 +2588,7 @@
                     "totalSellQuantity": 573000,
                     "totalTradedVolume": 46,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 170
@@ -2597,8 +2597,8 @@
                 "CE": {
                     "askPrice": 25.6,
                     "askQty": 12000,
-                    "bidQty": 120000,
-                    "bidprice": 16.05,
+                    "bidQty": 9000,
+                    "bidprice": 16.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2609,42 +2609,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 170,
-                    "totalBuyQuantity": 120000,
+                    "totalBuyQuantity": 129000,
                     "totalSellQuantity": 132000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 3.2,
-                    "askQty": 3000,
-                    "bidQty": 9000,
-                    "bidprice": 2.95,
-                    "change": -0.25,
+                    "askPrice": 3.15,
+                    "askQty": 21000,
+                    "bidQty": 6000,
+                    "bidprice": 2.9,
+                    "change": -0.20000000000000018,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKZEEL29-06-2023PE170.00",
-                    "impliedVolatility": 40.93,
-                    "lastPrice": 2.95,
+                    "impliedVolatility": 40.71,
+                    "lastPrice": 3,
                     "openInterest": 79,
-                    "pChange": -7.8125,
+                    "pChange": -6.250000000000005,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 170,
-                    "totalBuyQuantity": 213000,
-                    "totalSellQuantity": 132000,
-                    "totalTradedVolume": 2,
+                    "totalBuyQuantity": 252000,
+                    "totalSellQuantity": 174000,
+                    "totalTradedVolume": 3,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 170
             },
             {
                 "CE": {
-                    "askPrice": 15.75,
-                    "askQty": 3000,
+                    "askPrice": 15.9,
+                    "askQty": 6000,
                     "bidQty": 3000,
-                    "bidprice": 15.15,
+                    "bidprice": 15,
                     "change": 2.950000000000001,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
@@ -2659,12 +2659,12 @@
                     "totalSellQuantity": 159000,
                     "totalTradedVolume": 3,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 0.35,
                     "askQty": 15000,
-                    "bidQty": 33000,
+                    "bidQty": 51000,
                     "bidprice": 0.3,
                     "change": -0.15000000000000002,
                     "changeinOpenInterest": -1,
@@ -2680,17 +2680,17 @@
                     "totalSellQuantity": 666000,
                     "totalTradedVolume": 28,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 172.5
             },
             {
                 "CE": {
-                    "askPrice": 25.5,
+                    "askPrice": 25.3,
                     "askQty": 120000,
-                    "bidQty": 9000,
-                    "bidprice": 10.85,
+                    "bidQty": 120000,
+                    "bidprice": 12.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2701,11 +2701,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 172.5,
-                    "totalBuyQuantity": 96000,
+                    "totalBuyQuantity": 120000,
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 7.85,
@@ -2726,7 +2726,7 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 172.5
@@ -2751,12 +2751,12 @@
                     "totalSellQuantity": 165000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 0.5,
-                    "askQty": 27000,
-                    "bidQty": 24000,
+                    "askQty": 39000,
+                    "bidQty": 21000,
                     "bidprice": 0.45,
                     "change": -0.3,
                     "changeinOpenInterest": -5,
@@ -2768,18 +2768,18 @@
                     "pChange": -40,
                     "pchangeinOpenInterest": -1.5015015015015014,
                     "strikePrice": 175,
-                    "totalBuyQuantity": 1086000,
+                    "totalBuyQuantity": 1083000,
                     "totalSellQuantity": 582000,
                     "totalTradedVolume": 89,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 175
             },
             {
                 "CE": {
-                    "askPrice": 27.6,
+                    "askPrice": 26.2,
                     "askQty": 9000,
                     "bidQty": 84000,
                     "bidprice": 11.1,
@@ -2797,28 +2797,28 @@
                     "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 4.35,
-                    "askQty": 9000,
-                    "bidQty": 6000,
-                    "bidprice": 4.15,
+                    "askPrice": 4.3,
+                    "askQty": 6000,
+                    "bidQty": 3000,
+                    "bidprice": 4.2,
                     "change": -0.34999999999999964,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKZEEL29-06-2023PE175.00",
-                    "impliedVolatility": 40.87,
+                    "impliedVolatility": 40.37,
                     "lastPrice": 4.2,
                     "openInterest": 31,
                     "pChange": -7.6923076923076845,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 175,
-                    "totalBuyQuantity": 63000,
+                    "totalBuyQuantity": 66000,
                     "totalSellQuantity": 33000,
                     "totalTradedVolume": 2,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 175
@@ -2843,7 +2843,7 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 177.5
@@ -2868,11 +2868,11 @@
                     "totalSellQuantity": 168000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 0.7,
-                    "askQty": 6000,
+                    "askQty": 21000,
                     "bidQty": 21000,
                     "bidprice": 0.65,
                     "change": -0.4,
@@ -2885,19 +2885,19 @@
                     "pChange": -38.095238095238095,
                     "pchangeinOpenInterest": 5.319148936170213,
                     "strikePrice": 177.5,
-                    "totalBuyQuantity": 504000,
-                    "totalSellQuantity": 510000,
+                    "totalBuyQuantity": 492000,
+                    "totalSellQuantity": 534000,
                     "totalTradedVolume": 29,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 177.5
             },
             {
                 "CE": {
-                    "askPrice": 16,
-                    "askQty": 9000,
+                    "askPrice": 15.7,
+                    "askQty": 6000,
                     "bidQty": 9000,
                     "bidprice": 6.4,
                     "change": 0,
@@ -2911,41 +2911,41 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 180,
                     "totalBuyQuantity": 129000,
-                    "totalSellQuantity": 9000,
+                    "totalSellQuantity": 126000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 5.9,
+                    "askPrice": 5.95,
                     "askQty": 6000,
-                    "bidQty": 6000,
+                    "bidQty": 3000,
                     "bidprice": 5.8,
-                    "change": -0.3000000000000007,
+                    "change": -0.25,
                     "changeinOpenInterest": 1,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKZEEL29-06-2023PE180.00",
-                    "impliedVolatility": 40.37,
-                    "lastPrice": 5.85,
+                    "impliedVolatility": 40.31,
+                    "lastPrice": 5.9,
                     "openInterest": 189,
-                    "pChange": -4.878048780487816,
+                    "pChange": -4.0650406504065035,
                     "pchangeinOpenInterest": 0.5319148936170213,
                     "strikePrice": 180,
-                    "totalBuyQuantity": 315000,
+                    "totalBuyQuantity": 312000,
                     "totalSellQuantity": 243000,
-                    "totalTradedVolume": 9,
+                    "totalTradedVolume": 10,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 180
             },
             {
                 "CE": {
-                    "askPrice": 8.95,
-                    "askQty": 6000,
+                    "askPrice": 9.25,
+                    "askQty": 3000,
                     "bidQty": 6000,
-                    "bidprice": 8.65,
+                    "bidprice": 8.9,
                     "change": 0.34999999999999964,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
@@ -2956,32 +2956,32 @@
                     "pChange": 3.9548022598870016,
                     "pchangeinOpenInterest": -1.0582010582010581,
                     "strikePrice": 180,
-                    "totalBuyQuantity": 294000,
-                    "totalSellQuantity": 306000,
+                    "totalBuyQuantity": 297000,
+                    "totalSellQuantity": 291000,
                     "totalTradedVolume": 4,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 1.1,
-                    "askQty": 24000,
-                    "bidQty": 6000,
-                    "bidprice": 1.05,
+                    "askQty": 42000,
+                    "bidQty": 42000,
+                    "bidprice": 1,
                     "change": -0.44999999999999996,
-                    "changeinOpenInterest": 0,
+                    "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023PE180.00",
-                    "impliedVolatility": 37.04,
+                    "impliedVolatility": 36.5,
                     "lastPrice": 1.1,
-                    "openInterest": 751,
+                    "openInterest": 748,
                     "pChange": -29.032258064516125,
-                    "pchangeinOpenInterest": 0,
+                    "pchangeinOpenInterest": -0.3994673768308921,
                     "strikePrice": 180,
-                    "totalBuyQuantity": 2034000,
-                    "totalSellQuantity": 597000,
+                    "totalBuyQuantity": 2040000,
+                    "totalSellQuantity": 594000,
                     "totalTradedVolume": 70,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 180
@@ -3006,13 +3006,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 8.05,
                     "askQty": 3000,
-                    "bidQty": 9000,
-                    "bidprice": 7.1,
+                    "bidQty": 3000,
+                    "bidprice": 7.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "27-Jul-2023",
@@ -3023,11 +3023,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 180,
-                    "totalBuyQuantity": 24000,
+                    "totalBuyQuantity": 9000,
                     "totalSellQuantity": 9000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 180
@@ -3052,7 +3052,7 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3073,60 +3073,60 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 182.5
             },
             {
                 "CE": {
-                    "askPrice": 7.25,
+                    "askPrice": 7.3,
                     "askQty": 3000,
                     "bidQty": 3000,
-                    "bidprice": 6.55,
+                    "bidprice": 6.7,
                     "change": 0.04999999999999982,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023CE182.50",
-                    "impliedVolatility": 33.48,
+                    "impliedVolatility": 35.27,
                     "lastPrice": 7,
                     "openInterest": 74,
                     "pChange": 0.7194244604316521,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 182.5,
-                    "totalBuyQuantity": 279000,
-                    "totalSellQuantity": 261000,
+                    "totalBuyQuantity": 282000,
+                    "totalSellQuantity": 264000,
                     "totalTradedVolume": 1,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 1.65,
-                    "askQty": 3000,
-                    "bidQty": 9000,
+                    "askQty": 12000,
+                    "bidQty": 6000,
                     "bidprice": 1.6,
-                    "change": -0.5500000000000003,
+                    "change": -0.5000000000000002,
                     "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023PE182.50",
                     "impliedVolatility": 36.43,
-                    "lastPrice": 1.65,
+                    "lastPrice": 1.7,
                     "openInterest": 88,
-                    "pChange": -25.00000000000001,
+                    "pChange": -22.727272727272734,
                     "pchangeinOpenInterest": -3.2967032967032965,
                     "strikePrice": 182.5,
-                    "totalBuyQuantity": 444000,
-                    "totalSellQuantity": 522000,
-                    "totalTradedVolume": 12,
+                    "totalBuyQuantity": 435000,
+                    "totalSellQuantity": 510000,
+                    "totalTradedVolume": 13,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 182.5
             },
             {
                 "CE": {
-                    "askPrice": 12.55,
+                    "askPrice": 12.5,
                     "askQty": 3000,
                     "bidQty": 6000,
                     "bidprice": 12.1,
@@ -3134,7 +3134,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKZEEL29-06-2023CE185.00",
-                    "impliedVolatility": 0,
+                    "impliedVolatility": 40.47,
                     "lastPrice": 12.5,
                     "openInterest": 26,
                     "pChange": 3.305785123966945,
@@ -3144,36 +3144,36 @@
                     "totalSellQuantity": 18000,
                     "totalTradedVolume": 2,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 8.3,
+                    "askPrice": 8.15,
                     "askQty": 3000,
                     "bidQty": 6000,
-                    "bidprice": 7.95,
+                    "bidprice": 7.9,
                     "change": -0.6000000000000005,
                     "changeinOpenInterest": 1,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKZEEL29-06-2023PE185.00",
-                    "impliedVolatility": 0,
+                    "impliedVolatility": 39.93,
                     "lastPrice": 7.8,
                     "openInterest": 22,
                     "pChange": -7.1428571428571495,
                     "pchangeinOpenInterest": 4.761904761904762,
                     "strikePrice": 185,
                     "totalBuyQuantity": 9000,
-                    "totalSellQuantity": 141000,
+                    "totalSellQuantity": 144000,
                     "totalTradedVolume": 2,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 185
             },
             {
                 "CE": {
-                    "askPrice": 25.5,
-                    "askQty": 3000,
+                    "askPrice": 0,
+                    "askQty": 0,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -3187,87 +3187,87 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 185,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 3000,
+                    "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 185
             },
             {
                 "CE": {
-                    "askPrice": 5.3,
+                    "askPrice": 5.5,
                     "askQty": 3000,
                     "bidQty": 12000,
-                    "bidprice": 5.2,
-                    "change": 0.09999999999999964,
+                    "bidprice": 5.35,
+                    "change": 0.04999999999999982,
                     "changeinOpenInterest": -7,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023CE185.00",
-                    "impliedVolatility": 36.26,
-                    "lastPrice": 5.5,
+                    "impliedVolatility": 37.06,
+                    "lastPrice": 5.45,
                     "openInterest": 440,
-                    "pChange": 1.8518518518518452,
+                    "pChange": 0.9259259259259226,
                     "pchangeinOpenInterest": -1.5659955257270695,
                     "strikePrice": 185,
-                    "totalBuyQuantity": 396000,
-                    "totalSellQuantity": 396000,
-                    "totalTradedVolume": 64,
+                    "totalBuyQuantity": 402000,
+                    "totalSellQuantity": 378000,
+                    "totalTradedVolume": 65,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 2.5,
-                    "askQty": 15000,
-                    "bidQty": 3000,
-                    "bidprice": 2.45,
-                    "change": -0.6999999999999997,
-                    "changeinOpenInterest": -22,
+                    "askPrice": 2.45,
+                    "askQty": 6000,
+                    "bidQty": 12000,
+                    "bidprice": 2.35,
+                    "change": -0.5999999999999996,
+                    "changeinOpenInterest": -23,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023PE185.00",
                     "impliedVolatility": 35.57,
-                    "lastPrice": 2.35,
-                    "openInterest": 633,
-                    "pChange": -22.95081967213114,
-                    "pchangeinOpenInterest": -3.3587786259541983,
+                    "lastPrice": 2.45,
+                    "openInterest": 632,
+                    "pChange": -19.672131147540973,
+                    "pchangeinOpenInterest": -3.5114503816793894,
                     "strikePrice": 185,
-                    "totalBuyQuantity": 510000,
-                    "totalSellQuantity": 648000,
-                    "totalTradedVolume": 91,
+                    "totalBuyQuantity": 480000,
+                    "totalSellQuantity": 666000,
+                    "totalTradedVolume": 101,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 185
             },
             {
                 "CE": {
-                    "askPrice": 4,
-                    "askQty": 12000,
-                    "bidQty": 21000,
-                    "bidprice": 3.85,
-                    "change": -0.15000000000000036,
-                    "changeinOpenInterest": -2,
+                    "askPrice": 4.1,
+                    "askQty": 9000,
+                    "bidQty": 3000,
+                    "bidprice": 4,
+                    "change": -0.10000000000000053,
+                    "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023CE187.50",
-                    "impliedVolatility": 37.99,
-                    "lastPrice": 4,
-                    "openInterest": 96,
-                    "pChange": -3.6144578313253093,
-                    "pchangeinOpenInterest": -2.0408163265306123,
+                    "impliedVolatility": 37.58,
+                    "lastPrice": 4.05,
+                    "openInterest": 98,
+                    "pChange": -2.40963855421688,
+                    "pchangeinOpenInterest": 0,
                     "strikePrice": 187.5,
-                    "totalBuyQuantity": 489000,
-                    "totalSellQuantity": 600000,
-                    "totalTradedVolume": 52,
+                    "totalBuyQuantity": 495000,
+                    "totalSellQuantity": 570000,
+                    "totalTradedVolume": 53,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 3.75,
-                    "askQty": 3000,
-                    "bidQty": 6000,
-                    "bidprice": 3.6,
+                    "askPrice": 3.7,
+                    "askQty": 24000,
+                    "bidQty": 9000,
+                    "bidprice": 3.55,
                     "change": -0.9999999999999996,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
@@ -3278,18 +3278,18 @@
                     "pChange": -22.98850574712643,
                     "pchangeinOpenInterest": -1.3157894736842106,
                     "strikePrice": 187.5,
-                    "totalBuyQuantity": 552000,
-                    "totalSellQuantity": 573000,
+                    "totalBuyQuantity": 519000,
+                    "totalSellQuantity": 582000,
                     "totalTradedVolume": 26,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 187.5
             },
             {
                 "CE": {
-                    "askPrice": 13.85,
+                    "askPrice": 14.05,
                     "askQty": 3000,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -3307,11 +3307,11 @@
                     "totalSellQuantity": 126000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 12.5,
-                    "askQty": 3000,
+                    "askPrice": 0,
+                    "askQty": 0,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -3325,10 +3325,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 187.5,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 3000,
+                    "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 187.5
@@ -3338,7 +3338,7 @@
                     "askPrice": 10.1,
                     "askQty": 3000,
                     "bidQty": 3000,
-                    "bidprice": 9.9,
+                    "bidprice": 9.95,
                     "change": 0.20000000000000107,
                     "changeinOpenInterest": 7,
                     "expiryDate": "29-Jun-2023",
@@ -3349,17 +3349,17 @@
                     "pChange": 2.0100502512562923,
                     "pchangeinOpenInterest": 5.737704918032787,
                     "strikePrice": 190,
-                    "totalBuyQuantity": 423000,
-                    "totalSellQuantity": 165000,
+                    "totalBuyQuantity": 432000,
+                    "totalSellQuantity": 168000,
                     "totalTradedVolume": 17,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 10.7,
+                    "askPrice": 10.8,
                     "askQty": 3000,
                     "bidQty": 3000,
-                    "bidprice": 10.45,
+                    "bidprice": 10.5,
                     "change": -0.09999999999999964,
                     "changeinOpenInterest": 7,
                     "expiryDate": "29-Jun-2023",
@@ -3370,57 +3370,57 @@
                     "pChange": -0.909090909090906,
                     "pchangeinOpenInterest": 11.666666666666666,
                     "strikePrice": 190,
-                    "totalBuyQuantity": 48000,
-                    "totalSellQuantity": 39000,
+                    "totalBuyQuantity": 45000,
+                    "totalSellQuantity": 36000,
                     "totalTradedVolume": 10,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 190
             },
             {
                 "CE": {
-                    "askPrice": 3.05,
-                    "askQty": 12000,
-                    "bidQty": 12000,
-                    "bidprice": 3,
-                    "change": -0.1499999999999999,
-                    "changeinOpenInterest": 19,
+                    "askPrice": 3.15,
+                    "askQty": 6000,
+                    "bidQty": 15000,
+                    "bidprice": 3.05,
+                    "change": -0.10000000000000009,
+                    "changeinOpenInterest": 21,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023CE190.00",
-                    "impliedVolatility": 38.17,
-                    "lastPrice": 3,
-                    "openInterest": 1546,
-                    "pChange": -4.761904761904759,
-                    "pchangeinOpenInterest": 1.2442698100851342,
+                    "impliedVolatility": 38.53,
+                    "lastPrice": 3.05,
+                    "openInterest": 1548,
+                    "pChange": -3.174603174603177,
+                    "pchangeinOpenInterest": 1.37524557956778,
                     "strikePrice": 190,
-                    "totalBuyQuantity": 612000,
-                    "totalSellQuantity": 990000,
-                    "totalTradedVolume": 275,
+                    "totalBuyQuantity": 645000,
+                    "totalSellQuantity": 966000,
+                    "totalTradedVolume": 280,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 5.3,
-                    "askQty": 18000,
+                    "askPrice": 5.15,
+                    "askQty": 9000,
                     "bidQty": 9000,
-                    "bidprice": 5.1,
+                    "bidprice": 4.95,
                     "change": -0.8499999999999996,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023PE190.00",
-                    "impliedVolatility": 36.35,
+                    "impliedVolatility": 37.69,
                     "lastPrice": 5,
                     "openInterest": 629,
                     "pChange": -14.529914529914526,
                     "pchangeinOpenInterest": -0.15873015873015872,
                     "strikePrice": 190,
-                    "totalBuyQuantity": 387000,
-                    "totalSellQuantity": 309000,
+                    "totalBuyQuantity": 366000,
+                    "totalSellQuantity": 303000,
                     "totalTradedVolume": 42,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 190
@@ -3445,38 +3445,38 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 190
             },
             {
                 "CE": {
-                    "askPrice": 2.25,
-                    "askQty": 24000,
-                    "bidQty": 27000,
-                    "bidprice": 2.1,
+                    "askPrice": 2.3,
+                    "askQty": 27000,
+                    "bidQty": 6000,
+                    "bidprice": 2.2,
                     "change": -0.04999999999999982,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023CE192.50",
-                    "impliedVolatility": 39.48,
+                    "impliedVolatility": 39.16,
                     "lastPrice": 2.25,
                     "openInterest": 176,
                     "pChange": -2.173913043478253,
                     "pchangeinOpenInterest": -1.1235955056179776,
                     "strikePrice": 192.5,
-                    "totalBuyQuantity": 435000,
-                    "totalSellQuantity": 615000,
+                    "totalBuyQuantity": 477000,
+                    "totalSellQuantity": 579000,
                     "totalTradedVolume": 34,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 7,
+                    "askPrice": 7.15,
                     "askQty": 3000,
                     "bidQty": 3000,
-                    "bidprice": 6.15,
+                    "bidprice": 6.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3487,18 +3487,18 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 192.5,
-                    "totalBuyQuantity": 297000,
-                    "totalSellQuantity": 249000,
+                    "totalBuyQuantity": 276000,
+                    "totalSellQuantity": 252000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 192.5
             },
             {
                 "CE": {
-                    "askPrice": 18.25,
+                    "askPrice": 16.85,
                     "askQty": 3000,
                     "bidQty": 120000,
                     "bidprice": 4.85,
@@ -3516,7 +3516,7 @@
                     "totalSellQuantity": 123000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3537,16 +3537,16 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 192.5
             },
             {
                 "CE": {
-                    "askPrice": 1.65,
-                    "askQty": 30000,
-                    "bidQty": 6000,
+                    "askPrice": 1.7,
+                    "askQty": 21000,
+                    "bidQty": 33000,
                     "bidprice": 1.6,
                     "change": -0.10000000000000009,
                     "changeinOpenInterest": 4,
@@ -3558,63 +3558,63 @@
                     "pChange": -5.71428571428572,
                     "pchangeinOpenInterest": 0.4784688995215311,
                     "strikePrice": 195,
-                    "totalBuyQuantity": 687000,
-                    "totalSellQuantity": 723000,
-                    "totalTradedVolume": 68,
+                    "totalBuyQuantity": 714000,
+                    "totalSellQuantity": 693000,
+                    "totalTradedVolume": 71,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 8.7,
-                    "askQty": 3000,
+                    "askPrice": 8.75,
+                    "askQty": 6000,
                     "bidQty": 3000,
-                    "bidprice": 8.15,
+                    "bidprice": 8.35,
                     "change": -0.75,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023PE195.00",
-                    "impliedVolatility": 40.58,
+                    "impliedVolatility": 38.86,
                     "lastPrice": 8.5,
                     "openInterest": 166,
                     "pChange": -8.108108108108109,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 195,
-                    "totalBuyQuantity": 300000,
+                    "totalBuyQuantity": 306000,
                     "totalSellQuantity": 255000,
                     "totalTradedVolume": 2,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 195
             },
             {
                 "CE": {
-                    "askPrice": 8.05,
+                    "askPrice": 8.1,
                     "askQty": 3000,
                     "bidQty": 3000,
                     "bidprice": 7.9,
-                    "change": 0.09999999999999964,
+                    "change": 0.05000000000000071,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKZEEL29-06-2023CE195.00",
-                    "impliedVolatility": 40.32,
-                    "lastPrice": 8.1,
+                    "impliedVolatility": 40.67,
+                    "lastPrice": 8.05,
                     "openInterest": 13,
-                    "pChange": 1.2499999999999956,
+                    "pChange": 0.6250000000000089,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 195,
                     "totalBuyQuantity": 363000,
                     "totalSellQuantity": 114000,
-                    "totalTradedVolume": 1,
+                    "totalTradedVolume": 2,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 13.8,
+                    "askPrice": 13.95,
                     "askQty": 3000,
                     "bidQty": 6000,
-                    "bidprice": 13.35,
+                    "bidprice": 13.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3629,7 +3629,7 @@
                     "totalSellQuantity": 123000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 195
@@ -3637,30 +3637,30 @@
             {
                 "CE": {
                     "askPrice": 1.25,
-                    "askQty": 15000,
-                    "bidQty": 9000,
+                    "askQty": 12000,
+                    "bidQty": 24000,
                     "bidprice": 1.15,
-                    "change": -0.050000000000000044,
+                    "change": -0.10000000000000009,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023CE197.50",
                     "impliedVolatility": 42.17,
-                    "lastPrice": 1.25,
+                    "lastPrice": 1.2,
                     "openInterest": 214,
-                    "pChange": -3.8461538461538494,
+                    "pChange": -7.692307692307699,
                     "pchangeinOpenInterest": -0.46511627906976744,
                     "strikePrice": 197.5,
-                    "totalBuyQuantity": 468000,
-                    "totalSellQuantity": 525000,
-                    "totalTradedVolume": 8,
+                    "totalBuyQuantity": 474000,
+                    "totalSellQuantity": 495000,
+                    "totalTradedVolume": 12,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 11.55,
+                    "askPrice": 11.6,
                     "askQty": 3000,
-                    "bidQty": 3000,
-                    "bidprice": 10.15,
+                    "bidQty": 6000,
+                    "bidprice": 10.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3671,18 +3671,18 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 197.5,
-                    "totalBuyQuantity": 300000,
+                    "totalBuyQuantity": 282000,
                     "totalSellQuantity": 270000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 197.5
             },
             {
                 "CE": {
-                    "askPrice": 11.4,
+                    "askPrice": 10.9,
                     "askQty": 3000,
                     "bidQty": 120000,
                     "bidprice": 3.35,
@@ -3696,11 +3696,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 197.5,
-                    "totalBuyQuantity": 243000,
+                    "totalBuyQuantity": 240000,
                     "totalSellQuantity": 123000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 23.6,
@@ -3721,16 +3721,16 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 197.5
             },
             {
                 "CE": {
-                    "askPrice": 0.9,
-                    "askQty": 27000,
-                    "bidQty": 48000,
+                    "askPrice": 0.95,
+                    "askQty": 39000,
+                    "bidQty": 66000,
                     "bidprice": 0.85,
                     "change": -0.04999999999999993,
                     "changeinOpenInterest": 7,
@@ -3742,32 +3742,32 @@
                     "pChange": -5.263157894736835,
                     "pchangeinOpenInterest": 0.2764612954186414,
                     "strikePrice": 200,
-                    "totalBuyQuantity": 2706000,
-                    "totalSellQuantity": 1314000,
+                    "totalBuyQuantity": 2721000,
+                    "totalSellQuantity": 1296000,
                     "totalTradedVolume": 137,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 12.95,
-                    "askQty": 6000,
+                    "askPrice": 13.2,
+                    "askQty": 3000,
                     "bidQty": 3000,
-                    "bidprice": 12.7,
+                    "bidprice": 12.95,
                     "change": -1.1999999999999993,
                     "changeinOpenInterest": -4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023PE200.00",
-                    "impliedVolatility": 38.11,
+                    "impliedVolatility": 34.65,
                     "lastPrice": 12.4,
                     "openInterest": 594,
                     "pChange": -8.823529411764701,
                     "pchangeinOpenInterest": -0.6688963210702341,
                     "strikePrice": 200,
-                    "totalBuyQuantity": 369000,
-                    "totalSellQuantity": 270000,
+                    "totalBuyQuantity": 372000,
+                    "totalSellQuantity": 264000,
                     "totalTradedVolume": 7,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 200
@@ -3775,30 +3775,30 @@
             {
                 "CE": {
                     "askPrice": 6.4,
-                    "askQty": 6000,
-                    "bidQty": 12000,
-                    "bidprice": 6.25,
+                    "askQty": 9000,
+                    "bidQty": 6000,
+                    "bidprice": 6.3,
                     "change": -0.10000000000000053,
                     "changeinOpenInterest": -15,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKZEEL29-06-2023CE200.00",
-                    "impliedVolatility": 40.91,
+                    "impliedVolatility": 40.61,
                     "lastPrice": 6.3,
                     "openInterest": 280,
                     "pChange": -1.5625000000000084,
                     "pchangeinOpenInterest": -5.084745762711864,
                     "strikePrice": 200,
-                    "totalBuyQuantity": 420000,
+                    "totalBuyQuantity": 426000,
                     "totalSellQuantity": 219000,
                     "totalTradedVolume": 56,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 16.95,
+                    "askPrice": 16.9,
                     "askQty": 3000,
-                    "bidQty": 6000,
-                    "bidprice": 12.05,
+                    "bidQty": 3000,
+                    "bidprice": 14.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3809,36 +3809,36 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 200,
-                    "totalBuyQuantity": 27000,
-                    "totalSellQuantity": 129000,
+                    "totalBuyQuantity": 30000,
+                    "totalSellQuantity": 135000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 200
             },
             {
                 "CE": {
-                    "askPrice": 9.65,
+                    "askPrice": 9.7,
                     "askQty": 3000,
                     "bidQty": 3000,
-                    "bidprice": 9,
+                    "bidprice": 9.45,
                     "change": 0.40000000000000036,
                     "changeinOpenInterest": 0,
                     "expiryDate": "27-Jul-2023",
                     "identifier": "OPTSTKZEEL27-07-2023CE200.00",
-                    "impliedVolatility": 39.58,
+                    "impliedVolatility": 39.85,
                     "lastPrice": 9.5,
                     "openInterest": 29,
                     "pChange": 4.3956043956043995,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 200,
-                    "totalBuyQuantity": 24000,
+                    "totalBuyQuantity": 9000,
                     "totalSellQuantity": 24000,
                     "totalTradedVolume": 1,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 21,
@@ -3859,7 +3859,7 @@
                     "totalSellQuantity": 3000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 200
@@ -3867,30 +3867,30 @@
             {
                 "CE": {
                     "askPrice": 0.65,
-                    "askQty": 21000,
-                    "bidQty": 39000,
-                    "bidprice": 0.55,
+                    "askQty": 33000,
+                    "bidQty": 3000,
+                    "bidprice": 0.6,
                     "change": -0.09999999999999998,
                     "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023CE202.50",
-                    "impliedVolatility": 43.72,
+                    "impliedVolatility": 43.19,
                     "lastPrice": 0.6,
                     "openInterest": 123,
                     "pChange": -14.285714285714283,
                     "pchangeinOpenInterest": -2.380952380952381,
                     "strikePrice": 202.5,
-                    "totalBuyQuantity": 432000,
-                    "totalSellQuantity": 528000,
+                    "totalBuyQuantity": 435000,
+                    "totalSellQuantity": 522000,
                     "totalTradedVolume": 14,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 15.65,
+                    "askPrice": 15.35,
                     "askQty": 3000,
                     "bidQty": 3000,
-                    "bidprice": 14.8,
+                    "bidprice": 14.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3901,18 +3901,18 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 202.5,
-                    "totalBuyQuantity": 201000,
-                    "totalSellQuantity": 174000,
+                    "totalBuyQuantity": 189000,
+                    "totalSellQuantity": 162000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 202.5
             },
             {
                 "CE": {
-                    "askPrice": 6.1,
+                    "askPrice": 6.05,
                     "askQty": 3000,
                     "bidQty": 3000,
                     "bidprice": 5.2,
@@ -3930,7 +3930,7 @@
                     "totalSellQuantity": 123000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 21.85,
@@ -3951,32 +3951,32 @@
                     "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 202.5
             },
             {
                 "CE": {
-                    "askPrice": 5.05,
-                    "askQty": 3000,
+                    "askPrice": 5,
+                    "askQty": 6000,
                     "bidQty": 3000,
-                    "bidprice": 5,
-                    "change": -0.09999999999999964,
+                    "bidprice": 4.75,
+                    "change": 0.15000000000000036,
                     "changeinOpenInterest": 1,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKZEEL29-06-2023CE205.00",
                     "impliedVolatility": 40.21,
-                    "lastPrice": 4.75,
+                    "lastPrice": 5,
                     "openInterest": 6,
-                    "pChange": -2.0618556701030855,
+                    "pChange": 3.0927835051546464,
                     "pchangeinOpenInterest": 20,
                     "strikePrice": 205,
-                    "totalBuyQuantity": 171000,
-                    "totalSellQuantity": 249000,
-                    "totalTradedVolume": 2,
+                    "totalBuyQuantity": 192000,
+                    "totalSellQuantity": 165000,
+                    "totalTradedVolume": 3,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 23.3,
@@ -3997,7 +3997,7 @@
                     "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 205
@@ -4005,30 +4005,30 @@
             {
                 "CE": {
                     "askPrice": 0.4,
-                    "askQty": 12000,
+                    "askQty": 15000,
                     "bidQty": 120000,
                     "bidprice": 0.35,
                     "change": -0.04999999999999999,
                     "changeinOpenInterest": 4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023CE205.00",
-                    "impliedVolatility": 44.35,
+                    "impliedVolatility": 43.52,
                     "lastPrice": 0.4,
                     "openInterest": 1611,
                     "pChange": -11.111111111111107,
                     "pchangeinOpenInterest": 0.24891101431238333,
                     "strikePrice": 205,
                     "totalBuyQuantity": 1128000,
-                    "totalSellQuantity": 705000,
-                    "totalTradedVolume": 23,
+                    "totalSellQuantity": 711000,
+                    "totalTradedVolume": 34,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 17.55,
+                    "askPrice": 17.7,
                     "askQty": 3000,
-                    "bidQty": 3000,
-                    "bidprice": 16.9,
+                    "bidQty": 6000,
+                    "bidprice": 16.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4039,21 +4039,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 205,
-                    "totalBuyQuantity": 195000,
+                    "totalBuyQuantity": 216000,
                     "totalSellQuantity": 165000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 205
             },
             {
                 "CE": {
-                    "askPrice": 4.85,
+                    "askPrice": 4.8,
                     "askQty": 3000,
                     "bidQty": 3000,
-                    "bidprice": 4.05,
+                    "bidprice": 3.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4068,7 +4068,7 @@
                     "totalSellQuantity": 123000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 25.5,
@@ -4089,7 +4089,7 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 207.5
@@ -4097,8 +4097,8 @@
             {
                 "CE": {
                     "askPrice": 0.35,
-                    "askQty": 30000,
-                    "bidQty": 12000,
+                    "askQty": 33000,
+                    "bidQty": 6000,
                     "bidprice": 0.3,
                     "change": 0,
                     "changeinOpenInterest": -1,
@@ -4110,17 +4110,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": -0.2717391304347826,
                     "strikePrice": 207.5,
-                    "totalBuyQuantity": 318000,
-                    "totalSellQuantity": 696000,
+                    "totalBuyQuantity": 303000,
+                    "totalSellQuantity": 672000,
                     "totalTradedVolume": 7,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 20.35,
+                    "askPrice": 20.3,
                     "askQty": 3000,
                     "bidQty": 3000,
-                    "bidprice": 19.85,
+                    "bidprice": 19.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4131,11 +4131,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 207.5,
-                    "totalBuyQuantity": 156000,
-                    "totalSellQuantity": 153000,
+                    "totalBuyQuantity": 153000,
+                    "totalSellQuantity": 150000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 207.5
@@ -4143,45 +4143,45 @@
             {
                 "CE": {
                     "askPrice": 0.35,
-                    "askQty": 36000,
-                    "bidQty": 36000,
+                    "askQty": 48000,
+                    "bidQty": 27000,
                     "bidprice": 0.3,
-                    "change": -0.050000000000000044,
-                    "changeinOpenInterest": -3,
+                    "change": -0.10000000000000003,
+                    "changeinOpenInterest": -10,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023CE210.00",
                     "impliedVolatility": 50.93,
-                    "lastPrice": 0.35,
-                    "openInterest": 1857,
-                    "pChange": -12.50000000000001,
-                    "pchangeinOpenInterest": -0.16129032258064516,
+                    "lastPrice": 0.3,
+                    "openInterest": 1850,
+                    "pChange": -25.000000000000007,
+                    "pchangeinOpenInterest": -0.5376344086021505,
                     "strikePrice": 210,
-                    "totalBuyQuantity": 1812000,
-                    "totalSellQuantity": 618000,
-                    "totalTradedVolume": 72,
+                    "totalBuyQuantity": 1821000,
+                    "totalSellQuantity": 630000,
+                    "totalTradedVolume": 90,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 22.75,
-                    "askQty": 6000,
-                    "bidQty": 6000,
-                    "bidprice": 22.35,
+                    "askPrice": 22.5,
+                    "askQty": 3000,
+                    "bidQty": 9000,
+                    "bidprice": 22.1,
                     "change": -0.7999999999999972,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023PE210.00",
-                    "impliedVolatility": 57.3,
+                    "impliedVolatility": 52.5,
                     "lastPrice": 22.35,
                     "openInterest": 221,
                     "pChange": -3.4557235421166186,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 210,
                     "totalBuyQuantity": 279000,
-                    "totalSellQuantity": 231000,
+                    "totalSellQuantity": 228000,
                     "totalTradedVolume": 2,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 210
@@ -4196,7 +4196,7 @@
                     "changeinOpenInterest": 1,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKZEEL29-06-2023CE210.00",
-                    "impliedVolatility": 41.74,
+                    "impliedVolatility": 41.27,
                     "lastPrice": 3.8,
                     "openInterest": 91,
                     "pChange": -1.2987012987013056,
@@ -4206,7 +4206,7 @@
                     "totalSellQuantity": 225000,
                     "totalTradedVolume": 7,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 25.05,
@@ -4227,7 +4227,7 @@
                     "totalSellQuantity": 126000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 210
@@ -4252,7 +4252,7 @@
                     "totalSellQuantity": 3000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 210
@@ -4277,10 +4277,10 @@
                     "totalSellQuantity": 378000,
                     "totalTradedVolume": 4,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 26.05,
+                    "askPrice": 26.1,
                     "askQty": 9000,
                     "bidQty": 9000,
                     "bidprice": 23.3,
@@ -4294,21 +4294,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 212.5,
-                    "totalBuyQuantity": 156000,
+                    "totalBuyQuantity": 159000,
                     "totalSellQuantity": 159000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 212.5
             },
             {
                 "CE": {
-                    "askPrice": 7.2,
+                    "askPrice": 7.1,
                     "askQty": 120000,
-                    "bidQty": 6000,
-                    "bidprice": 0.35,
+                    "bidQty": 21000,
+                    "bidprice": 0.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4319,11 +4319,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 212.5,
-                    "totalBuyQuantity": 126000,
+                    "totalBuyQuantity": 27000,
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 30.7,
@@ -4344,7 +4344,7 @@
                     "totalSellQuantity": 3000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 212.5
@@ -4359,7 +4359,7 @@
                     "changeinOpenInterest": -9,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023CE215.00",
-                    "impliedVolatility": 55.04,
+                    "impliedVolatility": 55.41,
                     "lastPrice": 0.25,
                     "openInterest": 255,
                     "pChange": 0,
@@ -4369,7 +4369,7 @@
                     "totalSellQuantity": 408000,
                     "totalTradedVolume": 38,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 28.1,
@@ -4390,7 +4390,7 @@
                     "totalSellQuantity": 150000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 215
@@ -4411,11 +4411,11 @@
                     "pChange": 5.35714285714287,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 215,
-                    "totalBuyQuantity": 165000,
+                    "totalBuyQuantity": 162000,
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 1,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 31.4,
@@ -4436,7 +4436,7 @@
                     "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 215
@@ -4461,13 +4461,13 @@
                     "totalSellQuantity": 123000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 32.3,
+                    "askPrice": 32.2,
                     "askQty": 9000,
                     "bidQty": 9000,
-                    "bidprice": 29,
+                    "bidprice": 28.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4482,7 +4482,7 @@
                     "totalSellQuantity": 150000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 217.5
@@ -4507,7 +4507,7 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 35.2,
@@ -4528,7 +4528,7 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 217.5
@@ -4536,24 +4536,24 @@
             {
                 "CE": {
                     "askPrice": 0.2,
-                    "askQty": 3000,
-                    "bidQty": 3000,
+                    "askQty": 6000,
+                    "bidQty": 6000,
                     "bidprice": 0.15,
-                    "change": -0.1,
-                    "changeinOpenInterest": -14,
+                    "change": -0.04999999999999999,
+                    "changeinOpenInterest": -19,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023CE220.00",
                     "impliedVolatility": 57.67,
-                    "lastPrice": 0.15,
-                    "openInterest": 1338,
-                    "pChange": -40,
-                    "pchangeinOpenInterest": -1.0355029585798816,
+                    "lastPrice": 0.2,
+                    "openInterest": 1333,
+                    "pChange": -19.999999999999996,
+                    "pchangeinOpenInterest": -1.4053254437869822,
                     "strikePrice": 220,
-                    "totalBuyQuantity": 1008000,
-                    "totalSellQuantity": 981000,
-                    "totalTradedVolume": 57,
+                    "totalBuyQuantity": 993000,
+                    "totalSellQuantity": 999000,
+                    "totalTradedVolume": 72,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 32.55,
@@ -4574,38 +4574,38 @@
                     "totalSellQuantity": 147000,
                     "totalTradedVolume": 1,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 220
             },
             {
                 "CE": {
-                    "askPrice": 2.55,
-                    "askQty": 3000,
-                    "bidQty": 27000,
-                    "bidprice": 2.3,
-                    "change": 0.1499999999999999,
+                    "askPrice": 2.35,
+                    "askQty": 6000,
+                    "bidQty": 3000,
+                    "bidprice": 2.25,
+                    "change": 0.10000000000000009,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKZEEL29-06-2023CE220.00",
                     "impliedVolatility": 42.4,
-                    "lastPrice": 2.3,
+                    "lastPrice": 2.25,
                     "openInterest": 133,
-                    "pChange": 6.976744186046507,
+                    "pChange": 4.651162790697678,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 220,
-                    "totalBuyQuantity": 435000,
-                    "totalSellQuantity": 255000,
-                    "totalTradedVolume": 8,
+                    "totalBuyQuantity": 402000,
+                    "totalSellQuantity": 261000,
+                    "totalTradedVolume": 19,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 35.9,
-                    "askQty": 15000,
+                    "askPrice": 33.6,
+                    "askQty": 6000,
                     "bidQty": 6000,
-                    "bidprice": 27.55,
+                    "bidprice": 26.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4617,10 +4617,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 220,
                     "totalBuyQuantity": 12000,
-                    "totalSellQuantity": 135000,
+                    "totalSellQuantity": 126000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 220
@@ -4630,7 +4630,7 @@
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 6000,
-                    "bidprice": 1.7,
+                    "bidprice": 1.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "27-Jul-2023",
@@ -4645,7 +4645,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 220
@@ -4670,13 +4670,13 @@
                     "totalSellQuantity": 261000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 36.2,
-                    "askQty": 9000,
-                    "bidQty": 9000,
-                    "bidprice": 33.25,
+                    "askPrice": 36.25,
+                    "askQty": 18000,
+                    "bidQty": 12000,
+                    "bidprice": 33.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4688,10 +4688,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 222.5,
                     "totalBuyQuantity": 150000,
-                    "totalSellQuantity": 147000,
+                    "totalSellQuantity": 138000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 222.5
@@ -4716,7 +4716,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 39.2,
@@ -4737,7 +4737,7 @@
                     "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 222.5
@@ -4762,7 +4762,7 @@
                     "totalSellQuantity": 261000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 37.7,
@@ -4783,7 +4783,7 @@
                     "totalSellQuantity": 150000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 225
@@ -4798,7 +4798,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKZEEL29-06-2023CE225.00",
-                    "impliedVolatility": 42.15,
+                    "impliedVolatility": 42.35,
                     "lastPrice": 1.7,
                     "openInterest": 11,
                     "pChange": -2.85714285714286,
@@ -4808,7 +4808,7 @@
                     "totalSellQuantity": 156000,
                     "totalTradedVolume": 1,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 38.05,
@@ -4829,7 +4829,7 @@
                     "totalSellQuantity": 135000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 225
@@ -4854,13 +4854,13 @@
                     "totalSellQuantity": 135000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 42.35,
+                    "askPrice": 43.15,
                     "askQty": 9000,
-                    "bidQty": 9000,
-                    "bidprice": 38.15,
+                    "bidQty": 6000,
+                    "bidprice": 36.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4871,11 +4871,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 227.5,
-                    "totalBuyQuantity": 138000,
+                    "totalBuyQuantity": 135000,
                     "totalSellQuantity": 135000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 227.5
@@ -4900,7 +4900,7 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 43.7,
@@ -4921,7 +4921,7 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 227.5
@@ -4929,30 +4929,30 @@
             {
                 "CE": {
                     "askPrice": 0.15,
-                    "askQty": 15000,
-                    "bidQty": 342000,
+                    "askQty": 9000,
+                    "bidQty": 354000,
                     "bidprice": 0.1,
                     "change": -0.05000000000000002,
-                    "changeinOpenInterest": -2,
+                    "changeinOpenInterest": -4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023CE230.00",
                     "impliedVolatility": 70.92,
                     "lastPrice": 0.15,
-                    "openInterest": 474,
+                    "openInterest": 472,
                     "pChange": -25.000000000000007,
-                    "pchangeinOpenInterest": -0.42016806722689076,
+                    "pchangeinOpenInterest": -0.8403361344537815,
                     "strikePrice": 230,
-                    "totalBuyQuantity": 894000,
+                    "totalBuyQuantity": 906000,
                     "totalSellQuantity": 315000,
-                    "totalTradedVolume": 14,
+                    "totalTradedVolume": 15,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 43.1,
-                    "askQty": 9000,
+                    "askPrice": 42.7,
+                    "askQty": 12000,
                     "bidQty": 9000,
-                    "bidprice": 40.6,
+                    "bidprice": 41,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4963,11 +4963,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 230,
-                    "totalBuyQuantity": 177000,
-                    "totalSellQuantity": 165000,
+                    "totalBuyQuantity": 165000,
+                    "totalSellQuantity": 159000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 230
@@ -4982,17 +4982,17 @@
                     "changeinOpenInterest": 2,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKZEEL29-06-2023CE230.00",
-                    "impliedVolatility": 43.47,
+                    "impliedVolatility": 43.65,
                     "lastPrice": 1.4,
                     "openInterest": 50,
                     "pChange": 21.73913043478261,
                     "pchangeinOpenInterest": 4.166666666666667,
                     "strikePrice": 230,
                     "totalBuyQuantity": 213000,
-                    "totalSellQuantity": 204000,
+                    "totalSellQuantity": 207000,
                     "totalTradedVolume": 13,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 42.25,
@@ -5013,7 +5013,7 @@
                     "totalSellQuantity": 126000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 230
@@ -5038,13 +5038,13 @@
                     "totalSellQuantity": 123000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 47.1,
-                    "askQty": 9000,
-                    "bidQty": 18000,
-                    "bidprice": 43.05,
+                    "askPrice": 47.15,
+                    "askQty": 18000,
+                    "bidQty": 9000,
+                    "bidprice": 43.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5055,11 +5055,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 232.5,
-                    "totalBuyQuantity": 138000,
-                    "totalSellQuantity": 147000,
+                    "totalBuyQuantity": 147000,
+                    "totalSellQuantity": 138000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 232.5
@@ -5084,7 +5084,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 48.4,
@@ -5105,7 +5105,7 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 232.5
@@ -5130,7 +5130,7 @@
                     "totalSellQuantity": 63000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 48.2,
@@ -5151,7 +5151,7 @@
                     "totalSellQuantity": 138000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 235
@@ -5176,7 +5176,7 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 52.45,
@@ -5197,7 +5197,7 @@
                     "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 235
@@ -5222,7 +5222,7 @@
                     "totalSellQuantity": 243000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 0,
@@ -5243,7 +5243,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 237.5
@@ -5268,10 +5268,10 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
-                    "askPrice": 54.8,
+                    "askPrice": 53.9,
                     "askQty": 9000,
                     "bidQty": 9000,
                     "bidprice": 32.2,
@@ -5289,7 +5289,7 @@
                     "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 237.5
@@ -5314,7 +5314,7 @@
                     "totalSellQuantity": 261000,
                     "totalTradedVolume": 4,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 52.8,
@@ -5335,7 +5335,7 @@
                     "totalSellQuantity": 138000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 240
@@ -5360,7 +5360,7 @@
                     "totalSellQuantity": 123000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 58.55,
@@ -5381,7 +5381,7 @@
                     "totalSellQuantity": 138000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 240
@@ -5406,7 +5406,7 @@
                     "totalSellQuantity": 36000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 62.65,
@@ -5427,7 +5427,7 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 242.5
@@ -5452,7 +5452,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 60.6,
@@ -5473,7 +5473,7 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 242.5
@@ -5488,7 +5488,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023CE245.00",
-                    "impliedVolatility": 77.05,
+                    "impliedVolatility": 77.33,
                     "lastPrice": 0.05,
                     "openInterest": 67,
                     "pChange": -66.66666666666666,
@@ -5498,7 +5498,7 @@
                     "totalSellQuantity": 117000,
                     "totalTradedVolume": 5,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 0,
@@ -5519,7 +5519,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 245
@@ -5544,7 +5544,7 @@
                     "totalSellQuantity": 6000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 62.35,
@@ -5565,7 +5565,7 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 245
@@ -5580,7 +5580,7 @@
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZEEL25-05-2023CE250.00",
-                    "impliedVolatility": 82.15,
+                    "impliedVolatility": 82.43,
                     "lastPrice": 0.05,
                     "openInterest": 421,
                     "pChange": 0,
@@ -5590,7 +5590,7 @@
                     "totalSellQuantity": 453000,
                     "totalTradedVolume": 3,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 66.5,
@@ -5611,7 +5611,7 @@
                     "totalSellQuantity": 135000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 250
@@ -5636,7 +5636,7 @@
                     "totalSellQuantity": 303000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.55
+                    "underlyingValue": 187.7
                 },
                 "PE": {
                     "askPrice": 71.2,
@@ -5657,7 +5657,7 @@
                     "totalSellQuantity": 126000,
                     "totalTradedVolume": 0,
                     "underlying": "ZEEL",
-                    "underlyingValue": 187.65
+                    "underlyingValue": 187.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 255
@@ -5711,7 +5711,7 @@
             250,
             255
         ],
-        "timestamp": "18-May-2023 10:21:15",
-        "underlyingValue": 187.65
+        "timestamp": "18-May-2023 10:25:46",
+        "underlyingValue": 187.7
     }
 }

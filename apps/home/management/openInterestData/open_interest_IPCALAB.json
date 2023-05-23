@@ -1,12 +1,12 @@
 {
     "filtered": {
         "CE": {
-            "totOI": 4207,
-            "totVol": 464
+            "totOI": 4208,
+            "totVol": 481
         },
         "PE": {
-            "totOI": 1897,
-            "totVol": 118
+            "totOI": 1898,
+            "totVol": 120
         },
         "data": [
             {
@@ -29,7 +29,7 @@
                     "totalSellQuantity": 34450,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 560
@@ -54,7 +54,7 @@
                     "totalSellQuantity": 34450,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "PE": {
                     "askPrice": 0,
@@ -75,7 +75,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 570
@@ -100,7 +100,7 @@
                     "totalSellQuantity": 34450,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "PE": {
                     "askPrice": 1.6,
@@ -146,32 +146,32 @@
                     "totalSellQuantity": 34450,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 590
             },
             {
                 "CE": {
-                    "askPrice": 85.2,
-                    "askQty": 1950,
+                    "askPrice": 85.3,
+                    "askQty": 1300,
                     "bidQty": 650,
                     "bidprice": 78.9,
                     "change": 2.799999999999997,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIPCALAB25-05-2023CE600.00",
-                    "impliedVolatility": 76.54,
+                    "impliedVolatility": 73.5,
                     "lastPrice": 85.8,
                     "openInterest": 1,
                     "pChange": 3.373493975903611,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 600,
                     "totalBuyQuantity": 39000,
-                    "totalSellQuantity": 40950,
+                    "totalSellQuantity": 39650,
                     "totalTradedVolume": 1,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "PE": {
                     "askPrice": 0.95,
@@ -217,17 +217,17 @@
                     "totalSellQuantity": 34450,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 610
             },
             {
                 "CE": {
-                    "askPrice": 65.45,
-                    "askQty": 1950,
-                    "bidQty": 1950,
-                    "bidprice": 59.45,
+                    "askPrice": 65.5,
+                    "askQty": 2600,
+                    "bidQty": 2600,
+                    "bidprice": 59.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -242,13 +242,13 @@
                     "totalSellQuantity": 9100,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "PE": {
                     "askPrice": 0.85,
                     "askQty": 650,
-                    "bidQty": 650,
-                    "bidprice": 0.6,
+                    "bidQty": 1300,
+                    "bidprice": 0.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -259,11 +259,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 620,
-                    "totalBuyQuantity": 36400,
-                    "totalSellQuantity": 13650,
+                    "totalBuyQuantity": 40950,
+                    "totalSellQuantity": 46150,
                     "totalTradedVolume": 1,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 620
@@ -288,13 +288,13 @@
                     "totalSellQuantity": 650,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
-                    "bidQty": 5200,
-                    "bidprice": 0.1,
+                    "bidQty": 2600,
+                    "bidprice": 0.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -305,7 +305,7 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 630,
-                    "totalBuyQuantity": 5200,
+                    "totalBuyQuantity": 7800,
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
@@ -316,10 +316,10 @@
             },
             {
                 "CE": {
-                    "askPrice": 46.15,
-                    "askQty": 650,
-                    "bidQty": 1950,
-                    "bidprice": 40.65,
+                    "askPrice": 47.7,
+                    "askQty": 1950,
+                    "bidQty": 650,
+                    "bidprice": 41.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -331,16 +331,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 640,
                     "totalBuyQuantity": 40950,
-                    "totalSellQuantity": 6500,
+                    "totalSellQuantity": 8450,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
                     "underlyingValue": 681.7
                 },
                 "PE": {
-                    "askPrice": 2.9,
+                    "askPrice": 2.4,
                     "askQty": 650,
-                    "bidQty": 650,
-                    "bidprice": 1.5,
+                    "bidQty": 1300,
+                    "bidprice": 1.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -351,11 +351,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 640,
-                    "totalBuyQuantity": 55900,
+                    "totalBuyQuantity": 63050,
                     "totalSellQuantity": 650,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 640
@@ -365,7 +365,7 @@
                     "askPrice": 35.75,
                     "askQty": 650,
                     "bidQty": 650,
-                    "bidprice": 34.9,
+                    "bidprice": 35.05,
                     "change": -4.25,
                     "changeinOpenInterest": 4,
                     "expiryDate": "25-May-2023",
@@ -376,7 +376,7 @@
                     "pChange": -10.828025477707007,
                     "pchangeinOpenInterest": 28.571428571428573,
                     "strikePrice": 650,
-                    "totalBuyQuantity": 55900,
+                    "totalBuyQuantity": 59150,
                     "totalSellQuantity": 25350,
                     "totalTradedVolume": 5,
                     "underlying": "IPCALAB",
@@ -384,34 +384,34 @@
                 },
                 "PE": {
                     "askPrice": 2.95,
-                    "askQty": 650,
-                    "bidQty": 650,
-                    "bidprice": 2.85,
-                    "change": 0.20000000000000018,
+                    "askQty": 1300,
+                    "bidQty": 1300,
+                    "bidprice": 2.75,
+                    "change": 0.10000000000000009,
                     "changeinOpenInterest": -7,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIPCALAB25-05-2023PE650.00",
-                    "impliedVolatility": 36.81,
-                    "lastPrice": 2.95,
+                    "impliedVolatility": 36.76,
+                    "lastPrice": 2.85,
                     "openInterest": 290,
-                    "pChange": 7.27272727272728,
+                    "pChange": 3.63636363636364,
                     "pchangeinOpenInterest": -2.356902356902357,
                     "strikePrice": 650,
-                    "totalBuyQuantity": 92300,
-                    "totalSellQuantity": 109200,
-                    "totalTradedVolume": 32,
+                    "totalBuyQuantity": 94250,
+                    "totalSellQuantity": 108550,
+                    "totalTradedVolume": 33,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 650
             },
             {
                 "CE": {
-                    "askPrice": 28.5,
-                    "askQty": 1300,
-                    "bidQty": 1950,
-                    "bidprice": 24.05,
+                    "askPrice": 27.9,
+                    "askQty": 650,
+                    "bidQty": 650,
+                    "bidprice": 23.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -422,42 +422,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 660,
-                    "totalBuyQuantity": 46150,
+                    "totalBuyQuantity": 46800,
                     "totalSellQuantity": 7800,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "PE": {
                     "askPrice": 5.05,
                     "askQty": 650,
                     "bidQty": 1300,
-                    "bidprice": 4.45,
+                    "bidprice": 4.4,
                     "change": -0.1999999999999993,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIPCALAB25-05-2023PE660.00",
-                    "impliedVolatility": 33.75,
+                    "impliedVolatility": 34.19,
                     "lastPrice": 4.4,
                     "openInterest": 61,
                     "pChange": -4.347826086956506,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 660,
-                    "totalBuyQuantity": 98150,
-                    "totalSellQuantity": 93600,
+                    "totalBuyQuantity": 100750,
+                    "totalSellQuantity": 92950,
                     "totalTradedVolume": 1,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 660
             },
             {
                 "CE": {
-                    "askPrice": 22.05,
-                    "askQty": 1300,
-                    "bidQty": 1950,
-                    "bidprice": 16.8,
+                    "askPrice": 20.25,
+                    "askQty": 650,
+                    "bidQty": 650,
+                    "bidprice": 16.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -468,40 +468,40 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 670,
-                    "totalBuyQuantity": 46150,
-                    "totalSellQuantity": 42250,
+                    "totalBuyQuantity": 46800,
+                    "totalSellQuantity": 40300,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "PE": {
-                    "askPrice": 7.55,
-                    "askQty": 650,
+                    "askPrice": 7.5,
+                    "askQty": 1300,
                     "bidQty": 650,
-                    "bidprice": 7.2,
+                    "bidprice": 7.1,
                     "change": 0.09999999999999964,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIPCALAB25-05-2023PE670.00",
-                    "impliedVolatility": 32.74,
+                    "impliedVolatility": 34.58,
                     "lastPrice": 7.5,
                     "openInterest": 101,
                     "pChange": 1.3513513513513467,
                     "pchangeinOpenInterest": 1,
                     "strikePrice": 670,
-                    "totalBuyQuantity": 112450,
-                    "totalSellQuantity": 108550,
-                    "totalTradedVolume": 16,
+                    "totalBuyQuantity": 115050,
+                    "totalSellQuantity": 107900,
+                    "totalTradedVolume": 17,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 670
             },
             {
                 "CE": {
-                    "askPrice": 14.2,
-                    "askQty": 1950,
+                    "askPrice": 14.15,
+                    "askQty": 650,
                     "bidQty": 650,
                     "bidprice": 13.65,
                     "change": -2.5500000000000007,
@@ -514,63 +514,63 @@
                     "pChange": -15.596330275229361,
                     "pchangeinOpenInterest": 17.391304347826086,
                     "strikePrice": 680,
-                    "totalBuyQuantity": 56550,
-                    "totalSellQuantity": 52000,
+                    "totalBuyQuantity": 57200,
+                    "totalSellQuantity": 51350,
                     "totalTradedVolume": 16,
                     "underlying": "IPCALAB",
                     "underlyingValue": 681.7
                 },
                 "PE": {
                     "askPrice": 11.45,
-                    "askQty": 650,
-                    "bidQty": 650,
-                    "bidprice": 11.1,
+                    "askQty": 1300,
+                    "bidQty": 1300,
+                    "bidprice": 11.05,
                     "change": 0.4499999999999993,
-                    "changeinOpenInterest": 1,
+                    "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIPCALAB25-05-2023PE680.00",
-                    "impliedVolatility": 33,
+                    "impliedVolatility": 35.28,
                     "lastPrice": 11.5,
-                    "openInterest": 210,
+                    "openInterest": 211,
                     "pChange": 4.072398190045242,
-                    "pchangeinOpenInterest": 0.4784688995215311,
+                    "pchangeinOpenInterest": 0.9569377990430622,
                     "strikePrice": 680,
-                    "totalBuyQuantity": 117650,
-                    "totalSellQuantity": 113100,
+                    "totalBuyQuantity": 115700,
+                    "totalSellQuantity": 113750,
                     "totalTradedVolume": 22,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 680
             },
             {
                 "CE": {
-                    "askPrice": 9.45,
-                    "askQty": 1300,
+                    "askPrice": 9.55,
+                    "askQty": 650,
                     "bidQty": 650,
-                    "bidprice": 9.15,
+                    "bidprice": 9.35,
                     "change": -2.0999999999999996,
                     "changeinOpenInterest": 19,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIPCALAB25-05-2023CE690.00",
-                    "impliedVolatility": 32.32,
+                    "impliedVolatility": 33.06,
                     "lastPrice": 9.25,
                     "openInterest": 82,
                     "pChange": -18.502202643171803,
                     "pchangeinOpenInterest": 30.158730158730158,
                     "strikePrice": 690,
                     "totalBuyQuantity": 116350,
-                    "totalSellQuantity": 112450,
+                    "totalSellQuantity": 111800,
                     "totalTradedVolume": 55,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "PE": {
-                    "askPrice": 17.4,
+                    "askPrice": 16.95,
                     "askQty": 650,
                     "bidQty": 650,
-                    "bidprice": 16.6,
+                    "bidprice": 16.45,
                     "change": 1.0500000000000007,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
@@ -581,8 +581,8 @@
                     "pChange": 6.3829787234042605,
                     "pchangeinOpenInterest": 1.4285714285714286,
                     "strikePrice": 690,
-                    "totalBuyQuantity": 72150,
-                    "totalSellQuantity": 35750,
+                    "totalBuyQuantity": 75400,
+                    "totalSellQuantity": 37700,
                     "totalTradedVolume": 6,
                     "underlying": "IPCALAB",
                     "underlyingValue": 681.7
@@ -592,31 +592,31 @@
             },
             {
                 "CE": {
-                    "askPrice": 6.5,
-                    "askQty": 2600,
-                    "bidQty": 1300,
-                    "bidprice": 6.25,
-                    "change": -1.7999999999999998,
-                    "changeinOpenInterest": -11,
-                    "expiryDate": "25-May-2023",
-                    "identifier": "OPTSTKIPCALAB25-05-2023CE700.00",
-                    "impliedVolatility": 33.91,
-                    "lastPrice": 6.2,
-                    "openInterest": 491,
-                    "pChange": -22.499999999999996,
-                    "pchangeinOpenInterest": -2.191235059760956,
-                    "strikePrice": 700,
-                    "totalBuyQuantity": 126750,
-                    "totalSellQuantity": 152100,
-                    "totalTradedVolume": 117,
-                    "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
-                },
-                "PE": {
-                    "askPrice": 24.15,
+                    "askPrice": 6.4,
                     "askQty": 650,
                     "bidQty": 650,
-                    "bidprice": 23.3,
+                    "bidprice": 6.2,
+                    "change": -1.75,
+                    "changeinOpenInterest": -10,
+                    "expiryDate": "25-May-2023",
+                    "identifier": "OPTSTKIPCALAB25-05-2023CE700.00",
+                    "impliedVolatility": 34.16,
+                    "lastPrice": 6.25,
+                    "openInterest": 492,
+                    "pChange": -21.875,
+                    "pchangeinOpenInterest": -1.9920318725099602,
+                    "strikePrice": 700,
+                    "totalBuyQuantity": 127400,
+                    "totalSellQuantity": 153400,
+                    "totalTradedVolume": 119,
+                    "underlying": "IPCALAB",
+                    "underlyingValue": 681.7
+                },
+                "PE": {
+                    "askPrice": 23.95,
+                    "askQty": 1300,
+                    "bidQty": 650,
+                    "bidprice": 23.25,
                     "change": 1.1999999999999993,
                     "changeinOpenInterest": -12,
                     "expiryDate": "25-May-2023",
@@ -627,8 +627,8 @@
                     "pChange": 5.263157894736839,
                     "pchangeinOpenInterest": -4.137931034482759,
                     "strikePrice": 700,
-                    "totalBuyQuantity": 74750,
-                    "totalSellQuantity": 69550,
+                    "totalBuyQuantity": 78000,
+                    "totalSellQuantity": 68900,
                     "totalTradedVolume": 26,
                     "underlying": "IPCALAB",
                     "underlyingValue": 681.7
@@ -638,31 +638,31 @@
             },
             {
                 "CE": {
-                    "askPrice": 4.3,
-                    "askQty": 650,
-                    "bidQty": 650,
-                    "bidprice": 4.1,
-                    "change": -1.3500000000000005,
-                    "changeinOpenInterest": -2,
+                    "askPrice": 4.35,
+                    "askQty": 1300,
+                    "bidQty": 1300,
+                    "bidprice": 4.15,
+                    "change": -1.2000000000000002,
+                    "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIPCALAB25-05-2023CE710.00",
-                    "impliedVolatility": 35.76,
-                    "lastPrice": 4.05,
-                    "openInterest": 170,
-                    "pChange": -25.000000000000007,
-                    "pchangeinOpenInterest": -1.1627906976744187,
+                    "impliedVolatility": 35.15,
+                    "lastPrice": 4.2,
+                    "openInterest": 172,
+                    "pChange": -22.222222222222225,
+                    "pchangeinOpenInterest": 0,
                     "strikePrice": 710,
-                    "totalBuyQuantity": 109200,
-                    "totalSellQuantity": 117650,
-                    "totalTradedVolume": 32,
+                    "totalBuyQuantity": 119600,
+                    "totalSellQuantity": 118300,
+                    "totalTradedVolume": 36,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "PE": {
-                    "askPrice": 33,
+                    "askPrice": 34.25,
                     "askQty": 650,
-                    "bidQty": 650,
-                    "bidprice": 31.05,
+                    "bidQty": 1300,
+                    "bidprice": 31.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -673,42 +673,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 710,
-                    "totalBuyQuantity": 45500,
-                    "totalSellQuantity": 40950,
+                    "totalBuyQuantity": 48100,
+                    "totalSellQuantity": 44200,
                     "totalTradedVolume": 1,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 710
             },
             {
                 "CE": {
-                    "askPrice": 2.9,
-                    "askQty": 650,
+                    "askPrice": 3,
+                    "askQty": 1300,
                     "bidQty": 650,
-                    "bidprice": 2.8,
-                    "change": -1.2000000000000002,
-                    "changeinOpenInterest": -13,
+                    "bidprice": 2.85,
+                    "change": -1.0500000000000003,
+                    "changeinOpenInterest": -14,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIPCALAB25-05-2023CE720.00",
-                    "impliedVolatility": 36.97,
-                    "lastPrice": 2.75,
-                    "openInterest": 465,
-                    "pChange": -30.37974683544304,
-                    "pchangeinOpenInterest": -2.719665271966527,
+                    "impliedVolatility": 36.81,
+                    "lastPrice": 2.9,
+                    "openInterest": 464,
+                    "pChange": -26.58227848101266,
+                    "pchangeinOpenInterest": -2.928870292887029,
                     "strikePrice": 720,
-                    "totalBuyQuantity": 111800,
-                    "totalSellQuantity": 117000,
-                    "totalTradedVolume": 54,
+                    "totalBuyQuantity": 115050,
+                    "totalSellQuantity": 115700,
+                    "totalTradedVolume": 60,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "PE": {
-                    "askPrice": 41.25,
+                    "askPrice": 40.7,
                     "askQty": 650,
-                    "bidQty": 1950,
-                    "bidprice": 39.7,
+                    "bidQty": 1300,
+                    "bidprice": 39.35,
                     "change": -1.0499999999999972,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -719,42 +719,42 @@
                     "pChange": -2.5830258302582956,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 720,
-                    "totalBuyQuantity": 66950,
-                    "totalSellQuantity": 59800,
+                    "totalBuyQuantity": 69550,
+                    "totalSellQuantity": 60450,
                     "totalTradedVolume": 3,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 720
             },
             {
                 "CE": {
-                    "askPrice": 1.9,
-                    "askQty": 1950,
+                    "askPrice": 2.05,
+                    "askQty": 650,
                     "bidQty": 1300,
-                    "bidprice": 1.8,
-                    "change": -0.75,
+                    "bidprice": 1.9,
+                    "change": -0.7999999999999998,
                     "changeinOpenInterest": 4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIPCALAB25-05-2023CE730.00",
                     "impliedVolatility": 38.58,
-                    "lastPrice": 1.9,
+                    "lastPrice": 1.85,
                     "openInterest": 161,
-                    "pChange": -28.30188679245283,
+                    "pChange": -30.188679245283012,
                     "pchangeinOpenInterest": 2.5477707006369426,
                     "strikePrice": 730,
-                    "totalBuyQuantity": 60450,
+                    "totalBuyQuantity": 63050,
                     "totalSellQuantity": 80600,
-                    "totalTradedVolume": 17,
+                    "totalTradedVolume": 20,
                     "underlying": "IPCALAB",
                     "underlyingValue": 681.7
                 },
                 "PE": {
-                    "askPrice": 50.25,
+                    "askPrice": 49.9,
                     "askQty": 650,
-                    "bidQty": 1300,
-                    "bidprice": 48.25,
+                    "bidQty": 650,
+                    "bidprice": 48.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -765,8 +765,8 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 730,
-                    "totalBuyQuantity": 51350,
-                    "totalSellQuantity": 50050,
+                    "totalBuyQuantity": 50700,
+                    "totalSellQuantity": 50700,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
                     "underlyingValue": 681.7
@@ -776,31 +776,31 @@
             },
             {
                 "CE": {
-                    "askPrice": 1.5,
+                    "askPrice": 1.55,
                     "askQty": 1300,
-                    "bidQty": 1300,
-                    "bidprice": 1.4,
-                    "change": -0.44999999999999996,
-                    "changeinOpenInterest": -8,
+                    "bidQty": 650,
+                    "bidprice": 1.5,
+                    "change": -0.3999999999999999,
+                    "changeinOpenInterest": -7,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIPCALAB25-05-2023CE740.00",
                     "impliedVolatility": 40.84,
-                    "lastPrice": 1.45,
-                    "openInterest": 363,
-                    "pChange": -23.684210526315788,
-                    "pchangeinOpenInterest": -2.1563342318059298,
+                    "lastPrice": 1.5,
+                    "openInterest": 364,
+                    "pChange": -21.052631578947363,
+                    "pchangeinOpenInterest": -1.8867924528301887,
                     "strikePrice": 740,
-                    "totalBuyQuantity": 86450,
-                    "totalSellQuantity": 137800,
-                    "totalTradedVolume": 31,
+                    "totalBuyQuantity": 89700,
+                    "totalSellQuantity": 138450,
+                    "totalTradedVolume": 32,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "PE": {
-                    "askPrice": 59.25,
+                    "askPrice": 59.65,
                     "askQty": 650,
-                    "bidQty": 650,
-                    "bidprice": 58.3,
+                    "bidQty": 1300,
+                    "bidprice": 58.1,
                     "change": 0.10000000000000142,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -811,7 +811,7 @@
                     "pChange": 0.175746924428825,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 740,
-                    "totalBuyQuantity": 61100,
+                    "totalBuyQuantity": 61750,
                     "totalSellQuantity": 60450,
                     "totalTradedVolume": 10,
                     "underlying": "IPCALAB",
@@ -822,31 +822,31 @@
             },
             {
                 "CE": {
-                    "askPrice": 1.3,
-                    "askQty": 1300,
-                    "bidQty": 5200,
-                    "bidprice": 1.25,
-                    "change": -0.19999999999999996,
-                    "changeinOpenInterest": -7,
+                    "askPrice": 1.35,
+                    "askQty": 650,
+                    "bidQty": 1300,
+                    "bidprice": 1.2,
+                    "change": -0.1499999999999999,
+                    "changeinOpenInterest": -9,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIPCALAB25-05-2023CE750.00",
-                    "impliedVolatility": 43.77,
-                    "lastPrice": 1.25,
-                    "openInterest": 823,
-                    "pChange": -13.79310344827586,
-                    "pchangeinOpenInterest": -0.8433734939759037,
+                    "impliedVolatility": 43.9,
+                    "lastPrice": 1.3,
+                    "openInterest": 821,
+                    "pChange": -10.344827586206891,
+                    "pchangeinOpenInterest": -1.0843373493975903,
                     "strikePrice": 750,
-                    "totalBuyQuantity": 98800,
-                    "totalSellQuantity": 224900,
-                    "totalTradedVolume": 53,
+                    "totalBuyQuantity": 95550,
+                    "totalSellQuantity": 226200,
+                    "totalTradedVolume": 54,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "PE": {
-                    "askPrice": 69,
+                    "askPrice": 68.9,
                     "askQty": 650,
                     "bidQty": 650,
-                    "bidprice": 67.15,
+                    "bidprice": 66.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -857,26 +857,26 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 750,
-                    "totalBuyQuantity": 59150,
-                    "totalSellQuantity": 59150,
+                    "totalBuyQuantity": 65650,
+                    "totalSellQuantity": 59800,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 750
             },
             {
                 "CE": {
-                    "askPrice": 0.95,
-                    "askQty": 650,
+                    "askPrice": 1,
+                    "askQty": 1300,
                     "bidQty": 650,
                     "bidprice": 0.8,
                     "change": -0.19999999999999996,
                     "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIPCALAB25-05-2023CE760.00",
-                    "impliedVolatility": 47.03,
+                    "impliedVolatility": 46.75,
                     "lastPrice": 0.95,
                     "openInterest": 436,
                     "pChange": -17.391304347826082,
@@ -886,7 +886,7 @@
                     "totalSellQuantity": 108550,
                     "totalTradedVolume": 20,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "PE": {
                     "askPrice": 81.3,
@@ -907,7 +907,7 @@
                     "totalSellQuantity": 44850,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 760
@@ -935,7 +935,7 @@
                     "underlyingValue": 681.7
                 },
                 "PE": {
-                    "askPrice": 93.85,
+                    "askPrice": 92.8,
                     "askQty": 1950,
                     "bidQty": 1950,
                     "bidprice": 85.2,
@@ -963,22 +963,22 @@
                     "askPrice": 0.8,
                     "askQty": 1300,
                     "bidQty": 650,
-                    "bidprice": 0.25,
+                    "bidprice": 0.2,
                     "change": -0.44999999999999996,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIPCALAB25-05-2023CE780.00",
-                    "impliedVolatility": 49.83,
+                    "impliedVolatility": 49.58,
                     "lastPrice": 0.5,
                     "openInterest": 105,
                     "pChange": -47.368421052631575,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 780,
-                    "totalBuyQuantity": 7800,
+                    "totalBuyQuantity": 14950,
                     "totalSellQuantity": 34450,
                     "totalTradedVolume": 4,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "PE": {
                     "askPrice": 101.7,
@@ -999,7 +999,7 @@
                     "totalSellQuantity": 43550,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 780
@@ -1024,7 +1024,7 @@
                     "totalSellQuantity": 35750,
                     "totalTradedVolume": 1,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "PE": {
                     "askPrice": 112.8,
@@ -1045,7 +1045,7 @@
                     "totalSellQuantity": 38350,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 790
@@ -1070,7 +1070,7 @@
                     "totalSellQuantity": 143000,
                     "totalTradedVolume": 58,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "PE": {
                     "askPrice": 123.2,
@@ -1091,7 +1091,7 @@
                     "totalSellQuantity": 46800,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 800
@@ -1116,7 +1116,7 @@
                     "totalSellQuantity": 32500,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "PE": {
                     "askPrice": 134.25,
@@ -1137,7 +1137,7 @@
                     "totalSellQuantity": 32500,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 810
@@ -1162,7 +1162,7 @@
                     "totalSellQuantity": 32500,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "PE": {
                     "askPrice": 149.95,
@@ -1183,7 +1183,7 @@
                     "totalSellQuantity": 34450,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 820
@@ -1229,7 +1229,7 @@
                     "totalSellQuantity": 34450,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 830
@@ -1254,7 +1254,7 @@
                     "totalSellQuantity": 33150,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "PE": {
                     "askPrice": 169.9,
@@ -1275,7 +1275,7 @@
                     "totalSellQuantity": 34450,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 840
@@ -1321,7 +1321,7 @@
                     "totalSellQuantity": 38350,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 850
@@ -1346,7 +1346,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "PE": {
                     "askPrice": 199.45,
@@ -1367,7 +1367,7 @@
                     "totalSellQuantity": 32500,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 860
@@ -1413,7 +1413,7 @@
                     "totalSellQuantity": 32500,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 870
@@ -1459,7 +1459,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 880
@@ -1505,7 +1505,7 @@
                     "totalSellQuantity": 32500,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 890
@@ -1530,7 +1530,7 @@
                     "totalSellQuantity": 650,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1551,7 +1551,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 900
@@ -1576,7 +1576,7 @@
                     "totalSellQuantity": 32500,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "PE": {
                     "askPrice": 252.45,
@@ -1597,7 +1597,7 @@
                     "totalSellQuantity": 32500,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 910
@@ -1622,7 +1622,7 @@
                     "totalSellQuantity": 32500,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1668,7 +1668,7 @@
                     "totalSellQuantity": 32500,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1689,7 +1689,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 930
@@ -1714,7 +1714,7 @@
                     "totalSellQuantity": 32500,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "PE": {
                     "askPrice": 291.3,
@@ -1760,7 +1760,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "PE": {
                     "askPrice": 302.45,
@@ -1781,7 +1781,7 @@
                     "totalSellQuantity": 32500,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 950
@@ -1806,7 +1806,7 @@
                     "totalSellQuantity": 32500,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1827,7 +1827,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 960
@@ -1856,7 +1856,7 @@
                     "totalSellQuantity": 34450,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 560
@@ -1906,7 +1906,7 @@
                     "totalSellQuantity": 1950,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 570
@@ -1931,7 +1931,7 @@
                     "totalSellQuantity": 34450,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1952,7 +1952,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 570
@@ -1977,7 +1977,7 @@
                     "totalSellQuantity": 34450,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "PE": {
                     "askPrice": 1.6,
@@ -2073,32 +2073,32 @@
                     "totalSellQuantity": 34450,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 590
             },
             {
                 "CE": {
-                    "askPrice": 85.2,
-                    "askQty": 1950,
+                    "askPrice": 85.3,
+                    "askQty": 1300,
                     "bidQty": 650,
                     "bidprice": 78.9,
                     "change": 2.799999999999997,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIPCALAB25-05-2023CE600.00",
-                    "impliedVolatility": 76.54,
+                    "impliedVolatility": 73.5,
                     "lastPrice": 85.8,
                     "openInterest": 1,
                     "pChange": 3.373493975903611,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 600,
                     "totalBuyQuantity": 39000,
-                    "totalSellQuantity": 40950,
+                    "totalSellQuantity": 39650,
                     "totalTradedVolume": 1,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "PE": {
                     "askPrice": 0.95,
@@ -2144,7 +2144,7 @@
                     "totalSellQuantity": 1950,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 600
@@ -2169,7 +2169,7 @@
                     "totalSellQuantity": 34450,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 610
@@ -2194,7 +2194,7 @@
                     "totalSellQuantity": 1950,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2222,10 +2222,10 @@
             },
             {
                 "CE": {
-                    "askPrice": 65.45,
-                    "askQty": 1950,
-                    "bidQty": 1950,
-                    "bidprice": 59.45,
+                    "askPrice": 65.5,
+                    "askQty": 2600,
+                    "bidQty": 2600,
+                    "bidprice": 59.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2240,13 +2240,13 @@
                     "totalSellQuantity": 9100,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "PE": {
                     "askPrice": 0.85,
                     "askQty": 650,
-                    "bidQty": 650,
-                    "bidprice": 0.6,
+                    "bidQty": 1300,
+                    "bidprice": 0.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2257,11 +2257,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 620,
-                    "totalBuyQuantity": 36400,
-                    "totalSellQuantity": 13650,
+                    "totalBuyQuantity": 40950,
+                    "totalSellQuantity": 46150,
                     "totalTradedVolume": 1,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 620
@@ -2286,7 +2286,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 620
@@ -2311,13 +2311,13 @@
                     "totalSellQuantity": 650,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
-                    "bidQty": 5200,
-                    "bidprice": 0.1,
+                    "bidQty": 2600,
+                    "bidprice": 0.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2328,7 +2328,7 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 630,
-                    "totalBuyQuantity": 5200,
+                    "totalBuyQuantity": 7800,
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
@@ -2357,17 +2357,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 630
             },
             {
                 "CE": {
-                    "askPrice": 46.15,
-                    "askQty": 650,
-                    "bidQty": 1950,
-                    "bidprice": 40.65,
+                    "askPrice": 47.7,
+                    "askQty": 1950,
+                    "bidQty": 650,
+                    "bidprice": 41.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2379,16 +2379,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 640,
                     "totalBuyQuantity": 40950,
-                    "totalSellQuantity": 6500,
+                    "totalSellQuantity": 8450,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
                     "underlyingValue": 681.7
                 },
                 "PE": {
-                    "askPrice": 2.9,
+                    "askPrice": 2.4,
                     "askQty": 650,
-                    "bidQty": 650,
-                    "bidprice": 1.5,
+                    "bidQty": 1300,
+                    "bidprice": 1.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2399,11 +2399,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 640,
-                    "totalBuyQuantity": 55900,
+                    "totalBuyQuantity": 63050,
                     "totalSellQuantity": 650,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 640
@@ -2428,7 +2428,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2449,7 +2449,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 640
@@ -2459,7 +2459,7 @@
                     "askPrice": 35.75,
                     "askQty": 650,
                     "bidQty": 650,
-                    "bidprice": 34.9,
+                    "bidprice": 35.05,
                     "change": -4.25,
                     "changeinOpenInterest": 4,
                     "expiryDate": "25-May-2023",
@@ -2470,7 +2470,7 @@
                     "pChange": -10.828025477707007,
                     "pchangeinOpenInterest": 28.571428571428573,
                     "strikePrice": 650,
-                    "totalBuyQuantity": 55900,
+                    "totalBuyQuantity": 59150,
                     "totalSellQuantity": 25350,
                     "totalTradedVolume": 5,
                     "underlying": "IPCALAB",
@@ -2478,24 +2478,24 @@
                 },
                 "PE": {
                     "askPrice": 2.95,
-                    "askQty": 650,
-                    "bidQty": 650,
-                    "bidprice": 2.85,
-                    "change": 0.20000000000000018,
+                    "askQty": 1300,
+                    "bidQty": 1300,
+                    "bidprice": 2.75,
+                    "change": 0.10000000000000009,
                     "changeinOpenInterest": -7,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIPCALAB25-05-2023PE650.00",
-                    "impliedVolatility": 36.81,
-                    "lastPrice": 2.95,
+                    "impliedVolatility": 36.76,
+                    "lastPrice": 2.85,
                     "openInterest": 290,
-                    "pChange": 7.27272727272728,
+                    "pChange": 3.63636363636364,
                     "pchangeinOpenInterest": -2.356902356902357,
                     "strikePrice": 650,
-                    "totalBuyQuantity": 92300,
-                    "totalSellQuantity": 109200,
-                    "totalTradedVolume": 32,
+                    "totalBuyQuantity": 94250,
+                    "totalSellQuantity": 108550,
+                    "totalTradedVolume": 33,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 650
@@ -2504,8 +2504,8 @@
                 "CE": {
                     "askPrice": 60.95,
                     "askQty": 3250,
-                    "bidQty": 650,
-                    "bidprice": 40.85,
+                    "bidQty": 1300,
+                    "bidprice": 40.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2516,14 +2516,14 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 650,
-                    "totalBuyQuantity": 3900,
-                    "totalSellQuantity": 3900,
+                    "totalBuyQuantity": 3250,
+                    "totalSellQuantity": 3250,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "PE": {
-                    "askPrice": 14.7,
+                    "askPrice": 13.9,
                     "askQty": 650,
                     "bidQty": 650,
                     "bidprice": 8.55,
@@ -2538,20 +2538,20 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 650,
                     "totalBuyQuantity": 5200,
-                    "totalSellQuantity": 2600,
+                    "totalSellQuantity": 3250,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 650
             },
             {
                 "CE": {
-                    "askPrice": 28.5,
-                    "askQty": 1300,
-                    "bidQty": 1950,
-                    "bidprice": 24.05,
+                    "askPrice": 27.9,
+                    "askQty": 650,
+                    "bidQty": 650,
+                    "bidprice": 23.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2562,32 +2562,32 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 660,
-                    "totalBuyQuantity": 46150,
+                    "totalBuyQuantity": 46800,
                     "totalSellQuantity": 7800,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "PE": {
                     "askPrice": 5.05,
                     "askQty": 650,
                     "bidQty": 1300,
-                    "bidprice": 4.45,
+                    "bidprice": 4.4,
                     "change": -0.1999999999999993,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIPCALAB25-05-2023PE660.00",
-                    "impliedVolatility": 33.75,
+                    "impliedVolatility": 34.19,
                     "lastPrice": 4.4,
                     "openInterest": 61,
                     "pChange": -4.347826086956506,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 660,
-                    "totalBuyQuantity": 98150,
-                    "totalSellQuantity": 93600,
+                    "totalBuyQuantity": 100750,
+                    "totalSellQuantity": 92950,
                     "totalTradedVolume": 1,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 660
@@ -2612,13 +2612,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 2600,
-                    "bidprice": 12.25,
+                    "bidprice": 12.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2633,17 +2633,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 660
             },
             {
                 "CE": {
-                    "askPrice": 22.05,
-                    "askQty": 1300,
-                    "bidQty": 1950,
-                    "bidprice": 16.8,
+                    "askPrice": 20.25,
+                    "askQty": 650,
+                    "bidQty": 650,
+                    "bidprice": 16.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2654,42 +2654,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 670,
-                    "totalBuyQuantity": 46150,
-                    "totalSellQuantity": 42250,
+                    "totalBuyQuantity": 46800,
+                    "totalSellQuantity": 40300,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "PE": {
-                    "askPrice": 7.55,
-                    "askQty": 650,
+                    "askPrice": 7.5,
+                    "askQty": 1300,
                     "bidQty": 650,
-                    "bidprice": 7.2,
+                    "bidprice": 7.1,
                     "change": 0.09999999999999964,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIPCALAB25-05-2023PE670.00",
-                    "impliedVolatility": 32.74,
+                    "impliedVolatility": 34.58,
                     "lastPrice": 7.5,
                     "openInterest": 101,
                     "pChange": 1.3513513513513467,
                     "pchangeinOpenInterest": 1,
                     "strikePrice": 670,
-                    "totalBuyQuantity": 112450,
-                    "totalSellQuantity": 108550,
-                    "totalTradedVolume": 16,
+                    "totalBuyQuantity": 115050,
+                    "totalSellQuantity": 107900,
+                    "totalTradedVolume": 17,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 670
             },
             {
                 "CE": {
-                    "askPrice": 47.8,
-                    "askQty": 1950,
-                    "bidQty": 1950,
-                    "bidprice": 28.3,
+                    "askPrice": 39.85,
+                    "askQty": 1300,
+                    "bidQty": 1300,
+                    "bidprice": 30.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2700,17 +2700,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 670,
-                    "totalBuyQuantity": 3250,
-                    "totalSellQuantity": 3250,
+                    "totalBuyQuantity": 1300,
+                    "totalSellQuantity": 1300,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "PE": {
                     "askPrice": 21.25,
                     "askQty": 1300,
                     "bidQty": 650,
-                    "bidprice": 16.2,
+                    "bidprice": 15.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2725,7 +2725,7 @@
                     "totalSellQuantity": 1300,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 670
@@ -2750,10 +2750,10 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "PE": {
-                    "askPrice": 24.2,
+                    "askPrice": 26.2,
                     "askQty": 650,
                     "bidQty": 650,
                     "bidprice": 23.5,
@@ -2761,25 +2761,25 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKIPCALAB29-06-2023PE680.00",
-                    "impliedVolatility": 30.21,
+                    "impliedVolatility": 30.47,
                     "lastPrice": 23.5,
                     "openInterest": 3,
                     "pChange": -0.8438818565400814,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 680,
-                    "totalBuyQuantity": 70200,
-                    "totalSellQuantity": 37700,
+                    "totalBuyQuantity": 70850,
+                    "totalSellQuantity": 37050,
                     "totalTradedVolume": 2,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 680
             },
             {
                 "CE": {
-                    "askPrice": 14.2,
-                    "askQty": 1950,
+                    "askPrice": 14.15,
+                    "askQty": 650,
                     "bidQty": 650,
                     "bidprice": 13.65,
                     "change": -2.5500000000000007,
@@ -2792,32 +2792,32 @@
                     "pChange": -15.596330275229361,
                     "pchangeinOpenInterest": 17.391304347826086,
                     "strikePrice": 680,
-                    "totalBuyQuantity": 56550,
-                    "totalSellQuantity": 52000,
+                    "totalBuyQuantity": 57200,
+                    "totalSellQuantity": 51350,
                     "totalTradedVolume": 16,
                     "underlying": "IPCALAB",
                     "underlyingValue": 681.7
                 },
                 "PE": {
                     "askPrice": 11.45,
-                    "askQty": 650,
-                    "bidQty": 650,
-                    "bidprice": 11.1,
+                    "askQty": 1300,
+                    "bidQty": 1300,
+                    "bidprice": 11.05,
                     "change": 0.4499999999999993,
-                    "changeinOpenInterest": 1,
+                    "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIPCALAB25-05-2023PE680.00",
-                    "impliedVolatility": 33,
+                    "impliedVolatility": 35.28,
                     "lastPrice": 11.5,
-                    "openInterest": 210,
+                    "openInterest": 211,
                     "pChange": 4.072398190045242,
-                    "pchangeinOpenInterest": 0.4784688995215311,
+                    "pchangeinOpenInterest": 0.9569377990430622,
                     "strikePrice": 680,
-                    "totalBuyQuantity": 117650,
-                    "totalSellQuantity": 113100,
+                    "totalBuyQuantity": 115700,
+                    "totalSellQuantity": 113750,
                     "totalTradedVolume": 22,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 680
@@ -2842,13 +2842,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "PE": {
-                    "askPrice": 32.8,
+                    "askPrice": 30.3,
                     "askQty": 650,
                     "bidQty": 650,
-                    "bidprice": 24.9,
+                    "bidprice": 24.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2860,41 +2860,41 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 690,
                     "totalBuyQuantity": 35100,
-                    "totalSellQuantity": 3900,
+                    "totalSellQuantity": 1950,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 690
             },
             {
                 "CE": {
-                    "askPrice": 9.45,
-                    "askQty": 1300,
+                    "askPrice": 9.55,
+                    "askQty": 650,
                     "bidQty": 650,
-                    "bidprice": 9.15,
+                    "bidprice": 9.35,
                     "change": -2.0999999999999996,
                     "changeinOpenInterest": 19,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIPCALAB25-05-2023CE690.00",
-                    "impliedVolatility": 32.32,
+                    "impliedVolatility": 33.06,
                     "lastPrice": 9.25,
                     "openInterest": 82,
                     "pChange": -18.502202643171803,
                     "pchangeinOpenInterest": 30.158730158730158,
                     "strikePrice": 690,
                     "totalBuyQuantity": 116350,
-                    "totalSellQuantity": 112450,
+                    "totalSellQuantity": 111800,
                     "totalTradedVolume": 55,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "PE": {
-                    "askPrice": 17.4,
+                    "askPrice": 16.95,
                     "askQty": 650,
                     "bidQty": 650,
-                    "bidprice": 16.6,
+                    "bidprice": 16.45,
                     "change": 1.0500000000000007,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
@@ -2905,8 +2905,8 @@
                     "pChange": 6.3829787234042605,
                     "pchangeinOpenInterest": 1.4285714285714286,
                     "strikePrice": 690,
-                    "totalBuyQuantity": 72150,
-                    "totalSellQuantity": 35750,
+                    "totalBuyQuantity": 75400,
+                    "totalSellQuantity": 37700,
                     "totalTradedVolume": 6,
                     "underlying": "IPCALAB",
                     "underlyingValue": 681.7
@@ -2916,31 +2916,31 @@
             },
             {
                 "CE": {
-                    "askPrice": 6.5,
-                    "askQty": 2600,
-                    "bidQty": 1300,
-                    "bidprice": 6.25,
-                    "change": -1.7999999999999998,
-                    "changeinOpenInterest": -11,
-                    "expiryDate": "25-May-2023",
-                    "identifier": "OPTSTKIPCALAB25-05-2023CE700.00",
-                    "impliedVolatility": 33.91,
-                    "lastPrice": 6.2,
-                    "openInterest": 491,
-                    "pChange": -22.499999999999996,
-                    "pchangeinOpenInterest": -2.191235059760956,
-                    "strikePrice": 700,
-                    "totalBuyQuantity": 126750,
-                    "totalSellQuantity": 152100,
-                    "totalTradedVolume": 117,
-                    "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
-                },
-                "PE": {
-                    "askPrice": 24.15,
+                    "askPrice": 6.4,
                     "askQty": 650,
                     "bidQty": 650,
-                    "bidprice": 23.3,
+                    "bidprice": 6.2,
+                    "change": -1.75,
+                    "changeinOpenInterest": -10,
+                    "expiryDate": "25-May-2023",
+                    "identifier": "OPTSTKIPCALAB25-05-2023CE700.00",
+                    "impliedVolatility": 34.16,
+                    "lastPrice": 6.25,
+                    "openInterest": 492,
+                    "pChange": -21.875,
+                    "pchangeinOpenInterest": -1.9920318725099602,
+                    "strikePrice": 700,
+                    "totalBuyQuantity": 127400,
+                    "totalSellQuantity": 153400,
+                    "totalTradedVolume": 119,
+                    "underlying": "IPCALAB",
+                    "underlyingValue": 681.7
+                },
+                "PE": {
+                    "askPrice": 23.95,
+                    "askQty": 1300,
+                    "bidQty": 650,
+                    "bidprice": 23.25,
                     "change": 1.1999999999999993,
                     "changeinOpenInterest": -12,
                     "expiryDate": "25-May-2023",
@@ -2951,8 +2951,8 @@
                     "pChange": 5.263157894736839,
                     "pchangeinOpenInterest": -4.137931034482759,
                     "strikePrice": 700,
-                    "totalBuyQuantity": 74750,
-                    "totalSellQuantity": 69550,
+                    "totalBuyQuantity": 78000,
+                    "totalSellQuantity": 68900,
                     "totalTradedVolume": 26,
                     "underlying": "IPCALAB",
                     "underlyingValue": 681.7
@@ -2962,10 +2962,10 @@
             },
             {
                 "CE": {
-                    "askPrice": 22.05,
+                    "askPrice": 22.1,
                     "askQty": 650,
                     "bidQty": 650,
-                    "bidprice": 20.2,
+                    "bidprice": 20.1,
                     "change": -1.1000000000000014,
                     "changeinOpenInterest": 5,
                     "expiryDate": "29-Jun-2023",
@@ -2983,10 +2983,10 @@
                     "underlyingValue": 681.7
                 },
                 "PE": {
-                    "askPrice": 33.95,
+                    "askPrice": 33.9,
                     "askQty": 650,
                     "bidQty": 650,
-                    "bidprice": 32.25,
+                    "bidprice": 32.2,
                     "change": 0.9500000000000028,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2997,21 +2997,42 @@
                     "pChange": 2.8787878787878873,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 700,
-                    "totalBuyQuantity": 16900,
-                    "totalSellQuantity": 39650,
+                    "totalBuyQuantity": 17550,
+                    "totalSellQuantity": 40300,
                     "totalTradedVolume": 8,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 700
             },
             {
+                "CE": {
+                    "askPrice": 0,
+                    "askQty": 0,
+                    "bidQty": 650,
+                    "bidprice": 15,
+                    "change": 0,
+                    "changeinOpenInterest": 0,
+                    "expiryDate": "29-Jun-2023",
+                    "identifier": "OPTSTKIPCALAB29-06-2023CE710.00",
+                    "impliedVolatility": 0,
+                    "lastPrice": 0,
+                    "openInterest": 1,
+                    "pChange": 0,
+                    "pchangeinOpenInterest": 0,
+                    "strikePrice": 710,
+                    "totalBuyQuantity": 2600,
+                    "totalSellQuantity": 0,
+                    "totalTradedVolume": 0,
+                    "underlying": "IPCALAB",
+                    "underlyingValue": 681.7
+                },
                 "PE": {
                     "askPrice": 57.6,
                     "askQty": 32500,
                     "bidQty": 1950,
-                    "bidprice": 30.8,
+                    "bidprice": 23.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3022,7 +3043,7 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 710,
-                    "totalBuyQuantity": 3250,
+                    "totalBuyQuantity": 1950,
                     "totalSellQuantity": 32500,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
@@ -3033,31 +3054,31 @@
             },
             {
                 "CE": {
-                    "askPrice": 4.3,
-                    "askQty": 650,
-                    "bidQty": 650,
-                    "bidprice": 4.1,
-                    "change": -1.3500000000000005,
-                    "changeinOpenInterest": -2,
+                    "askPrice": 4.35,
+                    "askQty": 1300,
+                    "bidQty": 1300,
+                    "bidprice": 4.15,
+                    "change": -1.2000000000000002,
+                    "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIPCALAB25-05-2023CE710.00",
-                    "impliedVolatility": 35.76,
-                    "lastPrice": 4.05,
-                    "openInterest": 170,
-                    "pChange": -25.000000000000007,
-                    "pchangeinOpenInterest": -1.1627906976744187,
+                    "impliedVolatility": 35.15,
+                    "lastPrice": 4.2,
+                    "openInterest": 172,
+                    "pChange": -22.222222222222225,
+                    "pchangeinOpenInterest": 0,
                     "strikePrice": 710,
-                    "totalBuyQuantity": 109200,
-                    "totalSellQuantity": 117650,
-                    "totalTradedVolume": 32,
+                    "totalBuyQuantity": 119600,
+                    "totalSellQuantity": 118300,
+                    "totalTradedVolume": 36,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "PE": {
-                    "askPrice": 33,
+                    "askPrice": 34.25,
                     "askQty": 650,
-                    "bidQty": 650,
-                    "bidprice": 31.05,
+                    "bidQty": 1300,
+                    "bidprice": 31.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3068,18 +3089,18 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 710,
-                    "totalBuyQuantity": 45500,
-                    "totalSellQuantity": 40950,
+                    "totalBuyQuantity": 48100,
+                    "totalSellQuantity": 44200,
                     "totalTradedVolume": 1,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 710
             },
             {
                 "CE": {
-                    "askPrice": 18.4,
+                    "askPrice": 18.35,
                     "askQty": 650,
                     "bidQty": 650,
                     "bidprice": 11,
@@ -3093,8 +3114,8 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 720,
-                    "totalBuyQuantity": 650,
-                    "totalSellQuantity": 650,
+                    "totalBuyQuantity": 2600,
+                    "totalSellQuantity": 1300,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
                     "underlyingValue": 681.7
@@ -3103,7 +3124,7 @@
                     "askPrice": 60.85,
                     "askQty": 3250,
                     "bidQty": 1950,
-                    "bidprice": 37.3,
+                    "bidprice": 29.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3114,42 +3135,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 720,
-                    "totalBuyQuantity": 3250,
+                    "totalBuyQuantity": 1950,
                     "totalSellQuantity": 35750,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 720
             },
             {
                 "CE": {
-                    "askPrice": 2.9,
-                    "askQty": 650,
+                    "askPrice": 3,
+                    "askQty": 1300,
                     "bidQty": 650,
-                    "bidprice": 2.8,
-                    "change": -1.2000000000000002,
-                    "changeinOpenInterest": -13,
+                    "bidprice": 2.85,
+                    "change": -1.0500000000000003,
+                    "changeinOpenInterest": -14,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIPCALAB25-05-2023CE720.00",
-                    "impliedVolatility": 36.97,
-                    "lastPrice": 2.75,
-                    "openInterest": 465,
-                    "pChange": -30.37974683544304,
-                    "pchangeinOpenInterest": -2.719665271966527,
+                    "impliedVolatility": 36.81,
+                    "lastPrice": 2.9,
+                    "openInterest": 464,
+                    "pChange": -26.58227848101266,
+                    "pchangeinOpenInterest": -2.928870292887029,
                     "strikePrice": 720,
-                    "totalBuyQuantity": 111800,
-                    "totalSellQuantity": 117000,
-                    "totalTradedVolume": 54,
+                    "totalBuyQuantity": 115050,
+                    "totalSellQuantity": 115700,
+                    "totalTradedVolume": 60,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "PE": {
-                    "askPrice": 41.25,
+                    "askPrice": 40.7,
                     "askQty": 650,
-                    "bidQty": 1950,
-                    "bidprice": 39.7,
+                    "bidQty": 1300,
+                    "bidprice": 39.35,
                     "change": -1.0499999999999972,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3160,42 +3181,42 @@
                     "pChange": -2.5830258302582956,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 720,
-                    "totalBuyQuantity": 66950,
-                    "totalSellQuantity": 59800,
+                    "totalBuyQuantity": 69550,
+                    "totalSellQuantity": 60450,
                     "totalTradedVolume": 3,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 720
             },
             {
                 "CE": {
-                    "askPrice": 1.9,
-                    "askQty": 1950,
+                    "askPrice": 2.05,
+                    "askQty": 650,
                     "bidQty": 1300,
-                    "bidprice": 1.8,
-                    "change": -0.75,
+                    "bidprice": 1.9,
+                    "change": -0.7999999999999998,
                     "changeinOpenInterest": 4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIPCALAB25-05-2023CE730.00",
                     "impliedVolatility": 38.58,
-                    "lastPrice": 1.9,
+                    "lastPrice": 1.85,
                     "openInterest": 161,
-                    "pChange": -28.30188679245283,
+                    "pChange": -30.188679245283012,
                     "pchangeinOpenInterest": 2.5477707006369426,
                     "strikePrice": 730,
-                    "totalBuyQuantity": 60450,
+                    "totalBuyQuantity": 63050,
                     "totalSellQuantity": 80600,
-                    "totalTradedVolume": 17,
+                    "totalTradedVolume": 20,
                     "underlying": "IPCALAB",
                     "underlyingValue": 681.7
                 },
                 "PE": {
-                    "askPrice": 50.25,
+                    "askPrice": 49.9,
                     "askQty": 650,
-                    "bidQty": 1300,
-                    "bidprice": 48.25,
+                    "bidQty": 650,
+                    "bidprice": 48.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3206,8 +3227,8 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 730,
-                    "totalBuyQuantity": 51350,
-                    "totalSellQuantity": 50050,
+                    "totalBuyQuantity": 50700,
+                    "totalSellQuantity": 50700,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
                     "underlyingValue": 681.7
@@ -3220,7 +3241,7 @@
                     "askPrice": 76.35,
                     "askQty": 32500,
                     "bidQty": 1950,
-                    "bidprice": 33.7,
+                    "bidprice": 34.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3235,38 +3256,38 @@
                     "totalSellQuantity": 32500,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 730
             },
             {
                 "CE": {
-                    "askPrice": 1.5,
+                    "askPrice": 1.55,
                     "askQty": 1300,
-                    "bidQty": 1300,
-                    "bidprice": 1.4,
-                    "change": -0.44999999999999996,
-                    "changeinOpenInterest": -8,
+                    "bidQty": 650,
+                    "bidprice": 1.5,
+                    "change": -0.3999999999999999,
+                    "changeinOpenInterest": -7,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIPCALAB25-05-2023CE740.00",
                     "impliedVolatility": 40.84,
-                    "lastPrice": 1.45,
-                    "openInterest": 363,
-                    "pChange": -23.684210526315788,
-                    "pchangeinOpenInterest": -2.1563342318059298,
+                    "lastPrice": 1.5,
+                    "openInterest": 364,
+                    "pChange": -21.052631578947363,
+                    "pchangeinOpenInterest": -1.8867924528301887,
                     "strikePrice": 740,
-                    "totalBuyQuantity": 86450,
-                    "totalSellQuantity": 137800,
-                    "totalTradedVolume": 31,
+                    "totalBuyQuantity": 89700,
+                    "totalSellQuantity": 138450,
+                    "totalTradedVolume": 32,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "PE": {
-                    "askPrice": 59.25,
+                    "askPrice": 59.65,
                     "askQty": 650,
-                    "bidQty": 650,
-                    "bidprice": 58.3,
+                    "bidQty": 1300,
+                    "bidprice": 58.1,
                     "change": 0.10000000000000142,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3277,7 +3298,7 @@
                     "pChange": 0.175746924428825,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 740,
-                    "totalBuyQuantity": 61100,
+                    "totalBuyQuantity": 61750,
                     "totalSellQuantity": 60450,
                     "totalTradedVolume": 10,
                     "underlying": "IPCALAB",
@@ -3288,10 +3309,10 @@
             },
             {
                 "PE": {
-                    "askPrice": 84.75,
-                    "askQty": 1950,
+                    "askPrice": 84.7,
+                    "askQty": 32500,
                     "bidQty": 1950,
-                    "bidprice": 37.6,
+                    "bidprice": 38.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3303,7 +3324,7 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 740,
                     "totalBuyQuantity": 1950,
-                    "totalSellQuantity": 34450,
+                    "totalSellQuantity": 32500,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
                     "underlyingValue": 681.7
@@ -3313,31 +3334,31 @@
             },
             {
                 "CE": {
-                    "askPrice": 1.3,
-                    "askQty": 1300,
-                    "bidQty": 5200,
-                    "bidprice": 1.25,
-                    "change": -0.19999999999999996,
-                    "changeinOpenInterest": -7,
+                    "askPrice": 1.35,
+                    "askQty": 650,
+                    "bidQty": 1300,
+                    "bidprice": 1.2,
+                    "change": -0.1499999999999999,
+                    "changeinOpenInterest": -9,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIPCALAB25-05-2023CE750.00",
-                    "impliedVolatility": 43.77,
-                    "lastPrice": 1.25,
-                    "openInterest": 823,
-                    "pChange": -13.79310344827586,
-                    "pchangeinOpenInterest": -0.8433734939759037,
+                    "impliedVolatility": 43.9,
+                    "lastPrice": 1.3,
+                    "openInterest": 821,
+                    "pChange": -10.344827586206891,
+                    "pchangeinOpenInterest": -1.0843373493975903,
                     "strikePrice": 750,
-                    "totalBuyQuantity": 98800,
-                    "totalSellQuantity": 224900,
-                    "totalTradedVolume": 53,
+                    "totalBuyQuantity": 95550,
+                    "totalSellQuantity": 226200,
+                    "totalTradedVolume": 54,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "PE": {
-                    "askPrice": 69,
+                    "askPrice": 68.9,
                     "askQty": 650,
                     "bidQty": 650,
-                    "bidprice": 67.15,
+                    "bidprice": 66.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3348,11 +3369,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 750,
-                    "totalBuyQuantity": 59150,
-                    "totalSellQuantity": 59150,
+                    "totalBuyQuantity": 65650,
+                    "totalSellQuantity": 59800,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 750
@@ -3362,7 +3383,7 @@
                     "askPrice": 10.75,
                     "askQty": 650,
                     "bidQty": 650,
-                    "bidprice": 6.15,
+                    "bidprice": 6.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3377,13 +3398,13 @@
                     "totalSellQuantity": 8450,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "PE": {
-                    "askPrice": 76.35,
+                    "askPrice": 75.15,
                     "askQty": 650,
                     "bidQty": 650,
-                    "bidprice": 56.15,
+                    "bidprice": 67.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3394,26 +3415,26 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 750,
-                    "totalBuyQuantity": 3900,
+                    "totalBuyQuantity": 650,
                     "totalSellQuantity": 33150,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 750
             },
             {
                 "CE": {
-                    "askPrice": 0.95,
-                    "askQty": 650,
+                    "askPrice": 1,
+                    "askQty": 1300,
                     "bidQty": 650,
                     "bidprice": 0.8,
                     "change": -0.19999999999999996,
                     "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIPCALAB25-05-2023CE760.00",
-                    "impliedVolatility": 47.03,
+                    "impliedVolatility": 46.75,
                     "lastPrice": 0.95,
                     "openInterest": 436,
                     "pChange": -17.391304347826082,
@@ -3423,7 +3444,7 @@
                     "totalSellQuantity": 108550,
                     "totalTradedVolume": 20,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "PE": {
                     "askPrice": 81.3,
@@ -3444,7 +3465,7 @@
                     "totalSellQuantity": 44850,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 760
@@ -3469,7 +3490,7 @@
                     "totalSellQuantity": 32500,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 760
@@ -3494,13 +3515,13 @@
                     "totalSellQuantity": 650,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "PE": {
-                    "askPrice": 99.3,
+                    "askPrice": 100.8,
                     "askQty": 1950,
                     "bidQty": 1950,
-                    "bidprice": 80.95,
+                    "bidprice": 73.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3511,8 +3532,8 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 770,
-                    "totalBuyQuantity": 35750,
-                    "totalSellQuantity": 35750,
+                    "totalBuyQuantity": 34450,
+                    "totalSellQuantity": 34450,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
                     "underlyingValue": 681.7
@@ -3543,7 +3564,7 @@
                     "underlyingValue": 681.7
                 },
                 "PE": {
-                    "askPrice": 93.85,
+                    "askPrice": 92.8,
                     "askQty": 1950,
                     "bidQty": 1950,
                     "bidprice": 85.2,
@@ -3586,7 +3607,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "PE": {
                     "askPrice": 116.8,
@@ -3607,7 +3628,7 @@
                     "totalSellQuantity": 32500,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 780
@@ -3617,22 +3638,22 @@
                     "askPrice": 0.8,
                     "askQty": 1300,
                     "bidQty": 650,
-                    "bidprice": 0.25,
+                    "bidprice": 0.2,
                     "change": -0.44999999999999996,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIPCALAB25-05-2023CE780.00",
-                    "impliedVolatility": 49.83,
+                    "impliedVolatility": 49.58,
                     "lastPrice": 0.5,
                     "openInterest": 105,
                     "pChange": -47.368421052631575,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 780,
-                    "totalBuyQuantity": 7800,
+                    "totalBuyQuantity": 14950,
                     "totalSellQuantity": 34450,
                     "totalTradedVolume": 4,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "PE": {
                     "askPrice": 101.7,
@@ -3653,7 +3674,7 @@
                     "totalSellQuantity": 43550,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 780
@@ -3678,7 +3699,7 @@
                     "totalSellQuantity": 35750,
                     "totalTradedVolume": 1,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "PE": {
                     "askPrice": 112.8,
@@ -3699,7 +3720,7 @@
                     "totalSellQuantity": 38350,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 790
@@ -3724,7 +3745,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "PE": {
                     "askPrice": 128.35,
@@ -3745,7 +3766,7 @@
                     "totalSellQuantity": 32500,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 790
@@ -3770,7 +3791,7 @@
                     "totalSellQuantity": 143000,
                     "totalTradedVolume": 58,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "PE": {
                     "askPrice": 123.2,
@@ -3791,7 +3812,7 @@
                     "totalSellQuantity": 46800,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 800
@@ -3819,10 +3840,10 @@
                     "underlyingValue": 681.7
                 },
                 "PE": {
-                    "askPrice": 120.95,
+                    "askPrice": 125.3,
                     "askQty": 650,
                     "bidQty": 650,
-                    "bidprice": 106.55,
+                    "bidprice": 103.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3834,7 +3855,7 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 800,
                     "totalBuyQuantity": 35100,
-                    "totalSellQuantity": 35750,
+                    "totalSellQuantity": 35100,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
                     "underlyingValue": 681.7
@@ -3862,7 +3883,7 @@
                     "totalSellQuantity": 32500,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "PE": {
                     "askPrice": 134.25,
@@ -3883,7 +3904,7 @@
                     "totalSellQuantity": 32500,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 810
@@ -3908,7 +3929,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "PE": {
                     "askPrice": 142.4,
@@ -3929,7 +3950,7 @@
                     "totalSellQuantity": 34450,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 810
@@ -3954,7 +3975,7 @@
                     "totalSellQuantity": 32500,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "PE": {
                     "askPrice": 149.95,
@@ -3975,7 +3996,7 @@
                     "totalSellQuantity": 34450,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 820
@@ -4000,7 +4021,7 @@
                     "totalSellQuantity": 34450,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 820
@@ -4046,7 +4067,7 @@
                     "totalSellQuantity": 34450,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 830
@@ -4071,7 +4092,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "PE": {
                     "askPrice": 158.25,
@@ -4092,7 +4113,7 @@
                     "totalSellQuantity": 34450,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 830
@@ -4117,7 +4138,7 @@
                     "totalSellQuantity": 33150,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "PE": {
                     "askPrice": 169.9,
@@ -4138,7 +4159,7 @@
                     "totalSellQuantity": 34450,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 840
@@ -4163,7 +4184,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "PE": {
                     "askPrice": 169.3,
@@ -4184,7 +4205,7 @@
                     "totalSellQuantity": 34450,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 840
@@ -4230,7 +4251,7 @@
                     "totalSellQuantity": 38350,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 850
@@ -4255,7 +4276,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "PE": {
                     "askPrice": 179.55,
@@ -4301,7 +4322,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "PE": {
                     "askPrice": 199.45,
@@ -4322,7 +4343,7 @@
                     "totalSellQuantity": 32500,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 860
@@ -4347,7 +4368,7 @@
                     "totalSellQuantity": 34450,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 860
@@ -4393,7 +4414,7 @@
                     "totalSellQuantity": 32500,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 870
@@ -4418,7 +4439,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "PE": {
                     "askPrice": 201.25,
@@ -4439,7 +4460,7 @@
                     "totalSellQuantity": 34450,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 870
@@ -4485,7 +4506,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 880
@@ -4577,7 +4598,7 @@
                     "totalSellQuantity": 32500,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 890
@@ -4602,7 +4623,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 890
@@ -4627,7 +4648,7 @@
                     "totalSellQuantity": 650,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "PE": {
                     "askPrice": 0,
@@ -4648,7 +4669,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 900
@@ -4673,7 +4694,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "PE": {
                     "askPrice": 239.35,
@@ -4694,7 +4715,7 @@
                     "totalSellQuantity": 32500,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 900
@@ -4719,7 +4740,7 @@
                     "totalSellQuantity": 32500,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "PE": {
                     "askPrice": 252.45,
@@ -4740,7 +4761,7 @@
                     "totalSellQuantity": 32500,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 910
@@ -4765,7 +4786,7 @@
                     "totalSellQuantity": 32500,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "PE": {
                     "askPrice": 0,
@@ -4811,7 +4832,7 @@
                     "totalSellQuantity": 32500,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "PE": {
                     "askPrice": 0,
@@ -4832,7 +4853,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 930
@@ -4882,7 +4903,7 @@
                     "totalSellQuantity": 32500,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "PE": {
                     "askPrice": 291.3,
@@ -4928,7 +4949,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.7
                 },
                 "PE": {
                     "askPrice": 284,
@@ -4949,7 +4970,7 @@
                     "totalSellQuantity": 32500,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 940
@@ -4974,7 +4995,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "PE": {
                     "askPrice": 302.45,
@@ -4995,7 +5016,7 @@
                     "totalSellQuantity": 32500,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.5
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 950
@@ -5045,7 +5066,7 @@
                     "totalSellQuantity": 32500,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "PE": {
                     "askPrice": 0,
@@ -5066,7 +5087,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IPCALAB",
-                    "underlyingValue": 681.7
+                    "underlyingValue": 681.6
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 960
@@ -5119,7 +5140,7 @@
             950,
             960
         ],
-        "timestamp": "18-May-2023 10:21:15",
-        "underlyingValue": 681.5
+        "timestamp": "18-May-2023 10:26:47",
+        "underlyingValue": 681.6
     }
 }

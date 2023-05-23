@@ -1,20 +1,20 @@
 {
     "filtered": {
         "CE": {
-            "totOI": 12708,
-            "totVol": 2360
+            "totOI": 12706,
+            "totVol": 2510
         },
         "PE": {
-            "totOI": 5242,
-            "totVol": 1009
+            "totOI": 5227,
+            "totVol": 1047
         },
         "data": [
             {
                 "CE": {
-                    "askPrice": 158.2,
+                    "askPrice": 158.1,
                     "askQty": 2100,
                     "bidQty": 2100,
-                    "bidprice": 116.45,
+                    "bidprice": 125.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -29,11 +29,11 @@
                     "totalSellQuantity": 30100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 2.05,
-                    "askQty": 28000,
+                    "askPrice": 0,
+                    "askQty": 0,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -47,10 +47,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 790,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 28000,
+                    "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 790
@@ -75,7 +75,7 @@
                     "totalSellQuantity": 34300,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 0.65,
@@ -96,7 +96,7 @@
                     "totalSellQuantity": 49000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 800
@@ -121,17 +121,38 @@
                     "totalSellQuantity": 30100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
+                },
+                "PE": {
+                    "askPrice": 2.05,
+                    "askQty": 1400,
+                    "bidQty": 4900,
+                    "bidprice": 0.05,
+                    "change": 0,
+                    "changeinOpenInterest": 0,
+                    "expiryDate": "25-May-2023",
+                    "identifier": "OPTSTKSUNPHARMA25-05-2023PE810.00",
+                    "impliedVolatility": 0,
+                    "lastPrice": 0,
+                    "openInterest": 0,
+                    "pChange": 0,
+                    "pchangeinOpenInterest": 0,
+                    "strikePrice": 810,
+                    "totalBuyQuantity": 4900,
+                    "totalSellQuantity": 1400,
+                    "totalTradedVolume": 0,
+                    "underlying": "SUNPHARMA",
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 810
             },
             {
                 "CE": {
-                    "askPrice": 128.15,
+                    "askPrice": 120.05,
                     "askQty": 2100,
                     "bidQty": 2100,
-                    "bidprice": 99.3,
+                    "bidprice": 106.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -142,11 +163,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 820,
-                    "totalBuyQuantity": 30100,
-                    "totalSellQuantity": 30100,
+                    "totalBuyQuantity": 34300,
+                    "totalSellQuantity": 34300,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 0,
@@ -167,7 +188,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 820
@@ -192,13 +213,13 @@
                     "totalSellQuantity": 30100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 1.95,
-                    "askQty": 1400,
-                    "bidQty": 0,
-                    "bidprice": 0,
+                    "askPrice": 1.5,
+                    "askQty": 700,
+                    "bidQty": 4900,
+                    "bidprice": 0.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -209,11 +230,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 830,
-                    "totalBuyQuantity": 0,
-                    "totalSellQuantity": 3500,
+                    "totalBuyQuantity": 4900,
+                    "totalSellQuantity": 4900,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 830
@@ -238,7 +259,7 @@
                     "totalSellQuantity": 36400,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 1.95,
@@ -259,17 +280,17 @@
                     "totalSellQuantity": 2100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 840
             },
             {
                 "CE": {
-                    "askPrice": 86.6,
+                    "askPrice": 85.1,
                     "askQty": 2800,
                     "bidQty": 2800,
-                    "bidprice": 80.2,
+                    "bidprice": 79.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -284,7 +305,7 @@
                     "totalSellQuantity": 37100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 0.85,
@@ -301,11 +322,11 @@
                     "pChange": 7.692307692307682,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 850,
-                    "totalBuyQuantity": 168000,
-                    "totalSellQuantity": 24500,
+                    "totalBuyQuantity": 155400,
+                    "totalSellQuantity": 12600,
                     "totalTradedVolume": 8,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 850
@@ -330,7 +351,7 @@
                     "totalSellQuantity": 36400,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 2.95,
@@ -351,15 +372,15 @@
                     "totalSellQuantity": 30100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 860
             },
             {
                 "CE": {
-                    "askPrice": 68.5,
-                    "askQty": 2100,
+                    "askPrice": 68.35,
+                    "askQty": 700,
                     "bidQty": 700,
                     "bidprice": 58.3,
                     "change": 0,
@@ -373,16 +394,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 870,
                     "totalBuyQuantity": 35000,
-                    "totalSellQuantity": 37100,
+                    "totalSellQuantity": 35700,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 2.95,
+                    "askPrice": 2.85,
                     "askQty": 700,
                     "bidQty": 700,
-                    "bidprice": 0.25,
+                    "bidprice": 0.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -393,18 +414,18 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 870,
-                    "totalBuyQuantity": 80500,
-                    "totalSellQuantity": 2800,
+                    "totalBuyQuantity": 86100,
+                    "totalSellQuantity": 3500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 870
             },
             {
                 "CE": {
-                    "askPrice": 57.7,
+                    "askPrice": 57.4,
                     "askQty": 1400,
                     "bidQty": 700,
                     "bidprice": 49.45,
@@ -422,13 +443,13 @@
                     "totalSellQuantity": 36400,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 1.25,
+                    "askPrice": 1.3,
                     "askQty": 1400,
-                    "bidQty": 2100,
-                    "bidprice": 1.15,
+                    "bidQty": 700,
+                    "bidprice": 1.2,
                     "change": 0.30000000000000004,
                     "changeinOpenInterest": 12,
                     "expiryDate": "25-May-2023",
@@ -439,21 +460,21 @@
                     "pChange": 31.578947368421055,
                     "pchangeinOpenInterest": 7.643312101910828,
                     "strikePrice": 880,
-                    "totalBuyQuantity": 158900,
-                    "totalSellQuantity": 61600,
+                    "totalBuyQuantity": 154700,
+                    "totalSellQuantity": 58100,
                     "totalTradedVolume": 37,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 880
             },
             {
                 "CE": {
-                    "askPrice": 45.75,
-                    "askQty": 700,
+                    "askPrice": 47.8,
+                    "askQty": 2100,
                     "bidQty": 700,
-                    "bidprice": 42.5,
+                    "bidprice": 40.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -464,17 +485,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 890,
-                    "totalBuyQuantity": 36400,
-                    "totalSellQuantity": 36400,
+                    "totalBuyQuantity": 35000,
+                    "totalSellQuantity": 38500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 1.85,
-                    "askQty": 1400,
-                    "bidQty": 2100,
-                    "bidprice": 1.7,
+                    "askPrice": 1.95,
+                    "askQty": 5600,
+                    "bidQty": 1400,
+                    "bidprice": 1.85,
                     "change": 0.5,
                     "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
@@ -485,21 +506,21 @@
                     "pChange": 35.714285714285715,
                     "pchangeinOpenInterest": 12,
                     "strikePrice": 890,
-                    "totalBuyQuantity": 163100,
-                    "totalSellQuantity": 120400,
+                    "totalBuyQuantity": 161000,
+                    "totalSellQuantity": 115500,
                     "totalTradedVolume": 14,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 890
             },
             {
                 "CE": {
-                    "askPrice": 35.25,
-                    "askQty": 700,
+                    "askPrice": 36.55,
+                    "askQty": 1400,
                     "bidQty": 700,
-                    "bidprice": 33.75,
+                    "bidprice": 33.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -511,16 +532,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 900,
                     "totalBuyQuantity": 58800,
-                    "totalSellQuantity": 67900,
+                    "totalSellQuantity": 72800,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 2.75,
-                    "askQty": 1400,
-                    "bidQty": 4200,
-                    "bidprice": 2.6,
+                    "askQty": 2100,
+                    "bidQty": 700,
+                    "bidprice": 2.65,
                     "change": 0.6499999999999999,
                     "changeinOpenInterest": 4,
                     "expiryDate": "25-May-2023",
@@ -531,21 +552,21 @@
                     "pChange": 32.49999999999999,
                     "pchangeinOpenInterest": 0.8080808080808081,
                     "strikePrice": 900,
-                    "totalBuyQuantity": 211400,
-                    "totalSellQuantity": 131600,
+                    "totalBuyQuantity": 206500,
+                    "totalSellQuantity": 129500,
                     "totalTradedVolume": 33,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 900
             },
             {
                 "CE": {
-                    "askPrice": 28.7,
-                    "askQty": 1400,
+                    "askPrice": 26.1,
+                    "askQty": 700,
                     "bidQty": 700,
-                    "bidprice": 25.05,
+                    "bidprice": 24.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -556,247 +577,247 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 910,
-                    "totalBuyQuantity": 39200,
-                    "totalSellQuantity": 13300,
+                    "totalBuyQuantity": 37800,
+                    "totalSellQuantity": 7700,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 4.2,
-                    "askQty": 2100,
-                    "bidQty": 2100,
-                    "bidprice": 4.05,
+                    "askPrice": 4.25,
+                    "askQty": 700,
+                    "bidQty": 700,
+                    "bidprice": 4.2,
                     "change": 0.9499999999999997,
-                    "changeinOpenInterest": 21,
+                    "changeinOpenInterest": 20,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSUNPHARMA25-05-2023PE910.00",
                     "impliedVolatility": 24,
                     "lastPrice": 4.05,
-                    "openInterest": 271,
+                    "openInterest": 270,
                     "pChange": 30.64516129032257,
-                    "pchangeinOpenInterest": 8.4,
+                    "pchangeinOpenInterest": 8,
                     "strikePrice": 910,
-                    "totalBuyQuantity": 207900,
-                    "totalSellQuantity": 209300,
+                    "totalBuyQuantity": 209300,
+                    "totalSellQuantity": 206500,
                     "totalTradedVolume": 88,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 910
             },
             {
                 "CE": {
-                    "askPrice": 18.7,
+                    "askPrice": 18.35,
                     "askQty": 700,
-                    "bidQty": 1400,
-                    "bidprice": 18.4,
-                    "change": -5,
+                    "bidQty": 700,
+                    "bidprice": 18,
+                    "change": -4.800000000000001,
                     "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSUNPHARMA25-05-2023CE920.00",
                     "impliedVolatility": 22.93,
-                    "lastPrice": 18.45,
+                    "lastPrice": 18.65,
                     "openInterest": 27,
-                    "pChange": -21.321961620469086,
+                    "pChange": -20.46908315565032,
                     "pchangeinOpenInterest": 8,
                     "strikePrice": 920,
-                    "totalBuyQuantity": 52500,
-                    "totalSellQuantity": 54600,
-                    "totalTradedVolume": 30,
+                    "totalBuyQuantity": 48300,
+                    "totalSellQuantity": 51100,
+                    "totalTradedVolume": 32,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 6.45,
-                    "askQty": 700,
-                    "bidQty": 2100,
-                    "bidprice": 6.3,
+                    "askPrice": 6.4,
+                    "askQty": 1400,
+                    "bidQty": 700,
+                    "bidprice": 6.25,
                     "change": 1.4499999999999993,
-                    "changeinOpenInterest": 20,
+                    "changeinOpenInterest": 21,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSUNPHARMA25-05-2023PE920.00",
                     "impliedVolatility": 22.11,
                     "lastPrice": 6.35,
-                    "openInterest": 388,
+                    "openInterest": 389,
                     "pChange": 29.59183673469386,
-                    "pchangeinOpenInterest": 5.434782608695652,
+                    "pchangeinOpenInterest": 5.706521739130435,
                     "strikePrice": 920,
-                    "totalBuyQuantity": 134400,
-                    "totalSellQuantity": 117600,
-                    "totalTradedVolume": 189,
+                    "totalBuyQuantity": 131600,
+                    "totalSellQuantity": 119700,
+                    "totalTradedVolume": 195,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 920
             },
             {
                 "CE": {
-                    "askPrice": 12,
-                    "askQty": 2800,
-                    "bidQty": 700,
-                    "bidprice": 11.85,
-                    "change": -3.75,
-                    "changeinOpenInterest": 49,
+                    "askPrice": 11.8,
+                    "askQty": 700,
+                    "bidQty": 1400,
+                    "bidprice": 11.7,
+                    "change": -3.9000000000000004,
+                    "changeinOpenInterest": 52,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSUNPHARMA25-05-2023CE930.00",
                     "impliedVolatility": 21.6,
-                    "lastPrice": 11.85,
-                    "openInterest": 142,
-                    "pChange": -24.03846153846154,
-                    "pchangeinOpenInterest": 52.68817204301075,
+                    "lastPrice": 11.7,
+                    "openInterest": 145,
+                    "pChange": -25.000000000000007,
+                    "pchangeinOpenInterest": 55.913978494623656,
                     "strikePrice": 930,
-                    "totalBuyQuantity": 77000,
-                    "totalSellQuantity": 93100,
-                    "totalTradedVolume": 211,
+                    "totalBuyQuantity": 70700,
+                    "totalSellQuantity": 87500,
+                    "totalTradedVolume": 240,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 9.65,
                     "askQty": 700,
-                    "bidQty": 1400,
-                    "bidprice": 9.5,
-                    "change": 2.1499999999999995,
+                    "bidQty": 2100,
+                    "bidprice": 9.45,
+                    "change": 1.8500000000000005,
                     "changeinOpenInterest": 12,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSUNPHARMA25-05-2023PE930.00",
                     "impliedVolatility": 20.79,
-                    "lastPrice": 9.7,
+                    "lastPrice": 9.4,
                     "openInterest": 612,
-                    "pChange": 28.476821192052977,
+                    "pChange": 24.503311258278153,
                     "pchangeinOpenInterest": 2,
                     "strikePrice": 930,
-                    "totalBuyQuantity": 128100,
-                    "totalSellQuantity": 176400,
-                    "totalTradedVolume": 242,
+                    "totalBuyQuantity": 127400,
+                    "totalSellQuantity": 175700,
+                    "totalTradedVolume": 256,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 930
             },
             {
                 "CE": {
-                    "askPrice": 6.6,
-                    "askQty": 700,
-                    "bidQty": 2800,
-                    "bidprice": 6.5,
-                    "change": -2.9000000000000004,
+                    "askPrice": 6.65,
+                    "askQty": 1400,
+                    "bidQty": 5600,
+                    "bidprice": 6.6,
+                    "change": -2.8000000000000007,
                     "changeinOpenInterest": 82,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSUNPHARMA25-05-2023CE940.00",
                     "impliedVolatility": 19.6,
-                    "lastPrice": 6.5,
+                    "lastPrice": 6.6,
                     "openInterest": 695,
-                    "pChange": -30.851063829787233,
+                    "pChange": -29.787234042553195,
                     "pchangeinOpenInterest": 13.376835236541599,
                     "strikePrice": 940,
-                    "totalBuyQuantity": 119000,
-                    "totalSellQuantity": 167300,
-                    "totalTradedVolume": 420,
+                    "totalBuyQuantity": 138600,
+                    "totalSellQuantity": 173600,
+                    "totalTradedVolume": 449,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 14.45,
+                    "askPrice": 14.7,
                     "askQty": 700,
                     "bidQty": 700,
-                    "bidprice": 14.25,
-                    "change": 3,
-                    "changeinOpenInterest": -8,
+                    "bidprice": 14.4,
+                    "change": 3.1999999999999993,
+                    "changeinOpenInterest": -10,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSUNPHARMA25-05-2023PE940.00",
                     "impliedVolatility": 18.78,
-                    "lastPrice": 14.4,
-                    "openInterest": 451,
-                    "pChange": 26.31578947368421,
-                    "pchangeinOpenInterest": -1.7429193899782136,
+                    "lastPrice": 14.6,
+                    "openInterest": 449,
+                    "pChange": 28.070175438596483,
+                    "pchangeinOpenInterest": -2.178649237472767,
                     "strikePrice": 940,
                     "totalBuyQuantity": 102200,
-                    "totalSellQuantity": 108500,
-                    "totalTradedVolume": 230,
+                    "totalSellQuantity": 107800,
+                    "totalTradedVolume": 242,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 940
             },
             {
                 "CE": {
-                    "askPrice": 3.95,
-                    "askQty": 2800,
-                    "bidQty": 3500,
+                    "askPrice": 3.9,
+                    "askQty": 3500,
+                    "bidQty": 2800,
                     "bidprice": 3.8,
-                    "change": -1.9499999999999997,
-                    "changeinOpenInterest": -51,
+                    "change": -2,
+                    "changeinOpenInterest": -54,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSUNPHARMA25-05-2023CE950.00",
                     "impliedVolatility": 20.37,
-                    "lastPrice": 3.85,
-                    "openInterest": 1201,
-                    "pChange": -33.620689655172406,
-                    "pchangeinOpenInterest": -4.073482428115016,
+                    "lastPrice": 3.8,
+                    "openInterest": 1198,
+                    "pChange": -34.48275862068966,
+                    "pchangeinOpenInterest": -4.313099041533547,
                     "strikePrice": 950,
-                    "totalBuyQuantity": 156100,
-                    "totalSellQuantity": 212800,
-                    "totalTradedVolume": 595,
+                    "totalBuyQuantity": 155400,
+                    "totalSellQuantity": 213500,
+                    "totalTradedVolume": 609,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 21.6,
-                    "askQty": 1400,
+                    "askPrice": 21.7,
+                    "askQty": 700,
                     "bidQty": 700,
                     "bidprice": 21.1,
-                    "change": 3.75,
-                    "changeinOpenInterest": -17,
+                    "change": 3.5500000000000007,
+                    "changeinOpenInterest": -30,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSUNPHARMA25-05-2023PE950.00",
                     "impliedVolatility": 18.93,
-                    "lastPrice": 21.5,
-                    "openInterest": 776,
-                    "pChange": 21.12676056338028,
-                    "pchangeinOpenInterest": -2.1437578814627996,
+                    "lastPrice": 21.3,
+                    "openInterest": 763,
+                    "pChange": 20.000000000000004,
+                    "pchangeinOpenInterest": -3.7831021437578816,
                     "strikePrice": 950,
-                    "totalBuyQuantity": 78400,
-                    "totalSellQuantity": 83300,
-                    "totalTradedVolume": 84,
+                    "totalBuyQuantity": 88200,
+                    "totalSellQuantity": 79100,
+                    "totalTradedVolume": 90,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 950
             },
             {
                 "CE": {
-                    "askPrice": 2.35,
-                    "askQty": 1400,
-                    "bidQty": 1400,
+                    "askPrice": 2.3,
+                    "askQty": 11900,
+                    "bidQty": 700,
                     "bidprice": 2.25,
                     "change": -1.1,
-                    "changeinOpenInterest": 75,
+                    "changeinOpenInterest": 73,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSUNPHARMA25-05-2023CE960.00",
                     "impliedVolatility": 21.29,
                     "lastPrice": 2.3,
-                    "openInterest": 2253,
+                    "openInterest": 2251,
                     "pChange": -32.35294117647059,
-                    "pchangeinOpenInterest": 3.443526170798898,
+                    "pchangeinOpenInterest": 3.351698806244261,
                     "strikePrice": 960,
-                    "totalBuyQuantity": 194600,
-                    "totalSellQuantity": 415100,
-                    "totalTradedVolume": 431,
+                    "totalBuyQuantity": 199500,
+                    "totalSellQuantity": 416500,
+                    "totalTradedVolume": 484,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 30.05,
+                    "askPrice": 30.45,
                     "askQty": 700,
                     "bidQty": 700,
-                    "bidprice": 29.4,
+                    "bidprice": 29.6,
                     "change": 3.799999999999997,
                     "changeinOpenInterest": -15,
                     "expiryDate": "25-May-2023",
@@ -807,20 +828,20 @@
                     "pChange": 15.139442231075684,
                     "pchangeinOpenInterest": -2.358490566037736,
                     "strikePrice": 960,
-                    "totalBuyQuantity": 74900,
-                    "totalSellQuantity": 73500,
+                    "totalBuyQuantity": 75600,
+                    "totalSellQuantity": 72100,
                     "totalTradedVolume": 72,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 960
             },
             {
                 "CE": {
-                    "askPrice": 1.5,
-                    "askQty": 4200,
-                    "bidQty": 4900,
+                    "askPrice": 1.45,
+                    "askQty": 2100,
+                    "bidQty": 1400,
                     "bidprice": 1.4,
                     "change": -0.7000000000000002,
                     "changeinOpenInterest": -30,
@@ -832,17 +853,17 @@
                     "pChange": -33.33333333333334,
                     "pchangeinOpenInterest": -1.8259281801582472,
                     "strikePrice": 970,
-                    "totalBuyQuantity": 203700,
-                    "totalSellQuantity": 275100,
-                    "totalTradedVolume": 166,
+                    "totalBuyQuantity": 195300,
+                    "totalSellQuantity": 273000,
+                    "totalTradedVolume": 172,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 39.4,
-                    "askQty": 1400,
+                    "askPrice": 40,
+                    "askQty": 700,
                     "bidQty": 700,
-                    "bidprice": 38.5,
+                    "bidprice": 38.7,
                     "change": 5,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
@@ -853,20 +874,20 @@
                     "pChange": 14.705882352941178,
                     "pchangeinOpenInterest": -0.2801120448179272,
                     "strikePrice": 970,
-                    "totalBuyQuantity": 72100,
-                    "totalSellQuantity": 63700,
+                    "totalBuyQuantity": 74200,
+                    "totalSellQuantity": 66500,
                     "totalTradedVolume": 8,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 970
             },
             {
                 "CE": {
-                    "askPrice": 0.8,
-                    "askQty": 4200,
-                    "bidQty": 11200,
+                    "askPrice": 0.75,
+                    "askQty": 700,
+                    "bidQty": 9100,
                     "bidprice": 0.7,
                     "change": -0.44999999999999996,
                     "changeinOpenInterest": -15,
@@ -878,17 +899,17 @@
                     "pChange": -37.5,
                     "pchangeinOpenInterest": -0.6796556411418215,
                     "strikePrice": 980,
-                    "totalBuyQuantity": 177800,
-                    "totalSellQuantity": 179900,
-                    "totalTradedVolume": 292,
+                    "totalBuyQuantity": 179200,
+                    "totalSellQuantity": 180600,
+                    "totalTradedVolume": 294,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 48.6,
+                    "askPrice": 48.9,
                     "askQty": 700,
                     "bidQty": 700,
-                    "bidprice": 47.8,
+                    "bidprice": 48.1,
                     "change": 0.8499999999999943,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
@@ -899,11 +920,11 @@
                     "pChange": 1.772679874869644,
                     "pchangeinOpenInterest": -0.6872852233676976,
                     "strikePrice": 980,
-                    "totalBuyQuantity": 67200,
+                    "totalBuyQuantity": 68600,
                     "totalSellQuantity": 67900,
                     "totalTradedVolume": 4,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 980
@@ -911,8 +932,8 @@
             {
                 "CE": {
                     "askPrice": 0.5,
-                    "askQty": 4200,
-                    "bidQty": 4200,
+                    "askQty": 3500,
+                    "bidQty": 1400,
                     "bidprice": 0.45,
                     "change": -0.25,
                     "changeinOpenInterest": -5,
@@ -924,17 +945,17 @@
                     "pChange": -33.33333333333333,
                     "pchangeinOpenInterest": -0.3460207612456747,
                     "strikePrice": 990,
-                    "totalBuyQuantity": 137200,
-                    "totalSellQuantity": 147700,
-                    "totalTradedVolume": 60,
+                    "totalBuyQuantity": 136500,
+                    "totalSellQuantity": 157500,
+                    "totalTradedVolume": 65,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 60.15,
-                    "askQty": 1400,
+                    "askPrice": 61.2,
+                    "askQty": 700,
                     "bidQty": 700,
-                    "bidprice": 56.9,
+                    "bidprice": 57.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -945,11 +966,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 990,
-                    "totalBuyQuantity": 62300,
-                    "totalSellQuantity": 69300,
+                    "totalBuyQuantity": 63000,
+                    "totalSellQuantity": 67900,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 990
@@ -957,30 +978,30 @@
             {
                 "CE": {
                     "askPrice": 0.5,
-                    "askQty": 700,
-                    "bidQty": 6300,
+                    "askQty": 9100,
+                    "bidQty": 4900,
                     "bidprice": 0.45,
-                    "change": -0.25,
+                    "change": -0.3,
                     "changeinOpenInterest": -12,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSUNPHARMA25-05-2023CE1000.00",
                     "impliedVolatility": 27.99,
-                    "lastPrice": 0.5,
+                    "lastPrice": 0.45,
                     "openInterest": 1676,
-                    "pChange": -33.33333333333333,
+                    "pChange": -40,
                     "pchangeinOpenInterest": -0.7109004739336493,
                     "strikePrice": 1000,
-                    "totalBuyQuantity": 155400,
-                    "totalSellQuantity": 165200,
-                    "totalTradedVolume": 59,
+                    "totalBuyQuantity": 153300,
+                    "totalSellQuantity": 172900,
+                    "totalTradedVolume": 63,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 68.45,
-                    "askQty": 700,
-                    "bidQty": 7000,
-                    "bidprice": 64.7,
+                    "askPrice": 69.95,
+                    "askQty": 5600,
+                    "bidQty": 4900,
+                    "bidprice": 66.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -991,11 +1012,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1000,
-                    "totalBuyQuantity": 71400,
-                    "totalSellQuantity": 68600,
+                    "totalBuyQuantity": 69300,
+                    "totalSellQuantity": 72100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1000
@@ -1016,17 +1037,17 @@
                     "pChange": -33.33333333333333,
                     "pchangeinOpenInterest": -4.597701149425287,
                     "strikePrice": 1010,
-                    "totalBuyQuantity": 130200,
-                    "totalSellQuantity": 111300,
+                    "totalBuyQuantity": 134400,
+                    "totalSellQuantity": 110600,
                     "totalTradedVolume": 51,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 80.95,
+                    "askPrice": 82,
                     "askQty": 2100,
                     "bidQty": 700,
-                    "bidprice": 76.35,
+                    "bidprice": 75.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1037,11 +1058,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1010,
-                    "totalBuyQuantity": 36400,
-                    "totalSellQuantity": 39200,
+                    "totalBuyQuantity": 37800,
+                    "totalSellQuantity": 39900,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1010
@@ -1049,30 +1070,30 @@
             {
                 "CE": {
                     "askPrice": 0.4,
-                    "askQty": 2800,
+                    "askQty": 4200,
                     "bidQty": 3500,
                     "bidprice": 0.35,
-                    "change": -0.04999999999999999,
+                    "change": -0.09999999999999998,
                     "changeinOpenInterest": -6,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSUNPHARMA25-05-2023CE1020.00",
                     "impliedVolatility": 33.68,
-                    "lastPrice": 0.45,
+                    "lastPrice": 0.4,
                     "openInterest": 386,
-                    "pChange": -9.999999999999998,
+                    "pChange": -19.999999999999996,
                     "pchangeinOpenInterest": -1.530612244897959,
                     "strikePrice": 1020,
-                    "totalBuyQuantity": 182700,
-                    "totalSellQuantity": 105000,
-                    "totalTradedVolume": 11,
+                    "totalBuyQuantity": 181300,
+                    "totalSellQuantity": 106400,
+                    "totalTradedVolume": 13,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 90.3,
-                    "askQty": 700,
-                    "bidQty": 2100,
-                    "bidprice": 83.6,
+                    "askPrice": 91.75,
+                    "askQty": 2100,
+                    "bidQty": 700,
+                    "bidprice": 85.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1083,11 +1104,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1020,
-                    "totalBuyQuantity": 39200,
-                    "totalSellQuantity": 37800,
+                    "totalBuyQuantity": 37800,
+                    "totalSellQuantity": 39200,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1020
@@ -1109,16 +1130,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1030,
                     "totalBuyQuantity": 128800,
-                    "totalSellQuantity": 97300,
+                    "totalSellQuantity": 96600,
                     "totalTradedVolume": 4,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 101.35,
                     "askQty": 2800,
-                    "bidQty": 2100,
-                    "bidprice": 94.45,
+                    "bidQty": 2800,
+                    "bidprice": 92.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1129,11 +1150,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1030,
-                    "totalBuyQuantity": 39200,
+                    "totalBuyQuantity": 37100,
                     "totalSellQuantity": 37100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1030
@@ -1142,7 +1163,7 @@
                 "CE": {
                     "askPrice": 0.35,
                     "askQty": 2800,
-                    "bidQty": 1400,
+                    "bidQty": 2100,
                     "bidprice": 0.3,
                     "change": -0.04999999999999999,
                     "changeinOpenInterest": -7,
@@ -1154,17 +1175,17 @@
                     "pChange": -11.111111111111107,
                     "pchangeinOpenInterest": -8.75,
                     "strikePrice": 1040,
-                    "totalBuyQuantity": 119000,
+                    "totalBuyQuantity": 123900,
                     "totalSellQuantity": 94500,
                     "totalTradedVolume": 13,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 113.5,
-                    "askQty": 2800,
-                    "bidQty": 2800,
-                    "bidprice": 105.3,
+                    "askPrice": 112.65,
+                    "askQty": 2100,
+                    "bidQty": 4900,
+                    "bidprice": 105,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1175,42 +1196,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1040,
-                    "totalBuyQuantity": 35700,
-                    "totalSellQuantity": 35000,
+                    "totalBuyQuantity": 37800,
+                    "totalSellQuantity": 37100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1040
             },
             {
                 "CE": {
-                    "askPrice": 0.4,
-                    "askQty": 2100,
-                    "bidQty": 4200,
+                    "askPrice": 0.35,
+                    "askQty": 2800,
+                    "bidQty": 2100,
                     "bidprice": 0.25,
-                    "change": -0.04999999999999999,
+                    "change": -0.2,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSUNPHARMA25-05-2023CE1050.00",
                     "impliedVolatility": 41.7,
-                    "lastPrice": 0.4,
+                    "lastPrice": 0.25,
                     "openInterest": 231,
-                    "pChange": -11.111111111111107,
+                    "pChange": -44.44444444444445,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1050,
-                    "totalBuyQuantity": 156800,
-                    "totalSellQuantity": 137900,
-                    "totalTradedVolume": 2,
+                    "totalBuyQuantity": 160300,
+                    "totalSellQuantity": 140700,
+                    "totalTradedVolume": 6,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 122.2,
-                    "askQty": 2100,
-                    "bidQty": 2100,
-                    "bidprice": 114.4,
+                    "askPrice": 123.65,
+                    "askQty": 2800,
+                    "bidQty": 700,
+                    "bidprice": 111.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1221,11 +1242,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1050,
-                    "totalBuyQuantity": 37100,
-                    "totalSellQuantity": 37100,
+                    "totalBuyQuantity": 32900,
+                    "totalSellQuantity": 35000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1050
@@ -1250,13 +1271,13 @@
                     "totalSellQuantity": 51100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 134.4,
-                    "askQty": 4200,
+                    "askPrice": 131.8,
+                    "askQty": 2100,
                     "bidQty": 2100,
-                    "bidprice": 124.65,
+                    "bidprice": 122.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1267,11 +1288,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1060,
-                    "totalBuyQuantity": 37100,
-                    "totalSellQuantity": 32200,
+                    "totalBuyQuantity": 38500,
+                    "totalSellQuantity": 38500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1060
@@ -1296,13 +1317,13 @@
                     "totalSellQuantity": 35700,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 144.45,
                     "askQty": 2100,
-                    "bidQty": 2100,
-                    "bidprice": 132.45,
+                    "bidQty": 4200,
+                    "bidprice": 130.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1313,11 +1334,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1070,
-                    "totalBuyQuantity": 35700,
+                    "totalBuyQuantity": 32200,
                     "totalSellQuantity": 34300,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1070
@@ -1342,7 +1363,7 @@
                     "totalSellQuantity": 39900,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 154.05,
@@ -1363,7 +1384,7 @@
                     "totalSellQuantity": 34300,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1080
@@ -1388,7 +1409,7 @@
                     "totalSellQuantity": 49000,
                     "totalTradedVolume": 1,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 163.9,
@@ -1409,7 +1430,7 @@
                     "totalSellQuantity": 34300,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1090
@@ -1417,7 +1438,7 @@
             {
                 "CE": {
                     "askPrice": 0.3,
-                    "askQty": 3500,
+                    "askQty": 6300,
                     "bidQty": 700,
                     "bidprice": 0.25,
                     "change": -0.15000000000000002,
@@ -1431,10 +1452,10 @@
                     "pchangeinOpenInterest": -3.4482758620689653,
                     "strikePrice": 1100,
                     "totalBuyQuantity": 194600,
-                    "totalSellQuantity": 107800,
+                    "totalSellQuantity": 110600,
                     "totalTradedVolume": 14,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 173.6,
@@ -1455,7 +1476,7 @@
                     "totalSellQuantity": 34300,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1100
@@ -1480,7 +1501,7 @@
                     "totalSellQuantity": 8400,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 189.2,
@@ -1501,15 +1522,15 @@
                     "totalSellQuantity": 30100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1110
             },
             {
                 "CE": {
-                    "askPrice": 2.2,
-                    "askQty": 1400,
+                    "askPrice": 1.75,
+                    "askQty": 2800,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -1523,10 +1544,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1120,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 7000,
+                    "totalSellQuantity": 9100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 199.55,
@@ -1547,15 +1568,15 @@
                     "totalSellQuantity": 30100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1120
             },
             {
                 "CE": {
-                    "askPrice": 2.25,
-                    "askQty": 1400,
+                    "askPrice": 1.4,
+                    "askQty": 2800,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -1569,16 +1590,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1130,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 7000,
+                    "totalSellQuantity": 8400,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 209.55,
                     "askQty": 2100,
                     "bidQty": 2100,
-                    "bidprice": 182.55,
+                    "bidprice": 183.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1593,7 +1614,7 @@
                     "totalSellQuantity": 30100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1130
@@ -1618,13 +1639,13 @@
                     "totalSellQuantity": 7000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 220.1,
                     "askQty": 2100,
                     "bidQty": 2100,
-                    "bidprice": 192.95,
+                    "bidprice": 193.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1639,15 +1660,15 @@
                     "totalSellQuantity": 30100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1140
             },
             {
                 "CE": {
-                    "askPrice": 2,
-                    "askQty": 2800,
+                    "askPrice": 1.5,
+                    "askQty": 1400,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -1661,10 +1682,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1150,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 7000,
+                    "totalSellQuantity": 8400,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 230.7,
@@ -1685,15 +1706,15 @@
                     "totalSellQuantity": 30100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1150
             },
             {
                 "CE": {
-                    "askPrice": 3,
-                    "askQty": 2800,
+                    "askPrice": 2.5,
+                    "askQty": 1400,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -1707,10 +1728,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1160,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 2800,
+                    "totalSellQuantity": 4200,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 241.4,
@@ -1731,7 +1752,7 @@
                     "totalSellQuantity": 30100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1160
@@ -1756,7 +1777,7 @@
                     "totalSellQuantity": 2800,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 252.6,
@@ -1777,7 +1798,7 @@
                     "totalSellQuantity": 30100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1170
@@ -1788,10 +1809,10 @@
         "data": [
             {
                 "CE": {
-                    "askPrice": 158.2,
+                    "askPrice": 158.1,
                     "askQty": 2100,
                     "bidQty": 2100,
-                    "bidprice": 116.45,
+                    "bidprice": 125.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1806,11 +1827,11 @@
                     "totalSellQuantity": 30100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 2.05,
-                    "askQty": 28000,
+                    "askPrice": 0,
+                    "askQty": 0,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -1824,10 +1845,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 790,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 28000,
+                    "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 790
@@ -1852,7 +1873,7 @@
                     "totalSellQuantity": 30100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 790
@@ -1877,7 +1898,7 @@
                     "totalSellQuantity": 30100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1898,7 +1919,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 800
@@ -1923,7 +1944,7 @@
                     "totalSellQuantity": 34300,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 0.65,
@@ -1944,7 +1965,7 @@
                     "totalSellQuantity": 49000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 800
@@ -1969,7 +1990,28 @@
                     "totalSellQuantity": 30100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
+                },
+                "PE": {
+                    "askPrice": 2.05,
+                    "askQty": 1400,
+                    "bidQty": 4900,
+                    "bidprice": 0.05,
+                    "change": 0,
+                    "changeinOpenInterest": 0,
+                    "expiryDate": "25-May-2023",
+                    "identifier": "OPTSTKSUNPHARMA25-05-2023PE810.00",
+                    "impliedVolatility": 0,
+                    "lastPrice": 0,
+                    "openInterest": 0,
+                    "pChange": 0,
+                    "pchangeinOpenInterest": 0,
+                    "strikePrice": 810,
+                    "totalBuyQuantity": 4900,
+                    "totalSellQuantity": 1400,
+                    "totalTradedVolume": 0,
+                    "underlying": "SUNPHARMA",
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 810
@@ -1994,7 +2036,7 @@
                     "totalSellQuantity": 30100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2015,7 +2057,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 810
@@ -2040,7 +2082,7 @@
                     "totalSellQuantity": 30100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2061,17 +2103,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 820
             },
             {
                 "CE": {
-                    "askPrice": 128.15,
+                    "askPrice": 120.05,
                     "askQty": 2100,
                     "bidQty": 2100,
-                    "bidprice": 99.3,
+                    "bidprice": 106.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2082,11 +2124,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 820,
-                    "totalBuyQuantity": 30100,
-                    "totalSellQuantity": 30100,
+                    "totalBuyQuantity": 34300,
+                    "totalSellQuantity": 34300,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2107,7 +2149,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 820
@@ -2132,13 +2174,13 @@
                     "totalSellQuantity": 30100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 1.95,
-                    "askQty": 1400,
-                    "bidQty": 0,
-                    "bidprice": 0,
+                    "askPrice": 1.5,
+                    "askQty": 700,
+                    "bidQty": 4900,
+                    "bidprice": 0.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2149,11 +2191,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 830,
-                    "totalBuyQuantity": 0,
-                    "totalSellQuantity": 3500,
+                    "totalBuyQuantity": 4900,
+                    "totalSellQuantity": 4900,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 830
@@ -2178,7 +2220,7 @@
                     "totalSellQuantity": 30100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 830
@@ -2203,7 +2245,7 @@
                     "totalSellQuantity": 36400,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 1.95,
@@ -2224,7 +2266,7 @@
                     "totalSellQuantity": 2100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 840
@@ -2249,7 +2291,7 @@
                     "totalSellQuantity": 30100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2270,17 +2312,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 840
             },
             {
                 "CE": {
-                    "askPrice": 86.6,
+                    "askPrice": 85.1,
                     "askQty": 2800,
                     "bidQty": 2800,
-                    "bidprice": 80.2,
+                    "bidprice": 79.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2295,7 +2337,7 @@
                     "totalSellQuantity": 37100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 0.85,
@@ -2312,11 +2354,11 @@
                     "pChange": 7.692307692307682,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 850,
-                    "totalBuyQuantity": 168000,
-                    "totalSellQuantity": 24500,
+                    "totalBuyQuantity": 155400,
+                    "totalSellQuantity": 12600,
                     "totalTradedVolume": 8,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 850
@@ -2326,7 +2368,7 @@
                     "askPrice": 109.2,
                     "askQty": 2800,
                     "bidQty": 2100,
-                    "bidprice": 87.55,
+                    "bidprice": 78.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2337,11 +2379,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 850,
-                    "totalBuyQuantity": 31500,
+                    "totalBuyQuantity": 30100,
                     "totalSellQuantity": 2800,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 4.95,
@@ -2362,7 +2404,7 @@
                     "totalSellQuantity": 15400,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 850
@@ -2387,7 +2429,7 @@
                     "totalSellQuantity": 36400,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 2.95,
@@ -2408,7 +2450,7 @@
                     "totalSellQuantity": 30100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 860
@@ -2433,7 +2475,7 @@
                     "totalSellQuantity": 28000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2454,15 +2496,15 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 860
             },
             {
                 "CE": {
-                    "askPrice": 68.5,
-                    "askQty": 2100,
+                    "askPrice": 68.35,
+                    "askQty": 700,
                     "bidQty": 700,
                     "bidprice": 58.3,
                     "change": 0,
@@ -2476,16 +2518,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 870,
                     "totalBuyQuantity": 35000,
-                    "totalSellQuantity": 37100,
+                    "totalSellQuantity": 35700,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 2.95,
+                    "askPrice": 2.85,
                     "askQty": 700,
                     "bidQty": 700,
-                    "bidprice": 0.25,
+                    "bidprice": 0.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2496,11 +2538,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 870,
-                    "totalBuyQuantity": 80500,
-                    "totalSellQuantity": 2800,
+                    "totalBuyQuantity": 86100,
+                    "totalSellQuantity": 3500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 870
@@ -2525,7 +2567,7 @@
                     "totalSellQuantity": 28000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2546,14 +2588,14 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 870
             },
             {
                 "CE": {
-                    "askPrice": 57.7,
+                    "askPrice": 57.4,
                     "askQty": 1400,
                     "bidQty": 700,
                     "bidprice": 49.45,
@@ -2571,13 +2613,13 @@
                     "totalSellQuantity": 36400,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 1.25,
+                    "askPrice": 1.3,
                     "askQty": 1400,
-                    "bidQty": 2100,
-                    "bidprice": 1.15,
+                    "bidQty": 700,
+                    "bidprice": 1.2,
                     "change": 0.30000000000000004,
                     "changeinOpenInterest": 12,
                     "expiryDate": "25-May-2023",
@@ -2588,11 +2630,11 @@
                     "pChange": 31.578947368421055,
                     "pchangeinOpenInterest": 7.643312101910828,
                     "strikePrice": 880,
-                    "totalBuyQuantity": 158900,
-                    "totalSellQuantity": 61600,
+                    "totalBuyQuantity": 154700,
+                    "totalSellQuantity": 58100,
                     "totalTradedVolume": 37,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 880
@@ -2617,7 +2659,7 @@
                     "totalSellQuantity": 28000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2638,17 +2680,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 880
             },
             {
                 "CE": {
-                    "askPrice": 45.75,
-                    "askQty": 700,
+                    "askPrice": 47.8,
+                    "askQty": 2100,
                     "bidQty": 700,
-                    "bidprice": 42.5,
+                    "bidprice": 40.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2659,17 +2701,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 890,
-                    "totalBuyQuantity": 36400,
-                    "totalSellQuantity": 36400,
+                    "totalBuyQuantity": 35000,
+                    "totalSellQuantity": 38500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 1.85,
-                    "askQty": 1400,
-                    "bidQty": 2100,
-                    "bidprice": 1.7,
+                    "askPrice": 1.95,
+                    "askQty": 5600,
+                    "bidQty": 1400,
+                    "bidprice": 1.85,
                     "change": 0.5,
                     "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
@@ -2680,21 +2722,21 @@
                     "pChange": 35.714285714285715,
                     "pchangeinOpenInterest": 12,
                     "strikePrice": 890,
-                    "totalBuyQuantity": 163100,
-                    "totalSellQuantity": 120400,
+                    "totalBuyQuantity": 161000,
+                    "totalSellQuantity": 115500,
                     "totalTradedVolume": 14,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 890
             },
             {
                 "CE": {
-                    "askPrice": 81.85,
-                    "askQty": 28000,
+                    "askPrice": 80.5,
+                    "askQty": 2100,
                     "bidQty": 2100,
-                    "bidprice": 37.6,
+                    "bidprice": 50,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2706,16 +2748,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 890,
                     "totalBuyQuantity": 3500,
-                    "totalSellQuantity": 28000,
+                    "totalSellQuantity": 30100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 0,
-                    "askQty": 0,
-                    "bidQty": 2100,
-                    "bidprice": 4.8,
+                    "askPrice": 14,
+                    "askQty": 700,
+                    "bidQty": 700,
+                    "bidprice": 4.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2726,21 +2768,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 890,
-                    "totalBuyQuantity": 125300,
-                    "totalSellQuantity": 0,
+                    "totalBuyQuantity": 126000,
+                    "totalSellQuantity": 1400,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 890
             },
             {
                 "CE": {
-                    "askPrice": 35.25,
-                    "askQty": 700,
+                    "askPrice": 36.55,
+                    "askQty": 1400,
                     "bidQty": 700,
-                    "bidprice": 33.75,
+                    "bidprice": 33.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2752,16 +2794,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 900,
                     "totalBuyQuantity": 58800,
-                    "totalSellQuantity": 67900,
+                    "totalSellQuantity": 72800,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 2.75,
-                    "askQty": 1400,
-                    "bidQty": 4200,
-                    "bidprice": 2.6,
+                    "askQty": 2100,
+                    "bidQty": 700,
+                    "bidprice": 2.65,
                     "change": 0.6499999999999999,
                     "changeinOpenInterest": 4,
                     "expiryDate": "25-May-2023",
@@ -2772,21 +2814,21 @@
                     "pChange": 32.49999999999999,
                     "pchangeinOpenInterest": 0.8080808080808081,
                     "strikePrice": 900,
-                    "totalBuyQuantity": 211400,
-                    "totalSellQuantity": 131600,
+                    "totalBuyQuantity": 206500,
+                    "totalSellQuantity": 129500,
                     "totalTradedVolume": 33,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 900
             },
             {
                 "CE": {
-                    "askPrice": 53.75,
-                    "askQty": 700,
-                    "bidQty": 2100,
-                    "bidprice": 51,
+                    "askPrice": 53.95,
+                    "askQty": 2100,
+                    "bidQty": 700,
+                    "bidprice": 50.95,
                     "change": -4.950000000000003,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2797,17 +2839,17 @@
                     "pChange": -8.684210526315795,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 900,
-                    "totalBuyQuantity": 2100,
-                    "totalSellQuantity": 2100,
+                    "totalBuyQuantity": 2800,
+                    "totalSellQuantity": 3500,
                     "totalTradedVolume": 1,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 14.75,
                     "askQty": 700,
-                    "bidQty": 2100,
-                    "bidprice": 14.2,
+                    "bidQty": 700,
+                    "bidprice": 14.25,
                     "change": 1.6000000000000014,
                     "changeinOpenInterest": 12,
                     "expiryDate": "29-Jun-2023",
@@ -2818,11 +2860,11 @@
                     "pChange": 12.851405622489972,
                     "pchangeinOpenInterest": 17.391304347826086,
                     "strikePrice": 900,
-                    "totalBuyQuantity": 221200,
+                    "totalBuyQuantity": 222600,
                     "totalSellQuantity": 10500,
                     "totalTradedVolume": 21,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 900
@@ -2832,7 +2874,7 @@
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 2100,
-                    "bidprice": 28.15,
+                    "bidprice": 27.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2847,13 +2889,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 700,
-                    "bidprice": 12.7,
+                    "bidprice": 12.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2868,17 +2910,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 910
             },
             {
                 "CE": {
-                    "askPrice": 28.7,
-                    "askQty": 1400,
+                    "askPrice": 26.1,
+                    "askQty": 700,
                     "bidQty": 700,
-                    "bidprice": 25.05,
+                    "bidprice": 24.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2889,32 +2931,32 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 910,
-                    "totalBuyQuantity": 39200,
-                    "totalSellQuantity": 13300,
+                    "totalBuyQuantity": 37800,
+                    "totalSellQuantity": 7700,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 4.2,
-                    "askQty": 2100,
-                    "bidQty": 2100,
-                    "bidprice": 4.05,
+                    "askPrice": 4.25,
+                    "askQty": 700,
+                    "bidQty": 700,
+                    "bidprice": 4.2,
                     "change": 0.9499999999999997,
-                    "changeinOpenInterest": 21,
+                    "changeinOpenInterest": 20,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSUNPHARMA25-05-2023PE910.00",
                     "impliedVolatility": 24,
                     "lastPrice": 4.05,
-                    "openInterest": 271,
+                    "openInterest": 270,
                     "pChange": 30.64516129032257,
-                    "pchangeinOpenInterest": 8.4,
+                    "pchangeinOpenInterest": 8,
                     "strikePrice": 910,
-                    "totalBuyQuantity": 207900,
-                    "totalSellQuantity": 209300,
+                    "totalBuyQuantity": 209300,
+                    "totalSellQuantity": 206500,
                     "totalTradedVolume": 88,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 910
@@ -2924,7 +2966,7 @@
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 2100,
-                    "bidprice": 22.15,
+                    "bidprice": 21.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2939,7 +2981,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2960,106 +3002,106 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 920
             },
             {
                 "CE": {
-                    "askPrice": 18.7,
+                    "askPrice": 18.35,
                     "askQty": 700,
-                    "bidQty": 1400,
-                    "bidprice": 18.4,
-                    "change": -5,
+                    "bidQty": 700,
+                    "bidprice": 18,
+                    "change": -4.800000000000001,
                     "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSUNPHARMA25-05-2023CE920.00",
                     "impliedVolatility": 22.93,
-                    "lastPrice": 18.45,
+                    "lastPrice": 18.65,
                     "openInterest": 27,
-                    "pChange": -21.321961620469086,
+                    "pChange": -20.46908315565032,
                     "pchangeinOpenInterest": 8,
                     "strikePrice": 920,
-                    "totalBuyQuantity": 52500,
-                    "totalSellQuantity": 54600,
-                    "totalTradedVolume": 30,
+                    "totalBuyQuantity": 48300,
+                    "totalSellQuantity": 51100,
+                    "totalTradedVolume": 32,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 6.45,
-                    "askQty": 700,
-                    "bidQty": 2100,
-                    "bidprice": 6.3,
+                    "askPrice": 6.4,
+                    "askQty": 1400,
+                    "bidQty": 700,
+                    "bidprice": 6.25,
                     "change": 1.4499999999999993,
-                    "changeinOpenInterest": 20,
+                    "changeinOpenInterest": 21,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSUNPHARMA25-05-2023PE920.00",
                     "impliedVolatility": 22.11,
                     "lastPrice": 6.35,
-                    "openInterest": 388,
+                    "openInterest": 389,
                     "pChange": 29.59183673469386,
-                    "pchangeinOpenInterest": 5.434782608695652,
+                    "pchangeinOpenInterest": 5.706521739130435,
                     "strikePrice": 920,
-                    "totalBuyQuantity": 134400,
-                    "totalSellQuantity": 117600,
-                    "totalTradedVolume": 189,
+                    "totalBuyQuantity": 131600,
+                    "totalSellQuantity": 119700,
+                    "totalTradedVolume": 195,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 920
             },
             {
                 "CE": {
-                    "askPrice": 12,
-                    "askQty": 2800,
-                    "bidQty": 700,
-                    "bidprice": 11.85,
-                    "change": -3.75,
-                    "changeinOpenInterest": 49,
+                    "askPrice": 11.8,
+                    "askQty": 700,
+                    "bidQty": 1400,
+                    "bidprice": 11.7,
+                    "change": -3.9000000000000004,
+                    "changeinOpenInterest": 52,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSUNPHARMA25-05-2023CE930.00",
                     "impliedVolatility": 21.6,
-                    "lastPrice": 11.85,
-                    "openInterest": 142,
-                    "pChange": -24.03846153846154,
-                    "pchangeinOpenInterest": 52.68817204301075,
+                    "lastPrice": 11.7,
+                    "openInterest": 145,
+                    "pChange": -25.000000000000007,
+                    "pchangeinOpenInterest": 55.913978494623656,
                     "strikePrice": 930,
-                    "totalBuyQuantity": 77000,
-                    "totalSellQuantity": 93100,
-                    "totalTradedVolume": 211,
+                    "totalBuyQuantity": 70700,
+                    "totalSellQuantity": 87500,
+                    "totalTradedVolume": 240,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 9.65,
                     "askQty": 700,
-                    "bidQty": 1400,
-                    "bidprice": 9.5,
-                    "change": 2.1499999999999995,
+                    "bidQty": 2100,
+                    "bidprice": 9.45,
+                    "change": 1.8500000000000005,
                     "changeinOpenInterest": 12,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSUNPHARMA25-05-2023PE930.00",
                     "impliedVolatility": 20.79,
-                    "lastPrice": 9.7,
+                    "lastPrice": 9.4,
                     "openInterest": 612,
-                    "pChange": 28.476821192052977,
+                    "pChange": 24.503311258278153,
                     "pchangeinOpenInterest": 2,
                     "strikePrice": 930,
-                    "totalBuyQuantity": 128100,
-                    "totalSellQuantity": 176400,
-                    "totalTradedVolume": 242,
+                    "totalBuyQuantity": 127400,
+                    "totalSellQuantity": 175700,
+                    "totalTradedVolume": 256,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 930
             },
             {
                 "CE": {
-                    "askPrice": 52.4,
+                    "askPrice": 52.1,
                     "askQty": 700,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -3077,13 +3119,13 @@
                     "totalSellQuantity": 2800,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 700,
-                    "bidprice": 20.3,
+                    "bidprice": 18.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3094,11 +3136,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 930,
-                    "totalBuyQuantity": 32900,
+                    "totalBuyQuantity": 30800,
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 930
@@ -3123,60 +3165,60 @@
                     "totalSellQuantity": 700,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 930
             },
             {
                 "CE": {
-                    "askPrice": 6.6,
-                    "askQty": 700,
-                    "bidQty": 2800,
-                    "bidprice": 6.5,
-                    "change": -2.9000000000000004,
+                    "askPrice": 6.65,
+                    "askQty": 1400,
+                    "bidQty": 5600,
+                    "bidprice": 6.6,
+                    "change": -2.8000000000000007,
                     "changeinOpenInterest": 82,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSUNPHARMA25-05-2023CE940.00",
                     "impliedVolatility": 19.6,
-                    "lastPrice": 6.5,
+                    "lastPrice": 6.6,
                     "openInterest": 695,
-                    "pChange": -30.851063829787233,
+                    "pChange": -29.787234042553195,
                     "pchangeinOpenInterest": 13.376835236541599,
                     "strikePrice": 940,
-                    "totalBuyQuantity": 119000,
-                    "totalSellQuantity": 167300,
-                    "totalTradedVolume": 420,
+                    "totalBuyQuantity": 138600,
+                    "totalSellQuantity": 173600,
+                    "totalTradedVolume": 449,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 14.45,
+                    "askPrice": 14.7,
                     "askQty": 700,
                     "bidQty": 700,
-                    "bidprice": 14.25,
-                    "change": 3,
-                    "changeinOpenInterest": -8,
+                    "bidprice": 14.4,
+                    "change": 3.1999999999999993,
+                    "changeinOpenInterest": -10,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSUNPHARMA25-05-2023PE940.00",
                     "impliedVolatility": 18.78,
-                    "lastPrice": 14.4,
-                    "openInterest": 451,
-                    "pChange": 26.31578947368421,
-                    "pchangeinOpenInterest": -1.7429193899782136,
+                    "lastPrice": 14.6,
+                    "openInterest": 449,
+                    "pChange": 28.070175438596483,
+                    "pchangeinOpenInterest": -2.178649237472767,
                     "strikePrice": 940,
                     "totalBuyQuantity": 102200,
-                    "totalSellQuantity": 108500,
-                    "totalTradedVolume": 230,
+                    "totalSellQuantity": 107800,
+                    "totalTradedVolume": 242,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 940
             },
             {
                 "CE": {
-                    "askPrice": 51.35,
+                    "askPrice": 51.1,
                     "askQty": 700,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -3194,7 +3236,7 @@
                     "totalSellQuantity": 1400,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 940
@@ -3202,7 +3244,7 @@
             {
                 "CE": {
                     "askPrice": 30.35,
-                    "askQty": 2100,
+                    "askQty": 700,
                     "bidQty": 700,
                     "bidprice": 29.7,
                     "change": -2.6000000000000014,
@@ -3215,11 +3257,11 @@
                     "pChange": -7.878787878787883,
                     "pchangeinOpenInterest": 36.8421052631579,
                     "strikePrice": 940,
-                    "totalBuyQuantity": 35700,
-                    "totalSellQuantity": 44100,
+                    "totalBuyQuantity": 36400,
+                    "totalSellQuantity": 44800,
                     "totalTradedVolume": 14,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3240,63 +3282,63 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 2,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 940
             },
             {
                 "CE": {
-                    "askPrice": 3.95,
-                    "askQty": 2800,
-                    "bidQty": 3500,
+                    "askPrice": 3.9,
+                    "askQty": 3500,
+                    "bidQty": 2800,
                     "bidprice": 3.8,
-                    "change": -1.9499999999999997,
-                    "changeinOpenInterest": -51,
+                    "change": -2,
+                    "changeinOpenInterest": -54,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSUNPHARMA25-05-2023CE950.00",
                     "impliedVolatility": 20.37,
-                    "lastPrice": 3.85,
-                    "openInterest": 1201,
-                    "pChange": -33.620689655172406,
-                    "pchangeinOpenInterest": -4.073482428115016,
+                    "lastPrice": 3.8,
+                    "openInterest": 1198,
+                    "pChange": -34.48275862068966,
+                    "pchangeinOpenInterest": -4.313099041533547,
                     "strikePrice": 950,
-                    "totalBuyQuantity": 156100,
-                    "totalSellQuantity": 212800,
-                    "totalTradedVolume": 595,
+                    "totalBuyQuantity": 155400,
+                    "totalSellQuantity": 213500,
+                    "totalTradedVolume": 609,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 21.6,
-                    "askQty": 1400,
+                    "askPrice": 21.7,
+                    "askQty": 700,
                     "bidQty": 700,
                     "bidprice": 21.1,
-                    "change": 3.75,
-                    "changeinOpenInterest": -17,
+                    "change": 3.5500000000000007,
+                    "changeinOpenInterest": -30,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSUNPHARMA25-05-2023PE950.00",
                     "impliedVolatility": 18.93,
-                    "lastPrice": 21.5,
-                    "openInterest": 776,
-                    "pChange": 21.12676056338028,
-                    "pchangeinOpenInterest": -2.1437578814627996,
+                    "lastPrice": 21.3,
+                    "openInterest": 763,
+                    "pChange": 20.000000000000004,
+                    "pchangeinOpenInterest": -3.7831021437578816,
                     "strikePrice": 950,
-                    "totalBuyQuantity": 78400,
-                    "totalSellQuantity": 83300,
-                    "totalTradedVolume": 84,
+                    "totalBuyQuantity": 88200,
+                    "totalSellQuantity": 79100,
+                    "totalTradedVolume": 90,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 950
             },
             {
                 "CE": {
-                    "askPrice": 25.55,
+                    "askPrice": 24.85,
                     "askQty": 700,
                     "bidQty": 700,
-                    "bidprice": 24.95,
+                    "bidprice": 24.55,
                     "change": -2,
                     "changeinOpenInterest": 6,
                     "expiryDate": "29-Jun-2023",
@@ -3307,39 +3349,39 @@
                     "pChange": -7.4074074074074066,
                     "pchangeinOpenInterest": 7.0588235294117645,
                     "strikePrice": 950,
-                    "totalBuyQuantity": 39900,
-                    "totalSellQuantity": 44800,
-                    "totalTradedVolume": 26,
+                    "totalBuyQuantity": 40600,
+                    "totalSellQuantity": 46200,
+                    "totalTradedVolume": 27,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 36.8,
+                    "askPrice": 36.7,
                     "askQty": 700,
-                    "bidQty": 1400,
-                    "bidprice": 35.2,
-                    "change": 3.400000000000002,
-                    "changeinOpenInterest": 1,
+                    "bidQty": 700,
+                    "bidprice": 35.55,
+                    "change": 3.4499999999999993,
+                    "changeinOpenInterest": -7,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKSUNPHARMA29-06-2023PE950.00",
                     "impliedVolatility": 24.13,
-                    "lastPrice": 35.35,
-                    "openInterest": 124,
-                    "pChange": 10.641627543036,
-                    "pchangeinOpenInterest": 0.8130081300813008,
+                    "lastPrice": 35.4,
+                    "openInterest": 116,
+                    "pChange": 10.798122065727696,
+                    "pchangeinOpenInterest": -5.691056910569106,
                     "strikePrice": 950,
-                    "totalBuyQuantity": 13300,
-                    "totalSellQuantity": 5600,
-                    "totalTradedVolume": 7,
+                    "totalBuyQuantity": 12600,
+                    "totalSellQuantity": 4900,
+                    "totalTradedVolume": 14,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 950
             },
             {
                 "CE": {
-                    "askPrice": 46.6,
+                    "askPrice": 46.35,
                     "askQty": 700,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -3357,38 +3399,38 @@
                     "totalSellQuantity": 1400,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 950
             },
             {
                 "CE": {
-                    "askPrice": 2.35,
-                    "askQty": 1400,
-                    "bidQty": 1400,
+                    "askPrice": 2.3,
+                    "askQty": 11900,
+                    "bidQty": 700,
                     "bidprice": 2.25,
                     "change": -1.1,
-                    "changeinOpenInterest": 75,
+                    "changeinOpenInterest": 73,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSUNPHARMA25-05-2023CE960.00",
                     "impliedVolatility": 21.29,
                     "lastPrice": 2.3,
-                    "openInterest": 2253,
+                    "openInterest": 2251,
                     "pChange": -32.35294117647059,
-                    "pchangeinOpenInterest": 3.443526170798898,
+                    "pchangeinOpenInterest": 3.351698806244261,
                     "strikePrice": 960,
-                    "totalBuyQuantity": 194600,
-                    "totalSellQuantity": 415100,
-                    "totalTradedVolume": 431,
+                    "totalBuyQuantity": 199500,
+                    "totalSellQuantity": 416500,
+                    "totalTradedVolume": 484,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 30.05,
+                    "askPrice": 30.45,
                     "askQty": 700,
                     "bidQty": 700,
-                    "bidprice": 29.4,
+                    "bidprice": 29.6,
                     "change": 3.799999999999997,
                     "changeinOpenInterest": -15,
                     "expiryDate": "25-May-2023",
@@ -3399,11 +3441,11 @@
                     "pChange": 15.139442231075684,
                     "pchangeinOpenInterest": -2.358490566037736,
                     "strikePrice": 960,
-                    "totalBuyQuantity": 74900,
-                    "totalSellQuantity": 73500,
+                    "totalBuyQuantity": 75600,
+                    "totalSellQuantity": 72100,
                     "totalTradedVolume": 72,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 960
@@ -3428,7 +3470,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3449,16 +3491,16 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 1,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 960
             },
             {
                 "CE": {
-                    "askPrice": 1.5,
-                    "askQty": 4200,
-                    "bidQty": 4900,
+                    "askPrice": 1.45,
+                    "askQty": 2100,
+                    "bidQty": 1400,
                     "bidprice": 1.4,
                     "change": -0.7000000000000002,
                     "changeinOpenInterest": -30,
@@ -3470,17 +3512,17 @@
                     "pChange": -33.33333333333334,
                     "pchangeinOpenInterest": -1.8259281801582472,
                     "strikePrice": 970,
-                    "totalBuyQuantity": 203700,
-                    "totalSellQuantity": 275100,
-                    "totalTradedVolume": 166,
+                    "totalBuyQuantity": 195300,
+                    "totalSellQuantity": 273000,
+                    "totalTradedVolume": 172,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 39.4,
-                    "askQty": 1400,
+                    "askPrice": 40,
+                    "askQty": 700,
                     "bidQty": 700,
-                    "bidprice": 38.5,
+                    "bidprice": 38.7,
                     "change": 5,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
@@ -3491,21 +3533,21 @@
                     "pChange": 14.705882352941178,
                     "pchangeinOpenInterest": -0.2801120448179272,
                     "strikePrice": 970,
-                    "totalBuyQuantity": 72100,
-                    "totalSellQuantity": 63700,
+                    "totalBuyQuantity": 74200,
+                    "totalSellQuantity": 66500,
                     "totalTradedVolume": 8,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 970
             },
             {
                 "CE": {
-                    "askPrice": 19.95,
+                    "askPrice": 19.9,
                     "askQty": 700,
-                    "bidQty": 700,
-                    "bidprice": 16.2,
+                    "bidQty": 2100,
+                    "bidprice": 15.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3516,17 +3558,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 970,
-                    "totalBuyQuantity": 30800,
+                    "totalBuyQuantity": 30100,
                     "totalSellQuantity": 3500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 49.95,
                     "askQty": 2100,
-                    "bidQty": 0,
-                    "bidprice": 0,
+                    "bidQty": 2100,
+                    "bidprice": 34.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3537,20 +3579,20 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 970,
-                    "totalBuyQuantity": 0,
+                    "totalBuyQuantity": 4200,
                     "totalSellQuantity": 2100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 970
             },
             {
                 "CE": {
-                    "askPrice": 0.8,
-                    "askQty": 4200,
-                    "bidQty": 11200,
+                    "askPrice": 0.75,
+                    "askQty": 700,
+                    "bidQty": 9100,
                     "bidprice": 0.7,
                     "change": -0.44999999999999996,
                     "changeinOpenInterest": -15,
@@ -3562,17 +3604,17 @@
                     "pChange": -37.5,
                     "pchangeinOpenInterest": -0.6796556411418215,
                     "strikePrice": 980,
-                    "totalBuyQuantity": 177800,
-                    "totalSellQuantity": 179900,
-                    "totalTradedVolume": 292,
+                    "totalBuyQuantity": 179200,
+                    "totalSellQuantity": 180600,
+                    "totalTradedVolume": 294,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 48.6,
+                    "askPrice": 48.9,
                     "askQty": 700,
                     "bidQty": 700,
-                    "bidprice": 47.8,
+                    "bidprice": 48.1,
                     "change": 0.8499999999999943,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
@@ -3583,21 +3625,21 @@
                     "pChange": 1.772679874869644,
                     "pchangeinOpenInterest": -0.6872852233676976,
                     "strikePrice": 980,
-                    "totalBuyQuantity": 67200,
+                    "totalBuyQuantity": 68600,
                     "totalSellQuantity": 67900,
                     "totalTradedVolume": 4,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 980
             },
             {
                 "CE": {
-                    "askPrice": 15.25,
+                    "askPrice": 15.35,
                     "askQty": 700,
-                    "bidQty": 1400,
-                    "bidprice": 13.45,
+                    "bidQty": 700,
+                    "bidprice": 13.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3608,17 +3650,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 980,
-                    "totalBuyQuantity": 39900,
+                    "totalBuyQuantity": 41300,
                     "totalSellQuantity": 33600,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 68.6,
+                    "askPrice": 66.7,
                     "askQty": 2100,
-                    "bidQty": 0,
-                    "bidprice": 0,
+                    "bidQty": 2100,
+                    "bidprice": 34.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3629,18 +3671,18 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 980,
-                    "totalBuyQuantity": 0,
+                    "totalBuyQuantity": 2100,
                     "totalSellQuantity": 2800,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 980
             },
             {
                 "CE": {
-                    "askPrice": 12.5,
+                    "askPrice": 12.45,
                     "askQty": 700,
                     "bidQty": 700,
                     "bidprice": 10.05,
@@ -3658,13 +3700,13 @@
                     "totalSellQuantity": 38500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 68,
+                    "askPrice": 81.55,
                     "askQty": 2100,
-                    "bidQty": 0,
-                    "bidprice": 0,
+                    "bidQty": 2100,
+                    "bidprice": 38.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3675,11 +3717,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 990,
-                    "totalBuyQuantity": 0,
+                    "totalBuyQuantity": 2100,
                     "totalSellQuantity": 2800,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 990
@@ -3687,8 +3729,8 @@
             {
                 "CE": {
                     "askPrice": 0.5,
-                    "askQty": 4200,
-                    "bidQty": 4200,
+                    "askQty": 3500,
+                    "bidQty": 1400,
                     "bidprice": 0.45,
                     "change": -0.25,
                     "changeinOpenInterest": -5,
@@ -3700,17 +3742,17 @@
                     "pChange": -33.33333333333333,
                     "pchangeinOpenInterest": -0.3460207612456747,
                     "strikePrice": 990,
-                    "totalBuyQuantity": 137200,
-                    "totalSellQuantity": 147700,
-                    "totalTradedVolume": 60,
+                    "totalBuyQuantity": 136500,
+                    "totalSellQuantity": 157500,
+                    "totalTradedVolume": 65,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 60.15,
-                    "askQty": 1400,
+                    "askPrice": 61.2,
+                    "askQty": 700,
                     "bidQty": 700,
-                    "bidprice": 56.9,
+                    "bidprice": 57.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3721,11 +3763,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 990,
-                    "totalBuyQuantity": 62300,
-                    "totalSellQuantity": 69300,
+                    "totalBuyQuantity": 63000,
+                    "totalSellQuantity": 67900,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 990
@@ -3734,44 +3776,44 @@
                 "CE": {
                     "askPrice": 9.5,
                     "askQty": 700,
-                    "bidQty": 2100,
+                    "bidQty": 700,
                     "bidprice": 9.35,
-                    "change": -1.25,
+                    "change": -1.1999999999999993,
                     "changeinOpenInterest": 4,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKSUNPHARMA29-06-2023CE1000.00",
                     "impliedVolatility": 23.27,
-                    "lastPrice": 9.45,
+                    "lastPrice": 9.5,
                     "openInterest": 237,
-                    "pChange": -11.682242990654206,
+                    "pChange": -11.214953271028032,
                     "pchangeinOpenInterest": 1.7167381974248928,
                     "strikePrice": 1000,
                     "totalBuyQuantity": 88200,
                     "totalSellQuantity": 43400,
-                    "totalTradedVolume": 15,
+                    "totalTradedVolume": 17,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 72.7,
+                    "askPrice": 69.9,
                     "askQty": 700,
-                    "bidQty": 2100,
-                    "bidprice": 65.85,
-                    "change": -1.1000000000000085,
+                    "bidQty": 700,
+                    "bidprice": 69.3,
+                    "change": 2.049999999999997,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKSUNPHARMA29-06-2023PE1000.00",
                     "impliedVolatility": 21.33,
-                    "lastPrice": 66.35,
+                    "lastPrice": 69.5,
                     "openInterest": 26,
-                    "pChange": -1.6308376575241046,
+                    "pChange": 3.0392883617494397,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1000,
-                    "totalBuyQuantity": 5600,
-                    "totalSellQuantity": 2800,
-                    "totalTradedVolume": 1,
+                    "totalBuyQuantity": 2100,
+                    "totalSellQuantity": 3500,
+                    "totalTradedVolume": 2,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1000
@@ -3779,30 +3821,30 @@
             {
                 "CE": {
                     "askPrice": 0.5,
-                    "askQty": 700,
-                    "bidQty": 6300,
+                    "askQty": 9100,
+                    "bidQty": 4900,
                     "bidprice": 0.45,
-                    "change": -0.25,
+                    "change": -0.3,
                     "changeinOpenInterest": -12,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSUNPHARMA25-05-2023CE1000.00",
                     "impliedVolatility": 27.99,
-                    "lastPrice": 0.5,
+                    "lastPrice": 0.45,
                     "openInterest": 1676,
-                    "pChange": -33.33333333333333,
+                    "pChange": -40,
                     "pchangeinOpenInterest": -0.7109004739336493,
                     "strikePrice": 1000,
-                    "totalBuyQuantity": 155400,
-                    "totalSellQuantity": 165200,
-                    "totalTradedVolume": 59,
+                    "totalBuyQuantity": 153300,
+                    "totalSellQuantity": 172900,
+                    "totalTradedVolume": 63,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 68.45,
-                    "askQty": 700,
-                    "bidQty": 7000,
-                    "bidprice": 64.7,
+                    "askPrice": 69.95,
+                    "askQty": 5600,
+                    "bidQty": 4900,
+                    "bidprice": 66.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3813,11 +3855,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1000,
-                    "totalBuyQuantity": 71400,
-                    "totalSellQuantity": 68600,
+                    "totalBuyQuantity": 69300,
+                    "totalSellQuantity": 72100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1000
@@ -3838,17 +3880,17 @@
                     "pChange": -33.33333333333333,
                     "pchangeinOpenInterest": -4.597701149425287,
                     "strikePrice": 1010,
-                    "totalBuyQuantity": 130200,
-                    "totalSellQuantity": 111300,
+                    "totalBuyQuantity": 134400,
+                    "totalSellQuantity": 110600,
                     "totalTradedVolume": 51,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 80.95,
+                    "askPrice": 82,
                     "askQty": 2100,
                     "bidQty": 700,
-                    "bidprice": 76.35,
+                    "bidprice": 75.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3859,11 +3901,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1010,
-                    "totalBuyQuantity": 36400,
-                    "totalSellQuantity": 39200,
+                    "totalBuyQuantity": 37800,
+                    "totalSellQuantity": 39900,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1010
@@ -3873,7 +3915,7 @@
                     "askPrice": 18,
                     "askQty": 7000,
                     "bidQty": 700,
-                    "bidprice": 7,
+                    "bidprice": 6.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3888,7 +3930,7 @@
                     "totalSellQuantity": 7000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 92.05,
@@ -3909,7 +3951,7 @@
                     "totalSellQuantity": 1400,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1010
@@ -3917,30 +3959,30 @@
             {
                 "CE": {
                     "askPrice": 0.4,
-                    "askQty": 2800,
+                    "askQty": 4200,
                     "bidQty": 3500,
                     "bidprice": 0.35,
-                    "change": -0.04999999999999999,
+                    "change": -0.09999999999999998,
                     "changeinOpenInterest": -6,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSUNPHARMA25-05-2023CE1020.00",
                     "impliedVolatility": 33.68,
-                    "lastPrice": 0.45,
+                    "lastPrice": 0.4,
                     "openInterest": 386,
-                    "pChange": -9.999999999999998,
+                    "pChange": -19.999999999999996,
                     "pchangeinOpenInterest": -1.530612244897959,
                     "strikePrice": 1020,
-                    "totalBuyQuantity": 182700,
-                    "totalSellQuantity": 105000,
-                    "totalTradedVolume": 11,
+                    "totalBuyQuantity": 181300,
+                    "totalSellQuantity": 106400,
+                    "totalTradedVolume": 13,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 90.3,
-                    "askQty": 700,
-                    "bidQty": 2100,
-                    "bidprice": 83.6,
+                    "askPrice": 91.75,
+                    "askQty": 2100,
+                    "bidQty": 700,
+                    "bidprice": 85.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3951,11 +3993,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1020,
-                    "totalBuyQuantity": 39200,
-                    "totalSellQuantity": 37800,
+                    "totalBuyQuantity": 37800,
+                    "totalSellQuantity": 39200,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1020
@@ -3980,10 +4022,10 @@
                     "totalSellQuantity": 700,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 118.7,
+                    "askPrice": 121.8,
                     "askQty": 2100,
                     "bidQty": 2100,
                     "bidprice": 67.25,
@@ -4001,7 +4043,7 @@
                     "totalSellQuantity": 2800,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1020
@@ -4026,13 +4068,13 @@
                     "totalSellQuantity": 7000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 133,
-                    "askQty": 2100,
+                    "askQty": 3500,
                     "bidQty": 2100,
-                    "bidprice": 77.05,
+                    "bidprice": 80.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4043,11 +4085,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1030,
-                    "totalBuyQuantity": 30100,
-                    "totalSellQuantity": 2100,
+                    "totalBuyQuantity": 31500,
+                    "totalSellQuantity": 3500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1030
@@ -4069,16 +4111,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1030,
                     "totalBuyQuantity": 128800,
-                    "totalSellQuantity": 97300,
+                    "totalSellQuantity": 96600,
                     "totalTradedVolume": 4,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 101.35,
                     "askQty": 2800,
-                    "bidQty": 2100,
-                    "bidprice": 94.45,
+                    "bidQty": 2800,
+                    "bidprice": 92.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4089,11 +4131,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1030,
-                    "totalBuyQuantity": 39200,
+                    "totalBuyQuantity": 37100,
                     "totalSellQuantity": 37100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1030
@@ -4118,13 +4160,13 @@
                     "totalSellQuantity": 700,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 142.9,
                     "askQty": 2100,
                     "bidQty": 2100,
-                    "bidprice": 87.1,
+                    "bidprice": 87.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4139,7 +4181,7 @@
                     "totalSellQuantity": 2100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1040
@@ -4148,7 +4190,7 @@
                 "CE": {
                     "askPrice": 0.35,
                     "askQty": 2800,
-                    "bidQty": 1400,
+                    "bidQty": 2100,
                     "bidprice": 0.3,
                     "change": -0.04999999999999999,
                     "changeinOpenInterest": -7,
@@ -4160,17 +4202,17 @@
                     "pChange": -11.111111111111107,
                     "pchangeinOpenInterest": -8.75,
                     "strikePrice": 1040,
-                    "totalBuyQuantity": 119000,
+                    "totalBuyQuantity": 123900,
                     "totalSellQuantity": 94500,
                     "totalTradedVolume": 13,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 113.5,
-                    "askQty": 2800,
-                    "bidQty": 2800,
-                    "bidprice": 105.3,
+                    "askPrice": 112.65,
+                    "askQty": 2100,
+                    "bidQty": 4900,
+                    "bidprice": 105,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4181,42 +4223,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1040,
-                    "totalBuyQuantity": 35700,
-                    "totalSellQuantity": 35000,
+                    "totalBuyQuantity": 37800,
+                    "totalSellQuantity": 37100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1040
             },
             {
                 "CE": {
-                    "askPrice": 0.4,
-                    "askQty": 2100,
-                    "bidQty": 4200,
+                    "askPrice": 0.35,
+                    "askQty": 2800,
+                    "bidQty": 2100,
                     "bidprice": 0.25,
-                    "change": -0.04999999999999999,
+                    "change": -0.2,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSUNPHARMA25-05-2023CE1050.00",
                     "impliedVolatility": 41.7,
-                    "lastPrice": 0.4,
+                    "lastPrice": 0.25,
                     "openInterest": 231,
-                    "pChange": -11.111111111111107,
+                    "pChange": -44.44444444444445,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1050,
-                    "totalBuyQuantity": 156800,
-                    "totalSellQuantity": 137900,
-                    "totalTradedVolume": 2,
+                    "totalBuyQuantity": 160300,
+                    "totalSellQuantity": 140700,
+                    "totalTradedVolume": 6,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 122.2,
-                    "askQty": 2100,
-                    "bidQty": 2100,
-                    "bidprice": 114.4,
+                    "askPrice": 123.65,
+                    "askQty": 2800,
+                    "bidQty": 700,
+                    "bidprice": 111.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4227,11 +4269,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1050,
-                    "totalBuyQuantity": 37100,
-                    "totalSellQuantity": 37100,
+                    "totalBuyQuantity": 32900,
+                    "totalSellQuantity": 35000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1050
@@ -4241,7 +4283,7 @@
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 700,
-                    "bidprice": 2.45,
+                    "bidprice": 2.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4252,17 +4294,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1050,
-                    "totalBuyQuantity": 128100,
+                    "totalBuyQuantity": 127400,
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 152.85,
                     "askQty": 3500,
                     "bidQty": 2100,
-                    "bidprice": 109.55,
+                    "bidprice": 97.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4277,7 +4319,7 @@
                     "totalSellQuantity": 3500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1050
@@ -4302,13 +4344,13 @@
                     "totalSellQuantity": 51100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
-                    "askPrice": 134.4,
-                    "askQty": 4200,
+                    "askPrice": 131.8,
+                    "askQty": 2100,
                     "bidQty": 2100,
-                    "bidprice": 124.65,
+                    "bidprice": 122.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4319,11 +4361,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1060,
-                    "totalBuyQuantity": 37100,
-                    "totalSellQuantity": 32200,
+                    "totalBuyQuantity": 38500,
+                    "totalSellQuantity": 38500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1060
@@ -4348,7 +4390,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 162.85,
@@ -4369,7 +4411,7 @@
                     "totalSellQuantity": 2100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1060
@@ -4394,13 +4436,13 @@
                     "totalSellQuantity": 35700,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 144.45,
                     "askQty": 2100,
-                    "bidQty": 2100,
-                    "bidprice": 132.45,
+                    "bidQty": 4200,
+                    "bidprice": 130.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4411,11 +4453,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1070,
-                    "totalBuyQuantity": 35700,
+                    "totalBuyQuantity": 32200,
                     "totalSellQuantity": 34300,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1070
@@ -4440,7 +4482,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 172.9,
@@ -4461,7 +4503,7 @@
                     "totalSellQuantity": 2100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1070
@@ -4486,7 +4528,7 @@
                     "totalSellQuantity": 39900,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 154.05,
@@ -4507,7 +4549,7 @@
                     "totalSellQuantity": 34300,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1080
@@ -4532,7 +4574,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 182.9,
@@ -4553,7 +4595,7 @@
                     "totalSellQuantity": 2100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1080
@@ -4578,7 +4620,7 @@
                     "totalSellQuantity": 49000,
                     "totalTradedVolume": 1,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 163.9,
@@ -4599,7 +4641,7 @@
                     "totalSellQuantity": 34300,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1090
@@ -4624,7 +4666,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 192.95,
@@ -4645,7 +4687,7 @@
                     "totalSellQuantity": 2100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1090
@@ -4653,7 +4695,7 @@
             {
                 "CE": {
                     "askPrice": 0.3,
-                    "askQty": 3500,
+                    "askQty": 6300,
                     "bidQty": 700,
                     "bidprice": 0.25,
                     "change": -0.15000000000000002,
@@ -4667,10 +4709,10 @@
                     "pchangeinOpenInterest": -3.4482758620689653,
                     "strikePrice": 1100,
                     "totalBuyQuantity": 194600,
-                    "totalSellQuantity": 107800,
+                    "totalSellQuantity": 110600,
                     "totalTradedVolume": 14,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 173.6,
@@ -4691,7 +4733,7 @@
                     "totalSellQuantity": 34300,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1100
@@ -4716,13 +4758,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 203,
                     "askQty": 3500,
                     "bidQty": 2100,
-                    "bidprice": 154.2,
+                    "bidprice": 148.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4737,7 +4779,7 @@
                     "totalSellQuantity": 3500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1100
@@ -4762,7 +4804,7 @@
                     "totalSellQuantity": 8400,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 189.2,
@@ -4783,7 +4825,7 @@
                     "totalSellQuantity": 30100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1110
@@ -4808,7 +4850,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 213,
@@ -4829,15 +4871,15 @@
                     "totalSellQuantity": 2100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1110
             },
             {
                 "CE": {
-                    "askPrice": 2.2,
-                    "askQty": 1400,
+                    "askPrice": 1.75,
+                    "askQty": 2800,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -4851,10 +4893,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1120,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 7000,
+                    "totalSellQuantity": 9100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 199.55,
@@ -4875,7 +4917,7 @@
                     "totalSellQuantity": 30100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1120
@@ -4900,7 +4942,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 223.05,
@@ -4921,15 +4963,15 @@
                     "totalSellQuantity": 2100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1120
             },
             {
                 "CE": {
-                    "askPrice": 2.25,
-                    "askQty": 1400,
+                    "askPrice": 1.4,
+                    "askQty": 2800,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -4943,16 +4985,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1130,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 7000,
+                    "totalSellQuantity": 8400,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 209.55,
                     "askQty": 2100,
                     "bidQty": 2100,
-                    "bidprice": 182.55,
+                    "bidprice": 183.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4967,7 +5009,7 @@
                     "totalSellQuantity": 30100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1130
@@ -4992,7 +5034,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 233.05,
@@ -5013,7 +5055,7 @@
                     "totalSellQuantity": 2100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1130
@@ -5038,13 +5080,13 @@
                     "totalSellQuantity": 7000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 220.1,
                     "askQty": 2100,
                     "bidQty": 2100,
-                    "bidprice": 192.95,
+                    "bidprice": 193.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5059,7 +5101,7 @@
                     "totalSellQuantity": 30100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1140
@@ -5084,13 +5126,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 243.05,
                     "askQty": 2100,
                     "bidQty": 2100,
-                    "bidprice": 187,
+                    "bidprice": 187.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -5105,15 +5147,15 @@
                     "totalSellQuantity": 2100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1140
             },
             {
                 "CE": {
-                    "askPrice": 2,
-                    "askQty": 2800,
+                    "askPrice": 1.5,
+                    "askQty": 1400,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -5127,10 +5169,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1150,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 7000,
+                    "totalSellQuantity": 8400,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 230.7,
@@ -5151,7 +5193,7 @@
                     "totalSellQuantity": 30100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1150
@@ -5176,7 +5218,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 253,
@@ -5197,15 +5239,15 @@
                     "totalSellQuantity": 2100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1150
             },
             {
                 "CE": {
-                    "askPrice": 3,
-                    "askQty": 2800,
+                    "askPrice": 2.5,
+                    "askQty": 1400,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -5219,10 +5261,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1160,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 2800,
+                    "totalSellQuantity": 4200,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 241.4,
@@ -5243,7 +5285,7 @@
                     "totalSellQuantity": 30100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1160
@@ -5268,7 +5310,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 262.95,
@@ -5289,7 +5331,7 @@
                     "totalSellQuantity": 3500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1160
@@ -5314,7 +5356,7 @@
                     "totalSellQuantity": 2800,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 252.6,
@@ -5335,7 +5377,7 @@
                     "totalSellQuantity": 30100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1170
@@ -5360,7 +5402,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "PE": {
                     "askPrice": 272.9,
@@ -5381,7 +5423,7 @@
                     "totalSellQuantity": 2100,
                     "totalTradedVolume": 0,
                     "underlying": "SUNPHARMA",
-                    "underlyingValue": 930
+                    "underlyingValue": 929.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1170
@@ -5433,7 +5475,7 @@
             1160,
             1170
         ],
-        "timestamp": "18-May-2023 10:21:15",
-        "underlyingValue": 930
+        "timestamp": "18-May-2023 10:26:47",
+        "underlyingValue": 929.9
     }
 }

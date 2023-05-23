@@ -1,8 +1,8 @@
 {
     "filtered": {
         "CE": {
-            "totOI": 5714,
-            "totVol": 71
+            "totOI": 5712,
+            "totVol": 79
         },
         "PE": {
             "totOI": 2324,
@@ -29,7 +29,7 @@
                     "totalSellQuantity": 132000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 90
@@ -54,7 +54,7 @@
                     "totalSellQuantity": 30000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 95
@@ -79,15 +79,15 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 97.5
             },
             {
                 "CE": {
-                    "askPrice": 16,
-                    "askQty": 6000,
+                    "askPrice": 0,
+                    "askQty": 0,
                     "bidQty": 12000,
                     "bidprice": 1.05,
                     "change": 0,
@@ -101,10 +101,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 100,
                     "totalBuyQuantity": 12000,
-                    "totalSellQuantity": 6000,
+                    "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
                     "askPrice": 0.3,
@@ -125,7 +125,7 @@
                     "totalSellQuantity": 24000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 100
@@ -150,7 +150,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 102.5
@@ -175,7 +175,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 103
@@ -200,7 +200,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 104
@@ -209,8 +209,8 @@
                 "PE": {
                     "askPrice": 1.4,
                     "askQty": 12000,
-                    "bidQty": 6000,
-                    "bidprice": 0.65,
+                    "bidQty": 12000,
+                    "bidprice": 0.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -221,11 +221,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 105,
-                    "totalBuyQuantity": 90000,
+                    "totalBuyQuantity": 96000,
                     "totalSellQuantity": 66000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 105
@@ -250,7 +250,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 107
@@ -275,7 +275,7 @@
                     "totalSellQuantity": 78000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 107.5
@@ -284,8 +284,8 @@
                 "PE": {
                     "askPrice": 2,
                     "askQty": 12000,
-                    "bidQty": 6000,
-                    "bidprice": 0.75,
+                    "bidQty": 12000,
+                    "bidprice": 1.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -296,21 +296,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 108,
-                    "totalBuyQuantity": 24000,
+                    "totalBuyQuantity": 30000,
                     "totalSellQuantity": 18000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 108
             },
             {
                 "CE": {
-                    "askPrice": 4.6,
-                    "askQty": 24000,
+                    "askPrice": 4,
+                    "askQty": 6000,
                     "bidQty": 6000,
-                    "bidprice": 3.55,
+                    "bidprice": 3.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -321,14 +321,14 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 110,
-                    "totalBuyQuantity": 84000,
-                    "totalSellQuantity": 120000,
+                    "totalBuyQuantity": 72000,
+                    "totalSellQuantity": 126000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
-                    "askPrice": 2.75,
+                    "askPrice": 2.9,
                     "askQty": 6000,
                     "bidQty": 6000,
                     "bidprice": 1.75,
@@ -342,11 +342,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 110,
-                    "totalBuyQuantity": 258000,
+                    "totalBuyQuantity": 264000,
                     "totalSellQuantity": 48000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 110
@@ -371,7 +371,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
                     "askPrice": 6.9,
@@ -392,7 +392,7 @@
                     "totalSellQuantity": 12000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 111
@@ -417,7 +417,7 @@
                     "totalSellQuantity": 24000,
                     "totalTradedVolume": 2,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
                     "askPrice": 3.25,
@@ -438,7 +438,7 @@
                     "totalSellQuantity": 12000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 112
@@ -448,7 +448,7 @@
                     "askPrice": 3.2,
                     "askQty": 6000,
                     "bidQty": 6000,
-                    "bidprice": 0.15,
+                    "bidprice": 1.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -459,17 +459,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 112.5,
-                    "totalBuyQuantity": 12000,
+                    "totalBuyQuantity": 24000,
                     "totalSellQuantity": 6000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
                     "askPrice": 8.85,
                     "askQty": 6000,
                     "bidQty": 6000,
-                    "bidprice": 2.1,
+                    "bidprice": 2.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -480,11 +480,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 112.5,
-                    "totalBuyQuantity": 96000,
+                    "totalBuyQuantity": 108000,
                     "totalSellQuantity": 24000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 112.5
@@ -509,7 +509,7 @@
                     "totalSellQuantity": 30000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
                     "askPrice": 5,
@@ -530,7 +530,7 @@
                     "totalSellQuantity": 18000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 113
@@ -555,7 +555,7 @@
                     "totalSellQuantity": 48000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
                     "askPrice": 7.9,
@@ -576,15 +576,15 @@
                     "totalSellQuantity": 24000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 114
             },
             {
                 "CE": {
-                    "askPrice": 1.7,
-                    "askQty": 36000,
+                    "askPrice": 1.6,
+                    "askQty": 6000,
                     "bidQty": 6000,
                     "bidprice": 1.35,
                     "change": 0.19999999999999996,
@@ -598,16 +598,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 115,
                     "totalBuyQuantity": 138000,
-                    "totalSellQuantity": 906000,
+                    "totalSellQuantity": 924000,
                     "totalTradedVolume": 1,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
                     "askPrice": 4.95,
                     "askQty": 6000,
-                    "bidQty": 6000,
-                    "bidprice": 3.75,
+                    "bidQty": 36000,
+                    "bidprice": 3.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -622,38 +622,38 @@
                     "totalSellQuantity": 18000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 115
             },
             {
                 "CE": {
-                    "askPrice": 1.5,
+                    "askPrice": 0.9,
                     "askQty": 6000,
                     "bidQty": 12000,
-                    "bidprice": 0.9,
-                    "change": 0,
+                    "bidprice": 0.85,
+                    "change": -0.29999999999999993,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKMANAPPURAM25-05-2023CE116.00",
                     "impliedVolatility": 0,
-                    "lastPrice": 0,
+                    "lastPrice": 0.9,
                     "openInterest": 76,
-                    "pChange": 0,
+                    "pChange": -24.999999999999993,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 116,
                     "totalBuyQuantity": 54000,
                     "totalSellQuantity": 90000,
-                    "totalTradedVolume": 0,
+                    "totalTradedVolume": 2,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
                     "askPrice": 6,
                     "askQty": 6000,
                     "bidQty": 6000,
-                    "bidprice": 4.65,
+                    "bidprice": 4.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -664,18 +664,18 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 116,
-                    "totalBuyQuantity": 6000,
+                    "totalBuyQuantity": 18000,
                     "totalSellQuantity": 36000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 116
             },
             {
                 "CE": {
-                    "askPrice": 1,
+                    "askPrice": 0.9,
                     "askQty": 6000,
                     "bidQty": 6000,
                     "bidprice": 0.65,
@@ -690,20 +690,20 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 117,
                     "totalBuyQuantity": 78000,
-                    "totalSellQuantity": 144000,
+                    "totalSellQuantity": 150000,
                     "totalTradedVolume": 1,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 117
             },
             {
                 "CE": {
-                    "askPrice": 1,
+                    "askPrice": 0.9,
                     "askQty": 6000,
-                    "bidQty": 12000,
-                    "bidprice": 0.05,
+                    "bidQty": 6000,
+                    "bidprice": 0.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -714,11 +714,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 117.5,
-                    "totalBuyQuantity": 12000,
+                    "totalBuyQuantity": 18000,
                     "totalSellQuantity": 54000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
                     "askPrice": 15.5,
@@ -739,17 +739,17 @@
                     "totalSellQuantity": 12000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 117.5
             },
             {
                 "CE": {
-                    "askPrice": 0.95,
+                    "askPrice": 0.9,
                     "askQty": 6000,
                     "bidQty": 12000,
-                    "bidprice": 0.7,
+                    "bidprice": 0.6,
                     "change": 0.050000000000000044,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -760,11 +760,11 @@
                     "pChange": 7.1428571428571495,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 118,
-                    "totalBuyQuantity": 78000,
+                    "totalBuyQuantity": 84000,
                     "totalSellQuantity": 48000,
-                    "totalTradedVolume": 1,
+                    "totalTradedVolume": 2,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
                     "askPrice": 0,
@@ -785,7 +785,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 118
@@ -806,11 +806,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 119,
-                    "totalBuyQuantity": 48000,
+                    "totalBuyQuantity": 72000,
                     "totalSellQuantity": 30000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
                     "askPrice": 0,
@@ -831,7 +831,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 119
@@ -839,24 +839,24 @@
             {
                 "CE": {
                     "askPrice": 0.6,
-                    "askQty": 42000,
-                    "bidQty": 402000,
+                    "askQty": 36000,
+                    "bidQty": 378000,
                     "bidprice": 0.55,
                     "change": 0,
-                    "changeinOpenInterest": -21,
+                    "changeinOpenInterest": -23,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKMANAPPURAM25-05-2023CE120.00",
                     "impliedVolatility": 41.87,
                     "lastPrice": 0.55,
-                    "openInterest": 809,
+                    "openInterest": 807,
                     "pChange": 0,
-                    "pchangeinOpenInterest": -2.5301204819277108,
+                    "pchangeinOpenInterest": -2.7710843373493974,
                     "strikePrice": 120,
-                    "totalBuyQuantity": 1146000,
-                    "totalSellQuantity": 618000,
-                    "totalTradedVolume": 23,
+                    "totalBuyQuantity": 1128000,
+                    "totalSellQuantity": 606000,
+                    "totalTradedVolume": 27,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
                     "askPrice": 18,
@@ -877,7 +877,7 @@
                     "totalSellQuantity": 18000,
                     "totalTradedVolume": 6,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 120
@@ -902,7 +902,7 @@
                     "totalSellQuantity": 30000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
                     "askPrice": 0,
@@ -923,7 +923,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 121
@@ -948,7 +948,7 @@
                     "totalSellQuantity": 12000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
                     "askPrice": 0,
@@ -969,7 +969,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 122
@@ -994,7 +994,7 @@
                     "totalSellQuantity": 48000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
                     "askPrice": 20.95,
@@ -1011,11 +1011,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 122.5,
-                    "totalBuyQuantity": 36000,
+                    "totalBuyQuantity": 30000,
                     "totalSellQuantity": 18000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 122.5
@@ -1040,7 +1040,7 @@
                     "totalSellQuantity": 18000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1061,7 +1061,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 123
@@ -1070,8 +1070,8 @@
                 "CE": {
                     "askPrice": 0.65,
                     "askQty": 6000,
-                    "bidQty": 6000,
-                    "bidprice": 0.15,
+                    "bidQty": 12000,
+                    "bidprice": 0.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1086,7 +1086,7 @@
                     "totalSellQuantity": 6000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1107,7 +1107,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 124
@@ -1115,7 +1115,7 @@
             {
                 "CE": {
                     "askPrice": 0.3,
-                    "askQty": 12000,
+                    "askQty": 24000,
                     "bidQty": 6000,
                     "bidprice": 0.25,
                     "change": 0,
@@ -1128,14 +1128,14 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": -0.8995502248875562,
                     "strikePrice": 125,
-                    "totalBuyQuantity": 726000,
-                    "totalSellQuantity": 336000,
+                    "totalBuyQuantity": 732000,
+                    "totalSellQuantity": 348000,
                     "totalTradedVolume": 7,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
-                    "askPrice": 21.95,
+                    "askPrice": 19.95,
                     "askQty": 6000,
                     "bidQty": 6000,
                     "bidprice": 12.05,
@@ -1153,7 +1153,7 @@
                     "totalSellQuantity": 24000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 125
@@ -1178,7 +1178,7 @@
                     "totalSellQuantity": 84000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 126
@@ -1203,7 +1203,7 @@
                     "totalSellQuantity": 18000,
                     "totalTradedVolume": 7,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1224,7 +1224,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 127
@@ -1249,15 +1249,15 @@
                     "totalSellQuantity": 6000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 127.5
             },
             {
                 "CE": {
-                    "askPrice": 0.45,
-                    "askQty": 6000,
+                    "askPrice": 0.5,
+                    "askQty": 18000,
                     "bidQty": 12000,
                     "bidprice": 0.05,
                     "change": 0,
@@ -1271,10 +1271,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 128,
                     "totalBuyQuantity": 12000,
-                    "totalSellQuantity": 36000,
+                    "totalSellQuantity": 30000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 128
@@ -1296,10 +1296,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 129,
                     "totalBuyQuantity": 24000,
-                    "totalSellQuantity": 84000,
+                    "totalSellQuantity": 96000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 129
@@ -1307,24 +1307,24 @@
             {
                 "CE": {
                     "askPrice": 0.15,
-                    "askQty": 36000,
-                    "bidQty": 96000,
+                    "askQty": 84000,
+                    "bidQty": 90000,
                     "bidprice": 0.1,
                     "change": -0.04999999999999999,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKMANAPPURAM25-05-2023CE130.00",
-                    "impliedVolatility": 56.87,
+                    "impliedVolatility": 52.92,
                     "lastPrice": 0.1,
                     "openInterest": 913,
                     "pChange": -33.33333333333333,
                     "pchangeinOpenInterest": -0.2185792349726776,
                     "strikePrice": 130,
-                    "totalBuyQuantity": 744000,
-                    "totalSellQuantity": 504000,
-                    "totalTradedVolume": 16,
+                    "totalBuyQuantity": 738000,
+                    "totalSellQuantity": 498000,
+                    "totalTradedVolume": 17,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
                     "askPrice": 29,
@@ -1345,7 +1345,7 @@
                     "totalSellQuantity": 12000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 130
@@ -1370,7 +1370,7 @@
                     "totalSellQuantity": 12000,
                     "totalTradedVolume": 1,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 131
@@ -1395,7 +1395,7 @@
                     "totalSellQuantity": 270000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 132
@@ -1420,7 +1420,7 @@
                     "totalSellQuantity": 12000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 133
@@ -1445,7 +1445,7 @@
                     "totalSellQuantity": 18000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 134
@@ -1467,10 +1467,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 135,
                     "totalBuyQuantity": 792000,
-                    "totalSellQuantity": 402000,
+                    "totalSellQuantity": 456000,
                     "totalTradedVolume": 1,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 135
@@ -1495,7 +1495,7 @@
                     "totalSellQuantity": 12000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 136
@@ -1520,7 +1520,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 1,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 139
@@ -1545,7 +1545,7 @@
                     "totalSellQuantity": 276000,
                     "totalTradedVolume": 10,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 140
@@ -1570,7 +1570,7 @@
                     "totalSellQuantity": 78000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 145
@@ -1595,7 +1595,7 @@
                     "totalSellQuantity": 6000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 146
@@ -1624,7 +1624,7 @@
                     "totalSellQuantity": 132000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 90
@@ -1649,7 +1649,7 @@
                     "totalSellQuantity": 30000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 95
@@ -1674,15 +1674,15 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 97.5
             },
             {
                 "CE": {
-                    "askPrice": 16,
-                    "askQty": 6000,
+                    "askPrice": 0,
+                    "askQty": 0,
                     "bidQty": 12000,
                     "bidprice": 1.05,
                     "change": 0,
@@ -1696,10 +1696,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 100,
                     "totalBuyQuantity": 12000,
-                    "totalSellQuantity": 6000,
+                    "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
                     "askPrice": 0.3,
@@ -1720,7 +1720,7 @@
                     "totalSellQuantity": 24000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 100
@@ -1745,7 +1745,7 @@
                     "totalSellQuantity": 36000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 100
@@ -1770,7 +1770,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 102.5
@@ -1795,7 +1795,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 103
@@ -1820,7 +1820,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 104
@@ -1829,8 +1829,8 @@
                 "PE": {
                     "askPrice": 1.4,
                     "askQty": 12000,
-                    "bidQty": 6000,
-                    "bidprice": 0.65,
+                    "bidQty": 12000,
+                    "bidprice": 0.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1841,11 +1841,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 105,
-                    "totalBuyQuantity": 90000,
+                    "totalBuyQuantity": 96000,
                     "totalSellQuantity": 66000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 105
@@ -1870,7 +1870,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 107
@@ -1895,7 +1895,7 @@
                     "totalSellQuantity": 78000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 107.5
@@ -1904,8 +1904,8 @@
                 "PE": {
                     "askPrice": 2,
                     "askQty": 12000,
-                    "bidQty": 6000,
-                    "bidprice": 0.75,
+                    "bidQty": 12000,
+                    "bidprice": 1.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1916,21 +1916,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 108,
-                    "totalBuyQuantity": 24000,
+                    "totalBuyQuantity": 30000,
                     "totalSellQuantity": 18000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 108
             },
             {
                 "CE": {
-                    "askPrice": 4.6,
-                    "askQty": 24000,
+                    "askPrice": 4,
+                    "askQty": 6000,
                     "bidQty": 6000,
-                    "bidprice": 3.55,
+                    "bidprice": 3.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1941,14 +1941,14 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 110,
-                    "totalBuyQuantity": 84000,
-                    "totalSellQuantity": 120000,
+                    "totalBuyQuantity": 72000,
+                    "totalSellQuantity": 126000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
-                    "askPrice": 2.75,
+                    "askPrice": 2.9,
                     "askQty": 6000,
                     "bidQty": 6000,
                     "bidprice": 1.75,
@@ -1962,11 +1962,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 110,
-                    "totalBuyQuantity": 258000,
+                    "totalBuyQuantity": 264000,
                     "totalSellQuantity": 48000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 110
@@ -1991,7 +1991,7 @@
                     "totalSellQuantity": 102000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 110
@@ -2016,7 +2016,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
                     "askPrice": 6.9,
@@ -2037,7 +2037,7 @@
                     "totalSellQuantity": 12000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 111
@@ -2062,7 +2062,7 @@
                     "totalSellQuantity": 24000,
                     "totalTradedVolume": 2,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
                     "askPrice": 3.25,
@@ -2083,7 +2083,7 @@
                     "totalSellQuantity": 12000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 112
@@ -2093,7 +2093,7 @@
                     "askPrice": 3.2,
                     "askQty": 6000,
                     "bidQty": 6000,
-                    "bidprice": 0.15,
+                    "bidprice": 1.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2104,17 +2104,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 112.5,
-                    "totalBuyQuantity": 12000,
+                    "totalBuyQuantity": 24000,
                     "totalSellQuantity": 6000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
                     "askPrice": 8.85,
                     "askQty": 6000,
                     "bidQty": 6000,
-                    "bidprice": 2.1,
+                    "bidprice": 2.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2125,11 +2125,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 112.5,
-                    "totalBuyQuantity": 96000,
+                    "totalBuyQuantity": 108000,
                     "totalSellQuantity": 24000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 112.5
@@ -2154,7 +2154,7 @@
                     "totalSellQuantity": 30000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
                     "askPrice": 5,
@@ -2175,7 +2175,7 @@
                     "totalSellQuantity": 18000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 113
@@ -2200,7 +2200,7 @@
                     "totalSellQuantity": 48000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
                     "askPrice": 7.9,
@@ -2221,15 +2221,15 @@
                     "totalSellQuantity": 24000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 114
             },
             {
                 "CE": {
-                    "askPrice": 1.7,
-                    "askQty": 36000,
+                    "askPrice": 1.6,
+                    "askQty": 6000,
                     "bidQty": 6000,
                     "bidprice": 1.35,
                     "change": 0.19999999999999996,
@@ -2243,16 +2243,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 115,
                     "totalBuyQuantity": 138000,
-                    "totalSellQuantity": 906000,
+                    "totalSellQuantity": 924000,
                     "totalTradedVolume": 1,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
                     "askPrice": 4.95,
                     "askQty": 6000,
-                    "bidQty": 6000,
-                    "bidprice": 3.75,
+                    "bidQty": 36000,
+                    "bidprice": 3.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2267,7 +2267,7 @@
                     "totalSellQuantity": 18000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 115
@@ -2292,7 +2292,7 @@
                     "totalSellQuantity": 30000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2313,38 +2313,38 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 115
             },
             {
                 "CE": {
-                    "askPrice": 1.5,
+                    "askPrice": 0.9,
                     "askQty": 6000,
                     "bidQty": 12000,
-                    "bidprice": 0.9,
-                    "change": 0,
+                    "bidprice": 0.85,
+                    "change": -0.29999999999999993,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKMANAPPURAM25-05-2023CE116.00",
                     "impliedVolatility": 0,
-                    "lastPrice": 0,
+                    "lastPrice": 0.9,
                     "openInterest": 76,
-                    "pChange": 0,
+                    "pChange": -24.999999999999993,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 116,
                     "totalBuyQuantity": 54000,
                     "totalSellQuantity": 90000,
-                    "totalTradedVolume": 0,
+                    "totalTradedVolume": 2,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
                     "askPrice": 6,
                     "askQty": 6000,
                     "bidQty": 6000,
-                    "bidprice": 4.65,
+                    "bidprice": 4.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2355,18 +2355,18 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 116,
-                    "totalBuyQuantity": 6000,
+                    "totalBuyQuantity": 18000,
                     "totalSellQuantity": 36000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 116
             },
             {
                 "CE": {
-                    "askPrice": 1,
+                    "askPrice": 0.9,
                     "askQty": 6000,
                     "bidQty": 6000,
                     "bidprice": 0.65,
@@ -2381,20 +2381,20 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 117,
                     "totalBuyQuantity": 78000,
-                    "totalSellQuantity": 144000,
+                    "totalSellQuantity": 150000,
                     "totalTradedVolume": 1,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 117
             },
             {
                 "CE": {
-                    "askPrice": 1,
+                    "askPrice": 0.9,
                     "askQty": 6000,
-                    "bidQty": 12000,
-                    "bidprice": 0.05,
+                    "bidQty": 6000,
+                    "bidprice": 0.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2405,11 +2405,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 117.5,
-                    "totalBuyQuantity": 12000,
+                    "totalBuyQuantity": 18000,
                     "totalSellQuantity": 54000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
                     "askPrice": 15.5,
@@ -2430,17 +2430,17 @@
                     "totalSellQuantity": 12000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 117.5
             },
             {
                 "CE": {
-                    "askPrice": 0.95,
+                    "askPrice": 0.9,
                     "askQty": 6000,
                     "bidQty": 12000,
-                    "bidprice": 0.7,
+                    "bidprice": 0.6,
                     "change": 0.050000000000000044,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2451,11 +2451,11 @@
                     "pChange": 7.1428571428571495,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 118,
-                    "totalBuyQuantity": 78000,
+                    "totalBuyQuantity": 84000,
                     "totalSellQuantity": 48000,
-                    "totalTradedVolume": 1,
+                    "totalTradedVolume": 2,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2476,7 +2476,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 118
@@ -2497,11 +2497,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 119,
-                    "totalBuyQuantity": 48000,
+                    "totalBuyQuantity": 72000,
                     "totalSellQuantity": 30000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2522,7 +2522,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 119
@@ -2530,24 +2530,24 @@
             {
                 "CE": {
                     "askPrice": 0.6,
-                    "askQty": 42000,
-                    "bidQty": 402000,
+                    "askQty": 36000,
+                    "bidQty": 378000,
                     "bidprice": 0.55,
                     "change": 0,
-                    "changeinOpenInterest": -21,
+                    "changeinOpenInterest": -23,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKMANAPPURAM25-05-2023CE120.00",
                     "impliedVolatility": 41.87,
                     "lastPrice": 0.55,
-                    "openInterest": 809,
+                    "openInterest": 807,
                     "pChange": 0,
-                    "pchangeinOpenInterest": -2.5301204819277108,
+                    "pchangeinOpenInterest": -2.7710843373493974,
                     "strikePrice": 120,
-                    "totalBuyQuantity": 1146000,
-                    "totalSellQuantity": 618000,
-                    "totalTradedVolume": 23,
+                    "totalBuyQuantity": 1128000,
+                    "totalSellQuantity": 606000,
+                    "totalTradedVolume": 27,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
                     "askPrice": 18,
@@ -2568,7 +2568,7 @@
                     "totalSellQuantity": 18000,
                     "totalTradedVolume": 6,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 120
@@ -2593,7 +2593,7 @@
                     "totalSellQuantity": 12000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2614,7 +2614,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 120
@@ -2639,7 +2639,7 @@
                     "totalSellQuantity": 30000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2660,7 +2660,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 121
@@ -2685,7 +2685,7 @@
                     "totalSellQuantity": 12000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2706,7 +2706,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 122
@@ -2731,7 +2731,7 @@
                     "totalSellQuantity": 48000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
                     "askPrice": 20.95,
@@ -2748,11 +2748,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 122.5,
-                    "totalBuyQuantity": 36000,
+                    "totalBuyQuantity": 30000,
                     "totalSellQuantity": 18000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 122.5
@@ -2777,7 +2777,7 @@
                     "totalSellQuantity": 18000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2798,7 +2798,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 123
@@ -2807,8 +2807,8 @@
                 "CE": {
                     "askPrice": 0.65,
                     "askQty": 6000,
-                    "bidQty": 6000,
-                    "bidprice": 0.15,
+                    "bidQty": 12000,
+                    "bidprice": 0.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2823,7 +2823,7 @@
                     "totalSellQuantity": 6000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2844,7 +2844,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 124
@@ -2852,7 +2852,7 @@
             {
                 "CE": {
                     "askPrice": 0.3,
-                    "askQty": 12000,
+                    "askQty": 24000,
                     "bidQty": 6000,
                     "bidprice": 0.25,
                     "change": 0,
@@ -2865,14 +2865,14 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": -0.8995502248875562,
                     "strikePrice": 125,
-                    "totalBuyQuantity": 726000,
-                    "totalSellQuantity": 336000,
+                    "totalBuyQuantity": 732000,
+                    "totalSellQuantity": 348000,
                     "totalTradedVolume": 7,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
-                    "askPrice": 21.95,
+                    "askPrice": 19.95,
                     "askQty": 6000,
                     "bidQty": 6000,
                     "bidprice": 12.05,
@@ -2890,7 +2890,7 @@
                     "totalSellQuantity": 24000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 125
@@ -2915,10 +2915,10 @@
                     "totalSellQuantity": 24000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
-                    "askPrice": 16.4,
+                    "askPrice": 16.45,
                     "askQty": 6000,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -2936,7 +2936,7 @@
                     "totalSellQuantity": 6000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 125
@@ -2961,7 +2961,7 @@
                     "totalSellQuantity": 84000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 126
@@ -2986,7 +2986,7 @@
                     "totalSellQuantity": 18000,
                     "totalTradedVolume": 7,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3007,7 +3007,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 127
@@ -3032,15 +3032,15 @@
                     "totalSellQuantity": 6000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 127.5
             },
             {
                 "CE": {
-                    "askPrice": 0.45,
-                    "askQty": 6000,
+                    "askPrice": 0.5,
+                    "askQty": 18000,
                     "bidQty": 12000,
                     "bidprice": 0.05,
                     "change": 0,
@@ -3054,10 +3054,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 128,
                     "totalBuyQuantity": 12000,
-                    "totalSellQuantity": 36000,
+                    "totalSellQuantity": 30000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 128
@@ -3079,10 +3079,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 129,
                     "totalBuyQuantity": 24000,
-                    "totalSellQuantity": 84000,
+                    "totalSellQuantity": 96000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 129
@@ -3090,24 +3090,24 @@
             {
                 "CE": {
                     "askPrice": 0.15,
-                    "askQty": 36000,
-                    "bidQty": 96000,
+                    "askQty": 84000,
+                    "bidQty": 90000,
                     "bidprice": 0.1,
                     "change": -0.04999999999999999,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKMANAPPURAM25-05-2023CE130.00",
-                    "impliedVolatility": 56.87,
+                    "impliedVolatility": 52.92,
                     "lastPrice": 0.1,
                     "openInterest": 913,
                     "pChange": -33.33333333333333,
                     "pchangeinOpenInterest": -0.2185792349726776,
                     "strikePrice": 130,
-                    "totalBuyQuantity": 744000,
-                    "totalSellQuantity": 504000,
-                    "totalTradedVolume": 16,
+                    "totalBuyQuantity": 738000,
+                    "totalSellQuantity": 498000,
+                    "totalTradedVolume": 17,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "PE": {
                     "askPrice": 29,
@@ -3128,7 +3128,7 @@
                     "totalSellQuantity": 12000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 130
@@ -3150,10 +3150,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 130,
                     "totalBuyQuantity": 6000,
-                    "totalSellQuantity": 24000,
+                    "totalSellQuantity": 66000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 130
@@ -3178,7 +3178,7 @@
                     "totalSellQuantity": 12000,
                     "totalTradedVolume": 1,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 131
@@ -3203,7 +3203,7 @@
                     "totalSellQuantity": 6000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 131
@@ -3228,7 +3228,7 @@
                     "totalSellQuantity": 270000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 132
@@ -3253,7 +3253,7 @@
                     "totalSellQuantity": 12000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 133
@@ -3278,7 +3278,7 @@
                     "totalSellQuantity": 18000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 134
@@ -3300,10 +3300,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 135,
                     "totalBuyQuantity": 792000,
-                    "totalSellQuantity": 402000,
+                    "totalSellQuantity": 456000,
                     "totalTradedVolume": 1,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 135
@@ -3328,7 +3328,7 @@
                     "totalSellQuantity": 12000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 136
@@ -3353,7 +3353,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 1,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 139
@@ -3378,7 +3378,7 @@
                     "totalSellQuantity": 276000,
                     "totalTradedVolume": 10,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 140
@@ -3403,7 +3403,7 @@
                     "totalSellQuantity": 78000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 145
@@ -3428,7 +3428,7 @@
                     "totalSellQuantity": 6000,
                     "totalTradedVolume": 0,
                     "underlying": "MANAPPURAM",
-                    "underlyingValue": 112.95
+                    "underlyingValue": 112.7
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 146
@@ -3486,7 +3486,7 @@
             145,
             146
         ],
-        "timestamp": "18-May-2023 10:19:49",
-        "underlyingValue": 112.95
+        "timestamp": "18-May-2023 10:25:46",
+        "underlyingValue": 112.7
     }
 }

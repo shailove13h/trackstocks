@@ -1,12 +1,12 @@
 {
     "filtered": {
         "CE": {
-            "totOI": 3712,
-            "totVol": 431
+            "totOI": 3703,
+            "totVol": 459
         },
         "PE": {
-            "totOI": 3237,
-            "totVol": 234
+            "totOI": 3238,
+            "totVol": 249
         },
         "data": [
             {
@@ -29,7 +29,7 @@
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 400
@@ -54,7 +54,7 @@
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 410
@@ -79,7 +79,7 @@
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 415
@@ -104,7 +104,7 @@
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0.45,
@@ -125,7 +125,7 @@
                     "totalSellQuantity": 2900,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 430
@@ -150,7 +150,7 @@
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 435
@@ -175,7 +175,7 @@
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 440
@@ -200,7 +200,7 @@
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0.3,
@@ -221,7 +221,7 @@
                     "totalSellQuantity": 1450,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 455
@@ -246,7 +246,7 @@
                     "totalSellQuantity": 47850,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -267,7 +267,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 460
@@ -292,7 +292,7 @@
                     "totalSellQuantity": 47850,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 465
@@ -317,7 +317,7 @@
                     "totalSellQuantity": 47850,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 1.2,
@@ -338,7 +338,7 @@
                     "totalSellQuantity": 2900,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 470
@@ -363,7 +363,7 @@
                     "totalSellQuantity": 47850,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0.25,
@@ -384,17 +384,17 @@
                     "totalSellQuantity": 1450,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 475
             },
             {
                 "CE": {
-                    "askPrice": 130.8,
-                    "askQty": 7250,
+                    "askPrice": 131.35,
+                    "askQty": 2900,
                     "bidQty": 4350,
-                    "bidprice": 124.7,
+                    "bidprice": 122.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -409,7 +409,7 @@
                     "totalSellQuantity": 50750,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0.25,
@@ -430,7 +430,7 @@
                     "totalSellQuantity": 84100,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 480
@@ -455,7 +455,7 @@
                     "totalSellQuantity": 47850,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -476,17 +476,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 485
             },
             {
                 "CE": {
-                    "askPrice": 129.65,
+                    "askPrice": 129.45,
                     "askQty": 4350,
                     "bidQty": 4350,
-                    "bidprice": 109.35,
+                    "bidprice": 109.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -501,7 +501,7 @@
                     "totalSellQuantity": 47850,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 1.6,
@@ -522,7 +522,7 @@
                     "totalSellQuantity": 44950,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 490
@@ -547,7 +547,7 @@
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -568,7 +568,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 495
@@ -593,7 +593,7 @@
                     "totalSellQuantity": 47850,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0.3,
@@ -611,10 +611,10 @@
                     "pchangeinOpenInterest": -1.8867924528301887,
                     "strikePrice": 500,
                     "totalBuyQuantity": 84100,
-                    "totalSellQuantity": 165300,
+                    "totalSellQuantity": 166750,
                     "totalTradedVolume": 8,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 500
@@ -639,7 +639,7 @@
                     "totalSellQuantity": 56550,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 2.75,
@@ -660,15 +660,15 @@
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 505
             },
             {
                 "CE": {
-                    "askPrice": 100.6,
-                    "askQty": 1450,
+                    "askPrice": 102.85,
+                    "askQty": 4350,
                     "bidQty": 8700,
                     "bidprice": 95.85,
                     "change": 0,
@@ -682,14 +682,14 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 510,
                     "totalBuyQuantity": 60900,
-                    "totalSellQuantity": 58000,
+                    "totalSellQuantity": 60900,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0.8,
-                    "askQty": 1450,
+                    "askQty": 5800,
                     "bidQty": 1450,
                     "bidprice": 0.2,
                     "change": 0,
@@ -702,11 +702,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 510,
-                    "totalBuyQuantity": 18850,
-                    "totalSellQuantity": 72500,
+                    "totalBuyQuantity": 24650,
+                    "totalSellQuantity": 76850,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 510
@@ -731,7 +731,7 @@
                     "totalSellQuantity": 56550,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 3,
@@ -752,17 +752,17 @@
                     "totalSellQuantity": 47850,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 515
             },
             {
                 "CE": {
-                    "askPrice": 93.15,
+                    "askPrice": 91.95,
                     "askQty": 4350,
                     "bidQty": 4350,
-                    "bidprice": 85.5,
+                    "bidprice": 85.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -777,10 +777,10 @@
                     "totalSellQuantity": 62350,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 0.55,
+                    "askPrice": 0.5,
                     "askQty": 1450,
                     "bidQty": 1450,
                     "bidprice": 0.4,
@@ -798,7 +798,7 @@
                     "totalSellQuantity": 118900,
                     "totalTradedVolume": 2,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 520
@@ -823,10 +823,10 @@
                     "totalSellQuantity": 56550,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 2.25,
+                    "askPrice": 1.95,
                     "askQty": 43500,
                     "bidQty": 4350,
                     "bidprice": 0.15,
@@ -841,20 +841,20 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 525,
                     "totalBuyQuantity": 14500,
-                    "totalSellQuantity": 104400,
+                    "totalSellQuantity": 114550,
                     "totalTradedVolume": 1,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 525
             },
             {
                 "CE": {
-                    "askPrice": 83.2,
-                    "askQty": 1450,
-                    "bidQty": 1450,
-                    "bidprice": 75.85,
+                    "askPrice": 82.55,
+                    "askQty": 4350,
+                    "bidQty": 4350,
+                    "bidprice": 77.05,
                     "change": -2.950000000000003,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -865,14 +865,14 @@
                     "pChange": -3.5975609756097593,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 530,
-                    "totalBuyQuantity": 55100,
-                    "totalSellQuantity": 58000,
+                    "totalBuyQuantity": 59450,
+                    "totalSellQuantity": 62350,
                     "totalTradedVolume": 1,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 0.6,
+                    "askPrice": 0.55,
                     "askQty": 1450,
                     "bidQty": 1450,
                     "bidprice": 0.35,
@@ -890,7 +890,7 @@
                     "totalSellQuantity": 63800,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 530
@@ -915,13 +915,13 @@
                     "totalSellQuantity": 56550,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 2,
                     "askQty": 14500,
                     "bidQty": 4350,
-                    "bidprice": 0.15,
+                    "bidprice": 0.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -936,17 +936,17 @@
                     "totalSellQuantity": 58000,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 535
             },
             {
                 "CE": {
-                    "askPrice": 69.95,
+                    "askPrice": 71.15,
                     "askQty": 1450,
                     "bidQty": 1450,
-                    "bidprice": 67.55,
+                    "bidprice": 67.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -957,11 +957,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 540,
-                    "totalBuyQuantity": 92800,
-                    "totalSellQuantity": 72500,
+                    "totalBuyQuantity": 95700,
+                    "totalSellQuantity": 79750,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0.75,
@@ -982,17 +982,17 @@
                     "totalSellQuantity": 79750,
                     "totalTradedVolume": 1,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 540
             },
             {
                 "CE": {
-                    "askPrice": 69.6,
+                    "askPrice": 69.9,
                     "askQty": 4350,
-                    "bidQty": 4350,
-                    "bidprice": 60.25,
+                    "bidQty": 5800,
+                    "bidprice": 60.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1003,11 +1003,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 545,
-                    "totalBuyQuantity": 97150,
+                    "totalBuyQuantity": 92800,
                     "totalSellQuantity": 66700,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 3,
@@ -1028,17 +1028,17 @@
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 545
             },
             {
                 "CE": {
-                    "askPrice": 60.15,
+                    "askPrice": 60.95,
                     "askQty": 1450,
                     "bidQty": 1450,
-                    "bidprice": 58.6,
+                    "bidprice": 59.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1049,17 +1049,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 550,
-                    "totalBuyQuantity": 95700,
-                    "totalSellQuantity": 89900,
+                    "totalBuyQuantity": 98600,
+                    "totalSellQuantity": 88450,
                     "totalTradedVolume": 1,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 1.1,
                     "askQty": 2900,
                     "bidQty": 4350,
-                    "bidprice": 1.05,
+                    "bidprice": 1,
                     "change": 0.050000000000000044,
                     "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
@@ -1070,21 +1070,21 @@
                     "pChange": 4.761904761904765,
                     "pchangeinOpenInterest": 1.345291479820628,
                     "strikePrice": 550,
-                    "totalBuyQuantity": 187050,
+                    "totalBuyQuantity": 182700,
                     "totalSellQuantity": 201550,
-                    "totalTradedVolume": 13,
+                    "totalTradedVolume": 17,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 550
             },
             {
                 "CE": {
-                    "askPrice": 56.05,
+                    "askPrice": 56.45,
                     "askQty": 1450,
                     "bidQty": 1450,
-                    "bidprice": 53.2,
+                    "bidprice": 53.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1095,16 +1095,16 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 555,
-                    "totalBuyQuantity": 56550,
+                    "totalBuyQuantity": 58000,
                     "totalSellQuantity": 55100,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 1.7,
                     "askQty": 1450,
-                    "bidQty": 2900,
+                    "bidQty": 1450,
                     "bidprice": 1.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -1120,17 +1120,17 @@
                     "totalSellQuantity": 71050,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 555
             },
             {
                 "CE": {
-                    "askPrice": 50.7,
+                    "askPrice": 51.25,
                     "askQty": 1450,
                     "bidQty": 1450,
-                    "bidprice": 48.95,
+                    "bidprice": 49.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1145,38 +1145,38 @@
                     "totalSellQuantity": 94250,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 1.6,
+                    "askPrice": 1.55,
                     "askQty": 1450,
-                    "bidQty": 4350,
-                    "bidprice": 1.5,
-                    "change": 0,
+                    "bidQty": 2900,
+                    "bidprice": 1.45,
+                    "change": 0.10000000000000009,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGLENMARK25-05-2023PE560.00",
                     "impliedVolatility": 44.79,
-                    "lastPrice": 1.4,
+                    "lastPrice": 1.5,
                     "openInterest": 153,
-                    "pChange": 0,
+                    "pChange": 7.1428571428571495,
                     "pchangeinOpenInterest": -1.2903225806451613,
                     "strikePrice": 560,
-                    "totalBuyQuantity": 143550,
-                    "totalSellQuantity": 159500,
-                    "totalTradedVolume": 4,
+                    "totalBuyQuantity": 174000,
+                    "totalSellQuantity": 192850,
+                    "totalTradedVolume": 7,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 560
             },
             {
                 "CE": {
-                    "askPrice": 47.85,
-                    "askQty": 4350,
+                    "askPrice": 47.65,
+                    "askQty": 1450,
                     "bidQty": 1450,
-                    "bidprice": 43.8,
+                    "bidprice": 44.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1187,17 +1187,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 565,
-                    "totalBuyQuantity": 102950,
-                    "totalSellQuantity": 102950,
+                    "totalBuyQuantity": 104400,
+                    "totalSellQuantity": 98600,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 2.35,
+                    "askPrice": 2.4,
                     "askQty": 1450,
                     "bidQty": 1450,
-                    "bidprice": 1.7,
+                    "bidprice": 1.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1208,21 +1208,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 565,
-                    "totalBuyQuantity": 78300,
+                    "totalBuyQuantity": 76850,
                     "totalSellQuantity": 65250,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 565
             },
             {
                 "CE": {
-                    "askPrice": 40.8,
+                    "askPrice": 41.55,
                     "askQty": 1450,
                     "bidQty": 1450,
-                    "bidprice": 39.35,
+                    "bidprice": 40.65,
                     "change": 0.45000000000000284,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1233,42 +1233,42 @@
                     "pChange": 1.111111111111118,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 570,
-                    "totalBuyQuantity": 113100,
-                    "totalSellQuantity": 100050,
+                    "totalBuyQuantity": 105850,
+                    "totalSellQuantity": 98600,
                     "totalTradedVolume": 2,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 2.5,
+                    "askPrice": 2.35,
                     "askQty": 2900,
                     "bidQty": 1450,
-                    "bidprice": 2.35,
-                    "change": -0.15000000000000036,
+                    "bidprice": 2.2,
+                    "change": -0.20000000000000018,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGLENMARK25-05-2023PE570.00",
                     "impliedVolatility": 43.35,
-                    "lastPrice": 2.3,
+                    "lastPrice": 2.25,
                     "openInterest": 217,
-                    "pChange": -6.122448979591851,
+                    "pChange": -8.163265306122454,
                     "pchangeinOpenInterest": 0.46296296296296297,
                     "strikePrice": 570,
-                    "totalBuyQuantity": 152250,
-                    "totalSellQuantity": 182700,
-                    "totalTradedVolume": 4,
+                    "totalBuyQuantity": 179800,
+                    "totalSellQuantity": 216050,
+                    "totalTradedVolume": 6,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 570
             },
             {
                 "CE": {
-                    "askPrice": 37.6,
-                    "askQty": 2900,
+                    "askPrice": 38.2,
+                    "askQty": 1450,
                     "bidQty": 1450,
-                    "bidprice": 35.6,
+                    "bidprice": 36.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1280,16 +1280,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 575,
                     "totalBuyQuantity": 108750,
-                    "totalSellQuantity": 98600,
+                    "totalSellQuantity": 97150,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 3.25,
-                    "askQty": 4350,
-                    "bidQty": 2900,
-                    "bidprice": 2.95,
+                    "askPrice": 3.15,
+                    "askQty": 1450,
+                    "bidQty": 1450,
+                    "bidprice": 2.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1300,21 +1300,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 575,
-                    "totalBuyQuantity": 87000,
+                    "totalBuyQuantity": 84100,
                     "totalSellQuantity": 78300,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 575
             },
             {
                 "CE": {
-                    "askPrice": 32.45,
-                    "askQty": 2900,
+                    "askPrice": 33.25,
+                    "askQty": 1450,
                     "bidQty": 1450,
-                    "bidprice": 31.75,
+                    "bidprice": 32.5,
                     "change": 1.6000000000000014,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
@@ -1326,41 +1326,41 @@
                     "pchangeinOpenInterest": 0.5208333333333334,
                     "strikePrice": 580,
                     "totalBuyQuantity": 118900,
-                    "totalSellQuantity": 107300,
+                    "totalSellQuantity": 105850,
                     "totalTradedVolume": 3,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 4,
-                    "askQty": 2900,
+                    "askPrice": 3.9,
+                    "askQty": 5800,
                     "bidQty": 1450,
-                    "bidprice": 3.85,
-                    "change": 0,
-                    "changeinOpenInterest": 4,
+                    "bidprice": 3.7,
+                    "change": -0.2999999999999998,
+                    "changeinOpenInterest": 5,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGLENMARK25-05-2023PE580.00",
                     "impliedVolatility": 43.29,
-                    "lastPrice": 4,
-                    "openInterest": 227,
-                    "pChange": 0,
-                    "pchangeinOpenInterest": 1.7937219730941705,
+                    "lastPrice": 3.7,
+                    "openInterest": 228,
+                    "pChange": -7.499999999999996,
+                    "pchangeinOpenInterest": 2.242152466367713,
                     "strikePrice": 580,
-                    "totalBuyQuantity": 240700,
-                    "totalSellQuantity": 204450,
-                    "totalTradedVolume": 24,
+                    "totalBuyQuantity": 242150,
+                    "totalSellQuantity": 201550,
+                    "totalTradedVolume": 27,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 580
             },
             {
                 "CE": {
-                    "askPrice": 31,
-                    "askQty": 4350,
-                    "bidQty": 2900,
-                    "bidprice": 27.45,
+                    "askPrice": 30.45,
+                    "askQty": 2900,
+                    "bidQty": 1450,
+                    "bidprice": 28.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1371,17 +1371,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 585,
-                    "totalBuyQuantity": 111650,
-                    "totalSellQuantity": 111650,
+                    "totalBuyQuantity": 110200,
+                    "totalSellQuantity": 107300,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 5.1,
-                    "askQty": 4350,
+                    "askPrice": 4.8,
+                    "askQty": 2900,
                     "bidQty": 2900,
-                    "bidprice": 4.8,
+                    "bidprice": 4.55,
                     "change": 0.04999999999999982,
                     "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
@@ -1393,20 +1393,20 @@
                     "pchangeinOpenInterest": 5.2631578947368425,
                     "strikePrice": 585,
                     "totalBuyQuantity": 140650,
-                    "totalSellQuantity": 139200,
+                    "totalSellQuantity": 156600,
                     "totalTradedVolume": 4,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 585
             },
             {
                 "CE": {
-                    "askPrice": 24.6,
-                    "askQty": 2900,
-                    "bidQty": 1450,
-                    "bidprice": 23.75,
+                    "askPrice": 25.3,
+                    "askQty": 1450,
+                    "bidQty": 2900,
+                    "bidprice": 24.35,
                     "change": -0.1999999999999993,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
@@ -1417,17 +1417,17 @@
                     "pChange": -0.8097165991902806,
                     "pchangeinOpenInterest": -1.4705882352941178,
                     "strikePrice": 590,
-                    "totalBuyQuantity": 111650,
+                    "totalBuyQuantity": 114550,
                     "totalSellQuantity": 105850,
                     "totalTradedVolume": 4,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 6.2,
+                    "askPrice": 5.95,
                     "askQty": 1450,
                     "bidQty": 1450,
-                    "bidprice": 6,
+                    "bidprice": 5.75,
                     "change": -0.14999999999999947,
                     "changeinOpenInterest": 6,
                     "expiryDate": "25-May-2023",
@@ -1439,20 +1439,20 @@
                     "pchangeinOpenInterest": 2.830188679245283,
                     "strikePrice": 590,
                     "totalBuyQuantity": 221850,
-                    "totalSellQuantity": 201550,
+                    "totalSellQuantity": 197200,
                     "totalTradedVolume": 32,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 590
             },
             {
                 "CE": {
-                    "askPrice": 21.45,
+                    "askPrice": 22.15,
                     "askQty": 2900,
                     "bidQty": 1450,
-                    "bidprice": 19.6,
+                    "bidprice": 20.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1463,17 +1463,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 595,
-                    "totalBuyQuantity": 66700,
-                    "totalSellQuantity": 68150,
+                    "totalBuyQuantity": 63800,
+                    "totalSellQuantity": 66700,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 8,
+                    "askPrice": 7.65,
                     "askQty": 1450,
                     "bidQty": 2900,
-                    "bidprice": 7.5,
+                    "bidprice": 7.1,
                     "change": -0.39999999999999947,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1485,66 +1485,66 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 595,
                     "totalBuyQuantity": 117450,
-                    "totalSellQuantity": 114550,
+                    "totalSellQuantity": 116000,
                     "totalTradedVolume": 1,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 595
             },
             {
                 "CE": {
-                    "askPrice": 17.85,
-                    "askQty": 2900,
-                    "bidQty": 2900,
-                    "bidprice": 17.4,
-                    "change": -0.3500000000000014,
+                    "askPrice": 18.1,
+                    "askQty": 1450,
+                    "bidQty": 1450,
+                    "bidprice": 17.9,
+                    "change": 0,
                     "changeinOpenInterest": -4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGLENMARK25-05-2023CE600.00",
                     "impliedVolatility": 36.57,
-                    "lastPrice": 17.75,
+                    "lastPrice": 18.1,
                     "openInterest": 211,
-                    "pChange": -1.933701657458571,
+                    "pChange": 0,
                     "pchangeinOpenInterest": -1.8604651162790697,
                     "strikePrice": 600,
                     "totalBuyQuantity": 130500,
-                    "totalSellQuantity": 140650,
-                    "totalTradedVolume": 19,
+                    "totalSellQuantity": 142100,
+                    "totalTradedVolume": 22,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 9.5,
-                    "askQty": 2900,
-                    "bidQty": 1450,
-                    "bidprice": 9.25,
-                    "change": -0.6500000000000004,
+                    "askPrice": 9,
+                    "askQty": 1450,
+                    "bidQty": 4350,
+                    "bidprice": 8.75,
+                    "change": -1.0999999999999996,
                     "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGLENMARK25-05-2023PE600.00",
                     "impliedVolatility": 41.44,
-                    "lastPrice": 9.45,
+                    "lastPrice": 9,
                     "openInterest": 317,
-                    "pChange": -6.43564356435644,
+                    "pChange": -10.891089108910888,
                     "pchangeinOpenInterest": 0.9554140127388535,
                     "strikePrice": 600,
-                    "totalBuyQuantity": 227650,
-                    "totalSellQuantity": 201550,
-                    "totalTradedVolume": 52,
+                    "totalBuyQuantity": 226200,
+                    "totalSellQuantity": 198650,
+                    "totalTradedVolume": 54,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 600
             },
             {
                 "CE": {
-                    "askPrice": 14.85,
-                    "askQty": 1450,
+                    "askPrice": 15.3,
+                    "askQty": 2900,
                     "bidQty": 1450,
-                    "bidprice": 14.45,
+                    "bidprice": 14.8,
                     "change": -0.25,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1555,17 +1555,17 @@
                     "pChange": -1.6835016835016834,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 605,
-                    "totalBuyQuantity": 102950,
-                    "totalSellQuantity": 107300,
+                    "totalBuyQuantity": 104400,
+                    "totalSellQuantity": 104400,
                     "totalTradedVolume": 8,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 11.6,
+                    "askPrice": 11.1,
                     "askQty": 1450,
                     "bidQty": 1450,
-                    "bidprice": 11.2,
+                    "bidprice": 10.75,
                     "change": -1.6499999999999986,
                     "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
@@ -1576,67 +1576,67 @@
                     "pChange": -13.253012048192762,
                     "pchangeinOpenInterest": 7.407407407407407,
                     "strikePrice": 605,
-                    "totalBuyQuantity": 140650,
-                    "totalSellQuantity": 127600,
+                    "totalBuyQuantity": 133400,
+                    "totalSellQuantity": 126150,
                     "totalTradedVolume": 9,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 605
             },
             {
                 "CE": {
-                    "askPrice": 12.1,
+                    "askPrice": 12.4,
                     "askQty": 1450,
-                    "bidQty": 1450,
-                    "bidprice": 11.9,
-                    "change": -1,
-                    "changeinOpenInterest": 1,
+                    "bidQty": 2900,
+                    "bidprice": 12.15,
+                    "change": -0.6999999999999993,
+                    "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGLENMARK25-05-2023CE610.00",
                     "impliedVolatility": 35.73,
-                    "lastPrice": 12,
-                    "openInterest": 185,
-                    "pChange": -7.6923076923076925,
-                    "pchangeinOpenInterest": 0.5434782608695652,
+                    "lastPrice": 12.3,
+                    "openInterest": 183,
+                    "pChange": -5.38461538461538,
+                    "pchangeinOpenInterest": -0.5434782608695652,
                     "strikePrice": 610,
-                    "totalBuyQuantity": 189950,
-                    "totalSellQuantity": 229100,
-                    "totalTradedVolume": 79,
+                    "totalBuyQuantity": 194300,
+                    "totalSellQuantity": 223300,
+                    "totalTradedVolume": 84,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 13.75,
-                    "askQty": 43500,
+                    "askPrice": 13.35,
+                    "askQty": 2900,
                     "bidQty": 2900,
-                    "bidprice": 13.4,
-                    "change": -0.8999999999999986,
+                    "bidprice": 13,
+                    "change": -1.299999999999999,
                     "changeinOpenInterest": 22,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGLENMARK25-05-2023PE610.00",
                     "impliedVolatility": 40.84,
-                    "lastPrice": 13.8,
+                    "lastPrice": 13.4,
                     "openInterest": 223,
-                    "pChange": -6.1224489795918275,
+                    "pChange": -8.84353741496598,
                     "pchangeinOpenInterest": 10.945273631840797,
                     "strikePrice": 610,
-                    "totalBuyQuantity": 181250,
-                    "totalSellQuantity": 134850,
-                    "totalTradedVolume": 71,
+                    "totalBuyQuantity": 185600,
+                    "totalSellQuantity": 139200,
+                    "totalTradedVolume": 72,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 610
             },
             {
                 "CE": {
-                    "askPrice": 9.85,
-                    "askQty": 1450,
+                    "askPrice": 10.15,
+                    "askQty": 2900,
                     "bidQty": 1450,
-                    "bidprice": 9.55,
+                    "bidprice": 9.9,
                     "change": -0.9000000000000004,
                     "changeinOpenInterest": 7,
                     "expiryDate": "25-May-2023",
@@ -1647,17 +1647,17 @@
                     "pChange": -8.333333333333336,
                     "pchangeinOpenInterest": 6.306306306306307,
                     "strikePrice": 615,
-                    "totalBuyQuantity": 172550,
-                    "totalSellQuantity": 175450,
+                    "totalBuyQuantity": 176900,
+                    "totalSellQuantity": 172550,
                     "totalTradedVolume": 13,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 17.15,
+                    "askPrice": 17.05,
                     "askQty": 1450,
                     "bidQty": 1450,
-                    "bidprice": 15.85,
+                    "bidprice": 15.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1668,42 +1668,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 615,
-                    "totalBuyQuantity": 24650,
+                    "totalBuyQuantity": 21750,
                     "totalSellQuantity": 60900,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 615
             },
             {
                 "CE": {
-                    "askPrice": 7.75,
+                    "askPrice": 7.85,
                     "askQty": 2900,
-                    "bidQty": 2900,
-                    "bidprice": 7.55,
+                    "bidQty": 1450,
+                    "bidprice": 7.7,
                     "change": -1.1499999999999995,
-                    "changeinOpenInterest": -53,
+                    "changeinOpenInterest": -58,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGLENMARK25-05-2023CE620.00",
                     "impliedVolatility": 35.97,
                     "lastPrice": 7.8,
-                    "openInterest": 523,
+                    "openInterest": 518,
                     "pChange": -12.84916201117318,
-                    "pchangeinOpenInterest": -9.20138888888889,
+                    "pchangeinOpenInterest": -10.069444444444445,
                     "strikePrice": 620,
-                    "totalBuyQuantity": 201550,
-                    "totalSellQuantity": 269700,
-                    "totalTradedVolume": 178,
+                    "totalBuyQuantity": 192850,
+                    "totalSellQuantity": 259550,
+                    "totalTradedVolume": 187,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 19.55,
+                    "askPrice": 18.8,
                     "askQty": 1450,
                     "bidQty": 1450,
-                    "bidprice": 19.15,
+                    "bidprice": 18.45,
                     "change": -1.9499999999999993,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1718,7 +1718,7 @@
                     "totalSellQuantity": 124700,
                     "totalTradedVolume": 8,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 620
@@ -1726,30 +1726,30 @@
             {
                 "CE": {
                     "askPrice": 6.2,
-                    "askQty": 2900,
+                    "askQty": 1450,
                     "bidQty": 2900,
-                    "bidprice": 5.95,
-                    "change": -1.1500000000000004,
-                    "changeinOpenInterest": 4,
+                    "bidprice": 6.05,
+                    "change": -1.1000000000000005,
+                    "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGLENMARK25-05-2023CE625.00",
                     "impliedVolatility": 35.65,
-                    "lastPrice": 6.05,
-                    "openInterest": 100,
-                    "pChange": -15.972222222222227,
-                    "pchangeinOpenInterest": 4.166666666666667,
+                    "lastPrice": 6.1,
+                    "openInterest": 99,
+                    "pChange": -15.277777777777784,
+                    "pchangeinOpenInterest": 3.125,
                     "strikePrice": 625,
-                    "totalBuyQuantity": 182700,
-                    "totalSellQuantity": 192850,
-                    "totalTradedVolume": 6,
+                    "totalBuyQuantity": 185600,
+                    "totalSellQuantity": 188500,
+                    "totalTradedVolume": 9,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 23.7,
+                    "askPrice": 22.3,
                     "askQty": 1450,
-                    "bidQty": 2900,
-                    "bidprice": 22,
+                    "bidQty": 1450,
+                    "bidprice": 21.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1760,42 +1760,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 625,
-                    "totalBuyQuantity": 68150,
-                    "totalSellQuantity": 59450,
+                    "totalBuyQuantity": 65250,
+                    "totalSellQuantity": 62350,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 625
             },
             {
                 "CE": {
-                    "askPrice": 4.75,
-                    "askQty": 2900,
-                    "bidQty": 1450,
-                    "bidprice": 4.5,
-                    "change": -1.2999999999999998,
+                    "askPrice": 4.85,
+                    "askQty": 4350,
+                    "bidQty": 2900,
+                    "bidprice": 4.65,
+                    "change": -1.1999999999999993,
                     "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGLENMARK25-05-2023CE630.00",
                     "impliedVolatility": 35.71,
-                    "lastPrice": 4.55,
+                    "lastPrice": 4.65,
                     "openInterest": 299,
-                    "pChange": -22.22222222222222,
+                    "pChange": -20.5128205128205,
                     "pchangeinOpenInterest": 1.0135135135135136,
                     "strikePrice": 630,
-                    "totalBuyQuantity": 110200,
+                    "totalBuyQuantity": 108750,
                     "totalSellQuantity": 158050,
-                    "totalTradedVolume": 41,
+                    "totalTradedVolume": 45,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 26.65,
+                    "askPrice": 26.9,
                     "askQty": 2900,
                     "bidQty": 1450,
-                    "bidprice": 24.75,
+                    "bidprice": 24,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1810,17 +1810,17 @@
                     "totalSellQuantity": 62350,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 630
             },
             {
                 "CE": {
-                    "askPrice": 3.75,
+                    "askPrice": 3.8,
                     "askQty": 1450,
                     "bidQty": 2900,
-                    "bidprice": 3.5,
+                    "bidprice": 3.55,
                     "change": -1.2999999999999998,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1831,17 +1831,17 @@
                     "pChange": -27.368421052631575,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 635,
-                    "totalBuyQuantity": 163850,
-                    "totalSellQuantity": 187050,
+                    "totalBuyQuantity": 160950,
+                    "totalSellQuantity": 184150,
                     "totalTradedVolume": 3,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 31.3,
-                    "askQty": 1450,
-                    "bidQty": 1450,
-                    "bidprice": 29.7,
+                    "askPrice": 32.15,
+                    "askQty": 2900,
+                    "bidQty": 2900,
+                    "bidprice": 27.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1852,11 +1852,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 635,
-                    "totalBuyQuantity": 63800,
-                    "totalSellQuantity": 59450,
+                    "totalBuyQuantity": 65250,
+                    "totalSellQuantity": 60900,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 635
@@ -1864,7 +1864,7 @@
             {
                 "CE": {
                     "askPrice": 3.1,
-                    "askQty": 4350,
+                    "askQty": 2900,
                     "bidQty": 5800,
                     "bidprice": 2.95,
                     "change": -1.0499999999999998,
@@ -1878,14 +1878,14 @@
                     "pchangeinOpenInterest": 1.910828025477707,
                     "strikePrice": 640,
                     "totalBuyQuantity": 134850,
-                    "totalSellQuantity": 230550,
+                    "totalSellQuantity": 229100,
                     "totalTradedVolume": 12,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 37,
-                    "askQty": 2900,
+                    "askPrice": 35.55,
+                    "askQty": 1450,
                     "bidQty": 1450,
                     "bidprice": 30.9,
                     "change": 0,
@@ -1899,10 +1899,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 640,
                     "totalBuyQuantity": 62350,
-                    "totalSellQuantity": 60900,
+                    "totalSellQuantity": 58000,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 640
@@ -1910,30 +1910,30 @@
             {
                 "CE": {
                     "askPrice": 2.4,
-                    "askQty": 2900,
+                    "askQty": 1450,
                     "bidQty": 2900,
-                    "bidprice": 2.2,
-                    "change": -0.5,
-                    "changeinOpenInterest": 0,
+                    "bidprice": 2.25,
+                    "change": -1,
+                    "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGLENMARK25-05-2023CE645.00",
                     "impliedVolatility": 39.86,
-                    "lastPrice": 2.8,
-                    "openInterest": 65,
-                    "pChange": -15.151515151515152,
-                    "pchangeinOpenInterest": 0,
+                    "lastPrice": 2.3,
+                    "openInterest": 64,
+                    "pChange": -30.303030303030305,
+                    "pchangeinOpenInterest": -1.5384615384615385,
                     "strikePrice": 645,
-                    "totalBuyQuantity": 159500,
-                    "totalSellQuantity": 175450,
-                    "totalTradedVolume": 1,
+                    "totalBuyQuantity": 162400,
+                    "totalSellQuantity": 169650,
+                    "totalTradedVolume": 4,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 40.7,
+                    "askPrice": 38.4,
                     "askQty": 1450,
                     "bidQty": 1450,
-                    "bidprice": 36.2,
+                    "bidprice": 35.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1944,11 +1944,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 645,
-                    "totalBuyQuantity": 63800,
+                    "totalBuyQuantity": 62350,
                     "totalSellQuantity": 59450,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 645
@@ -1969,17 +1969,17 @@
                     "pChange": -30.909090909090914,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 650,
-                    "totalBuyQuantity": 82650,
-                    "totalSellQuantity": 207350,
+                    "totalBuyQuantity": 84100,
+                    "totalSellQuantity": 203000,
                     "totalTradedVolume": 31,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 43.75,
+                    "askPrice": 43.85,
                     "askQty": 1450,
                     "bidQty": 1450,
-                    "bidprice": 41.75,
+                    "bidprice": 41.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1994,17 +1994,17 @@
                     "totalSellQuantity": 60900,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 650
             },
             {
                 "CE": {
-                    "askPrice": 1.65,
-                    "askQty": 2900,
+                    "askPrice": 1.55,
+                    "askQty": 1450,
                     "bidQty": 1450,
-                    "bidprice": 1.15,
+                    "bidprice": 0.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2015,17 +2015,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 655,
-                    "totalBuyQuantity": 53650,
+                    "totalBuyQuantity": 52200,
                     "totalSellQuantity": 91350,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 50.25,
+                    "askPrice": 49.55,
                     "askQty": 1450,
-                    "bidQty": 1450,
-                    "bidprice": 45.35,
+                    "bidQty": 4350,
+                    "bidprice": 44.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2040,7 +2040,7 @@
                     "totalSellQuantity": 59450,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 655
@@ -2048,8 +2048,8 @@
             {
                 "CE": {
                     "askPrice": 1.3,
-                    "askQty": 2900,
-                    "bidQty": 4350,
+                    "askQty": 4350,
+                    "bidQty": 2900,
                     "bidprice": 1.1,
                     "change": -0.6000000000000001,
                     "changeinOpenInterest": 0,
@@ -2061,11 +2061,11 @@
                     "pChange": -32.432432432432435,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 660,
-                    "totalBuyQuantity": 82650,
+                    "totalBuyQuantity": 81200,
                     "totalSellQuantity": 210250,
                     "totalTradedVolume": 2,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 56.1,
@@ -2086,7 +2086,7 @@
                     "totalSellQuantity": 53650,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 660
@@ -2111,13 +2111,13 @@
                     "totalSellQuantity": 114550,
                     "totalTradedVolume": 2,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 61.15,
-                    "askQty": 4350,
-                    "bidQty": 4350,
-                    "bidprice": 52.7,
+                    "askPrice": 61.4,
+                    "askQty": 1450,
+                    "bidQty": 1450,
+                    "bidprice": 52.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2128,11 +2128,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 665,
-                    "totalBuyQuantity": 58000,
-                    "totalSellQuantity": 58000,
+                    "totalBuyQuantity": 53650,
+                    "totalSellQuantity": 53650,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 665
@@ -2140,30 +2140,30 @@
             {
                 "CE": {
                     "askPrice": 0.9,
-                    "askQty": 2900,
-                    "bidQty": 4350,
+                    "askQty": 7250,
+                    "bidQty": 2900,
                     "bidprice": 0.8,
-                    "change": -0.5499999999999999,
+                    "change": -0.6,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGLENMARK25-05-2023CE670.00",
                     "impliedVolatility": 42.73,
-                    "lastPrice": 0.9,
+                    "lastPrice": 0.85,
                     "openInterest": 131,
-                    "pChange": -37.93103448275862,
+                    "pChange": -41.37931034482759,
                     "pchangeinOpenInterest": -0.7575757575757576,
                     "strikePrice": 670,
-                    "totalBuyQuantity": 129050,
+                    "totalBuyQuantity": 133400,
                     "totalSellQuantity": 176900,
-                    "totalTradedVolume": 10,
+                    "totalTradedVolume": 11,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 64.55,
+                    "askPrice": 64.65,
                     "askQty": 4350,
                     "bidQty": 1450,
-                    "bidprice": 58.1,
+                    "bidprice": 57.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2178,7 +2178,7 @@
                     "totalSellQuantity": 58000,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 670
@@ -2203,7 +2203,7 @@
                     "totalSellQuantity": 60900,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 71.25,
@@ -2224,7 +2224,7 @@
                     "totalSellQuantity": 56550,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 675
@@ -2234,7 +2234,7 @@
                     "askPrice": 0.65,
                     "askQty": 1450,
                     "bidQty": 1450,
-                    "bidprice": 0.6,
+                    "bidprice": 0.55,
                     "change": -0.45000000000000007,
                     "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
@@ -2245,11 +2245,11 @@
                     "pChange": -40.909090909090914,
                     "pchangeinOpenInterest": -6.122448979591836,
                     "strikePrice": 680,
-                    "totalBuyQuantity": 118900,
+                    "totalBuyQuantity": 117450,
                     "totalSellQuantity": 140650,
                     "totalTradedVolume": 11,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 75.2,
@@ -2270,7 +2270,7 @@
                     "totalSellQuantity": 56550,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 680
@@ -2295,7 +2295,7 @@
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 82.2,
@@ -2316,7 +2316,7 @@
                     "totalSellQuantity": 56550,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 685
@@ -2324,7 +2324,7 @@
             {
                 "CE": {
                     "askPrice": 0.5,
-                    "askQty": 4350,
+                    "askQty": 5800,
                     "bidQty": 2900,
                     "bidprice": 0.4,
                     "change": -0.15000000000000002,
@@ -2341,7 +2341,7 @@
                     "totalSellQuantity": 78300,
                     "totalTradedVolume": 4,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 85.4,
@@ -2362,7 +2362,7 @@
                     "totalSellQuantity": 53650,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 690
@@ -2387,7 +2387,7 @@
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 90.75,
@@ -2408,7 +2408,7 @@
                     "totalSellQuantity": 56550,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 695
@@ -2437,7 +2437,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 380
@@ -2462,7 +2462,7 @@
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 385
@@ -2487,7 +2487,7 @@
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 390
@@ -2512,7 +2512,7 @@
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 395
@@ -2537,7 +2537,7 @@
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 400
@@ -2562,7 +2562,7 @@
                     "totalSellQuantity": 1450,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 400
@@ -2587,7 +2587,7 @@
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 405
@@ -2612,7 +2612,7 @@
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 410
@@ -2637,7 +2637,7 @@
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 415
@@ -2662,7 +2662,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 425
@@ -2687,7 +2687,7 @@
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0.45,
@@ -2708,7 +2708,7 @@
                     "totalSellQuantity": 2900,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 430
@@ -2733,7 +2733,7 @@
                     "totalSellQuantity": 47850,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2754,7 +2754,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 430
@@ -2779,7 +2779,7 @@
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 435
@@ -2804,7 +2804,7 @@
                     "totalSellQuantity": 47850,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 435
@@ -2829,7 +2829,7 @@
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 440
@@ -2854,7 +2854,7 @@
                     "totalSellQuantity": 47850,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 440
@@ -2879,7 +2879,7 @@
                     "totalSellQuantity": 47850,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2900,7 +2900,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 445
@@ -2925,7 +2925,7 @@
                     "totalSellQuantity": 47850,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 450
@@ -2950,7 +2950,7 @@
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0.3,
@@ -2971,7 +2971,7 @@
                     "totalSellQuantity": 1450,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 455
@@ -2996,7 +2996,7 @@
                     "totalSellQuantity": 47850,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 455
@@ -3021,7 +3021,7 @@
                     "totalSellQuantity": 47850,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3042,7 +3042,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 460
@@ -3067,7 +3067,7 @@
                     "totalSellQuantity": 47850,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3088,7 +3088,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 460
@@ -3113,7 +3113,7 @@
                     "totalSellQuantity": 47850,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 465
@@ -3138,7 +3138,7 @@
                     "totalSellQuantity": 47850,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3159,7 +3159,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 465
@@ -3184,7 +3184,7 @@
                     "totalSellQuantity": 47850,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 1.2,
@@ -3205,7 +3205,7 @@
                     "totalSellQuantity": 2900,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 470
@@ -3230,7 +3230,7 @@
                     "totalSellQuantity": 47850,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3251,7 +3251,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 470
@@ -3276,7 +3276,7 @@
                     "totalSellQuantity": 47850,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0.25,
@@ -3297,7 +3297,7 @@
                     "totalSellQuantity": 1450,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 475
@@ -3322,7 +3322,7 @@
                     "totalSellQuantity": 47850,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3343,17 +3343,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 475
             },
             {
                 "CE": {
-                    "askPrice": 130.8,
-                    "askQty": 7250,
+                    "askPrice": 131.35,
+                    "askQty": 2900,
                     "bidQty": 4350,
-                    "bidprice": 124.7,
+                    "bidprice": 122.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3368,7 +3368,7 @@
                     "totalSellQuantity": 50750,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0.25,
@@ -3389,7 +3389,7 @@
                     "totalSellQuantity": 84100,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 480
@@ -3414,7 +3414,7 @@
                     "totalSellQuantity": 47850,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3435,7 +3435,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 480
@@ -3460,7 +3460,7 @@
                     "totalSellQuantity": 47850,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3481,7 +3481,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 485
@@ -3506,7 +3506,7 @@
                     "totalSellQuantity": 47850,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3527,17 +3527,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 485
             },
             {
                 "CE": {
-                    "askPrice": 129.65,
+                    "askPrice": 129.45,
                     "askQty": 4350,
                     "bidQty": 4350,
-                    "bidprice": 109.35,
+                    "bidprice": 109.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3552,7 +3552,7 @@
                     "totalSellQuantity": 47850,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 1.6,
@@ -3573,7 +3573,7 @@
                     "totalSellQuantity": 44950,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 490
@@ -3598,7 +3598,7 @@
                     "totalSellQuantity": 47850,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3619,7 +3619,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 490
@@ -3644,7 +3644,7 @@
                     "totalSellQuantity": 47850,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3665,7 +3665,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 495
@@ -3690,7 +3690,7 @@
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3711,7 +3711,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 495
@@ -3736,7 +3736,7 @@
                     "totalSellQuantity": 47850,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3757,7 +3757,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 500
@@ -3782,7 +3782,7 @@
                     "totalSellQuantity": 47850,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0.3,
@@ -3800,10 +3800,10 @@
                     "pchangeinOpenInterest": -1.8867924528301887,
                     "strikePrice": 500,
                     "totalBuyQuantity": 84100,
-                    "totalSellQuantity": 165300,
+                    "totalSellQuantity": 166750,
                     "totalTradedVolume": 8,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 500
@@ -3828,7 +3828,7 @@
                     "totalSellQuantity": 56550,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 2.75,
@@ -3849,7 +3849,7 @@
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 505
@@ -3874,7 +3874,7 @@
                     "totalSellQuantity": 47850,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3895,15 +3895,15 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 505
             },
             {
                 "CE": {
-                    "askPrice": 100.6,
-                    "askQty": 1450,
+                    "askPrice": 102.85,
+                    "askQty": 4350,
                     "bidQty": 8700,
                     "bidprice": 95.85,
                     "change": 0,
@@ -3917,14 +3917,14 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 510,
                     "totalBuyQuantity": 60900,
-                    "totalSellQuantity": 58000,
+                    "totalSellQuantity": 60900,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0.8,
-                    "askQty": 1450,
+                    "askQty": 5800,
                     "bidQty": 1450,
                     "bidprice": 0.2,
                     "change": 0,
@@ -3937,11 +3937,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 510,
-                    "totalBuyQuantity": 18850,
-                    "totalSellQuantity": 72500,
+                    "totalBuyQuantity": 24650,
+                    "totalSellQuantity": 76850,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 510
@@ -3966,7 +3966,7 @@
                     "totalSellQuantity": 47850,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3987,7 +3987,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 510
@@ -4012,7 +4012,7 @@
                     "totalSellQuantity": 56550,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 3,
@@ -4033,7 +4033,7 @@
                     "totalSellQuantity": 47850,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 515
@@ -4058,7 +4058,7 @@
                     "totalSellQuantity": 47850,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -4079,7 +4079,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 515
@@ -4104,7 +4104,7 @@
                     "totalSellQuantity": 47850,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -4125,17 +4125,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 520
             },
             {
                 "CE": {
-                    "askPrice": 93.15,
+                    "askPrice": 91.95,
                     "askQty": 4350,
                     "bidQty": 4350,
-                    "bidprice": 85.5,
+                    "bidprice": 85.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4150,10 +4150,10 @@
                     "totalSellQuantity": 62350,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 0.55,
+                    "askPrice": 0.5,
                     "askQty": 1450,
                     "bidQty": 1450,
                     "bidprice": 0.4,
@@ -4171,7 +4171,7 @@
                     "totalSellQuantity": 118900,
                     "totalTradedVolume": 2,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 520
@@ -4196,10 +4196,10 @@
                     "totalSellQuantity": 56550,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 2.25,
+                    "askPrice": 1.95,
                     "askQty": 43500,
                     "bidQty": 4350,
                     "bidprice": 0.15,
@@ -4214,10 +4214,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 525,
                     "totalBuyQuantity": 14500,
-                    "totalSellQuantity": 104400,
+                    "totalSellQuantity": 114550,
                     "totalTradedVolume": 1,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 525
@@ -4242,7 +4242,7 @@
                     "totalSellQuantity": 47850,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 525
@@ -4267,7 +4267,7 @@
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -4288,17 +4288,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 530
             },
             {
                 "CE": {
-                    "askPrice": 83.2,
-                    "askQty": 1450,
-                    "bidQty": 1450,
-                    "bidprice": 75.85,
+                    "askPrice": 82.55,
+                    "askQty": 4350,
+                    "bidQty": 4350,
+                    "bidprice": 77.05,
                     "change": -2.950000000000003,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4309,14 +4309,14 @@
                     "pChange": -3.5975609756097593,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 530,
-                    "totalBuyQuantity": 55100,
-                    "totalSellQuantity": 58000,
+                    "totalBuyQuantity": 59450,
+                    "totalSellQuantity": 62350,
                     "totalTradedVolume": 1,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 0.6,
+                    "askPrice": 0.55,
                     "askQty": 1450,
                     "bidQty": 1450,
                     "bidprice": 0.35,
@@ -4334,7 +4334,7 @@
                     "totalSellQuantity": 63800,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 530
@@ -4359,13 +4359,13 @@
                     "totalSellQuantity": 56550,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 2,
                     "askQty": 14500,
                     "bidQty": 4350,
-                    "bidprice": 0.15,
+                    "bidprice": 0.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4380,7 +4380,7 @@
                     "totalSellQuantity": 58000,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 535
@@ -4405,7 +4405,7 @@
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -4426,17 +4426,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 535
             },
             {
                 "CE": {
-                    "askPrice": 69.95,
+                    "askPrice": 71.15,
                     "askQty": 1450,
                     "bidQty": 1450,
-                    "bidprice": 67.55,
+                    "bidprice": 67.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4447,11 +4447,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 540,
-                    "totalBuyQuantity": 92800,
-                    "totalSellQuantity": 72500,
+                    "totalBuyQuantity": 95700,
+                    "totalSellQuantity": 79750,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0.75,
@@ -4472,7 +4472,7 @@
                     "totalSellQuantity": 79750,
                     "totalTradedVolume": 1,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 540
@@ -4497,7 +4497,7 @@
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -4518,17 +4518,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 540
             },
             {
                 "CE": {
-                    "askPrice": 69.6,
+                    "askPrice": 69.9,
                     "askQty": 4350,
-                    "bidQty": 4350,
-                    "bidprice": 60.25,
+                    "bidQty": 5800,
+                    "bidprice": 60.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4539,11 +4539,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 545,
-                    "totalBuyQuantity": 97150,
+                    "totalBuyQuantity": 92800,
                     "totalSellQuantity": 66700,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 3,
@@ -4564,7 +4564,7 @@
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 545
@@ -4589,7 +4589,7 @@
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -4610,17 +4610,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 545
             },
             {
                 "CE": {
-                    "askPrice": 60.15,
+                    "askPrice": 60.95,
                     "askQty": 1450,
                     "bidQty": 1450,
-                    "bidprice": 58.6,
+                    "bidprice": 59.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4631,17 +4631,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 550,
-                    "totalBuyQuantity": 95700,
-                    "totalSellQuantity": 89900,
+                    "totalBuyQuantity": 98600,
+                    "totalSellQuantity": 88450,
                     "totalTradedVolume": 1,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 1.1,
                     "askQty": 2900,
                     "bidQty": 4350,
-                    "bidprice": 1.05,
+                    "bidprice": 1,
                     "change": 0.050000000000000044,
                     "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
@@ -4652,11 +4652,11 @@
                     "pChange": 4.761904761904765,
                     "pchangeinOpenInterest": 1.345291479820628,
                     "strikePrice": 550,
-                    "totalBuyQuantity": 187050,
+                    "totalBuyQuantity": 182700,
                     "totalSellQuantity": 201550,
-                    "totalTradedVolume": 13,
+                    "totalTradedVolume": 17,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 550
@@ -4666,7 +4666,7 @@
                     "askPrice": 98.1,
                     "askQty": 43500,
                     "bidQty": 4350,
-                    "bidprice": 43.6,
+                    "bidprice": 43.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4681,7 +4681,7 @@
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -4702,17 +4702,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 550
             },
             {
                 "CE": {
-                    "askPrice": 56.05,
+                    "askPrice": 56.45,
                     "askQty": 1450,
                     "bidQty": 1450,
-                    "bidprice": 53.2,
+                    "bidprice": 53.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4723,16 +4723,16 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 555,
-                    "totalBuyQuantity": 56550,
+                    "totalBuyQuantity": 58000,
                     "totalSellQuantity": 55100,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 1.7,
                     "askQty": 1450,
-                    "bidQty": 2900,
+                    "bidQty": 1450,
                     "bidprice": 1.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -4748,7 +4748,7 @@
                     "totalSellQuantity": 71050,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 555
@@ -4758,7 +4758,7 @@
                     "askPrice": 92.45,
                     "askQty": 43500,
                     "bidQty": 4350,
-                    "bidprice": 41.3,
+                    "bidprice": 41.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4773,17 +4773,17 @@
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 555
             },
             {
                 "CE": {
-                    "askPrice": 50.7,
+                    "askPrice": 51.25,
                     "askQty": 1450,
                     "bidQty": 1450,
-                    "bidprice": 48.95,
+                    "bidprice": 49.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4798,28 +4798,28 @@
                     "totalSellQuantity": 94250,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 1.6,
+                    "askPrice": 1.55,
                     "askQty": 1450,
-                    "bidQty": 4350,
-                    "bidprice": 1.5,
-                    "change": 0,
+                    "bidQty": 2900,
+                    "bidprice": 1.45,
+                    "change": 0.10000000000000009,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGLENMARK25-05-2023PE560.00",
                     "impliedVolatility": 44.79,
-                    "lastPrice": 1.4,
+                    "lastPrice": 1.5,
                     "openInterest": 153,
-                    "pChange": 0,
+                    "pChange": 7.1428571428571495,
                     "pchangeinOpenInterest": -1.2903225806451613,
                     "strikePrice": 560,
-                    "totalBuyQuantity": 143550,
-                    "totalSellQuantity": 159500,
-                    "totalTradedVolume": 4,
+                    "totalBuyQuantity": 174000,
+                    "totalSellQuantity": 192850,
+                    "totalTradedVolume": 7,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 560
@@ -4844,7 +4844,7 @@
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -4865,7 +4865,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 560
@@ -4890,13 +4890,13 @@
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 1450,
-                    "bidprice": 4.2,
+                    "bidprice": 4.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4911,17 +4911,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 565
             },
             {
                 "CE": {
-                    "askPrice": 47.85,
-                    "askQty": 4350,
+                    "askPrice": 47.65,
+                    "askQty": 1450,
                     "bidQty": 1450,
-                    "bidprice": 43.8,
+                    "bidprice": 44.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4932,17 +4932,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 565,
-                    "totalBuyQuantity": 102950,
-                    "totalSellQuantity": 102950,
+                    "totalBuyQuantity": 104400,
+                    "totalSellQuantity": 98600,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 2.35,
+                    "askPrice": 2.4,
                     "askQty": 1450,
                     "bidQty": 1450,
-                    "bidprice": 1.7,
+                    "bidprice": 1.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4953,21 +4953,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 565,
-                    "totalBuyQuantity": 78300,
+                    "totalBuyQuantity": 76850,
                     "totalSellQuantity": 65250,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 565
             },
             {
                 "CE": {
-                    "askPrice": 40.8,
+                    "askPrice": 41.55,
                     "askQty": 1450,
                     "bidQty": 1450,
-                    "bidprice": 39.35,
+                    "bidprice": 40.65,
                     "change": 0.45000000000000284,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4978,32 +4978,32 @@
                     "pChange": 1.111111111111118,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 570,
-                    "totalBuyQuantity": 113100,
-                    "totalSellQuantity": 100050,
+                    "totalBuyQuantity": 105850,
+                    "totalSellQuantity": 98600,
                     "totalTradedVolume": 2,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 2.5,
+                    "askPrice": 2.35,
                     "askQty": 2900,
                     "bidQty": 1450,
-                    "bidprice": 2.35,
-                    "change": -0.15000000000000036,
+                    "bidprice": 2.2,
+                    "change": -0.20000000000000018,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGLENMARK25-05-2023PE570.00",
                     "impliedVolatility": 43.35,
-                    "lastPrice": 2.3,
+                    "lastPrice": 2.25,
                     "openInterest": 217,
-                    "pChange": -6.122448979591851,
+                    "pChange": -8.163265306122454,
                     "pchangeinOpenInterest": 0.46296296296296297,
                     "strikePrice": 570,
-                    "totalBuyQuantity": 152250,
-                    "totalSellQuantity": 182700,
-                    "totalTradedVolume": 4,
+                    "totalBuyQuantity": 179800,
+                    "totalSellQuantity": 216050,
+                    "totalTradedVolume": 6,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 570
@@ -5013,7 +5013,7 @@
                     "askPrice": 75.4,
                     "askQty": 43500,
                     "bidQty": 4350,
-                    "bidprice": 42.55,
+                    "bidprice": 36.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -5028,13 +5028,13 @@
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 1450,
-                    "bidprice": 5.5,
+                    "bidprice": 5.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -5049,7 +5049,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 570
@@ -5074,17 +5074,17 @@
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 575
             },
             {
                 "CE": {
-                    "askPrice": 37.6,
-                    "askQty": 2900,
+                    "askPrice": 38.2,
+                    "askQty": 1450,
                     "bidQty": 1450,
-                    "bidprice": 35.6,
+                    "bidprice": 36.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5096,16 +5096,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 575,
                     "totalBuyQuantity": 108750,
-                    "totalSellQuantity": 98600,
+                    "totalSellQuantity": 97150,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 3.25,
-                    "askQty": 4350,
-                    "bidQty": 2900,
-                    "bidprice": 2.95,
+                    "askPrice": 3.15,
+                    "askQty": 1450,
+                    "bidQty": 1450,
+                    "bidprice": 2.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5116,21 +5116,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 575,
-                    "totalBuyQuantity": 87000,
+                    "totalBuyQuantity": 84100,
                     "totalSellQuantity": 78300,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 575
             },
             {
                 "CE": {
-                    "askPrice": 32.45,
-                    "askQty": 2900,
+                    "askPrice": 33.25,
+                    "askQty": 1450,
                     "bidQty": 1450,
-                    "bidprice": 31.75,
+                    "bidprice": 32.5,
                     "change": 1.6000000000000014,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
@@ -5142,31 +5142,31 @@
                     "pchangeinOpenInterest": 0.5208333333333334,
                     "strikePrice": 580,
                     "totalBuyQuantity": 118900,
-                    "totalSellQuantity": 107300,
+                    "totalSellQuantity": 105850,
                     "totalTradedVolume": 3,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 4,
-                    "askQty": 2900,
+                    "askPrice": 3.9,
+                    "askQty": 5800,
                     "bidQty": 1450,
-                    "bidprice": 3.85,
-                    "change": 0,
-                    "changeinOpenInterest": 4,
+                    "bidprice": 3.7,
+                    "change": -0.2999999999999998,
+                    "changeinOpenInterest": 5,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGLENMARK25-05-2023PE580.00",
                     "impliedVolatility": 43.29,
-                    "lastPrice": 4,
-                    "openInterest": 227,
-                    "pChange": 0,
-                    "pchangeinOpenInterest": 1.7937219730941705,
+                    "lastPrice": 3.7,
+                    "openInterest": 228,
+                    "pChange": -7.499999999999996,
+                    "pchangeinOpenInterest": 2.242152466367713,
                     "strikePrice": 580,
-                    "totalBuyQuantity": 240700,
-                    "totalSellQuantity": 204450,
-                    "totalTradedVolume": 24,
+                    "totalBuyQuantity": 242150,
+                    "totalSellQuantity": 201550,
+                    "totalTradedVolume": 27,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 580
@@ -5176,7 +5176,7 @@
                     "askPrice": 66.85,
                     "askQty": 43500,
                     "bidQty": 4350,
-                    "bidprice": 30.9,
+                    "bidprice": 31.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -5191,13 +5191,13 @@
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 1450,
-                    "bidprice": 10.25,
+                    "bidprice": 10.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -5212,7 +5212,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 580
@@ -5222,7 +5222,7 @@
                     "askPrice": 61.25,
                     "askQty": 43500,
                     "bidQty": 4350,
-                    "bidprice": 28.35,
+                    "bidprice": 28.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -5237,13 +5237,13 @@
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 1450,
-                    "bidprice": 8.9,
+                    "bidprice": 8.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -5258,17 +5258,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 585
             },
             {
                 "CE": {
-                    "askPrice": 31,
-                    "askQty": 4350,
-                    "bidQty": 2900,
-                    "bidprice": 27.45,
+                    "askPrice": 30.45,
+                    "askQty": 2900,
+                    "bidQty": 1450,
+                    "bidprice": 28.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5279,17 +5279,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 585,
-                    "totalBuyQuantity": 111650,
-                    "totalSellQuantity": 111650,
+                    "totalBuyQuantity": 110200,
+                    "totalSellQuantity": 107300,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 5.1,
-                    "askQty": 4350,
+                    "askPrice": 4.8,
+                    "askQty": 2900,
                     "bidQty": 2900,
-                    "bidprice": 4.8,
+                    "bidprice": 4.55,
                     "change": 0.04999999999999982,
                     "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
@@ -5301,20 +5301,20 @@
                     "pchangeinOpenInterest": 5.2631578947368425,
                     "strikePrice": 585,
                     "totalBuyQuantity": 140650,
-                    "totalSellQuantity": 139200,
+                    "totalSellQuantity": 156600,
                     "totalTradedVolume": 4,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 585
             },
             {
                 "CE": {
-                    "askPrice": 24.6,
-                    "askQty": 2900,
-                    "bidQty": 1450,
-                    "bidprice": 23.75,
+                    "askPrice": 25.3,
+                    "askQty": 1450,
+                    "bidQty": 2900,
+                    "bidprice": 24.35,
                     "change": -0.1999999999999993,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
@@ -5325,17 +5325,17 @@
                     "pChange": -0.8097165991902806,
                     "pchangeinOpenInterest": -1.4705882352941178,
                     "strikePrice": 590,
-                    "totalBuyQuantity": 111650,
+                    "totalBuyQuantity": 114550,
                     "totalSellQuantity": 105850,
                     "totalTradedVolume": 4,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 6.2,
+                    "askPrice": 5.95,
                     "askQty": 1450,
                     "bidQty": 1450,
-                    "bidprice": 6,
+                    "bidprice": 5.75,
                     "change": -0.14999999999999947,
                     "changeinOpenInterest": 6,
                     "expiryDate": "25-May-2023",
@@ -5347,10 +5347,10 @@
                     "pchangeinOpenInterest": 2.830188679245283,
                     "strikePrice": 590,
                     "totalBuyQuantity": 221850,
-                    "totalSellQuantity": 201550,
+                    "totalSellQuantity": 197200,
                     "totalTradedVolume": 32,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 590
@@ -5375,13 +5375,13 @@
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 1450,
-                    "bidprice": 13.45,
+                    "bidprice": 13.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -5396,7 +5396,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 590
@@ -5405,8 +5405,8 @@
                 "CE": {
                     "askPrice": 49.3,
                     "askQty": 43500,
-                    "bidQty": 0,
-                    "bidprice": 0,
+                    "bidQty": 4350,
+                    "bidprice": 22.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -5417,17 +5417,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 595,
-                    "totalBuyQuantity": 0,
+                    "totalBuyQuantity": 4350,
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 1450,
-                    "bidprice": 12.8,
+                    "bidprice": 12.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -5442,17 +5442,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 595
             },
             {
                 "CE": {
-                    "askPrice": 21.45,
+                    "askPrice": 22.15,
                     "askQty": 2900,
                     "bidQty": 1450,
-                    "bidprice": 19.6,
+                    "bidprice": 20.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5463,17 +5463,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 595,
-                    "totalBuyQuantity": 66700,
-                    "totalSellQuantity": 68150,
+                    "totalBuyQuantity": 63800,
+                    "totalSellQuantity": 66700,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 8,
+                    "askPrice": 7.65,
                     "askQty": 1450,
                     "bidQty": 2900,
-                    "bidprice": 7.5,
+                    "bidprice": 7.1,
                     "change": -0.39999999999999947,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5485,41 +5485,41 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 595,
                     "totalBuyQuantity": 117450,
-                    "totalSellQuantity": 114550,
+                    "totalSellQuantity": 116000,
                     "totalTradedVolume": 1,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 595
             },
             {
                 "CE": {
-                    "askPrice": 32.25,
+                    "askPrice": 32.55,
                     "askQty": 1450,
                     "bidQty": 1450,
-                    "bidprice": 28.95,
-                    "change": -1.5,
+                    "bidprice": 30,
+                    "change": 0.20000000000000284,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKGLENMARK29-06-2023CE600.00",
                     "impliedVolatility": 26.87,
-                    "lastPrice": 30.5,
+                    "lastPrice": 32.2,
                     "openInterest": 28,
-                    "pChange": -4.6875,
+                    "pChange": 0.6250000000000089,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 600,
-                    "totalBuyQuantity": 13050,
-                    "totalSellQuantity": 4350,
-                    "totalTradedVolume": 1,
+                    "totalBuyQuantity": 8700,
+                    "totalSellQuantity": 2900,
+                    "totalTradedVolume": 2,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 19.65,
                     "askQty": 1450,
                     "bidQty": 1450,
-                    "bidprice": 18.85,
+                    "bidprice": 18.55,
                     "change": -0.8000000000000007,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -5530,64 +5530,64 @@
                     "pChange": -3.9024390243902474,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 600,
-                    "totalBuyQuantity": 101500,
+                    "totalBuyQuantity": 102950,
                     "totalSellQuantity": 23200,
                     "totalTradedVolume": 1,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 600
             },
             {
                 "CE": {
-                    "askPrice": 17.85,
-                    "askQty": 2900,
-                    "bidQty": 2900,
-                    "bidprice": 17.4,
-                    "change": -0.3500000000000014,
+                    "askPrice": 18.1,
+                    "askQty": 1450,
+                    "bidQty": 1450,
+                    "bidprice": 17.9,
+                    "change": 0,
                     "changeinOpenInterest": -4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGLENMARK25-05-2023CE600.00",
                     "impliedVolatility": 36.57,
-                    "lastPrice": 17.75,
+                    "lastPrice": 18.1,
                     "openInterest": 211,
-                    "pChange": -1.933701657458571,
+                    "pChange": 0,
                     "pchangeinOpenInterest": -1.8604651162790697,
                     "strikePrice": 600,
                     "totalBuyQuantity": 130500,
-                    "totalSellQuantity": 140650,
-                    "totalTradedVolume": 19,
+                    "totalSellQuantity": 142100,
+                    "totalTradedVolume": 22,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 9.5,
-                    "askQty": 2900,
-                    "bidQty": 1450,
-                    "bidprice": 9.25,
-                    "change": -0.6500000000000004,
+                    "askPrice": 9,
+                    "askQty": 1450,
+                    "bidQty": 4350,
+                    "bidprice": 8.75,
+                    "change": -1.0999999999999996,
                     "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGLENMARK25-05-2023PE600.00",
                     "impliedVolatility": 41.44,
-                    "lastPrice": 9.45,
+                    "lastPrice": 9,
                     "openInterest": 317,
-                    "pChange": -6.43564356435644,
+                    "pChange": -10.891089108910888,
                     "pchangeinOpenInterest": 0.9554140127388535,
                     "strikePrice": 600,
-                    "totalBuyQuantity": 227650,
-                    "totalSellQuantity": 201550,
-                    "totalTradedVolume": 52,
+                    "totalBuyQuantity": 226200,
+                    "totalSellQuantity": 198650,
+                    "totalTradedVolume": 54,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 600
             },
             {
                 "CE": {
-                    "askPrice": 37.05,
+                    "askPrice": 37.6,
                     "askQty": 1450,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -5605,13 +5605,13 @@
                     "totalSellQuantity": 2900,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 1450,
-                    "bidprice": 16.4,
+                    "bidprice": 16.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -5626,17 +5626,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 605
             },
             {
                 "CE": {
-                    "askPrice": 14.85,
-                    "askQty": 1450,
+                    "askPrice": 15.3,
+                    "askQty": 2900,
                     "bidQty": 1450,
-                    "bidprice": 14.45,
+                    "bidprice": 14.8,
                     "change": -0.25,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5647,17 +5647,17 @@
                     "pChange": -1.6835016835016834,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 605,
-                    "totalBuyQuantity": 102950,
-                    "totalSellQuantity": 107300,
+                    "totalBuyQuantity": 104400,
+                    "totalSellQuantity": 104400,
                     "totalTradedVolume": 8,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 11.6,
+                    "askPrice": 11.1,
                     "askQty": 1450,
                     "bidQty": 1450,
-                    "bidprice": 11.2,
+                    "bidprice": 10.75,
                     "change": -1.6499999999999986,
                     "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
@@ -5668,88 +5668,88 @@
                     "pChange": -13.253012048192762,
                     "pchangeinOpenInterest": 7.407407407407407,
                     "strikePrice": 605,
-                    "totalBuyQuantity": 140650,
-                    "totalSellQuantity": 127600,
+                    "totalBuyQuantity": 133400,
+                    "totalSellQuantity": 126150,
                     "totalTradedVolume": 9,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 605
             },
             {
                 "CE": {
-                    "askPrice": 12.1,
+                    "askPrice": 12.4,
                     "askQty": 1450,
-                    "bidQty": 1450,
-                    "bidprice": 11.9,
-                    "change": -1,
-                    "changeinOpenInterest": 1,
+                    "bidQty": 2900,
+                    "bidprice": 12.15,
+                    "change": -0.6999999999999993,
+                    "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGLENMARK25-05-2023CE610.00",
                     "impliedVolatility": 35.73,
-                    "lastPrice": 12,
-                    "openInterest": 185,
-                    "pChange": -7.6923076923076925,
-                    "pchangeinOpenInterest": 0.5434782608695652,
+                    "lastPrice": 12.3,
+                    "openInterest": 183,
+                    "pChange": -5.38461538461538,
+                    "pchangeinOpenInterest": -0.5434782608695652,
                     "strikePrice": 610,
-                    "totalBuyQuantity": 189950,
-                    "totalSellQuantity": 229100,
-                    "totalTradedVolume": 79,
+                    "totalBuyQuantity": 194300,
+                    "totalSellQuantity": 223300,
+                    "totalTradedVolume": 84,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 13.75,
-                    "askQty": 43500,
+                    "askPrice": 13.35,
+                    "askQty": 2900,
                     "bidQty": 2900,
-                    "bidprice": 13.4,
-                    "change": -0.8999999999999986,
+                    "bidprice": 13,
+                    "change": -1.299999999999999,
                     "changeinOpenInterest": 22,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGLENMARK25-05-2023PE610.00",
                     "impliedVolatility": 40.84,
-                    "lastPrice": 13.8,
+                    "lastPrice": 13.4,
                     "openInterest": 223,
-                    "pChange": -6.1224489795918275,
+                    "pChange": -8.84353741496598,
                     "pchangeinOpenInterest": 10.945273631840797,
                     "strikePrice": 610,
-                    "totalBuyQuantity": 181250,
-                    "totalSellQuantity": 134850,
-                    "totalTradedVolume": 71,
+                    "totalBuyQuantity": 185600,
+                    "totalSellQuantity": 139200,
+                    "totalTradedVolume": 72,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 610
             },
             {
                 "CE": {
-                    "askPrice": 30.5,
-                    "askQty": 1450,
-                    "bidQty": 0,
-                    "bidprice": 0,
-                    "change": 0,
+                    "askPrice": 0,
+                    "askQty": 0,
+                    "bidQty": 2900,
+                    "bidprice": 24.35,
+                    "change": 3.3999999999999986,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKGLENMARK29-06-2023CE610.00",
                     "impliedVolatility": 0,
-                    "lastPrice": 0,
+                    "lastPrice": 30.9,
                     "openInterest": 2,
-                    "pChange": 0,
+                    "pChange": 12.363636363636358,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 610,
-                    "totalBuyQuantity": 0,
-                    "totalSellQuantity": 4350,
-                    "totalTradedVolume": 0,
+                    "totalBuyQuantity": 5800,
+                    "totalSellQuantity": 0,
+                    "totalTradedVolume": 2,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 1450,
-                    "bidprice": 19.05,
+                    "bidprice": 18.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -5764,15 +5764,15 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 610
             },
             {
                 "CE": {
-                    "askPrice": 44.85,
-                    "askQty": 1450,
+                    "askPrice": 0,
+                    "askQty": 0,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -5786,17 +5786,17 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 610,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 1450,
+                    "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 610
             },
             {
                 "CE": {
-                    "askPrice": 28.1,
+                    "askPrice": 31.1,
                     "askQty": 1450,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -5814,17 +5814,17 @@
                     "totalSellQuantity": 2900,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 615
             },
             {
                 "CE": {
-                    "askPrice": 9.85,
-                    "askQty": 1450,
+                    "askPrice": 10.15,
+                    "askQty": 2900,
                     "bidQty": 1450,
-                    "bidprice": 9.55,
+                    "bidprice": 9.9,
                     "change": -0.9000000000000004,
                     "changeinOpenInterest": 7,
                     "expiryDate": "25-May-2023",
@@ -5835,17 +5835,17 @@
                     "pChange": -8.333333333333336,
                     "pchangeinOpenInterest": 6.306306306306307,
                     "strikePrice": 615,
-                    "totalBuyQuantity": 172550,
-                    "totalSellQuantity": 175450,
+                    "totalBuyQuantity": 176900,
+                    "totalSellQuantity": 172550,
                     "totalTradedVolume": 13,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 17.15,
+                    "askPrice": 17.05,
                     "askQty": 1450,
                     "bidQty": 1450,
-                    "bidprice": 15.85,
+                    "bidprice": 15.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5856,42 +5856,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 615,
-                    "totalBuyQuantity": 24650,
+                    "totalBuyQuantity": 21750,
                     "totalSellQuantity": 60900,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 615
             },
             {
                 "CE": {
-                    "askPrice": 7.75,
+                    "askPrice": 7.85,
                     "askQty": 2900,
-                    "bidQty": 2900,
-                    "bidprice": 7.55,
+                    "bidQty": 1450,
+                    "bidprice": 7.7,
                     "change": -1.1499999999999995,
-                    "changeinOpenInterest": -53,
+                    "changeinOpenInterest": -58,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGLENMARK25-05-2023CE620.00",
                     "impliedVolatility": 35.97,
                     "lastPrice": 7.8,
-                    "openInterest": 523,
+                    "openInterest": 518,
                     "pChange": -12.84916201117318,
-                    "pchangeinOpenInterest": -9.20138888888889,
+                    "pchangeinOpenInterest": -10.069444444444445,
                     "strikePrice": 620,
-                    "totalBuyQuantity": 201550,
-                    "totalSellQuantity": 269700,
-                    "totalTradedVolume": 178,
+                    "totalBuyQuantity": 192850,
+                    "totalSellQuantity": 259550,
+                    "totalTradedVolume": 187,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 19.55,
+                    "askPrice": 18.8,
                     "askQty": 1450,
                     "bidQty": 1450,
-                    "bidprice": 19.15,
+                    "bidprice": 18.45,
                     "change": -1.9499999999999993,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5906,14 +5906,14 @@
                     "totalSellQuantity": 124700,
                     "totalTradedVolume": 8,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 620
             },
             {
                 "CE": {
-                    "askPrice": 26.8,
+                    "askPrice": 26.1,
                     "askQty": 1450,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -5928,10 +5928,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 620,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 47850,
+                    "totalSellQuantity": 49300,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -5952,14 +5952,14 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 620
             },
             {
                 "CE": {
-                    "askPrice": 42.25,
+                    "askPrice": 42.5,
                     "askQty": 1450,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -5977,7 +5977,7 @@
                     "totalSellQuantity": 1450,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 620
@@ -5985,30 +5985,30 @@
             {
                 "CE": {
                     "askPrice": 6.2,
-                    "askQty": 2900,
+                    "askQty": 1450,
                     "bidQty": 2900,
-                    "bidprice": 5.95,
-                    "change": -1.1500000000000004,
-                    "changeinOpenInterest": 4,
+                    "bidprice": 6.05,
+                    "change": -1.1000000000000005,
+                    "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGLENMARK25-05-2023CE625.00",
                     "impliedVolatility": 35.65,
-                    "lastPrice": 6.05,
-                    "openInterest": 100,
-                    "pChange": -15.972222222222227,
-                    "pchangeinOpenInterest": 4.166666666666667,
+                    "lastPrice": 6.1,
+                    "openInterest": 99,
+                    "pChange": -15.277777777777784,
+                    "pchangeinOpenInterest": 3.125,
                     "strikePrice": 625,
-                    "totalBuyQuantity": 182700,
-                    "totalSellQuantity": 192850,
-                    "totalTradedVolume": 6,
+                    "totalBuyQuantity": 185600,
+                    "totalSellQuantity": 188500,
+                    "totalTradedVolume": 9,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 23.7,
+                    "askPrice": 22.3,
                     "askQty": 1450,
-                    "bidQty": 2900,
-                    "bidprice": 22,
+                    "bidQty": 1450,
+                    "bidprice": 21.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -6019,18 +6019,18 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 625,
-                    "totalBuyQuantity": 68150,
-                    "totalSellQuantity": 59450,
+                    "totalBuyQuantity": 65250,
+                    "totalSellQuantity": 62350,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 625
             },
             {
                 "PE": {
-                    "askPrice": 53.05,
+                    "askPrice": 57.4,
                     "askQty": 4350,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -6048,38 +6048,38 @@
                     "totalSellQuantity": 5800,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 625
             },
             {
                 "CE": {
-                    "askPrice": 4.75,
-                    "askQty": 2900,
-                    "bidQty": 1450,
-                    "bidprice": 4.5,
-                    "change": -1.2999999999999998,
+                    "askPrice": 4.85,
+                    "askQty": 4350,
+                    "bidQty": 2900,
+                    "bidprice": 4.65,
+                    "change": -1.1999999999999993,
                     "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGLENMARK25-05-2023CE630.00",
                     "impliedVolatility": 35.71,
-                    "lastPrice": 4.55,
+                    "lastPrice": 4.65,
                     "openInterest": 299,
-                    "pChange": -22.22222222222222,
+                    "pChange": -20.5128205128205,
                     "pchangeinOpenInterest": 1.0135135135135136,
                     "strikePrice": 630,
-                    "totalBuyQuantity": 110200,
+                    "totalBuyQuantity": 108750,
                     "totalSellQuantity": 158050,
-                    "totalTradedVolume": 41,
+                    "totalTradedVolume": 45,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 26.65,
+                    "askPrice": 26.9,
                     "askQty": 2900,
                     "bidQty": 1450,
-                    "bidprice": 24.75,
+                    "bidprice": 24,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -6094,7 +6094,7 @@
                     "totalSellQuantity": 62350,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 630
@@ -6119,10 +6119,10 @@
                     "totalSellQuantity": 46400,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 41.5,
+                    "askPrice": 41,
                     "askQty": 1450,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -6140,7 +6140,7 @@
                     "totalSellQuantity": 1450,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 630
@@ -6165,10 +6165,10 @@
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 64.5,
+                    "askPrice": 64.1,
                     "askQty": 4350,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -6186,17 +6186,17 @@
                     "totalSellQuantity": 4350,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 635
             },
             {
                 "CE": {
-                    "askPrice": 3.75,
+                    "askPrice": 3.8,
                     "askQty": 1450,
                     "bidQty": 2900,
-                    "bidprice": 3.5,
+                    "bidprice": 3.55,
                     "change": -1.2999999999999998,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -6207,17 +6207,17 @@
                     "pChange": -27.368421052631575,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 635,
-                    "totalBuyQuantity": 163850,
-                    "totalSellQuantity": 187050,
+                    "totalBuyQuantity": 160950,
+                    "totalSellQuantity": 184150,
                     "totalTradedVolume": 3,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 31.3,
-                    "askQty": 1450,
-                    "bidQty": 1450,
-                    "bidprice": 29.7,
+                    "askPrice": 32.15,
+                    "askQty": 2900,
+                    "bidQty": 2900,
+                    "bidprice": 27.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -6228,11 +6228,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 635,
-                    "totalBuyQuantity": 63800,
-                    "totalSellQuantity": 59450,
+                    "totalBuyQuantity": 65250,
+                    "totalSellQuantity": 60900,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 635
@@ -6240,7 +6240,7 @@
             {
                 "CE": {
                     "askPrice": 3.1,
-                    "askQty": 4350,
+                    "askQty": 2900,
                     "bidQty": 5800,
                     "bidprice": 2.95,
                     "change": -1.0499999999999998,
@@ -6254,14 +6254,14 @@
                     "pchangeinOpenInterest": 1.910828025477707,
                     "strikePrice": 640,
                     "totalBuyQuantity": 134850,
-                    "totalSellQuantity": 230550,
+                    "totalSellQuantity": 229100,
                     "totalTradedVolume": 12,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 37,
-                    "askQty": 2900,
+                    "askPrice": 35.55,
+                    "askQty": 1450,
                     "bidQty": 1450,
                     "bidprice": 30.9,
                     "change": 0,
@@ -6275,10 +6275,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 640,
                     "totalBuyQuantity": 62350,
-                    "totalSellQuantity": 60900,
+                    "totalSellQuantity": 58000,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 640
@@ -6286,30 +6286,30 @@
             {
                 "CE": {
                     "askPrice": 2.4,
-                    "askQty": 2900,
+                    "askQty": 1450,
                     "bidQty": 2900,
-                    "bidprice": 2.2,
-                    "change": -0.5,
-                    "changeinOpenInterest": 0,
+                    "bidprice": 2.25,
+                    "change": -1,
+                    "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGLENMARK25-05-2023CE645.00",
                     "impliedVolatility": 39.86,
-                    "lastPrice": 2.8,
-                    "openInterest": 65,
-                    "pChange": -15.151515151515152,
-                    "pchangeinOpenInterest": 0,
+                    "lastPrice": 2.3,
+                    "openInterest": 64,
+                    "pChange": -30.303030303030305,
+                    "pchangeinOpenInterest": -1.5384615384615385,
                     "strikePrice": 645,
-                    "totalBuyQuantity": 159500,
-                    "totalSellQuantity": 175450,
-                    "totalTradedVolume": 1,
+                    "totalBuyQuantity": 162400,
+                    "totalSellQuantity": 169650,
+                    "totalTradedVolume": 4,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 40.7,
+                    "askPrice": 38.4,
                     "askQty": 1450,
                     "bidQty": 1450,
-                    "bidprice": 36.2,
+                    "bidprice": 35.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -6320,11 +6320,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 645,
-                    "totalBuyQuantity": 63800,
+                    "totalBuyQuantity": 62350,
                     "totalSellQuantity": 59450,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 645
@@ -6349,7 +6349,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 645
@@ -6370,17 +6370,17 @@
                     "pChange": -30.909090909090914,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 650,
-                    "totalBuyQuantity": 82650,
-                    "totalSellQuantity": 207350,
+                    "totalBuyQuantity": 84100,
+                    "totalSellQuantity": 203000,
                     "totalTradedVolume": 31,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 43.75,
+                    "askPrice": 43.85,
                     "askQty": 1450,
                     "bidQty": 1450,
-                    "bidprice": 41.75,
+                    "bidprice": 41.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -6395,7 +6395,7 @@
                     "totalSellQuantity": 60900,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 650
@@ -6404,8 +6404,8 @@
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
-                    "bidQty": 4350,
-                    "bidprice": 32.4,
+                    "bidQty": 1450,
+                    "bidprice": 32.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -6416,21 +6416,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 650,
-                    "totalBuyQuantity": 4350,
+                    "totalBuyQuantity": 1450,
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 650
             },
             {
                 "CE": {
-                    "askPrice": 1.65,
-                    "askQty": 2900,
+                    "askPrice": 1.55,
+                    "askQty": 1450,
                     "bidQty": 1450,
-                    "bidprice": 1.15,
+                    "bidprice": 0.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -6441,17 +6441,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 655,
-                    "totalBuyQuantity": 53650,
+                    "totalBuyQuantity": 52200,
                     "totalSellQuantity": 91350,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 50.25,
+                    "askPrice": 49.55,
                     "askQty": 1450,
-                    "bidQty": 1450,
-                    "bidprice": 45.35,
+                    "bidQty": 4350,
+                    "bidprice": 44.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -6466,7 +6466,7 @@
                     "totalSellQuantity": 59450,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 655
@@ -6491,7 +6491,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -6512,7 +6512,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 655
@@ -6520,8 +6520,8 @@
             {
                 "CE": {
                     "askPrice": 1.3,
-                    "askQty": 2900,
-                    "bidQty": 4350,
+                    "askQty": 4350,
+                    "bidQty": 2900,
                     "bidprice": 1.1,
                     "change": -0.6000000000000001,
                     "changeinOpenInterest": 0,
@@ -6533,11 +6533,11 @@
                     "pChange": -32.432432432432435,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 660,
-                    "totalBuyQuantity": 82650,
+                    "totalBuyQuantity": 81200,
                     "totalSellQuantity": 210250,
                     "totalTradedVolume": 2,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 56.1,
@@ -6558,7 +6558,7 @@
                     "totalSellQuantity": 53650,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 660
@@ -6583,13 +6583,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 4350,
-                    "bidprice": 36.75,
+                    "bidprice": 36.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -6604,7 +6604,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 660
@@ -6629,13 +6629,13 @@
                     "totalSellQuantity": 114550,
                     "totalTradedVolume": 2,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 61.15,
-                    "askQty": 4350,
-                    "bidQty": 4350,
-                    "bidprice": 52.7,
+                    "askPrice": 61.4,
+                    "askQty": 1450,
+                    "bidQty": 1450,
+                    "bidprice": 52.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -6646,11 +6646,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 665,
-                    "totalBuyQuantity": 58000,
-                    "totalSellQuantity": 58000,
+                    "totalBuyQuantity": 53650,
+                    "totalSellQuantity": 53650,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 665
@@ -6675,7 +6675,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 665
@@ -6683,30 +6683,30 @@
             {
                 "CE": {
                     "askPrice": 0.9,
-                    "askQty": 2900,
-                    "bidQty": 4350,
+                    "askQty": 7250,
+                    "bidQty": 2900,
                     "bidprice": 0.8,
-                    "change": -0.5499999999999999,
+                    "change": -0.6,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGLENMARK25-05-2023CE670.00",
                     "impliedVolatility": 42.73,
-                    "lastPrice": 0.9,
+                    "lastPrice": 0.85,
                     "openInterest": 131,
-                    "pChange": -37.93103448275862,
+                    "pChange": -41.37931034482759,
                     "pchangeinOpenInterest": -0.7575757575757576,
                     "strikePrice": 670,
-                    "totalBuyQuantity": 129050,
+                    "totalBuyQuantity": 133400,
                     "totalSellQuantity": 176900,
-                    "totalTradedVolume": 10,
+                    "totalTradedVolume": 11,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
-                    "askPrice": 64.55,
+                    "askPrice": 64.65,
                     "askQty": 4350,
                     "bidQty": 1450,
-                    "bidprice": 58.1,
+                    "bidprice": 57.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -6721,7 +6721,7 @@
                     "totalSellQuantity": 58000,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 670
@@ -6746,7 +6746,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -6767,7 +6767,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 670
@@ -6792,7 +6792,7 @@
                     "totalSellQuantity": 60900,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 71.25,
@@ -6813,7 +6813,7 @@
                     "totalSellQuantity": 56550,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 675
@@ -6838,7 +6838,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 675
@@ -6848,7 +6848,7 @@
                     "askPrice": 0.65,
                     "askQty": 1450,
                     "bidQty": 1450,
-                    "bidprice": 0.6,
+                    "bidprice": 0.55,
                     "change": -0.45000000000000007,
                     "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
@@ -6859,11 +6859,11 @@
                     "pChange": -40.909090909090914,
                     "pchangeinOpenInterest": -6.122448979591836,
                     "strikePrice": 680,
-                    "totalBuyQuantity": 118900,
+                    "totalBuyQuantity": 117450,
                     "totalSellQuantity": 140650,
                     "totalTradedVolume": 11,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 75.2,
@@ -6884,7 +6884,7 @@
                     "totalSellQuantity": 56550,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 680
@@ -6909,7 +6909,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 680
@@ -6934,7 +6934,7 @@
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 82.2,
@@ -6955,7 +6955,7 @@
                     "totalSellQuantity": 56550,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 685
@@ -6980,7 +6980,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -7001,7 +7001,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 685
@@ -7009,7 +7009,7 @@
             {
                 "CE": {
                     "askPrice": 0.5,
-                    "askQty": 4350,
+                    "askQty": 5800,
                     "bidQty": 2900,
                     "bidprice": 0.4,
                     "change": -0.15000000000000002,
@@ -7026,7 +7026,7 @@
                     "totalSellQuantity": 78300,
                     "totalTradedVolume": 4,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 85.4,
@@ -7047,7 +7047,7 @@
                     "totalSellQuantity": 53650,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 690
@@ -7072,7 +7072,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -7093,7 +7093,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 690
@@ -7118,7 +7118,7 @@
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 90.75,
@@ -7139,7 +7139,7 @@
                     "totalSellQuantity": 56550,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 695
@@ -7164,7 +7164,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -7185,7 +7185,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GLENMARK",
-                    "underlyingValue": 609
+                    "underlyingValue": 609.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 695
@@ -7261,7 +7261,7 @@
             690,
             695
         ],
-        "timestamp": "18-May-2023 10:21:15",
-        "underlyingValue": 609
+        "timestamp": "18-May-2023 10:25:46",
+        "underlyingValue": 609.95
     }
 }

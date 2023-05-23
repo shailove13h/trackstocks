@@ -1,12 +1,12 @@
 {
     "filtered": {
         "CE": {
-            "totOI": 1868,
-            "totVol": 1717
+            "totOI": 1845,
+            "totVol": 1972
         },
         "PE": {
-            "totOI": 940,
-            "totVol": 730
+            "totOI": 932,
+            "totVol": 791
         },
         "data": [
             {
@@ -29,7 +29,7 @@
                     "totalSellQuantity": 54000,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 390
@@ -54,17 +54,17 @@
                     "totalSellQuantity": 59400,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 395
             },
             {
                 "CE": {
-                    "askPrice": 130.85,
+                    "askPrice": 129.45,
                     "askQty": 5400,
                     "bidQty": 5400,
-                    "bidprice": 113.3,
+                    "bidprice": 113.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -79,11 +79,11 @@
                     "totalSellQuantity": 59400,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 519.95
                 },
                 "PE": {
-                    "askPrice": 1,
-                    "askQty": 3600,
+                    "askPrice": 0.7,
+                    "askQty": 7200,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -97,10 +97,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 400,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 59400,
+                    "totalSellQuantity": 70200,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 400
@@ -110,7 +110,7 @@
                     "askPrice": 124.15,
                     "askQty": 5400,
                     "bidQty": 5400,
-                    "bidprice": 97.35,
+                    "bidprice": 104.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -125,10 +125,10 @@
                     "totalSellQuantity": 59400,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "PE": {
-                    "askPrice": 2.8,
+                    "askPrice": 0.95,
                     "askQty": 3600,
                     "bidQty": 1800,
                     "bidprice": 0.05,
@@ -143,20 +143,20 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 405,
                     "totalBuyQuantity": 1800,
-                    "totalSellQuantity": 5400,
+                    "totalSellQuantity": 10800,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 405
             },
             {
                 "CE": {
-                    "askPrice": 118.95,
+                    "askPrice": 139.65,
                     "askQty": 5400,
                     "bidQty": 5400,
-                    "bidprice": 93.15,
+                    "bidprice": 100.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -171,11 +171,11 @@
                     "totalSellQuantity": 59400,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "PE": {
-                    "askPrice": 0.85,
-                    "askQty": 1800,
+                    "askPrice": 0.7,
+                    "askQty": 7200,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -189,20 +189,20 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 410,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 68400,
+                    "totalSellQuantity": 70200,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 410
             },
             {
                 "CE": {
-                    "askPrice": 113.45,
+                    "askPrice": 120.15,
                     "askQty": 5400,
                     "bidQty": 5400,
-                    "bidprice": 98.85,
+                    "bidprice": 99.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -217,17 +217,17 @@
                     "totalSellQuantity": 59400,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 415
             },
             {
                 "CE": {
-                    "askPrice": 116.85,
+                    "askPrice": 111.35,
                     "askQty": 5400,
                     "bidQty": 5400,
-                    "bidprice": 83.35,
+                    "bidprice": 91.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -242,11 +242,11 @@
                     "totalSellQuantity": 59400,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 1.75,
-                    "askQty": 1800,
+                    "askPrice": 0.9,
+                    "askQty": 7200,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -263,15 +263,15 @@
                     "totalSellQuantity": 64800,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 420
             },
             {
                 "CE": {
-                    "askPrice": 99.8,
-                    "askQty": 10800,
+                    "askPrice": 102.1,
+                    "askQty": 5400,
                     "bidQty": 5400,
                     "bidprice": 93.05,
                     "change": 0,
@@ -285,10 +285,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 425,
                     "totalBuyQuantity": 70200,
-                    "totalSellQuantity": 64800,
+                    "totalSellQuantity": 70200,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "PE": {
                     "askPrice": 0.95,
@@ -309,17 +309,17 @@
                     "totalSellQuantity": 14400,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 519.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 425
             },
             {
                 "CE": {
-                    "askPrice": 94.55,
+                    "askPrice": 97.05,
                     "askQty": 5400,
                     "bidQty": 5400,
-                    "bidprice": 86.4,
+                    "bidprice": 87.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -334,10 +334,10 @@
                     "totalSellQuantity": 70200,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 0.45,
+                    "askPrice": 0.4,
                     "askQty": 3600,
                     "bidQty": 3600,
                     "bidprice": 0.2,
@@ -351,11 +351,11 @@
                     "pChange": 700,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 430,
-                    "totalBuyQuantity": 28800,
-                    "totalSellQuantity": 127800,
+                    "totalBuyQuantity": 25200,
+                    "totalSellQuantity": 73800,
                     "totalTradedVolume": 10,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 430
@@ -380,13 +380,13 @@
                     "totalSellQuantity": 59400,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "PE": {
-                    "askPrice": 2.5,
+                    "askPrice": 2,
                     "askQty": 1800,
-                    "bidQty": 0,
-                    "bidprice": 0,
+                    "bidQty": 5400,
+                    "bidprice": 0.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -397,11 +397,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 435,
-                    "totalBuyQuantity": 0,
-                    "totalSellQuantity": 1800,
+                    "totalBuyQuantity": 5400,
+                    "totalSellQuantity": 55800,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 435
@@ -426,12 +426,12 @@
                     "totalSellQuantity": 70200,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 1.5,
-                    "askQty": 7200,
-                    "bidQty": 1800,
+                    "askPrice": 1.2,
+                    "askQty": 1800,
+                    "bidQty": 7200,
                     "bidprice": 0.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -443,11 +443,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 440,
-                    "totalBuyQuantity": 1800,
-                    "totalSellQuantity": 63000,
+                    "totalBuyQuantity": 7200,
+                    "totalSellQuantity": 1800,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 519.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 440
@@ -472,7 +472,7 @@
                     "totalSellQuantity": 59400,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "PE": {
                     "askPrice": 3,
@@ -493,7 +493,7 @@
                     "totalSellQuantity": 1800,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 445
@@ -518,10 +518,10 @@
                     "totalSellQuantity": 70200,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 0.5,
+                    "askPrice": 0.45,
                     "askQty": 1800,
                     "bidQty": 1800,
                     "bidprice": 0.25,
@@ -535,21 +535,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 450,
-                    "totalBuyQuantity": 63000,
-                    "totalSellQuantity": 46800,
+                    "totalBuyQuantity": 64800,
+                    "totalSellQuantity": 37800,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 450
             },
             {
                 "CE": {
-                    "askPrice": 72.25,
-                    "askQty": 10800,
-                    "bidQty": 10800,
-                    "bidprice": 62.95,
+                    "askPrice": 74.35,
+                    "askQty": 5400,
+                    "bidQty": 5400,
+                    "bidprice": 63,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -564,7 +564,7 @@
                     "totalSellQuantity": 70200,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "PE": {
                     "askPrice": 2.5,
@@ -585,14 +585,14 @@
                     "totalSellQuantity": 54000,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 455
             },
             {
                 "CE": {
-                    "askPrice": 64.2,
+                    "askPrice": 66.6,
                     "askQty": 5400,
                     "bidQty": 5400,
                     "bidprice": 57.8,
@@ -610,13 +610,13 @@
                     "totalSellQuantity": 70200,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 0.85,
-                    "askQty": 3600,
-                    "bidQty": 1800,
-                    "bidprice": 0.65,
+                    "askPrice": 0.7,
+                    "askQty": 5400,
+                    "bidQty": 5400,
+                    "bidprice": 0.55,
                     "change": -0.30000000000000004,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -627,21 +627,21 @@
                     "pChange": -30.000000000000004,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 460,
-                    "totalBuyQuantity": 277200,
-                    "totalSellQuantity": 129600,
-                    "totalTradedVolume": 2,
+                    "totalBuyQuantity": 275400,
+                    "totalSellQuantity": 133200,
+                    "totalTradedVolume": 4,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 460
             },
             {
                 "CE": {
-                    "askPrice": 60.65,
+                    "askPrice": 61.05,
                     "askQty": 5400,
-                    "bidQty": 1800,
-                    "bidprice": 53.35,
+                    "bidQty": 5400,
+                    "bidprice": 54.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -652,11 +652,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 465,
-                    "totalBuyQuantity": 66600,
+                    "totalBuyQuantity": 72000,
                     "totalSellQuantity": 72000,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "PE": {
                     "askPrice": 2.45,
@@ -677,17 +677,17 @@
                     "totalSellQuantity": 73800,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 465
             },
             {
                 "CE": {
-                    "askPrice": 57.25,
-                    "askQty": 5400,
-                    "bidQty": 1800,
-                    "bidprice": 48.05,
+                    "askPrice": 56.25,
+                    "askQty": 1800,
+                    "bidQty": 5400,
+                    "bidprice": 48.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -698,42 +698,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 470,
-                    "totalBuyQuantity": 66600,
-                    "totalSellQuantity": 72000,
+                    "totalBuyQuantity": 72000,
+                    "totalSellQuantity": 66600,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 1.05,
+                    "askPrice": 0.95,
                     "askQty": 3600,
                     "bidQty": 3600,
-                    "bidprice": 0.95,
+                    "bidprice": 0.85,
                     "change": -0.25,
                     "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023PE470.00",
-                    "impliedVolatility": 50.08,
+                    "impliedVolatility": 51.01,
                     "lastPrice": 1.1,
                     "openInterest": 42,
                     "pChange": -18.51851851851852,
                     "pchangeinOpenInterest": 5,
                     "strikePrice": 470,
                     "totalBuyQuantity": 228600,
-                    "totalSellQuantity": 176400,
+                    "totalSellQuantity": 180000,
                     "totalTradedVolume": 16,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 470
             },
             {
                 "CE": {
-                    "askPrice": 54.5,
-                    "askQty": 1800,
+                    "askPrice": 57.6,
+                    "askQty": 5400,
                     "bidQty": 1800,
-                    "bidprice": 38.6,
+                    "bidprice": 40.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -744,11 +744,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 475,
-                    "totalBuyQuantity": 55800,
-                    "totalSellQuantity": 55800,
+                    "totalBuyQuantity": 57600,
+                    "totalSellQuantity": 61200,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "PE": {
                     "askPrice": 0,
@@ -769,17 +769,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 475
             },
             {
                 "CE": {
-                    "askPrice": 45.75,
+                    "askPrice": 45.9,
                     "askQty": 1800,
-                    "bidQty": 1800,
-                    "bidprice": 40.3,
+                    "bidQty": 5400,
+                    "bidprice": 42.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -790,39 +790,39 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 480,
-                    "totalBuyQuantity": 72000,
-                    "totalSellQuantity": 73800,
+                    "totalBuyQuantity": 77400,
+                    "totalSellQuantity": 72000,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 1.45,
-                    "askQty": 3600,
-                    "bidQty": 9000,
-                    "bidprice": 1.4,
-                    "change": -0.55,
+                    "askPrice": 1.35,
+                    "askQty": 7200,
+                    "bidQty": 10800,
+                    "bidprice": 1.25,
+                    "change": -0.5,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023PE480.00",
-                    "impliedVolatility": 45.76,
-                    "lastPrice": 1.4,
+                    "impliedVolatility": 45.52,
+                    "lastPrice": 1.45,
                     "openInterest": 77,
-                    "pChange": -28.20512820512821,
+                    "pChange": -25.641025641025646,
                     "pchangeinOpenInterest": -2.5316455696202533,
                     "strikePrice": 480,
-                    "totalBuyQuantity": 154800,
-                    "totalSellQuantity": 203400,
-                    "totalTradedVolume": 20,
+                    "totalBuyQuantity": 158400,
+                    "totalSellQuantity": 214200,
+                    "totalTradedVolume": 21,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 480
             },
             {
                 "CE": {
-                    "askPrice": 41.85,
+                    "askPrice": 43.1,
                     "askQty": 1800,
                     "bidQty": 1800,
                     "bidprice": 34.85,
@@ -840,7 +840,7 @@
                     "totalSellQuantity": 72000,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
                     "askPrice": 2.95,
@@ -861,61 +861,61 @@
                     "totalSellQuantity": 5400,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 485
             },
             {
                 "CE": {
-                    "askPrice": 34.35,
-                    "askQty": 1800,
+                    "askPrice": 35.85,
+                    "askQty": 3600,
                     "bidQty": 1800,
-                    "bidprice": 32.75,
+                    "bidprice": 34,
                     "change": 2.0500000000000007,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023CE490.00",
-                    "impliedVolatility": 46.48,
+                    "impliedVolatility": 39.78,
                     "lastPrice": 33.1,
                     "openInterest": 4,
                     "pChange": 6.602254428341387,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 490,
-                    "totalBuyQuantity": 79200,
-                    "totalSellQuantity": 79200,
+                    "totalBuyQuantity": 77400,
+                    "totalSellQuantity": 86400,
                     "totalTradedVolume": 1,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 2.4,
-                    "askQty": 3600,
-                    "bidQty": 7200,
-                    "bidprice": 2.25,
+                    "askPrice": 2.2,
+                    "askQty": 5400,
+                    "bidQty": 3600,
+                    "bidprice": 2.1,
                     "change": -0.8000000000000003,
-                    "changeinOpenInterest": 3,
+                    "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023PE490.00",
                     "impliedVolatility": 43.24,
                     "lastPrice": 2.4,
-                    "openInterest": 62,
+                    "openInterest": 60,
                     "pChange": -25.000000000000007,
-                    "pchangeinOpenInterest": 5.084745762711864,
+                    "pchangeinOpenInterest": 1.694915254237288,
                     "strikePrice": 490,
-                    "totalBuyQuantity": 192600,
+                    "totalBuyQuantity": 189000,
                     "totalSellQuantity": 199800,
                     "totalTradedVolume": 22,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 490
             },
             {
                 "CE": {
-                    "askPrice": 31.8,
-                    "askQty": 5400,
+                    "askPrice": 33.3,
+                    "askQty": 1800,
                     "bidQty": 1800,
                     "bidprice": 26.35,
                     "change": 0,
@@ -929,41 +929,41 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 495,
                     "totalBuyQuantity": 77400,
-                    "totalSellQuantity": 77400,
+                    "totalSellQuantity": 72000,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 3,
-                    "askQty": 1800,
+                    "askPrice": 2.7,
+                    "askQty": 3600,
                     "bidQty": 3600,
-                    "bidprice": 2.85,
-                    "change": -0.9000000000000004,
+                    "bidprice": 2.55,
+                    "change": -1.1,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023PE495.00",
-                    "impliedVolatility": 40.99,
-                    "lastPrice": 3.05,
+                    "impliedVolatility": 42.23,
+                    "lastPrice": 2.85,
                     "openInterest": 60,
-                    "pChange": -22.784810126582286,
+                    "pChange": -27.848101265822784,
                     "pchangeinOpenInterest": 1.694915254237288,
                     "strikePrice": 495,
-                    "totalBuyQuantity": 235800,
-                    "totalSellQuantity": 201600,
-                    "totalTradedVolume": 9,
+                    "totalBuyQuantity": 232200,
+                    "totalSellQuantity": 214200,
+                    "totalTradedVolume": 12,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 495
             },
             {
                 "CE": {
-                    "askPrice": 25.95,
+                    "askPrice": 26.9,
                     "askQty": 3600,
                     "bidQty": 1800,
-                    "bidprice": 24.75,
+                    "bidprice": 25.75,
                     "change": -0.3500000000000014,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -974,42 +974,42 @@
                     "pChange": -1.4112903225806508,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 500,
-                    "totalBuyQuantity": 108000,
-                    "totalSellQuantity": 81000,
+                    "totalBuyQuantity": 104400,
+                    "totalSellQuantity": 88200,
                     "totalTradedVolume": 1,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 3.85,
-                    "askQty": 1800,
-                    "bidQty": 7200,
-                    "bidprice": 3.65,
-                    "change": -0.7999999999999998,
-                    "changeinOpenInterest": 17,
+                    "askPrice": 3.45,
+                    "askQty": 5400,
+                    "bidQty": 5400,
+                    "bidprice": 3.25,
+                    "change": -1.25,
+                    "changeinOpenInterest": 19,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023PE500.00",
-                    "impliedVolatility": 40.17,
-                    "lastPrice": 3.95,
-                    "openInterest": 148,
-                    "pChange": -16.84210526315789,
-                    "pchangeinOpenInterest": 12.977099236641221,
+                    "impliedVolatility": 42,
+                    "lastPrice": 3.5,
+                    "openInterest": 150,
+                    "pChange": -26.31578947368421,
+                    "pchangeinOpenInterest": 14.50381679389313,
                     "strikePrice": 500,
-                    "totalBuyQuantity": 261000,
-                    "totalSellQuantity": 268200,
-                    "totalTradedVolume": 61,
+                    "totalBuyQuantity": 250200,
+                    "totalSellQuantity": 279000,
+                    "totalTradedVolume": 66,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 500
             },
             {
                 "CE": {
-                    "askPrice": 25.05,
-                    "askQty": 5400,
-                    "bidQty": 3600,
-                    "bidprice": 20,
+                    "askPrice": 25.45,
+                    "askQty": 1800,
+                    "bidQty": 1800,
+                    "bidprice": 19.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1020,201 +1020,201 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 505,
-                    "totalBuyQuantity": 91800,
-                    "totalSellQuantity": 77400,
+                    "totalBuyQuantity": 97200,
+                    "totalSellQuantity": 72000,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 5.25,
+                    "askPrice": 4.5,
                     "askQty": 1800,
                     "bidQty": 1800,
-                    "bidprice": 4.6,
+                    "bidprice": 4.05,
                     "change": -0.40000000000000036,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023PE505.00",
-                    "impliedVolatility": 39.82,
+                    "impliedVolatility": 41.33,
                     "lastPrice": 5.3,
                     "openInterest": 41,
                     "pChange": -7.0175438596491295,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 505,
-                    "totalBuyQuantity": 196200,
-                    "totalSellQuantity": 133200,
+                    "totalBuyQuantity": 190800,
+                    "totalSellQuantity": 129600,
                     "totalTradedVolume": 3,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 505
             },
             {
                 "CE": {
-                    "askPrice": 18.55,
+                    "askPrice": 18.95,
                     "askQty": 1800,
                     "bidQty": 1800,
-                    "bidprice": 17.95,
-                    "change": -0.25,
-                    "changeinOpenInterest": 3,
+                    "bidprice": 18.45,
+                    "change": 0.9499999999999993,
+                    "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023CE510.00",
-                    "impliedVolatility": 39.55,
-                    "lastPrice": 17.6,
-                    "openInterest": 31,
-                    "pChange": -1.4005602240896358,
-                    "pchangeinOpenInterest": 10.714285714285714,
+                    "impliedVolatility": 36.66,
+                    "lastPrice": 18.8,
+                    "openInterest": 30,
+                    "pChange": 5.3221288515406115,
+                    "pchangeinOpenInterest": 7.142857142857143,
                     "strikePrice": 510,
-                    "totalBuyQuantity": 163800,
-                    "totalSellQuantity": 131400,
-                    "totalTradedVolume": 21,
+                    "totalBuyQuantity": 169200,
+                    "totalSellQuantity": 142200,
+                    "totalTradedVolume": 23,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "PE": {
-                    "askPrice": 6.45,
+                    "askPrice": 5.8,
                     "askQty": 1800,
                     "bidQty": 1800,
-                    "bidprice": 6.2,
-                    "change": -1.2999999999999998,
+                    "bidprice": 5.6,
+                    "change": -1.7999999999999998,
                     "changeinOpenInterest": 8,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023PE510.00",
                     "impliedVolatility": 40.59,
-                    "lastPrice": 6.4,
+                    "lastPrice": 5.9,
                     "openInterest": 105,
-                    "pChange": -16.88311688311688,
+                    "pChange": -23.376623376623375,
                     "pchangeinOpenInterest": 8.24742268041237,
                     "strikePrice": 510,
                     "totalBuyQuantity": 295200,
-                    "totalSellQuantity": 228600,
-                    "totalTradedVolume": 36,
+                    "totalSellQuantity": 235800,
+                    "totalTradedVolume": 40,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 519.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 510
             },
             {
                 "CE": {
-                    "askPrice": 15.15,
+                    "askPrice": 15.5,
                     "askQty": 1800,
                     "bidQty": 3600,
-                    "bidprice": 14.85,
-                    "change": 0.20000000000000107,
-                    "changeinOpenInterest": 1,
+                    "bidprice": 14.95,
+                    "change": 1.0500000000000007,
+                    "changeinOpenInterest": 6,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023CE515.00",
-                    "impliedVolatility": 41.22,
-                    "lastPrice": 14.9,
-                    "openInterest": 34,
-                    "pChange": 1.3605442176870821,
-                    "pchangeinOpenInterest": 3.0303030303030303,
+                    "impliedVolatility": 38.48,
+                    "lastPrice": 15.75,
+                    "openInterest": 39,
+                    "pChange": 7.142857142857148,
+                    "pchangeinOpenInterest": 18.181818181818183,
                     "strikePrice": 515,
-                    "totalBuyQuantity": 135000,
-                    "totalSellQuantity": 93600,
-                    "totalTradedVolume": 10,
+                    "totalBuyQuantity": 142200,
+                    "totalSellQuantity": 95400,
+                    "totalTradedVolume": 18,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 7.9,
-                    "askQty": 1800,
+                    "askPrice": 7.4,
+                    "askQty": 5400,
                     "bidQty": 1800,
-                    "bidprice": 7.7,
-                    "change": -0.9500000000000011,
-                    "changeinOpenInterest": -1,
+                    "bidprice": 7.05,
+                    "change": -2.1500000000000004,
+                    "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023PE515.00",
                     "impliedVolatility": 39.33,
-                    "lastPrice": 8.35,
-                    "openInterest": 43,
-                    "pChange": -10.21505376344087,
-                    "pchangeinOpenInterest": -2.272727272727273,
+                    "lastPrice": 7.15,
+                    "openInterest": 47,
+                    "pChange": -23.118279569892476,
+                    "pchangeinOpenInterest": 6.818181818181818,
                     "strikePrice": 515,
-                    "totalBuyQuantity": 207000,
-                    "totalSellQuantity": 181800,
-                    "totalTradedVolume": 12,
+                    "totalBuyQuantity": 219600,
+                    "totalSellQuantity": 185400,
+                    "totalTradedVolume": 19,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 515
             },
             {
                 "CE": {
-                    "askPrice": 11.85,
+                    "askPrice": 12.15,
                     "askQty": 1800,
-                    "bidQty": 1800,
-                    "bidprice": 11.65,
-                    "change": 0.25,
-                    "changeinOpenInterest": 77,
+                    "bidQty": 3600,
+                    "bidprice": 11.9,
+                    "change": 0.40000000000000036,
+                    "changeinOpenInterest": 52,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023CE520.00",
-                    "impliedVolatility": 37.94,
-                    "lastPrice": 12,
-                    "openInterest": 341,
-                    "pChange": 2.127659574468085,
-                    "pchangeinOpenInterest": 29.166666666666668,
+                    "impliedVolatility": 37.49,
+                    "lastPrice": 12.15,
+                    "openInterest": 316,
+                    "pChange": 3.404255319148939,
+                    "pchangeinOpenInterest": 19.696969696969695,
                     "strikePrice": 520,
-                    "totalBuyQuantity": 309600,
-                    "totalSellQuantity": 349200,
-                    "totalTradedVolume": 838,
+                    "totalBuyQuantity": 324000,
+                    "totalSellQuantity": 340200,
+                    "totalTradedVolume": 945,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 9.9,
-                    "askQty": 3600,
-                    "bidQty": 3600,
-                    "bidprice": 9.55,
+                    "askPrice": 9.95,
+                    "askQty": 1800,
+                    "bidQty": 1800,
+                    "bidprice": 9.8,
                     "change": -1.5,
-                    "changeinOpenInterest": 29,
+                    "changeinOpenInterest": 19,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023PE520.00",
                     "impliedVolatility": 38.53,
                     "lastPrice": 9.7,
-                    "openInterest": 133,
+                    "openInterest": 123,
                     "pChange": -13.392857142857142,
-                    "pchangeinOpenInterest": 27.884615384615383,
+                    "pchangeinOpenInterest": 18.26923076923077,
                     "strikePrice": 520,
-                    "totalBuyQuantity": 246600,
-                    "totalSellQuantity": 232200,
-                    "totalTradedVolume": 507,
+                    "totalBuyQuantity": 248400,
+                    "totalSellQuantity": 230400,
+                    "totalTradedVolume": 537,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 520
             },
             {
                 "CE": {
-                    "askPrice": 9.4,
+                    "askPrice": 9.5,
                     "askQty": 1800,
-                    "bidQty": 5400,
-                    "bidprice": 9.2,
-                    "change": -0.09999999999999964,
+                    "bidQty": 1800,
+                    "bidprice": 9.25,
+                    "change": -0.25,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023CE525.00",
                     "impliedVolatility": 36.3,
-                    "lastPrice": 9.35,
+                    "lastPrice": 9.2,
                     "openInterest": 96,
-                    "pChange": -1.0582010582010546,
+                    "pChange": -2.6455026455026456,
                     "pchangeinOpenInterest": 1.0526315789473684,
                     "strikePrice": 525,
-                    "totalBuyQuantity": 279000,
-                    "totalSellQuantity": 244800,
-                    "totalTradedVolume": 93,
+                    "totalBuyQuantity": 282600,
+                    "totalSellQuantity": 246600,
+                    "totalTradedVolume": 107,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 519.95
                 },
                 "PE": {
-                    "askPrice": 13.3,
+                    "askPrice": 11.8,
                     "askQty": 1800,
                     "bidQty": 1800,
-                    "bidprice": 12.25,
+                    "bidprice": 10.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1225,88 +1225,88 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 525,
-                    "totalBuyQuantity": 118800,
-                    "totalSellQuantity": 88200,
+                    "totalBuyQuantity": 129600,
+                    "totalSellQuantity": 100800,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 525
             },
             {
                 "CE": {
-                    "askPrice": 7,
+                    "askPrice": 7.4,
                     "askQty": 1800,
-                    "bidQty": 1800,
-                    "bidprice": 6.8,
-                    "change": -0.25,
-                    "changeinOpenInterest": 69,
+                    "bidQty": 3600,
+                    "bidprice": 7.15,
+                    "change": 0,
+                    "changeinOpenInterest": 52,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023CE530.00",
-                    "impliedVolatility": 37.49,
-                    "lastPrice": 7.05,
-                    "openInterest": 375,
-                    "pChange": -3.4246575342465753,
-                    "pchangeinOpenInterest": 22.54901960784314,
+                    "impliedVolatility": 37.35,
+                    "lastPrice": 7.3,
+                    "openInterest": 358,
+                    "pChange": 0,
+                    "pchangeinOpenInterest": 16.99346405228758,
                     "strikePrice": 530,
-                    "totalBuyQuantity": 271800,
-                    "totalSellQuantity": 255600,
-                    "totalTradedVolume": 516,
+                    "totalBuyQuantity": 259200,
+                    "totalSellQuantity": 241200,
+                    "totalTradedVolume": 588,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 15.75,
-                    "askQty": 1800,
+                    "askPrice": 14.45,
+                    "askQty": 3600,
                     "bidQty": 1800,
-                    "bidprice": 15.25,
-                    "change": -0.8999999999999986,
+                    "bidprice": 13.95,
+                    "change": -1.9499999999999993,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023PE530.00",
-                    "impliedVolatility": 36.25,
-                    "lastPrice": 15.5,
+                    "impliedVolatility": 38.49,
+                    "lastPrice": 14.45,
                     "openInterest": 64,
-                    "pChange": -5.487804878048772,
+                    "pChange": -11.890243902439021,
                     "pchangeinOpenInterest": 1.5873015873015872,
                     "strikePrice": 530,
                     "totalBuyQuantity": 100800,
-                    "totalSellQuantity": 102600,
-                    "totalTradedVolume": 26,
+                    "totalSellQuantity": 106200,
+                    "totalTradedVolume": 30,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 530
             },
             {
                 "CE": {
-                    "askPrice": 5.3,
-                    "askQty": 5400,
+                    "askPrice": 5.65,
+                    "askQty": 1800,
                     "bidQty": 3600,
-                    "bidprice": 5.1,
-                    "change": -0.6499999999999995,
-                    "changeinOpenInterest": 0,
+                    "bidprice": 5.35,
+                    "change": -0.25,
+                    "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023CE535.00",
-                    "impliedVolatility": 35.97,
-                    "lastPrice": 4.9,
-                    "openInterest": 78,
-                    "pChange": -11.711711711711704,
-                    "pchangeinOpenInterest": 0,
+                    "impliedVolatility": 35.41,
+                    "lastPrice": 5.3,
+                    "openInterest": 79,
+                    "pChange": -4.504504504504505,
+                    "pchangeinOpenInterest": 1.2820512820512822,
                     "strikePrice": 535,
-                    "totalBuyQuantity": 327600,
-                    "totalSellQuantity": 268200,
-                    "totalTradedVolume": 31,
+                    "totalBuyQuantity": 329400,
+                    "totalSellQuantity": 250200,
+                    "totalTradedVolume": 35,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "PE": {
-                    "askPrice": 19.4,
+                    "askPrice": 18.45,
                     "askQty": 1800,
                     "bidQty": 1800,
-                    "bidprice": 17.6,
+                    "bidprice": 16.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1317,88 +1317,88 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 535,
-                    "totalBuyQuantity": 77400,
-                    "totalSellQuantity": 73800,
+                    "totalBuyQuantity": 82800,
+                    "totalSellQuantity": 75600,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 535
             },
             {
                 "CE": {
-                    "askPrice": 3.95,
+                    "askPrice": 4.2,
                     "askQty": 1800,
                     "bidQty": 7200,
-                    "bidprice": 3.75,
-                    "change": -0.3500000000000001,
-                    "changeinOpenInterest": 4,
+                    "bidprice": 4.05,
+                    "change": 0.04999999999999982,
+                    "changeinOpenInterest": 6,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023CE540.00",
-                    "impliedVolatility": 37.68,
-                    "lastPrice": 3.85,
-                    "openInterest": 114,
-                    "pChange": -8.333333333333336,
-                    "pchangeinOpenInterest": 3.6363636363636362,
+                    "impliedVolatility": 36.48,
+                    "lastPrice": 4.25,
+                    "openInterest": 116,
+                    "pChange": 1.1904761904761862,
+                    "pchangeinOpenInterest": 5.454545454545454,
                     "strikePrice": 540,
-                    "totalBuyQuantity": 291600,
-                    "totalSellQuantity": 277200,
-                    "totalTradedVolume": 78,
+                    "totalBuyQuantity": 329400,
+                    "totalSellQuantity": 268200,
+                    "totalTradedVolume": 100,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "PE": {
-                    "askPrice": 23.45,
+                    "askPrice": 21.15,
                     "askQty": 1800,
                     "bidQty": 1800,
-                    "bidprice": 22.3,
-                    "change": -4.900000000000002,
-                    "changeinOpenInterest": 0,
+                    "bidprice": 20.6,
+                    "change": -5.850000000000001,
+                    "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023PE540.00",
                     "impliedVolatility": 36.42,
-                    "lastPrice": 22.45,
-                    "openInterest": 8,
-                    "pChange": -17.91590493601463,
-                    "pchangeinOpenInterest": 0,
+                    "lastPrice": 21.5,
+                    "openInterest": 6,
+                    "pChange": -21.389396709323588,
+                    "pchangeinOpenInterest": -25,
                     "strikePrice": 540,
-                    "totalBuyQuantity": 79200,
-                    "totalSellQuantity": 77400,
-                    "totalTradedVolume": 2,
+                    "totalBuyQuantity": 95400,
+                    "totalSellQuantity": 93600,
+                    "totalTradedVolume": 5,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 540
             },
             {
                 "CE": {
-                    "askPrice": 3,
-                    "askQty": 5400,
+                    "askPrice": 3.1,
+                    "askQty": 3600,
                     "bidQty": 1800,
-                    "bidprice": 2.75,
-                    "change": -0.10000000000000009,
+                    "bidprice": 2.95,
+                    "change": -0.15000000000000036,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023CE545.00",
-                    "impliedVolatility": 37.71,
-                    "lastPrice": 3.1,
+                    "impliedVolatility": 36.44,
+                    "lastPrice": 3.05,
                     "openInterest": 50,
-                    "pChange": -3.1250000000000027,
+                    "pChange": -4.687500000000011,
                     "pchangeinOpenInterest": 2.0408163265306123,
                     "strikePrice": 545,
-                    "totalBuyQuantity": 270000,
-                    "totalSellQuantity": 217800,
-                    "totalTradedVolume": 6,
+                    "totalBuyQuantity": 282600,
+                    "totalSellQuantity": 201600,
+                    "totalTradedVolume": 10,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "PE": {
-                    "askPrice": 27.95,
-                    "askQty": 5400,
-                    "bidQty": 5400,
-                    "bidprice": 23.6,
+                    "askPrice": 26.15,
+                    "askQty": 3600,
+                    "bidQty": 1800,
+                    "bidprice": 22.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1409,11 +1409,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 545,
-                    "totalBuyQuantity": 77400,
-                    "totalSellQuantity": 81000,
+                    "totalBuyQuantity": 79200,
+                    "totalSellQuantity": 75600,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 545
@@ -1421,91 +1421,91 @@
             {
                 "CE": {
                     "askPrice": 2.3,
-                    "askQty": 3600,
-                    "bidQty": 9000,
+                    "askQty": 5400,
+                    "bidQty": 3600,
                     "bidprice": 2.15,
-                    "change": -0.04999999999999982,
-                    "changeinOpenInterest": 1,
+                    "change": -0.09999999999999964,
+                    "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023CE550.00",
-                    "impliedVolatility": 37.59,
-                    "lastPrice": 2.25,
-                    "openInterest": 207,
-                    "pChange": -2.173913043478253,
-                    "pchangeinOpenInterest": 0.4854368932038835,
+                    "impliedVolatility": 37.31,
+                    "lastPrice": 2.2,
+                    "openInterest": 208,
+                    "pChange": -4.347826086956506,
+                    "pchangeinOpenInterest": 0.970873786407767,
                     "strikePrice": 550,
-                    "totalBuyQuantity": 210600,
+                    "totalBuyQuantity": 205200,
                     "totalSellQuantity": 235800,
-                    "totalTradedVolume": 68,
+                    "totalTradedVolume": 73,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 31.45,
-                    "askQty": 1800,
+                    "askPrice": 29.5,
+                    "askQty": 3600,
                     "bidQty": 1800,
-                    "bidprice": 30.45,
-                    "change": -1.5,
+                    "bidprice": 28.6,
+                    "change": -2.099999999999998,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023PE550.00",
                     "impliedVolatility": 36.75,
-                    "lastPrice": 30.65,
+                    "lastPrice": 30.05,
                     "openInterest": 15,
-                    "pChange": -4.665629860031104,
+                    "pChange": -6.53188180404354,
                     "pchangeinOpenInterest": -11.764705882352942,
                     "strikePrice": 550,
-                    "totalBuyQuantity": 82800,
-                    "totalSellQuantity": 81000,
-                    "totalTradedVolume": 3,
+                    "totalBuyQuantity": 91800,
+                    "totalSellQuantity": 99000,
+                    "totalTradedVolume": 5,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 550
             },
             {
                 "CE": {
-                    "askPrice": 1.7,
-                    "askQty": 3600,
-                    "bidQty": 12600,
+                    "askPrice": 1.65,
+                    "askQty": 1800,
+                    "bidQty": 3600,
                     "bidprice": 1.45,
                     "change": -0.34999999999999987,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023CE555.00",
-                    "impliedVolatility": 38.22,
+                    "impliedVolatility": 36.07,
                     "lastPrice": 1.35,
                     "openInterest": 30,
                     "pChange": -20.58823529411764,
                     "pchangeinOpenInterest": -3.225806451612903,
                     "strikePrice": 555,
                     "totalBuyQuantity": 68400,
-                    "totalSellQuantity": 174600,
+                    "totalSellQuantity": 178200,
                     "totalTradedVolume": 9,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 35.25,
+                    "askPrice": 33.95,
                     "askQty": 1800,
                     "bidQty": 1800,
-                    "bidprice": 34.1,
+                    "bidprice": 32.1,
                     "change": -0.05000000000000426,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023PE555.00",
-                    "impliedVolatility": 35.67,
+                    "impliedVolatility": 43.27,
                     "lastPrice": 36.05,
                     "openInterest": 4,
                     "pChange": -0.13850415512466555,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 555,
-                    "totalBuyQuantity": 73800,
+                    "totalBuyQuantity": 79200,
                     "totalSellQuantity": 75600,
                     "totalTradedVolume": 1,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 555
@@ -1513,30 +1513,30 @@
             {
                 "CE": {
                     "askPrice": 1.2,
-                    "askQty": 3600,
-                    "bidQty": 7200,
-                    "bidprice": 1.05,
+                    "askQty": 12600,
+                    "bidQty": 3600,
+                    "bidprice": 1.1,
                     "change": -0.1499999999999999,
-                    "changeinOpenInterest": 1,
+                    "changeinOpenInterest": 5,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023CE560.00",
                     "impliedVolatility": 37.24,
                     "lastPrice": 1.1,
-                    "openInterest": 103,
+                    "openInterest": 107,
                     "pChange": -11.999999999999993,
-                    "pchangeinOpenInterest": 0.9803921568627451,
+                    "pchangeinOpenInterest": 4.901960784313726,
                     "strikePrice": 560,
-                    "totalBuyQuantity": 241200,
-                    "totalSellQuantity": 210600,
-                    "totalTradedVolume": 11,
+                    "totalBuyQuantity": 244800,
+                    "totalSellQuantity": 214200,
+                    "totalTradedVolume": 18,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 39.8,
-                    "askQty": 3600,
-                    "bidQty": 5400,
-                    "bidprice": 36.85,
+                    "askPrice": 38.3,
+                    "askQty": 1800,
+                    "bidQty": 1800,
+                    "bidprice": 36.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1547,42 +1547,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 560,
-                    "totalBuyQuantity": 77400,
+                    "totalBuyQuantity": 79200,
                     "totalSellQuantity": 75600,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 519.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 560
             },
             {
                 "CE": {
-                    "askPrice": 1,
-                    "askQty": 5400,
-                    "bidQty": 5400,
-                    "bidprice": 0.8,
+                    "askPrice": 0.95,
+                    "askQty": 3600,
+                    "bidQty": 9000,
+                    "bidprice": 0.85,
                     "change": 0,
-                    "changeinOpenInterest": -1,
+                    "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023CE565.00",
-                    "impliedVolatility": 40.16,
+                    "impliedVolatility": 38.18,
                     "lastPrice": 0.95,
-                    "openInterest": 50,
+                    "openInterest": 49,
                     "pChange": 0,
-                    "pchangeinOpenInterest": -1.9607843137254901,
+                    "pchangeinOpenInterest": -3.9215686274509802,
                     "strikePrice": 565,
-                    "totalBuyQuantity": 223200,
-                    "totalSellQuantity": 147600,
-                    "totalTradedVolume": 10,
+                    "totalBuyQuantity": 235800,
+                    "totalSellQuantity": 149400,
+                    "totalTradedVolume": 17,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "PE": {
-                    "askPrice": 46.9,
+                    "askPrice": 44.65,
                     "askQty": 1800,
                     "bidQty": 1800,
-                    "bidprice": 40.85,
+                    "bidprice": 40.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1594,10 +1594,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 565,
                     "totalBuyQuantity": 72000,
-                    "totalSellQuantity": 75600,
+                    "totalSellQuantity": 73800,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 565
@@ -1605,8 +1605,8 @@
             {
                 "CE": {
                     "askPrice": 0.8,
-                    "askQty": 5400,
-                    "bidQty": 3600,
+                    "askQty": 3600,
+                    "bidQty": 5400,
                     "bidprice": 0.7,
                     "change": 0,
                     "changeinOpenInterest": 4,
@@ -1618,17 +1618,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 5.2631578947368425,
                     "strikePrice": 570,
-                    "totalBuyQuantity": 176400,
-                    "totalSellQuantity": 113400,
+                    "totalBuyQuantity": 174600,
+                    "totalSellQuantity": 111600,
                     "totalTradedVolume": 12,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 50.75,
-                    "askQty": 1800,
+                    "askPrice": 51.7,
+                    "askQty": 5400,
                     "bidQty": 1800,
-                    "bidprice": 45.7,
+                    "bidprice": 44.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1640,10 +1640,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 570,
                     "totalBuyQuantity": 72000,
-                    "totalSellQuantity": 72000,
+                    "totalSellQuantity": 77400,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 570
@@ -1668,13 +1668,13 @@
                     "totalSellQuantity": 54000,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 59.95,
+                    "askPrice": 58.85,
                     "askQty": 5400,
-                    "bidQty": 5400,
-                    "bidprice": 50.9,
+                    "bidQty": 10800,
+                    "bidprice": 48.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1685,36 +1685,36 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 575,
-                    "totalBuyQuantity": 70200,
+                    "totalBuyQuantity": 64800,
                     "totalSellQuantity": 70200,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 575
             },
             {
                 "CE": {
-                    "askPrice": 0.55,
-                    "askQty": 14400,
-                    "bidQty": 14400,
-                    "bidprice": 0.35,
+                    "askPrice": 0.6,
+                    "askQty": 7200,
+                    "bidQty": 3600,
+                    "bidprice": 0.45,
                     "change": 0.10000000000000003,
-                    "changeinOpenInterest": 0,
+                    "changeinOpenInterest": 8,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023CE580.00",
-                    "impliedVolatility": 42.47,
+                    "impliedVolatility": 44.13,
                     "lastPrice": 0.55,
-                    "openInterest": 71,
+                    "openInterest": 79,
                     "pChange": 22.22222222222223,
-                    "pchangeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 11.267605633802816,
                     "strikePrice": 580,
-                    "totalBuyQuantity": 144000,
-                    "totalSellQuantity": 41400,
-                    "totalTradedVolume": 12,
+                    "totalBuyQuantity": 149400,
+                    "totalSellQuantity": 46800,
+                    "totalTradedVolume": 15,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
                     "askPrice": 64,
@@ -1735,7 +1735,7 @@
                     "totalSellQuantity": 70200,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 519.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 580
@@ -1760,13 +1760,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "PE": {
-                    "askPrice": 72.5,
-                    "askQty": 5400,
+                    "askPrice": 71.45,
+                    "askQty": 54000,
                     "bidQty": 5400,
-                    "bidprice": 57.25,
+                    "bidprice": 42.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1778,10 +1778,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 585,
                     "totalBuyQuantity": 59400,
-                    "totalSellQuantity": 59400,
+                    "totalSellQuantity": 54000,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 519.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 585
@@ -1806,13 +1806,13 @@
                     "totalSellQuantity": 55800,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 74.6,
+                    "askPrice": 73.35,
                     "askQty": 5400,
                     "bidQty": 5400,
-                    "bidprice": 65.7,
+                    "bidprice": 63.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1827,7 +1827,7 @@
                     "totalSellQuantity": 70200,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 590
@@ -1852,13 +1852,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "PE": {
-                    "askPrice": 82.75,
+                    "askPrice": 81.95,
                     "askQty": 5400,
                     "bidQty": 5400,
-                    "bidprice": 67.25,
+                    "bidprice": 47.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1873,7 +1873,7 @@
                     "totalSellQuantity": 59400,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 595
@@ -1898,13 +1898,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 88.55,
+                    "askPrice": 88.15,
                     "askQty": 5400,
                     "bidQty": 5400,
-                    "bidprice": 72.3,
+                    "bidprice": 65.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1919,7 +1919,7 @@
                     "totalSellQuantity": 59400,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 600
@@ -1948,7 +1948,7 @@
                     "totalSellQuantity": 54000,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 390
@@ -1973,17 +1973,17 @@
                     "totalSellQuantity": 59400,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 395
             },
             {
                 "CE": {
-                    "askPrice": 130.85,
+                    "askPrice": 129.45,
                     "askQty": 5400,
                     "bidQty": 5400,
-                    "bidprice": 113.3,
+                    "bidprice": 113.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1998,11 +1998,11 @@
                     "totalSellQuantity": 59400,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 519.95
                 },
                 "PE": {
-                    "askPrice": 1,
-                    "askQty": 3600,
+                    "askPrice": 0.7,
+                    "askQty": 7200,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -2016,10 +2016,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 400,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 59400,
+                    "totalSellQuantity": 70200,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 400
@@ -2029,7 +2029,7 @@
                     "askPrice": 124.15,
                     "askQty": 5400,
                     "bidQty": 5400,
-                    "bidprice": 97.35,
+                    "bidprice": 104.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2044,10 +2044,10 @@
                     "totalSellQuantity": 59400,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "PE": {
-                    "askPrice": 2.8,
+                    "askPrice": 0.95,
                     "askQty": 3600,
                     "bidQty": 1800,
                     "bidprice": 0.05,
@@ -2062,20 +2062,20 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 405,
                     "totalBuyQuantity": 1800,
-                    "totalSellQuantity": 5400,
+                    "totalSellQuantity": 10800,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 405
             },
             {
                 "CE": {
-                    "askPrice": 118.95,
+                    "askPrice": 139.65,
                     "askQty": 5400,
                     "bidQty": 5400,
-                    "bidprice": 93.15,
+                    "bidprice": 100.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2090,11 +2090,11 @@
                     "totalSellQuantity": 59400,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "PE": {
-                    "askPrice": 0.85,
-                    "askQty": 1800,
+                    "askPrice": 0.7,
+                    "askQty": 7200,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -2108,20 +2108,20 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 410,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 68400,
+                    "totalSellQuantity": 70200,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 410
             },
             {
                 "CE": {
-                    "askPrice": 113.45,
+                    "askPrice": 120.15,
                     "askQty": 5400,
                     "bidQty": 5400,
-                    "bidprice": 98.85,
+                    "bidprice": 99.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2136,7 +2136,7 @@
                     "totalSellQuantity": 59400,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 415
@@ -2146,7 +2146,7 @@
                     "askPrice": 140,
                     "askQty": 3600,
                     "bidQty": 3600,
-                    "bidprice": 100.2,
+                    "bidprice": 101.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2161,7 +2161,7 @@
                     "totalSellQuantity": 3600,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2182,17 +2182,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 415
             },
             {
                 "CE": {
-                    "askPrice": 116.85,
+                    "askPrice": 111.35,
                     "askQty": 5400,
                     "bidQty": 5400,
-                    "bidprice": 83.35,
+                    "bidprice": 91.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2207,11 +2207,11 @@
                     "totalSellQuantity": 59400,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 1.75,
-                    "askQty": 1800,
+                    "askPrice": 0.9,
+                    "askQty": 7200,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -2228,7 +2228,7 @@
                     "totalSellQuantity": 64800,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 420
@@ -2238,7 +2238,7 @@
                     "askPrice": 135,
                     "askQty": 3600,
                     "bidQty": 3600,
-                    "bidprice": 95.9,
+                    "bidprice": 96.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2253,7 +2253,7 @@
                     "totalSellQuantity": 3600,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 519.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2274,15 +2274,15 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 519.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 420
             },
             {
                 "CE": {
-                    "askPrice": 99.8,
-                    "askQty": 10800,
+                    "askPrice": 102.1,
+                    "askQty": 5400,
                     "bidQty": 5400,
                     "bidprice": 93.05,
                     "change": 0,
@@ -2296,10 +2296,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 425,
                     "totalBuyQuantity": 70200,
-                    "totalSellQuantity": 64800,
+                    "totalSellQuantity": 70200,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "PE": {
                     "askPrice": 0.95,
@@ -2320,7 +2320,7 @@
                     "totalSellQuantity": 14400,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 519.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 425
@@ -2330,7 +2330,7 @@
                     "askPrice": 130,
                     "askQty": 3600,
                     "bidQty": 3600,
-                    "bidprice": 91.15,
+                    "bidprice": 91.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2345,7 +2345,7 @@
                     "totalSellQuantity": 3600,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 519.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2366,17 +2366,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 519.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 425
             },
             {
                 "CE": {
-                    "askPrice": 94.55,
+                    "askPrice": 97.05,
                     "askQty": 5400,
                     "bidQty": 5400,
-                    "bidprice": 86.4,
+                    "bidprice": 87.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2391,10 +2391,10 @@
                     "totalSellQuantity": 70200,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 0.45,
+                    "askPrice": 0.4,
                     "askQty": 3600,
                     "bidQty": 3600,
                     "bidprice": 0.2,
@@ -2408,11 +2408,11 @@
                     "pChange": 700,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 430,
-                    "totalBuyQuantity": 28800,
-                    "totalSellQuantity": 127800,
+                    "totalBuyQuantity": 25200,
+                    "totalSellQuantity": 73800,
                     "totalTradedVolume": 10,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 430
@@ -2422,7 +2422,7 @@
                     "askPrice": 124.95,
                     "askQty": 3600,
                     "bidQty": 3600,
-                    "bidprice": 85.9,
+                    "bidprice": 86.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2437,7 +2437,7 @@
                     "totalSellQuantity": 3600,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2458,7 +2458,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 430
@@ -2483,13 +2483,13 @@
                     "totalSellQuantity": 59400,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "PE": {
-                    "askPrice": 2.5,
+                    "askPrice": 2,
                     "askQty": 1800,
-                    "bidQty": 0,
-                    "bidprice": 0,
+                    "bidQty": 5400,
+                    "bidprice": 0.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2500,11 +2500,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 435,
-                    "totalBuyQuantity": 0,
-                    "totalSellQuantity": 1800,
+                    "totalBuyQuantity": 5400,
+                    "totalSellQuantity": 55800,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 435
@@ -2514,7 +2514,7 @@
                     "askPrice": 119.95,
                     "askQty": 3600,
                     "bidQty": 3600,
-                    "bidprice": 80.45,
+                    "bidprice": 81.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2529,7 +2529,7 @@
                     "totalSellQuantity": 3600,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2550,7 +2550,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 519.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 435
@@ -2575,12 +2575,12 @@
                     "totalSellQuantity": 70200,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 1.5,
-                    "askQty": 7200,
-                    "bidQty": 1800,
+                    "askPrice": 1.2,
+                    "askQty": 1800,
+                    "bidQty": 7200,
                     "bidprice": 0.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -2592,11 +2592,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 440,
-                    "totalBuyQuantity": 1800,
-                    "totalSellQuantity": 63000,
+                    "totalBuyQuantity": 7200,
+                    "totalSellQuantity": 1800,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 519.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 440
@@ -2606,7 +2606,7 @@
                     "askPrice": 114.9,
                     "askQty": 3600,
                     "bidQty": 3600,
-                    "bidprice": 74.8,
+                    "bidprice": 76.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2621,7 +2621,7 @@
                     "totalSellQuantity": 3600,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2642,7 +2642,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 440
@@ -2667,7 +2667,7 @@
                     "totalSellQuantity": 59400,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "PE": {
                     "askPrice": 3,
@@ -2688,7 +2688,7 @@
                     "totalSellQuantity": 1800,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 445
@@ -2698,7 +2698,7 @@
                     "askPrice": 109.9,
                     "askQty": 3600,
                     "bidQty": 3600,
-                    "bidprice": 70.45,
+                    "bidprice": 71.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2713,7 +2713,7 @@
                     "totalSellQuantity": 3600,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2734,17 +2734,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 519.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 445
             },
             {
                 "CE": {
-                    "askPrice": 104.45,
+                    "askPrice": 88.75,
                     "askQty": 3600,
                     "bidQty": 3600,
-                    "bidprice": 71.35,
+                    "bidprice": 70.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2756,10 +2756,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 450,
                     "totalBuyQuantity": 59400,
-                    "totalSellQuantity": 3600,
+                    "totalSellQuantity": 5400,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 519.95
                 },
                 "PE": {
                     "askPrice": 3.95,
@@ -2780,7 +2780,7 @@
                     "totalSellQuantity": 3600,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 450
@@ -2805,10 +2805,10 @@
                     "totalSellQuantity": 70200,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 0.5,
+                    "askPrice": 0.45,
                     "askQty": 1800,
                     "bidQty": 1800,
                     "bidprice": 0.25,
@@ -2822,11 +2822,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 450,
-                    "totalBuyQuantity": 63000,
-                    "totalSellQuantity": 46800,
+                    "totalBuyQuantity": 64800,
+                    "totalSellQuantity": 37800,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 450
@@ -2836,7 +2836,7 @@
                     "askPrice": 98.15,
                     "askQty": 3600,
                     "bidQty": 3600,
-                    "bidprice": 60.95,
+                    "bidprice": 61.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2851,7 +2851,7 @@
                     "totalSellQuantity": 3600,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2872,17 +2872,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 455
             },
             {
                 "CE": {
-                    "askPrice": 72.25,
-                    "askQty": 10800,
-                    "bidQty": 10800,
-                    "bidprice": 62.95,
+                    "askPrice": 74.35,
+                    "askQty": 5400,
+                    "bidQty": 5400,
+                    "bidprice": 63,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2897,7 +2897,7 @@
                     "totalSellQuantity": 70200,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "PE": {
                     "askPrice": 2.5,
@@ -2918,7 +2918,7 @@
                     "totalSellQuantity": 54000,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 455
@@ -2928,7 +2928,7 @@
                     "askPrice": 91.85,
                     "askQty": 3600,
                     "bidQty": 3600,
-                    "bidprice": 60,
+                    "bidprice": 56.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2939,18 +2939,18 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 460,
-                    "totalBuyQuantity": 59400,
+                    "totalBuyQuantity": 57600,
                     "totalSellQuantity": 3600,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 460
             },
             {
                 "CE": {
-                    "askPrice": 64.2,
+                    "askPrice": 66.6,
                     "askQty": 5400,
                     "bidQty": 5400,
                     "bidprice": 57.8,
@@ -2968,13 +2968,13 @@
                     "totalSellQuantity": 70200,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 0.85,
-                    "askQty": 3600,
-                    "bidQty": 1800,
-                    "bidprice": 0.65,
+                    "askPrice": 0.7,
+                    "askQty": 5400,
+                    "bidQty": 5400,
+                    "bidprice": 0.55,
                     "change": -0.30000000000000004,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2985,11 +2985,11 @@
                     "pChange": -30.000000000000004,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 460,
-                    "totalBuyQuantity": 277200,
-                    "totalSellQuantity": 129600,
-                    "totalTradedVolume": 2,
+                    "totalBuyQuantity": 275400,
+                    "totalSellQuantity": 133200,
+                    "totalTradedVolume": 4,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 460
@@ -2999,7 +2999,7 @@
                     "askPrice": 85.85,
                     "askQty": 3600,
                     "bidQty": 3600,
-                    "bidprice": 50.1,
+                    "bidprice": 51.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3014,7 +3014,7 @@
                     "totalSellQuantity": 3600,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3035,17 +3035,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 465
             },
             {
                 "CE": {
-                    "askPrice": 60.65,
+                    "askPrice": 61.05,
                     "askQty": 5400,
-                    "bidQty": 1800,
-                    "bidprice": 53.35,
+                    "bidQty": 5400,
+                    "bidprice": 54.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3056,11 +3056,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 465,
-                    "totalBuyQuantity": 66600,
+                    "totalBuyQuantity": 72000,
                     "totalSellQuantity": 72000,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "PE": {
                     "askPrice": 2.45,
@@ -3081,17 +3081,17 @@
                     "totalSellQuantity": 73800,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 465
             },
             {
                 "CE": {
-                    "askPrice": 57.25,
-                    "askQty": 5400,
-                    "bidQty": 1800,
-                    "bidprice": 48.05,
+                    "askPrice": 56.25,
+                    "askQty": 1800,
+                    "bidQty": 5400,
+                    "bidprice": 48.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3102,32 +3102,32 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 470,
-                    "totalBuyQuantity": 66600,
-                    "totalSellQuantity": 72000,
+                    "totalBuyQuantity": 72000,
+                    "totalSellQuantity": 66600,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 1.05,
+                    "askPrice": 0.95,
                     "askQty": 3600,
                     "bidQty": 3600,
-                    "bidprice": 0.95,
+                    "bidprice": 0.85,
                     "change": -0.25,
                     "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023PE470.00",
-                    "impliedVolatility": 50.08,
+                    "impliedVolatility": 51.01,
                     "lastPrice": 1.1,
                     "openInterest": 42,
                     "pChange": -18.51851851851852,
                     "pchangeinOpenInterest": 5,
                     "strikePrice": 470,
                     "totalBuyQuantity": 228600,
-                    "totalSellQuantity": 176400,
+                    "totalSellQuantity": 180000,
                     "totalTradedVolume": 16,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 470
@@ -3137,7 +3137,7 @@
                     "askPrice": 79.95,
                     "askQty": 3600,
                     "bidQty": 3600,
-                    "bidprice": 45.4,
+                    "bidprice": 46.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3152,7 +3152,7 @@
                     "totalSellQuantity": 3600,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3173,17 +3173,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 470
             },
             {
                 "CE": {
-                    "askPrice": 54.5,
-                    "askQty": 1800,
+                    "askPrice": 57.6,
+                    "askQty": 5400,
                     "bidQty": 1800,
-                    "bidprice": 38.6,
+                    "bidprice": 40.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3194,11 +3194,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 475,
-                    "totalBuyQuantity": 55800,
-                    "totalSellQuantity": 55800,
+                    "totalBuyQuantity": 57600,
+                    "totalSellQuantity": 61200,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3219,7 +3219,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 475
@@ -3229,7 +3229,7 @@
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 3600,
-                    "bidprice": 40.4,
+                    "bidprice": 41.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3244,7 +3244,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3265,17 +3265,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 475
             },
             {
                 "CE": {
-                    "askPrice": 45.75,
+                    "askPrice": 45.9,
                     "askQty": 1800,
-                    "bidQty": 1800,
-                    "bidprice": 40.3,
+                    "bidQty": 5400,
+                    "bidprice": 42.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3286,32 +3286,32 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 480,
-                    "totalBuyQuantity": 72000,
-                    "totalSellQuantity": 73800,
+                    "totalBuyQuantity": 77400,
+                    "totalSellQuantity": 72000,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 1.45,
-                    "askQty": 3600,
-                    "bidQty": 9000,
-                    "bidprice": 1.4,
-                    "change": -0.55,
+                    "askPrice": 1.35,
+                    "askQty": 7200,
+                    "bidQty": 10800,
+                    "bidprice": 1.25,
+                    "change": -0.5,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023PE480.00",
-                    "impliedVolatility": 45.76,
-                    "lastPrice": 1.4,
+                    "impliedVolatility": 45.52,
+                    "lastPrice": 1.45,
                     "openInterest": 77,
-                    "pChange": -28.20512820512821,
+                    "pChange": -25.641025641025646,
                     "pchangeinOpenInterest": -2.5316455696202533,
                     "strikePrice": 480,
-                    "totalBuyQuantity": 154800,
-                    "totalSellQuantity": 203400,
-                    "totalTradedVolume": 20,
+                    "totalBuyQuantity": 158400,
+                    "totalSellQuantity": 214200,
+                    "totalTradedVolume": 21,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 480
@@ -3336,7 +3336,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3357,14 +3357,14 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 480
             },
             {
                 "CE": {
-                    "askPrice": 41.85,
+                    "askPrice": 43.1,
                     "askQty": 1800,
                     "bidQty": 1800,
                     "bidprice": 34.85,
@@ -3382,7 +3382,7 @@
                     "totalSellQuantity": 72000,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
                     "askPrice": 2.95,
@@ -3403,7 +3403,7 @@
                     "totalSellQuantity": 5400,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 485
@@ -3428,7 +3428,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3449,53 +3449,53 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 485
             },
             {
                 "CE": {
-                    "askPrice": 34.35,
-                    "askQty": 1800,
+                    "askPrice": 35.85,
+                    "askQty": 3600,
                     "bidQty": 1800,
-                    "bidprice": 32.75,
+                    "bidprice": 34,
                     "change": 2.0500000000000007,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023CE490.00",
-                    "impliedVolatility": 46.48,
+                    "impliedVolatility": 39.78,
                     "lastPrice": 33.1,
                     "openInterest": 4,
                     "pChange": 6.602254428341387,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 490,
-                    "totalBuyQuantity": 79200,
-                    "totalSellQuantity": 79200,
+                    "totalBuyQuantity": 77400,
+                    "totalSellQuantity": 86400,
                     "totalTradedVolume": 1,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 2.4,
-                    "askQty": 3600,
-                    "bidQty": 7200,
-                    "bidprice": 2.25,
+                    "askPrice": 2.2,
+                    "askQty": 5400,
+                    "bidQty": 3600,
+                    "bidprice": 2.1,
                     "change": -0.8000000000000003,
-                    "changeinOpenInterest": 3,
+                    "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023PE490.00",
                     "impliedVolatility": 43.24,
                     "lastPrice": 2.4,
-                    "openInterest": 62,
+                    "openInterest": 60,
                     "pChange": -25.000000000000007,
-                    "pchangeinOpenInterest": 5.084745762711864,
+                    "pchangeinOpenInterest": 1.694915254237288,
                     "strikePrice": 490,
-                    "totalBuyQuantity": 192600,
+                    "totalBuyQuantity": 189000,
                     "totalSellQuantity": 199800,
                     "totalTradedVolume": 22,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 490
@@ -3505,7 +3505,7 @@
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 3600,
-                    "bidprice": 25,
+                    "bidprice": 26.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3520,13 +3520,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 1800,
-                    "bidprice": 3.4,
+                    "bidprice": 3.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3541,15 +3541,15 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 490
             },
             {
                 "CE": {
-                    "askPrice": 31.8,
-                    "askQty": 5400,
+                    "askPrice": 33.3,
+                    "askQty": 1800,
                     "bidQty": 1800,
                     "bidprice": 26.35,
                     "change": 0,
@@ -3563,31 +3563,31 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 495,
                     "totalBuyQuantity": 77400,
-                    "totalSellQuantity": 77400,
+                    "totalSellQuantity": 72000,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 3,
-                    "askQty": 1800,
+                    "askPrice": 2.7,
+                    "askQty": 3600,
                     "bidQty": 3600,
-                    "bidprice": 2.85,
-                    "change": -0.9000000000000004,
+                    "bidprice": 2.55,
+                    "change": -1.1,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023PE495.00",
-                    "impliedVolatility": 40.99,
-                    "lastPrice": 3.05,
+                    "impliedVolatility": 42.23,
+                    "lastPrice": 2.85,
                     "openInterest": 60,
-                    "pChange": -22.784810126582286,
+                    "pChange": -27.848101265822784,
                     "pchangeinOpenInterest": 1.694915254237288,
                     "strikePrice": 495,
-                    "totalBuyQuantity": 235800,
-                    "totalSellQuantity": 201600,
-                    "totalTradedVolume": 9,
+                    "totalBuyQuantity": 232200,
+                    "totalSellQuantity": 214200,
+                    "totalTradedVolume": 12,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 495
@@ -3597,7 +3597,7 @@
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 3600,
-                    "bidprice": 20.3,
+                    "bidprice": 18.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3608,11 +3608,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 495,
-                    "totalBuyQuantity": 50400,
+                    "totalBuyQuantity": 54000,
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3633,17 +3633,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 495
             },
             {
                 "CE": {
-                    "askPrice": 25.95,
+                    "askPrice": 26.9,
                     "askQty": 3600,
                     "bidQty": 1800,
-                    "bidprice": 24.75,
+                    "bidprice": 25.75,
                     "change": -0.3500000000000014,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3654,42 +3654,42 @@
                     "pChange": -1.4112903225806508,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 500,
-                    "totalBuyQuantity": 108000,
-                    "totalSellQuantity": 81000,
+                    "totalBuyQuantity": 104400,
+                    "totalSellQuantity": 88200,
                     "totalTradedVolume": 1,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 3.85,
-                    "askQty": 1800,
-                    "bidQty": 7200,
-                    "bidprice": 3.65,
-                    "change": -0.7999999999999998,
-                    "changeinOpenInterest": 17,
+                    "askPrice": 3.45,
+                    "askQty": 5400,
+                    "bidQty": 5400,
+                    "bidprice": 3.25,
+                    "change": -1.25,
+                    "changeinOpenInterest": 19,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023PE500.00",
-                    "impliedVolatility": 40.17,
-                    "lastPrice": 3.95,
-                    "openInterest": 148,
-                    "pChange": -16.84210526315789,
-                    "pchangeinOpenInterest": 12.977099236641221,
+                    "impliedVolatility": 42,
+                    "lastPrice": 3.5,
+                    "openInterest": 150,
+                    "pChange": -26.31578947368421,
+                    "pchangeinOpenInterest": 14.50381679389313,
                     "strikePrice": 500,
-                    "totalBuyQuantity": 261000,
-                    "totalSellQuantity": 268200,
-                    "totalTradedVolume": 61,
+                    "totalBuyQuantity": 250200,
+                    "totalSellQuantity": 279000,
+                    "totalTradedVolume": 66,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 500
             },
             {
                 "CE": {
-                    "askPrice": 51.35,
+                    "askPrice": 54.55,
                     "askQty": 3600,
-                    "bidQty": 54000,
-                    "bidprice": 15.4,
+                    "bidQty": 3600,
+                    "bidprice": 16.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3700,17 +3700,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 500,
-                    "totalBuyQuantity": 72000,
+                    "totalBuyQuantity": 77400,
                     "totalSellQuantity": 5400,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 13,
+                    "askPrice": 18,
                     "askQty": 1800,
                     "bidQty": 1800,
-                    "bidprice": 7.25,
+                    "bidprice": 6.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3722,20 +3722,20 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 500,
                     "totalBuyQuantity": 3600,
-                    "totalSellQuantity": 5400,
+                    "totalSellQuantity": 3600,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 500
             },
             {
                 "CE": {
-                    "askPrice": 25.05,
-                    "askQty": 5400,
-                    "bidQty": 3600,
-                    "bidprice": 20,
+                    "askPrice": 25.45,
+                    "askQty": 1800,
+                    "bidQty": 1800,
+                    "bidprice": 19.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3746,32 +3746,32 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 505,
-                    "totalBuyQuantity": 91800,
-                    "totalSellQuantity": 77400,
+                    "totalBuyQuantity": 97200,
+                    "totalSellQuantity": 72000,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 5.25,
+                    "askPrice": 4.5,
                     "askQty": 1800,
                     "bidQty": 1800,
-                    "bidprice": 4.6,
+                    "bidprice": 4.05,
                     "change": -0.40000000000000036,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023PE505.00",
-                    "impliedVolatility": 39.82,
+                    "impliedVolatility": 41.33,
                     "lastPrice": 5.3,
                     "openInterest": 41,
                     "pChange": -7.0175438596491295,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 505,
-                    "totalBuyQuantity": 196200,
-                    "totalSellQuantity": 133200,
+                    "totalBuyQuantity": 190800,
+                    "totalSellQuantity": 129600,
                     "totalTradedVolume": 3,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 505
@@ -3781,7 +3781,7 @@
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 3600,
-                    "bidprice": 12.8,
+                    "bidprice": 11.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3792,11 +3792,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 505,
-                    "totalBuyQuantity": 3600,
+                    "totalBuyQuantity": 57600,
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 505
@@ -3821,13 +3821,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 1800,
-                    "bidprice": 9.8,
+                    "bidprice": 8.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3838,57 +3838,57 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 510,
-                    "totalBuyQuantity": 3600,
+                    "totalBuyQuantity": 7200,
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 510
             },
             {
                 "CE": {
-                    "askPrice": 18.55,
+                    "askPrice": 18.95,
                     "askQty": 1800,
                     "bidQty": 1800,
-                    "bidprice": 17.95,
-                    "change": -0.25,
-                    "changeinOpenInterest": 3,
+                    "bidprice": 18.45,
+                    "change": 0.9499999999999993,
+                    "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023CE510.00",
-                    "impliedVolatility": 39.55,
-                    "lastPrice": 17.6,
-                    "openInterest": 31,
-                    "pChange": -1.4005602240896358,
-                    "pchangeinOpenInterest": 10.714285714285714,
+                    "impliedVolatility": 36.66,
+                    "lastPrice": 18.8,
+                    "openInterest": 30,
+                    "pChange": 5.3221288515406115,
+                    "pchangeinOpenInterest": 7.142857142857143,
                     "strikePrice": 510,
-                    "totalBuyQuantity": 163800,
-                    "totalSellQuantity": 131400,
-                    "totalTradedVolume": 21,
+                    "totalBuyQuantity": 169200,
+                    "totalSellQuantity": 142200,
+                    "totalTradedVolume": 23,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "PE": {
-                    "askPrice": 6.45,
+                    "askPrice": 5.8,
                     "askQty": 1800,
                     "bidQty": 1800,
-                    "bidprice": 6.2,
-                    "change": -1.2999999999999998,
+                    "bidprice": 5.6,
+                    "change": -1.7999999999999998,
                     "changeinOpenInterest": 8,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023PE510.00",
                     "impliedVolatility": 40.59,
-                    "lastPrice": 6.4,
+                    "lastPrice": 5.9,
                     "openInterest": 105,
-                    "pChange": -16.88311688311688,
+                    "pChange": -23.376623376623375,
                     "pchangeinOpenInterest": 8.24742268041237,
                     "strikePrice": 510,
                     "totalBuyQuantity": 295200,
-                    "totalSellQuantity": 228600,
-                    "totalTradedVolume": 36,
+                    "totalSellQuantity": 235800,
+                    "totalTradedVolume": 40,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 519.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 510
@@ -3913,13 +3913,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 5400,
-                    "bidprice": 10.45,
+                    "bidprice": 9.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3934,130 +3934,130 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 515
             },
             {
                 "CE": {
-                    "askPrice": 15.15,
+                    "askPrice": 15.5,
                     "askQty": 1800,
                     "bidQty": 3600,
-                    "bidprice": 14.85,
-                    "change": 0.20000000000000107,
-                    "changeinOpenInterest": 1,
+                    "bidprice": 14.95,
+                    "change": 1.0500000000000007,
+                    "changeinOpenInterest": 6,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023CE515.00",
-                    "impliedVolatility": 41.22,
-                    "lastPrice": 14.9,
-                    "openInterest": 34,
-                    "pChange": 1.3605442176870821,
-                    "pchangeinOpenInterest": 3.0303030303030303,
+                    "impliedVolatility": 38.48,
+                    "lastPrice": 15.75,
+                    "openInterest": 39,
+                    "pChange": 7.142857142857148,
+                    "pchangeinOpenInterest": 18.181818181818183,
                     "strikePrice": 515,
-                    "totalBuyQuantity": 135000,
-                    "totalSellQuantity": 93600,
-                    "totalTradedVolume": 10,
+                    "totalBuyQuantity": 142200,
+                    "totalSellQuantity": 95400,
+                    "totalTradedVolume": 18,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 7.9,
-                    "askQty": 1800,
+                    "askPrice": 7.4,
+                    "askQty": 5400,
                     "bidQty": 1800,
-                    "bidprice": 7.7,
-                    "change": -0.9500000000000011,
-                    "changeinOpenInterest": -1,
+                    "bidprice": 7.05,
+                    "change": -2.1500000000000004,
+                    "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023PE515.00",
                     "impliedVolatility": 39.33,
-                    "lastPrice": 8.35,
-                    "openInterest": 43,
-                    "pChange": -10.21505376344087,
-                    "pchangeinOpenInterest": -2.272727272727273,
+                    "lastPrice": 7.15,
+                    "openInterest": 47,
+                    "pChange": -23.118279569892476,
+                    "pchangeinOpenInterest": 6.818181818181818,
                     "strikePrice": 515,
-                    "totalBuyQuantity": 207000,
-                    "totalSellQuantity": 181800,
-                    "totalTradedVolume": 12,
+                    "totalBuyQuantity": 219600,
+                    "totalSellQuantity": 185400,
+                    "totalTradedVolume": 19,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 515
             },
             {
                 "CE": {
-                    "askPrice": 11.85,
+                    "askPrice": 12.15,
                     "askQty": 1800,
-                    "bidQty": 1800,
-                    "bidprice": 11.65,
-                    "change": 0.25,
-                    "changeinOpenInterest": 77,
+                    "bidQty": 3600,
+                    "bidprice": 11.9,
+                    "change": 0.40000000000000036,
+                    "changeinOpenInterest": 52,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023CE520.00",
-                    "impliedVolatility": 37.94,
-                    "lastPrice": 12,
-                    "openInterest": 341,
-                    "pChange": 2.127659574468085,
-                    "pchangeinOpenInterest": 29.166666666666668,
+                    "impliedVolatility": 37.49,
+                    "lastPrice": 12.15,
+                    "openInterest": 316,
+                    "pChange": 3.404255319148939,
+                    "pchangeinOpenInterest": 19.696969696969695,
                     "strikePrice": 520,
-                    "totalBuyQuantity": 309600,
-                    "totalSellQuantity": 349200,
-                    "totalTradedVolume": 838,
+                    "totalBuyQuantity": 324000,
+                    "totalSellQuantity": 340200,
+                    "totalTradedVolume": 945,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 9.9,
-                    "askQty": 3600,
-                    "bidQty": 3600,
-                    "bidprice": 9.55,
+                    "askPrice": 9.95,
+                    "askQty": 1800,
+                    "bidQty": 1800,
+                    "bidprice": 9.8,
                     "change": -1.5,
-                    "changeinOpenInterest": 29,
+                    "changeinOpenInterest": 19,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023PE520.00",
                     "impliedVolatility": 38.53,
                     "lastPrice": 9.7,
-                    "openInterest": 133,
+                    "openInterest": 123,
                     "pChange": -13.392857142857142,
-                    "pchangeinOpenInterest": 27.884615384615383,
+                    "pchangeinOpenInterest": 18.26923076923077,
                     "strikePrice": 520,
-                    "totalBuyQuantity": 246600,
-                    "totalSellQuantity": 232200,
-                    "totalTradedVolume": 507,
+                    "totalBuyQuantity": 248400,
+                    "totalSellQuantity": 230400,
+                    "totalTradedVolume": 537,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 520
             },
             {
                 "CE": {
-                    "askPrice": 20.85,
+                    "askPrice": 21.4,
                     "askQty": 1800,
                     "bidQty": 1800,
-                    "bidprice": 18.8,
+                    "bidprice": 19.2,
                     "change": 1.4499999999999993,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKZYDUSLIFE29-06-2023CE520.00",
-                    "impliedVolatility": 25.53,
+                    "impliedVolatility": 24.46,
                     "lastPrice": 20.45,
                     "openInterest": 14,
                     "pChange": 7.631578947368417,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 520,
-                    "totalBuyQuantity": 9000,
-                    "totalSellQuantity": 10800,
+                    "totalBuyQuantity": 18000,
+                    "totalSellQuantity": 9000,
                     "totalTradedVolume": 4,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 1800,
-                    "bidprice": 9.7,
+                    "bidprice": 13.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4068,42 +4068,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 520,
-                    "totalBuyQuantity": 1800,
+                    "totalBuyQuantity": 59400,
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 520
             },
             {
                 "CE": {
-                    "askPrice": 9.4,
+                    "askPrice": 9.5,
                     "askQty": 1800,
-                    "bidQty": 5400,
-                    "bidprice": 9.2,
-                    "change": -0.09999999999999964,
+                    "bidQty": 1800,
+                    "bidprice": 9.25,
+                    "change": -0.25,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023CE525.00",
                     "impliedVolatility": 36.3,
-                    "lastPrice": 9.35,
+                    "lastPrice": 9.2,
                     "openInterest": 96,
-                    "pChange": -1.0582010582010546,
+                    "pChange": -2.6455026455026456,
                     "pchangeinOpenInterest": 1.0526315789473684,
                     "strikePrice": 525,
-                    "totalBuyQuantity": 279000,
-                    "totalSellQuantity": 244800,
-                    "totalTradedVolume": 93,
+                    "totalBuyQuantity": 282600,
+                    "totalSellQuantity": 246600,
+                    "totalTradedVolume": 107,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 519.95
                 },
                 "PE": {
-                    "askPrice": 13.3,
+                    "askPrice": 11.8,
                     "askQty": 1800,
                     "bidQty": 1800,
-                    "bidprice": 12.25,
+                    "bidprice": 10.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4114,11 +4114,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 525,
-                    "totalBuyQuantity": 118800,
-                    "totalSellQuantity": 88200,
+                    "totalBuyQuantity": 129600,
+                    "totalSellQuantity": 100800,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 525
@@ -4143,7 +4143,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "PE": {
                     "askPrice": 0,
@@ -4164,53 +4164,53 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 525
             },
             {
                 "CE": {
-                    "askPrice": 7,
+                    "askPrice": 7.4,
                     "askQty": 1800,
-                    "bidQty": 1800,
-                    "bidprice": 6.8,
-                    "change": -0.25,
-                    "changeinOpenInterest": 69,
+                    "bidQty": 3600,
+                    "bidprice": 7.15,
+                    "change": 0,
+                    "changeinOpenInterest": 52,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023CE530.00",
-                    "impliedVolatility": 37.49,
-                    "lastPrice": 7.05,
-                    "openInterest": 375,
-                    "pChange": -3.4246575342465753,
-                    "pchangeinOpenInterest": 22.54901960784314,
+                    "impliedVolatility": 37.35,
+                    "lastPrice": 7.3,
+                    "openInterest": 358,
+                    "pChange": 0,
+                    "pchangeinOpenInterest": 16.99346405228758,
                     "strikePrice": 530,
-                    "totalBuyQuantity": 271800,
-                    "totalSellQuantity": 255600,
-                    "totalTradedVolume": 516,
+                    "totalBuyQuantity": 259200,
+                    "totalSellQuantity": 241200,
+                    "totalTradedVolume": 588,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 15.75,
-                    "askQty": 1800,
+                    "askPrice": 14.45,
+                    "askQty": 3600,
                     "bidQty": 1800,
-                    "bidprice": 15.25,
-                    "change": -0.8999999999999986,
+                    "bidprice": 13.95,
+                    "change": -1.9499999999999993,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023PE530.00",
-                    "impliedVolatility": 36.25,
-                    "lastPrice": 15.5,
+                    "impliedVolatility": 38.49,
+                    "lastPrice": 14.45,
                     "openInterest": 64,
-                    "pChange": -5.487804878048772,
+                    "pChange": -11.890243902439021,
                     "pchangeinOpenInterest": 1.5873015873015872,
                     "strikePrice": 530,
                     "totalBuyQuantity": 100800,
-                    "totalSellQuantity": 102600,
-                    "totalTradedVolume": 26,
+                    "totalSellQuantity": 106200,
+                    "totalTradedVolume": 30,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 530
@@ -4219,8 +4219,8 @@
                 "CE": {
                     "askPrice": 0,
                     "askQty": 0,
-                    "bidQty": 0,
-                    "bidprice": 0,
+                    "bidQty": 54000,
+                    "bidprice": 2.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4231,17 +4231,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 535,
-                    "totalBuyQuantity": 0,
+                    "totalBuyQuantity": 54000,
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
-                    "bidQty": 3600,
-                    "bidprice": 9.5,
+                    "bidQty": 0,
+                    "bidprice": 0,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4252,42 +4252,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 535,
-                    "totalBuyQuantity": 3600,
+                    "totalBuyQuantity": 0,
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 535
             },
             {
                 "CE": {
-                    "askPrice": 5.3,
-                    "askQty": 5400,
+                    "askPrice": 5.65,
+                    "askQty": 1800,
                     "bidQty": 3600,
-                    "bidprice": 5.1,
-                    "change": -0.6499999999999995,
-                    "changeinOpenInterest": 0,
+                    "bidprice": 5.35,
+                    "change": -0.25,
+                    "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023CE535.00",
-                    "impliedVolatility": 35.97,
-                    "lastPrice": 4.9,
-                    "openInterest": 78,
-                    "pChange": -11.711711711711704,
-                    "pchangeinOpenInterest": 0,
+                    "impliedVolatility": 35.41,
+                    "lastPrice": 5.3,
+                    "openInterest": 79,
+                    "pChange": -4.504504504504505,
+                    "pchangeinOpenInterest": 1.2820512820512822,
                     "strikePrice": 535,
-                    "totalBuyQuantity": 327600,
-                    "totalSellQuantity": 268200,
-                    "totalTradedVolume": 31,
+                    "totalBuyQuantity": 329400,
+                    "totalSellQuantity": 250200,
+                    "totalTradedVolume": 35,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "PE": {
-                    "askPrice": 19.4,
+                    "askPrice": 18.45,
                     "askQty": 1800,
                     "bidQty": 1800,
-                    "bidprice": 17.6,
+                    "bidprice": 16.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4298,67 +4298,67 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 535,
-                    "totalBuyQuantity": 77400,
-                    "totalSellQuantity": 73800,
+                    "totalBuyQuantity": 82800,
+                    "totalSellQuantity": 75600,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 535
             },
             {
                 "CE": {
-                    "askPrice": 3.95,
+                    "askPrice": 4.2,
                     "askQty": 1800,
                     "bidQty": 7200,
-                    "bidprice": 3.75,
-                    "change": -0.3500000000000001,
-                    "changeinOpenInterest": 4,
+                    "bidprice": 4.05,
+                    "change": 0.04999999999999982,
+                    "changeinOpenInterest": 6,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023CE540.00",
-                    "impliedVolatility": 37.68,
-                    "lastPrice": 3.85,
-                    "openInterest": 114,
-                    "pChange": -8.333333333333336,
-                    "pchangeinOpenInterest": 3.6363636363636362,
+                    "impliedVolatility": 36.48,
+                    "lastPrice": 4.25,
+                    "openInterest": 116,
+                    "pChange": 1.1904761904761862,
+                    "pchangeinOpenInterest": 5.454545454545454,
                     "strikePrice": 540,
-                    "totalBuyQuantity": 291600,
-                    "totalSellQuantity": 277200,
-                    "totalTradedVolume": 78,
+                    "totalBuyQuantity": 329400,
+                    "totalSellQuantity": 268200,
+                    "totalTradedVolume": 100,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "PE": {
-                    "askPrice": 23.45,
+                    "askPrice": 21.15,
                     "askQty": 1800,
                     "bidQty": 1800,
-                    "bidprice": 22.3,
-                    "change": -4.900000000000002,
-                    "changeinOpenInterest": 0,
+                    "bidprice": 20.6,
+                    "change": -5.850000000000001,
+                    "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023PE540.00",
                     "impliedVolatility": 36.42,
-                    "lastPrice": 22.45,
-                    "openInterest": 8,
-                    "pChange": -17.91590493601463,
-                    "pchangeinOpenInterest": 0,
+                    "lastPrice": 21.5,
+                    "openInterest": 6,
+                    "pChange": -21.389396709323588,
+                    "pchangeinOpenInterest": -25,
                     "strikePrice": 540,
-                    "totalBuyQuantity": 79200,
-                    "totalSellQuantity": 77400,
-                    "totalTradedVolume": 2,
+                    "totalBuyQuantity": 95400,
+                    "totalSellQuantity": 93600,
+                    "totalTradedVolume": 5,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 540
             },
             {
                 "CE": {
-                    "askPrice": 14.05,
+                    "askPrice": 15.2,
                     "askQty": 1800,
                     "bidQty": 1800,
-                    "bidprice": 7.5,
+                    "bidprice": 8.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4373,7 +4373,7 @@
                     "totalSellQuantity": 5400,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
                     "askPrice": 50.8,
@@ -4394,38 +4394,38 @@
                     "totalSellQuantity": 5400,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 540
             },
             {
                 "CE": {
-                    "askPrice": 3,
-                    "askQty": 5400,
+                    "askPrice": 3.1,
+                    "askQty": 3600,
                     "bidQty": 1800,
-                    "bidprice": 2.75,
-                    "change": -0.10000000000000009,
+                    "bidprice": 2.95,
+                    "change": -0.15000000000000036,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023CE545.00",
-                    "impliedVolatility": 37.71,
-                    "lastPrice": 3.1,
+                    "impliedVolatility": 36.44,
+                    "lastPrice": 3.05,
                     "openInterest": 50,
-                    "pChange": -3.1250000000000027,
+                    "pChange": -4.687500000000011,
                     "pchangeinOpenInterest": 2.0408163265306123,
                     "strikePrice": 545,
-                    "totalBuyQuantity": 270000,
-                    "totalSellQuantity": 217800,
-                    "totalTradedVolume": 6,
+                    "totalBuyQuantity": 282600,
+                    "totalSellQuantity": 201600,
+                    "totalTradedVolume": 10,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "PE": {
-                    "askPrice": 27.95,
-                    "askQty": 5400,
-                    "bidQty": 5400,
-                    "bidprice": 23.6,
+                    "askPrice": 26.15,
+                    "askQty": 3600,
+                    "bidQty": 1800,
+                    "bidprice": 22.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4436,11 +4436,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 545,
-                    "totalBuyQuantity": 77400,
-                    "totalSellQuantity": 81000,
+                    "totalBuyQuantity": 79200,
+                    "totalSellQuantity": 75600,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 545
@@ -4465,7 +4465,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 545
@@ -4473,52 +4473,52 @@
             {
                 "CE": {
                     "askPrice": 2.3,
-                    "askQty": 3600,
-                    "bidQty": 9000,
+                    "askQty": 5400,
+                    "bidQty": 3600,
                     "bidprice": 2.15,
-                    "change": -0.04999999999999982,
-                    "changeinOpenInterest": 1,
+                    "change": -0.09999999999999964,
+                    "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023CE550.00",
-                    "impliedVolatility": 37.59,
-                    "lastPrice": 2.25,
-                    "openInterest": 207,
-                    "pChange": -2.173913043478253,
-                    "pchangeinOpenInterest": 0.4854368932038835,
+                    "impliedVolatility": 37.31,
+                    "lastPrice": 2.2,
+                    "openInterest": 208,
+                    "pChange": -4.347826086956506,
+                    "pchangeinOpenInterest": 0.970873786407767,
                     "strikePrice": 550,
-                    "totalBuyQuantity": 210600,
+                    "totalBuyQuantity": 205200,
                     "totalSellQuantity": 235800,
-                    "totalTradedVolume": 68,
+                    "totalTradedVolume": 73,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 31.45,
-                    "askQty": 1800,
+                    "askPrice": 29.5,
+                    "askQty": 3600,
                     "bidQty": 1800,
-                    "bidprice": 30.45,
-                    "change": -1.5,
+                    "bidprice": 28.6,
+                    "change": -2.099999999999998,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023PE550.00",
                     "impliedVolatility": 36.75,
-                    "lastPrice": 30.65,
+                    "lastPrice": 30.05,
                     "openInterest": 15,
-                    "pChange": -4.665629860031104,
+                    "pChange": -6.53188180404354,
                     "pchangeinOpenInterest": -11.764705882352942,
                     "strikePrice": 550,
-                    "totalBuyQuantity": 82800,
-                    "totalSellQuantity": 81000,
-                    "totalTradedVolume": 3,
+                    "totalBuyQuantity": 91800,
+                    "totalSellQuantity": 99000,
+                    "totalTradedVolume": 5,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 550
             },
             {
                 "CE": {
-                    "askPrice": 9.75,
+                    "askPrice": 9.95,
                     "askQty": 1800,
                     "bidQty": 1800,
                     "bidprice": 7.05,
@@ -4526,23 +4526,23 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKZYDUSLIFE29-06-2023CE550.00",
-                    "impliedVolatility": 29.32,
+                    "impliedVolatility": 28.64,
                     "lastPrice": 11,
                     "openInterest": 3,
                     "pChange": 117.82178217821783,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 550,
-                    "totalBuyQuantity": 10800,
-                    "totalSellQuantity": 10800,
+                    "totalBuyQuantity": 9000,
+                    "totalSellQuantity": 7200,
                     "totalTradedVolume": 1,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 40.95,
+                    "askPrice": 56.65,
                     "askQty": 3600,
                     "bidQty": 3600,
-                    "bidprice": 17.55,
+                    "bidprice": 25.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4553,57 +4553,57 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 550,
-                    "totalBuyQuantity": 3600,
+                    "totalBuyQuantity": 5400,
                     "totalSellQuantity": 5400,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 550
             },
             {
                 "CE": {
-                    "askPrice": 1.7,
-                    "askQty": 3600,
-                    "bidQty": 12600,
+                    "askPrice": 1.65,
+                    "askQty": 1800,
+                    "bidQty": 3600,
                     "bidprice": 1.45,
                     "change": -0.34999999999999987,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023CE555.00",
-                    "impliedVolatility": 38.22,
+                    "impliedVolatility": 36.07,
                     "lastPrice": 1.35,
                     "openInterest": 30,
                     "pChange": -20.58823529411764,
                     "pchangeinOpenInterest": -3.225806451612903,
                     "strikePrice": 555,
                     "totalBuyQuantity": 68400,
-                    "totalSellQuantity": 174600,
+                    "totalSellQuantity": 178200,
                     "totalTradedVolume": 9,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 35.25,
+                    "askPrice": 33.95,
                     "askQty": 1800,
                     "bidQty": 1800,
-                    "bidprice": 34.1,
+                    "bidprice": 32.1,
                     "change": -0.05000000000000426,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023PE555.00",
-                    "impliedVolatility": 35.67,
+                    "impliedVolatility": 43.27,
                     "lastPrice": 36.05,
                     "openInterest": 4,
                     "pChange": -0.13850415512466555,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 555,
-                    "totalBuyQuantity": 73800,
+                    "totalBuyQuantity": 79200,
                     "totalSellQuantity": 75600,
                     "totalTradedVolume": 1,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 555
@@ -4628,13 +4628,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 3600,
-                    "bidprice": 22.35,
+                    "bidprice": 21.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4645,11 +4645,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 555,
-                    "totalBuyQuantity": 45000,
+                    "totalBuyQuantity": 3600,
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 555
@@ -4657,30 +4657,30 @@
             {
                 "CE": {
                     "askPrice": 1.2,
-                    "askQty": 3600,
-                    "bidQty": 7200,
-                    "bidprice": 1.05,
+                    "askQty": 12600,
+                    "bidQty": 3600,
+                    "bidprice": 1.1,
                     "change": -0.1499999999999999,
-                    "changeinOpenInterest": 1,
+                    "changeinOpenInterest": 5,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023CE560.00",
                     "impliedVolatility": 37.24,
                     "lastPrice": 1.1,
-                    "openInterest": 103,
+                    "openInterest": 107,
                     "pChange": -11.999999999999993,
-                    "pchangeinOpenInterest": 0.9803921568627451,
+                    "pchangeinOpenInterest": 4.901960784313726,
                     "strikePrice": 560,
-                    "totalBuyQuantity": 241200,
-                    "totalSellQuantity": 210600,
-                    "totalTradedVolume": 11,
+                    "totalBuyQuantity": 244800,
+                    "totalSellQuantity": 214200,
+                    "totalTradedVolume": 18,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 39.8,
-                    "askQty": 3600,
-                    "bidQty": 5400,
-                    "bidprice": 36.85,
+                    "askPrice": 38.3,
+                    "askQty": 1800,
+                    "bidQty": 1800,
+                    "bidprice": 36.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4691,11 +4691,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 560,
-                    "totalBuyQuantity": 77400,
+                    "totalBuyQuantity": 79200,
                     "totalSellQuantity": 75600,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 519.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 560
@@ -4720,7 +4720,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "PE": {
                     "askPrice": 0,
@@ -4741,38 +4741,38 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 560
             },
             {
                 "CE": {
-                    "askPrice": 1,
-                    "askQty": 5400,
-                    "bidQty": 5400,
-                    "bidprice": 0.8,
+                    "askPrice": 0.95,
+                    "askQty": 3600,
+                    "bidQty": 9000,
+                    "bidprice": 0.85,
                     "change": 0,
-                    "changeinOpenInterest": -1,
+                    "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023CE565.00",
-                    "impliedVolatility": 40.16,
+                    "impliedVolatility": 38.18,
                     "lastPrice": 0.95,
-                    "openInterest": 50,
+                    "openInterest": 49,
                     "pChange": 0,
-                    "pchangeinOpenInterest": -1.9607843137254901,
+                    "pchangeinOpenInterest": -3.9215686274509802,
                     "strikePrice": 565,
-                    "totalBuyQuantity": 223200,
-                    "totalSellQuantity": 147600,
-                    "totalTradedVolume": 10,
+                    "totalBuyQuantity": 235800,
+                    "totalSellQuantity": 149400,
+                    "totalTradedVolume": 17,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "PE": {
-                    "askPrice": 46.9,
+                    "askPrice": 44.65,
                     "askQty": 1800,
                     "bidQty": 1800,
-                    "bidprice": 40.85,
+                    "bidprice": 40.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4784,10 +4784,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 565,
                     "totalBuyQuantity": 72000,
-                    "totalSellQuantity": 75600,
+                    "totalSellQuantity": 73800,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 565
@@ -4812,13 +4812,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 3600,
-                    "bidprice": 33.45,
+                    "bidprice": 30.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4833,7 +4833,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 519.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 565
@@ -4841,8 +4841,8 @@
             {
                 "CE": {
                     "askPrice": 0.8,
-                    "askQty": 5400,
-                    "bidQty": 3600,
+                    "askQty": 3600,
+                    "bidQty": 5400,
                     "bidprice": 0.7,
                     "change": 0,
                     "changeinOpenInterest": 4,
@@ -4854,17 +4854,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 5.2631578947368425,
                     "strikePrice": 570,
-                    "totalBuyQuantity": 176400,
-                    "totalSellQuantity": 113400,
+                    "totalBuyQuantity": 174600,
+                    "totalSellQuantity": 111600,
                     "totalTradedVolume": 12,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 50.75,
-                    "askQty": 1800,
+                    "askPrice": 51.7,
+                    "askQty": 5400,
                     "bidQty": 1800,
-                    "bidprice": 45.7,
+                    "bidprice": 44.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4876,10 +4876,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 570,
                     "totalBuyQuantity": 72000,
-                    "totalSellQuantity": 72000,
+                    "totalSellQuantity": 77400,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 570
@@ -4904,13 +4904,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 3600,
-                    "bidprice": 38.35,
+                    "bidprice": 32.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4925,7 +4925,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 570
@@ -4950,13 +4950,13 @@
                     "totalSellQuantity": 54000,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 59.95,
+                    "askPrice": 58.85,
                     "askQty": 5400,
-                    "bidQty": 5400,
-                    "bidprice": 50.9,
+                    "bidQty": 10800,
+                    "bidprice": 48.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4967,11 +4967,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 575,
-                    "totalBuyQuantity": 70200,
+                    "totalBuyQuantity": 64800,
                     "totalSellQuantity": 70200,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 575
@@ -4996,7 +4996,7 @@
                     "totalSellQuantity": 1800,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 519.95
                 },
                 "PE": {
                     "askPrice": 79.35,
@@ -5017,32 +5017,32 @@
                     "totalSellQuantity": 3600,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 575
             },
             {
                 "CE": {
-                    "askPrice": 0.55,
-                    "askQty": 14400,
-                    "bidQty": 14400,
-                    "bidprice": 0.35,
+                    "askPrice": 0.6,
+                    "askQty": 7200,
+                    "bidQty": 3600,
+                    "bidprice": 0.45,
                     "change": 0.10000000000000003,
-                    "changeinOpenInterest": 0,
+                    "changeinOpenInterest": 8,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKZYDUSLIFE25-05-2023CE580.00",
-                    "impliedVolatility": 42.47,
+                    "impliedVolatility": 44.13,
                     "lastPrice": 0.55,
-                    "openInterest": 71,
+                    "openInterest": 79,
                     "pChange": 22.22222222222223,
-                    "pchangeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 11.267605633802816,
                     "strikePrice": 580,
-                    "totalBuyQuantity": 144000,
-                    "totalSellQuantity": 41400,
-                    "totalTradedVolume": 12,
+                    "totalBuyQuantity": 149400,
+                    "totalSellQuantity": 46800,
+                    "totalTradedVolume": 15,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
                     "askPrice": 64,
@@ -5063,7 +5063,7 @@
                     "totalSellQuantity": 70200,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 519.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 580
@@ -5088,7 +5088,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
                     "askPrice": 85.2,
@@ -5109,7 +5109,7 @@
                     "totalSellQuantity": 3600,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 580
@@ -5134,13 +5134,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "PE": {
-                    "askPrice": 72.5,
-                    "askQty": 5400,
+                    "askPrice": 71.45,
+                    "askQty": 54000,
                     "bidQty": 5400,
-                    "bidprice": 57.25,
+                    "bidprice": 42.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5152,10 +5152,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 585,
                     "totalBuyQuantity": 59400,
-                    "totalSellQuantity": 59400,
+                    "totalSellQuantity": 54000,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 519.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 585
@@ -5180,13 +5180,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "PE": {
                     "askPrice": 91.15,
                     "askQty": 3600,
                     "bidQty": 3600,
-                    "bidprice": 48.5,
+                    "bidprice": 50.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -5201,7 +5201,7 @@
                     "totalSellQuantity": 3600,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 585
@@ -5226,13 +5226,13 @@
                     "totalSellQuantity": 55800,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 74.6,
+                    "askPrice": 73.35,
                     "askQty": 5400,
                     "bidQty": 5400,
-                    "bidprice": 65.7,
+                    "bidprice": 63.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5247,7 +5247,7 @@
                     "totalSellQuantity": 70200,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 590
@@ -5272,13 +5272,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
                     "askPrice": 97.2,
                     "askQty": 3600,
                     "bidQty": 3600,
-                    "bidprice": 54.05,
+                    "bidprice": 55.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -5293,7 +5293,7 @@
                     "totalSellQuantity": 3600,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 590
@@ -5318,13 +5318,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "PE": {
-                    "askPrice": 82.75,
+                    "askPrice": 81.95,
                     "askQty": 5400,
                     "bidQty": 5400,
-                    "bidprice": 67.25,
+                    "bidprice": 47.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5339,7 +5339,7 @@
                     "totalSellQuantity": 59400,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 595
@@ -5364,7 +5364,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "PE": {
                     "askPrice": 103.1,
@@ -5385,7 +5385,7 @@
                     "totalSellQuantity": 3600,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 521.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 595
@@ -5410,13 +5410,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.1
+                    "underlyingValue": 521.4
                 },
                 "PE": {
-                    "askPrice": 88.55,
+                    "askPrice": 88.15,
                     "askQty": 5400,
                     "bidQty": 5400,
-                    "bidprice": 72.3,
+                    "bidprice": 65.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5431,7 +5431,7 @@
                     "totalSellQuantity": 59400,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 600
@@ -5456,7 +5456,7 @@
                     "totalSellQuantity": 1800,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "PE": {
                     "askPrice": 108.1,
@@ -5477,7 +5477,7 @@
                     "totalSellQuantity": 5400,
                     "totalTradedVolume": 0,
                     "underlying": "ZYDUSLIFE",
-                    "underlyingValue": 520.35
+                    "underlyingValue": 519.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 600
@@ -5532,7 +5532,7 @@
             595,
             600
         ],
-        "timestamp": "18-May-2023 10:19:49",
-        "underlyingValue": 520.1
+        "timestamp": "18-May-2023 10:24:15",
+        "underlyingValue": 521.4
     }
 }

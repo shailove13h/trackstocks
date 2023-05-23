@@ -2,11 +2,11 @@
     "filtered": {
         "CE": {
             "totOI": 5746,
-            "totVol": 138
+            "totVol": 150
         },
         "PE": {
             "totOI": 1729,
-            "totVol": 3
+            "totVol": 4
         },
         "data": [
             {
@@ -29,7 +29,7 @@
                     "totalSellQuantity": 4800,
                     "totalTradedVolume": 0,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 340
@@ -54,7 +54,7 @@
                     "totalSellQuantity": 16000,
                     "totalTradedVolume": 0,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 350
@@ -69,7 +69,7 @@
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKBALRAMCHIN25-05-2023PE360.00",
-                    "impliedVolatility": 34.74,
+                    "impliedVolatility": 34.58,
                     "lastPrice": 1,
                     "openInterest": 203,
                     "pChange": -9.090909090909099,
@@ -79,7 +79,7 @@
                     "totalSellQuantity": 27200,
                     "totalTradedVolume": 2,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.5
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 360
@@ -104,7 +104,7 @@
                     "totalSellQuantity": 1600,
                     "totalTradedVolume": 0,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 365
@@ -129,10 +129,10 @@
                     "totalSellQuantity": 4800,
                     "totalTradedVolume": 1,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "PE": {
-                    "askPrice": 2.95,
+                    "askPrice": 3,
                     "askQty": 1600,
                     "bidQty": 4800,
                     "bidprice": 1.75,
@@ -147,10 +147,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 370,
                     "totalBuyQuantity": 59200,
-                    "totalSellQuantity": 25600,
+                    "totalSellQuantity": 24000,
                     "totalTradedVolume": 0,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 370
@@ -165,7 +165,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKBALRAMCHIN25-05-2023CE375.00",
-                    "impliedVolatility": 34.13,
+                    "impliedVolatility": 34.63,
                     "lastPrice": 10.75,
                     "openInterest": 13,
                     "pChange": 13.157894736842104,
@@ -175,7 +175,7 @@
                     "totalSellQuantity": 4800,
                     "totalTradedVolume": 1,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.5
+                    "underlyingValue": 380.35
                 },
                 "PE": {
                     "askPrice": 5.55,
@@ -196,22 +196,22 @@
                     "totalSellQuantity": 12800,
                     "totalTradedVolume": 0,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.5
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 375
             },
             {
                 "CE": {
-                    "askPrice": 8.65,
+                    "askPrice": 8.75,
                     "askQty": 1600,
                     "bidQty": 1600,
-                    "bidprice": 4.65,
+                    "bidprice": 4.2,
                     "change": -1,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKBALRAMCHIN25-05-2023CE380.00",
-                    "impliedVolatility": 27.08,
+                    "impliedVolatility": 27.47,
                     "lastPrice": 6.4,
                     "openInterest": 210,
                     "pChange": -13.513513513513512,
@@ -221,35 +221,35 @@
                     "totalSellQuantity": 72000,
                     "totalTradedVolume": 1,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.5
+                    "underlyingValue": 380.35
                 },
                 "PE": {
                     "askPrice": 5.5,
                     "askQty": 3200,
                     "bidQty": 1600,
-                    "bidprice": 4.55,
-                    "change": 0,
+                    "bidprice": 4.5,
+                    "change": -0.9500000000000002,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKBALRAMCHIN25-05-2023PE380.00",
                     "impliedVolatility": 0,
-                    "lastPrice": 0,
+                    "lastPrice": 4.55,
                     "openInterest": 259,
-                    "pChange": 0,
+                    "pChange": -17.272727272727277,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 380,
-                    "totalBuyQuantity": 14400,
-                    "totalSellQuantity": 32000,
-                    "totalTradedVolume": 0,
+                    "totalBuyQuantity": 19200,
+                    "totalSellQuantity": 41600,
+                    "totalTradedVolume": 1,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 380
             },
             {
                 "CE": {
-                    "askPrice": 7,
+                    "askPrice": 5.05,
                     "askQty": 3200,
                     "bidQty": 3200,
                     "bidprice": 4.85,
@@ -263,11 +263,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 385,
-                    "totalBuyQuantity": 19200,
-                    "totalSellQuantity": 43200,
+                    "totalBuyQuantity": 25600,
+                    "totalSellQuantity": 52800,
                     "totalTradedVolume": 0,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "PE": {
                     "askPrice": 13.95,
@@ -288,14 +288,14 @@
                     "totalSellQuantity": 25600,
                     "totalTradedVolume": 0,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 385
             },
             {
                 "CE": {
-                    "askPrice": 5.7,
+                    "askPrice": 4.95,
                     "askQty": 1600,
                     "bidQty": 1600,
                     "bidprice": 4.05,
@@ -310,10 +310,10 @@
                     "pchangeinOpenInterest": -8.365019011406844,
                     "strikePrice": 390,
                     "totalBuyQuantity": 8000,
-                    "totalSellQuantity": 91200,
+                    "totalSellQuantity": 99200,
                     "totalTradedVolume": 24,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "PE": {
                     "askPrice": 16,
@@ -334,7 +334,7 @@
                     "totalSellQuantity": 6400,
                     "totalTradedVolume": 0,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 390
@@ -349,7 +349,7 @@
                     "changeinOpenInterest": -11,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKBALRAMCHIN25-05-2023CE395.00",
-                    "impliedVolatility": 34.54,
+                    "impliedVolatility": 34.76,
                     "lastPrice": 2.5,
                     "openInterest": 132,
                     "pChange": 4.1666666666666705,
@@ -359,7 +359,7 @@
                     "totalSellQuantity": 4800,
                     "totalTradedVolume": 14,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.5
+                    "underlyingValue": 380.35
                 },
                 "PE": {
                     "askPrice": 0,
@@ -380,7 +380,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 395
@@ -402,16 +402,16 @@
                     "pchangeinOpenInterest": -0.7898894154818326,
                     "strikePrice": 400,
                     "totalBuyQuantity": 128000,
-                    "totalSellQuantity": 176000,
+                    "totalSellQuantity": 177600,
                     "totalTradedVolume": 7,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "PE": {
                     "askPrice": 23.85,
                     "askQty": 1600,
                     "bidQty": 3200,
-                    "bidprice": 19.55,
+                    "bidprice": 19.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -426,7 +426,7 @@
                     "totalSellQuantity": 6400,
                     "totalTradedVolume": 0,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 400
@@ -451,10 +451,10 @@
                     "totalSellQuantity": 16000,
                     "totalTradedVolume": 0,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.5
+                    "underlyingValue": 380.35
                 },
                 "PE": {
-                    "askPrice": 25.8,
+                    "askPrice": 25.7,
                     "askQty": 1600,
                     "bidQty": 4800,
                     "bidprice": 11,
@@ -472,15 +472,15 @@
                     "totalSellQuantity": 3200,
                     "totalTradedVolume": 0,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.5
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 405
             },
             {
                 "CE": {
-                    "askPrice": 1.5,
-                    "askQty": 3200,
+                    "askPrice": 1.4,
+                    "askQty": 1600,
                     "bidQty": 4800,
                     "bidprice": 1.2,
                     "change": 0,
@@ -493,11 +493,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": -1.4539579967689822,
                     "strikePrice": 410,
-                    "totalBuyQuantity": 108800,
-                    "totalSellQuantity": 150400,
+                    "totalBuyQuantity": 115200,
+                    "totalSellQuantity": 158400,
                     "totalTradedVolume": 12,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "PE": {
                     "askPrice": 0,
@@ -508,7 +508,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKBALRAMCHIN25-05-2023PE410.00",
-                    "impliedVolatility": 32.99,
+                    "impliedVolatility": 30.44,
                     "lastPrice": 29,
                     "openInterest": 164,
                     "pChange": -7.936507936507936,
@@ -518,7 +518,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 1,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.5
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 410
@@ -543,7 +543,7 @@
                     "totalSellQuantity": 62400,
                     "totalTradedVolume": 0,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 415
@@ -551,9 +551,9 @@
             {
                 "CE": {
                     "askPrice": 0.8,
-                    "askQty": 6400,
-                    "bidQty": 14400,
-                    "bidprice": 0.65,
+                    "askQty": 16000,
+                    "bidQty": 3200,
+                    "bidprice": 0.7,
                     "change": -0.050000000000000044,
                     "changeinOpenInterest": -20,
                     "expiryDate": "25-May-2023",
@@ -564,11 +564,11 @@
                     "pChange": -6.666666666666672,
                     "pchangeinOpenInterest": -1.8639328984156571,
                     "strikePrice": 420,
-                    "totalBuyQuantity": 118400,
-                    "totalSellQuantity": 137600,
+                    "totalBuyQuantity": 121600,
+                    "totalSellQuantity": 144000,
                     "totalTradedVolume": 21,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "PE": {
                     "askPrice": 43,
@@ -589,7 +589,7 @@
                     "totalSellQuantity": 1600,
                     "totalTradedVolume": 0,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 420
@@ -598,8 +598,8 @@
                 "CE": {
                     "askPrice": 0.75,
                     "askQty": 1600,
-                    "bidQty": 3200,
-                    "bidprice": 0.45,
+                    "bidQty": 1600,
+                    "bidprice": 0.5,
                     "change": -0.9999999999999999,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -614,38 +614,38 @@
                     "totalSellQuantity": 19200,
                     "totalTradedVolume": 3,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 425
             },
             {
                 "CE": {
-                    "askPrice": 0.55,
+                    "askPrice": 0.65,
                     "askQty": 1600,
-                    "bidQty": 22400,
-                    "bidprice": 0.4,
-                    "change": -0.14999999999999997,
+                    "bidQty": 6400,
+                    "bidprice": 0.55,
+                    "change": 0,
                     "changeinOpenInterest": -30,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKBALRAMCHIN25-05-2023CE430.00",
-                    "impliedVolatility": 49.55,
-                    "lastPrice": 0.45,
+                    "impliedVolatility": 49.68,
+                    "lastPrice": 0.6,
                     "openInterest": 756,
-                    "pChange": -24.999999999999993,
+                    "pChange": 0,
                     "pchangeinOpenInterest": -3.816793893129771,
                     "strikePrice": 430,
-                    "totalBuyQuantity": 78400,
-                    "totalSellQuantity": 96000,
-                    "totalTradedVolume": 36,
+                    "totalBuyQuantity": 86400,
+                    "totalSellQuantity": 88000,
+                    "totalTradedVolume": 47,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.5
+                    "underlyingValue": 380.35
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
-                    "bidQty": 1600,
-                    "bidprice": 20,
+                    "bidQty": 0,
+                    "bidprice": 0,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -656,19 +656,19 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 430,
-                    "totalBuyQuantity": 1600,
+                    "totalBuyQuantity": 0,
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 430
             },
             {
                 "CE": {
-                    "askPrice": 0.35,
-                    "askQty": 1600,
+                    "askPrice": 0.5,
+                    "askQty": 6400,
                     "bidQty": 4800,
                     "bidprice": 0.05,
                     "change": -0.30000000000000004,
@@ -682,10 +682,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 435,
                     "totalBuyQuantity": 4800,
-                    "totalSellQuantity": 11200,
-                    "totalTradedVolume": 1,
+                    "totalSellQuantity": 8000,
+                    "totalTradedVolume": 2,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 435
@@ -710,7 +710,7 @@
                     "totalSellQuantity": 14400,
                     "totalTradedVolume": 15,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 440
@@ -735,7 +735,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 445
@@ -750,7 +750,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKBALRAMCHIN25-05-2023CE450.00",
-                    "impliedVolatility": 58.37,
+                    "impliedVolatility": 58.49,
                     "lastPrice": 0.25,
                     "openInterest": 347,
                     "pChange": -44.44444444444445,
@@ -760,7 +760,7 @@
                     "totalSellQuantity": 60800,
                     "totalTradedVolume": 1,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.5
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 450
@@ -775,7 +775,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKBALRAMCHIN25-05-2023CE460.00",
-                    "impliedVolatility": 64.79,
+                    "impliedVolatility": 64.91,
                     "lastPrice": 0.25,
                     "openInterest": 258,
                     "pChange": -37.50000000000001,
@@ -785,7 +785,7 @@
                     "totalSellQuantity": 17600,
                     "totalTradedVolume": 1,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.5
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 460
@@ -810,7 +810,7 @@
                     "totalSellQuantity": 32000,
                     "totalTradedVolume": 0,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 470
@@ -835,7 +835,7 @@
                     "totalSellQuantity": 14400,
                     "totalTradedVolume": 0,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.5
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 480
@@ -864,7 +864,7 @@
                     "totalSellQuantity": 4800,
                     "totalTradedVolume": 0,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 340
@@ -873,8 +873,8 @@
                 "PE": {
                     "askPrice": 7.85,
                     "askQty": 1600,
-                    "bidQty": 0,
-                    "bidprice": 0,
+                    "bidQty": 1600,
+                    "bidprice": 0.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -885,11 +885,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 340,
-                    "totalBuyQuantity": 0,
+                    "totalBuyQuantity": 1600,
                     "totalSellQuantity": 1600,
                     "totalTradedVolume": 0,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.5
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 340
@@ -914,7 +914,7 @@
                     "totalSellQuantity": 16000,
                     "totalTradedVolume": 0,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 350
@@ -929,7 +929,7 @@
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKBALRAMCHIN25-05-2023PE360.00",
-                    "impliedVolatility": 34.74,
+                    "impliedVolatility": 34.58,
                     "lastPrice": 1,
                     "openInterest": 203,
                     "pChange": -9.090909090909099,
@@ -939,7 +939,7 @@
                     "totalSellQuantity": 27200,
                     "totalTradedVolume": 2,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.5
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 360
@@ -964,7 +964,7 @@
                     "totalSellQuantity": 1600,
                     "totalTradedVolume": 0,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 365
@@ -989,10 +989,10 @@
                     "totalSellQuantity": 4800,
                     "totalTradedVolume": 1,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "PE": {
-                    "askPrice": 2.95,
+                    "askPrice": 3,
                     "askQty": 1600,
                     "bidQty": 4800,
                     "bidprice": 1.75,
@@ -1007,10 +1007,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 370,
                     "totalBuyQuantity": 59200,
-                    "totalSellQuantity": 25600,
+                    "totalSellQuantity": 24000,
                     "totalTradedVolume": 0,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 370
@@ -1025,7 +1025,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKBALRAMCHIN25-05-2023CE375.00",
-                    "impliedVolatility": 34.13,
+                    "impliedVolatility": 34.63,
                     "lastPrice": 10.75,
                     "openInterest": 13,
                     "pChange": 13.157894736842104,
@@ -1035,7 +1035,7 @@
                     "totalSellQuantity": 4800,
                     "totalTradedVolume": 1,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.5
+                    "underlyingValue": 380.35
                 },
                 "PE": {
                     "askPrice": 5.55,
@@ -1056,7 +1056,7 @@
                     "totalSellQuantity": 12800,
                     "totalTradedVolume": 0,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.5
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 375
@@ -1081,22 +1081,22 @@
                     "totalSellQuantity": 1600,
                     "totalTradedVolume": 0,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.5
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 380
             },
             {
                 "CE": {
-                    "askPrice": 8.65,
+                    "askPrice": 8.75,
                     "askQty": 1600,
                     "bidQty": 1600,
-                    "bidprice": 4.65,
+                    "bidprice": 4.2,
                     "change": -1,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKBALRAMCHIN25-05-2023CE380.00",
-                    "impliedVolatility": 27.08,
+                    "impliedVolatility": 27.47,
                     "lastPrice": 6.4,
                     "openInterest": 210,
                     "pChange": -13.513513513513512,
@@ -1106,35 +1106,35 @@
                     "totalSellQuantity": 72000,
                     "totalTradedVolume": 1,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.5
+                    "underlyingValue": 380.35
                 },
                 "PE": {
                     "askPrice": 5.5,
                     "askQty": 3200,
                     "bidQty": 1600,
-                    "bidprice": 4.55,
-                    "change": 0,
+                    "bidprice": 4.5,
+                    "change": -0.9500000000000002,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKBALRAMCHIN25-05-2023PE380.00",
                     "impliedVolatility": 0,
-                    "lastPrice": 0,
+                    "lastPrice": 4.55,
                     "openInterest": 259,
-                    "pChange": 0,
+                    "pChange": -17.272727272727277,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 380,
-                    "totalBuyQuantity": 14400,
-                    "totalSellQuantity": 32000,
-                    "totalTradedVolume": 0,
+                    "totalBuyQuantity": 19200,
+                    "totalSellQuantity": 41600,
+                    "totalTradedVolume": 1,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 380
             },
             {
                 "CE": {
-                    "askPrice": 7,
+                    "askPrice": 5.05,
                     "askQty": 3200,
                     "bidQty": 3200,
                     "bidprice": 4.85,
@@ -1148,11 +1148,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 385,
-                    "totalBuyQuantity": 19200,
-                    "totalSellQuantity": 43200,
+                    "totalBuyQuantity": 25600,
+                    "totalSellQuantity": 52800,
                     "totalTradedVolume": 0,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "PE": {
                     "askPrice": 13.95,
@@ -1173,14 +1173,14 @@
                     "totalSellQuantity": 25600,
                     "totalTradedVolume": 0,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 385
             },
             {
                 "CE": {
-                    "askPrice": 5.7,
+                    "askPrice": 4.95,
                     "askQty": 1600,
                     "bidQty": 1600,
                     "bidprice": 4.05,
@@ -1195,10 +1195,10 @@
                     "pchangeinOpenInterest": -8.365019011406844,
                     "strikePrice": 390,
                     "totalBuyQuantity": 8000,
-                    "totalSellQuantity": 91200,
+                    "totalSellQuantity": 99200,
                     "totalTradedVolume": 24,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "PE": {
                     "askPrice": 16,
@@ -1219,7 +1219,7 @@
                     "totalSellQuantity": 6400,
                     "totalTradedVolume": 0,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 390
@@ -1234,7 +1234,7 @@
                     "changeinOpenInterest": -11,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKBALRAMCHIN25-05-2023CE395.00",
-                    "impliedVolatility": 34.54,
+                    "impliedVolatility": 34.76,
                     "lastPrice": 2.5,
                     "openInterest": 132,
                     "pChange": 4.1666666666666705,
@@ -1244,7 +1244,7 @@
                     "totalSellQuantity": 4800,
                     "totalTradedVolume": 14,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.5
+                    "underlyingValue": 380.35
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1265,7 +1265,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 395
@@ -1287,16 +1287,16 @@
                     "pchangeinOpenInterest": -0.7898894154818326,
                     "strikePrice": 400,
                     "totalBuyQuantity": 128000,
-                    "totalSellQuantity": 176000,
+                    "totalSellQuantity": 177600,
                     "totalTradedVolume": 7,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "PE": {
                     "askPrice": 23.85,
                     "askQty": 1600,
                     "bidQty": 3200,
-                    "bidprice": 19.55,
+                    "bidprice": 19.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1311,15 +1311,15 @@
                     "totalSellQuantity": 6400,
                     "totalTradedVolume": 0,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 400
             },
             {
                 "CE": {
-                    "askPrice": 10,
-                    "askQty": 3200,
+                    "askPrice": 9,
+                    "askQty": 1600,
                     "bidQty": 4800,
                     "bidprice": 5,
                     "change": 0,
@@ -1333,10 +1333,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 400,
                     "totalBuyQuantity": 9600,
-                    "totalSellQuantity": 6400,
+                    "totalSellQuantity": 8000,
                     "totalTradedVolume": 0,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 400
@@ -1361,10 +1361,10 @@
                     "totalSellQuantity": 16000,
                     "totalTradedVolume": 0,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.5
+                    "underlyingValue": 380.35
                 },
                 "PE": {
-                    "askPrice": 25.8,
+                    "askPrice": 25.7,
                     "askQty": 1600,
                     "bidQty": 4800,
                     "bidprice": 11,
@@ -1382,15 +1382,15 @@
                     "totalSellQuantity": 3200,
                     "totalTradedVolume": 0,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.5
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 405
             },
             {
                 "CE": {
-                    "askPrice": 1.5,
-                    "askQty": 3200,
+                    "askPrice": 1.4,
+                    "askQty": 1600,
                     "bidQty": 4800,
                     "bidprice": 1.2,
                     "change": 0,
@@ -1403,11 +1403,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": -1.4539579967689822,
                     "strikePrice": 410,
-                    "totalBuyQuantity": 108800,
-                    "totalSellQuantity": 150400,
+                    "totalBuyQuantity": 115200,
+                    "totalSellQuantity": 158400,
                     "totalTradedVolume": 12,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1418,7 +1418,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKBALRAMCHIN25-05-2023PE410.00",
-                    "impliedVolatility": 32.99,
+                    "impliedVolatility": 30.44,
                     "lastPrice": 29,
                     "openInterest": 164,
                     "pChange": -7.936507936507936,
@@ -1428,7 +1428,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 1,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.5
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 410
@@ -1453,7 +1453,7 @@
                     "totalSellQuantity": 62400,
                     "totalTradedVolume": 0,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 415
@@ -1461,9 +1461,9 @@
             {
                 "CE": {
                     "askPrice": 0.8,
-                    "askQty": 6400,
-                    "bidQty": 14400,
-                    "bidprice": 0.65,
+                    "askQty": 16000,
+                    "bidQty": 3200,
+                    "bidprice": 0.7,
                     "change": -0.050000000000000044,
                     "changeinOpenInterest": -20,
                     "expiryDate": "25-May-2023",
@@ -1474,11 +1474,11 @@
                     "pChange": -6.666666666666672,
                     "pchangeinOpenInterest": -1.8639328984156571,
                     "strikePrice": 420,
-                    "totalBuyQuantity": 118400,
-                    "totalSellQuantity": 137600,
+                    "totalBuyQuantity": 121600,
+                    "totalSellQuantity": 144000,
                     "totalTradedVolume": 21,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "PE": {
                     "askPrice": 43,
@@ -1499,7 +1499,7 @@
                     "totalSellQuantity": 1600,
                     "totalTradedVolume": 0,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 420
@@ -1524,7 +1524,7 @@
                     "totalSellQuantity": 1600,
                     "totalTradedVolume": 0,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 420
@@ -1533,8 +1533,8 @@
                 "CE": {
                     "askPrice": 0.75,
                     "askQty": 1600,
-                    "bidQty": 3200,
-                    "bidprice": 0.45,
+                    "bidQty": 1600,
+                    "bidprice": 0.5,
                     "change": -0.9999999999999999,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1549,38 +1549,38 @@
                     "totalSellQuantity": 19200,
                     "totalTradedVolume": 3,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 425
             },
             {
                 "CE": {
-                    "askPrice": 0.55,
+                    "askPrice": 0.65,
                     "askQty": 1600,
-                    "bidQty": 22400,
-                    "bidprice": 0.4,
-                    "change": -0.14999999999999997,
+                    "bidQty": 6400,
+                    "bidprice": 0.55,
+                    "change": 0,
                     "changeinOpenInterest": -30,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKBALRAMCHIN25-05-2023CE430.00",
-                    "impliedVolatility": 49.55,
-                    "lastPrice": 0.45,
+                    "impliedVolatility": 49.68,
+                    "lastPrice": 0.6,
                     "openInterest": 756,
-                    "pChange": -24.999999999999993,
+                    "pChange": 0,
                     "pchangeinOpenInterest": -3.816793893129771,
                     "strikePrice": 430,
-                    "totalBuyQuantity": 78400,
-                    "totalSellQuantity": 96000,
-                    "totalTradedVolume": 36,
+                    "totalBuyQuantity": 86400,
+                    "totalSellQuantity": 88000,
+                    "totalTradedVolume": 47,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.5
+                    "underlyingValue": 380.35
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
-                    "bidQty": 1600,
-                    "bidprice": 20,
+                    "bidQty": 0,
+                    "bidprice": 0,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1591,19 +1591,19 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 430,
-                    "totalBuyQuantity": 1600,
+                    "totalBuyQuantity": 0,
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 430
             },
             {
                 "CE": {
-                    "askPrice": 0.35,
-                    "askQty": 1600,
+                    "askPrice": 0.5,
+                    "askQty": 6400,
                     "bidQty": 4800,
                     "bidprice": 0.05,
                     "change": -0.30000000000000004,
@@ -1617,10 +1617,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 435,
                     "totalBuyQuantity": 4800,
-                    "totalSellQuantity": 11200,
-                    "totalTradedVolume": 1,
+                    "totalSellQuantity": 8000,
+                    "totalTradedVolume": 2,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 435
@@ -1645,7 +1645,7 @@
                     "totalSellQuantity": 14400,
                     "totalTradedVolume": 15,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 440
@@ -1670,7 +1670,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 445
@@ -1685,7 +1685,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKBALRAMCHIN25-05-2023CE450.00",
-                    "impliedVolatility": 58.37,
+                    "impliedVolatility": 58.49,
                     "lastPrice": 0.25,
                     "openInterest": 347,
                     "pChange": -44.44444444444445,
@@ -1695,7 +1695,7 @@
                     "totalSellQuantity": 60800,
                     "totalTradedVolume": 1,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.5
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 450
@@ -1710,7 +1710,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKBALRAMCHIN25-05-2023CE460.00",
-                    "impliedVolatility": 64.79,
+                    "impliedVolatility": 64.91,
                     "lastPrice": 0.25,
                     "openInterest": 258,
                     "pChange": -37.50000000000001,
@@ -1720,7 +1720,7 @@
                     "totalSellQuantity": 17600,
                     "totalTradedVolume": 1,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.5
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 460
@@ -1745,7 +1745,7 @@
                     "totalSellQuantity": 32000,
                     "totalTradedVolume": 0,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.55
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 470
@@ -1770,7 +1770,7 @@
                     "totalSellQuantity": 14400,
                     "totalTradedVolume": 0,
                     "underlying": "BALRAMCHIN",
-                    "underlyingValue": 380.5
+                    "underlyingValue": 380.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 480
@@ -1806,7 +1806,7 @@
             470,
             480
         ],
-        "timestamp": "18-May-2023 10:19:49",
-        "underlyingValue": 380.55
+        "timestamp": "18-May-2023 10:25:46",
+        "underlyingValue": 380.35
     }
 }

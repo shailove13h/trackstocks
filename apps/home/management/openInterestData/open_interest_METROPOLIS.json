@@ -1,20 +1,20 @@
 {
     "filtered": {
         "CE": {
-            "totOI": 2913,
-            "totVol": 2773
+            "totOI": 2901,
+            "totVol": 2833
         },
         "PE": {
-            "totOI": 1124,
-            "totVol": 2121
+            "totOI": 1105,
+            "totVol": 2155
         },
         "data": [
             {
                 "CE": {
                     "askPrice": 272.35,
                     "askQty": 1200,
-                    "bidQty": 2400,
-                    "bidprice": 254,
+                    "bidQty": 1200,
+                    "bidprice": 254.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -25,17 +25,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1000,
-                    "totalBuyQuantity": 22400,
+                    "totalBuyQuantity": 23600,
                     "totalSellQuantity": 23600,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
-                    "askPrice": 0,
-                    "askQty": 0,
+                    "askPrice": 2.8,
+                    "askQty": 20000,
                     "bidQty": 8800,
-                    "bidprice": 0.1,
+                    "bidprice": 0.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -46,21 +46,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1000,
-                    "totalBuyQuantity": 8800,
-                    "totalSellQuantity": 0,
+                    "totalBuyQuantity": 22400,
+                    "totalSellQuantity": 20000,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1000
             },
             {
                 "CE": {
-                    "askPrice": 280.05,
+                    "askPrice": 271.65,
                     "askQty": 1200,
                     "bidQty": 1200,
-                    "bidprice": 160.3,
+                    "bidprice": 168,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -75,7 +75,7 @@
                     "totalSellQuantity": 21200,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1020
@@ -100,7 +100,7 @@
                     "totalSellQuantity": 23600,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
                     "askPrice": 2.05,
@@ -121,17 +121,17 @@
                     "totalSellQuantity": 20000,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1040
             },
             {
                 "CE": {
-                    "askPrice": 223.1,
+                    "askPrice": 222.1,
                     "askQty": 1200,
                     "bidQty": 1200,
-                    "bidprice": 134.55,
+                    "bidprice": 143.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -146,17 +146,17 @@
                     "totalSellQuantity": 21200,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1060
             },
             {
                 "CE": {
-                    "askPrice": 202.15,
+                    "askPrice": 202.05,
                     "askQty": 1200,
                     "bidQty": 1200,
-                    "bidprice": 154.95,
+                    "bidprice": 161.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -171,7 +171,7 @@
                     "totalSellQuantity": 21200,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
                     "askPrice": 0,
@@ -192,17 +192,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1080
             },
             {
                 "CE": {
-                    "askPrice": 168.1,
+                    "askPrice": 168.55,
                     "askQty": 1200,
                     "bidQty": 1200,
-                    "bidprice": 156,
+                    "bidprice": 155.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -213,42 +213,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1100,
-                    "totalBuyQuantity": 25200,
-                    "totalSellQuantity": 25200,
+                    "totalBuyQuantity": 24800,
+                    "totalSellQuantity": 24800,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
-                    "askPrice": 2.2,
-                    "askQty": 400,
-                    "bidQty": 800,
-                    "bidprice": 1.75,
-                    "change": -0.20000000000000018,
-                    "changeinOpenInterest": 4,
+                    "askPrice": 2.25,
+                    "askQty": 2400,
+                    "bidQty": 400,
+                    "bidprice": 1.7,
+                    "change": -0.4500000000000002,
+                    "changeinOpenInterest": 6,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKMETROPOLIS25-05-2023PE1100.00",
                     "impliedVolatility": 58.23,
-                    "lastPrice": 2,
-                    "openInterest": 57,
-                    "pChange": -9.090909090909099,
-                    "pchangeinOpenInterest": 7.547169811320755,
+                    "lastPrice": 1.75,
+                    "openInterest": 59,
+                    "pChange": -20.45454545454546,
+                    "pchangeinOpenInterest": 11.320754716981131,
                     "strikePrice": 1100,
-                    "totalBuyQuantity": 79600,
-                    "totalSellQuantity": 8400,
-                    "totalTradedVolume": 28,
+                    "totalBuyQuantity": 78800,
+                    "totalSellQuantity": 8000,
+                    "totalTradedVolume": 29,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1100
             },
             {
                 "CE": {
-                    "askPrice": 165.7,
+                    "askPrice": 165.6,
                     "askQty": 400,
-                    "bidQty": 1200,
-                    "bidprice": 123.2,
+                    "bidQty": 400,
+                    "bidprice": 122.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -263,7 +263,7 @@
                     "totalSellQuantity": 20400,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
                     "askPrice": 0,
@@ -284,17 +284,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1120
             },
             {
                 "CE": {
-                    "askPrice": 145.9,
+                    "askPrice": 145.7,
                     "askQty": 400,
-                    "bidQty": 1600,
-                    "bidprice": 100.5,
+                    "bidQty": 1200,
+                    "bidprice": 102,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -309,7 +309,7 @@
                     "totalSellQuantity": 20400,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
                     "askPrice": 0,
@@ -330,17 +330,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1140
             },
             {
                 "CE": {
-                    "askPrice": 110.9,
-                    "askQty": 1200,
-                    "bidQty": 1200,
-                    "bidprice": 95.15,
+                    "askPrice": 111.15,
+                    "askQty": 400,
+                    "bidQty": 1600,
+                    "bidprice": 96.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -352,10 +352,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1160,
                     "totalBuyQuantity": 17200,
-                    "totalSellQuantity": 25200,
+                    "totalSellQuantity": 24000,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
                     "askPrice": 5.95,
@@ -376,17 +376,17 @@
                     "totalSellQuantity": 400,
                     "totalTradedVolume": 1,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1160
             },
             {
                 "CE": {
-                    "askPrice": 92,
-                    "askQty": 800,
+                    "askPrice": 93.05,
+                    "askQty": 400,
                     "bidQty": 400,
-                    "bidprice": 83.65,
+                    "bidprice": 81.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -397,17 +397,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1180,
-                    "totalBuyQuantity": 18400,
+                    "totalBuyQuantity": 18000,
                     "totalSellQuantity": 24400,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
-                    "askPrice": 7.25,
-                    "askQty": 400,
+                    "askPrice": 6.8,
+                    "askQty": 800,
                     "bidQty": 400,
-                    "bidprice": 6.3,
+                    "bidprice": 6.1,
                     "change": 2.3499999999999996,
                     "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
@@ -418,21 +418,21 @@
                     "pChange": 50.53763440860214,
                     "pchangeinOpenInterest": 5.454545454545454,
                     "strikePrice": 1180,
-                    "totalBuyQuantity": 54800,
-                    "totalSellQuantity": 30000,
+                    "totalBuyQuantity": 56800,
+                    "totalSellQuantity": 32800,
                     "totalTradedVolume": 8,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1180
             },
             {
                 "CE": {
-                    "askPrice": 71.75,
+                    "askPrice": 71,
                     "askQty": 400,
-                    "bidQty": 800,
-                    "bidprice": 69.1,
+                    "bidQty": 400,
+                    "bidprice": 70.15,
                     "change": -23.150000000000006,
                     "changeinOpenInterest": 5,
                     "expiryDate": "25-May-2023",
@@ -443,42 +443,42 @@
                     "pChange": -24.852388620504566,
                     "pchangeinOpenInterest": 15.625,
                     "strikePrice": 1200,
-                    "totalBuyQuantity": 41200,
-                    "totalSellQuantity": 30000,
+                    "totalBuyQuantity": 40400,
+                    "totalSellQuantity": 31200,
                     "totalTradedVolume": 11,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
                     "askPrice": 9.6,
-                    "askQty": 400,
-                    "bidQty": 800,
+                    "askQty": 800,
+                    "bidQty": 1600,
                     "bidprice": 9.3,
-                    "change": 3.25,
-                    "changeinOpenInterest": -30,
+                    "change": 2.75,
+                    "changeinOpenInterest": -39,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKMETROPOLIS25-05-2023PE1200.00",
                     "impliedVolatility": 44.01,
-                    "lastPrice": 9.6,
-                    "openInterest": 144,
-                    "pChange": 51.181102362204726,
-                    "pchangeinOpenInterest": -17.24137931034483,
+                    "lastPrice": 9.1,
+                    "openInterest": 135,
+                    "pChange": 43.30708661417323,
+                    "pchangeinOpenInterest": -22.413793103448278,
                     "strikePrice": 1200,
-                    "totalBuyQuantity": 120400,
-                    "totalSellQuantity": 81600,
-                    "totalTradedVolume": 280,
+                    "totalBuyQuantity": 121600,
+                    "totalSellQuantity": 82000,
+                    "totalTradedVolume": 284,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1200
             },
             {
                 "CE": {
-                    "askPrice": 58.4,
+                    "askPrice": 56.4,
                     "askQty": 1600,
                     "bidQty": 400,
-                    "bidprice": 53,
+                    "bidprice": 51.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -489,42 +489,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1220,
-                    "totalBuyQuantity": 14400,
-                    "totalSellQuantity": 26000,
+                    "totalBuyQuantity": 14800,
+                    "totalSellQuantity": 25600,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
-                    "askPrice": 13.6,
+                    "askPrice": 13.4,
                     "askQty": 400,
                     "bidQty": 400,
-                    "bidprice": 13.3,
-                    "change": 5.25,
-                    "changeinOpenInterest": 17,
+                    "bidprice": 12.95,
+                    "change": 4.65,
+                    "changeinOpenInterest": 16,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKMETROPOLIS25-05-2023PE1220.00",
-                    "impliedVolatility": 44.93,
-                    "lastPrice": 13.6,
-                    "openInterest": 66,
-                    "pChange": 62.87425149700599,
-                    "pchangeinOpenInterest": 34.69387755102041,
+                    "impliedVolatility": 44.08,
+                    "lastPrice": 13,
+                    "openInterest": 65,
+                    "pChange": 55.68862275449102,
+                    "pchangeinOpenInterest": 32.6530612244898,
                     "strikePrice": 1220,
-                    "totalBuyQuantity": 97600,
-                    "totalSellQuantity": 66800,
-                    "totalTradedVolume": 121,
+                    "totalBuyQuantity": 96400,
+                    "totalSellQuantity": 65600,
+                    "totalTradedVolume": 125,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1220
             },
             {
                 "CE": {
-                    "askPrice": 41.05,
-                    "askQty": 400,
+                    "askPrice": 41.15,
+                    "askQty": 1200,
                     "bidQty": 400,
-                    "bidprice": 39.2,
+                    "bidprice": 39.85,
                     "change": -27.549999999999997,
                     "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
@@ -535,170 +535,170 @@
                     "pChange": -39.640287769784166,
                     "pchangeinOpenInterest": 11.764705882352942,
                     "strikePrice": 1240,
-                    "totalBuyQuantity": 26400,
-                    "totalSellQuantity": 36000,
+                    "totalBuyQuantity": 27600,
+                    "totalSellQuantity": 37200,
                     "totalTradedVolume": 5,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
-                    "askPrice": 19.65,
-                    "askQty": 400,
+                    "askPrice": 19.15,
+                    "askQty": 800,
                     "bidQty": 400,
-                    "bidprice": 19,
-                    "change": 7.35,
+                    "bidprice": 18.75,
+                    "change": 7.65,
                     "changeinOpenInterest": -8,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKMETROPOLIS25-05-2023PE1240.00",
-                    "impliedVolatility": 43.28,
-                    "lastPrice": 18.95,
+                    "impliedVolatility": 40.1,
+                    "lastPrice": 19.25,
                     "openInterest": 139,
-                    "pChange": 63.36206896551724,
+                    "pChange": 65.94827586206897,
                     "pchangeinOpenInterest": -5.442176870748299,
                     "strikePrice": 1240,
-                    "totalBuyQuantity": 93200,
-                    "totalSellQuantity": 68000,
-                    "totalTradedVolume": 184,
+                    "totalBuyQuantity": 92400,
+                    "totalSellQuantity": 67200,
+                    "totalTradedVolume": 189,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1240
             },
             {
                 "CE": {
-                    "askPrice": 29.35,
+                    "askPrice": 28.85,
                     "askQty": 400,
-                    "bidQty": 400,
-                    "bidprice": 28.25,
-                    "change": -22.6,
-                    "changeinOpenInterest": 44,
+                    "bidQty": 800,
+                    "bidprice": 28.2,
+                    "change": -22.05,
+                    "changeinOpenInterest": 50,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKMETROPOLIS25-05-2023CE1260.00",
-                    "impliedVolatility": 36.99,
-                    "lastPrice": 28,
-                    "openInterest": 72,
-                    "pChange": -44.66403162055336,
-                    "pchangeinOpenInterest": 157.14285714285714,
+                    "impliedVolatility": 39.66,
+                    "lastPrice": 28.55,
+                    "openInterest": 78,
+                    "pChange": -43.57707509881423,
+                    "pchangeinOpenInterest": 178.57142857142858,
                     "strikePrice": 1260,
-                    "totalBuyQuantity": 82400,
-                    "totalSellQuantity": 49600,
-                    "totalTradedVolume": 111,
+                    "totalBuyQuantity": 83200,
+                    "totalSellQuantity": 70400,
+                    "totalTradedVolume": 118,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
-                    "askPrice": 27.45,
+                    "askPrice": 27.7,
                     "askQty": 400,
                     "bidQty": 400,
                     "bidprice": 27.05,
-                    "change": 11.549999999999999,
-                    "changeinOpenInterest": 60,
+                    "change": 11.6,
+                    "changeinOpenInterest": 51,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKMETROPOLIS25-05-2023PE1260.00",
                     "impliedVolatility": 40.54,
-                    "lastPrice": 27.45,
-                    "openInterest": 229,
-                    "pChange": 72.64150943396226,
-                    "pchangeinOpenInterest": 35.50295857988166,
+                    "lastPrice": 27.5,
+                    "openInterest": 220,
+                    "pChange": 72.95597484276729,
+                    "pchangeinOpenInterest": 30.17751479289941,
                     "strikePrice": 1260,
-                    "totalBuyQuantity": 97200,
-                    "totalSellQuantity": 60800,
-                    "totalTradedVolume": 928,
+                    "totalBuyQuantity": 96800,
+                    "totalSellQuantity": 60000,
+                    "totalTradedVolume": 939,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1260
             },
             {
                 "CE": {
-                    "askPrice": 19.8,
+                    "askPrice": 19.75,
                     "askQty": 400,
                     "bidQty": 400,
                     "bidprice": 19.3,
-                    "change": -18.950000000000003,
-                    "changeinOpenInterest": 95,
+                    "change": -18.500000000000004,
+                    "changeinOpenInterest": 96,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKMETROPOLIS25-05-2023CE1280.00",
                     "impliedVolatility": 38.33,
-                    "lastPrice": 19.25,
-                    "openInterest": 175,
-                    "pChange": -49.60732984293194,
-                    "pchangeinOpenInterest": 118.75,
+                    "lastPrice": 19.7,
+                    "openInterest": 176,
+                    "pChange": -48.42931937172775,
+                    "pchangeinOpenInterest": 120,
                     "strikePrice": 1280,
-                    "totalBuyQuantity": 87600,
-                    "totalSellQuantity": 79600,
-                    "totalTradedVolume": 364,
+                    "totalBuyQuantity": 88400,
+                    "totalSellQuantity": 81200,
+                    "totalTradedVolume": 376,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
-                    "askPrice": 38.8,
+                    "askPrice": 38.6,
                     "askQty": 400,
                     "bidQty": 400,
-                    "bidprice": 37.75,
-                    "change": 15.799999999999997,
+                    "bidprice": 37.8,
+                    "change": 16.15,
                     "changeinOpenInterest": -35,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKMETROPOLIS25-05-2023PE1280.00",
                     "impliedVolatility": 40.33,
-                    "lastPrice": 38.65,
+                    "lastPrice": 39,
                     "openInterest": 140,
-                    "pChange": 69.14660831509846,
+                    "pChange": 70.67833698030633,
                     "pchangeinOpenInterest": -20,
                     "strikePrice": 1280,
-                    "totalBuyQuantity": 61600,
-                    "totalSellQuantity": 26800,
-                    "totalTradedVolume": 281,
+                    "totalBuyQuantity": 61200,
+                    "totalSellQuantity": 26400,
+                    "totalTradedVolume": 284,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1280
             },
             {
                 "CE": {
-                    "askPrice": 12.8,
+                    "askPrice": 12.95,
                     "askQty": 400,
                     "bidQty": 800,
                     "bidprice": 12.5,
-                    "change": -15,
-                    "changeinOpenInterest": 144,
+                    "change": -14.600000000000001,
+                    "changeinOpenInterest": 136,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKMETROPOLIS25-05-2023CE1300.00",
                     "impliedVolatility": 38.98,
-                    "lastPrice": 12.55,
-                    "openInterest": 373,
-                    "pChange": -54.44646098003629,
-                    "pchangeinOpenInterest": 62.88209606986899,
+                    "lastPrice": 12.95,
+                    "openInterest": 365,
+                    "pChange": -52.994555353901994,
+                    "pchangeinOpenInterest": 59.38864628820961,
                     "strikePrice": 1300,
-                    "totalBuyQuantity": 101600,
-                    "totalSellQuantity": 83600,
-                    "totalTradedVolume": 614,
+                    "totalBuyQuantity": 96400,
+                    "totalSellQuantity": 82800,
+                    "totalTradedVolume": 621,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
-                    "askPrice": 52.35,
+                    "askPrice": 52.8,
                     "askQty": 400,
                     "bidQty": 400,
-                    "bidprice": 50.55,
-                    "change": 19.400000000000002,
+                    "bidprice": 51.8,
+                    "change": 20.400000000000002,
                     "changeinOpenInterest": -44,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKMETROPOLIS25-05-2023PE1300.00",
                     "impliedVolatility": 40.84,
-                    "lastPrice": 51.2,
+                    "lastPrice": 52.2,
                     "openInterest": 164,
-                    "pChange": 61.00628930817611,
+                    "pChange": 64.15094339622642,
                     "pchangeinOpenInterest": -21.153846153846153,
                     "strikePrice": 1300,
-                    "totalBuyQuantity": 42400,
-                    "totalSellQuantity": 28800,
-                    "totalTradedVolume": 256,
+                    "totalBuyQuantity": 41200,
+                    "totalSellQuantity": 27600,
+                    "totalTradedVolume": 261,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1300
@@ -706,76 +706,76 @@
             {
                 "CE": {
                     "askPrice": 8.8,
-                    "askQty": 1200,
-                    "bidQty": 800,
-                    "bidprice": 8.45,
-                    "change": -10.95,
-                    "changeinOpenInterest": 3,
+                    "askQty": 800,
+                    "bidQty": 400,
+                    "bidprice": 8.5,
+                    "change": -10.45,
+                    "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKMETROPOLIS25-05-2023CE1320.00",
                     "impliedVolatility": 39.71,
-                    "lastPrice": 8.3,
-                    "openInterest": 272,
-                    "pChange": -56.88311688311688,
-                    "pchangeinOpenInterest": 1.1152416356877324,
+                    "lastPrice": 8.8,
+                    "openInterest": 266,
+                    "pChange": -54.285714285714285,
+                    "pchangeinOpenInterest": -1.1152416356877324,
                     "strikePrice": 1320,
-                    "totalBuyQuantity": 88800,
-                    "totalSellQuantity": 76000,
-                    "totalTradedVolume": 381,
+                    "totalBuyQuantity": 91200,
+                    "totalSellQuantity": 77200,
+                    "totalTradedVolume": 385,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
-                    "askPrice": 68.1,
-                    "askQty": 800,
-                    "bidQty": 400,
-                    "bidprice": 66.15,
-                    "change": 17.25,
-                    "changeinOpenInterest": -13,
+                    "askPrice": 68.55,
+                    "askQty": 400,
+                    "bidQty": 800,
+                    "bidprice": 66.8,
+                    "change": 24.049999999999997,
+                    "changeinOpenInterest": -15,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKMETROPOLIS25-05-2023PE1320.00",
                     "impliedVolatility": 29.78,
-                    "lastPrice": 61.25,
-                    "openInterest": 23,
-                    "pChange": 39.20454545454545,
-                    "pchangeinOpenInterest": -36.111111111111114,
+                    "lastPrice": 68.05,
+                    "openInterest": 21,
+                    "pChange": 54.6590909090909,
+                    "pchangeinOpenInterest": -41.666666666666664,
                     "strikePrice": 1320,
-                    "totalBuyQuantity": 59600,
-                    "totalSellQuantity": 22400,
-                    "totalTradedVolume": 28,
+                    "totalBuyQuantity": 59200,
+                    "totalSellQuantity": 20400,
+                    "totalTradedVolume": 29,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1320
             },
             {
                 "CE": {
-                    "askPrice": 5.85,
-                    "askQty": 800,
+                    "askPrice": 6.15,
+                    "askQty": 400,
                     "bidQty": 400,
-                    "bidprice": 5.6,
-                    "change": -7.6000000000000005,
-                    "changeinOpenInterest": 8,
+                    "bidprice": 5.95,
+                    "change": -6.950000000000001,
+                    "changeinOpenInterest": 11,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKMETROPOLIS25-05-2023CE1340.00",
                     "impliedVolatility": 41.31,
-                    "lastPrice": 5.45,
-                    "openInterest": 286,
-                    "pChange": -58.23754789272031,
-                    "pchangeinOpenInterest": 2.8776978417266186,
+                    "lastPrice": 6.1,
+                    "openInterest": 289,
+                    "pChange": -53.25670498084292,
+                    "pchangeinOpenInterest": 3.9568345323741005,
                     "strikePrice": 1340,
-                    "totalBuyQuantity": 84000,
-                    "totalSellQuantity": 73200,
-                    "totalTradedVolume": 287,
+                    "totalBuyQuantity": 83600,
+                    "totalSellQuantity": 72800,
+                    "totalTradedVolume": 295,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
-                    "askPrice": 86.65,
+                    "askPrice": 86.05,
                     "askQty": 400,
                     "bidQty": 400,
-                    "bidprice": 83.1,
+                    "bidprice": 83.55,
                     "change": 27.450000000000003,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -786,67 +786,67 @@
                     "pChange": 48.54111405835545,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1340,
-                    "totalBuyQuantity": 53600,
+                    "totalBuyQuantity": 55200,
                     "totalSellQuantity": 39600,
                     "totalTradedVolume": 2,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1340
             },
             {
                 "CE": {
-                    "askPrice": 4.15,
-                    "askQty": 400,
-                    "bidQty": 400,
-                    "bidprice": 4,
-                    "change": -5.300000000000001,
-                    "changeinOpenInterest": 39,
+                    "askPrice": 4.4,
+                    "askQty": 800,
+                    "bidQty": 800,
+                    "bidprice": 4.2,
+                    "change": -5.2,
+                    "changeinOpenInterest": 37,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKMETROPOLIS25-05-2023CE1360.00",
-                    "impliedVolatility": 42.93,
-                    "lastPrice": 4.1,
-                    "openInterest": 460,
-                    "pChange": -56.382978723404264,
-                    "pchangeinOpenInterest": 9.263657957244655,
+                    "impliedVolatility": 43.19,
+                    "lastPrice": 4.2,
+                    "openInterest": 458,
+                    "pChange": -55.319148936170215,
+                    "pchangeinOpenInterest": 8.788598574821853,
                     "strikePrice": 1360,
                     "totalBuyQuantity": 108400,
-                    "totalSellQuantity": 79600,
-                    "totalTradedVolume": 237,
+                    "totalSellQuantity": 80800,
+                    "totalTradedVolume": 238,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
-                    "askPrice": 105.2,
+                    "askPrice": 103.5,
                     "askQty": 400,
                     "bidQty": 400,
-                    "bidprice": 101.55,
+                    "bidprice": 102.3,
                     "change": 42.3,
                     "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKMETROPOLIS25-05-2023PE1360.00",
-                    "impliedVolatility": 54.03,
+                    "impliedVolatility": 43.51,
                     "lastPrice": 101.5,
                     "openInterest": 23,
                     "pChange": 71.4527027027027,
                     "pchangeinOpenInterest": 9.523809523809524,
                     "strikePrice": 1360,
-                    "totalBuyQuantity": 40400,
+                    "totalBuyQuantity": 42400,
                     "totalSellQuantity": 26400,
                     "totalTradedVolume": 4,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1360
             },
             {
                 "CE": {
-                    "askPrice": 3.1,
-                    "askQty": 400,
+                    "askPrice": 3.25,
+                    "askQty": 800,
                     "bidQty": 400,
-                    "bidprice": 2.95,
+                    "bidprice": 3.05,
                     "change": -3.55,
                     "changeinOpenInterest": 14,
                     "expiryDate": "25-May-2023",
@@ -857,17 +857,17 @@
                     "pChange": -54.19847328244275,
                     "pchangeinOpenInterest": 8.13953488372093,
                     "strikePrice": 1380,
-                    "totalBuyQuantity": 80000,
-                    "totalSellQuantity": 69200,
+                    "totalBuyQuantity": 80400,
+                    "totalSellQuantity": 69600,
                     "totalTradedVolume": 101,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
-                    "askPrice": 127.7,
-                    "askQty": 1200,
+                    "askPrice": 122.7,
+                    "askQty": 400,
                     "bidQty": 400,
-                    "bidprice": 118.5,
+                    "bidprice": 120.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -878,42 +878,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1380,
-                    "totalBuyQuantity": 41600,
-                    "totalSellQuantity": 26800,
+                    "totalBuyQuantity": 39600,
+                    "totalSellQuantity": 26000,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1380
             },
             {
                 "CE": {
-                    "askPrice": 2.3,
+                    "askPrice": 2.35,
                     "askQty": 400,
-                    "bidQty": 400,
-                    "bidprice": 2.15,
-                    "change": -2.7,
-                    "changeinOpenInterest": -7,
+                    "bidQty": 800,
+                    "bidprice": 2.2,
+                    "change": -2.5500000000000003,
+                    "changeinOpenInterest": -13,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKMETROPOLIS25-05-2023CE1400.00",
                     "impliedVolatility": 47.67,
-                    "lastPrice": 2.2,
-                    "openInterest": 484,
-                    "pChange": -55.10204081632652,
-                    "pchangeinOpenInterest": -1.4256619144602851,
+                    "lastPrice": 2.35,
+                    "openInterest": 478,
+                    "pChange": -52.04081632653062,
+                    "pchangeinOpenInterest": -2.6476578411405294,
                     "strikePrice": 1400,
                     "totalBuyQuantity": 94800,
                     "totalSellQuantity": 100000,
-                    "totalTradedVolume": 469,
+                    "totalTradedVolume": 488,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
-                    "askPrice": 143.35,
+                    "askPrice": 144.3,
                     "askQty": 400,
                     "bidQty": 400,
-                    "bidprice": 136,
+                    "bidprice": 139.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -924,11 +924,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1400,
-                    "totalBuyQuantity": 24400,
+                    "totalBuyQuantity": 24800,
                     "totalSellQuantity": 24400,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1400
@@ -936,30 +936,30 @@
             {
                 "CE": {
                     "askPrice": 1.7,
-                    "askQty": 400,
-                    "bidQty": 400,
+                    "askQty": 1200,
+                    "bidQty": 800,
                     "bidprice": 1.55,
-                    "change": -2.0999999999999996,
+                    "change": -2,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKMETROPOLIS25-05-2023CE1420.00",
                     "impliedVolatility": 49.44,
-                    "lastPrice": 1.55,
+                    "lastPrice": 1.65,
                     "openInterest": 127,
-                    "pChange": -57.534246575342465,
+                    "pChange": -54.794520547945204,
                     "pchangeinOpenInterest": 0.7936507936507936,
                     "strikePrice": 1420,
                     "totalBuyQuantity": 64000,
-                    "totalSellQuantity": 64800,
-                    "totalTradedVolume": 53,
+                    "totalSellQuantity": 65200,
+                    "totalTradedVolume": 54,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
-                    "askPrice": 166.3,
+                    "askPrice": 166.25,
                     "askQty": 1200,
-                    "bidQty": 1200,
-                    "bidprice": 153.4,
+                    "bidQty": 800,
+                    "bidprice": 154.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -970,11 +970,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1420,
-                    "totalBuyQuantity": 24800,
-                    "totalSellQuantity": 24800,
+                    "totalBuyQuantity": 25600,
+                    "totalSellQuantity": 25200,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1420
@@ -982,30 +982,30 @@
             {
                 "CE": {
                     "askPrice": 1.4,
-                    "askQty": 800,
+                    "askQty": 1200,
                     "bidQty": 800,
-                    "bidprice": 1.3,
-                    "change": -1.5999999999999999,
+                    "bidprice": 1.25,
+                    "change": -1.5499999999999998,
                     "changeinOpenInterest": -7,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKMETROPOLIS25-05-2023CE1440.00",
                     "impliedVolatility": 52.08,
-                    "lastPrice": 1.3,
+                    "lastPrice": 1.35,
                     "openInterest": 86,
-                    "pChange": -55.172413793103445,
+                    "pChange": -53.44827586206896,
                     "pchangeinOpenInterest": -7.526881720430108,
                     "strikePrice": 1440,
-                    "totalBuyQuantity": 62800,
-                    "totalSellQuantity": 60400,
-                    "totalTradedVolume": 19,
+                    "totalBuyQuantity": 62400,
+                    "totalSellQuantity": 61600,
+                    "totalTradedVolume": 20,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
-                    "askPrice": 187.1,
+                    "askPrice": 187.15,
                     "askQty": 1200,
-                    "bidQty": 1200,
-                    "bidprice": 174.65,
+                    "bidQty": 800,
+                    "bidprice": 173.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1016,11 +1016,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1440,
-                    "totalBuyQuantity": 25200,
-                    "totalSellQuantity": 24800,
+                    "totalBuyQuantity": 24400,
+                    "totalSellQuantity": 23600,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1440
@@ -1045,13 +1045,13 @@
                     "totalSellQuantity": 61600,
                     "totalTradedVolume": 78,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
-                    "askPrice": 206.85,
+                    "askPrice": 205.35,
                     "askQty": 1200,
-                    "bidQty": 1600,
-                    "bidprice": 192.35,
+                    "bidQty": 400,
+                    "bidprice": 189.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1062,11 +1062,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1460,
-                    "totalBuyQuantity": 25200,
-                    "totalSellQuantity": 24800,
+                    "totalBuyQuantity": 24400,
+                    "totalSellQuantity": 25200,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1460
@@ -1091,7 +1091,7 @@
                     "totalSellQuantity": 41200,
                     "totalTradedVolume": 1,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
                     "askPrice": 225.1,
@@ -1112,7 +1112,7 @@
                     "totalSellQuantity": 23600,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1480
@@ -1134,16 +1134,16 @@
                     "pchangeinOpenInterest": -6.806282722513089,
                     "strikePrice": 1500,
                     "totalBuyQuantity": 66400,
-                    "totalSellQuantity": 50800,
+                    "totalSellQuantity": 51200,
                     "totalTradedVolume": 42,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
-                    "askPrice": 246.15,
-                    "askQty": 1600,
-                    "bidQty": 400,
-                    "bidprice": 232.75,
+                    "askPrice": 246,
+                    "askQty": 400,
+                    "bidQty": 1200,
+                    "bidprice": 233.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1154,11 +1154,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1500,
-                    "totalBuyQuantity": 24800,
+                    "totalBuyQuantity": 25200,
                     "totalSellQuantity": 25600,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1500
@@ -1183,13 +1183,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
                     "askPrice": 278.95,
                     "askQty": 1200,
                     "bidQty": 1200,
-                    "bidprice": 239.95,
+                    "bidprice": 240.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1204,7 +1204,7 @@
                     "totalSellQuantity": 21200,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1520
@@ -1229,7 +1229,7 @@
                     "totalSellQuantity": 20000,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
                     "askPrice": 283.65,
@@ -1250,7 +1250,7 @@
                     "totalSellQuantity": 22400,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1540
@@ -1275,13 +1275,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
                     "askPrice": 316.35,
                     "askQty": 1200,
                     "bidQty": 1200,
-                    "bidprice": 278.1,
+                    "bidprice": 278.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1296,7 +1296,7 @@
                     "totalSellQuantity": 21200,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1560
@@ -1309,8 +1309,8 @@
                 "CE": {
                     "askPrice": 272.35,
                     "askQty": 1200,
-                    "bidQty": 2400,
-                    "bidprice": 254,
+                    "bidQty": 1200,
+                    "bidprice": 254.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1321,17 +1321,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1000,
-                    "totalBuyQuantity": 22400,
+                    "totalBuyQuantity": 23600,
                     "totalSellQuantity": 23600,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
-                    "askPrice": 0,
-                    "askQty": 0,
+                    "askPrice": 2.8,
+                    "askQty": 20000,
                     "bidQty": 8800,
-                    "bidprice": 0.1,
+                    "bidprice": 0.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1342,11 +1342,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1000,
-                    "totalBuyQuantity": 8800,
-                    "totalSellQuantity": 0,
+                    "totalBuyQuantity": 22400,
+                    "totalSellQuantity": 20000,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1000
@@ -1371,7 +1371,7 @@
                     "totalSellQuantity": 21200,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1392,14 +1392,14 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1000
             },
             {
                 "CE": {
-                    "askPrice": 308.1,
+                    "askPrice": 301.7,
                     "askQty": 1200,
                     "bidQty": 1200,
                     "bidprice": 173.3,
@@ -1417,7 +1417,7 @@
                     "totalSellQuantity": 21200,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1438,17 +1438,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1020
             },
             {
                 "CE": {
-                    "askPrice": 280.05,
+                    "askPrice": 271.65,
                     "askQty": 1200,
                     "bidQty": 1200,
-                    "bidprice": 160.3,
+                    "bidprice": 168,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1463,7 +1463,7 @@
                     "totalSellQuantity": 21200,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1020
@@ -1488,7 +1488,7 @@
                     "totalSellQuantity": 23600,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
                     "askPrice": 2.05,
@@ -1509,14 +1509,14 @@
                     "totalSellQuantity": 20000,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1040
             },
             {
                 "CE": {
-                    "askPrice": 325.95,
+                    "askPrice": 319.65,
                     "askQty": 1200,
                     "bidQty": 1200,
                     "bidprice": 156.45,
@@ -1534,7 +1534,7 @@
                     "totalSellQuantity": 21200,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1555,14 +1555,14 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1040
             },
             {
                 "CE": {
-                    "askPrice": 290.1,
+                    "askPrice": 281.7,
                     "askQty": 1200,
                     "bidQty": 1200,
                     "bidprice": 140.3,
@@ -1580,7 +1580,7 @@
                     "totalSellQuantity": 21200,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1601,17 +1601,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1060
             },
             {
                 "CE": {
-                    "askPrice": 223.1,
+                    "askPrice": 222.1,
                     "askQty": 1200,
                     "bidQty": 1200,
-                    "bidprice": 134.55,
+                    "bidprice": 143.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1626,17 +1626,17 @@
                     "totalSellQuantity": 21200,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1060
             },
             {
                 "CE": {
-                    "askPrice": 202.15,
+                    "askPrice": 202.05,
                     "askQty": 1200,
                     "bidQty": 1200,
-                    "bidprice": 154.95,
+                    "bidprice": 161.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1651,7 +1651,7 @@
                     "totalSellQuantity": 21200,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1672,14 +1672,14 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1080
             },
             {
                 "CE": {
-                    "askPrice": 257.9,
+                    "askPrice": 283.4,
                     "askQty": 1200,
                     "bidQty": 1200,
                     "bidprice": 124.9,
@@ -1697,7 +1697,7 @@
                     "totalSellQuantity": 21200,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1718,17 +1718,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1080
             },
             {
                 "CE": {
-                    "askPrice": 190.1,
-                    "askQty": 1200,
+                    "askPrice": 183.35,
+                    "askQty": 800,
                     "bidQty": 1200,
-                    "bidprice": 155.65,
+                    "bidprice": 124.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -1740,16 +1740,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1100,
                     "totalBuyQuantity": 2000,
-                    "totalSellQuantity": 2000,
+                    "totalSellQuantity": 800,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
                     "askPrice": 9.95,
                     "askQty": 400,
                     "bidQty": 400,
-                    "bidprice": 1.2,
+                    "bidprice": 1.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -1760,21 +1760,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1100,
-                    "totalBuyQuantity": 21600,
-                    "totalSellQuantity": 1600,
+                    "totalBuyQuantity": 22000,
+                    "totalSellQuantity": 2400,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1100
             },
             {
                 "CE": {
-                    "askPrice": 168.1,
+                    "askPrice": 168.55,
                     "askQty": 1200,
                     "bidQty": 1200,
-                    "bidprice": 156,
+                    "bidprice": 155.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1785,42 +1785,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1100,
-                    "totalBuyQuantity": 25200,
-                    "totalSellQuantity": 25200,
+                    "totalBuyQuantity": 24800,
+                    "totalSellQuantity": 24800,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
-                    "askPrice": 2.2,
-                    "askQty": 400,
-                    "bidQty": 800,
-                    "bidprice": 1.75,
-                    "change": -0.20000000000000018,
-                    "changeinOpenInterest": 4,
+                    "askPrice": 2.25,
+                    "askQty": 2400,
+                    "bidQty": 400,
+                    "bidprice": 1.7,
+                    "change": -0.4500000000000002,
+                    "changeinOpenInterest": 6,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKMETROPOLIS25-05-2023PE1100.00",
                     "impliedVolatility": 58.23,
-                    "lastPrice": 2,
-                    "openInterest": 57,
-                    "pChange": -9.090909090909099,
-                    "pchangeinOpenInterest": 7.547169811320755,
+                    "lastPrice": 1.75,
+                    "openInterest": 59,
+                    "pChange": -20.45454545454546,
+                    "pchangeinOpenInterest": 11.320754716981131,
                     "strikePrice": 1100,
-                    "totalBuyQuantity": 79600,
-                    "totalSellQuantity": 8400,
-                    "totalTradedVolume": 28,
+                    "totalBuyQuantity": 78800,
+                    "totalSellQuantity": 8000,
+                    "totalTradedVolume": 29,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1100
             },
             {
                 "CE": {
-                    "askPrice": 165.7,
+                    "askPrice": 165.6,
                     "askQty": 400,
-                    "bidQty": 1200,
-                    "bidprice": 123.2,
+                    "bidQty": 400,
+                    "bidprice": 122.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1835,7 +1835,7 @@
                     "totalSellQuantity": 20400,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1856,17 +1856,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1120
             },
             {
                 "CE": {
-                    "askPrice": 243.4,
+                    "askPrice": 236.4,
                     "askQty": 1200,
                     "bidQty": 1200,
-                    "bidprice": 104.75,
+                    "bidprice": 102.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -1881,7 +1881,7 @@
                     "totalSellQuantity": 21200,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1902,7 +1902,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1120
@@ -1912,7 +1912,7 @@
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 1200,
-                    "bidprice": 92.4,
+                    "bidprice": 93.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -1927,7 +1927,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1948,17 +1948,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1140
             },
             {
                 "CE": {
-                    "askPrice": 145.9,
+                    "askPrice": 145.7,
                     "askQty": 400,
-                    "bidQty": 1600,
-                    "bidprice": 100.5,
+                    "bidQty": 1200,
+                    "bidprice": 102,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1973,7 +1973,7 @@
                     "totalSellQuantity": 20400,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1994,17 +1994,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1140
             },
             {
                 "CE": {
-                    "askPrice": 138.7,
-                    "askQty": 400,
+                    "askPrice": 198.85,
+                    "askQty": 1200,
                     "bidQty": 1200,
-                    "bidprice": 89.05,
+                    "bidprice": 101.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2016,10 +2016,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1160,
                     "totalBuyQuantity": 1600,
-                    "totalSellQuantity": 400,
+                    "totalSellQuantity": 1600,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
                     "askPrice": 24.95,
@@ -2040,17 +2040,17 @@
                     "totalSellQuantity": 400,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1160
             },
             {
                 "CE": {
-                    "askPrice": 110.9,
-                    "askQty": 1200,
-                    "bidQty": 1200,
-                    "bidprice": 95.15,
+                    "askPrice": 111.15,
+                    "askQty": 400,
+                    "bidQty": 1600,
+                    "bidprice": 96.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2062,10 +2062,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1160,
                     "totalBuyQuantity": 17200,
-                    "totalSellQuantity": 25200,
+                    "totalSellQuantity": 24000,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
                     "askPrice": 5.95,
@@ -2086,17 +2086,17 @@
                     "totalSellQuantity": 400,
                     "totalTradedVolume": 1,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1160
             },
             {
                 "CE": {
-                    "askPrice": 123.6,
-                    "askQty": 400,
+                    "askPrice": 174.05,
+                    "askQty": 1200,
                     "bidQty": 1200,
-                    "bidprice": 80.9,
+                    "bidprice": 79.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2108,20 +2108,20 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1180,
                     "totalBuyQuantity": 1600,
-                    "totalSellQuantity": 400,
+                    "totalSellQuantity": 1600,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1180
             },
             {
                 "CE": {
-                    "askPrice": 92,
-                    "askQty": 800,
+                    "askPrice": 93.05,
+                    "askQty": 400,
                     "bidQty": 400,
-                    "bidprice": 83.65,
+                    "bidprice": 81.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2132,17 +2132,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1180,
-                    "totalBuyQuantity": 18400,
+                    "totalBuyQuantity": 18000,
                     "totalSellQuantity": 24400,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
-                    "askPrice": 7.25,
-                    "askQty": 400,
+                    "askPrice": 6.8,
+                    "askQty": 800,
                     "bidQty": 400,
-                    "bidprice": 6.3,
+                    "bidprice": 6.1,
                     "change": 2.3499999999999996,
                     "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
@@ -2153,11 +2153,11 @@
                     "pChange": 50.53763440860214,
                     "pchangeinOpenInterest": 5.454545454545454,
                     "strikePrice": 1180,
-                    "totalBuyQuantity": 54800,
-                    "totalSellQuantity": 30000,
+                    "totalBuyQuantity": 56800,
+                    "totalSellQuantity": 32800,
                     "totalTradedVolume": 8,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1180
@@ -2182,7 +2182,7 @@
                     "totalSellQuantity": 1200,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
                     "askPrice": 30,
@@ -2203,7 +2203,7 @@
                     "totalSellQuantity": 1600,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1200
@@ -2228,17 +2228,17 @@
                     "totalSellQuantity": 400,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1200
             },
             {
                 "CE": {
-                    "askPrice": 71.75,
+                    "askPrice": 71,
                     "askQty": 400,
-                    "bidQty": 800,
-                    "bidprice": 69.1,
+                    "bidQty": 400,
+                    "bidprice": 70.15,
                     "change": -23.150000000000006,
                     "changeinOpenInterest": 5,
                     "expiryDate": "25-May-2023",
@@ -2249,42 +2249,42 @@
                     "pChange": -24.852388620504566,
                     "pchangeinOpenInterest": 15.625,
                     "strikePrice": 1200,
-                    "totalBuyQuantity": 41200,
-                    "totalSellQuantity": 30000,
+                    "totalBuyQuantity": 40400,
+                    "totalSellQuantity": 31200,
                     "totalTradedVolume": 11,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
                     "askPrice": 9.6,
-                    "askQty": 400,
-                    "bidQty": 800,
+                    "askQty": 800,
+                    "bidQty": 1600,
                     "bidprice": 9.3,
-                    "change": 3.25,
-                    "changeinOpenInterest": -30,
+                    "change": 2.75,
+                    "changeinOpenInterest": -39,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKMETROPOLIS25-05-2023PE1200.00",
                     "impliedVolatility": 44.01,
-                    "lastPrice": 9.6,
-                    "openInterest": 144,
-                    "pChange": 51.181102362204726,
-                    "pchangeinOpenInterest": -17.24137931034483,
+                    "lastPrice": 9.1,
+                    "openInterest": 135,
+                    "pChange": 43.30708661417323,
+                    "pchangeinOpenInterest": -22.413793103448278,
                     "strikePrice": 1200,
-                    "totalBuyQuantity": 120400,
-                    "totalSellQuantity": 81600,
-                    "totalTradedVolume": 280,
+                    "totalBuyQuantity": 121600,
+                    "totalSellQuantity": 82000,
+                    "totalTradedVolume": 284,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1200
             },
             {
                 "CE": {
-                    "askPrice": 58.4,
+                    "askPrice": 56.4,
                     "askQty": 1600,
                     "bidQty": 400,
-                    "bidprice": 53,
+                    "bidprice": 51.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2295,40 +2295,40 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1220,
-                    "totalBuyQuantity": 14400,
-                    "totalSellQuantity": 26000,
+                    "totalBuyQuantity": 14800,
+                    "totalSellQuantity": 25600,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
-                    "askPrice": 13.6,
+                    "askPrice": 13.4,
                     "askQty": 400,
                     "bidQty": 400,
-                    "bidprice": 13.3,
-                    "change": 5.25,
-                    "changeinOpenInterest": 17,
+                    "bidprice": 12.95,
+                    "change": 4.65,
+                    "changeinOpenInterest": 16,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKMETROPOLIS25-05-2023PE1220.00",
-                    "impliedVolatility": 44.93,
-                    "lastPrice": 13.6,
-                    "openInterest": 66,
-                    "pChange": 62.87425149700599,
-                    "pchangeinOpenInterest": 34.69387755102041,
+                    "impliedVolatility": 44.08,
+                    "lastPrice": 13,
+                    "openInterest": 65,
+                    "pChange": 55.68862275449102,
+                    "pchangeinOpenInterest": 32.6530612244898,
                     "strikePrice": 1220,
-                    "totalBuyQuantity": 97600,
-                    "totalSellQuantity": 66800,
-                    "totalTradedVolume": 121,
+                    "totalBuyQuantity": 96400,
+                    "totalSellQuantity": 65600,
+                    "totalTradedVolume": 125,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1220
             },
             {
                 "CE": {
-                    "askPrice": 127.65,
-                    "askQty": 20000,
+                    "askPrice": 0,
+                    "askQty": 0,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -2342,14 +2342,14 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1220,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 20000,
+                    "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
-                    "askPrice": 77,
-                    "askQty": 400,
+                    "askPrice": 0,
+                    "askQty": 0,
                     "bidQty": 1600,
                     "bidprice": 9,
                     "change": 0,
@@ -2363,20 +2363,20 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1220,
                     "totalBuyQuantity": 1600,
-                    "totalSellQuantity": 400,
+                    "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1220
             },
             {
                 "CE": {
-                    "askPrice": 41.05,
-                    "askQty": 400,
+                    "askPrice": 41.15,
+                    "askQty": 1200,
                     "bidQty": 400,
-                    "bidprice": 39.2,
+                    "bidprice": 39.85,
                     "change": -27.549999999999997,
                     "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
@@ -2387,32 +2387,32 @@
                     "pChange": -39.640287769784166,
                     "pchangeinOpenInterest": 11.764705882352942,
                     "strikePrice": 1240,
-                    "totalBuyQuantity": 26400,
-                    "totalSellQuantity": 36000,
+                    "totalBuyQuantity": 27600,
+                    "totalSellQuantity": 37200,
                     "totalTradedVolume": 5,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
-                    "askPrice": 19.65,
-                    "askQty": 400,
+                    "askPrice": 19.15,
+                    "askQty": 800,
                     "bidQty": 400,
-                    "bidprice": 19,
-                    "change": 7.35,
+                    "bidprice": 18.75,
+                    "change": 7.65,
                     "changeinOpenInterest": -8,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKMETROPOLIS25-05-2023PE1240.00",
-                    "impliedVolatility": 43.28,
-                    "lastPrice": 18.95,
+                    "impliedVolatility": 40.1,
+                    "lastPrice": 19.25,
                     "openInterest": 139,
-                    "pChange": 63.36206896551724,
+                    "pChange": 65.94827586206897,
                     "pchangeinOpenInterest": -5.442176870748299,
                     "strikePrice": 1240,
-                    "totalBuyQuantity": 93200,
-                    "totalSellQuantity": 68000,
-                    "totalTradedVolume": 184,
+                    "totalBuyQuantity": 92400,
+                    "totalSellQuantity": 67200,
+                    "totalTradedVolume": 189,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1240
@@ -2437,13 +2437,13 @@
                     "totalSellQuantity": 1200,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
-                    "askPrice": 48.25,
+                    "askPrice": 48.2,
                     "askQty": 400,
                     "bidQty": 400,
-                    "bidprice": 38.15,
+                    "bidprice": 38.05,
                     "change": 5,
                     "changeinOpenInterest": 6,
                     "expiryDate": "29-Jun-2023",
@@ -2455,56 +2455,56 @@
                     "pchangeinOpenInterest": 150,
                     "strikePrice": 1240,
                     "totalBuyQuantity": 22000,
-                    "totalSellQuantity": 400,
+                    "totalSellQuantity": 800,
                     "totalTradedVolume": 7,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1240
             },
             {
                 "CE": {
-                    "askPrice": 29.35,
+                    "askPrice": 28.85,
                     "askQty": 400,
-                    "bidQty": 400,
-                    "bidprice": 28.25,
-                    "change": -22.6,
-                    "changeinOpenInterest": 44,
+                    "bidQty": 800,
+                    "bidprice": 28.2,
+                    "change": -22.05,
+                    "changeinOpenInterest": 50,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKMETROPOLIS25-05-2023CE1260.00",
-                    "impliedVolatility": 36.99,
-                    "lastPrice": 28,
-                    "openInterest": 72,
-                    "pChange": -44.66403162055336,
-                    "pchangeinOpenInterest": 157.14285714285714,
+                    "impliedVolatility": 39.66,
+                    "lastPrice": 28.55,
+                    "openInterest": 78,
+                    "pChange": -43.57707509881423,
+                    "pchangeinOpenInterest": 178.57142857142858,
                     "strikePrice": 1260,
-                    "totalBuyQuantity": 82400,
-                    "totalSellQuantity": 49600,
-                    "totalTradedVolume": 111,
+                    "totalBuyQuantity": 83200,
+                    "totalSellQuantity": 70400,
+                    "totalTradedVolume": 118,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
-                    "askPrice": 27.45,
+                    "askPrice": 27.7,
                     "askQty": 400,
                     "bidQty": 400,
                     "bidprice": 27.05,
-                    "change": 11.549999999999999,
-                    "changeinOpenInterest": 60,
+                    "change": 11.6,
+                    "changeinOpenInterest": 51,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKMETROPOLIS25-05-2023PE1260.00",
                     "impliedVolatility": 40.54,
-                    "lastPrice": 27.45,
-                    "openInterest": 229,
-                    "pChange": 72.64150943396226,
-                    "pchangeinOpenInterest": 35.50295857988166,
+                    "lastPrice": 27.5,
+                    "openInterest": 220,
+                    "pChange": 72.95597484276729,
+                    "pchangeinOpenInterest": 30.17751479289941,
                     "strikePrice": 1260,
-                    "totalBuyQuantity": 97200,
-                    "totalSellQuantity": 60800,
-                    "totalTradedVolume": 928,
+                    "totalBuyQuantity": 96800,
+                    "totalSellQuantity": 60000,
+                    "totalTradedVolume": 939,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1260
@@ -2529,13 +2529,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 400,
-                    "bidprice": 43.95,
+                    "bidprice": 43.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2550,60 +2550,60 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1260
             },
             {
                 "CE": {
-                    "askPrice": 19.8,
+                    "askPrice": 19.75,
                     "askQty": 400,
                     "bidQty": 400,
                     "bidprice": 19.3,
-                    "change": -18.950000000000003,
-                    "changeinOpenInterest": 95,
+                    "change": -18.500000000000004,
+                    "changeinOpenInterest": 96,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKMETROPOLIS25-05-2023CE1280.00",
                     "impliedVolatility": 38.33,
-                    "lastPrice": 19.25,
-                    "openInterest": 175,
-                    "pChange": -49.60732984293194,
-                    "pchangeinOpenInterest": 118.75,
+                    "lastPrice": 19.7,
+                    "openInterest": 176,
+                    "pChange": -48.42931937172775,
+                    "pchangeinOpenInterest": 120,
                     "strikePrice": 1280,
-                    "totalBuyQuantity": 87600,
-                    "totalSellQuantity": 79600,
-                    "totalTradedVolume": 364,
+                    "totalBuyQuantity": 88400,
+                    "totalSellQuantity": 81200,
+                    "totalTradedVolume": 376,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
-                    "askPrice": 38.8,
+                    "askPrice": 38.6,
                     "askQty": 400,
                     "bidQty": 400,
-                    "bidprice": 37.75,
-                    "change": 15.799999999999997,
+                    "bidprice": 37.8,
+                    "change": 16.15,
                     "changeinOpenInterest": -35,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKMETROPOLIS25-05-2023PE1280.00",
                     "impliedVolatility": 40.33,
-                    "lastPrice": 38.65,
+                    "lastPrice": 39,
                     "openInterest": 140,
-                    "pChange": 69.14660831509846,
+                    "pChange": 70.67833698030633,
                     "pchangeinOpenInterest": -20,
                     "strikePrice": 1280,
-                    "totalBuyQuantity": 61600,
-                    "totalSellQuantity": 26800,
-                    "totalTradedVolume": 281,
+                    "totalBuyQuantity": 61200,
+                    "totalSellQuantity": 26400,
+                    "totalTradedVolume": 284,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1280
             },
             {
                 "CE": {
-                    "askPrice": 72.25,
+                    "askPrice": 72.75,
                     "askQty": 400,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -2621,13 +2621,13 @@
                     "totalSellQuantity": 400,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 400,
-                    "bidprice": 53.9,
+                    "bidprice": 54.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2642,63 +2642,63 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1280
             },
             {
                 "CE": {
-                    "askPrice": 12.8,
+                    "askPrice": 12.95,
                     "askQty": 400,
                     "bidQty": 800,
                     "bidprice": 12.5,
-                    "change": -15,
-                    "changeinOpenInterest": 144,
+                    "change": -14.600000000000001,
+                    "changeinOpenInterest": 136,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKMETROPOLIS25-05-2023CE1300.00",
                     "impliedVolatility": 38.98,
-                    "lastPrice": 12.55,
-                    "openInterest": 373,
-                    "pChange": -54.44646098003629,
-                    "pchangeinOpenInterest": 62.88209606986899,
+                    "lastPrice": 12.95,
+                    "openInterest": 365,
+                    "pChange": -52.994555353901994,
+                    "pchangeinOpenInterest": 59.38864628820961,
                     "strikePrice": 1300,
-                    "totalBuyQuantity": 101600,
-                    "totalSellQuantity": 83600,
-                    "totalTradedVolume": 614,
+                    "totalBuyQuantity": 96400,
+                    "totalSellQuantity": 82800,
+                    "totalTradedVolume": 621,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
-                    "askPrice": 52.35,
+                    "askPrice": 52.8,
                     "askQty": 400,
                     "bidQty": 400,
-                    "bidprice": 50.55,
-                    "change": 19.400000000000002,
+                    "bidprice": 51.8,
+                    "change": 20.400000000000002,
                     "changeinOpenInterest": -44,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKMETROPOLIS25-05-2023PE1300.00",
                     "impliedVolatility": 40.84,
-                    "lastPrice": 51.2,
+                    "lastPrice": 52.2,
                     "openInterest": 164,
-                    "pChange": 61.00628930817611,
+                    "pChange": 64.15094339622642,
                     "pchangeinOpenInterest": -21.153846153846153,
                     "strikePrice": 1300,
-                    "totalBuyQuantity": 42400,
-                    "totalSellQuantity": 28800,
-                    "totalTradedVolume": 256,
+                    "totalBuyQuantity": 41200,
+                    "totalSellQuantity": 27600,
+                    "totalTradedVolume": 261,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1300
             },
             {
                 "CE": {
-                    "askPrice": 52.8,
-                    "askQty": 400,
+                    "askPrice": 0,
+                    "askQty": 0,
                     "bidQty": 400,
-                    "bidprice": 38.15,
+                    "bidprice": 42.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2709,17 +2709,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1300,
-                    "totalBuyQuantity": 2000,
-                    "totalSellQuantity": 2000,
+                    "totalBuyQuantity": 1600,
+                    "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
-                    "askPrice": 83.7,
+                    "askPrice": 84.15,
                     "askQty": 400,
                     "bidQty": 400,
-                    "bidprice": 65.1,
+                    "bidprice": 69.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2730,18 +2730,18 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1300,
-                    "totalBuyQuantity": 1600,
+                    "totalBuyQuantity": 2000,
                     "totalSellQuantity": 1600,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1300
             },
             {
                 "CE": {
-                    "askPrice": 106.5,
+                    "askPrice": 106.1,
                     "askQty": 400,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -2759,14 +2759,14 @@
                     "totalSellQuantity": 400,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1300
             },
             {
                 "CE": {
-                    "askPrice": 48.85,
+                    "askPrice": 48.6,
                     "askQty": 400,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -2784,11 +2784,11 @@
                     "totalSellQuantity": 800,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
-                    "askPrice": 143.75,
-                    "askQty": 1200,
+                    "askPrice": 0,
+                    "askQty": 0,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -2802,10 +2802,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1320,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 1200,
+                    "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1320
@@ -2813,76 +2813,76 @@
             {
                 "CE": {
                     "askPrice": 8.8,
-                    "askQty": 1200,
-                    "bidQty": 800,
-                    "bidprice": 8.45,
-                    "change": -10.95,
-                    "changeinOpenInterest": 3,
+                    "askQty": 800,
+                    "bidQty": 400,
+                    "bidprice": 8.5,
+                    "change": -10.45,
+                    "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKMETROPOLIS25-05-2023CE1320.00",
                     "impliedVolatility": 39.71,
-                    "lastPrice": 8.3,
-                    "openInterest": 272,
-                    "pChange": -56.88311688311688,
-                    "pchangeinOpenInterest": 1.1152416356877324,
+                    "lastPrice": 8.8,
+                    "openInterest": 266,
+                    "pChange": -54.285714285714285,
+                    "pchangeinOpenInterest": -1.1152416356877324,
                     "strikePrice": 1320,
-                    "totalBuyQuantity": 88800,
-                    "totalSellQuantity": 76000,
-                    "totalTradedVolume": 381,
+                    "totalBuyQuantity": 91200,
+                    "totalSellQuantity": 77200,
+                    "totalTradedVolume": 385,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
-                    "askPrice": 68.1,
-                    "askQty": 800,
-                    "bidQty": 400,
-                    "bidprice": 66.15,
-                    "change": 17.25,
-                    "changeinOpenInterest": -13,
+                    "askPrice": 68.55,
+                    "askQty": 400,
+                    "bidQty": 800,
+                    "bidprice": 66.8,
+                    "change": 24.049999999999997,
+                    "changeinOpenInterest": -15,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKMETROPOLIS25-05-2023PE1320.00",
                     "impliedVolatility": 29.78,
-                    "lastPrice": 61.25,
-                    "openInterest": 23,
-                    "pChange": 39.20454545454545,
-                    "pchangeinOpenInterest": -36.111111111111114,
+                    "lastPrice": 68.05,
+                    "openInterest": 21,
+                    "pChange": 54.6590909090909,
+                    "pchangeinOpenInterest": -41.666666666666664,
                     "strikePrice": 1320,
-                    "totalBuyQuantity": 59600,
-                    "totalSellQuantity": 22400,
-                    "totalTradedVolume": 28,
+                    "totalBuyQuantity": 59200,
+                    "totalSellQuantity": 20400,
+                    "totalTradedVolume": 29,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1320
             },
             {
                 "CE": {
-                    "askPrice": 5.85,
-                    "askQty": 800,
+                    "askPrice": 6.15,
+                    "askQty": 400,
                     "bidQty": 400,
-                    "bidprice": 5.6,
-                    "change": -7.6000000000000005,
-                    "changeinOpenInterest": 8,
+                    "bidprice": 5.95,
+                    "change": -6.950000000000001,
+                    "changeinOpenInterest": 11,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKMETROPOLIS25-05-2023CE1340.00",
                     "impliedVolatility": 41.31,
-                    "lastPrice": 5.45,
-                    "openInterest": 286,
-                    "pChange": -58.23754789272031,
-                    "pchangeinOpenInterest": 2.8776978417266186,
+                    "lastPrice": 6.1,
+                    "openInterest": 289,
+                    "pChange": -53.25670498084292,
+                    "pchangeinOpenInterest": 3.9568345323741005,
                     "strikePrice": 1340,
-                    "totalBuyQuantity": 84000,
-                    "totalSellQuantity": 73200,
-                    "totalTradedVolume": 287,
+                    "totalBuyQuantity": 83600,
+                    "totalSellQuantity": 72800,
+                    "totalTradedVolume": 295,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
-                    "askPrice": 86.65,
+                    "askPrice": 86.05,
                     "askQty": 400,
                     "bidQty": 400,
-                    "bidprice": 83.1,
+                    "bidprice": 83.55,
                     "change": 27.450000000000003,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2893,18 +2893,18 @@
                     "pChange": 48.54111405835545,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1340,
-                    "totalBuyQuantity": 53600,
+                    "totalBuyQuantity": 55200,
                     "totalSellQuantity": 39600,
                     "totalTradedVolume": 2,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1340
             },
             {
                 "CE": {
-                    "askPrice": 40.25,
+                    "askPrice": 40,
                     "askQty": 400,
                     "bidQty": 400,
                     "bidprice": 9,
@@ -2922,13 +2922,13 @@
                     "totalSellQuantity": 400,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
-                    "askPrice": 161.25,
+                    "askPrice": 161.65,
                     "askQty": 1200,
                     "bidQty": 400,
-                    "bidprice": 83.8,
+                    "bidprice": 84.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2943,7 +2943,7 @@
                     "totalSellQuantity": 1600,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1340
@@ -2968,7 +2968,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2989,63 +2989,63 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1360
             },
             {
                 "CE": {
-                    "askPrice": 4.15,
-                    "askQty": 400,
-                    "bidQty": 400,
-                    "bidprice": 4,
-                    "change": -5.300000000000001,
-                    "changeinOpenInterest": 39,
+                    "askPrice": 4.4,
+                    "askQty": 800,
+                    "bidQty": 800,
+                    "bidprice": 4.2,
+                    "change": -5.2,
+                    "changeinOpenInterest": 37,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKMETROPOLIS25-05-2023CE1360.00",
-                    "impliedVolatility": 42.93,
-                    "lastPrice": 4.1,
-                    "openInterest": 460,
-                    "pChange": -56.382978723404264,
-                    "pchangeinOpenInterest": 9.263657957244655,
+                    "impliedVolatility": 43.19,
+                    "lastPrice": 4.2,
+                    "openInterest": 458,
+                    "pChange": -55.319148936170215,
+                    "pchangeinOpenInterest": 8.788598574821853,
                     "strikePrice": 1360,
                     "totalBuyQuantity": 108400,
-                    "totalSellQuantity": 79600,
-                    "totalTradedVolume": 237,
+                    "totalSellQuantity": 80800,
+                    "totalTradedVolume": 238,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
-                    "askPrice": 105.2,
+                    "askPrice": 103.5,
                     "askQty": 400,
                     "bidQty": 400,
-                    "bidprice": 101.55,
+                    "bidprice": 102.3,
                     "change": 42.3,
                     "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKMETROPOLIS25-05-2023PE1360.00",
-                    "impliedVolatility": 54.03,
+                    "impliedVolatility": 43.51,
                     "lastPrice": 101.5,
                     "openInterest": 23,
                     "pChange": 71.4527027027027,
                     "pchangeinOpenInterest": 9.523809523809524,
                     "strikePrice": 1360,
-                    "totalBuyQuantity": 40400,
+                    "totalBuyQuantity": 42400,
                     "totalSellQuantity": 26400,
                     "totalTradedVolume": 4,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1360
             },
             {
                 "CE": {
-                    "askPrice": 3.1,
-                    "askQty": 400,
+                    "askPrice": 3.25,
+                    "askQty": 800,
                     "bidQty": 400,
-                    "bidprice": 2.95,
+                    "bidprice": 3.05,
                     "change": -3.55,
                     "changeinOpenInterest": 14,
                     "expiryDate": "25-May-2023",
@@ -3056,17 +3056,17 @@
                     "pChange": -54.19847328244275,
                     "pchangeinOpenInterest": 8.13953488372093,
                     "strikePrice": 1380,
-                    "totalBuyQuantity": 80000,
-                    "totalSellQuantity": 69200,
+                    "totalBuyQuantity": 80400,
+                    "totalSellQuantity": 69600,
                     "totalTradedVolume": 101,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
-                    "askPrice": 127.7,
-                    "askQty": 1200,
+                    "askPrice": 122.7,
+                    "askQty": 400,
                     "bidQty": 400,
-                    "bidprice": 118.5,
+                    "bidprice": 120.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3077,11 +3077,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1380,
-                    "totalBuyQuantity": 41600,
-                    "totalSellQuantity": 26800,
+                    "totalBuyQuantity": 39600,
+                    "totalSellQuantity": 26000,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1380
@@ -3106,38 +3106,38 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1380
             },
             {
                 "CE": {
-                    "askPrice": 2.3,
+                    "askPrice": 2.35,
                     "askQty": 400,
-                    "bidQty": 400,
-                    "bidprice": 2.15,
-                    "change": -2.7,
-                    "changeinOpenInterest": -7,
+                    "bidQty": 800,
+                    "bidprice": 2.2,
+                    "change": -2.5500000000000003,
+                    "changeinOpenInterest": -13,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKMETROPOLIS25-05-2023CE1400.00",
                     "impliedVolatility": 47.67,
-                    "lastPrice": 2.2,
-                    "openInterest": 484,
-                    "pChange": -55.10204081632652,
-                    "pchangeinOpenInterest": -1.4256619144602851,
+                    "lastPrice": 2.35,
+                    "openInterest": 478,
+                    "pChange": -52.04081632653062,
+                    "pchangeinOpenInterest": -2.6476578411405294,
                     "strikePrice": 1400,
                     "totalBuyQuantity": 94800,
                     "totalSellQuantity": 100000,
-                    "totalTradedVolume": 469,
+                    "totalTradedVolume": 488,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
-                    "askPrice": 143.35,
+                    "askPrice": 144.3,
                     "askQty": 400,
                     "bidQty": 400,
-                    "bidprice": 136,
+                    "bidprice": 139.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3148,18 +3148,18 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1400,
-                    "totalBuyQuantity": 24400,
+                    "totalBuyQuantity": 24800,
                     "totalSellQuantity": 24400,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1400
             },
             {
                 "CE": {
-                    "askPrice": 35.75,
+                    "askPrice": 20,
                     "askQty": 400,
                     "bidQty": 400,
                     "bidprice": 5,
@@ -3174,16 +3174,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1400,
                     "totalBuyQuantity": 1600,
-                    "totalSellQuantity": 400,
+                    "totalSellQuantity": 800,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
-                    "askPrice": 213.4,
+                    "askPrice": 165.4,
                     "askQty": 1200,
                     "bidQty": 1200,
-                    "bidprice": 94.35,
+                    "bidprice": 96,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3198,7 +3198,7 @@
                     "totalSellQuantity": 1600,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1400
@@ -3206,30 +3206,30 @@
             {
                 "CE": {
                     "askPrice": 1.7,
-                    "askQty": 400,
-                    "bidQty": 400,
+                    "askQty": 1200,
+                    "bidQty": 800,
                     "bidprice": 1.55,
-                    "change": -2.0999999999999996,
+                    "change": -2,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKMETROPOLIS25-05-2023CE1420.00",
                     "impliedVolatility": 49.44,
-                    "lastPrice": 1.55,
+                    "lastPrice": 1.65,
                     "openInterest": 127,
-                    "pChange": -57.534246575342465,
+                    "pChange": -54.794520547945204,
                     "pchangeinOpenInterest": 0.7936507936507936,
                     "strikePrice": 1420,
                     "totalBuyQuantity": 64000,
-                    "totalSellQuantity": 64800,
-                    "totalTradedVolume": 53,
+                    "totalSellQuantity": 65200,
+                    "totalTradedVolume": 54,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
-                    "askPrice": 166.3,
+                    "askPrice": 166.25,
                     "askQty": 1200,
-                    "bidQty": 1200,
-                    "bidprice": 153.4,
+                    "bidQty": 800,
+                    "bidprice": 154.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3240,11 +3240,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1420,
-                    "totalBuyQuantity": 24800,
-                    "totalSellQuantity": 24800,
+                    "totalBuyQuantity": 25600,
+                    "totalSellQuantity": 25200,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1420
@@ -3254,7 +3254,7 @@
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 1200,
-                    "bidprice": 128.85,
+                    "bidprice": 131.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3269,7 +3269,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1420
@@ -3277,30 +3277,30 @@
             {
                 "CE": {
                     "askPrice": 1.4,
-                    "askQty": 800,
+                    "askQty": 1200,
                     "bidQty": 800,
-                    "bidprice": 1.3,
-                    "change": -1.5999999999999999,
+                    "bidprice": 1.25,
+                    "change": -1.5499999999999998,
                     "changeinOpenInterest": -7,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKMETROPOLIS25-05-2023CE1440.00",
                     "impliedVolatility": 52.08,
-                    "lastPrice": 1.3,
+                    "lastPrice": 1.35,
                     "openInterest": 86,
-                    "pChange": -55.172413793103445,
+                    "pChange": -53.44827586206896,
                     "pchangeinOpenInterest": -7.526881720430108,
                     "strikePrice": 1440,
-                    "totalBuyQuantity": 62800,
-                    "totalSellQuantity": 60400,
-                    "totalTradedVolume": 19,
+                    "totalBuyQuantity": 62400,
+                    "totalSellQuantity": 61600,
+                    "totalTradedVolume": 20,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
-                    "askPrice": 187.1,
+                    "askPrice": 187.15,
                     "askQty": 1200,
-                    "bidQty": 1200,
-                    "bidprice": 174.65,
+                    "bidQty": 800,
+                    "bidprice": 173.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3311,11 +3311,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1440,
-                    "totalBuyQuantity": 25200,
-                    "totalSellQuantity": 24800,
+                    "totalBuyQuantity": 24400,
+                    "totalSellQuantity": 23600,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1440
@@ -3325,7 +3325,7 @@
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 1200,
-                    "bidprice": 128.5,
+                    "bidprice": 136.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3340,7 +3340,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1440
@@ -3365,13 +3365,13 @@
                     "totalSellQuantity": 61600,
                     "totalTradedVolume": 78,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
-                    "askPrice": 206.85,
+                    "askPrice": 205.35,
                     "askQty": 1200,
-                    "bidQty": 1600,
-                    "bidprice": 192.35,
+                    "bidQty": 400,
+                    "bidprice": 189.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3382,11 +3382,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1460,
-                    "totalBuyQuantity": 25200,
-                    "totalSellQuantity": 24800,
+                    "totalBuyQuantity": 24400,
+                    "totalSellQuantity": 25200,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1460
@@ -3395,8 +3395,8 @@
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
-                    "bidQty": 20000,
-                    "bidprice": 136.85,
+                    "bidQty": 1200,
+                    "bidprice": 144,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3411,7 +3411,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1460
@@ -3436,7 +3436,7 @@
                     "totalSellQuantity": 41200,
                     "totalTradedVolume": 1,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
                     "askPrice": 225.1,
@@ -3457,7 +3457,7 @@
                     "totalSellQuantity": 23600,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1480
@@ -3467,7 +3467,7 @@
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 1200,
-                    "bidprice": 148.1,
+                    "bidprice": 154.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3482,7 +3482,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1480
@@ -3504,16 +3504,16 @@
                     "pchangeinOpenInterest": -6.806282722513089,
                     "strikePrice": 1500,
                     "totalBuyQuantity": 66400,
-                    "totalSellQuantity": 50800,
+                    "totalSellQuantity": 51200,
                     "totalTradedVolume": 42,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
-                    "askPrice": 246.15,
-                    "askQty": 1600,
-                    "bidQty": 400,
-                    "bidprice": 232.75,
+                    "askPrice": 246,
+                    "askQty": 400,
+                    "bidQty": 1200,
+                    "bidprice": 233.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3524,18 +3524,18 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1500,
-                    "totalBuyQuantity": 24800,
+                    "totalBuyQuantity": 25200,
                     "totalSellQuantity": 25600,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1500
             },
             {
                 "CE": {
-                    "askPrice": 20,
+                    "askPrice": 21.6,
                     "askQty": 400,
                     "bidQty": 400,
                     "bidprice": 3.1,
@@ -3550,16 +3550,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1500,
                     "totalBuyQuantity": 28800,
-                    "totalSellQuantity": 800,
+                    "totalSellQuantity": 400,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
                     "askPrice": 308.6,
                     "askQty": 2000,
                     "bidQty": 1200,
-                    "bidprice": 208.8,
+                    "bidprice": 215.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3574,7 +3574,7 @@
                     "totalSellQuantity": 2000,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1500
@@ -3599,13 +3599,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
                     "askPrice": 278.95,
                     "askQty": 1200,
                     "bidQty": 1200,
-                    "bidprice": 239.95,
+                    "bidprice": 240.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3620,7 +3620,7 @@
                     "totalSellQuantity": 21200,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1520
@@ -3645,13 +3645,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 1200,
-                    "bidprice": 169.5,
+                    "bidprice": 174.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3666,7 +3666,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1520
@@ -3691,7 +3691,7 @@
                     "totalSellQuantity": 20000,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
                     "askPrice": 283.65,
@@ -3712,7 +3712,7 @@
                     "totalSellQuantity": 22400,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1540
@@ -3737,13 +3737,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 1200,
-                    "bidprice": 243.55,
+                    "bidprice": 248.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3758,7 +3758,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1540
@@ -3783,13 +3783,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
                     "askPrice": 316.35,
                     "askQty": 1200,
                     "bidQty": 1200,
-                    "bidprice": 278.1,
+                    "bidprice": 278.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3804,7 +3804,7 @@
                     "totalSellQuantity": 21200,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1560
@@ -3829,13 +3829,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 1200,
-                    "bidprice": 184.3,
+                    "bidprice": 190.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3850,7 +3850,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "METROPOLIS",
-                    "underlyingValue": 1260.75
+                    "underlyingValue": 1261.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1560
@@ -3892,7 +3892,7 @@
             1540,
             1560
         ],
-        "timestamp": "18-May-2023 10:21:15",
-        "underlyingValue": 1260.75
+        "timestamp": "18-May-2023 10:26:47",
+        "underlyingValue": 1261.1
     }
 }

@@ -1,12 +1,12 @@
 {
     "filtered": {
         "CE": {
-            "totOI": 3134,
-            "totVol": 828
+            "totOI": 3116,
+            "totVol": 1011
         },
         "PE": {
-            "totOI": 2381,
-            "totVol": 231
+            "totOI": 2378,
+            "totVol": 262
         },
         "data": [
             {
@@ -29,7 +29,7 @@
                     "totalSellQuantity": 4500,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 3950
@@ -54,7 +54,7 @@
                     "totalSellQuantity": 4500,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 4300
@@ -79,17 +79,17 @@
                     "totalSellQuantity": 4500,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 4350
             },
             {
                 "CE": {
-                    "askPrice": 1838.6,
+                    "askPrice": 1832.4,
                     "askQty": 450,
                     "bidQty": 450,
-                    "bidprice": 987,
+                    "bidprice": 993,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -104,17 +104,17 @@
                     "totalSellQuantity": 4950,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 4400
             },
             {
                 "CE": {
-                    "askPrice": 1791.45,
+                    "askPrice": 1784.05,
                     "askQty": 4500,
-                    "bidQty": 4500,
-                    "bidprice": 936.95,
+                    "bidQty": 450,
+                    "bidprice": 944.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -129,7 +129,7 @@
                     "totalSellQuantity": 4950,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
                     "askPrice": 0,
@@ -150,17 +150,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 4450
             },
             {
                 "CE": {
-                    "askPrice": 1742.35,
-                    "askQty": 450,
-                    "bidQty": 450,
-                    "bidprice": 906,
+                    "askPrice": 1734.8,
+                    "askQty": 4500,
+                    "bidQty": 4500,
+                    "bidprice": 913.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -175,7 +175,7 @@
                     "totalSellQuantity": 4950,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
                     "askPrice": 0,
@@ -196,17 +196,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 4500
             },
             {
                 "CE": {
-                    "askPrice": 1683.2,
+                    "askPrice": 1677.6,
                     "askQty": 450,
                     "bidQty": 450,
-                    "bidprice": 878.05,
+                    "bidprice": 883.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -221,17 +221,17 @@
                     "totalSellQuantity": 4950,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 4550
             },
             {
                 "CE": {
-                    "askPrice": 1344.3,
+                    "askPrice": 1338.6,
                     "askQty": 450,
                     "bidQty": 450,
-                    "bidprice": 846.15,
+                    "bidprice": 852.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -246,7 +246,7 @@
                     "totalSellQuantity": 4950,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
                     "askPrice": 0,
@@ -267,17 +267,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 4600
             },
             {
                 "CE": {
-                    "askPrice": 1287.3,
-                    "askQty": 4500,
+                    "askPrice": 1279.35,
+                    "askQty": 450,
                     "bidQty": 450,
-                    "bidprice": 814.95,
+                    "bidprice": 823.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -292,17 +292,17 @@
                     "totalSellQuantity": 4950,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 4650
             },
             {
                 "CE": {
-                    "askPrice": 1475.15,
+                    "askPrice": 1466.95,
                     "askQty": 450,
-                    "bidQty": 4500,
-                    "bidprice": 799,
+                    "bidQty": 750,
+                    "bidprice": 808.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -317,7 +317,7 @@
                     "totalSellQuantity": 4950,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 4700
@@ -342,7 +342,7 @@
                     "totalSellQuantity": 4950,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
                     "askPrice": 0,
@@ -363,17 +363,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 4750
             },
             {
                 "CE": {
-                    "askPrice": 1125.2,
+                    "askPrice": 1116.3,
                     "askQty": 450,
                     "bidQty": 450,
-                    "bidprice": 722.6,
+                    "bidprice": 731,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -388,7 +388,7 @@
                     "totalSellQuantity": 4950,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "PE": {
                     "askPrice": 0,
@@ -409,17 +409,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 4800
             },
             {
                 "CE": {
-                    "askPrice": 1066.4,
+                    "askPrice": 1060.5,
                     "askQty": 450,
                     "bidQty": 450,
-                    "bidprice": 695.95,
+                    "bidprice": 701.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -434,14 +434,14 @@
                     "totalSellQuantity": 4950,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 4850
             },
             {
                 "CE": {
-                    "askPrice": 999.4,
+                    "askPrice": 994.2,
                     "askQty": 450,
                     "bidQty": 450,
                     "bidprice": 812,
@@ -459,7 +459,7 @@
                     "totalSellQuantity": 4950,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
                     "askPrice": 0,
@@ -480,17 +480,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 15,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 4900
             },
             {
                 "CE": {
-                    "askPrice": 959.3,
+                    "askPrice": 952.5,
                     "askQty": 450,
                     "bidQty": 450,
-                    "bidprice": 632.5,
+                    "bidprice": 639.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -505,7 +505,7 @@
                     "totalSellQuantity": 4950,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 4950
@@ -530,38 +530,38 @@
                     "totalSellQuantity": 6150,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
                     "askPrice": 6,
                     "askQty": 750,
                     "bidQty": 150,
-                    "bidprice": 3,
-                    "change": 0,
+                    "bidprice": 2.5,
+                    "change": -0.1499999999999999,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDIAMART25-05-2023PE5000.00",
                     "impliedVolatility": 0,
-                    "lastPrice": 0,
+                    "lastPrice": 3,
                     "openInterest": 251,
-                    "pChange": 0,
+                    "pChange": -4.761904761904759,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 5000,
-                    "totalBuyQuantity": 14400,
+                    "totalBuyQuantity": 20250,
                     "totalSellQuantity": 750,
-                    "totalTradedVolume": 0,
+                    "totalTradedVolume": 1,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 5000
             },
             {
                 "CE": {
-                    "askPrice": 855.15,
+                    "askPrice": 845.65,
                     "askQty": 450,
                     "bidQty": 450,
-                    "bidprice": 572.65,
+                    "bidprice": 582.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -576,7 +576,7 @@
                     "totalSellQuantity": 4950,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
                     "askPrice": 0,
@@ -597,17 +597,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 5050
             },
             {
                 "CE": {
-                    "askPrice": 801.25,
+                    "askPrice": 794.55,
                     "askQty": 450,
                     "bidQty": 450,
-                    "bidprice": 553.8,
+                    "bidprice": 567.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -622,7 +622,7 @@
                     "totalSellQuantity": 4950,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "PE": {
                     "askPrice": 0,
@@ -643,17 +643,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 5100
             },
             {
                 "CE": {
-                    "askPrice": 747.15,
+                    "askPrice": 740.75,
                     "askQty": 450,
                     "bidQty": 450,
-                    "bidprice": 535.8,
+                    "bidprice": 542.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -668,7 +668,7 @@
                     "totalSellQuantity": 4950,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
                     "askPrice": 0,
@@ -689,17 +689,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 5150
             },
             {
                 "CE": {
-                    "askPrice": 653.45,
+                    "askPrice": 618.95,
                     "askQty": 450,
-                    "bidQty": 150,
-                    "bidprice": 574.2,
+                    "bidQty": 450,
+                    "bidprice": 560.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -710,17 +710,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 5200,
-                    "totalBuyQuantity": 6600,
+                    "totalBuyQuantity": 6000,
                     "totalSellQuantity": 6450,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
-                    "askPrice": 5.9,
+                    "askPrice": 5.45,
                     "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 4.55,
+                    "bidprice": 4.3,
                     "change": -1.4000000000000004,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
@@ -731,21 +731,21 @@
                     "pChange": -20.000000000000004,
                     "pchangeinOpenInterest": -0.45454545454545453,
                     "strikePrice": 5200,
-                    "totalBuyQuantity": 22050,
+                    "totalBuyQuantity": 21900,
                     "totalSellQuantity": 12150,
                     "totalTradedVolume": 15,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 5200
             },
             {
                 "CE": {
-                    "askPrice": 646,
+                    "askPrice": 640.45,
                     "askQty": 150,
                     "bidQty": 450,
-                    "bidprice": 498,
+                    "bidprice": 433.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -756,11 +756,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 5250,
-                    "totalBuyQuantity": 5700,
+                    "totalBuyQuantity": 5550,
                     "totalSellQuantity": 4650,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
                     "askPrice": 0,
@@ -781,17 +781,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 5250
             },
             {
                 "CE": {
-                    "askPrice": 541.9,
-                    "askQty": 600,
-                    "bidQty": 450,
-                    "bidprice": 476.25,
+                    "askPrice": 507,
+                    "askQty": 150,
+                    "bidQty": 600,
+                    "bidprice": 481.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -802,17 +802,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 5300,
-                    "totalBuyQuantity": 10500,
-                    "totalSellQuantity": 10200,
+                    "totalBuyQuantity": 10050,
+                    "totalSellQuantity": 9450,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "PE": {
-                    "askPrice": 9.75,
-                    "askQty": 900,
+                    "askPrice": 9.25,
+                    "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 8.55,
+                    "bidprice": 7.9,
                     "change": -0.75,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
@@ -823,21 +823,21 @@
                     "pChange": -7.731958762886598,
                     "pchangeinOpenInterest": 0.4291845493562232,
                     "strikePrice": 5300,
-                    "totalBuyQuantity": 24000,
-                    "totalSellQuantity": 9150,
+                    "totalBuyQuantity": 24150,
+                    "totalSellQuantity": 9450,
                     "totalTradedVolume": 7,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 5300
             },
             {
                 "CE": {
-                    "askPrice": 555.85,
+                    "askPrice": 549.15,
                     "askQty": 150,
-                    "bidQty": 450,
-                    "bidprice": 378.95,
+                    "bidQty": 150,
+                    "bidprice": 386,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -852,7 +852,7 @@
                     "totalSellQuantity": 4650,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "PE": {
                     "askPrice": 0,
@@ -873,17 +873,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 5350
             },
             {
                 "CE": {
-                    "askPrice": 434.9,
-                    "askQty": 450,
-                    "bidQty": 150,
-                    "bidprice": 394.05,
+                    "askPrice": 421.9,
+                    "askQty": 150,
+                    "bidQty": 450,
+                    "bidprice": 378.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -894,42 +894,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 5400,
-                    "totalBuyQuantity": 11550,
-                    "totalSellQuantity": 12000,
+                    "totalBuyQuantity": 12150,
+                    "totalSellQuantity": 12150,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
-                    "askPrice": 14.55,
+                    "askPrice": 14.1,
                     "askQty": 150,
-                    "bidQty": 300,
-                    "bidprice": 13.3,
-                    "change": -0.1999999999999993,
+                    "bidQty": 150,
+                    "bidprice": 12.4,
+                    "change": 0.25,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDIAMART25-05-2023PE5400.00",
                     "impliedVolatility": 38.89,
-                    "lastPrice": 13.55,
+                    "lastPrice": 14,
                     "openInterest": 168,
-                    "pChange": -1.4545454545454493,
+                    "pChange": 1.8181818181818181,
                     "pchangeinOpenInterest": -1.1764705882352942,
                     "strikePrice": 5400,
-                    "totalBuyQuantity": 29550,
-                    "totalSellQuantity": 11250,
-                    "totalTradedVolume": 28,
+                    "totalBuyQuantity": 28800,
+                    "totalSellQuantity": 16350,
+                    "totalTradedVolume": 30,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 5400
             },
             {
                 "CE": {
-                    "askPrice": 460.75,
+                    "askPrice": 457.25,
                     "askQty": 150,
-                    "bidQty": 450,
-                    "bidprice": 317.2,
+                    "bidQty": 600,
+                    "bidprice": 301.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -944,7 +944,7 @@
                     "totalSellQuantity": 4650,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
                     "askPrice": 0,
@@ -965,17 +965,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 5450
             },
             {
                 "CE": {
-                    "askPrice": 338.7,
+                    "askPrice": 324.6,
                     "askQty": 150,
-                    "bidQty": 750,
-                    "bidprice": 309.3,
+                    "bidQty": 150,
+                    "bidprice": 294.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -990,38 +990,38 @@
                     "totalSellQuantity": 11550,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
-                    "askPrice": 24.8,
+                    "askPrice": 24.3,
                     "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 22.45,
-                    "change": 0.05000000000000071,
+                    "bidprice": 21.4,
+                    "change": 3.5500000000000007,
                     "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDIAMART25-05-2023PE5500.00",
                     "impliedVolatility": 35.94,
-                    "lastPrice": 21.5,
+                    "lastPrice": 25,
                     "openInterest": 322,
-                    "pChange": 0.23310023310023645,
+                    "pChange": 16.550116550116552,
                     "pchangeinOpenInterest": 0.9404388714733543,
                     "strikePrice": 5500,
-                    "totalBuyQuantity": 34800,
-                    "totalSellQuantity": 10050,
-                    "totalTradedVolume": 52,
+                    "totalBuyQuantity": 34650,
+                    "totalSellQuantity": 14400,
+                    "totalTradedVolume": 64,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 5500
             },
             {
                 "CE": {
-                    "askPrice": 310.25,
-                    "askQty": 450,
+                    "askPrice": 299.8,
+                    "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 261,
+                    "bidprice": 261.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1036,13 +1036,13 @@
                     "totalSellQuantity": 6600,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
-                    "askPrice": 30.1,
-                    "askQty": 150,
+                    "askPrice": 29.1,
+                    "askQty": 300,
                     "bidQty": 150,
-                    "bidprice": 27.4,
+                    "bidprice": 27.35,
                     "change": -15.7,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
@@ -1057,17 +1057,17 @@
                     "totalSellQuantity": 5250,
                     "totalTradedVolume": 12,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 5550
             },
             {
                 "CE": {
-                    "askPrice": 241.75,
+                    "askPrice": 229.85,
                     "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 225.15,
+                    "bidprice": 214.55,
                     "change": -31.049999999999983,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1078,42 +1078,42 @@
                     "pChange": -10.915802425733867,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 5600,
-                    "totalBuyQuantity": 12000,
-                    "totalSellQuantity": 12150,
+                    "totalBuyQuantity": 12300,
+                    "totalSellQuantity": 12300,
                     "totalTradedVolume": 1,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "PE": {
-                    "askPrice": 36.75,
+                    "askPrice": 38.55,
                     "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 33,
-                    "change": 1.25,
+                    "bidprice": 34.55,
+                    "change": 5.149999999999999,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDIAMART25-05-2023PE5600.00",
                     "impliedVolatility": 31.96,
-                    "lastPrice": 32.1,
+                    "lastPrice": 36,
                     "openInterest": 158,
-                    "pChange": 4.051863857374392,
+                    "pChange": 16.693679092382492,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 5600,
-                    "totalBuyQuantity": 29550,
-                    "totalSellQuantity": 10800,
-                    "totalTradedVolume": 14,
+                    "totalBuyQuantity": 30000,
+                    "totalSellQuantity": 10950,
+                    "totalTradedVolume": 15,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 5600
             },
             {
                 "CE": {
-                    "askPrice": 218.05,
+                    "askPrice": 199.95,
                     "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 140.8,
+                    "bidprice": 132.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1125,10 +1125,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 5650,
                     "totalBuyQuantity": 9900,
-                    "totalSellQuantity": 10350,
+                    "totalSellQuantity": 9900,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "PE": {
                     "askPrice": 48,
@@ -1149,17 +1149,17 @@
                     "totalSellQuantity": 5550,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 5650
             },
             {
                 "CE": {
-                    "askPrice": 161.85,
+                    "askPrice": 155.45,
                     "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 152.15,
+                    "bidprice": 140.9,
                     "change": -27.900000000000006,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
@@ -1170,42 +1170,42 @@
                     "pChange": -15.500000000000004,
                     "pchangeinOpenInterest": 0.7936507936507936,
                     "strikePrice": 5700,
-                    "totalBuyQuantity": 12000,
-                    "totalSellQuantity": 8100,
-                    "totalTradedVolume": 3,
+                    "totalBuyQuantity": 11850,
+                    "totalSellQuantity": 8250,
+                    "totalTradedVolume": 4,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
-                    "askPrice": 61.35,
+                    "askPrice": 61.2,
                     "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 55.75,
-                    "change": 9.649999999999999,
-                    "changeinOpenInterest": 7,
+                    "bidprice": 54.55,
+                    "change": 9.149999999999999,
+                    "changeinOpenInterest": 5,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDIAMART25-05-2023PE5700.00",
                     "impliedVolatility": 30.43,
-                    "lastPrice": 60.5,
-                    "openInterest": 172,
-                    "pChange": 18.977384464110123,
-                    "pchangeinOpenInterest": 4.242424242424242,
+                    "lastPrice": 60,
+                    "openInterest": 170,
+                    "pChange": 17.994100294985245,
+                    "pchangeinOpenInterest": 3.0303030303030303,
                     "strikePrice": 5700,
-                    "totalBuyQuantity": 23550,
+                    "totalBuyQuantity": 23400,
                     "totalSellQuantity": 10350,
-                    "totalTradedVolume": 17,
+                    "totalTradedVolume": 20,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 5700
             },
             {
                 "CE": {
-                    "askPrice": 144.35,
+                    "askPrice": 121.6,
                     "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 54.55,
+                    "bidprice": 77.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1216,17 +1216,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 5750,
-                    "totalBuyQuantity": 9900,
-                    "totalSellQuantity": 5550,
+                    "totalBuyQuantity": 10050,
+                    "totalSellQuantity": 5700,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
-                    "askPrice": 125.4,
+                    "askPrice": 98.85,
                     "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 30.1,
+                    "bidprice": 58.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1241,53 +1241,53 @@
                     "totalSellQuantity": 1950,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 5750
             },
             {
                 "CE": {
-                    "askPrice": 92.35,
+                    "askPrice": 83.25,
                     "askQty": 150,
-                    "bidQty": 300,
-                    "bidprice": 87.15,
-                    "change": -22,
-                    "changeinOpenInterest": 5,
+                    "bidQty": 150,
+                    "bidprice": 80.8,
+                    "change": -31.150000000000006,
+                    "changeinOpenInterest": 11,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDIAMART25-05-2023CE5800.00",
                     "impliedVolatility": 29.19,
-                    "lastPrice": 89.9,
-                    "openInterest": 222,
-                    "pChange": -19.66041108132261,
-                    "pchangeinOpenInterest": 2.304147465437788,
+                    "lastPrice": 80.75,
+                    "openInterest": 228,
+                    "pChange": -27.83735478105452,
+                    "pchangeinOpenInterest": 5.0691244239631335,
                     "strikePrice": 5800,
-                    "totalBuyQuantity": 19950,
-                    "totalSellQuantity": 13050,
-                    "totalTradedVolume": 96,
+                    "totalBuyQuantity": 20100,
+                    "totalSellQuantity": 13200,
+                    "totalTradedVolume": 118,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
-                    "askPrice": 92,
+                    "askPrice": 93.15,
                     "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 88.75,
-                    "change": 9.900000000000006,
-                    "changeinOpenInterest": -9,
+                    "bidprice": 89.15,
+                    "change": 10.75,
+                    "changeinOpenInterest": -10,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDIAMART25-05-2023PE5800.00",
                     "impliedVolatility": 26.44,
-                    "lastPrice": 90.75,
-                    "openInterest": 249,
-                    "pChange": 12.244897959183682,
-                    "pchangeinOpenInterest": -3.488372093023256,
+                    "lastPrice": 91.6,
+                    "openInterest": 248,
+                    "pChange": 13.296227581941869,
+                    "pchangeinOpenInterest": -3.875968992248062,
                     "strikePrice": 5800,
-                    "totalBuyQuantity": 25050,
-                    "totalSellQuantity": 12150,
-                    "totalTradedVolume": 60,
+                    "totalBuyQuantity": 20400,
+                    "totalSellQuantity": 11850,
+                    "totalTradedVolume": 71,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 5800
@@ -1312,13 +1312,13 @@
                     "totalSellQuantity": 6600,
                     "totalTradedVolume": 3,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
-                    "askPrice": 138.25,
+                    "askPrice": 130.5,
                     "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 108.05,
+                    "bidprice": 111.4,
                     "change": 3.6500000000000057,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1330,56 +1330,56 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 5850,
                     "totalBuyQuantity": 11700,
-                    "totalSellQuantity": 2400,
+                    "totalSellQuantity": 1800,
                     "totalTradedVolume": 1,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 5850
             },
             {
                 "CE": {
-                    "askPrice": 48.95,
+                    "askPrice": 44.1,
                     "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 47.05,
-                    "change": -18.750000000000007,
+                    "bidprice": 41.55,
+                    "change": -23.900000000000006,
                     "changeinOpenInterest": -9,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDIAMART25-05-2023CE5900.00",
                     "impliedVolatility": 29.44,
-                    "lastPrice": 47.15,
+                    "lastPrice": 42,
                     "openInterest": 304,
-                    "pChange": -28.452200303490145,
+                    "pChange": -36.2670713201821,
                     "pchangeinOpenInterest": -2.8753993610223643,
                     "strikePrice": 5900,
-                    "totalBuyQuantity": 24900,
-                    "totalSellQuantity": 12750,
-                    "totalTradedVolume": 84,
+                    "totalBuyQuantity": 24150,
+                    "totalSellQuantity": 11550,
+                    "totalTradedVolume": 94,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
-                    "askPrice": 153.95,
+                    "askPrice": 157.5,
                     "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 143.15,
-                    "change": 7.25,
+                    "bidprice": 148.35,
+                    "change": 23.5,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDIAMART25-05-2023PE5900.00",
                     "impliedVolatility": 22.77,
-                    "lastPrice": 138.75,
+                    "lastPrice": 155,
                     "openInterest": 159,
-                    "pChange": 5.513307984790875,
+                    "pChange": 17.870722433460077,
                     "pchangeinOpenInterest": -0.625,
                     "strikePrice": 5900,
-                    "totalBuyQuantity": 16050,
-                    "totalSellQuantity": 14700,
-                    "totalTradedVolume": 6,
+                    "totalBuyQuantity": 17400,
+                    "totalSellQuantity": 15300,
+                    "totalTradedVolume": 7,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 5900
@@ -1389,7 +1389,7 @@
                     "askPrice": 46.9,
                     "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 23,
+                    "bidprice": 20.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1401,16 +1401,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 5950,
                     "totalBuyQuantity": 13950,
-                    "totalSellQuantity": 17100,
+                    "totalSellQuantity": 12600,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
-                    "askPrice": 195.45,
+                    "askPrice": 201.3,
                     "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 171.45,
+                    "bidprice": 168.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1421,42 +1421,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 5950,
-                    "totalBuyQuantity": 6150,
+                    "totalBuyQuantity": 6300,
                     "totalSellQuantity": 1650,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 5950
             },
             {
                 "CE": {
-                    "askPrice": 26.7,
+                    "askPrice": 22.95,
                     "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 25.5,
-                    "change": -14.200000000000003,
-                    "changeinOpenInterest": -17,
+                    "bidprice": 21.85,
+                    "change": -16.700000000000003,
+                    "changeinOpenInterest": -40,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDIAMART25-05-2023CE6000.00",
                     "impliedVolatility": 29.5,
-                    "lastPrice": 25.5,
-                    "openInterest": 633,
-                    "pChange": -35.76826196473552,
-                    "pchangeinOpenInterest": -2.6153846153846154,
+                    "lastPrice": 23,
+                    "openInterest": 610,
+                    "pChange": -42.0654911838791,
+                    "pchangeinOpenInterest": -6.153846153846154,
                     "strikePrice": 6000,
-                    "totalBuyQuantity": 26250,
-                    "totalSellQuantity": 25200,
-                    "totalTradedVolume": 182,
+                    "totalBuyQuantity": 25800,
+                    "totalSellQuantity": 31350,
+                    "totalTradedVolume": 319,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "PE": {
-                    "askPrice": 231.6,
+                    "askPrice": 237.3,
                     "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 218.75,
+                    "bidprice": 229.1,
                     "change": -7,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1467,42 +1467,42 @@
                     "pChange": -3.3816425120772946,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 6000,
-                    "totalBuyQuantity": 10350,
-                    "totalSellQuantity": 6300,
+                    "totalBuyQuantity": 10500,
+                    "totalSellQuantity": 6600,
                     "totalTradedVolume": 4,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 6000
             },
             {
                 "CE": {
-                    "askPrice": 20.1,
+                    "askPrice": 18.15,
                     "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 19,
-                    "change": -35.1,
-                    "changeinOpenInterest": 3,
+                    "bidprice": 16.1,
+                    "change": -38,
+                    "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDIAMART25-05-2023CE6050.00",
                     "impliedVolatility": 31.61,
-                    "lastPrice": 21.9,
-                    "openInterest": 26,
-                    "pChange": -61.578947368421055,
-                    "pchangeinOpenInterest": 13.043478260869565,
+                    "lastPrice": 19,
+                    "openInterest": 24,
+                    "pChange": -66.66666666666666,
+                    "pchangeinOpenInterest": 4.3478260869565215,
                     "strikePrice": 6050,
-                    "totalBuyQuantity": 17700,
-                    "totalSellQuantity": 4650,
-                    "totalTradedVolume": 7,
+                    "totalBuyQuantity": 17850,
+                    "totalSellQuantity": 13800,
+                    "totalTradedVolume": 8,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
-                    "askPrice": 272.3,
-                    "askQty": 150,
+                    "askPrice": 293.45,
+                    "askQty": 300,
                     "bidQty": 150,
-                    "bidprice": 234.9,
+                    "bidprice": 244.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1514,41 +1514,41 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 6050,
                     "totalBuyQuantity": 6600,
-                    "totalSellQuantity": 6300,
+                    "totalSellQuantity": 6450,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 6050
             },
             {
                 "CE": {
-                    "askPrice": 15.1,
+                    "askPrice": 13.65,
                     "askQty": 150,
                     "bidQty": 450,
-                    "bidprice": 13.65,
-                    "change": -7.600000000000001,
-                    "changeinOpenInterest": -9,
+                    "bidprice": 13,
+                    "change": -8.100000000000001,
+                    "changeinOpenInterest": -8,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDIAMART25-05-2023CE6100.00",
                     "impliedVolatility": 31.97,
-                    "lastPrice": 14.5,
-                    "openInterest": 184,
-                    "pChange": -34.38914027149322,
-                    "pchangeinOpenInterest": -4.66321243523316,
+                    "lastPrice": 14,
+                    "openInterest": 185,
+                    "pChange": -36.651583710407245,
+                    "pchangeinOpenInterest": -4.1450777202072535,
                     "strikePrice": 6100,
-                    "totalBuyQuantity": 26400,
-                    "totalSellQuantity": 21750,
-                    "totalTradedVolume": 42,
+                    "totalBuyQuantity": 26700,
+                    "totalSellQuantity": 16050,
+                    "totalTradedVolume": 43,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "PE": {
-                    "askPrice": 326.4,
-                    "askQty": 150,
-                    "bidQty": 600,
-                    "bidprice": 298.4,
+                    "askPrice": 354.3,
+                    "askQty": 450,
+                    "bidQty": 150,
+                    "bidprice": 312.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1559,21 +1559,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 6100,
-                    "totalBuyQuantity": 11550,
-                    "totalSellQuantity": 6300,
+                    "totalBuyQuantity": 11250,
+                    "totalSellQuantity": 7200,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 6100
             },
             {
                 "CE": {
-                    "askPrice": 16.45,
+                    "askPrice": 14.55,
                     "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 9.05,
+                    "bidprice": 7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1585,16 +1585,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 6150,
                     "totalBuyQuantity": 10650,
-                    "totalSellQuantity": 6150,
+                    "totalSellQuantity": 1650,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
-                    "askPrice": 388.8,
+                    "askPrice": 397.2,
                     "askQty": 450,
-                    "bidQty": 150,
-                    "bidprice": 339.05,
+                    "bidQty": 600,
+                    "bidprice": 333.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1605,42 +1605,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 6150,
-                    "totalBuyQuantity": 10950,
-                    "totalSellQuantity": 6900,
+                    "totalBuyQuantity": 11700,
+                    "totalSellQuantity": 6450,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 6150
             },
             {
                 "CE": {
-                    "askPrice": 9.25,
+                    "askPrice": 8,
                     "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 7.85,
-                    "change": -5.85,
-                    "changeinOpenInterest": -5,
+                    "bidprice": 7.15,
+                    "change": -6.85,
+                    "changeinOpenInterest": -7,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDIAMART25-05-2023CE6200.00",
                     "impliedVolatility": 33.64,
-                    "lastPrice": 8.5,
-                    "openInterest": 182,
-                    "pChange": -40.76655052264808,
-                    "pchangeinOpenInterest": -2.6737967914438503,
+                    "lastPrice": 7.5,
+                    "openInterest": 180,
+                    "pChange": -47.735191637630656,
+                    "pchangeinOpenInterest": -3.7433155080213902,
                     "strikePrice": 6200,
-                    "totalBuyQuantity": 27300,
-                    "totalSellQuantity": 9150,
-                    "totalTradedVolume": 13,
+                    "totalBuyQuantity": 29250,
+                    "totalSellQuantity": 15750,
+                    "totalTradedVolume": 19,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
-                    "askPrice": 437.6,
+                    "askPrice": 444.1,
                     "askQty": 450,
-                    "bidQty": 150,
-                    "bidprice": 388.7,
+                    "bidQty": 450,
+                    "bidprice": 396.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1655,17 +1655,17 @@
                     "totalSellQuantity": 6900,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 6200
             },
             {
                 "CE": {
-                    "askPrice": 10.5,
+                    "askPrice": 16.7,
                     "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 3.65,
+                    "bidprice": 2.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1676,17 +1676,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 6250,
-                    "totalBuyQuantity": 10500,
-                    "totalSellQuantity": 6150,
+                    "totalBuyQuantity": 14850,
+                    "totalSellQuantity": 5100,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
-                    "askPrice": 479.75,
-                    "askQty": 450,
-                    "bidQty": 450,
-                    "bidprice": 432.2,
+                    "askPrice": 521.1,
+                    "askQty": 150,
+                    "bidQty": 150,
+                    "bidprice": 436.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1701,38 +1701,38 @@
                     "totalSellQuantity": 6450,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 6250
             },
             {
                 "CE": {
-                    "askPrice": 5.4,
+                    "askPrice": 5.55,
                     "askQty": 150,
-                    "bidQty": 300,
-                    "bidprice": 4.1,
-                    "change": -3.1999999999999993,
-                    "changeinOpenInterest": -6,
+                    "bidQty": 150,
+                    "bidprice": 4.75,
+                    "change": -2.999999999999999,
+                    "changeinOpenInterest": -4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDIAMART25-05-2023CE6300.00",
                     "impliedVolatility": 34.3,
-                    "lastPrice": 5,
-                    "openInterest": 223,
-                    "pChange": -39.02439024390244,
-                    "pchangeinOpenInterest": -2.6200873362445414,
+                    "lastPrice": 5.2,
+                    "openInterest": 225,
+                    "pChange": -36.58536585365853,
+                    "pchangeinOpenInterest": -1.7467248908296944,
                     "strikePrice": 6300,
-                    "totalBuyQuantity": 23700,
-                    "totalSellQuantity": 13950,
-                    "totalTradedVolume": 32,
+                    "totalBuyQuantity": 26850,
+                    "totalSellQuantity": 16800,
+                    "totalTradedVolume": 36,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
-                    "askPrice": 528.05,
+                    "askPrice": 544.75,
                     "askQty": 450,
                     "bidQty": 150,
-                    "bidprice": 483,
+                    "bidprice": 478.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1744,10 +1744,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 6300,
                     "totalBuyQuantity": 6450,
-                    "totalSellQuantity": 6300,
+                    "totalSellQuantity": 6450,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 6300
@@ -1772,7 +1772,7 @@
                     "totalSellQuantity": 4500,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
                     "askPrice": 589.7,
@@ -1793,16 +1793,16 @@
                     "totalSellQuantity": 5400,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 6350
             },
             {
                 "CE": {
-                    "askPrice": 4.25,
+                    "askPrice": 4.7,
                     "askQty": 150,
-                    "bidQty": 300,
+                    "bidQty": 150,
                     "bidprice": 4,
                     "change": -2.3,
                     "changeinOpenInterest": 14,
@@ -1815,16 +1815,16 @@
                     "pchangeinOpenInterest": 3.723404255319149,
                     "strikePrice": 6400,
                     "totalBuyQuantity": 29250,
-                    "totalSellQuantity": 16200,
+                    "totalSellQuantity": 11700,
                     "totalTradedVolume": 295,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
-                    "askPrice": 633.3,
+                    "askPrice": 642.45,
                     "askQty": 450,
                     "bidQty": 450,
-                    "bidprice": 553.35,
+                    "bidprice": 568.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1839,7 +1839,7 @@
                     "totalSellQuantity": 5850,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 6400
@@ -1864,11 +1864,11 @@
                     "totalSellQuantity": 4500,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
-                    "askPrice": 688.25,
-                    "askQty": 450,
+                    "askPrice": 688.3,
+                    "askQty": 900,
                     "bidQty": 450,
                     "bidprice": 612.15,
                     "change": 0,
@@ -1882,35 +1882,35 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 6450,
                     "totalBuyQuantity": 5850,
-                    "totalSellQuantity": 5850,
+                    "totalSellQuantity": 5400,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 6450
             },
             {
                 "CE": {
-                    "askPrice": 3,
-                    "askQty": 150,
+                    "askPrice": 3.1,
+                    "askQty": 300,
                     "bidQty": 150,
-                    "bidprice": 2.55,
-                    "change": -1.3000000000000003,
+                    "bidprice": 2.75,
+                    "change": -1.0500000000000003,
                     "changeinOpenInterest": -36,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDIAMART25-05-2023CE6500.00",
                     "impliedVolatility": 40.79,
-                    "lastPrice": 2.65,
+                    "lastPrice": 2.9,
                     "openInterest": 268,
-                    "pChange": -32.911392405063296,
+                    "pChange": -26.58227848101266,
                     "pchangeinOpenInterest": -11.842105263157896,
                     "strikePrice": 6500,
-                    "totalBuyQuantity": 28650,
-                    "totalSellQuantity": 15900,
-                    "totalTradedVolume": 68,
+                    "totalBuyQuantity": 28800,
+                    "totalSellQuantity": 16050,
+                    "totalTradedVolume": 69,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "PE": {
                     "askPrice": 739.45,
@@ -1931,7 +1931,7 @@
                     "totalSellQuantity": 5850,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 6500
@@ -1956,13 +1956,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
                     "askPrice": 847.25,
                     "askQty": 450,
-                    "bidQty": 4500,
-                    "bidprice": 520.8,
+                    "bidQty": 450,
+                    "bidprice": 525.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1977,7 +1977,7 @@
                     "totalSellQuantity": 4950,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 6550
@@ -2002,13 +2002,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
                     "askPrice": 888,
                     "askQty": 450,
                     "bidQty": 450,
-                    "bidprice": 546.05,
+                    "bidprice": 550.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2023,7 +2023,7 @@
                     "totalSellQuantity": 4950,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 6600
@@ -2048,13 +2048,13 @@
                     "totalSellQuantity": 4500,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
-                    "askPrice": 907.6,
-                    "askQty": 900,
+                    "askPrice": 907.55,
+                    "askQty": 450,
                     "bidQty": 450,
-                    "bidprice": 799.45,
+                    "bidprice": 814,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2066,10 +2066,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 6650,
                     "totalBuyQuantity": 5850,
-                    "totalSellQuantity": 5400,
+                    "totalSellQuantity": 5850,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 6650
@@ -2094,13 +2094,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
-                    "askPrice": 1198.35,
+                    "askPrice": 1192.25,
                     "askQty": 450,
-                    "bidQty": 450,
-                    "bidprice": 605.85,
+                    "bidQty": 4500,
+                    "bidprice": 612,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2115,7 +2115,7 @@
                     "totalSellQuantity": 4950,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 6700
@@ -2140,13 +2140,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "PE": {
-                    "askPrice": 1026.25,
+                    "askPrice": 1107.3,
                     "askQty": 450,
                     "bidQty": 450,
-                    "bidprice": 634.4,
+                    "bidprice": 642.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2161,7 +2161,7 @@
                     "totalSellQuantity": 4950,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 6750
@@ -2186,13 +2186,13 @@
                     "totalSellQuantity": 450,
                     "totalTradedVolume": 2,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "PE": {
-                    "askPrice": 1036.5,
+                    "askPrice": 1062.35,
                     "askQty": 450,
                     "bidQty": 450,
-                    "bidprice": 940.4,
+                    "bidprice": 964.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2207,7 +2207,7 @@
                     "totalSellQuantity": 5850,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 6800
@@ -2232,13 +2232,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
                     "askPrice": 1143,
                     "askQty": 450,
                     "bidQty": 450,
-                    "bidprice": 688.1,
+                    "bidprice": 702.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2253,7 +2253,7 @@
                     "totalSellQuantity": 4950,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 6850
@@ -2282,7 +2282,7 @@
                     "totalSellQuantity": 4500,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 3950
@@ -2307,7 +2307,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 4250
@@ -2332,7 +2332,7 @@
                     "totalSellQuantity": 450,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 4300
@@ -2357,7 +2357,7 @@
                     "totalSellQuantity": 4500,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 4300
@@ -2382,17 +2382,17 @@
                     "totalSellQuantity": 4500,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 4350
             },
             {
                 "CE": {
-                    "askPrice": 1838.6,
+                    "askPrice": 1832.4,
                     "askQty": 450,
                     "bidQty": 450,
-                    "bidprice": 987,
+                    "bidprice": 993,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2407,7 +2407,7 @@
                     "totalSellQuantity": 4950,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 4400
@@ -2432,17 +2432,17 @@
                     "totalSellQuantity": 450,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 4450
             },
             {
                 "CE": {
-                    "askPrice": 1791.45,
+                    "askPrice": 1784.05,
                     "askQty": 4500,
-                    "bidQty": 4500,
-                    "bidprice": 936.95,
+                    "bidQty": 450,
+                    "bidprice": 944.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2457,7 +2457,7 @@
                     "totalSellQuantity": 4950,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2478,17 +2478,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 4450
             },
             {
                 "CE": {
-                    "askPrice": 1858.7,
+                    "askPrice": 1855.25,
                     "askQty": 450,
-                    "bidQty": 0,
-                    "bidprice": 0,
+                    "bidQty": 450,
+                    "bidprice": 858,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2499,11 +2499,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 4500,
-                    "totalBuyQuantity": 0,
+                    "totalBuyQuantity": 450,
                     "totalSellQuantity": 450,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2524,17 +2524,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 4500
             },
             {
                 "CE": {
-                    "askPrice": 1742.35,
-                    "askQty": 450,
-                    "bidQty": 450,
-                    "bidprice": 906,
+                    "askPrice": 1734.8,
+                    "askQty": 4500,
+                    "bidQty": 4500,
+                    "bidprice": 913.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2549,7 +2549,7 @@
                     "totalSellQuantity": 4950,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2570,17 +2570,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 4500
             },
             {
                 "CE": {
-                    "askPrice": 1683.2,
+                    "askPrice": 1677.6,
                     "askQty": 450,
                     "bidQty": 450,
-                    "bidprice": 878.05,
+                    "bidprice": 883.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2595,7 +2595,7 @@
                     "totalSellQuantity": 4950,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 4550
@@ -2620,17 +2620,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 4550
             },
             {
                 "CE": {
-                    "askPrice": 1344.3,
+                    "askPrice": 1338.6,
                     "askQty": 450,
                     "bidQty": 450,
-                    "bidprice": 846.15,
+                    "bidprice": 852.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2645,7 +2645,7 @@
                     "totalSellQuantity": 4950,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2666,7 +2666,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 4600
@@ -2691,17 +2691,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 4600
             },
             {
                 "CE": {
-                    "askPrice": 1287.3,
-                    "askQty": 4500,
+                    "askPrice": 1279.35,
+                    "askQty": 450,
                     "bidQty": 450,
-                    "bidprice": 814.95,
+                    "bidprice": 823.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2716,7 +2716,7 @@
                     "totalSellQuantity": 4950,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 4650
@@ -2741,7 +2741,7 @@
                     "totalSellQuantity": 450,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2762,7 +2762,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 4650
@@ -2787,7 +2787,7 @@
                     "totalSellQuantity": 450,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2808,17 +2808,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 4700
             },
             {
                 "CE": {
-                    "askPrice": 1475.15,
+                    "askPrice": 1466.95,
                     "askQty": 450,
-                    "bidQty": 4500,
-                    "bidprice": 799,
+                    "bidQty": 750,
+                    "bidprice": 808.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2833,7 +2833,7 @@
                     "totalSellQuantity": 4950,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 4700
@@ -2858,7 +2858,7 @@
                     "totalSellQuantity": 4950,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2879,17 +2879,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 4750
             },
             {
                 "CE": {
-                    "askPrice": 1125.2,
+                    "askPrice": 1116.3,
                     "askQty": 450,
                     "bidQty": 450,
-                    "bidprice": 722.6,
+                    "bidprice": 731,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2904,7 +2904,7 @@
                     "totalSellQuantity": 4950,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2925,17 +2925,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 4800
             },
             {
                 "CE": {
-                    "askPrice": 1066.4,
+                    "askPrice": 1060.5,
                     "askQty": 450,
                     "bidQty": 450,
-                    "bidprice": 695.95,
+                    "bidprice": 701.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2950,7 +2950,7 @@
                     "totalSellQuantity": 4950,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 4850
@@ -2975,14 +2975,14 @@
                     "totalSellQuantity": 450,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 4850
             },
             {
                 "CE": {
-                    "askPrice": 999.4,
+                    "askPrice": 994.2,
                     "askQty": 450,
                     "bidQty": 450,
                     "bidprice": 812,
@@ -3000,7 +3000,7 @@
                     "totalSellQuantity": 4950,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3021,7 +3021,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 15,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 4900
@@ -3046,7 +3046,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 4900
@@ -3071,7 +3071,7 @@
                     "totalSellQuantity": 450,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3092,17 +3092,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 4950
             },
             {
                 "CE": {
-                    "askPrice": 959.3,
+                    "askPrice": 952.5,
                     "askQty": 450,
                     "bidQty": 450,
-                    "bidprice": 632.5,
+                    "bidprice": 639.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3117,7 +3117,7 @@
                     "totalSellQuantity": 4950,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 4950
@@ -3142,7 +3142,7 @@
                     "totalSellQuantity": 450,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3163,7 +3163,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 5000
@@ -3188,28 +3188,28 @@
                     "totalSellQuantity": 6150,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
                     "askPrice": 6,
                     "askQty": 750,
                     "bidQty": 150,
-                    "bidprice": 3,
-                    "change": 0,
+                    "bidprice": 2.5,
+                    "change": -0.1499999999999999,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDIAMART25-05-2023PE5000.00",
                     "impliedVolatility": 0,
-                    "lastPrice": 0,
+                    "lastPrice": 3,
                     "openInterest": 251,
-                    "pChange": 0,
+                    "pChange": -4.761904761904759,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 5000,
-                    "totalBuyQuantity": 14400,
+                    "totalBuyQuantity": 20250,
                     "totalSellQuantity": 750,
-                    "totalTradedVolume": 0,
+                    "totalTradedVolume": 1,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 5000
@@ -3234,7 +3234,7 @@
                     "totalSellQuantity": 450,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3255,17 +3255,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 5050
             },
             {
                 "CE": {
-                    "askPrice": 855.15,
+                    "askPrice": 845.65,
                     "askQty": 450,
                     "bidQty": 450,
-                    "bidprice": 572.65,
+                    "bidprice": 582.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3280,7 +3280,7 @@
                     "totalSellQuantity": 4950,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3301,7 +3301,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 5050
@@ -3326,7 +3326,7 @@
                     "totalSellQuantity": 450,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3347,17 +3347,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 5100
             },
             {
                 "CE": {
-                    "askPrice": 801.25,
+                    "askPrice": 794.55,
                     "askQty": 450,
                     "bidQty": 450,
-                    "bidprice": 553.8,
+                    "bidprice": 567.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3372,7 +3372,7 @@
                     "totalSellQuantity": 4950,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3393,17 +3393,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 5100
             },
             {
                 "CE": {
-                    "askPrice": 747.15,
+                    "askPrice": 740.75,
                     "askQty": 450,
                     "bidQty": 450,
-                    "bidprice": 535.8,
+                    "bidprice": 542.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3418,7 +3418,7 @@
                     "totalSellQuantity": 4950,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3439,7 +3439,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 5150
@@ -3464,17 +3464,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 5150
             },
             {
                 "CE": {
-                    "askPrice": 653.45,
+                    "askPrice": 618.95,
                     "askQty": 450,
-                    "bidQty": 150,
-                    "bidprice": 574.2,
+                    "bidQty": 450,
+                    "bidprice": 560.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3485,17 +3485,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 5200,
-                    "totalBuyQuantity": 6600,
+                    "totalBuyQuantity": 6000,
                     "totalSellQuantity": 6450,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
-                    "askPrice": 5.9,
+                    "askPrice": 5.45,
                     "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 4.55,
+                    "bidprice": 4.3,
                     "change": -1.4000000000000004,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
@@ -3506,11 +3506,11 @@
                     "pChange": -20.000000000000004,
                     "pchangeinOpenInterest": -0.45454545454545453,
                     "strikePrice": 5200,
-                    "totalBuyQuantity": 22050,
+                    "totalBuyQuantity": 21900,
                     "totalSellQuantity": 12150,
                     "totalTradedVolume": 15,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 5200
@@ -3535,17 +3535,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 5200
             },
             {
                 "CE": {
-                    "askPrice": 646,
+                    "askPrice": 640.45,
                     "askQty": 150,
                     "bidQty": 450,
-                    "bidprice": 498,
+                    "bidprice": 433.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3556,11 +3556,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 5250,
-                    "totalBuyQuantity": 5700,
+                    "totalBuyQuantity": 5550,
                     "totalSellQuantity": 4650,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3581,7 +3581,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 5250
@@ -3606,17 +3606,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 5250
             },
             {
                 "CE": {
-                    "askPrice": 541.9,
-                    "askQty": 600,
-                    "bidQty": 450,
-                    "bidprice": 476.25,
+                    "askPrice": 507,
+                    "askQty": 150,
+                    "bidQty": 600,
+                    "bidprice": 481.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3627,17 +3627,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 5300,
-                    "totalBuyQuantity": 10500,
-                    "totalSellQuantity": 10200,
+                    "totalBuyQuantity": 10050,
+                    "totalSellQuantity": 9450,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "PE": {
-                    "askPrice": 9.75,
-                    "askQty": 900,
+                    "askPrice": 9.25,
+                    "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 8.55,
+                    "bidprice": 7.9,
                     "change": -0.75,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
@@ -3648,11 +3648,11 @@
                     "pChange": -7.731958762886598,
                     "pchangeinOpenInterest": 0.4291845493562232,
                     "strikePrice": 5300,
-                    "totalBuyQuantity": 24000,
-                    "totalSellQuantity": 9150,
+                    "totalBuyQuantity": 24150,
+                    "totalSellQuantity": 9450,
                     "totalTradedVolume": 7,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 5300
@@ -3677,17 +3677,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 5300
             },
             {
                 "CE": {
-                    "askPrice": 555.85,
+                    "askPrice": 549.15,
                     "askQty": 150,
-                    "bidQty": 450,
-                    "bidprice": 378.95,
+                    "bidQty": 150,
+                    "bidprice": 386,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3702,7 +3702,7 @@
                     "totalSellQuantity": 4650,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3723,7 +3723,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 5350
@@ -3748,17 +3748,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 5350
             },
             {
                 "CE": {
-                    "askPrice": 434.9,
-                    "askQty": 450,
-                    "bidQty": 150,
-                    "bidprice": 394.05,
+                    "askPrice": 421.9,
+                    "askQty": 150,
+                    "bidQty": 450,
+                    "bidprice": 378.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3769,32 +3769,32 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 5400,
-                    "totalBuyQuantity": 11550,
-                    "totalSellQuantity": 12000,
+                    "totalBuyQuantity": 12150,
+                    "totalSellQuantity": 12150,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
-                    "askPrice": 14.55,
+                    "askPrice": 14.1,
                     "askQty": 150,
-                    "bidQty": 300,
-                    "bidprice": 13.3,
-                    "change": -0.1999999999999993,
+                    "bidQty": 150,
+                    "bidprice": 12.4,
+                    "change": 0.25,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDIAMART25-05-2023PE5400.00",
                     "impliedVolatility": 38.89,
-                    "lastPrice": 13.55,
+                    "lastPrice": 14,
                     "openInterest": 168,
-                    "pChange": -1.4545454545454493,
+                    "pChange": 1.8181818181818181,
                     "pchangeinOpenInterest": -1.1764705882352942,
                     "strikePrice": 5400,
-                    "totalBuyQuantity": 29550,
-                    "totalSellQuantity": 11250,
-                    "totalTradedVolume": 28,
+                    "totalBuyQuantity": 28800,
+                    "totalSellQuantity": 16350,
+                    "totalTradedVolume": 30,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 5400
@@ -3819,17 +3819,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 5400
             },
             {
                 "CE": {
-                    "askPrice": 460.75,
+                    "askPrice": 457.25,
                     "askQty": 150,
-                    "bidQty": 450,
-                    "bidprice": 317.2,
+                    "bidQty": 600,
+                    "bidprice": 301.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3844,7 +3844,7 @@
                     "totalSellQuantity": 4650,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3865,7 +3865,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 5450
@@ -3890,17 +3890,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 5450
             },
             {
                 "CE": {
-                    "askPrice": 338.7,
+                    "askPrice": 324.6,
                     "askQty": 150,
-                    "bidQty": 750,
-                    "bidprice": 309.3,
+                    "bidQty": 150,
+                    "bidprice": 294.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3915,28 +3915,28 @@
                     "totalSellQuantity": 11550,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
-                    "askPrice": 24.8,
+                    "askPrice": 24.3,
                     "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 22.45,
-                    "change": 0.05000000000000071,
+                    "bidprice": 21.4,
+                    "change": 3.5500000000000007,
                     "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDIAMART25-05-2023PE5500.00",
                     "impliedVolatility": 35.94,
-                    "lastPrice": 21.5,
+                    "lastPrice": 25,
                     "openInterest": 322,
-                    "pChange": 0.23310023310023645,
+                    "pChange": 16.550116550116552,
                     "pchangeinOpenInterest": 0.9404388714733543,
                     "strikePrice": 5500,
-                    "totalBuyQuantity": 34800,
-                    "totalSellQuantity": 10050,
-                    "totalTradedVolume": 52,
+                    "totalBuyQuantity": 34650,
+                    "totalSellQuantity": 14400,
+                    "totalTradedVolume": 64,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 5500
@@ -3961,17 +3961,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 5500
             },
             {
                 "CE": {
-                    "askPrice": 310.25,
-                    "askQty": 450,
+                    "askPrice": 299.8,
+                    "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 261,
+                    "bidprice": 261.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3986,13 +3986,13 @@
                     "totalSellQuantity": 6600,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
-                    "askPrice": 30.1,
-                    "askQty": 150,
+                    "askPrice": 29.1,
+                    "askQty": 300,
                     "bidQty": 150,
-                    "bidprice": 27.4,
+                    "bidprice": 27.35,
                     "change": -15.7,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
@@ -4007,17 +4007,17 @@
                     "totalSellQuantity": 5250,
                     "totalTradedVolume": 12,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 5550
             },
             {
                 "CE": {
-                    "askPrice": 241.75,
+                    "askPrice": 229.85,
                     "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 225.15,
+                    "bidprice": 214.55,
                     "change": -31.049999999999983,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4028,42 +4028,42 @@
                     "pChange": -10.915802425733867,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 5600,
-                    "totalBuyQuantity": 12000,
-                    "totalSellQuantity": 12150,
+                    "totalBuyQuantity": 12300,
+                    "totalSellQuantity": 12300,
                     "totalTradedVolume": 1,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "PE": {
-                    "askPrice": 36.75,
+                    "askPrice": 38.55,
                     "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 33,
-                    "change": 1.25,
+                    "bidprice": 34.55,
+                    "change": 5.149999999999999,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDIAMART25-05-2023PE5600.00",
                     "impliedVolatility": 31.96,
-                    "lastPrice": 32.1,
+                    "lastPrice": 36,
                     "openInterest": 158,
-                    "pChange": 4.051863857374392,
+                    "pChange": 16.693679092382492,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 5600,
-                    "totalBuyQuantity": 29550,
-                    "totalSellQuantity": 10800,
-                    "totalTradedVolume": 14,
+                    "totalBuyQuantity": 30000,
+                    "totalSellQuantity": 10950,
+                    "totalTradedVolume": 15,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 5600
             },
             {
                 "CE": {
-                    "askPrice": 218.05,
+                    "askPrice": 199.95,
                     "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 140.8,
+                    "bidprice": 132.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4075,10 +4075,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 5650,
                     "totalBuyQuantity": 9900,
-                    "totalSellQuantity": 10350,
+                    "totalSellQuantity": 9900,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "PE": {
                     "askPrice": 48,
@@ -4099,17 +4099,17 @@
                     "totalSellQuantity": 5550,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 5650
             },
             {
                 "CE": {
-                    "askPrice": 161.85,
+                    "askPrice": 155.45,
                     "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 152.15,
+                    "bidprice": 140.9,
                     "change": -27.900000000000006,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
@@ -4120,32 +4120,32 @@
                     "pChange": -15.500000000000004,
                     "pchangeinOpenInterest": 0.7936507936507936,
                     "strikePrice": 5700,
-                    "totalBuyQuantity": 12000,
-                    "totalSellQuantity": 8100,
-                    "totalTradedVolume": 3,
+                    "totalBuyQuantity": 11850,
+                    "totalSellQuantity": 8250,
+                    "totalTradedVolume": 4,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
-                    "askPrice": 61.35,
+                    "askPrice": 61.2,
                     "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 55.75,
-                    "change": 9.649999999999999,
-                    "changeinOpenInterest": 7,
+                    "bidprice": 54.55,
+                    "change": 9.149999999999999,
+                    "changeinOpenInterest": 5,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDIAMART25-05-2023PE5700.00",
                     "impliedVolatility": 30.43,
-                    "lastPrice": 60.5,
-                    "openInterest": 172,
-                    "pChange": 18.977384464110123,
-                    "pchangeinOpenInterest": 4.242424242424242,
+                    "lastPrice": 60,
+                    "openInterest": 170,
+                    "pChange": 17.994100294985245,
+                    "pchangeinOpenInterest": 3.0303030303030303,
                     "strikePrice": 5700,
-                    "totalBuyQuantity": 23550,
+                    "totalBuyQuantity": 23400,
                     "totalSellQuantity": 10350,
-                    "totalTradedVolume": 17,
+                    "totalTradedVolume": 20,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 5700
@@ -4154,8 +4154,8 @@
                 "CE": {
                     "askPrice": 0,
                     "askQty": 0,
-                    "bidQty": 450,
-                    "bidprice": 240.2,
+                    "bidQty": 0,
+                    "bidprice": 0,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4166,17 +4166,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 5700,
-                    "totalBuyQuantity": 450,
+                    "totalBuyQuantity": 0,
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 600,
-                    "bidprice": 144.85,
+                    "bidprice": 146.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4191,17 +4191,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 5700
             },
             {
                 "CE": {
-                    "askPrice": 144.35,
+                    "askPrice": 121.6,
                     "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 54.55,
+                    "bidprice": 77.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4212,17 +4212,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 5750,
-                    "totalBuyQuantity": 9900,
-                    "totalSellQuantity": 5550,
+                    "totalBuyQuantity": 10050,
+                    "totalSellQuantity": 5700,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
-                    "askPrice": 125.4,
+                    "askPrice": 98.85,
                     "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 30.1,
+                    "bidprice": 58.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4237,60 +4237,60 @@
                     "totalSellQuantity": 1950,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 5750
             },
             {
                 "CE": {
-                    "askPrice": 92.35,
+                    "askPrice": 83.25,
                     "askQty": 150,
-                    "bidQty": 300,
-                    "bidprice": 87.15,
-                    "change": -22,
-                    "changeinOpenInterest": 5,
+                    "bidQty": 150,
+                    "bidprice": 80.8,
+                    "change": -31.150000000000006,
+                    "changeinOpenInterest": 11,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDIAMART25-05-2023CE5800.00",
                     "impliedVolatility": 29.19,
-                    "lastPrice": 89.9,
-                    "openInterest": 222,
-                    "pChange": -19.66041108132261,
-                    "pchangeinOpenInterest": 2.304147465437788,
+                    "lastPrice": 80.75,
+                    "openInterest": 228,
+                    "pChange": -27.83735478105452,
+                    "pchangeinOpenInterest": 5.0691244239631335,
                     "strikePrice": 5800,
-                    "totalBuyQuantity": 19950,
-                    "totalSellQuantity": 13050,
-                    "totalTradedVolume": 96,
+                    "totalBuyQuantity": 20100,
+                    "totalSellQuantity": 13200,
+                    "totalTradedVolume": 118,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
-                    "askPrice": 92,
+                    "askPrice": 93.15,
                     "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 88.75,
-                    "change": 9.900000000000006,
-                    "changeinOpenInterest": -9,
+                    "bidprice": 89.15,
+                    "change": 10.75,
+                    "changeinOpenInterest": -10,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDIAMART25-05-2023PE5800.00",
                     "impliedVolatility": 26.44,
-                    "lastPrice": 90.75,
-                    "openInterest": 249,
-                    "pChange": 12.244897959183682,
-                    "pchangeinOpenInterest": -3.488372093023256,
+                    "lastPrice": 91.6,
+                    "openInterest": 248,
+                    "pChange": 13.296227581941869,
+                    "pchangeinOpenInterest": -3.875968992248062,
                     "strikePrice": 5800,
-                    "totalBuyQuantity": 25050,
-                    "totalSellQuantity": 12150,
-                    "totalTradedVolume": 60,
+                    "totalBuyQuantity": 20400,
+                    "totalSellQuantity": 11850,
+                    "totalTradedVolume": 71,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 5800
             },
             {
                 "CE": {
-                    "askPrice": 421.7,
+                    "askPrice": 419.3,
                     "askQty": 150,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -4308,14 +4308,14 @@
                     "totalSellQuantity": 150,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 5800
             },
             {
                 "CE": {
-                    "askPrice": 310.75,
+                    "askPrice": 307,
                     "askQty": 150,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -4333,7 +4333,7 @@
                     "totalSellQuantity": 300,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
                     "askPrice": 0,
@@ -4354,7 +4354,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 5800
@@ -4379,13 +4379,13 @@
                     "totalSellQuantity": 6600,
                     "totalTradedVolume": 3,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
-                    "askPrice": 138.25,
+                    "askPrice": 130.5,
                     "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 108.05,
+                    "bidprice": 111.4,
                     "change": 3.6500000000000057,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4397,17 +4397,17 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 5850,
                     "totalBuyQuantity": 11700,
-                    "totalSellQuantity": 2400,
+                    "totalSellQuantity": 1800,
                     "totalTradedVolume": 1,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 5850
             },
             {
                 "CE": {
-                    "askPrice": 261.4,
+                    "askPrice": 258.95,
                     "askQty": 150,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -4425,53 +4425,53 @@
                     "totalSellQuantity": 4800,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 5850
             },
             {
                 "CE": {
-                    "askPrice": 48.95,
+                    "askPrice": 44.1,
                     "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 47.05,
-                    "change": -18.750000000000007,
+                    "bidprice": 41.55,
+                    "change": -23.900000000000006,
                     "changeinOpenInterest": -9,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDIAMART25-05-2023CE5900.00",
                     "impliedVolatility": 29.44,
-                    "lastPrice": 47.15,
+                    "lastPrice": 42,
                     "openInterest": 304,
-                    "pChange": -28.452200303490145,
+                    "pChange": -36.2670713201821,
                     "pchangeinOpenInterest": -2.8753993610223643,
                     "strikePrice": 5900,
-                    "totalBuyQuantity": 24900,
-                    "totalSellQuantity": 12750,
-                    "totalTradedVolume": 84,
+                    "totalBuyQuantity": 24150,
+                    "totalSellQuantity": 11550,
+                    "totalTradedVolume": 94,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
-                    "askPrice": 153.95,
+                    "askPrice": 157.5,
                     "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 143.15,
-                    "change": 7.25,
+                    "bidprice": 148.35,
+                    "change": 23.5,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDIAMART25-05-2023PE5900.00",
                     "impliedVolatility": 22.77,
-                    "lastPrice": 138.75,
+                    "lastPrice": 155,
                     "openInterest": 159,
-                    "pChange": 5.513307984790875,
+                    "pChange": 17.870722433460077,
                     "pchangeinOpenInterest": -0.625,
                     "strikePrice": 5900,
-                    "totalBuyQuantity": 16050,
-                    "totalSellQuantity": 14700,
-                    "totalTradedVolume": 6,
+                    "totalBuyQuantity": 17400,
+                    "totalSellQuantity": 15300,
+                    "totalTradedVolume": 7,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 5900
@@ -4493,13 +4493,13 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 5900,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 5100,
+                    "totalSellQuantity": 600,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
-                    "askPrice": 610.95,
+                    "askPrice": 517.65,
                     "askQty": 150,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -4514,17 +4514,17 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 5900,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 150,
+                    "totalSellQuantity": 300,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 5900
             },
             {
                 "CE": {
-                    "askPrice": 374.55,
+                    "askPrice": 371.25,
                     "askQty": 150,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -4542,7 +4542,7 @@
                     "totalSellQuantity": 150,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 5900
@@ -4567,10 +4567,10 @@
                     "totalSellQuantity": 150,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
-                    "askPrice": 441.1,
+                    "askPrice": 551.9,
                     "askQty": 150,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -4585,10 +4585,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 5950,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 300,
+                    "totalSellQuantity": 750,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 5950
@@ -4598,7 +4598,7 @@
                     "askPrice": 46.9,
                     "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 23,
+                    "bidprice": 20.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4610,16 +4610,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 5950,
                     "totalBuyQuantity": 13950,
-                    "totalSellQuantity": 17100,
+                    "totalSellQuantity": 12600,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
-                    "askPrice": 195.45,
+                    "askPrice": 201.3,
                     "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 171.45,
+                    "bidprice": 168.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4630,18 +4630,18 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 5950,
-                    "totalBuyQuantity": 6150,
+                    "totalBuyQuantity": 6300,
                     "totalSellQuantity": 1650,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 5950
             },
             {
                 "CE": {
-                    "askPrice": 164.95,
+                    "askPrice": 160,
                     "askQty": 150,
                     "bidQty": 150,
                     "bidprice": 150,
@@ -4655,17 +4655,17 @@
                     "pChange": -29.978118161925604,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 6000,
-                    "totalBuyQuantity": 1350,
-                    "totalSellQuantity": 600,
-                    "totalTradedVolume": 3,
+                    "totalBuyQuantity": 1200,
+                    "totalSellQuantity": 450,
+                    "totalTradedVolume": 4,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
-                    "askPrice": 555.55,
-                    "askQty": 450,
+                    "askPrice": 599,
+                    "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 288.9,
+                    "bidprice": 275.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4680,15 +4680,15 @@
                     "totalSellQuantity": 900,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 6000
             },
             {
                 "CE": {
-                    "askPrice": 341.45,
-                    "askQty": 150,
+                    "askPrice": 0,
+                    "askQty": 0,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -4702,41 +4702,41 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 6000,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 150,
+                    "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 6000
             },
             {
                 "CE": {
-                    "askPrice": 26.7,
+                    "askPrice": 22.95,
                     "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 25.5,
-                    "change": -14.200000000000003,
-                    "changeinOpenInterest": -17,
+                    "bidprice": 21.85,
+                    "change": -16.700000000000003,
+                    "changeinOpenInterest": -40,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDIAMART25-05-2023CE6000.00",
                     "impliedVolatility": 29.5,
-                    "lastPrice": 25.5,
-                    "openInterest": 633,
-                    "pChange": -35.76826196473552,
-                    "pchangeinOpenInterest": -2.6153846153846154,
+                    "lastPrice": 23,
+                    "openInterest": 610,
+                    "pChange": -42.0654911838791,
+                    "pchangeinOpenInterest": -6.153846153846154,
                     "strikePrice": 6000,
-                    "totalBuyQuantity": 26250,
-                    "totalSellQuantity": 25200,
-                    "totalTradedVolume": 182,
+                    "totalBuyQuantity": 25800,
+                    "totalSellQuantity": 31350,
+                    "totalTradedVolume": 319,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "PE": {
-                    "askPrice": 231.6,
+                    "askPrice": 237.3,
                     "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 218.75,
+                    "bidprice": 229.1,
                     "change": -7,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4747,42 +4747,42 @@
                     "pChange": -3.3816425120772946,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 6000,
-                    "totalBuyQuantity": 10350,
-                    "totalSellQuantity": 6300,
+                    "totalBuyQuantity": 10500,
+                    "totalSellQuantity": 6600,
                     "totalTradedVolume": 4,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 6000
             },
             {
                 "CE": {
-                    "askPrice": 20.1,
+                    "askPrice": 18.15,
                     "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 19,
-                    "change": -35.1,
-                    "changeinOpenInterest": 3,
+                    "bidprice": 16.1,
+                    "change": -38,
+                    "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDIAMART25-05-2023CE6050.00",
                     "impliedVolatility": 31.61,
-                    "lastPrice": 21.9,
-                    "openInterest": 26,
-                    "pChange": -61.578947368421055,
-                    "pchangeinOpenInterest": 13.043478260869565,
+                    "lastPrice": 19,
+                    "openInterest": 24,
+                    "pChange": -66.66666666666666,
+                    "pchangeinOpenInterest": 4.3478260869565215,
                     "strikePrice": 6050,
-                    "totalBuyQuantity": 17700,
-                    "totalSellQuantity": 4650,
-                    "totalTradedVolume": 7,
+                    "totalBuyQuantity": 17850,
+                    "totalSellQuantity": 13800,
+                    "totalTradedVolume": 8,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
-                    "askPrice": 272.3,
-                    "askQty": 150,
+                    "askPrice": 293.45,
+                    "askQty": 300,
                     "bidQty": 150,
-                    "bidprice": 234.9,
+                    "bidprice": 244.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4794,18 +4794,18 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 6050,
                     "totalBuyQuantity": 6600,
-                    "totalSellQuantity": 6300,
+                    "totalSellQuantity": 6450,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 6050
             },
             {
                 "CE": {
-                    "askPrice": 0,
-                    "askQty": 0,
+                    "askPrice": 330.45,
+                    "askQty": 4500,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -4819,13 +4819,13 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 6050,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 0,
+                    "totalSellQuantity": 4500,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
-                    "askPrice": 645.75,
+                    "askPrice": 650.4,
                     "askQty": 450,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -4843,38 +4843,38 @@
                     "totalSellQuantity": 450,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 6050
             },
             {
                 "CE": {
-                    "askPrice": 15.1,
+                    "askPrice": 13.65,
                     "askQty": 150,
                     "bidQty": 450,
-                    "bidprice": 13.65,
-                    "change": -7.600000000000001,
-                    "changeinOpenInterest": -9,
+                    "bidprice": 13,
+                    "change": -8.100000000000001,
+                    "changeinOpenInterest": -8,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDIAMART25-05-2023CE6100.00",
                     "impliedVolatility": 31.97,
-                    "lastPrice": 14.5,
-                    "openInterest": 184,
-                    "pChange": -34.38914027149322,
-                    "pchangeinOpenInterest": -4.66321243523316,
+                    "lastPrice": 14,
+                    "openInterest": 185,
+                    "pChange": -36.651583710407245,
+                    "pchangeinOpenInterest": -4.1450777202072535,
                     "strikePrice": 6100,
-                    "totalBuyQuantity": 26400,
-                    "totalSellQuantity": 21750,
-                    "totalTradedVolume": 42,
+                    "totalBuyQuantity": 26700,
+                    "totalSellQuantity": 16050,
+                    "totalTradedVolume": 43,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "PE": {
-                    "askPrice": 326.4,
-                    "askQty": 150,
-                    "bidQty": 600,
-                    "bidprice": 298.4,
+                    "askPrice": 354.3,
+                    "askQty": 450,
+                    "bidQty": 150,
+                    "bidprice": 312.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4885,18 +4885,18 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 6100,
-                    "totalBuyQuantity": 11550,
-                    "totalSellQuantity": 6300,
+                    "totalBuyQuantity": 11250,
+                    "totalSellQuantity": 7200,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 6100
             },
             {
                 "CE": {
-                    "askPrice": 301.55,
+                    "askPrice": 298.5,
                     "askQty": 150,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -4914,17 +4914,17 @@
                     "totalSellQuantity": 150,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 6100
             },
             {
                 "CE": {
-                    "askPrice": 16.45,
+                    "askPrice": 14.55,
                     "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 9.05,
+                    "bidprice": 7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4936,16 +4936,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 6150,
                     "totalBuyQuantity": 10650,
-                    "totalSellQuantity": 6150,
+                    "totalSellQuantity": 1650,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
-                    "askPrice": 388.8,
+                    "askPrice": 397.2,
                     "askQty": 450,
-                    "bidQty": 150,
-                    "bidprice": 339.05,
+                    "bidQty": 600,
+                    "bidprice": 333.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4956,11 +4956,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 6150,
-                    "totalBuyQuantity": 10950,
-                    "totalSellQuantity": 6900,
+                    "totalBuyQuantity": 11700,
+                    "totalSellQuantity": 6450,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 6150
@@ -4969,8 +4969,8 @@
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
-                    "bidQty": 450,
-                    "bidprice": 310.35,
+                    "bidQty": 0,
+                    "bidprice": 0,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4981,42 +4981,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 6150,
-                    "totalBuyQuantity": 450,
+                    "totalBuyQuantity": 0,
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 6150
             },
             {
                 "CE": {
-                    "askPrice": 9.25,
+                    "askPrice": 8,
                     "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 7.85,
-                    "change": -5.85,
-                    "changeinOpenInterest": -5,
+                    "bidprice": 7.15,
+                    "change": -6.85,
+                    "changeinOpenInterest": -7,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDIAMART25-05-2023CE6200.00",
                     "impliedVolatility": 33.64,
-                    "lastPrice": 8.5,
-                    "openInterest": 182,
-                    "pChange": -40.76655052264808,
-                    "pchangeinOpenInterest": -2.6737967914438503,
+                    "lastPrice": 7.5,
+                    "openInterest": 180,
+                    "pChange": -47.735191637630656,
+                    "pchangeinOpenInterest": -3.7433155080213902,
                     "strikePrice": 6200,
-                    "totalBuyQuantity": 27300,
-                    "totalSellQuantity": 9150,
-                    "totalTradedVolume": 13,
+                    "totalBuyQuantity": 29250,
+                    "totalSellQuantity": 15750,
+                    "totalTradedVolume": 19,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
-                    "askPrice": 437.6,
+                    "askPrice": 444.1,
                     "askQty": 450,
-                    "bidQty": 150,
-                    "bidprice": 388.7,
+                    "bidQty": 450,
+                    "bidprice": 396.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5031,7 +5031,7 @@
                     "totalSellQuantity": 6900,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 6200
@@ -5041,7 +5041,7 @@
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 450,
-                    "bidprice": 338.45,
+                    "bidprice": 337.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -5056,17 +5056,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 6200
             },
             {
                 "CE": {
-                    "askPrice": 10.5,
+                    "askPrice": 16.7,
                     "askQty": 150,
                     "bidQty": 150,
-                    "bidprice": 3.65,
+                    "bidprice": 2.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5077,17 +5077,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 6250,
-                    "totalBuyQuantity": 10500,
-                    "totalSellQuantity": 6150,
+                    "totalBuyQuantity": 14850,
+                    "totalSellQuantity": 5100,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
-                    "askPrice": 479.75,
-                    "askQty": 450,
-                    "bidQty": 450,
-                    "bidprice": 432.2,
+                    "askPrice": 521.1,
+                    "askQty": 150,
+                    "bidQty": 150,
+                    "bidprice": 436.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5102,7 +5102,7 @@
                     "totalSellQuantity": 6450,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 6250
@@ -5127,38 +5127,38 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 6250
             },
             {
                 "CE": {
-                    "askPrice": 5.4,
+                    "askPrice": 5.55,
                     "askQty": 150,
-                    "bidQty": 300,
-                    "bidprice": 4.1,
-                    "change": -3.1999999999999993,
-                    "changeinOpenInterest": -6,
+                    "bidQty": 150,
+                    "bidprice": 4.75,
+                    "change": -2.999999999999999,
+                    "changeinOpenInterest": -4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDIAMART25-05-2023CE6300.00",
                     "impliedVolatility": 34.3,
-                    "lastPrice": 5,
-                    "openInterest": 223,
-                    "pChange": -39.02439024390244,
-                    "pchangeinOpenInterest": -2.6200873362445414,
+                    "lastPrice": 5.2,
+                    "openInterest": 225,
+                    "pChange": -36.58536585365853,
+                    "pchangeinOpenInterest": -1.7467248908296944,
                     "strikePrice": 6300,
-                    "totalBuyQuantity": 23700,
-                    "totalSellQuantity": 13950,
-                    "totalTradedVolume": 32,
+                    "totalBuyQuantity": 26850,
+                    "totalSellQuantity": 16800,
+                    "totalTradedVolume": 36,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
-                    "askPrice": 528.05,
+                    "askPrice": 544.75,
                     "askQty": 450,
                     "bidQty": 150,
-                    "bidprice": 483,
+                    "bidprice": 478.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5170,10 +5170,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 6300,
                     "totalBuyQuantity": 6450,
-                    "totalSellQuantity": 6300,
+                    "totalSellQuantity": 6450,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 6300
@@ -5198,7 +5198,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 6300
@@ -5223,7 +5223,7 @@
                     "totalSellQuantity": 4500,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
                     "askPrice": 589.7,
@@ -5244,7 +5244,7 @@
                     "totalSellQuantity": 5400,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 6350
@@ -5269,16 +5269,16 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 6350
             },
             {
                 "CE": {
-                    "askPrice": 4.25,
+                    "askPrice": 4.7,
                     "askQty": 150,
-                    "bidQty": 300,
+                    "bidQty": 150,
                     "bidprice": 4,
                     "change": -2.3,
                     "changeinOpenInterest": 14,
@@ -5291,16 +5291,16 @@
                     "pchangeinOpenInterest": 3.723404255319149,
                     "strikePrice": 6400,
                     "totalBuyQuantity": 29250,
-                    "totalSellQuantity": 16200,
+                    "totalSellQuantity": 11700,
                     "totalTradedVolume": 295,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
-                    "askPrice": 633.3,
+                    "askPrice": 642.45,
                     "askQty": 450,
                     "bidQty": 450,
-                    "bidprice": 553.35,
+                    "bidprice": 568.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5315,7 +5315,7 @@
                     "totalSellQuantity": 5850,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 6400
@@ -5340,7 +5340,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 6400
@@ -5365,11 +5365,11 @@
                     "totalSellQuantity": 4500,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
-                    "askPrice": 688.25,
-                    "askQty": 450,
+                    "askPrice": 688.3,
+                    "askQty": 900,
                     "bidQty": 450,
                     "bidprice": 612.15,
                     "change": 0,
@@ -5383,35 +5383,35 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 6450,
                     "totalBuyQuantity": 5850,
-                    "totalSellQuantity": 5850,
+                    "totalSellQuantity": 5400,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 6450
             },
             {
                 "CE": {
-                    "askPrice": 3,
-                    "askQty": 150,
+                    "askPrice": 3.1,
+                    "askQty": 300,
                     "bidQty": 150,
-                    "bidprice": 2.55,
-                    "change": -1.3000000000000003,
+                    "bidprice": 2.75,
+                    "change": -1.0500000000000003,
                     "changeinOpenInterest": -36,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDIAMART25-05-2023CE6500.00",
                     "impliedVolatility": 40.79,
-                    "lastPrice": 2.65,
+                    "lastPrice": 2.9,
                     "openInterest": 268,
-                    "pChange": -32.911392405063296,
+                    "pChange": -26.58227848101266,
                     "pchangeinOpenInterest": -11.842105263157896,
                     "strikePrice": 6500,
-                    "totalBuyQuantity": 28650,
-                    "totalSellQuantity": 15900,
-                    "totalTradedVolume": 68,
+                    "totalBuyQuantity": 28800,
+                    "totalSellQuantity": 16050,
+                    "totalTradedVolume": 69,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "PE": {
                     "askPrice": 739.45,
@@ -5432,7 +5432,7 @@
                     "totalSellQuantity": 5850,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 6500
@@ -5457,13 +5457,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
                     "askPrice": 847.25,
                     "askQty": 450,
-                    "bidQty": 4500,
-                    "bidprice": 520.8,
+                    "bidQty": 450,
+                    "bidprice": 525.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5478,7 +5478,7 @@
                     "totalSellQuantity": 4950,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 6550
@@ -5503,7 +5503,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 6550
@@ -5528,13 +5528,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
                     "askPrice": 888,
                     "askQty": 450,
                     "bidQty": 450,
-                    "bidprice": 546.05,
+                    "bidprice": 550.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5549,7 +5549,7 @@
                     "totalSellQuantity": 4950,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 6600
@@ -5574,7 +5574,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 6600
@@ -5599,13 +5599,13 @@
                     "totalSellQuantity": 4500,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
-                    "askPrice": 907.6,
-                    "askQty": 900,
+                    "askPrice": 907.55,
+                    "askQty": 450,
                     "bidQty": 450,
-                    "bidprice": 799.45,
+                    "bidprice": 814,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5617,10 +5617,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 6650,
                     "totalBuyQuantity": 5850,
-                    "totalSellQuantity": 5400,
+                    "totalSellQuantity": 5850,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 6650
@@ -5645,13 +5645,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
-                    "askPrice": 1198.35,
+                    "askPrice": 1192.25,
                     "askQty": 450,
-                    "bidQty": 450,
-                    "bidprice": 605.85,
+                    "bidQty": 4500,
+                    "bidprice": 612,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5666,7 +5666,7 @@
                     "totalSellQuantity": 4950,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 6700
@@ -5691,7 +5691,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
                     "askPrice": 0,
@@ -5712,7 +5712,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 6700
@@ -5737,13 +5737,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "PE": {
-                    "askPrice": 1026.25,
+                    "askPrice": 1107.3,
                     "askQty": 450,
                     "bidQty": 450,
-                    "bidprice": 634.4,
+                    "bidprice": 642.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5758,7 +5758,7 @@
                     "totalSellQuantity": 4950,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 6750
@@ -5783,7 +5783,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "PE": {
                     "askPrice": 0,
@@ -5804,7 +5804,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 6750
@@ -5829,13 +5829,13 @@
                     "totalSellQuantity": 450,
                     "totalTradedVolume": 2,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "PE": {
-                    "askPrice": 1036.5,
+                    "askPrice": 1062.35,
                     "askQty": 450,
                     "bidQty": 450,
-                    "bidprice": 940.4,
+                    "bidprice": 964.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5850,7 +5850,7 @@
                     "totalSellQuantity": 5850,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 6800
@@ -5875,7 +5875,7 @@
                     "totalSellQuantity": 450,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5769.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 6800
@@ -5900,13 +5900,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "PE": {
                     "askPrice": 1143,
                     "askQty": 450,
                     "bidQty": 450,
-                    "bidprice": 688.1,
+                    "bidprice": 702.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5921,7 +5921,7 @@
                     "totalSellQuantity": 4950,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 6850
@@ -5946,7 +5946,7 @@
                     "totalSellQuantity": 450,
                     "totalTradedVolume": 0,
                     "underlying": "INDIAMART",
-                    "underlyingValue": 5782
+                    "underlyingValue": 5775
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 6850
@@ -6013,7 +6013,7 @@
             6800,
             6850
         ],
-        "timestamp": "18-May-2023 10:21:15",
-        "underlyingValue": 5782
+        "timestamp": "18-May-2023 10:26:47",
+        "underlyingValue": 5775
     }
 }

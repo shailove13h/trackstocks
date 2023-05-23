@@ -1,17 +1,17 @@
 {
     "filtered": {
         "CE": {
-            "totOI": 4433,
-            "totVol": 371
+            "totOI": 4434,
+            "totVol": 381
         },
         "PE": {
-            "totOI": 2665,
-            "totVol": 192
+            "totOI": 2668,
+            "totVol": 214
         },
         "data": [
             {
                 "CE": {
-                    "askPrice": 19.55,
+                    "askPrice": 18.35,
                     "askQty": 24000,
                     "bidQty": 24000,
                     "bidprice": 14.95,
@@ -29,7 +29,7 @@
                     "totalSellQuantity": 344000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
                     "askPrice": 1.7,
@@ -50,14 +50,14 @@
                     "totalSellQuantity": 320000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 67
             },
             {
                 "CE": {
-                    "askPrice": 18.6,
+                    "askPrice": 17.7,
                     "askQty": 24000,
                     "bidQty": 24000,
                     "bidprice": 13.95,
@@ -75,11 +75,11 @@
                     "totalSellQuantity": 344000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
-                    "askPrice": 1.5,
-                    "askQty": 8000,
+                    "askPrice": 0.4,
+                    "askQty": 32000,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -93,20 +93,20 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 68,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 8000,
+                    "totalSellQuantity": 360000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 68
             },
             {
                 "CE": {
-                    "askPrice": 17.6,
+                    "askPrice": 16.3,
                     "askQty": 24000,
                     "bidQty": 24000,
-                    "bidprice": 13.05,
+                    "bidprice": 12.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -142,7 +142,7 @@
                     "totalSellQuantity": 320000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 69
@@ -188,14 +188,14 @@
                     "totalSellQuantity": 408000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 70
             },
             {
                 "CE": {
-                    "askPrice": 15.55,
+                    "askPrice": 14.35,
                     "askQty": 24000,
                     "bidQty": 24000,
                     "bidprice": 10.95,
@@ -213,11 +213,11 @@
                     "totalSellQuantity": 344000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
-                    "askPrice": 1.5,
-                    "askQty": 8000,
+                    "askPrice": 0.5,
+                    "askQty": 32000,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -231,7 +231,7 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 71,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 8000,
+                    "totalSellQuantity": 408000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
                     "underlyingValue": 83.2
@@ -241,7 +241,7 @@
             },
             {
                 "CE": {
-                    "askPrice": 14.6,
+                    "askPrice": 13.5,
                     "askQty": 24000,
                     "bidQty": 24000,
                     "bidprice": 10,
@@ -262,8 +262,8 @@
                     "underlyingValue": 83.2
                 },
                 "PE": {
-                    "askPrice": 1.5,
-                    "askQty": 8000,
+                    "askPrice": 0.6,
+                    "askQty": 24000,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -277,7 +277,7 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 72,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 328000,
+                    "totalSellQuantity": 352000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
                     "underlyingValue": 83.2
@@ -287,10 +287,10 @@
             },
             {
                 "CE": {
-                    "askPrice": 12.2,
+                    "askPrice": 11.9,
                     "askQty": 24000,
                     "bidQty": 24000,
-                    "bidprice": 9.05,
+                    "bidprice": 3.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -301,7 +301,7 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 73,
-                    "totalBuyQuantity": 344000,
+                    "totalBuyQuantity": 328000,
                     "totalSellQuantity": 344000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
@@ -323,10 +323,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 73,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 456000,
+                    "totalSellQuantity": 480000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 73
@@ -355,24 +355,24 @@
                 },
                 "PE": {
                     "askPrice": 0.1,
-                    "askQty": 88000,
+                    "askQty": 96000,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": -0.05,
-                    "changeinOpenInterest": 0,
+                    "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSAIL25-05-2023PE74.00",
-                    "impliedVolatility": 45.75,
+                    "impliedVolatility": 44.83,
                     "lastPrice": 0.05,
-                    "openInterest": 45,
+                    "openInterest": 44,
                     "pChange": -50,
-                    "pchangeinOpenInterest": 0,
+                    "pchangeinOpenInterest": -2.2222222222222223,
                     "strikePrice": 74,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 528000,
-                    "totalTradedVolume": 1,
+                    "totalSellQuantity": 536000,
+                    "totalTradedVolume": 2,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 74
@@ -381,7 +381,7 @@
                 "CE": {
                     "askPrice": 8.7,
                     "askQty": 24000,
-                    "bidQty": 72000,
+                    "bidQty": 24000,
                     "bidprice": 7.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -397,12 +397,12 @@
                     "totalSellQuantity": 416000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
                     "askPrice": 0.1,
-                    "askQty": 216000,
-                    "bidQty": 1400000,
+                    "askQty": 32000,
+                    "bidQty": 1472000,
                     "bidprice": 0.05,
                     "change": -0.04999999999999999,
                     "changeinOpenInterest": -1,
@@ -414,9 +414,9 @@
                     "pChange": -33.33333333333333,
                     "pchangeinOpenInterest": -0.44052863436123346,
                     "strikePrice": 75,
-                    "totalBuyQuantity": 1400000,
-                    "totalSellQuantity": 1400000,
-                    "totalTradedVolume": 1,
+                    "totalBuyQuantity": 1472000,
+                    "totalSellQuantity": 1376000,
+                    "totalTradedVolume": 8,
                     "underlying": "SAIL",
                     "underlyingValue": 83.2
                 },
@@ -428,7 +428,7 @@
                     "askPrice": 7.75,
                     "askQty": 8000,
                     "bidQty": 8000,
-                    "bidprice": 7.05,
+                    "bidprice": 6.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -443,7 +443,7 @@
                     "totalSellQuantity": 400000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
                     "askPrice": 0.15,
@@ -517,10 +517,10 @@
             },
             {
                 "CE": {
-                    "askPrice": 5.5,
-                    "askQty": 16000,
+                    "askPrice": 5.45,
+                    "askQty": 8000,
                     "bidQty": 8000,
-                    "bidprice": 5.35,
+                    "bidprice": 5.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -531,11 +531,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 78,
-                    "totalBuyQuantity": 424000,
-                    "totalSellQuantity": 464000,
+                    "totalBuyQuantity": 408000,
+                    "totalSellQuantity": 440000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
                     "askPrice": 0.2,
@@ -553,7 +553,7 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 78,
                     "totalBuyQuantity": 1336000,
-                    "totalSellQuantity": 792000,
+                    "totalSellQuantity": 800000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
                     "underlyingValue": 83.2
@@ -563,10 +563,10 @@
             },
             {
                 "CE": {
-                    "askPrice": 4.65,
+                    "askPrice": 4.6,
                     "askQty": 8000,
                     "bidQty": 16000,
-                    "bidprice": 4.4,
+                    "bidprice": 4.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -577,8 +577,8 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 79,
-                    "totalBuyQuantity": 424000,
-                    "totalSellQuantity": 456000,
+                    "totalBuyQuantity": 408000,
+                    "totalSellQuantity": 440000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
                     "underlyingValue": 83.2
@@ -586,7 +586,7 @@
                 "PE": {
                     "askPrice": 0.3,
                     "askQty": 8000,
-                    "bidQty": 24000,
+                    "bidQty": 8000,
                     "bidprice": 0.25,
                     "change": -0.09999999999999998,
                     "changeinOpenInterest": 0,
@@ -598,7 +598,7 @@
                     "pChange": -28.571428571428566,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 79,
-                    "totalBuyQuantity": 1520000,
+                    "totalBuyQuantity": 1504000,
                     "totalSellQuantity": 952000,
                     "totalTradedVolume": 2,
                     "underlying": "SAIL",
@@ -609,30 +609,30 @@
             },
             {
                 "CE": {
-                    "askPrice": 3.65,
-                    "askQty": 8000,
-                    "bidQty": 56000,
-                    "bidprice": 3.45,
+                    "askPrice": 3.7,
+                    "askQty": 24000,
+                    "bidQty": 16000,
+                    "bidprice": 3.6,
                     "change": 0.3999999999999999,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSAIL25-05-2023CE80.00",
-                    "impliedVolatility": 23.14,
+                    "impliedVolatility": 32.38,
                     "lastPrice": 3.75,
                     "openInterest": 74,
                     "pChange": 11.940298507462684,
                     "pchangeinOpenInterest": -1.3333333333333333,
                     "strikePrice": 80,
-                    "totalBuyQuantity": 848000,
-                    "totalSellQuantity": 688000,
+                    "totalBuyQuantity": 864000,
+                    "totalSellQuantity": 680000,
                     "totalTradedVolume": 10,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
                     "askPrice": 0.45,
-                    "askQty": 152000,
-                    "bidQty": 80000,
+                    "askQty": 112000,
+                    "bidQty": 56000,
                     "bidprice": 0.4,
                     "change": -0.04999999999999999,
                     "changeinOpenInterest": 19,
@@ -646,7 +646,7 @@
                     "strikePrice": 80,
                     "totalBuyQuantity": 5512000,
                     "totalSellQuantity": 2264000,
-                    "totalTradedVolume": 63,
+                    "totalTradedVolume": 65,
                     "underlying": "SAIL",
                     "underlyingValue": 83.2
                 },
@@ -655,10 +655,10 @@
             },
             {
                 "CE": {
-                    "askPrice": 2.9,
+                    "askPrice": 2.85,
                     "askQty": 8000,
-                    "bidQty": 16000,
-                    "bidprice": 2.65,
+                    "bidQty": 8000,
+                    "bidprice": 2.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -669,32 +669,32 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 81,
-                    "totalBuyQuantity": 2424000,
+                    "totalBuyQuantity": 2440000,
                     "totalSellQuantity": 576000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
-                    "askPrice": 0.55,
-                    "askQty": 8000,
-                    "bidQty": 56000,
-                    "bidprice": 0.5,
-                    "change": -0.15000000000000002,
-                    "changeinOpenInterest": 1,
+                    "askPrice": 0.65,
+                    "askQty": 112000,
+                    "bidQty": 24000,
+                    "bidprice": 0.55,
+                    "change": -0.050000000000000044,
+                    "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSAIL25-05-2023PE81.00",
-                    "impliedVolatility": 32.15,
-                    "lastPrice": 0.5,
-                    "openInterest": 97,
-                    "pChange": -23.076923076923077,
-                    "pchangeinOpenInterest": 1.0416666666666667,
+                    "impliedVolatility": 30.5,
+                    "lastPrice": 0.6,
+                    "openInterest": 98,
+                    "pChange": -7.692307692307699,
+                    "pchangeinOpenInterest": 2.0833333333333335,
                     "strikePrice": 81,
-                    "totalBuyQuantity": 2472000,
-                    "totalSellQuantity": 1352000,
-                    "totalTradedVolume": 23,
+                    "totalBuyQuantity": 2448000,
+                    "totalSellQuantity": 1368000,
+                    "totalTradedVolume": 25,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 81
@@ -702,43 +702,43 @@
             {
                 "CE": {
                     "askPrice": 2.1,
-                    "askQty": 24000,
-                    "bidQty": 48000,
+                    "askQty": 16000,
+                    "bidQty": 32000,
                     "bidprice": 2,
                     "change": 0.10000000000000009,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSAIL25-05-2023CE82.00",
-                    "impliedVolatility": 27.39,
+                    "impliedVolatility": 27.96,
                     "lastPrice": 2.1,
                     "openInterest": 110,
                     "pChange": 5.000000000000004,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 82,
-                    "totalBuyQuantity": 2032000,
-                    "totalSellQuantity": 920000,
+                    "totalBuyQuantity": 2048000,
+                    "totalSellQuantity": 912000,
                     "totalTradedVolume": 28,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
-                    "askPrice": 0.85,
-                    "askQty": 48000,
-                    "bidQty": 40000,
-                    "bidprice": 0.75,
-                    "change": -0.15000000000000002,
-                    "changeinOpenInterest": -1,
+                    "askPrice": 0.9,
+                    "askQty": 120000,
+                    "bidQty": 32000,
+                    "bidprice": 0.8,
+                    "change": -0.09999999999999998,
+                    "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSAIL25-05-2023PE82.00",
                     "impliedVolatility": 28.13,
-                    "lastPrice": 0.85,
-                    "openInterest": 173,
-                    "pChange": -15.000000000000002,
-                    "pchangeinOpenInterest": -0.5747126436781609,
+                    "lastPrice": 0.9,
+                    "openInterest": 172,
+                    "pChange": -9.999999999999998,
+                    "pchangeinOpenInterest": -1.1494252873563218,
                     "strikePrice": 82,
-                    "totalBuyQuantity": 2920000,
-                    "totalSellQuantity": 1360000,
-                    "totalTradedVolume": 10,
+                    "totalBuyQuantity": 3032000,
+                    "totalSellQuantity": 1424000,
+                    "totalTradedVolume": 15,
                     "underlying": "SAIL",
                     "underlyingValue": 83.2
                 },
@@ -747,44 +747,44 @@
             },
             {
                 "CE": {
-                    "askPrice": 1.55,
-                    "askQty": 64000,
-                    "bidQty": 8000,
-                    "bidprice": 1.5,
-                    "change": 0.050000000000000044,
-                    "changeinOpenInterest": -11,
+                    "askPrice": 1.5,
+                    "askQty": 56000,
+                    "bidQty": 72000,
+                    "bidprice": 1.4,
+                    "change": 0,
+                    "changeinOpenInterest": -10,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSAIL25-05-2023CE83.00",
-                    "impliedVolatility": 27.05,
-                    "lastPrice": 1.5,
-                    "openInterest": 230,
-                    "pChange": 3.448275862068969,
-                    "pchangeinOpenInterest": -4.564315352697095,
+                    "impliedVolatility": 28.01,
+                    "lastPrice": 1.45,
+                    "openInterest": 231,
+                    "pChange": 0,
+                    "pchangeinOpenInterest": -4.149377593360996,
                     "strikePrice": 83,
-                    "totalBuyQuantity": 1816000,
-                    "totalSellQuantity": 1176000,
-                    "totalTradedVolume": 82,
+                    "totalBuyQuantity": 2168000,
+                    "totalSellQuantity": 1488000,
+                    "totalTradedVolume": 86,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
-                    "askPrice": 1.2,
-                    "askQty": 8000,
+                    "askPrice": 1.3,
+                    "askQty": 32000,
                     "bidQty": 32000,
-                    "bidprice": 1.1,
-                    "change": -0.30000000000000004,
-                    "changeinOpenInterest": -2,
+                    "bidprice": 1.2,
+                    "change": -0.1499999999999999,
+                    "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSAIL25-05-2023PE83.00",
                     "impliedVolatility": 29.31,
-                    "lastPrice": 1.15,
-                    "openInterest": 190,
-                    "pChange": -20.689655172413797,
-                    "pchangeinOpenInterest": -1.0416666666666667,
+                    "lastPrice": 1.3,
+                    "openInterest": 195,
+                    "pChange": -10.344827586206891,
+                    "pchangeinOpenInterest": 1.5625,
                     "strikePrice": 83,
                     "totalBuyQuantity": 2072000,
-                    "totalSellQuantity": 1328000,
-                    "totalTradedVolume": 45,
+                    "totalSellQuantity": 976000,
+                    "totalTradedVolume": 50,
                     "underlying": "SAIL",
                     "underlyingValue": 83.2
                 },
@@ -793,46 +793,46 @@
             },
             {
                 "CE": {
-                    "askPrice": 1.1,
-                    "askQty": 96000,
-                    "bidQty": 16000,
-                    "bidprice": 1.05,
-                    "change": 0.050000000000000044,
-                    "changeinOpenInterest": -1,
+                    "askPrice": 1.05,
+                    "askQty": 16000,
+                    "bidQty": 56000,
+                    "bidprice": 1,
+                    "change": 0,
+                    "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSAIL25-05-2023CE84.00",
-                    "impliedVolatility": 28.4,
-                    "lastPrice": 1.1,
-                    "openInterest": 253,
-                    "pChange": 4.761904761904765,
-                    "pchangeinOpenInterest": -0.3937007874015748,
+                    "impliedVolatility": 29.78,
+                    "lastPrice": 1.05,
+                    "openInterest": 255,
+                    "pChange": 0,
+                    "pchangeinOpenInterest": 0.3937007874015748,
                     "strikePrice": 84,
-                    "totalBuyQuantity": 2720000,
-                    "totalSellQuantity": 1808000,
-                    "totalTradedVolume": 61,
+                    "totalBuyQuantity": 3048000,
+                    "totalSellQuantity": 1816000,
+                    "totalTradedVolume": 63,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
-                    "askPrice": 1.85,
-                    "askQty": 48000,
-                    "bidQty": 48000,
-                    "bidprice": 1.75,
+                    "askPrice": 1.9,
+                    "askQty": 104000,
+                    "bidQty": 16000,
+                    "bidprice": 1.8,
                     "change": -0.5,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSAIL25-05-2023PE84.00",
-                    "impliedVolatility": 32.98,
+                    "impliedVolatility": 27.82,
                     "lastPrice": 1.6,
                     "openInterest": 112,
                     "pChange": -23.809523809523807,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 84,
-                    "totalBuyQuantity": 2896000,
-                    "totalSellQuantity": 896000,
+                    "totalBuyQuantity": 2936000,
+                    "totalSellQuantity": 904000,
                     "totalTradedVolume": 2,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 84
@@ -841,29 +841,29 @@
                 "CE": {
                     "askPrice": 0.75,
                     "askQty": 152000,
-                    "bidQty": 272000,
+                    "bidQty": 280000,
                     "bidprice": 0.7,
                     "change": -0.10000000000000009,
-                    "changeinOpenInterest": -29,
+                    "changeinOpenInterest": -30,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSAIL25-05-2023CE85.00",
-                    "impliedVolatility": 29.37,
+                    "impliedVolatility": 30.22,
                     "lastPrice": 0.7,
-                    "openInterest": 978,
+                    "openInterest": 977,
                     "pChange": -12.50000000000001,
-                    "pchangeinOpenInterest": -2.8798411122144985,
+                    "pchangeinOpenInterest": -2.9791459781529297,
                     "strikePrice": 85,
-                    "totalBuyQuantity": 6728000,
+                    "totalBuyQuantity": 6792000,
                     "totalSellQuantity": 3312000,
                     "totalTradedVolume": 133,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
-                    "askPrice": 2.65,
-                    "askQty": 16000,
-                    "bidQty": 8000,
-                    "bidprice": 2.5,
+                    "askPrice": 2.6,
+                    "askQty": 8000,
+                    "bidQty": 32000,
+                    "bidprice": 2.45,
                     "change": -0.34999999999999964,
                     "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
@@ -874,8 +874,8 @@
                     "pChange": -12.499999999999988,
                     "pchangeinOpenInterest": -1.0638297872340425,
                     "strikePrice": 85,
-                    "totalBuyQuantity": 2880000,
-                    "totalSellQuantity": 840000,
+                    "totalBuyQuantity": 3208000,
+                    "totalSellQuantity": 528000,
                     "totalTradedVolume": 11,
                     "underlying": "SAIL",
                     "underlyingValue": 83.2
@@ -886,8 +886,8 @@
             {
                 "CE": {
                     "askPrice": 0.55,
-                    "askQty": 88000,
-                    "bidQty": 24000,
+                    "askQty": 96000,
+                    "bidQty": 72000,
                     "bidprice": 0.5,
                     "change": 0,
                     "changeinOpenInterest": -5,
@@ -899,15 +899,15 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": -1.8796992481203008,
                     "strikePrice": 86,
-                    "totalBuyQuantity": 2984000,
-                    "totalSellQuantity": 1920000,
+                    "totalBuyQuantity": 3080000,
+                    "totalSellQuantity": 1928000,
                     "totalTradedVolume": 22,
                     "underlying": "SAIL",
                     "underlyingValue": 83.2
                 },
                 "PE": {
-                    "askPrice": 3.35,
-                    "askQty": 32000,
+                    "askPrice": 3.3,
+                    "askQty": 16000,
                     "bidQty": 8000,
                     "bidprice": 3.2,
                     "change": -0.5999999999999996,
@@ -920,8 +920,8 @@
                     "pChange": -15.789473684210517,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 86,
-                    "totalBuyQuantity": 832000,
-                    "totalSellQuantity": 792000,
+                    "totalBuyQuantity": 816000,
+                    "totalSellQuantity": 776000,
                     "totalTradedVolume": 1,
                     "underlying": "SAIL",
                     "underlyingValue": 83.2
@@ -932,30 +932,30 @@
             {
                 "CE": {
                     "askPrice": 0.4,
-                    "askQty": 56000,
-                    "bidQty": 32000,
+                    "askQty": 24000,
+                    "bidQty": 24000,
                     "bidprice": 0.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSAIL25-05-2023CE87.00",
-                    "impliedVolatility": 32.29,
+                    "impliedVolatility": 33.82,
                     "lastPrice": 0.4,
                     "openInterest": 270,
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 87,
-                    "totalBuyQuantity": 2544000,
-                    "totalSellQuantity": 1096000,
+                    "totalBuyQuantity": 2504000,
+                    "totalSellQuantity": 1048000,
                     "totalTradedVolume": 3,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
-                    "askPrice": 4.2,
-                    "askQty": 16000,
+                    "askPrice": 4.25,
+                    "askQty": 8000,
                     "bidQty": 8000,
-                    "bidprice": 4.05,
+                    "bidprice": 4.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -966,7 +966,7 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 87,
-                    "totalBuyQuantity": 832000,
+                    "totalBuyQuantity": 872000,
                     "totalSellQuantity": 448000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
@@ -978,8 +978,8 @@
             {
                 "CE": {
                     "askPrice": 0.3,
-                    "askQty": 96000,
-                    "bidQty": 136000,
+                    "askQty": 128000,
+                    "bidQty": 128000,
                     "bidprice": 0.25,
                     "change": 0,
                     "changeinOpenInterest": -2,
@@ -991,17 +991,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": -0.7490636704119851,
                     "strikePrice": 88,
-                    "totalBuyQuantity": 2488000,
-                    "totalSellQuantity": 1128000,
-                    "totalTradedVolume": 5,
+                    "totalBuyQuantity": 2624000,
+                    "totalSellQuantity": 1280000,
+                    "totalTradedVolume": 6,
                     "underlying": "SAIL",
                     "underlyingValue": 83.2
                 },
                 "PE": {
-                    "askPrice": 5.1,
+                    "askPrice": 5.15,
                     "askQty": 8000,
                     "bidQty": 8000,
-                    "bidprice": 4.95,
+                    "bidprice": 5,
                     "change": -0.7000000000000002,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1013,7 +1013,7 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 88,
                     "totalBuyQuantity": 840000,
-                    "totalSellQuantity": 768000,
+                    "totalSellQuantity": 776000,
                     "totalTradedVolume": 1,
                     "underlying": "SAIL",
                     "underlyingValue": 83.2
@@ -1023,8 +1023,8 @@
             },
             {
                 "CE": {
-                    "askPrice": 0.25,
-                    "askQty": 40000,
+                    "askPrice": 0.2,
+                    "askQty": 16000,
                     "bidQty": 72000,
                     "bidprice": 0.15,
                     "change": 0,
@@ -1045,9 +1045,9 @@
                 },
                 "PE": {
                     "askPrice": 6,
-                    "askQty": 8000,
+                    "askQty": 16000,
                     "bidQty": 8000,
-                    "bidprice": 5.75,
+                    "bidprice": 5.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1062,7 +1062,7 @@
                     "totalSellQuantity": 408000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 89
@@ -1077,7 +1077,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSAIL25-05-2023CE90.00",
-                    "impliedVolatility": 36.78,
+                    "impliedVolatility": 37.94,
                     "lastPrice": 0.15,
                     "openInterest": 754,
                     "pChange": -25.000000000000007,
@@ -1087,7 +1087,7 @@
                     "totalSellQuantity": 3704000,
                     "totalTradedVolume": 22,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
                     "askPrice": 6.95,
@@ -1133,13 +1133,13 @@
                     "totalSellQuantity": 640000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
                     "askPrice": 8.15,
                     "askQty": 8000,
                     "bidQty": 8000,
-                    "bidprice": 7.25,
+                    "bidprice": 7.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1162,8 +1162,8 @@
             {
                 "CE": {
                     "askPrice": 0.1,
-                    "askQty": 8000,
-                    "bidQty": 240000,
+                    "askQty": 16000,
+                    "bidQty": 264000,
                     "bidprice": 0.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -1175,17 +1175,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 92,
-                    "totalBuyQuantity": 240000,
-                    "totalSellQuantity": 832000,
+                    "totalBuyQuantity": 264000,
+                    "totalSellQuantity": 840000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
-                    "askPrice": 9,
+                    "askPrice": 9.2,
                     "askQty": 8000,
                     "bidQty": 8000,
-                    "bidprice": 8.3,
+                    "bidprice": 8.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1225,11 +1225,11 @@
                     "totalSellQuantity": 496000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
-                    "askPrice": 10.2,
-                    "askQty": 48000,
+                    "askPrice": 10.6,
+                    "askQty": 24000,
                     "bidQty": 24000,
                     "bidprice": 9.15,
                     "change": 0,
@@ -1243,10 +1243,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 93,
                     "totalBuyQuantity": 392000,
-                    "totalSellQuantity": 368000,
+                    "totalSellQuantity": 392000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 93
@@ -1268,7 +1268,7 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 94,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 600000,
+                    "totalSellQuantity": 608000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
                     "underlyingValue": 83.2
@@ -1276,8 +1276,8 @@
                 "PE": {
                     "askPrice": 12.2,
                     "askQty": 24000,
-                    "bidQty": 320000,
-                    "bidprice": 8.95,
+                    "bidQty": 24000,
+                    "bidprice": 9.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1288,7 +1288,7 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 94,
-                    "totalBuyQuantity": 320000,
+                    "totalBuyQuantity": 360000,
                     "totalSellQuantity": 344000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
@@ -1323,7 +1323,7 @@
                     "askPrice": 11.9,
                     "askQty": 8000,
                     "bidQty": 8000,
-                    "bidprice": 11.65,
+                    "bidprice": 11.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1335,10 +1335,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 95,
                     "totalBuyQuantity": 328000,
-                    "totalSellQuantity": 352000,
+                    "totalSellQuantity": 328000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 95
@@ -1363,7 +1363,7 @@
                     "totalSellQuantity": 688000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
                     "askPrice": 14.15,
@@ -1430,30 +1430,30 @@
                     "totalSellQuantity": 344000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 97
             },
             {
                 "CE": {
-                    "askPrice": 0.05,
-                    "askQty": 24000,
+                    "askPrice": 0.1,
+                    "askQty": 256000,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
-                    "changeinOpenInterest": 0,
+                    "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSAIL25-05-2023CE98.00",
                     "impliedVolatility": 0,
-                    "lastPrice": 0,
-                    "openInterest": 183,
+                    "lastPrice": 0.05,
+                    "openInterest": 182,
                     "pChange": 0,
-                    "pchangeinOpenInterest": 0,
+                    "pchangeinOpenInterest": -0.546448087431694,
                     "strikePrice": 98,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 672000,
-                    "totalTradedVolume": 0,
+                    "totalSellQuantity": 648000,
+                    "totalTradedVolume": 3,
                     "underlying": "SAIL",
                     "underlyingValue": 83.2
                 },
@@ -1463,14 +1463,14 @@
                     "bidQty": 24000,
                     "bidprice": 13.1,
                     "change": 0,
-                    "changeinOpenInterest": 0,
+                    "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSAIL25-05-2023PE98.00",
                     "impliedVolatility": 0,
                     "lastPrice": 0,
-                    "openInterest": 117,
+                    "openInterest": 116,
                     "pChange": 0,
-                    "pchangeinOpenInterest": 0,
+                    "pchangeinOpenInterest": -0.8547008547008547,
                     "strikePrice": 98,
                     "totalBuyQuantity": 344000,
                     "totalSellQuantity": 344000,
@@ -1501,7 +1501,7 @@
                     "totalSellQuantity": 496000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
                     "askPrice": 17.25,
@@ -1522,7 +1522,7 @@
                     "totalSellQuantity": 344000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 99
@@ -1550,10 +1550,10 @@
                     "underlyingValue": 83.2
                 },
                 "PE": {
-                    "askPrice": 17.7,
+                    "askPrice": 17.4,
                     "askQty": 24000,
                     "bidQty": 24000,
-                    "bidprice": 15.35,
+                    "bidprice": 16.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1568,7 +1568,7 @@
                     "totalSellQuantity": 352000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 100
@@ -1614,7 +1614,7 @@
                     "totalSellQuantity": 344000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 101
@@ -1644,8 +1644,8 @@
                 "PE": {
                     "askPrice": 20.3,
                     "askQty": 24000,
-                    "bidQty": 320000,
-                    "bidprice": 17,
+                    "bidQty": 24000,
+                    "bidprice": 17.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1656,11 +1656,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 102,
-                    "totalBuyQuantity": 320000,
+                    "totalBuyQuantity": 344000,
                     "totalSellQuantity": 344000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 102
@@ -1671,7 +1671,7 @@
         "data": [
             {
                 "CE": {
-                    "askPrice": 19.55,
+                    "askPrice": 18.35,
                     "askQty": 24000,
                     "bidQty": 24000,
                     "bidprice": 14.95,
@@ -1689,7 +1689,7 @@
                     "totalSellQuantity": 344000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
                     "askPrice": 1.7,
@@ -1710,7 +1710,7 @@
                     "totalSellQuantity": 320000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 67
@@ -1735,7 +1735,7 @@
                     "totalSellQuantity": 344000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1756,14 +1756,14 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 67
             },
             {
                 "CE": {
-                    "askPrice": 19.3,
+                    "askPrice": 19,
                     "askQty": 24000,
                     "bidQty": 24000,
                     "bidprice": 14.45,
@@ -1781,7 +1781,7 @@
                     "totalSellQuantity": 344000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
                     "askPrice": 1.55,
@@ -1802,14 +1802,14 @@
                     "totalSellQuantity": 8000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 68
             },
             {
                 "CE": {
-                    "askPrice": 18.6,
+                    "askPrice": 17.7,
                     "askQty": 24000,
                     "bidQty": 24000,
                     "bidprice": 13.95,
@@ -1827,11 +1827,11 @@
                     "totalSellQuantity": 344000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
-                    "askPrice": 1.5,
-                    "askQty": 8000,
+                    "askPrice": 0.4,
+                    "askQty": 32000,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -1845,20 +1845,20 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 68,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 8000,
+                    "totalSellQuantity": 360000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 68
             },
             {
                 "CE": {
-                    "askPrice": 17.6,
+                    "askPrice": 16.3,
                     "askQty": 24000,
                     "bidQty": 24000,
-                    "bidprice": 13.05,
+                    "bidprice": 12.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1894,7 +1894,7 @@
                     "totalSellQuantity": 320000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 69
@@ -1986,7 +1986,7 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 70
@@ -2032,14 +2032,14 @@
                     "totalSellQuantity": 408000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 70
             },
             {
                 "CE": {
-                    "askPrice": 15.55,
+                    "askPrice": 14.35,
                     "askQty": 24000,
                     "bidQty": 24000,
                     "bidprice": 10.95,
@@ -2057,11 +2057,11 @@
                     "totalSellQuantity": 344000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
-                    "askPrice": 1.5,
-                    "askQty": 8000,
+                    "askPrice": 0.5,
+                    "askQty": 32000,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -2075,7 +2075,7 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 71,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 8000,
+                    "totalSellQuantity": 408000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
                     "underlyingValue": 83.2
@@ -2103,7 +2103,7 @@
                     "totalSellQuantity": 320000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2131,7 +2131,7 @@
             },
             {
                 "CE": {
-                    "askPrice": 14.6,
+                    "askPrice": 13.5,
                     "askQty": 24000,
                     "bidQty": 24000,
                     "bidprice": 10,
@@ -2152,8 +2152,8 @@
                     "underlyingValue": 83.2
                 },
                 "PE": {
-                    "askPrice": 1.5,
-                    "askQty": 8000,
+                    "askPrice": 0.6,
+                    "askQty": 24000,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -2167,7 +2167,7 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 72,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 328000,
+                    "totalSellQuantity": 352000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
                     "underlyingValue": 83.2
@@ -2195,12 +2195,12 @@
                     "totalSellQuantity": 344000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
-                    "askPrice": 3.8,
-                    "askQty": 248000,
-                    "bidQty": 8000,
+                    "askPrice": 3.7,
+                    "askQty": 8000,
+                    "bidQty": 56000,
                     "bidprice": 0.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -2212,21 +2212,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 72,
-                    "totalBuyQuantity": 8000,
-                    "totalSellQuantity": 288000,
+                    "totalBuyQuantity": 56000,
+                    "totalSellQuantity": 40000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 72
             },
             {
                 "CE": {
-                    "askPrice": 12.2,
+                    "askPrice": 11.9,
                     "askQty": 24000,
                     "bidQty": 24000,
-                    "bidprice": 9.05,
+                    "bidprice": 3.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2237,7 +2237,7 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 73,
-                    "totalBuyQuantity": 344000,
+                    "totalBuyQuantity": 328000,
                     "totalSellQuantity": 344000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
@@ -2259,10 +2259,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 73,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 456000,
+                    "totalSellQuantity": 480000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 73
@@ -2292,8 +2292,8 @@
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
-                    "bidQty": 8000,
-                    "bidprice": 0.05,
+                    "bidQty": 40000,
+                    "bidprice": 0.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2304,11 +2304,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 73,
-                    "totalBuyQuantity": 8000,
+                    "totalBuyQuantity": 48000,
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 73
@@ -2333,7 +2333,7 @@
                     "totalSellQuantity": 320000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2354,7 +2354,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 74
@@ -2383,24 +2383,24 @@
                 },
                 "PE": {
                     "askPrice": 0.1,
-                    "askQty": 88000,
+                    "askQty": 96000,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": -0.05,
-                    "changeinOpenInterest": 0,
+                    "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSAIL25-05-2023PE74.00",
-                    "impliedVolatility": 45.75,
+                    "impliedVolatility": 44.83,
                     "lastPrice": 0.05,
-                    "openInterest": 45,
+                    "openInterest": 44,
                     "pChange": -50,
-                    "pchangeinOpenInterest": 0,
+                    "pchangeinOpenInterest": -2.2222222222222223,
                     "strikePrice": 74,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 528000,
-                    "totalTradedVolume": 1,
+                    "totalSellQuantity": 536000,
+                    "totalTradedVolume": 2,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 74
@@ -2409,7 +2409,7 @@
                 "CE": {
                     "askPrice": 8.7,
                     "askQty": 24000,
-                    "bidQty": 72000,
+                    "bidQty": 24000,
                     "bidprice": 7.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -2425,12 +2425,12 @@
                     "totalSellQuantity": 416000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
                     "askPrice": 0.1,
-                    "askQty": 216000,
-                    "bidQty": 1400000,
+                    "askQty": 32000,
+                    "bidQty": 1472000,
                     "bidprice": 0.05,
                     "change": -0.04999999999999999,
                     "changeinOpenInterest": -1,
@@ -2442,9 +2442,9 @@
                     "pChange": -33.33333333333333,
                     "pchangeinOpenInterest": -0.44052863436123346,
                     "strikePrice": 75,
-                    "totalBuyQuantity": 1400000,
-                    "totalSellQuantity": 1400000,
-                    "totalTradedVolume": 1,
+                    "totalBuyQuantity": 1472000,
+                    "totalSellQuantity": 1376000,
+                    "totalTradedVolume": 8,
                     "underlying": "SAIL",
                     "underlyingValue": 83.2
                 },
@@ -2453,7 +2453,7 @@
             },
             {
                 "CE": {
-                    "askPrice": 15.1,
+                    "askPrice": 13.7,
                     "askQty": 24000,
                     "bidQty": 24000,
                     "bidprice": 7.5,
@@ -2471,13 +2471,13 @@
                     "totalSellQuantity": 344000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
-                    "askPrice": 0.45,
-                    "askQty": 16000,
-                    "bidQty": 40000,
-                    "bidprice": 0.4,
+                    "askPrice": 0.5,
+                    "askQty": 24000,
+                    "bidQty": 16000,
+                    "bidprice": 0.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2489,10 +2489,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 75,
                     "totalBuyQuantity": 240000,
-                    "totalSellQuantity": 184000,
-                    "totalTradedVolume": 1,
+                    "totalSellQuantity": 160000,
+                    "totalTradedVolume": 2,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 75
@@ -2527,7 +2527,7 @@
                     "askPrice": 7.75,
                     "askQty": 8000,
                     "bidQty": 8000,
-                    "bidprice": 7.05,
+                    "bidprice": 6.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2542,7 +2542,7 @@
                     "totalSellQuantity": 400000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
                     "askPrice": 0.15,
@@ -2593,8 +2593,8 @@
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
-                    "bidQty": 8000,
-                    "bidprice": 0.1,
+                    "bidQty": 48000,
+                    "bidprice": 0.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2605,11 +2605,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 76,
-                    "totalBuyQuantity": 24000,
+                    "totalBuyQuantity": 72000,
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 76
@@ -2701,7 +2701,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 77
@@ -2747,17 +2747,17 @@
                     "totalSellQuantity": 8000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 78
             },
             {
                 "CE": {
-                    "askPrice": 5.5,
-                    "askQty": 16000,
+                    "askPrice": 5.45,
+                    "askQty": 8000,
                     "bidQty": 8000,
-                    "bidprice": 5.35,
+                    "bidprice": 5.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2768,11 +2768,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 78,
-                    "totalBuyQuantity": 424000,
-                    "totalSellQuantity": 464000,
+                    "totalBuyQuantity": 408000,
+                    "totalSellQuantity": 440000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
                     "askPrice": 0.2,
@@ -2790,7 +2790,7 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 78,
                     "totalBuyQuantity": 1336000,
-                    "totalSellQuantity": 792000,
+                    "totalSellQuantity": 800000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
                     "underlyingValue": 83.2
@@ -2818,7 +2818,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2839,17 +2839,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 79
             },
             {
                 "CE": {
-                    "askPrice": 4.65,
+                    "askPrice": 4.6,
                     "askQty": 8000,
                     "bidQty": 16000,
-                    "bidprice": 4.4,
+                    "bidprice": 4.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2860,8 +2860,8 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 79,
-                    "totalBuyQuantity": 424000,
-                    "totalSellQuantity": 456000,
+                    "totalBuyQuantity": 408000,
+                    "totalSellQuantity": 440000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
                     "underlyingValue": 83.2
@@ -2869,7 +2869,7 @@
                 "PE": {
                     "askPrice": 0.3,
                     "askQty": 8000,
-                    "bidQty": 24000,
+                    "bidQty": 8000,
                     "bidprice": 0.25,
                     "change": -0.09999999999999998,
                     "changeinOpenInterest": 0,
@@ -2881,7 +2881,7 @@
                     "pChange": -28.571428571428566,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 79,
-                    "totalBuyQuantity": 1520000,
+                    "totalBuyQuantity": 1504000,
                     "totalSellQuantity": 952000,
                     "totalTradedVolume": 2,
                     "underlying": "SAIL",
@@ -2892,30 +2892,30 @@
             },
             {
                 "CE": {
-                    "askPrice": 3.65,
-                    "askQty": 8000,
-                    "bidQty": 56000,
-                    "bidprice": 3.45,
+                    "askPrice": 3.7,
+                    "askQty": 24000,
+                    "bidQty": 16000,
+                    "bidprice": 3.6,
                     "change": 0.3999999999999999,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSAIL25-05-2023CE80.00",
-                    "impliedVolatility": 23.14,
+                    "impliedVolatility": 32.38,
                     "lastPrice": 3.75,
                     "openInterest": 74,
                     "pChange": 11.940298507462684,
                     "pchangeinOpenInterest": -1.3333333333333333,
                     "strikePrice": 80,
-                    "totalBuyQuantity": 848000,
-                    "totalSellQuantity": 688000,
+                    "totalBuyQuantity": 864000,
+                    "totalSellQuantity": 680000,
                     "totalTradedVolume": 10,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
                     "askPrice": 0.45,
-                    "askQty": 152000,
-                    "bidQty": 80000,
+                    "askQty": 112000,
+                    "bidQty": 56000,
                     "bidprice": 0.4,
                     "change": -0.04999999999999999,
                     "changeinOpenInterest": 19,
@@ -2929,7 +2929,7 @@
                     "strikePrice": 80,
                     "totalBuyQuantity": 5512000,
                     "totalSellQuantity": 2264000,
-                    "totalTradedVolume": 63,
+                    "totalTradedVolume": 65,
                     "underlying": "SAIL",
                     "underlyingValue": 83.2
                 },
@@ -2960,34 +2960,34 @@
                 },
                 "PE": {
                     "askPrice": 1.5,
-                    "askQty": 16000,
-                    "bidQty": 8000,
+                    "askQty": 8000,
+                    "bidQty": 32000,
                     "bidprice": 1.45,
                     "change": -0.15000000000000013,
                     "changeinOpenInterest": -13,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKSAIL29-06-2023PE80.00",
-                    "impliedVolatility": 28.41,
+                    "impliedVolatility": 27.69,
                     "lastPrice": 1.4,
                     "openInterest": 476,
                     "pChange": -9.677419354838717,
                     "pchangeinOpenInterest": -2.658486707566462,
                     "strikePrice": 80,
-                    "totalBuyQuantity": 1720000,
-                    "totalSellQuantity": 632000,
+                    "totalBuyQuantity": 1712000,
+                    "totalSellQuantity": 608000,
                     "totalTradedVolume": 49,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 80
             },
             {
                 "CE": {
-                    "askPrice": 2.9,
+                    "askPrice": 2.85,
                     "askQty": 8000,
-                    "bidQty": 16000,
-                    "bidprice": 2.65,
+                    "bidQty": 8000,
+                    "bidprice": 2.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2998,32 +2998,32 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 81,
-                    "totalBuyQuantity": 2424000,
+                    "totalBuyQuantity": 2440000,
                     "totalSellQuantity": 576000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
-                    "askPrice": 0.55,
-                    "askQty": 8000,
-                    "bidQty": 56000,
-                    "bidprice": 0.5,
-                    "change": -0.15000000000000002,
-                    "changeinOpenInterest": 1,
+                    "askPrice": 0.65,
+                    "askQty": 112000,
+                    "bidQty": 24000,
+                    "bidprice": 0.55,
+                    "change": -0.050000000000000044,
+                    "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSAIL25-05-2023PE81.00",
-                    "impliedVolatility": 32.15,
-                    "lastPrice": 0.5,
-                    "openInterest": 97,
-                    "pChange": -23.076923076923077,
-                    "pchangeinOpenInterest": 1.0416666666666667,
+                    "impliedVolatility": 30.5,
+                    "lastPrice": 0.6,
+                    "openInterest": 98,
+                    "pChange": -7.692307692307699,
+                    "pchangeinOpenInterest": 2.0833333333333335,
                     "strikePrice": 81,
-                    "totalBuyQuantity": 2472000,
-                    "totalSellQuantity": 1352000,
-                    "totalTradedVolume": 23,
+                    "totalBuyQuantity": 2448000,
+                    "totalSellQuantity": 1368000,
+                    "totalTradedVolume": 25,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 81
@@ -3048,7 +3048,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 81
@@ -3056,43 +3056,43 @@
             {
                 "CE": {
                     "askPrice": 2.1,
-                    "askQty": 24000,
-                    "bidQty": 48000,
+                    "askQty": 16000,
+                    "bidQty": 32000,
                     "bidprice": 2,
                     "change": 0.10000000000000009,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSAIL25-05-2023CE82.00",
-                    "impliedVolatility": 27.39,
+                    "impliedVolatility": 27.96,
                     "lastPrice": 2.1,
                     "openInterest": 110,
                     "pChange": 5.000000000000004,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 82,
-                    "totalBuyQuantity": 2032000,
-                    "totalSellQuantity": 920000,
+                    "totalBuyQuantity": 2048000,
+                    "totalSellQuantity": 912000,
                     "totalTradedVolume": 28,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
-                    "askPrice": 0.85,
-                    "askQty": 48000,
-                    "bidQty": 40000,
-                    "bidprice": 0.75,
-                    "change": -0.15000000000000002,
-                    "changeinOpenInterest": -1,
+                    "askPrice": 0.9,
+                    "askQty": 120000,
+                    "bidQty": 32000,
+                    "bidprice": 0.8,
+                    "change": -0.09999999999999998,
+                    "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSAIL25-05-2023PE82.00",
                     "impliedVolatility": 28.13,
-                    "lastPrice": 0.85,
-                    "openInterest": 173,
-                    "pChange": -15.000000000000002,
-                    "pchangeinOpenInterest": -0.5747126436781609,
+                    "lastPrice": 0.9,
+                    "openInterest": 172,
+                    "pChange": -9.999999999999998,
+                    "pchangeinOpenInterest": -1.1494252873563218,
                     "strikePrice": 82,
-                    "totalBuyQuantity": 2920000,
-                    "totalSellQuantity": 1360000,
-                    "totalTradedVolume": 10,
+                    "totalBuyQuantity": 3032000,
+                    "totalSellQuantity": 1424000,
+                    "totalTradedVolume": 15,
                     "underlying": "SAIL",
                     "underlyingValue": 83.2
                 },
@@ -3101,8 +3101,8 @@
             },
             {
                 "CE": {
-                    "askPrice": 9.25,
-                    "askQty": 24000,
+                    "askPrice": 7,
+                    "askQty": 320000,
                     "bidQty": 24000,
                     "bidprice": 3.05,
                     "change": 0,
@@ -3116,16 +3116,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 82,
                     "totalBuyQuantity": 40000,
-                    "totalSellQuantity": 344000,
+                    "totalSellQuantity": 320000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
                     "underlyingValue": 83.2
                 },
                 "PE": {
-                    "askPrice": 2.5,
+                    "askPrice": 2.65,
                     "askQty": 8000,
-                    "bidQty": 16000,
-                    "bidprice": 2,
+                    "bidQty": 8000,
+                    "bidprice": 1.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3136,55 +3136,55 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 82,
-                    "totalBuyQuantity": 168000,
-                    "totalSellQuantity": 16000,
+                    "totalBuyQuantity": 152000,
+                    "totalSellQuantity": 24000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 82
             },
             {
                 "CE": {
-                    "askPrice": 1.55,
-                    "askQty": 64000,
-                    "bidQty": 8000,
-                    "bidprice": 1.5,
-                    "change": 0.050000000000000044,
-                    "changeinOpenInterest": -11,
+                    "askPrice": 1.5,
+                    "askQty": 56000,
+                    "bidQty": 72000,
+                    "bidprice": 1.4,
+                    "change": 0,
+                    "changeinOpenInterest": -10,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSAIL25-05-2023CE83.00",
-                    "impliedVolatility": 27.05,
-                    "lastPrice": 1.5,
-                    "openInterest": 230,
-                    "pChange": 3.448275862068969,
-                    "pchangeinOpenInterest": -4.564315352697095,
+                    "impliedVolatility": 28.01,
+                    "lastPrice": 1.45,
+                    "openInterest": 231,
+                    "pChange": 0,
+                    "pchangeinOpenInterest": -4.149377593360996,
                     "strikePrice": 83,
-                    "totalBuyQuantity": 1816000,
-                    "totalSellQuantity": 1176000,
-                    "totalTradedVolume": 82,
+                    "totalBuyQuantity": 2168000,
+                    "totalSellQuantity": 1488000,
+                    "totalTradedVolume": 86,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
-                    "askPrice": 1.2,
-                    "askQty": 8000,
+                    "askPrice": 1.3,
+                    "askQty": 32000,
                     "bidQty": 32000,
-                    "bidprice": 1.1,
-                    "change": -0.30000000000000004,
-                    "changeinOpenInterest": -2,
+                    "bidprice": 1.2,
+                    "change": -0.1499999999999999,
+                    "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSAIL25-05-2023PE83.00",
                     "impliedVolatility": 29.31,
-                    "lastPrice": 1.15,
-                    "openInterest": 190,
-                    "pChange": -20.689655172413797,
-                    "pchangeinOpenInterest": -1.0416666666666667,
+                    "lastPrice": 1.3,
+                    "openInterest": 195,
+                    "pChange": -10.344827586206891,
+                    "pchangeinOpenInterest": 1.5625,
                     "strikePrice": 83,
                     "totalBuyQuantity": 2072000,
-                    "totalSellQuantity": 1328000,
-                    "totalTradedVolume": 45,
+                    "totalSellQuantity": 976000,
+                    "totalTradedVolume": 50,
                     "underlying": "SAIL",
                     "underlyingValue": 83.2
                 },
@@ -3211,7 +3211,7 @@
                     "totalSellQuantity": 8000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
                     "askPrice": 4.4,
@@ -3232,7 +3232,7 @@
                     "totalSellQuantity": 8000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 83
@@ -3264,53 +3264,53 @@
             },
             {
                 "CE": {
-                    "askPrice": 1.1,
-                    "askQty": 96000,
-                    "bidQty": 16000,
-                    "bidprice": 1.05,
-                    "change": 0.050000000000000044,
-                    "changeinOpenInterest": -1,
+                    "askPrice": 1.05,
+                    "askQty": 16000,
+                    "bidQty": 56000,
+                    "bidprice": 1,
+                    "change": 0,
+                    "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSAIL25-05-2023CE84.00",
-                    "impliedVolatility": 28.4,
-                    "lastPrice": 1.1,
-                    "openInterest": 253,
-                    "pChange": 4.761904761904765,
-                    "pchangeinOpenInterest": -0.3937007874015748,
+                    "impliedVolatility": 29.78,
+                    "lastPrice": 1.05,
+                    "openInterest": 255,
+                    "pChange": 0,
+                    "pchangeinOpenInterest": 0.3937007874015748,
                     "strikePrice": 84,
-                    "totalBuyQuantity": 2720000,
-                    "totalSellQuantity": 1808000,
-                    "totalTradedVolume": 61,
+                    "totalBuyQuantity": 3048000,
+                    "totalSellQuantity": 1816000,
+                    "totalTradedVolume": 63,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
-                    "askPrice": 1.85,
-                    "askQty": 48000,
-                    "bidQty": 48000,
-                    "bidprice": 1.75,
+                    "askPrice": 1.9,
+                    "askQty": 104000,
+                    "bidQty": 16000,
+                    "bidprice": 1.8,
                     "change": -0.5,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSAIL25-05-2023PE84.00",
-                    "impliedVolatility": 32.98,
+                    "impliedVolatility": 27.82,
                     "lastPrice": 1.6,
                     "openInterest": 112,
                     "pChange": -23.809523809523807,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 84,
-                    "totalBuyQuantity": 2896000,
-                    "totalSellQuantity": 896000,
+                    "totalBuyQuantity": 2936000,
+                    "totalSellQuantity": 904000,
                     "totalTradedVolume": 2,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 84
             },
             {
                 "CE": {
-                    "askPrice": 6.8,
+                    "askPrice": 4.8,
                     "askQty": 8000,
                     "bidQty": 24000,
                     "bidprice": 2.65,
@@ -3325,10 +3325,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 84,
                     "totalBuyQuantity": 376000,
-                    "totalSellQuantity": 16000,
+                    "totalSellQuantity": 24000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
                     "askPrice": 8.4,
@@ -3346,7 +3346,7 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 84,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 328000,
+                    "totalSellQuantity": 8000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
                     "underlyingValue": 83.2
@@ -3374,7 +3374,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 84
@@ -3383,29 +3383,29 @@
                 "CE": {
                     "askPrice": 0.75,
                     "askQty": 152000,
-                    "bidQty": 272000,
+                    "bidQty": 280000,
                     "bidprice": 0.7,
                     "change": -0.10000000000000009,
-                    "changeinOpenInterest": -29,
+                    "changeinOpenInterest": -30,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSAIL25-05-2023CE85.00",
-                    "impliedVolatility": 29.37,
+                    "impliedVolatility": 30.22,
                     "lastPrice": 0.7,
-                    "openInterest": 978,
+                    "openInterest": 977,
                     "pChange": -12.50000000000001,
-                    "pchangeinOpenInterest": -2.8798411122144985,
+                    "pchangeinOpenInterest": -2.9791459781529297,
                     "strikePrice": 85,
-                    "totalBuyQuantity": 6728000,
+                    "totalBuyQuantity": 6792000,
                     "totalSellQuantity": 3312000,
                     "totalTradedVolume": 133,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
-                    "askPrice": 2.65,
-                    "askQty": 16000,
-                    "bidQty": 8000,
-                    "bidprice": 2.5,
+                    "askPrice": 2.6,
+                    "askQty": 8000,
+                    "bidQty": 32000,
+                    "bidprice": 2.45,
                     "change": -0.34999999999999964,
                     "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
@@ -3416,8 +3416,8 @@
                     "pChange": -12.499999999999988,
                     "pchangeinOpenInterest": -1.0638297872340425,
                     "strikePrice": 85,
-                    "totalBuyQuantity": 2880000,
-                    "totalSellQuantity": 840000,
+                    "totalBuyQuantity": 3208000,
+                    "totalSellQuantity": 528000,
                     "totalTradedVolume": 11,
                     "underlying": "SAIL",
                     "underlyingValue": 83.2
@@ -3428,43 +3428,43 @@
             {
                 "CE": {
                     "askPrice": 2.65,
-                    "askQty": 24000,
-                    "bidQty": 40000,
-                    "bidprice": 2.55,
+                    "askQty": 16000,
+                    "bidQty": 80000,
+                    "bidprice": 2.6,
                     "change": 0.10000000000000009,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKSAIL29-06-2023CE85.00",
-                    "impliedVolatility": 26.53,
+                    "impliedVolatility": 27.16,
                     "lastPrice": 2.6,
                     "openInterest": 236,
                     "pChange": 4.0000000000000036,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 85,
-                    "totalBuyQuantity": 1040000,
-                    "totalSellQuantity": 704000,
+                    "totalBuyQuantity": 1112000,
+                    "totalSellQuantity": 832000,
                     "totalTradedVolume": 21,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
-                    "askPrice": 3.85,
-                    "askQty": 40000,
-                    "bidQty": 8000,
-                    "bidprice": 3.7,
-                    "change": -0.2999999999999998,
-                    "changeinOpenInterest": 0,
+                    "askPrice": 3.8,
+                    "askQty": 16000,
+                    "bidQty": 32000,
+                    "bidprice": 3.65,
+                    "change": 0,
+                    "changeinOpenInterest": -1,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKSAIL29-06-2023PE85.00",
                     "impliedVolatility": 27.36,
-                    "lastPrice": 3.5,
-                    "openInterest": 46,
-                    "pChange": -7.894736842105258,
-                    "pchangeinOpenInterest": 0,
+                    "lastPrice": 3.8,
+                    "openInterest": 45,
+                    "pChange": 0,
+                    "pchangeinOpenInterest": -2.1739130434782608,
                     "strikePrice": 85,
-                    "totalBuyQuantity": 488000,
-                    "totalSellQuantity": 416000,
-                    "totalTradedVolume": 1,
+                    "totalBuyQuantity": 576000,
+                    "totalSellQuantity": 440000,
+                    "totalTradedVolume": 8,
                     "underlying": "SAIL",
                     "underlyingValue": 83.2
                 },
@@ -3481,7 +3481,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "27-Jul-2023",
                     "identifier": "OPTSTKSAIL27-07-2023CE85.00",
-                    "impliedVolatility": 23.62,
+                    "impliedVolatility": 24.52,
                     "lastPrice": 3.5,
                     "openInterest": 10,
                     "pChange": 0,
@@ -3491,17 +3491,17 @@
                     "totalSellQuantity": 24000,
                     "totalTradedVolume": 1,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 85
             },
             {
                 "CE": {
-                    "askPrice": 0,
-                    "askQty": 0,
+                    "askPrice": 4.35,
+                    "askQty": 320000,
                     "bidQty": 8000,
-                    "bidprice": 2.05,
+                    "bidprice": 2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3513,14 +3513,14 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 86,
                     "totalBuyQuantity": 328000,
-                    "totalSellQuantity": 0,
+                    "totalSellQuantity": 320000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
                     "underlyingValue": 83.2
                 },
                 "PE": {
-                    "askPrice": 0,
-                    "askQty": 0,
+                    "askPrice": 10.75,
+                    "askQty": 24000,
                     "bidQty": 24000,
                     "bidprice": 2.25,
                     "change": 0,
@@ -3534,7 +3534,7 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 86,
                     "totalBuyQuantity": 24000,
-                    "totalSellQuantity": 0,
+                    "totalSellQuantity": 24000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
                     "underlyingValue": 83.2
@@ -3545,8 +3545,8 @@
             {
                 "CE": {
                     "askPrice": 0.55,
-                    "askQty": 88000,
-                    "bidQty": 24000,
+                    "askQty": 96000,
+                    "bidQty": 72000,
                     "bidprice": 0.5,
                     "change": 0,
                     "changeinOpenInterest": -5,
@@ -3558,15 +3558,15 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": -1.8796992481203008,
                     "strikePrice": 86,
-                    "totalBuyQuantity": 2984000,
-                    "totalSellQuantity": 1920000,
+                    "totalBuyQuantity": 3080000,
+                    "totalSellQuantity": 1928000,
                     "totalTradedVolume": 22,
                     "underlying": "SAIL",
                     "underlyingValue": 83.2
                 },
                 "PE": {
-                    "askPrice": 3.35,
-                    "askQty": 32000,
+                    "askPrice": 3.3,
+                    "askQty": 16000,
                     "bidQty": 8000,
                     "bidprice": 3.2,
                     "change": -0.5999999999999996,
@@ -3579,8 +3579,8 @@
                     "pChange": -15.789473684210517,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 86,
-                    "totalBuyQuantity": 832000,
-                    "totalSellQuantity": 792000,
+                    "totalBuyQuantity": 816000,
+                    "totalSellQuantity": 776000,
                     "totalTradedVolume": 1,
                     "underlying": "SAIL",
                     "underlyingValue": 83.2
@@ -3593,7 +3593,7 @@
                     "askPrice": 2,
                     "askQty": 8000,
                     "bidQty": 40000,
-                    "bidprice": 1.75,
+                    "bidprice": 1.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3605,15 +3605,15 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 87,
                     "totalBuyQuantity": 40000,
-                    "totalSellQuantity": 24000,
+                    "totalSellQuantity": 160000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
-                    "askPrice": 10.7,
+                    "askPrice": 10.9,
                     "askQty": 24000,
-                    "bidQty": 40000,
+                    "bidQty": 24000,
                     "bidprice": 2.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -3625,7 +3625,7 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 87,
-                    "totalBuyQuantity": 40000,
+                    "totalBuyQuantity": 24000,
                     "totalSellQuantity": 344000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
@@ -3637,30 +3637,30 @@
             {
                 "CE": {
                     "askPrice": 0.4,
-                    "askQty": 56000,
-                    "bidQty": 32000,
+                    "askQty": 24000,
+                    "bidQty": 24000,
                     "bidprice": 0.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSAIL25-05-2023CE87.00",
-                    "impliedVolatility": 32.29,
+                    "impliedVolatility": 33.82,
                     "lastPrice": 0.4,
                     "openInterest": 270,
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 87,
-                    "totalBuyQuantity": 2544000,
-                    "totalSellQuantity": 1096000,
+                    "totalBuyQuantity": 2504000,
+                    "totalSellQuantity": 1048000,
                     "totalTradedVolume": 3,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
-                    "askPrice": 4.2,
-                    "askQty": 16000,
+                    "askPrice": 4.25,
+                    "askQty": 8000,
                     "bidQty": 8000,
-                    "bidprice": 4.05,
+                    "bidprice": 4.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3671,7 +3671,7 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 87,
-                    "totalBuyQuantity": 832000,
+                    "totalBuyQuantity": 872000,
                     "totalSellQuantity": 448000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
@@ -3683,8 +3683,8 @@
             {
                 "CE": {
                     "askPrice": 0.3,
-                    "askQty": 96000,
-                    "bidQty": 136000,
+                    "askQty": 128000,
+                    "bidQty": 128000,
                     "bidprice": 0.25,
                     "change": 0,
                     "changeinOpenInterest": -2,
@@ -3696,17 +3696,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": -0.7490636704119851,
                     "strikePrice": 88,
-                    "totalBuyQuantity": 2488000,
-                    "totalSellQuantity": 1128000,
-                    "totalTradedVolume": 5,
+                    "totalBuyQuantity": 2624000,
+                    "totalSellQuantity": 1280000,
+                    "totalTradedVolume": 6,
                     "underlying": "SAIL",
                     "underlyingValue": 83.2
                 },
                 "PE": {
-                    "askPrice": 5.1,
+                    "askPrice": 5.15,
                     "askQty": 8000,
                     "bidQty": 8000,
-                    "bidprice": 4.95,
+                    "bidprice": 5,
                     "change": -0.7000000000000002,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3718,7 +3718,7 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 88,
                     "totalBuyQuantity": 840000,
-                    "totalSellQuantity": 768000,
+                    "totalSellQuantity": 776000,
                     "totalTradedVolume": 1,
                     "underlying": "SAIL",
                     "underlyingValue": 83.2
@@ -3728,10 +3728,10 @@
             },
             {
                 "CE": {
-                    "askPrice": 1.75,
-                    "askQty": 32000,
-                    "bidQty": 16000,
-                    "bidprice": 1.4,
+                    "askPrice": 1.7,
+                    "askQty": 64000,
+                    "bidQty": 8000,
+                    "bidprice": 1.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3743,14 +3743,14 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 88,
                     "totalBuyQuantity": 16000,
-                    "totalSellQuantity": 96000,
+                    "totalSellQuantity": 416000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
-                    "askPrice": 0,
-                    "askQty": 0,
+                    "askPrice": 11.55,
+                    "askQty": 24000,
                     "bidQty": 24000,
                     "bidprice": 3.05,
                     "change": 0,
@@ -3764,17 +3764,17 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 88,
                     "totalBuyQuantity": 24000,
-                    "totalSellQuantity": 0,
+                    "totalSellQuantity": 344000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 88
             },
             {
                 "CE": {
-                    "askPrice": 1.5,
+                    "askPrice": 1.45,
                     "askQty": 16000,
                     "bidQty": 8000,
                     "bidprice": 1.1,
@@ -3789,14 +3789,14 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 89,
                     "totalBuyQuantity": 344000,
-                    "totalSellQuantity": 16000,
+                    "totalSellQuantity": 496000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
-                    "askPrice": 12.3,
-                    "askQty": 24000,
+                    "askPrice": 0,
+                    "askQty": 0,
                     "bidQty": 24000,
                     "bidprice": 3.5,
                     "change": 0,
@@ -3810,7 +3810,7 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 89,
                     "totalBuyQuantity": 24000,
-                    "totalSellQuantity": 344000,
+                    "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
                     "underlyingValue": 83.2
@@ -3820,8 +3820,8 @@
             },
             {
                 "CE": {
-                    "askPrice": 0.25,
-                    "askQty": 40000,
+                    "askPrice": 0.2,
+                    "askQty": 16000,
                     "bidQty": 72000,
                     "bidprice": 0.15,
                     "change": 0,
@@ -3842,9 +3842,9 @@
                 },
                 "PE": {
                     "askPrice": 6,
-                    "askQty": 8000,
+                    "askQty": 16000,
                     "bidQty": 8000,
-                    "bidprice": 5.75,
+                    "bidprice": 5.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3859,17 +3859,17 @@
                     "totalSellQuantity": 408000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 89
             },
             {
                 "CE": {
-                    "askPrice": 1.15,
-                    "askQty": 72000,
-                    "bidQty": 136000,
-                    "bidprice": 1,
+                    "askPrice": 1.1,
+                    "askQty": 16000,
+                    "bidQty": 24000,
+                    "bidprice": 1.05,
                     "change": 0.050000000000000044,
                     "changeinOpenInterest": 5,
                     "expiryDate": "29-Jun-2023",
@@ -3880,9 +3880,9 @@
                     "pChange": 4.761904761904765,
                     "pchangeinOpenInterest": 2.3696682464454977,
                     "strikePrice": 90,
-                    "totalBuyQuantity": 1192000,
-                    "totalSellQuantity": 760000,
-                    "totalTradedVolume": 16,
+                    "totalBuyQuantity": 1216000,
+                    "totalSellQuantity": 1064000,
+                    "totalTradedVolume": 17,
                     "underlying": "SAIL",
                     "underlyingValue": 83.2
                 },
@@ -3905,7 +3905,7 @@
                     "totalSellQuantity": 112000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 90
@@ -3945,7 +3945,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSAIL25-05-2023CE90.00",
-                    "impliedVolatility": 36.78,
+                    "impliedVolatility": 37.94,
                     "lastPrice": 0.15,
                     "openInterest": 754,
                     "pChange": -25.000000000000007,
@@ -3955,7 +3955,7 @@
                     "totalSellQuantity": 3704000,
                     "totalTradedVolume": 22,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
                     "askPrice": 6.95,
@@ -4001,13 +4001,13 @@
                     "totalSellQuantity": 640000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
                     "askPrice": 8.15,
                     "askQty": 8000,
                     "bidQty": 8000,
-                    "bidprice": 7.25,
+                    "bidprice": 7.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4029,9 +4029,9 @@
             },
             {
                 "CE": {
-                    "askPrice": 0,
-                    "askQty": 0,
-                    "bidQty": 16000,
+                    "askPrice": 3.1,
+                    "askQty": 8000,
+                    "bidQty": 8000,
                     "bidprice": 0.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -4044,14 +4044,14 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 91,
                     "totalBuyQuantity": 336000,
-                    "totalSellQuantity": 0,
+                    "totalSellQuantity": 8000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
                     "underlyingValue": 83.2
                 },
                 "PE": {
-                    "askPrice": 0,
-                    "askQty": 0,
+                    "askPrice": 15.1,
+                    "askQty": 24000,
                     "bidQty": 24000,
                     "bidprice": 4.5,
                     "change": 0,
@@ -4065,10 +4065,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 91,
                     "totalBuyQuantity": 24000,
-                    "totalSellQuantity": 0,
+                    "totalSellQuantity": 344000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 91
@@ -4076,8 +4076,8 @@
             {
                 "CE": {
                     "askPrice": 0.1,
-                    "askQty": 8000,
-                    "bidQty": 240000,
+                    "askQty": 16000,
+                    "bidQty": 264000,
                     "bidprice": 0.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -4089,17 +4089,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 92,
-                    "totalBuyQuantity": 240000,
-                    "totalSellQuantity": 832000,
+                    "totalBuyQuantity": 264000,
+                    "totalSellQuantity": 840000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
-                    "askPrice": 9,
+                    "askPrice": 9.2,
                     "askQty": 8000,
                     "bidQty": 8000,
-                    "bidprice": 8.3,
+                    "bidprice": 8.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4136,13 +4136,13 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 92,
                     "totalBuyQuantity": 376000,
-                    "totalSellQuantity": 200000,
+                    "totalSellQuantity": 408000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
-                    "askPrice": 15.05,
+                    "askPrice": 14.15,
                     "askQty": 24000,
                     "bidQty": 24000,
                     "bidprice": 5.05,
@@ -4160,7 +4160,7 @@
                     "totalSellQuantity": 344000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 92
@@ -4185,11 +4185,11 @@
                     "totalSellQuantity": 496000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
-                    "askPrice": 10.2,
-                    "askQty": 48000,
+                    "askPrice": 10.6,
+                    "askQty": 24000,
                     "bidQty": 24000,
                     "bidprice": 9.15,
                     "change": 0,
@@ -4203,10 +4203,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 93,
                     "totalBuyQuantity": 392000,
-                    "totalSellQuantity": 368000,
+                    "totalSellQuantity": 392000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 93
@@ -4231,10 +4231,10 @@
                     "totalSellQuantity": 352000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
-                    "askPrice": 16.15,
+                    "askPrice": 14.55,
                     "askQty": 24000,
                     "bidQty": 24000,
                     "bidprice": 5.65,
@@ -4252,7 +4252,7 @@
                     "totalSellQuantity": 344000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 93
@@ -4274,7 +4274,7 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 94,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 600000,
+                    "totalSellQuantity": 608000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
                     "underlyingValue": 83.2
@@ -4282,8 +4282,8 @@
                 "PE": {
                     "askPrice": 12.2,
                     "askQty": 24000,
-                    "bidQty": 320000,
-                    "bidprice": 8.95,
+                    "bidQty": 24000,
+                    "bidprice": 9.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4294,7 +4294,7 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 94,
-                    "totalBuyQuantity": 320000,
+                    "totalBuyQuantity": 360000,
                     "totalSellQuantity": 344000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
@@ -4308,7 +4308,7 @@
                     "askPrice": 0.6,
                     "askQty": 24000,
                     "bidQty": 8000,
-                    "bidprice": 0.35,
+                    "bidprice": 0.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4320,13 +4320,13 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 94,
                     "totalBuyQuantity": 120000,
-                    "totalSellQuantity": 24000,
+                    "totalSellQuantity": 584000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
-                    "askPrice": 15.35,
+                    "askPrice": 17.75,
                     "askQty": 24000,
                     "bidQty": 24000,
                     "bidprice": 6.25,
@@ -4344,7 +4344,7 @@
                     "totalSellQuantity": 344000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 94
@@ -4375,7 +4375,7 @@
                     "askPrice": 11.9,
                     "askQty": 8000,
                     "bidQty": 8000,
-                    "bidprice": 11.65,
+                    "bidprice": 11.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4387,10 +4387,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 95,
                     "totalBuyQuantity": 328000,
-                    "totalSellQuantity": 352000,
+                    "totalSellQuantity": 328000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 95
@@ -4436,7 +4436,7 @@
                     "totalSellQuantity": 8000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 95
@@ -4461,7 +4461,7 @@
                     "totalSellQuantity": 688000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
                     "askPrice": 14.15,
@@ -4507,11 +4507,11 @@
                     "totalSellQuantity": 704000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
-                    "askPrice": 0,
-                    "askQty": 0,
+                    "askPrice": 17.2,
+                    "askQty": 24000,
                     "bidQty": 24000,
                     "bidprice": 7.55,
                     "change": 0,
@@ -4525,10 +4525,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 96,
                     "totalBuyQuantity": 24000,
-                    "totalSellQuantity": 0,
+                    "totalSellQuantity": 344000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 96
@@ -4574,15 +4574,15 @@
                     "totalSellQuantity": 344000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 97
             },
             {
                 "CE": {
-                    "askPrice": 3.65,
-                    "askQty": 256000,
+                    "askPrice": 3,
+                    "askQty": 8000,
                     "bidQty": 32000,
                     "bidprice": 0.2,
                     "change": 0,
@@ -4596,7 +4596,7 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 97,
                     "totalBuyQuantity": 64000,
-                    "totalSellQuantity": 312000,
+                    "totalSellQuantity": 320000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
                     "underlyingValue": 83.2
@@ -4627,23 +4627,23 @@
             },
             {
                 "CE": {
-                    "askPrice": 0.05,
-                    "askQty": 24000,
+                    "askPrice": 0.1,
+                    "askQty": 256000,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
-                    "changeinOpenInterest": 0,
+                    "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSAIL25-05-2023CE98.00",
                     "impliedVolatility": 0,
-                    "lastPrice": 0,
-                    "openInterest": 183,
+                    "lastPrice": 0.05,
+                    "openInterest": 182,
                     "pChange": 0,
-                    "pchangeinOpenInterest": 0,
+                    "pchangeinOpenInterest": -0.546448087431694,
                     "strikePrice": 98,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 672000,
-                    "totalTradedVolume": 0,
+                    "totalSellQuantity": 648000,
+                    "totalTradedVolume": 3,
                     "underlying": "SAIL",
                     "underlyingValue": 83.2
                 },
@@ -4653,14 +4653,14 @@
                     "bidQty": 24000,
                     "bidprice": 13.1,
                     "change": 0,
-                    "changeinOpenInterest": 0,
+                    "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSAIL25-05-2023PE98.00",
                     "impliedVolatility": 0,
                     "lastPrice": 0,
-                    "openInterest": 117,
+                    "openInterest": 116,
                     "pChange": 0,
-                    "pchangeinOpenInterest": 0,
+                    "pchangeinOpenInterest": -0.8547008547008547,
                     "strikePrice": 98,
                     "totalBuyQuantity": 344000,
                     "totalSellQuantity": 344000,
@@ -4678,20 +4678,20 @@
                     "bidQty": 8000,
                     "bidprice": 0.2,
                     "change": 0.05000000000000002,
-                    "changeinOpenInterest": 0,
+                    "changeinOpenInterest": 1,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKSAIL29-06-2023CE98.00",
                     "impliedVolatility": 0,
                     "lastPrice": 0.2,
-                    "openInterest": 1,
+                    "openInterest": 2,
                     "pChange": 33.33333333333335,
-                    "pchangeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 100,
                     "strikePrice": 98,
                     "totalBuyQuantity": 64000,
                     "totalSellQuantity": 24000,
                     "totalTradedVolume": 1,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
                     "askPrice": 14,
@@ -4699,20 +4699,20 @@
                     "bidQty": 32000,
                     "bidprice": 8.95,
                     "change": 0,
-                    "changeinOpenInterest": 0,
+                    "changeinOpenInterest": 1,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKSAIL29-06-2023PE98.00",
                     "impliedVolatility": 0,
                     "lastPrice": 0,
-                    "openInterest": 1,
+                    "openInterest": 2,
                     "pChange": 0,
-                    "pchangeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 100,
                     "strikePrice": 98,
                     "totalBuyQuantity": 32000,
                     "totalSellQuantity": 8000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 98
@@ -4737,7 +4737,7 @@
                     "totalSellQuantity": 496000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
                     "askPrice": 17.25,
@@ -4758,14 +4758,14 @@
                     "totalSellQuantity": 344000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 99
             },
             {
                 "CE": {
-                    "askPrice": 1.65,
+                    "askPrice": 2,
                     "askQty": 320000,
                     "bidQty": 8000,
                     "bidprice": 0.05,
@@ -4780,14 +4780,14 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 99,
                     "totalBuyQuantity": 8000,
-                    "totalSellQuantity": 320000,
+                    "totalSellQuantity": 640000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "PE": {
-                    "askPrice": 18.7,
-                    "askQty": 32000,
+                    "askPrice": 19.65,
+                    "askQty": 24000,
                     "bidQty": 24000,
                     "bidprice": 9.7,
                     "change": 0,
@@ -4801,7 +4801,7 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 99,
                     "totalBuyQuantity": 24000,
-                    "totalSellQuantity": 32000,
+                    "totalSellQuantity": 344000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
                     "underlyingValue": 83.2
@@ -4832,10 +4832,10 @@
                     "underlyingValue": 83.2
                 },
                 "PE": {
-                    "askPrice": 17.7,
+                    "askPrice": 17.4,
                     "askQty": 24000,
                     "bidQty": 24000,
-                    "bidprice": 15.35,
+                    "bidprice": 16.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4850,7 +4850,7 @@
                     "totalSellQuantity": 352000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 100
@@ -4896,7 +4896,7 @@
                     "totalSellQuantity": 112000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 100
@@ -4942,7 +4942,7 @@
                     "totalSellQuantity": 344000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 101
@@ -4972,8 +4972,8 @@
                 "PE": {
                     "askPrice": 20.3,
                     "askQty": 24000,
-                    "bidQty": 320000,
-                    "bidprice": 17,
+                    "bidQty": 24000,
+                    "bidprice": 17.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4984,11 +4984,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 102,
-                    "totalBuyQuantity": 320000,
+                    "totalBuyQuantity": 344000,
                     "totalSellQuantity": 344000,
                     "totalTradedVolume": 0,
                     "underlying": "SAIL",
-                    "underlyingValue": 83.25
+                    "underlyingValue": 83.2
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 102
@@ -5037,7 +5037,7 @@
             101,
             102
         ],
-        "timestamp": "18-May-2023 10:19:49",
-        "underlyingValue": 83.25
+        "timestamp": "18-May-2023 10:25:46",
+        "underlyingValue": 83.2
     }
 }

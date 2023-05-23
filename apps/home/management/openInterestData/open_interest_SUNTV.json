@@ -1,12 +1,12 @@
 {
     "filtered": {
         "CE": {
-            "totOI": 3531,
-            "totVol": 826
+            "totOI": 3529,
+            "totVol": 858
         },
         "PE": {
-            "totOI": 821,
-            "totVol": 105
+            "totOI": 822,
+            "totVol": 111
         },
         "data": [
             {
@@ -29,7 +29,7 @@
                     "totalSellQuantity": 60000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 0.75,
@@ -50,7 +50,7 @@
                     "totalSellQuantity": 4500,
                     "totalTradedVolume": 6,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 320
@@ -75,7 +75,7 @@
                     "totalSellQuantity": 60000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 325
@@ -100,7 +100,7 @@
                     "totalSellQuantity": 60000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 2.9,
@@ -121,7 +121,7 @@
                     "totalSellQuantity": 60000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 330
@@ -146,7 +146,7 @@
                     "totalSellQuantity": 64500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 335
@@ -171,7 +171,7 @@
                     "totalSellQuantity": 60000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 340
@@ -196,7 +196,7 @@
                     "totalSellQuantity": 64500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 345
@@ -221,7 +221,7 @@
                     "totalSellQuantity": 73500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 3,
@@ -242,15 +242,15 @@
                     "totalSellQuantity": 7500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 350
             },
             {
                 "CE": {
-                    "askPrice": 92.05,
-                    "askQty": 60000,
+                    "askPrice": 116.65,
+                    "askQty": 4500,
                     "bidQty": 4500,
                     "bidprice": 78.1,
                     "change": 0,
@@ -264,20 +264,20 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 355,
                     "totalBuyQuantity": 64500,
-                    "totalSellQuantity": 60000,
+                    "totalSellQuantity": 64500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 355
             },
             {
                 "CE": {
-                    "askPrice": 87.15,
+                    "askPrice": 84.95,
                     "askQty": 4500,
                     "bidQty": 4500,
-                    "bidprice": 73.15,
+                    "bidprice": 76.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -288,11 +288,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 360,
-                    "totalBuyQuantity": 64500,
-                    "totalSellQuantity": 64500,
+                    "totalBuyQuantity": 73500,
+                    "totalSellQuantity": 73500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 0,
@@ -313,15 +313,15 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 360
             },
             {
                 "CE": {
-                    "askPrice": 82.85,
-                    "askQty": 4500,
+                    "askPrice": 81.9,
+                    "askQty": 60000,
                     "bidQty": 4500,
                     "bidprice": 68.15,
                     "change": 0,
@@ -335,17 +335,17 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 365,
                     "totalBuyQuantity": 64500,
-                    "totalSellQuantity": 64500,
+                    "totalSellQuantity": 60000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 365
             },
             {
                 "CE": {
-                    "askPrice": 77.6,
+                    "askPrice": 76.8,
                     "askQty": 60000,
                     "bidQty": 4500,
                     "bidprice": 63.15,
@@ -363,7 +363,7 @@
                     "totalSellQuantity": 60000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 0,
@@ -384,7 +384,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 370
@@ -409,7 +409,7 @@
                     "totalSellQuantity": 64500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 0,
@@ -430,17 +430,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 375
             },
             {
                 "CE": {
-                    "askPrice": 62.3,
+                    "askPrice": 63.55,
                     "askQty": 4500,
                     "bidQty": 4500,
-                    "bidprice": 55.25,
+                    "bidprice": 56.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -455,7 +455,7 @@
                     "totalSellQuantity": 73500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 0.75,
@@ -476,14 +476,14 @@
                     "totalSellQuantity": 18000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 380
             },
             {
                 "CE": {
-                    "askPrice": 62.45,
+                    "askPrice": 61.75,
                     "askQty": 60000,
                     "bidQty": 4500,
                     "bidprice": 48.15,
@@ -501,7 +501,7 @@
                     "totalSellQuantity": 60000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 0,
@@ -522,14 +522,14 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 385
             },
             {
                 "CE": {
-                    "askPrice": 57.55,
+                    "askPrice": 56.95,
                     "askQty": 60000,
                     "bidQty": 4500,
                     "bidprice": 43.1,
@@ -547,7 +547,7 @@
                     "totalSellQuantity": 60000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 0,
@@ -568,7 +568,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 390
@@ -593,7 +593,7 @@
                     "totalSellQuantity": 60000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 0,
@@ -614,7 +614,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 395
@@ -639,12 +639,12 @@
                     "totalSellQuantity": 81000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
-                    "askPrice": 1,
-                    "askQty": 4500,
-                    "bidQty": 3000,
+                    "askPrice": 0.95,
+                    "askQty": 3000,
+                    "bidQty": 1500,
                     "bidprice": 0.9,
                     "change": -0.45000000000000007,
                     "changeinOpenInterest": -2,
@@ -656,11 +656,11 @@
                     "pChange": -34.61538461538462,
                     "pchangeinOpenInterest": -1.8181818181818181,
                     "strikePrice": 400,
-                    "totalBuyQuantity": 235500,
-                    "totalSellQuantity": 187500,
+                    "totalBuyQuantity": 234000,
+                    "totalSellQuantity": 190500,
                     "totalTradedVolume": 10,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 400
@@ -685,7 +685,7 @@
                     "totalSellQuantity": 61500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 0,
@@ -706,17 +706,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 405
             },
             {
                 "CE": {
-                    "askPrice": 32.4,
-                    "askQty": 1500,
+                    "askPrice": 33.35,
+                    "askQty": 4500,
                     "bidQty": 1500,
-                    "bidprice": 27.9,
+                    "bidprice": 28,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -728,10 +728,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 410,
                     "totalBuyQuantity": 75000,
-                    "totalSellQuantity": 75000,
+                    "totalSellQuantity": 79500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 1.85,
@@ -752,7 +752,7 @@
                     "totalSellQuantity": 118500,
                     "totalTradedVolume": 7,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 410
@@ -777,13 +777,13 @@
                     "totalSellQuantity": 61500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 1500,
-                    "bidprice": 1.2,
+                    "bidprice": 1.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -798,17 +798,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 415
             },
             {
                 "CE": {
-                    "askPrice": 22.45,
-                    "askQty": 6000,
+                    "askPrice": 23.2,
+                    "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 20.25,
+                    "bidprice": 21.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -819,17 +819,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 420,
-                    "totalBuyQuantity": 135000,
-                    "totalSellQuantity": 76500,
+                    "totalBuyQuantity": 139500,
+                    "totalSellQuantity": 72000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
-                    "askPrice": 3.5,
+                    "askPrice": 3.3,
                     "askQty": 3000,
-                    "bidQty": 1500,
-                    "bidprice": 3.4,
+                    "bidQty": 7500,
+                    "bidprice": 3,
                     "change": -0.3500000000000001,
                     "changeinOpenInterest": -4,
                     "expiryDate": "25-May-2023",
@@ -840,21 +840,21 @@
                     "pChange": -10.144927536231886,
                     "pchangeinOpenInterest": -2.197802197802198,
                     "strikePrice": 420,
-                    "totalBuyQuantity": 210000,
-                    "totalSellQuantity": 244500,
+                    "totalBuyQuantity": 201000,
+                    "totalSellQuantity": 255000,
                     "totalTradedVolume": 19,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 420
             },
             {
                 "CE": {
-                    "askPrice": 18.75,
+                    "askPrice": 20.2,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 16.35,
+                    "bidprice": 16.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -865,42 +865,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 425,
-                    "totalBuyQuantity": 87000,
-                    "totalSellQuantity": 82500,
+                    "totalBuyQuantity": 81000,
+                    "totalSellQuantity": 76500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
-                    "askPrice": 4.75,
-                    "askQty": 1500,
-                    "bidQty": 1500,
-                    "bidprice": 4.45,
-                    "change": 0.40000000000000036,
-                    "changeinOpenInterest": 1,
+                    "askPrice": 4.45,
+                    "askQty": 7500,
+                    "bidQty": 6000,
+                    "bidprice": 4.05,
+                    "change": 0.34999999999999964,
+                    "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSUNTV25-05-2023PE425.00",
                     "impliedVolatility": 40.78,
-                    "lastPrice": 4.15,
-                    "openInterest": 25,
-                    "pChange": 10.666666666666675,
-                    "pchangeinOpenInterest": 4.166666666666667,
+                    "lastPrice": 4.1,
+                    "openInterest": 26,
+                    "pChange": 9.333333333333323,
+                    "pchangeinOpenInterest": 8.333333333333334,
                     "strikePrice": 425,
-                    "totalBuyQuantity": 216000,
-                    "totalSellQuantity": 186000,
-                    "totalTradedVolume": 12,
+                    "totalBuyQuantity": 196500,
+                    "totalSellQuantity": 205500,
+                    "totalTradedVolume": 18,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 425
             },
             {
                 "CE": {
-                    "askPrice": 14.6,
-                    "askQty": 3000,
+                    "askPrice": 15.85,
+                    "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 13.95,
+                    "bidprice": 14.65,
                     "change": -1.0500000000000007,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
@@ -912,16 +912,16 @@
                     "pchangeinOpenInterest": -1.7857142857142858,
                     "strikePrice": 430,
                     "totalBuyQuantity": 148500,
-                    "totalSellQuantity": 142500,
+                    "totalSellQuantity": 141000,
                     "totalTradedVolume": 4,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
-                    "askPrice": 6.65,
-                    "askQty": 3000,
+                    "askPrice": 6.15,
+                    "askQty": 6000,
                     "bidQty": 1500,
-                    "bidprice": 6.35,
+                    "bidprice": 5.8,
                     "change": 0.75,
                     "changeinOpenInterest": -5,
                     "expiryDate": "25-May-2023",
@@ -932,21 +932,21 @@
                     "pChange": 13.157894736842104,
                     "pchangeinOpenInterest": -3.0864197530864197,
                     "strikePrice": 430,
-                    "totalBuyQuantity": 247500,
-                    "totalSellQuantity": 223500,
+                    "totalBuyQuantity": 250500,
+                    "totalSellQuantity": 241500,
                     "totalTradedVolume": 35,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 430
             },
             {
                 "CE": {
-                    "askPrice": 12.6,
-                    "askQty": 3000,
+                    "askPrice": 13.25,
+                    "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 11.15,
+                    "bidprice": 10.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -957,17 +957,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 435,
-                    "totalBuyQuantity": 148500,
-                    "totalSellQuantity": 144000,
+                    "totalBuyQuantity": 129000,
+                    "totalSellQuantity": 123000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
-                    "askPrice": 9.5,
-                    "askQty": 1500,
+                    "askPrice": 8.35,
+                    "askQty": 3000,
                     "bidQty": 1500,
-                    "bidprice": 7.7,
+                    "bidprice": 7.2,
                     "change": 2.000000000000001,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -979,41 +979,41 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 435,
                     "totalBuyQuantity": 157500,
-                    "totalSellQuantity": 85500,
+                    "totalSellQuantity": 138000,
                     "totalTradedVolume": 1,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 435
             },
             {
                 "CE": {
-                    "askPrice": 10.05,
-                    "askQty": 1500,
+                    "askPrice": 10.3,
+                    "askQty": 3000,
                     "bidQty": 1500,
-                    "bidprice": 9.8,
-                    "change": -1.0999999999999996,
-                    "changeinOpenInterest": 26,
+                    "bidprice": 10,
+                    "change": -1.049999999999999,
+                    "changeinOpenInterest": 28,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSUNTV25-05-2023CE440.00",
                     "impliedVolatility": 44.35,
-                    "lastPrice": 10,
-                    "openInterest": 204,
-                    "pChange": -9.909909909909906,
-                    "pchangeinOpenInterest": 14.606741573033707,
+                    "lastPrice": 10.05,
+                    "openInterest": 206,
+                    "pChange": -9.45945945945945,
+                    "pchangeinOpenInterest": 15.730337078651685,
                     "strikePrice": 440,
-                    "totalBuyQuantity": 232500,
-                    "totalSellQuantity": 250500,
-                    "totalTradedVolume": 63,
+                    "totalBuyQuantity": 240000,
+                    "totalSellQuantity": 244500,
+                    "totalTradedVolume": 67,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
-                    "askPrice": 12,
+                    "askPrice": 11.65,
                     "askQty": 1500,
                     "bidQty": 3000,
-                    "bidprice": 11.45,
+                    "bidprice": 11,
                     "change": 1.1999999999999993,
                     "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
@@ -1024,42 +1024,42 @@
                     "pChange": 11.940298507462678,
                     "pchangeinOpenInterest": 3.278688524590164,
                     "strikePrice": 440,
-                    "totalBuyQuantity": 241500,
-                    "totalSellQuantity": 169500,
+                    "totalBuyQuantity": 238500,
+                    "totalSellQuantity": 178500,
                     "totalTradedVolume": 10,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 440
             },
             {
                 "CE": {
-                    "askPrice": 8.2,
+                    "askPrice": 9.05,
                     "askQty": 1500,
-                    "bidQty": 4500,
-                    "bidprice": 7.95,
-                    "change": -1.25,
+                    "bidQty": 1500,
+                    "bidprice": 8.8,
+                    "change": -0.8500000000000014,
                     "changeinOpenInterest": 18,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSUNTV25-05-2023CE445.00",
                     "impliedVolatility": 44.41,
-                    "lastPrice": 8.3,
+                    "lastPrice": 8.7,
                     "openInterest": 60,
-                    "pChange": -13.089005235602095,
+                    "pChange": -8.900523560209438,
                     "pchangeinOpenInterest": 42.857142857142854,
                     "strikePrice": 445,
-                    "totalBuyQuantity": 220500,
-                    "totalSellQuantity": 180000,
-                    "totalTradedVolume": 190,
+                    "totalBuyQuantity": 244500,
+                    "totalSellQuantity": 175500,
+                    "totalTradedVolume": 192,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
-                    "askPrice": 16.45,
-                    "askQty": 4500,
+                    "askPrice": 15.05,
+                    "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 14.4,
+                    "bidprice": 12.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1070,42 +1070,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 445,
-                    "totalBuyQuantity": 93000,
-                    "totalSellQuantity": 69000,
+                    "totalBuyQuantity": 87000,
+                    "totalSellQuantity": 60000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 445
             },
             {
                 "CE": {
-                    "askPrice": 7,
-                    "askQty": 1500,
-                    "bidQty": 3000,
-                    "bidprice": 6.8,
-                    "change": -0.5999999999999996,
-                    "changeinOpenInterest": 101,
+                    "askPrice": 7.6,
+                    "askQty": 3000,
+                    "bidQty": 1500,
+                    "bidprice": 7.4,
+                    "change": -0.5499999999999998,
+                    "changeinOpenInterest": 102,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSUNTV25-05-2023CE450.00",
                     "impliedVolatility": 47.3,
-                    "lastPrice": 7,
-                    "openInterest": 546,
-                    "pChange": -7.894736842105258,
-                    "pchangeinOpenInterest": 22.696629213483146,
+                    "lastPrice": 7.05,
+                    "openInterest": 547,
+                    "pChange": -7.236842105263156,
+                    "pchangeinOpenInterest": 22.921348314606742,
                     "strikePrice": 450,
-                    "totalBuyQuantity": 256500,
-                    "totalSellQuantity": 229500,
-                    "totalTradedVolume": 222,
+                    "totalBuyQuantity": 279000,
+                    "totalSellQuantity": 223500,
+                    "totalTradedVolume": 227,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
-                    "askPrice": 18.95,
+                    "askPrice": 18.25,
                     "askQty": 1500,
-                    "bidQty": 3000,
-                    "bidprice": 18.55,
+                    "bidQty": 1500,
+                    "bidprice": 17.5,
                     "change": 1.4500000000000028,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1116,21 +1116,21 @@
                     "pChange": 8.579881656804751,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 450,
-                    "totalBuyQuantity": 120000,
+                    "totalBuyQuantity": 109500,
                     "totalSellQuantity": 96000,
                     "totalTradedVolume": 5,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 450
             },
             {
                 "CE": {
-                    "askPrice": 5.7,
+                    "askPrice": 6.05,
                     "askQty": 1500,
-                    "bidQty": 1500,
-                    "bidprice": 5.25,
+                    "bidQty": 3000,
+                    "bidprice": 5.65,
                     "change": 0.2999999999999998,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1141,17 +1141,17 @@
                     "pChange": 5.217391304347823,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 455,
-                    "totalBuyQuantity": 147000,
-                    "totalSellQuantity": 148500,
-                    "totalTradedVolume": 3,
+                    "totalBuyQuantity": 156000,
+                    "totalSellQuantity": 147000,
+                    "totalTradedVolume": 4,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
-                    "askPrice": 22.55,
+                    "askPrice": 23.25,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 20.3,
+                    "bidprice": 20.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1162,42 +1162,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 455,
-                    "totalBuyQuantity": 82500,
+                    "totalBuyQuantity": 87000,
                     "totalSellQuantity": 82500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 455
             },
             {
                 "CE": {
-                    "askPrice": 4.8,
-                    "askQty": 12000,
-                    "bidQty": 3000,
-                    "bidprice": 4.6,
-                    "change": -0.15000000000000036,
+                    "askPrice": 5,
+                    "askQty": 9000,
+                    "bidQty": 1500,
+                    "bidprice": 4.85,
+                    "change": -0.10000000000000053,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSUNTV25-05-2023CE460.00",
                     "impliedVolatility": 50.21,
-                    "lastPrice": 4.8,
+                    "lastPrice": 4.85,
                     "openInterest": 296,
-                    "pChange": -3.0303030303030374,
+                    "pChange": -2.020202020202031,
                     "pchangeinOpenInterest": 0.3389830508474576,
                     "strikePrice": 460,
-                    "totalBuyQuantity": 267000,
-                    "totalSellQuantity": 319500,
-                    "totalTradedVolume": 52,
+                    "totalBuyQuantity": 282000,
+                    "totalSellQuantity": 304500,
+                    "totalTradedVolume": 56,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
-                    "askPrice": 27.95,
-                    "askQty": 1500,
-                    "bidQty": 1500,
-                    "bidprice": 23.85,
+                    "askPrice": 27.5,
+                    "askQty": 4500,
+                    "bidQty": 4500,
+                    "bidprice": 23.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1208,21 +1208,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 460,
-                    "totalBuyQuantity": 90000,
-                    "totalSellQuantity": 75000,
+                    "totalBuyQuantity": 88500,
+                    "totalSellQuantity": 81000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 460
             },
             {
                 "CE": {
-                    "askPrice": 4.05,
+                    "askPrice": 4.3,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 3.55,
+                    "bidprice": 3.65,
                     "change": -0.7999999999999998,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1233,17 +1233,17 @@
                     "pChange": -21.052631578947363,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 465,
-                    "totalBuyQuantity": 130500,
-                    "totalSellQuantity": 147000,
+                    "totalBuyQuantity": 132000,
+                    "totalSellQuantity": 145500,
                     "totalTradedVolume": 1,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 32.25,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 27.9,
+                    "bidprice": 26.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1258,7 +1258,7 @@
                     "totalSellQuantity": 75000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 465
@@ -1266,30 +1266,30 @@
             {
                 "CE": {
                     "askPrice": 3,
-                    "askQty": 3000,
-                    "bidQty": 6000,
+                    "askQty": 4500,
+                    "bidQty": 4500,
                     "bidprice": 2.85,
-                    "change": -0.5,
+                    "change": -0.6000000000000001,
                     "changeinOpenInterest": -12,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSUNTV25-05-2023CE470.00",
                     "impliedVolatility": 52.36,
-                    "lastPrice": 3,
+                    "lastPrice": 2.9,
                     "openInterest": 429,
-                    "pChange": -14.285714285714285,
+                    "pChange": -17.142857142857146,
                     "pchangeinOpenInterest": -2.7210884353741496,
                     "strikePrice": 470,
-                    "totalBuyQuantity": 249000,
-                    "totalSellQuantity": 288000,
-                    "totalTradedVolume": 47,
+                    "totalBuyQuantity": 253500,
+                    "totalSellQuantity": 294000,
+                    "totalTradedVolume": 48,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
-                    "askPrice": 36.05,
+                    "askPrice": 37.4,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 32.15,
+                    "bidprice": 32.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1304,17 +1304,17 @@
                     "totalSellQuantity": 75000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 470
             },
             {
                 "CE": {
-                    "askPrice": 4.7,
+                    "askPrice": 4.55,
                     "askQty": 1500,
-                    "bidQty": 1500,
-                    "bidprice": 1.35,
+                    "bidQty": 16500,
+                    "bidprice": 1.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1325,17 +1325,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 475,
-                    "totalBuyQuantity": 100500,
+                    "totalBuyQuantity": 40500,
                     "totalSellQuantity": 1500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
-                    "askPrice": 43.3,
-                    "askQty": 1500,
+                    "askPrice": 43.05,
+                    "askQty": 4500,
                     "bidQty": 1500,
-                    "bidprice": 35.5,
+                    "bidprice": 34.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1347,41 +1347,41 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 475,
                     "totalBuyQuantity": 75000,
-                    "totalSellQuantity": 75000,
+                    "totalSellQuantity": 79500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 475
             },
             {
                 "CE": {
-                    "askPrice": 2.25,
-                    "askQty": 1500,
-                    "bidQty": 4500,
-                    "bidprice": 2.15,
-                    "change": -0.4500000000000002,
+                    "askPrice": 2.55,
+                    "askQty": 10500,
+                    "bidQty": 3000,
+                    "bidprice": 2.4,
+                    "change": -0.30000000000000027,
                     "changeinOpenInterest": -25,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSUNTV25-05-2023CE480.00",
                     "impliedVolatility": 57,
-                    "lastPrice": 2.25,
+                    "lastPrice": 2.4,
                     "openInterest": 992,
-                    "pChange": -16.66666666666667,
+                    "pChange": -11.11111111111112,
                     "pchangeinOpenInterest": -2.4582104228121926,
                     "strikePrice": 480,
-                    "totalBuyQuantity": 184500,
-                    "totalSellQuantity": 354000,
-                    "totalTradedVolume": 151,
+                    "totalBuyQuantity": 195000,
+                    "totalSellQuantity": 345000,
+                    "totalTradedVolume": 157,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 46.7,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 42,
+                    "bidprice": 40.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1396,7 +1396,7 @@
                     "totalSellQuantity": 75000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 480
@@ -1421,13 +1421,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 54.45,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 39.75,
+                    "bidprice": 39.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1442,17 +1442,17 @@
                     "totalSellQuantity": 61500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 485
             },
             {
                 "CE": {
-                    "askPrice": 1.5,
-                    "askQty": 3000,
-                    "bidQty": 19500,
-                    "bidprice": 1.4,
+                    "askPrice": 1.7,
+                    "askQty": 1500,
+                    "bidQty": 3000,
+                    "bidprice": 1.6,
                     "change": -0.34999999999999987,
                     "changeinOpenInterest": -11,
                     "expiryDate": "25-May-2023",
@@ -1463,17 +1463,17 @@
                     "pChange": -18.42105263157894,
                     "pchangeinOpenInterest": -4.365079365079365,
                     "strikePrice": 490,
-                    "totalBuyQuantity": 216000,
-                    "totalSellQuantity": 253500,
-                    "totalTradedVolume": 42,
+                    "totalBuyQuantity": 231000,
+                    "totalSellQuantity": 238500,
+                    "totalTradedVolume": 43,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
-                    "askPrice": 54.35,
+                    "askPrice": 55.9,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 50.65,
+                    "bidprice": 49.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1488,7 +1488,7 @@
                     "totalSellQuantity": 75000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 490
@@ -1513,13 +1513,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 63.8,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 49.45,
+                    "bidprice": 49.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1534,38 +1534,38 @@
                     "totalSellQuantity": 61500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 495
             },
             {
                 "CE": {
-                    "askPrice": 1.1,
-                    "askQty": 7500,
+                    "askPrice": 1.25,
+                    "askQty": 12000,
                     "bidQty": 3000,
-                    "bidprice": 1,
-                    "change": -0.30000000000000004,
-                    "changeinOpenInterest": -9,
+                    "bidprice": 1.15,
+                    "change": -0.25,
+                    "changeinOpenInterest": -14,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSUNTV25-05-2023CE500.00",
                     "impliedVolatility": 62.35,
-                    "lastPrice": 1.05,
-                    "openInterest": 316,
-                    "pChange": -22.222222222222225,
-                    "pchangeinOpenInterest": -2.769230769230769,
+                    "lastPrice": 1.1,
+                    "openInterest": 311,
+                    "pChange": -18.51851851851852,
+                    "pchangeinOpenInterest": -4.3076923076923075,
                     "strikePrice": 500,
-                    "totalBuyQuantity": 217500,
-                    "totalSellQuantity": 249000,
-                    "totalTradedVolume": 43,
+                    "totalBuyQuantity": 237000,
+                    "totalSellQuantity": 220500,
+                    "totalTradedVolume": 51,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
-                    "askPrice": 64.45,
+                    "askPrice": 65.25,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 58.8,
+                    "bidprice": 57.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1580,7 +1580,7 @@
                     "totalSellQuantity": 70500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 500
@@ -1605,7 +1605,7 @@
                     "totalSellQuantity": 21000,
                     "totalTradedVolume": 1,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 70.6,
@@ -1626,7 +1626,7 @@
                     "totalSellQuantity": 70500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 505
@@ -1651,13 +1651,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
-                    "askPrice": 80.05,
+                    "askPrice": 79.35,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 64.45,
+                    "bidprice": 64.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1672,7 +1672,7 @@
                     "totalSellQuantity": 61500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 510
@@ -1697,7 +1697,7 @@
                     "totalSellQuantity": 1500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 89.4,
@@ -1718,17 +1718,17 @@
                     "totalSellQuantity": 60000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 515
             },
             {
                 "CE": {
-                    "askPrice": 1.25,
-                    "askQty": 3000,
+                    "askPrice": 1.95,
+                    "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 0.25,
+                    "bidprice": 0.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1739,11 +1739,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 520,
-                    "totalBuyQuantity": 4500,
-                    "totalSellQuantity": 88500,
+                    "totalBuyQuantity": 10500,
+                    "totalSellQuantity": 75000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 85.85,
@@ -1764,7 +1764,7 @@
                     "totalSellQuantity": 73500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 520
@@ -1772,9 +1772,9 @@
             {
                 "CE": {
                     "askPrice": 0.5,
-                    "askQty": 3000,
+                    "askQty": 1500,
                     "bidQty": 3000,
-                    "bidprice": 0.4,
+                    "bidprice": 0.45,
                     "change": 1,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1785,17 +1785,17 @@
                     "pChange": 200,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 525,
-                    "totalBuyQuantity": 40500,
-                    "totalSellQuantity": 181500,
+                    "totalBuyQuantity": 42000,
+                    "totalSellQuantity": 121500,
                     "totalTradedVolume": 7,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
-                    "askPrice": 90.75,
-                    "askQty": 9000,
-                    "bidQty": 4500,
-                    "bidprice": 84.05,
+                    "askPrice": 90.7,
+                    "askQty": 4500,
+                    "bidQty": 9000,
+                    "bidprice": 81.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1806,11 +1806,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 525,
-                    "totalBuyQuantity": 73500,
-                    "totalSellQuantity": 69000,
+                    "totalBuyQuantity": 69000,
+                    "totalSellQuantity": 73500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 525
@@ -1839,7 +1839,7 @@
                     "totalSellQuantity": 60000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 0.75,
@@ -1860,7 +1860,7 @@
                     "totalSellQuantity": 4500,
                     "totalTradedVolume": 6,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 320
@@ -1885,7 +1885,7 @@
                     "totalSellQuantity": 60000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 325
@@ -1910,7 +1910,7 @@
                     "totalSellQuantity": 60000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 2.9,
@@ -1931,7 +1931,7 @@
                     "totalSellQuantity": 60000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 330
@@ -1956,7 +1956,7 @@
                     "totalSellQuantity": 64500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 335
@@ -1981,7 +1981,7 @@
                     "totalSellQuantity": 60000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 340
@@ -1991,7 +1991,7 @@
                     "askPrice": 135.75,
                     "askQty": 4500,
                     "bidQty": 4500,
-                    "bidprice": 81.65,
+                    "bidprice": 85.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2006,7 +2006,7 @@
                     "totalSellQuantity": 4500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2027,7 +2027,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 340
@@ -2037,7 +2037,7 @@
                     "askPrice": 130.8,
                     "askQty": 4500,
                     "bidQty": 4500,
-                    "bidprice": 76.3,
+                    "bidprice": 79.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2052,7 +2052,7 @@
                     "totalSellQuantity": 4500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2073,7 +2073,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 345
@@ -2098,7 +2098,7 @@
                     "totalSellQuantity": 64500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 345
@@ -2123,7 +2123,7 @@
                     "totalSellQuantity": 73500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 3,
@@ -2144,7 +2144,7 @@
                     "totalSellQuantity": 7500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 350
@@ -2154,7 +2154,7 @@
                     "askPrice": 125.75,
                     "askQty": 4500,
                     "bidQty": 4500,
-                    "bidprice": 70.55,
+                    "bidprice": 74.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2169,7 +2169,7 @@
                     "totalSellQuantity": 4500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2190,15 +2190,15 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 350
             },
             {
                 "CE": {
-                    "askPrice": 92.05,
-                    "askQty": 60000,
+                    "askPrice": 116.65,
+                    "askQty": 4500,
                     "bidQty": 4500,
                     "bidprice": 78.1,
                     "change": 0,
@@ -2212,10 +2212,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 355,
                     "totalBuyQuantity": 64500,
-                    "totalSellQuantity": 60000,
+                    "totalSellQuantity": 64500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 355
@@ -2225,7 +2225,7 @@
                     "askPrice": 120.75,
                     "askQty": 4500,
                     "bidQty": 4500,
-                    "bidprice": 64.45,
+                    "bidprice": 68.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2240,7 +2240,7 @@
                     "totalSellQuantity": 4500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2261,17 +2261,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 355
             },
             {
                 "CE": {
-                    "askPrice": 87.15,
+                    "askPrice": 84.95,
                     "askQty": 4500,
                     "bidQty": 4500,
-                    "bidprice": 73.15,
+                    "bidprice": 76.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2282,11 +2282,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 360,
-                    "totalBuyQuantity": 64500,
-                    "totalSellQuantity": 64500,
+                    "totalBuyQuantity": 73500,
+                    "totalSellQuantity": 73500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2307,7 +2307,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 360
@@ -2317,7 +2317,7 @@
                     "askPrice": 115.75,
                     "askQty": 4500,
                     "bidQty": 4500,
-                    "bidprice": 59.65,
+                    "bidprice": 62.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2332,7 +2332,7 @@
                     "totalSellQuantity": 4500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2353,15 +2353,15 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 360
             },
             {
                 "CE": {
-                    "askPrice": 82.85,
-                    "askQty": 4500,
+                    "askPrice": 81.9,
+                    "askQty": 60000,
                     "bidQty": 4500,
                     "bidprice": 68.15,
                     "change": 0,
@@ -2375,20 +2375,20 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 365,
                     "totalBuyQuantity": 64500,
-                    "totalSellQuantity": 64500,
+                    "totalSellQuantity": 60000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 365
             },
             {
                 "CE": {
-                    "askPrice": 109.7,
-                    "askQty": 4500,
+                    "askPrice": 0,
+                    "askQty": 0,
                     "bidQty": 4500,
-                    "bidprice": 54.9,
+                    "bidprice": 57.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2400,10 +2400,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 365,
                     "totalBuyQuantity": 64500,
-                    "totalSellQuantity": 4500,
+                    "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2424,14 +2424,14 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 365
             },
             {
                 "CE": {
-                    "askPrice": 77.6,
+                    "askPrice": 76.8,
                     "askQty": 60000,
                     "bidQty": 4500,
                     "bidprice": 63.15,
@@ -2449,7 +2449,7 @@
                     "totalSellQuantity": 60000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2470,17 +2470,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 370
             },
             {
                 "CE": {
-                    "askPrice": 103.2,
+                    "askPrice": 103.85,
                     "askQty": 4500,
                     "bidQty": 4500,
-                    "bidprice": 50.6,
+                    "bidprice": 53.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2495,7 +2495,7 @@
                     "totalSellQuantity": 4500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2516,7 +2516,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 370
@@ -2541,7 +2541,7 @@
                     "totalSellQuantity": 64500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2562,7 +2562,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 375
@@ -2572,7 +2572,7 @@
                     "askPrice": 96.9,
                     "askQty": 4500,
                     "bidQty": 4500,
-                    "bidprice": 47.65,
+                    "bidprice": 48.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2587,7 +2587,7 @@
                     "totalSellQuantity": 4500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2608,17 +2608,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 375
             },
             {
                 "CE": {
-                    "askPrice": 62.3,
+                    "askPrice": 63.55,
                     "askQty": 4500,
                     "bidQty": 4500,
-                    "bidprice": 55.25,
+                    "bidprice": 56.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2633,7 +2633,7 @@
                     "totalSellQuantity": 73500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 0.75,
@@ -2654,7 +2654,7 @@
                     "totalSellQuantity": 18000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 380
@@ -2679,7 +2679,7 @@
                     "totalSellQuantity": 4500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2700,14 +2700,14 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 380
             },
             {
                 "CE": {
-                    "askPrice": 62.45,
+                    "askPrice": 61.75,
                     "askQty": 60000,
                     "bidQty": 4500,
                     "bidprice": 48.15,
@@ -2725,7 +2725,7 @@
                     "totalSellQuantity": 60000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2746,7 +2746,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 385
@@ -2756,7 +2756,7 @@
                     "askPrice": 84.6,
                     "askQty": 4500,
                     "bidQty": 4500,
-                    "bidprice": 42.8,
+                    "bidprice": 43.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2771,7 +2771,7 @@
                     "totalSellQuantity": 4500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2792,17 +2792,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 385
             },
             {
                 "CE": {
-                    "askPrice": 78.65,
+                    "askPrice": 79.2,
                     "askQty": 4500,
                     "bidQty": 4500,
-                    "bidprice": 39.25,
+                    "bidprice": 41.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2817,7 +2817,7 @@
                     "totalSellQuantity": 4500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2838,14 +2838,14 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 390
             },
             {
                 "CE": {
-                    "askPrice": 57.55,
+                    "askPrice": 56.95,
                     "askQty": 60000,
                     "bidQty": 4500,
                     "bidprice": 43.1,
@@ -2863,7 +2863,7 @@
                     "totalSellQuantity": 60000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2884,17 +2884,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 390
             },
             {
                 "CE": {
-                    "askPrice": 72.9,
+                    "askPrice": 73.45,
                     "askQty": 4500,
                     "bidQty": 4500,
-                    "bidprice": 37.85,
+                    "bidprice": 39.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2909,7 +2909,7 @@
                     "totalSellQuantity": 4500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 395
@@ -2934,7 +2934,7 @@
                     "totalSellQuantity": 60000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2955,7 +2955,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 395
@@ -2980,12 +2980,12 @@
                     "totalSellQuantity": 81000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
-                    "askPrice": 1,
-                    "askQty": 4500,
-                    "bidQty": 3000,
+                    "askPrice": 0.95,
+                    "askQty": 3000,
+                    "bidQty": 1500,
                     "bidprice": 0.9,
                     "change": -0.45000000000000007,
                     "changeinOpenInterest": -2,
@@ -2997,11 +2997,11 @@
                     "pChange": -34.61538461538462,
                     "pchangeinOpenInterest": -1.8181818181818181,
                     "strikePrice": 400,
-                    "totalBuyQuantity": 235500,
-                    "totalSellQuantity": 187500,
+                    "totalBuyQuantity": 234000,
+                    "totalSellQuantity": 190500,
                     "totalTradedVolume": 10,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 400
@@ -3026,28 +3026,28 @@
                     "totalSellQuantity": 4500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
-                    "askPrice": 4.45,
+                    "askPrice": 4.65,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 4.1,
-                    "change": 0,
-                    "changeinOpenInterest": 0,
+                    "bidprice": 3.9,
+                    "change": 0.7000000000000002,
+                    "changeinOpenInterest": 6,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKSUNTV29-06-2023PE400.00",
                     "impliedVolatility": 31.17,
-                    "lastPrice": 3.8,
-                    "openInterest": 17,
-                    "pChange": 0,
-                    "pchangeinOpenInterest": 0,
+                    "lastPrice": 4.5,
+                    "openInterest": 23,
+                    "pChange": 18.421052631578952,
+                    "pchangeinOpenInterest": 35.294117647058826,
                     "strikePrice": 400,
-                    "totalBuyQuantity": 109500,
-                    "totalSellQuantity": 27000,
-                    "totalTradedVolume": 6,
+                    "totalBuyQuantity": 79500,
+                    "totalSellQuantity": 3000,
+                    "totalTradedVolume": 7,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 400
@@ -3072,7 +3072,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3093,7 +3093,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 405
@@ -3118,7 +3118,7 @@
                     "totalSellQuantity": 61500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3139,7 +3139,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 405
@@ -3148,8 +3148,8 @@
                 "CE": {
                     "askPrice": 0,
                     "askQty": 0,
-                    "bidQty": 60000,
-                    "bidprice": 23.65,
+                    "bidQty": 4500,
+                    "bidprice": 21.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3160,11 +3160,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 410,
-                    "totalBuyQuantity": 60000,
+                    "totalBuyQuantity": 48000,
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3185,17 +3185,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 410
             },
             {
                 "CE": {
-                    "askPrice": 32.4,
-                    "askQty": 1500,
+                    "askPrice": 33.35,
+                    "askQty": 4500,
                     "bidQty": 1500,
-                    "bidprice": 27.9,
+                    "bidprice": 28,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3207,10 +3207,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 410,
                     "totalBuyQuantity": 75000,
-                    "totalSellQuantity": 75000,
+                    "totalSellQuantity": 79500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 1.85,
@@ -3231,7 +3231,7 @@
                     "totalSellQuantity": 118500,
                     "totalTradedVolume": 7,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 410
@@ -3256,13 +3256,13 @@
                     "totalSellQuantity": 61500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 1500,
-                    "bidprice": 1.2,
+                    "bidprice": 1.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3277,7 +3277,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 415
@@ -3302,17 +3302,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 415
             },
             {
                 "CE": {
-                    "askPrice": 22.45,
-                    "askQty": 6000,
+                    "askPrice": 23.2,
+                    "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 20.25,
+                    "bidprice": 21.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3323,17 +3323,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 420,
-                    "totalBuyQuantity": 135000,
-                    "totalSellQuantity": 76500,
+                    "totalBuyQuantity": 139500,
+                    "totalSellQuantity": 72000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
-                    "askPrice": 3.5,
+                    "askPrice": 3.3,
                     "askQty": 3000,
-                    "bidQty": 1500,
-                    "bidprice": 3.4,
+                    "bidQty": 7500,
+                    "bidprice": 3,
                     "change": -0.3500000000000001,
                     "changeinOpenInterest": -4,
                     "expiryDate": "25-May-2023",
@@ -3344,21 +3344,21 @@
                     "pChange": -10.144927536231886,
                     "pchangeinOpenInterest": -2.197802197802198,
                     "strikePrice": 420,
-                    "totalBuyQuantity": 210000,
-                    "totalSellQuantity": 244500,
+                    "totalBuyQuantity": 201000,
+                    "totalSellQuantity": 255000,
                     "totalTradedVolume": 19,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 420
             },
             {
                 "CE": {
-                    "askPrice": 53.85,
+                    "askPrice": 49.25,
                     "askQty": 4500,
                     "bidQty": 4500,
-                    "bidprice": 15.8,
+                    "bidprice": 22.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3369,17 +3369,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 420,
-                    "totalBuyQuantity": 64500,
-                    "totalSellQuantity": 4500,
+                    "totalBuyQuantity": 67500,
+                    "totalSellQuantity": 7500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 20,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 8.25,
+                    "bidprice": 8.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3394,17 +3394,17 @@
                     "totalSellQuantity": 1500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 420
             },
             {
                 "CE": {
-                    "askPrice": 18.75,
+                    "askPrice": 20.2,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 16.35,
+                    "bidprice": 16.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3415,32 +3415,32 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 425,
-                    "totalBuyQuantity": 87000,
-                    "totalSellQuantity": 82500,
+                    "totalBuyQuantity": 81000,
+                    "totalSellQuantity": 76500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
-                    "askPrice": 4.75,
-                    "askQty": 1500,
-                    "bidQty": 1500,
-                    "bidprice": 4.45,
-                    "change": 0.40000000000000036,
-                    "changeinOpenInterest": 1,
+                    "askPrice": 4.45,
+                    "askQty": 7500,
+                    "bidQty": 6000,
+                    "bidprice": 4.05,
+                    "change": 0.34999999999999964,
+                    "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSUNTV25-05-2023PE425.00",
                     "impliedVolatility": 40.78,
-                    "lastPrice": 4.15,
-                    "openInterest": 25,
-                    "pChange": 10.666666666666675,
-                    "pchangeinOpenInterest": 4.166666666666667,
+                    "lastPrice": 4.1,
+                    "openInterest": 26,
+                    "pChange": 9.333333333333323,
+                    "pchangeinOpenInterest": 8.333333333333334,
                     "strikePrice": 425,
-                    "totalBuyQuantity": 216000,
-                    "totalSellQuantity": 186000,
-                    "totalTradedVolume": 12,
+                    "totalBuyQuantity": 196500,
+                    "totalSellQuantity": 205500,
+                    "totalTradedVolume": 18,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 425
@@ -3450,7 +3450,7 @@
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 4500,
-                    "bidprice": 10.75,
+                    "bidprice": 11.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3465,13 +3465,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 1500,
-                    "bidprice": 7.2,
+                    "bidprice": 6.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3486,17 +3486,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 425
             },
             {
                 "CE": {
-                    "askPrice": 14.6,
-                    "askQty": 3000,
+                    "askPrice": 15.85,
+                    "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 13.95,
+                    "bidprice": 14.65,
                     "change": -1.0500000000000007,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
@@ -3508,16 +3508,16 @@
                     "pchangeinOpenInterest": -1.7857142857142858,
                     "strikePrice": 430,
                     "totalBuyQuantity": 148500,
-                    "totalSellQuantity": 142500,
+                    "totalSellQuantity": 141000,
                     "totalTradedVolume": 4,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
-                    "askPrice": 6.65,
-                    "askQty": 3000,
+                    "askPrice": 6.15,
+                    "askQty": 6000,
                     "bidQty": 1500,
-                    "bidprice": 6.35,
+                    "bidprice": 5.8,
                     "change": 0.75,
                     "changeinOpenInterest": -5,
                     "expiryDate": "25-May-2023",
@@ -3528,11 +3528,11 @@
                     "pChange": 13.157894736842104,
                     "pchangeinOpenInterest": -3.0864197530864197,
                     "strikePrice": 430,
-                    "totalBuyQuantity": 247500,
-                    "totalSellQuantity": 223500,
+                    "totalBuyQuantity": 250500,
+                    "totalSellQuantity": 241500,
                     "totalTradedVolume": 35,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 430
@@ -3557,13 +3557,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 1500,
-                    "bidprice": 9.55,
+                    "bidprice": 9.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3578,7 +3578,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 430
@@ -3603,13 +3603,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 1500,
-                    "bidprice": 11.3,
+                    "bidprice": 10.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3624,17 +3624,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 435
             },
             {
                 "CE": {
-                    "askPrice": 12.6,
-                    "askQty": 3000,
+                    "askPrice": 13.25,
+                    "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 11.15,
+                    "bidprice": 10.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3645,17 +3645,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 435,
-                    "totalBuyQuantity": 148500,
-                    "totalSellQuantity": 144000,
+                    "totalBuyQuantity": 129000,
+                    "totalSellQuantity": 123000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
-                    "askPrice": 9.5,
-                    "askQty": 1500,
+                    "askPrice": 8.35,
+                    "askQty": 3000,
                     "bidQty": 1500,
-                    "bidprice": 7.7,
+                    "bidprice": 7.2,
                     "change": 2.000000000000001,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3667,17 +3667,17 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 435,
                     "totalBuyQuantity": 157500,
-                    "totalSellQuantity": 85500,
+                    "totalSellQuantity": 138000,
                     "totalTradedVolume": 1,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 435
             },
             {
                 "CE": {
-                    "askPrice": 23,
+                    "askPrice": 23.65,
                     "askQty": 1500,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -3692,16 +3692,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 440,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 4500,
+                    "totalSellQuantity": 3000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
-                    "askPrice": 19.35,
+                    "askPrice": 18.65,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 17.4,
+                    "bidprice": 17.25,
                     "change": 7.300000000000001,
                     "changeinOpenInterest": 2,
                     "expiryDate": "29-Jun-2023",
@@ -3712,42 +3712,42 @@
                     "pChange": 66.36363636363637,
                     "pchangeinOpenInterest": 66.66666666666667,
                     "strikePrice": 440,
-                    "totalBuyQuantity": 142500,
-                    "totalSellQuantity": 18000,
+                    "totalBuyQuantity": 133500,
+                    "totalSellQuantity": 3000,
                     "totalTradedVolume": 3,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 440
             },
             {
                 "CE": {
-                    "askPrice": 10.05,
-                    "askQty": 1500,
+                    "askPrice": 10.3,
+                    "askQty": 3000,
                     "bidQty": 1500,
-                    "bidprice": 9.8,
-                    "change": -1.0999999999999996,
-                    "changeinOpenInterest": 26,
+                    "bidprice": 10,
+                    "change": -1.049999999999999,
+                    "changeinOpenInterest": 28,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSUNTV25-05-2023CE440.00",
                     "impliedVolatility": 44.35,
-                    "lastPrice": 10,
-                    "openInterest": 204,
-                    "pChange": -9.909909909909906,
-                    "pchangeinOpenInterest": 14.606741573033707,
+                    "lastPrice": 10.05,
+                    "openInterest": 206,
+                    "pChange": -9.45945945945945,
+                    "pchangeinOpenInterest": 15.730337078651685,
                     "strikePrice": 440,
-                    "totalBuyQuantity": 232500,
-                    "totalSellQuantity": 250500,
-                    "totalTradedVolume": 63,
+                    "totalBuyQuantity": 240000,
+                    "totalSellQuantity": 244500,
+                    "totalTradedVolume": 67,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
-                    "askPrice": 12,
+                    "askPrice": 11.65,
                     "askQty": 1500,
                     "bidQty": 3000,
-                    "bidprice": 11.45,
+                    "bidprice": 11,
                     "change": 1.1999999999999993,
                     "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
@@ -3758,42 +3758,42 @@
                     "pChange": 11.940298507462678,
                     "pchangeinOpenInterest": 3.278688524590164,
                     "strikePrice": 440,
-                    "totalBuyQuantity": 241500,
-                    "totalSellQuantity": 169500,
+                    "totalBuyQuantity": 238500,
+                    "totalSellQuantity": 178500,
                     "totalTradedVolume": 10,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 440
             },
             {
                 "CE": {
-                    "askPrice": 8.2,
+                    "askPrice": 9.05,
                     "askQty": 1500,
-                    "bidQty": 4500,
-                    "bidprice": 7.95,
-                    "change": -1.25,
+                    "bidQty": 1500,
+                    "bidprice": 8.8,
+                    "change": -0.8500000000000014,
                     "changeinOpenInterest": 18,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSUNTV25-05-2023CE445.00",
                     "impliedVolatility": 44.41,
-                    "lastPrice": 8.3,
+                    "lastPrice": 8.7,
                     "openInterest": 60,
-                    "pChange": -13.089005235602095,
+                    "pChange": -8.900523560209438,
                     "pchangeinOpenInterest": 42.857142857142854,
                     "strikePrice": 445,
-                    "totalBuyQuantity": 220500,
-                    "totalSellQuantity": 180000,
-                    "totalTradedVolume": 190,
+                    "totalBuyQuantity": 244500,
+                    "totalSellQuantity": 175500,
+                    "totalTradedVolume": 192,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
-                    "askPrice": 16.45,
-                    "askQty": 4500,
+                    "askPrice": 15.05,
+                    "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 14.4,
+                    "bidprice": 12.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3804,11 +3804,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 445,
-                    "totalBuyQuantity": 93000,
-                    "totalSellQuantity": 69000,
+                    "totalBuyQuantity": 87000,
+                    "totalSellQuantity": 60000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 445
@@ -3833,13 +3833,13 @@
                     "totalSellQuantity": 3000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 1500,
-                    "bidprice": 15.15,
+                    "bidprice": 15.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3854,38 +3854,38 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 445
             },
             {
                 "CE": {
-                    "askPrice": 7,
-                    "askQty": 1500,
-                    "bidQty": 3000,
-                    "bidprice": 6.8,
-                    "change": -0.5999999999999996,
-                    "changeinOpenInterest": 101,
+                    "askPrice": 7.6,
+                    "askQty": 3000,
+                    "bidQty": 1500,
+                    "bidprice": 7.4,
+                    "change": -0.5499999999999998,
+                    "changeinOpenInterest": 102,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSUNTV25-05-2023CE450.00",
                     "impliedVolatility": 47.3,
-                    "lastPrice": 7,
-                    "openInterest": 546,
-                    "pChange": -7.894736842105258,
-                    "pchangeinOpenInterest": 22.696629213483146,
+                    "lastPrice": 7.05,
+                    "openInterest": 547,
+                    "pChange": -7.236842105263156,
+                    "pchangeinOpenInterest": 22.921348314606742,
                     "strikePrice": 450,
-                    "totalBuyQuantity": 256500,
-                    "totalSellQuantity": 229500,
-                    "totalTradedVolume": 222,
+                    "totalBuyQuantity": 279000,
+                    "totalSellQuantity": 223500,
+                    "totalTradedVolume": 227,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
-                    "askPrice": 18.95,
+                    "askPrice": 18.25,
                     "askQty": 1500,
-                    "bidQty": 3000,
-                    "bidprice": 18.55,
+                    "bidQty": 1500,
+                    "bidprice": 17.5,
                     "change": 1.4500000000000028,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3896,36 +3896,36 @@
                     "pChange": 8.579881656804751,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 450,
-                    "totalBuyQuantity": 120000,
+                    "totalBuyQuantity": 109500,
                     "totalSellQuantity": 96000,
                     "totalTradedVolume": 5,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 450
             },
             {
                 "CE": {
-                    "askPrice": 16.9,
+                    "askPrice": 17,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 16,
-                    "change": -0.6000000000000014,
-                    "changeinOpenInterest": 2,
+                    "bidprice": 16.05,
+                    "change": -0.10000000000000142,
+                    "changeinOpenInterest": 3,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKSUNTV29-06-2023CE450.00",
                     "impliedVolatility": 31.7,
-                    "lastPrice": 16,
-                    "openInterest": 21,
-                    "pChange": -3.6144578313253093,
-                    "pchangeinOpenInterest": 10.526315789473685,
+                    "lastPrice": 16.5,
+                    "openInterest": 22,
+                    "pChange": -0.6024096385542254,
+                    "pchangeinOpenInterest": 15.789473684210526,
                     "strikePrice": 450,
-                    "totalBuyQuantity": 81000,
-                    "totalSellQuantity": 81000,
-                    "totalTradedVolume": 4,
+                    "totalBuyQuantity": 84000,
+                    "totalSellQuantity": 19500,
+                    "totalTradedVolume": 5,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 40.95,
@@ -3946,17 +3946,17 @@
                     "totalSellQuantity": 6000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 450
             },
             {
                 "CE": {
-                    "askPrice": 5.7,
+                    "askPrice": 6.05,
                     "askQty": 1500,
-                    "bidQty": 1500,
-                    "bidprice": 5.25,
+                    "bidQty": 3000,
+                    "bidprice": 5.65,
                     "change": 0.2999999999999998,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3967,17 +3967,17 @@
                     "pChange": 5.217391304347823,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 455,
-                    "totalBuyQuantity": 147000,
-                    "totalSellQuantity": 148500,
-                    "totalTradedVolume": 3,
+                    "totalBuyQuantity": 156000,
+                    "totalSellQuantity": 147000,
+                    "totalTradedVolume": 4,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
-                    "askPrice": 22.55,
+                    "askPrice": 23.25,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 20.3,
+                    "bidprice": 20.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3988,11 +3988,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 455,
-                    "totalBuyQuantity": 82500,
+                    "totalBuyQuantity": 87000,
                     "totalSellQuantity": 82500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 455
@@ -4017,7 +4017,7 @@
                     "totalSellQuantity": 61500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 45,
@@ -4038,38 +4038,38 @@
                     "totalSellQuantity": 4500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 455
             },
             {
                 "CE": {
-                    "askPrice": 4.8,
-                    "askQty": 12000,
-                    "bidQty": 3000,
-                    "bidprice": 4.6,
-                    "change": -0.15000000000000036,
+                    "askPrice": 5,
+                    "askQty": 9000,
+                    "bidQty": 1500,
+                    "bidprice": 4.85,
+                    "change": -0.10000000000000053,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSUNTV25-05-2023CE460.00",
                     "impliedVolatility": 50.21,
-                    "lastPrice": 4.8,
+                    "lastPrice": 4.85,
                     "openInterest": 296,
-                    "pChange": -3.0303030303030374,
+                    "pChange": -2.020202020202031,
                     "pchangeinOpenInterest": 0.3389830508474576,
                     "strikePrice": 460,
-                    "totalBuyQuantity": 267000,
-                    "totalSellQuantity": 319500,
-                    "totalTradedVolume": 52,
+                    "totalBuyQuantity": 282000,
+                    "totalSellQuantity": 304500,
+                    "totalTradedVolume": 56,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
-                    "askPrice": 27.95,
-                    "askQty": 1500,
-                    "bidQty": 1500,
-                    "bidprice": 23.85,
+                    "askPrice": 27.5,
+                    "askQty": 4500,
+                    "bidQty": 4500,
+                    "bidprice": 23.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4080,11 +4080,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 460,
-                    "totalBuyQuantity": 90000,
-                    "totalSellQuantity": 75000,
+                    "totalBuyQuantity": 88500,
+                    "totalSellQuantity": 81000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 460
@@ -4109,13 +4109,13 @@
                     "totalSellQuantity": 40500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 49.25,
-                    "askQty": 7500,
-                    "bidQty": 7500,
-                    "bidprice": 11.05,
+                    "askQty": 4500,
+                    "bidQty": 0,
+                    "bidprice": 0,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4126,21 +4126,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 460,
-                    "totalBuyQuantity": 7500,
-                    "totalSellQuantity": 7500,
+                    "totalBuyQuantity": 0,
+                    "totalSellQuantity": 4500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 460
             },
             {
                 "CE": {
-                    "askPrice": 4.05,
+                    "askPrice": 4.3,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 3.55,
+                    "bidprice": 3.65,
                     "change": -0.7999999999999998,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4151,17 +4151,17 @@
                     "pChange": -21.052631578947363,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 465,
-                    "totalBuyQuantity": 130500,
-                    "totalSellQuantity": 147000,
+                    "totalBuyQuantity": 132000,
+                    "totalSellQuantity": 145500,
                     "totalTradedVolume": 1,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 32.25,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 27.9,
+                    "bidprice": 26.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4176,7 +4176,7 @@
                     "totalSellQuantity": 75000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 465
@@ -4201,7 +4201,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 53.55,
@@ -4222,7 +4222,7 @@
                     "totalSellQuantity": 4500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 465
@@ -4230,30 +4230,30 @@
             {
                 "CE": {
                     "askPrice": 3,
-                    "askQty": 3000,
-                    "bidQty": 6000,
+                    "askQty": 4500,
+                    "bidQty": 4500,
                     "bidprice": 2.85,
-                    "change": -0.5,
+                    "change": -0.6000000000000001,
                     "changeinOpenInterest": -12,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSUNTV25-05-2023CE470.00",
                     "impliedVolatility": 52.36,
-                    "lastPrice": 3,
+                    "lastPrice": 2.9,
                     "openInterest": 429,
-                    "pChange": -14.285714285714285,
+                    "pChange": -17.142857142857146,
                     "pchangeinOpenInterest": -2.7210884353741496,
                     "strikePrice": 470,
-                    "totalBuyQuantity": 249000,
-                    "totalSellQuantity": 288000,
-                    "totalTradedVolume": 47,
+                    "totalBuyQuantity": 253500,
+                    "totalSellQuantity": 294000,
+                    "totalTradedVolume": 48,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
-                    "askPrice": 36.05,
+                    "askPrice": 37.4,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 32.15,
+                    "bidprice": 32.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4268,17 +4268,17 @@
                     "totalSellQuantity": 75000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 470
             },
             {
                 "CE": {
-                    "askPrice": 22.2,
-                    "askQty": 42000,
+                    "askPrice": 0,
+                    "askQty": 0,
                     "bidQty": 1500,
-                    "bidprice": 0.75,
+                    "bidprice": 7.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4289,17 +4289,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 470,
-                    "totalBuyQuantity": 1500,
-                    "totalSellQuantity": 42000,
+                    "totalBuyQuantity": 6000,
+                    "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
-                    "askPrice": 57.8,
-                    "askQty": 4500,
-                    "bidQty": 3000,
-                    "bidprice": 20.05,
+                    "askPrice": 0,
+                    "askQty": 0,
+                    "bidQty": 4500,
+                    "bidprice": 19.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4310,21 +4310,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 470,
-                    "totalBuyQuantity": 49500,
-                    "totalSellQuantity": 4500,
+                    "totalBuyQuantity": 52500,
+                    "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 470
             },
             {
                 "CE": {
-                    "askPrice": 4.7,
+                    "askPrice": 4.55,
                     "askQty": 1500,
-                    "bidQty": 1500,
-                    "bidprice": 1.35,
+                    "bidQty": 16500,
+                    "bidprice": 1.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4335,17 +4335,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 475,
-                    "totalBuyQuantity": 100500,
+                    "totalBuyQuantity": 40500,
                     "totalSellQuantity": 1500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
-                    "askPrice": 43.3,
-                    "askQty": 1500,
+                    "askPrice": 43.05,
+                    "askQty": 4500,
                     "bidQty": 1500,
-                    "bidprice": 35.5,
+                    "bidprice": 34.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4357,10 +4357,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 475,
                     "totalBuyQuantity": 75000,
-                    "totalSellQuantity": 75000,
+                    "totalSellQuantity": 79500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 475
@@ -4385,13 +4385,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 4500,
-                    "bidprice": 25.8,
+                    "bidprice": 26.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4406,38 +4406,38 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 475
             },
             {
                 "CE": {
-                    "askPrice": 2.25,
-                    "askQty": 1500,
-                    "bidQty": 4500,
-                    "bidprice": 2.15,
-                    "change": -0.4500000000000002,
+                    "askPrice": 2.55,
+                    "askQty": 10500,
+                    "bidQty": 3000,
+                    "bidprice": 2.4,
+                    "change": -0.30000000000000027,
                     "changeinOpenInterest": -25,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSUNTV25-05-2023CE480.00",
                     "impliedVolatility": 57,
-                    "lastPrice": 2.25,
+                    "lastPrice": 2.4,
                     "openInterest": 992,
-                    "pChange": -16.66666666666667,
+                    "pChange": -11.11111111111112,
                     "pchangeinOpenInterest": -2.4582104228121926,
                     "strikePrice": 480,
-                    "totalBuyQuantity": 184500,
-                    "totalSellQuantity": 354000,
-                    "totalTradedVolume": 151,
+                    "totalBuyQuantity": 195000,
+                    "totalSellQuantity": 345000,
+                    "totalTradedVolume": 157,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 46.7,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 42,
+                    "bidprice": 40.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4452,7 +4452,7 @@
                     "totalSellQuantity": 75000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 480
@@ -4477,13 +4477,13 @@
                     "totalSellQuantity": 7500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
-                    "askPrice": 65.15,
+                    "askPrice": 64.8,
                     "askQty": 4500,
                     "bidQty": 4500,
-                    "bidprice": 30.75,
+                    "bidprice": 31.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4498,7 +4498,7 @@
                     "totalSellQuantity": 4500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 480
@@ -4523,13 +4523,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 54.45,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 39.75,
+                    "bidprice": 39.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4544,7 +4544,7 @@
                     "totalSellQuantity": 61500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 485
@@ -4569,13 +4569,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 4500,
-                    "bidprice": 35.5,
+                    "bidprice": 35.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4590,17 +4590,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 485
             },
             {
                 "CE": {
-                    "askPrice": 1.5,
-                    "askQty": 3000,
-                    "bidQty": 19500,
-                    "bidprice": 1.4,
+                    "askPrice": 1.7,
+                    "askQty": 1500,
+                    "bidQty": 3000,
+                    "bidprice": 1.6,
                     "change": -0.34999999999999987,
                     "changeinOpenInterest": -11,
                     "expiryDate": "25-May-2023",
@@ -4611,17 +4611,17 @@
                     "pChange": -18.42105263157894,
                     "pchangeinOpenInterest": -4.365079365079365,
                     "strikePrice": 490,
-                    "totalBuyQuantity": 216000,
-                    "totalSellQuantity": 253500,
-                    "totalTradedVolume": 42,
+                    "totalBuyQuantity": 231000,
+                    "totalSellQuantity": 238500,
+                    "totalTradedVolume": 43,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
-                    "askPrice": 54.35,
+                    "askPrice": 55.9,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 50.65,
+                    "bidprice": 49.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4636,7 +4636,7 @@
                     "totalSellQuantity": 75000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 490
@@ -4646,7 +4646,7 @@
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 9000,
-                    "bidprice": 3.6,
+                    "bidprice": 3.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4661,13 +4661,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 4500,
-                    "bidprice": 40.45,
+                    "bidprice": 32.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4682,7 +4682,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 490
@@ -4707,13 +4707,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 63.8,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 49.45,
+                    "bidprice": 49.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4728,7 +4728,7 @@
                     "totalSellQuantity": 61500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 495
@@ -4753,13 +4753,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 4500,
-                    "bidprice": 45.05,
+                    "bidprice": 45.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4774,38 +4774,38 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 495
             },
             {
                 "CE": {
-                    "askPrice": 1.1,
-                    "askQty": 7500,
+                    "askPrice": 1.25,
+                    "askQty": 12000,
                     "bidQty": 3000,
-                    "bidprice": 1,
-                    "change": -0.30000000000000004,
-                    "changeinOpenInterest": -9,
+                    "bidprice": 1.15,
+                    "change": -0.25,
+                    "changeinOpenInterest": -14,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSUNTV25-05-2023CE500.00",
                     "impliedVolatility": 62.35,
-                    "lastPrice": 1.05,
-                    "openInterest": 316,
-                    "pChange": -22.222222222222225,
-                    "pchangeinOpenInterest": -2.769230769230769,
+                    "lastPrice": 1.1,
+                    "openInterest": 311,
+                    "pChange": -18.51851851851852,
+                    "pchangeinOpenInterest": -4.3076923076923075,
                     "strikePrice": 500,
-                    "totalBuyQuantity": 217500,
-                    "totalSellQuantity": 249000,
-                    "totalTradedVolume": 43,
+                    "totalBuyQuantity": 237000,
+                    "totalSellQuantity": 220500,
+                    "totalTradedVolume": 51,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
-                    "askPrice": 64.45,
+                    "askPrice": 65.25,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 58.8,
+                    "bidprice": 57.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4820,7 +4820,7 @@
                     "totalSellQuantity": 70500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 500
@@ -4831,27 +4831,27 @@
                     "askQty": 1500,
                     "bidQty": 1500,
                     "bidprice": 4.5,
-                    "change": -0.20000000000000018,
-                    "changeinOpenInterest": 14,
+                    "change": -0.40000000000000036,
+                    "changeinOpenInterest": 16,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKSUNTV29-06-2023CE500.00",
                     "impliedVolatility": 35.13,
-                    "lastPrice": 4.55,
-                    "openInterest": 69,
-                    "pChange": -4.210526315789478,
-                    "pchangeinOpenInterest": 25.454545454545453,
+                    "lastPrice": 4.35,
+                    "openInterest": 71,
+                    "pChange": -8.421052631578956,
+                    "pchangeinOpenInterest": 29.09090909090909,
                     "strikePrice": 500,
-                    "totalBuyQuantity": 133500,
-                    "totalSellQuantity": 60000,
-                    "totalTradedVolume": 32,
+                    "totalBuyQuantity": 123000,
+                    "totalSellQuantity": 58500,
+                    "totalTradedVolume": 35,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
-                    "askPrice": 85.85,
+                    "askPrice": 80.15,
                     "askQty": 4500,
                     "bidQty": 4500,
-                    "bidprice": 50.65,
+                    "bidprice": 56.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4862,11 +4862,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 500,
-                    "totalBuyQuantity": 64500,
-                    "totalSellQuantity": 4500,
+                    "totalBuyQuantity": 67500,
+                    "totalSellQuantity": 7500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 500
@@ -4891,7 +4891,7 @@
                     "totalSellQuantity": 21000,
                     "totalTradedVolume": 1,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 70.6,
@@ -4912,7 +4912,7 @@
                     "totalSellQuantity": 70500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 505
@@ -4937,13 +4937,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
-                    "askPrice": 91.55,
+                    "askPrice": 91.35,
                     "askQty": 4500,
                     "bidQty": 4500,
-                    "bidprice": 45.6,
+                    "bidprice": 47.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4958,7 +4958,7 @@
                     "totalSellQuantity": 4500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 505
@@ -4983,13 +4983,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
-                    "askPrice": 80.05,
+                    "askPrice": 79.35,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 64.45,
+                    "bidprice": 64.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5004,7 +5004,7 @@
                     "totalSellQuantity": 61500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 510
@@ -5014,7 +5014,7 @@
                     "askPrice": 96.5,
                     "askQty": 4500,
                     "bidQty": 4500,
-                    "bidprice": 59,
+                    "bidprice": 59.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -5029,7 +5029,7 @@
                     "totalSellQuantity": 4500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 510
@@ -5054,7 +5054,7 @@
                     "totalSellQuantity": 1500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 89.4,
@@ -5075,12 +5075,33 @@
                     "totalSellQuantity": 60000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 515
             },
             {
+                "CE": {
+                    "askPrice": 3.95,
+                    "askQty": 1500,
+                    "bidQty": 0,
+                    "bidprice": 0,
+                    "change": 0,
+                    "changeinOpenInterest": 0,
+                    "expiryDate": "29-Jun-2023",
+                    "identifier": "OPTSTKSUNTV29-06-2023CE515.00",
+                    "impliedVolatility": 0,
+                    "lastPrice": 0,
+                    "openInterest": 1,
+                    "pChange": 0,
+                    "pchangeinOpenInterest": 0,
+                    "strikePrice": 515,
+                    "totalBuyQuantity": 0,
+                    "totalSellQuantity": 1500,
+                    "totalTradedVolume": 0,
+                    "underlying": "SUNTV",
+                    "underlyingValue": 438.8
+                },
                 "PE": {
                     "askPrice": 101.45,
                     "askQty": 4500,
@@ -5100,17 +5121,17 @@
                     "totalSellQuantity": 4500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 515
             },
             {
                 "CE": {
-                    "askPrice": 1.25,
-                    "askQty": 3000,
+                    "askPrice": 1.95,
+                    "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 0.25,
+                    "bidprice": 0.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5121,11 +5142,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 520,
-                    "totalBuyQuantity": 4500,
-                    "totalSellQuantity": 88500,
+                    "totalBuyQuantity": 10500,
+                    "totalSellQuantity": 75000,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
                     "askPrice": 85.85,
@@ -5146,7 +5167,7 @@
                     "totalSellQuantity": 73500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 520
@@ -5154,9 +5175,9 @@
             {
                 "CE": {
                     "askPrice": 0.5,
-                    "askQty": 3000,
+                    "askQty": 1500,
                     "bidQty": 3000,
-                    "bidprice": 0.4,
+                    "bidprice": 0.45,
                     "change": 1,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5167,17 +5188,17 @@
                     "pChange": 200,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 525,
-                    "totalBuyQuantity": 40500,
-                    "totalSellQuantity": 181500,
+                    "totalBuyQuantity": 42000,
+                    "totalSellQuantity": 121500,
                     "totalTradedVolume": 7,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "PE": {
-                    "askPrice": 90.75,
-                    "askQty": 9000,
-                    "bidQty": 4500,
-                    "bidprice": 84.05,
+                    "askPrice": 90.7,
+                    "askQty": 4500,
+                    "bidQty": 9000,
+                    "bidprice": 81.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5188,11 +5209,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 525,
-                    "totalBuyQuantity": 73500,
-                    "totalSellQuantity": 69000,
+                    "totalBuyQuantity": 69000,
+                    "totalSellQuantity": 73500,
                     "totalTradedVolume": 0,
                     "underlying": "SUNTV",
-                    "underlyingValue": 438.05
+                    "underlyingValue": 438.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 525
@@ -5246,7 +5267,7 @@
             520,
             525
         ],
-        "timestamp": "18-May-2023 10:21:15",
-        "underlyingValue": 438.05
+        "timestamp": "18-May-2023 10:25:46",
+        "underlyingValue": 438.8
     }
 }

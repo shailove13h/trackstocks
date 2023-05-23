@@ -1,12 +1,12 @@
 {
     "filtered": {
         "CE": {
-            "totOI": 8614,
-            "totVol": 2580
+            "totOI": 8622,
+            "totVol": 2732
         },
         "PE": {
-            "totOI": 2933,
-            "totVol": 877
+            "totOI": 2928,
+            "totVol": 931
         },
         "data": [
             {
@@ -29,7 +29,7 @@
                     "totalSellQuantity": 108000,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 177.5
@@ -54,11 +54,11 @@
                     "totalSellQuantity": 116100,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
-                    "askPrice": 2.6,
-                    "askQty": 108000,
+                    "askPrice": 0.4,
+                    "askQty": 2700,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -72,10 +72,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 180,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 108000,
+                    "totalSellQuantity": 56700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 180
@@ -100,7 +100,7 @@
                     "totalSellQuantity": 116100,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 0.7,
@@ -121,7 +121,7 @@
                     "totalSellQuantity": 56700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 182.5
@@ -146,7 +146,28 @@
                     "totalSellQuantity": 116100,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
+                },
+                "PE": {
+                    "askPrice": 0.5,
+                    "askQty": 2700,
+                    "bidQty": 0,
+                    "bidprice": 0,
+                    "change": 0,
+                    "changeinOpenInterest": 0,
+                    "expiryDate": "25-May-2023",
+                    "identifier": "OPTSTKPOWERGRID25-05-2023PE185.00",
+                    "impliedVolatility": 0,
+                    "lastPrice": 0,
+                    "openInterest": 0,
+                    "pChange": 0,
+                    "pchangeinOpenInterest": 0,
+                    "strikePrice": 185,
+                    "totalBuyQuantity": 0,
+                    "totalSellQuantity": 54000,
+                    "totalTradedVolume": 0,
+                    "underlying": "POWERGRID",
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 185
@@ -171,7 +192,7 @@
                     "totalSellQuantity": 116100,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 2.55,
@@ -192,7 +213,7 @@
                     "totalSellQuantity": 108000,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 187.5
@@ -217,11 +238,11 @@
                     "totalSellQuantity": 116100,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
-                    "askPrice": 0.35,
-                    "askQty": 10800,
+                    "askPrice": 0.3,
+                    "askQty": 2700,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -235,10 +256,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 190,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 70200,
+                    "totalSellQuantity": 99900,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 190
@@ -263,7 +284,7 @@
                     "totalSellQuantity": 116100,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 0.7,
@@ -284,7 +305,7 @@
                     "totalSellQuantity": 56700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 192.5
@@ -309,7 +330,7 @@
                     "totalSellQuantity": 116100,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.75
                 },
                 "PE": {
                     "askPrice": 0.95,
@@ -330,7 +351,7 @@
                     "totalSellQuantity": 24300,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 195
@@ -355,7 +376,7 @@
                     "totalSellQuantity": 116100,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.75
                 },
                 "PE": {
                     "askPrice": 0.7,
@@ -376,14 +397,14 @@
                     "totalSellQuantity": 59400,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 197.5
             },
             {
                 "CE": {
-                    "askPrice": 41.85,
+                    "askPrice": 41.25,
                     "askQty": 8100,
                     "bidQty": 8100,
                     "bidprice": 35.3,
@@ -398,10 +419,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 200,
                     "totalBuyQuantity": 116100,
-                    "totalSellQuantity": 116100,
+                    "totalSellQuantity": 121500,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 0.1,
@@ -422,7 +443,7 @@
                     "totalSellQuantity": 51300,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 200
@@ -447,7 +468,7 @@
                     "totalSellQuantity": 116100,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 0.8,
@@ -468,14 +489,14 @@
                     "totalSellQuantity": 56700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 202.5
             },
             {
                 "CE": {
-                    "askPrice": 35.4,
+                    "askPrice": 37.1,
                     "askQty": 8100,
                     "bidQty": 8100,
                     "bidprice": 30.2,
@@ -490,13 +511,13 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 205,
                     "totalBuyQuantity": 116100,
-                    "totalSellQuantity": 121500,
+                    "totalSellQuantity": 116100,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.75
                 },
                 "PE": {
-                    "askPrice": 0.35,
+                    "askPrice": 0.25,
                     "askQty": 5400,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -511,10 +532,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 205,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 164700,
+                    "totalSellQuantity": 83700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 205
@@ -539,7 +560,7 @@
                     "totalSellQuantity": 116100,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 2.35,
@@ -560,7 +581,7 @@
                     "totalSellQuantity": 132300,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 207.5
@@ -585,12 +606,12 @@
                     "totalSellQuantity": 132300,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 0.15,
-                    "askQty": 2700,
-                    "bidQty": 64800,
+                    "askQty": 5400,
+                    "bidQty": 83700,
                     "bidprice": 0.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -602,11 +623,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 210,
-                    "totalBuyQuantity": 361800,
-                    "totalSellQuantity": 224100,
+                    "totalBuyQuantity": 380700,
+                    "totalSellQuantity": 251100,
                     "totalTradedVolume": 2,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 210
@@ -631,7 +652,7 @@
                     "totalSellQuantity": 116100,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 1.3,
@@ -652,7 +673,7 @@
                     "totalSellQuantity": 21600,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 212.5
@@ -677,7 +698,7 @@
                     "totalSellQuantity": 140400,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 0.2,
@@ -698,14 +719,14 @@
                     "totalSellQuantity": 151200,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 215
             },
             {
                 "CE": {
-                    "askPrice": 22.35,
+                    "askPrice": 22.45,
                     "askQty": 8100,
                     "bidQty": 8100,
                     "bidprice": 19.6,
@@ -720,14 +741,14 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 217.5,
                     "totalBuyQuantity": 140400,
-                    "totalSellQuantity": 145800,
+                    "totalSellQuantity": 140400,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
-                    "askPrice": 1.45,
-                    "askQty": 8100,
+                    "askPrice": 0.85,
+                    "askQty": 5400,
                     "bidQty": 32400,
                     "bidprice": 0.05,
                     "change": 0,
@@ -741,20 +762,20 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 217.5,
                     "totalBuyQuantity": 32400,
-                    "totalSellQuantity": 24300,
+                    "totalSellQuantity": 35100,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 217.5
             },
             {
                 "CE": {
-                    "askPrice": 19.15,
-                    "askQty": 10800,
-                    "bidQty": 2700,
-                    "bidprice": 17.6,
+                    "askPrice": 19.2,
+                    "askQty": 8100,
+                    "bidQty": 8100,
+                    "bidprice": 17.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -765,16 +786,16 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 220,
-                    "totalBuyQuantity": 218700,
-                    "totalSellQuantity": 183600,
+                    "totalBuyQuantity": 226800,
+                    "totalSellQuantity": 216000,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
-                    "askPrice": 0.25,
-                    "askQty": 10800,
-                    "bidQty": 102600,
+                    "askPrice": 0.3,
+                    "askQty": 16200,
+                    "bidQty": 129600,
                     "bidprice": 0.2,
                     "change": 0.04999999999999999,
                     "changeinOpenInterest": -24,
@@ -788,9 +809,9 @@
                     "strikePrice": 220,
                     "totalBuyQuantity": 880200,
                     "totalSellQuantity": 369900,
-                    "totalTradedVolume": 36,
+                    "totalTradedVolume": 58,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 220
@@ -815,38 +836,38 @@
                     "totalSellQuantity": 145800,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.75
                 },
                 "PE": {
-                    "askPrice": 0.3,
-                    "askQty": 5400,
-                    "bidQty": 10800,
+                    "askPrice": 0.35,
+                    "askQty": 13500,
+                    "bidQty": 16200,
                     "bidprice": 0.2,
-                    "change": -0.04999999999999999,
+                    "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOWERGRID25-05-2023PE222.50",
                     "impliedVolatility": 31.1,
-                    "lastPrice": 0.25,
+                    "lastPrice": 0.3,
                     "openInterest": 49,
-                    "pChange": -16.666666666666664,
+                    "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 222.5,
                     "totalBuyQuantity": 313200,
-                    "totalSellQuantity": 305100,
-                    "totalTradedVolume": 1,
+                    "totalSellQuantity": 329400,
+                    "totalTradedVolume": 4,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 222.5
             },
             {
                 "CE": {
-                    "askPrice": 13.75,
+                    "askPrice": 13.8,
                     "askQty": 2700,
                     "bidQty": 2700,
-                    "bidprice": 13.3,
+                    "bidprice": 13.5,
                     "change": -0.34999999999999964,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -857,11 +878,11 @@
                     "pChange": -2.3569023569023546,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 225,
-                    "totalBuyQuantity": 148500,
-                    "totalSellQuantity": 137700,
+                    "totalBuyQuantity": 140400,
+                    "totalSellQuantity": 145800,
                     "totalTradedVolume": 1,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 0.45,
@@ -882,17 +903,17 @@
                     "totalSellQuantity": 448200,
                     "totalTradedVolume": 12,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 225
             },
             {
                 "CE": {
-                    "askPrice": 12.2,
+                    "askPrice": 12.4,
                     "askQty": 10800,
                     "bidQty": 2700,
-                    "bidprice": 10.6,
+                    "bidprice": 10.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -903,16 +924,16 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 227.5,
-                    "totalBuyQuantity": 145800,
-                    "totalSellQuantity": 148500,
+                    "totalBuyQuantity": 148500,
+                    "totalSellQuantity": 145800,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 0.65,
-                    "askQty": 5400,
-                    "bidQty": 16200,
+                    "askQty": 8100,
+                    "bidQty": 5400,
                     "bidprice": 0.6,
                     "change": 0,
                     "changeinOpenInterest": -1,
@@ -924,21 +945,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": -2.4390243902439024,
                     "strikePrice": 227.5,
-                    "totalBuyQuantity": 669600,
+                    "totalBuyQuantity": 661500,
                     "totalSellQuantity": 380700,
                     "totalTradedVolume": 3,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 227.5
             },
             {
                 "CE": {
-                    "askPrice": 9.2,
-                    "askQty": 16200,
-                    "bidQty": 2700,
-                    "bidprice": 9,
+                    "askPrice": 9.25,
+                    "askQty": 5400,
+                    "bidQty": 5400,
+                    "bidprice": 9.05,
                     "change": -1.25,
                     "changeinOpenInterest": -7,
                     "expiryDate": "25-May-2023",
@@ -949,42 +970,42 @@
                     "pChange": -12.135922330097086,
                     "pchangeinOpenInterest": -5.223880597014926,
                     "strikePrice": 230,
-                    "totalBuyQuantity": 253800,
-                    "totalSellQuantity": 264600,
+                    "totalBuyQuantity": 256500,
+                    "totalSellQuantity": 253800,
                     "totalTradedVolume": 515,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
-                    "askPrice": 1,
-                    "askQty": 37800,
-                    "bidQty": 35100,
+                    "askPrice": 0.95,
+                    "askQty": 8100,
+                    "bidQty": 29700,
                     "bidprice": 0.9,
-                    "change": 0.09999999999999998,
-                    "changeinOpenInterest": -31,
+                    "change": 0.1499999999999999,
+                    "changeinOpenInterest": -35,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOWERGRID25-05-2023PE230.00",
                     "impliedVolatility": 27.55,
-                    "lastPrice": 0.9,
-                    "openInterest": 542,
-                    "pChange": 12.499999999999996,
-                    "pchangeinOpenInterest": -5.4101221640488655,
+                    "lastPrice": 0.95,
+                    "openInterest": 538,
+                    "pChange": 18.74999999999999,
+                    "pchangeinOpenInterest": -6.108202443280978,
                     "strikePrice": 230,
-                    "totalBuyQuantity": 2130300,
-                    "totalSellQuantity": 542700,
-                    "totalTradedVolume": 213,
+                    "totalBuyQuantity": 2127600,
+                    "totalSellQuantity": 545400,
+                    "totalTradedVolume": 218,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 230
             },
             {
                 "CE": {
-                    "askPrice": 7.3,
+                    "askPrice": 7.35,
                     "askQty": 2700,
-                    "bidQty": 2700,
-                    "bidprice": 6.95,
+                    "bidQty": 5400,
+                    "bidprice": 7.05,
                     "change": -0.04999999999999982,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -999,166 +1020,166 @@
                     "totalSellQuantity": 226800,
                     "totalTradedVolume": 2,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.75
                 },
                 "PE": {
-                    "askPrice": 1.55,
-                    "askQty": 5400,
-                    "bidQty": 13500,
-                    "bidprice": 1.45,
-                    "change": 0.30000000000000004,
+                    "askPrice": 1.5,
+                    "askQty": 8100,
+                    "bidQty": 16200,
+                    "bidprice": 1.4,
+                    "change": 0.19999999999999996,
                     "changeinOpenInterest": -12,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOWERGRID25-05-2023PE232.50",
                     "impliedVolatility": 27.29,
-                    "lastPrice": 1.55,
+                    "lastPrice": 1.45,
                     "openInterest": 52,
-                    "pChange": 24.000000000000004,
+                    "pChange": 15.999999999999998,
                     "pchangeinOpenInterest": -18.75,
                     "strikePrice": 232.5,
-                    "totalBuyQuantity": 693900,
-                    "totalSellQuantity": 423900,
-                    "totalTradedVolume": 36,
+                    "totalBuyQuantity": 683100,
+                    "totalSellQuantity": 442800,
+                    "totalTradedVolume": 37,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 232.5
             },
             {
                 "CE": {
-                    "askPrice": 5.35,
-                    "askQty": 2700,
-                    "bidQty": 16200,
-                    "bidprice": 5.25,
-                    "change": -0.9000000000000004,
-                    "changeinOpenInterest": 2,
+                    "askPrice": 5.45,
+                    "askQty": 10800,
+                    "bidQty": 10800,
+                    "bidprice": 5.3,
+                    "change": -0.8499999999999996,
+                    "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOWERGRID25-05-2023CE235.00",
                     "impliedVolatility": 29.24,
-                    "lastPrice": 5.35,
-                    "openInterest": 200,
-                    "pChange": -14.400000000000004,
-                    "pchangeinOpenInterest": 1.0101010101010102,
+                    "lastPrice": 5.4,
+                    "openInterest": 201,
+                    "pChange": -13.599999999999996,
+                    "pchangeinOpenInterest": 1.5151515151515151,
                     "strikePrice": 235,
-                    "totalBuyQuantity": 267300,
-                    "totalSellQuantity": 278100,
-                    "totalTradedVolume": 278,
+                    "totalBuyQuantity": 272700,
+                    "totalSellQuantity": 283500,
+                    "totalTradedVolume": 281,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 2.3,
-                    "askQty": 16200,
+                    "askQty": 10800,
                     "bidQty": 5400,
-                    "bidprice": 2.25,
-                    "change": 0.30000000000000027,
-                    "changeinOpenInterest": 4,
+                    "bidprice": 2.2,
+                    "change": 0.3500000000000001,
+                    "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOWERGRID25-05-2023PE235.00",
                     "impliedVolatility": 26.82,
-                    "lastPrice": 2.2,
-                    "openInterest": 279,
-                    "pChange": 15.789473684210542,
-                    "pchangeinOpenInterest": 1.4545454545454546,
+                    "lastPrice": 2.25,
+                    "openInterest": 278,
+                    "pChange": 18.421052631578952,
+                    "pchangeinOpenInterest": 1.0909090909090908,
                     "strikePrice": 235,
-                    "totalBuyQuantity": 434700,
-                    "totalSellQuantity": 453600,
-                    "totalTradedVolume": 113,
+                    "totalBuyQuantity": 421200,
+                    "totalSellQuantity": 461700,
+                    "totalTradedVolume": 120,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 235
             },
             {
                 "CE": {
-                    "askPrice": 4,
-                    "askQty": 10800,
-                    "bidQty": 8100,
-                    "bidprice": 3.9,
-                    "change": -0.7000000000000002,
+                    "askPrice": 4.05,
+                    "askQty": 5400,
+                    "bidQty": 10800,
+                    "bidprice": 3.95,
+                    "change": -0.75,
                     "changeinOpenInterest": 4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOWERGRID25-05-2023CE237.50",
                     "impliedVolatility": 28.55,
-                    "lastPrice": 4,
+                    "lastPrice": 3.95,
                     "openInterest": 72,
-                    "pChange": -14.893617021276597,
+                    "pChange": -15.957446808510637,
                     "pchangeinOpenInterest": 5.882352941176471,
                     "strikePrice": 237.5,
-                    "totalBuyQuantity": 183600,
-                    "totalSellQuantity": 305100,
-                    "totalTradedVolume": 122,
+                    "totalBuyQuantity": 194400,
+                    "totalSellQuantity": 299700,
+                    "totalTradedVolume": 126,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 3.35,
                     "askQty": 5400,
-                    "bidQty": 8100,
+                    "bidQty": 5400,
                     "bidprice": 3.25,
-                    "change": 0.5499999999999998,
-                    "changeinOpenInterest": 13,
+                    "change": 0.5,
+                    "changeinOpenInterest": 11,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOWERGRID25-05-2023PE237.50",
                     "impliedVolatility": 26.29,
-                    "lastPrice": 3.3,
-                    "openInterest": 109,
-                    "pChange": 19.999999999999993,
-                    "pchangeinOpenInterest": 13.541666666666666,
+                    "lastPrice": 3.25,
+                    "openInterest": 107,
+                    "pChange": 18.181818181818183,
+                    "pchangeinOpenInterest": 11.458333333333334,
                     "strikePrice": 237.5,
-                    "totalBuyQuantity": 456300,
-                    "totalSellQuantity": 410400,
-                    "totalTradedVolume": 128,
+                    "totalBuyQuantity": 453600,
+                    "totalSellQuantity": 415800,
+                    "totalTradedVolume": 136,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 237.5
             },
             {
                 "CE": {
-                    "askPrice": 2.9,
-                    "askQty": 16200,
-                    "bidQty": 8100,
-                    "bidprice": 2.85,
-                    "change": -0.4500000000000002,
-                    "changeinOpenInterest": 57,
+                    "askPrice": 2.85,
+                    "askQty": 5400,
+                    "bidQty": 16200,
+                    "bidprice": 2.8,
+                    "change": -0.5,
+                    "changeinOpenInterest": 62,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOWERGRID25-05-2023CE240.00",
                     "impliedVolatility": 28.93,
-                    "lastPrice": 2.9,
-                    "openInterest": 562,
-                    "pChange": -13.432835820895528,
-                    "pchangeinOpenInterest": 11.287128712871286,
+                    "lastPrice": 2.85,
+                    "openInterest": 567,
+                    "pChange": -14.925373134328357,
+                    "pchangeinOpenInterest": 12.277227722772277,
                     "strikePrice": 240,
-                    "totalBuyQuantity": 634500,
-                    "totalSellQuantity": 637200,
-                    "totalTradedVolume": 559,
+                    "totalBuyQuantity": 631800,
+                    "totalSellQuantity": 656100,
+                    "totalTradedVolume": 579,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
-                    "askPrice": 4.8,
-                    "askQty": 5400,
+                    "askPrice": 4.75,
+                    "askQty": 2700,
                     "bidQty": 2700,
-                    "bidprice": 4.7,
+                    "bidprice": 4.65,
                     "change": 0.8500000000000001,
-                    "changeinOpenInterest": -3,
+                    "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOWERGRID25-05-2023PE240.00",
                     "impliedVolatility": 24.34,
                     "lastPrice": 4.75,
-                    "openInterest": 367,
+                    "openInterest": 369,
                     "pChange": 21.7948717948718,
-                    "pchangeinOpenInterest": -0.8108108108108109,
+                    "pchangeinOpenInterest": -0.2702702702702703,
                     "strikePrice": 240,
-                    "totalBuyQuantity": 467100,
-                    "totalSellQuantity": 302400,
-                    "totalTradedVolume": 173,
+                    "totalBuyQuantity": 461700,
+                    "totalSellQuantity": 305100,
+                    "totalTradedVolume": 181,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 240
@@ -1166,30 +1187,30 @@
             {
                 "CE": {
                     "askPrice": 2.05,
-                    "askQty": 16200,
-                    "bidQty": 8100,
+                    "askQty": 10800,
+                    "bidQty": 10800,
                     "bidprice": 1.95,
-                    "change": -0.3999999999999999,
+                    "change": -0.3500000000000001,
                     "changeinOpenInterest": 36,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOWERGRID25-05-2023CE242.50",
                     "impliedVolatility": 28.93,
-                    "lastPrice": 2,
+                    "lastPrice": 2.05,
                     "openInterest": 189,
-                    "pChange": -16.666666666666664,
+                    "pChange": -14.583333333333337,
                     "pchangeinOpenInterest": 23.529411764705884,
                     "strikePrice": 242.5,
-                    "totalBuyQuantity": 407700,
-                    "totalSellQuantity": 456300,
-                    "totalTradedVolume": 146,
+                    "totalBuyQuantity": 418500,
+                    "totalSellQuantity": 459000,
+                    "totalTradedVolume": 148,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.75
                 },
                 "PE": {
-                    "askPrice": 6.45,
+                    "askPrice": 6.35,
                     "askQty": 2700,
-                    "bidQty": 5400,
-                    "bidprice": 6.3,
+                    "bidQty": 2700,
+                    "bidprice": 6.25,
                     "change": 1,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
@@ -1200,11 +1221,11 @@
                     "pChange": 18.51851851851852,
                     "pchangeinOpenInterest": -0.6493506493506493,
                     "strikePrice": 242.5,
-                    "totalBuyQuantity": 283500,
+                    "totalBuyQuantity": 280800,
                     "totalSellQuantity": 145800,
                     "totalTradedVolume": 36,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 242.5
@@ -1212,9 +1233,9 @@
             {
                 "CE": {
                     "askPrice": 1.45,
-                    "askQty": 35100,
-                    "bidQty": 5400,
-                    "bidprice": 1.4,
+                    "askQty": 18900,
+                    "bidQty": 35100,
+                    "bidprice": 1.35,
                     "change": -0.25,
                     "changeinOpenInterest": 50,
                     "expiryDate": "25-May-2023",
@@ -1225,17 +1246,17 @@
                     "pChange": -15.151515151515152,
                     "pchangeinOpenInterest": 4.892367906066537,
                     "strikePrice": 245,
-                    "totalBuyQuantity": 604800,
-                    "totalSellQuantity": 737100,
-                    "totalTradedVolume": 301,
+                    "totalBuyQuantity": 602100,
+                    "totalSellQuantity": 729000,
+                    "totalTradedVolume": 311,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.75
                 },
                 "PE": {
-                    "askPrice": 8.35,
-                    "askQty": 8100,
+                    "askPrice": 8.25,
+                    "askQty": 2700,
                     "bidQty": 2700,
-                    "bidprice": 8.2,
+                    "bidprice": 8.1,
                     "change": 1.200000000000001,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1246,11 +1267,11 @@
                     "pChange": 16.901408450704242,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 245,
-                    "totalBuyQuantity": 288900,
+                    "totalBuyQuantity": 278100,
                     "totalSellQuantity": 253800,
                     "totalTradedVolume": 30,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 245
@@ -1258,30 +1279,30 @@
             {
                 "CE": {
                     "askPrice": 1,
-                    "askQty": 10800,
-                    "bidQty": 29700,
+                    "askQty": 16200,
+                    "bidQty": 21600,
                     "bidprice": 0.9,
-                    "change": -0.2499999999999999,
+                    "change": -0.19999999999999996,
                     "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOWERGRID25-05-2023CE247.50",
                     "impliedVolatility": 29.58,
-                    "lastPrice": 0.9,
+                    "lastPrice": 0.95,
                     "openInterest": 227,
-                    "pChange": -21.7391304347826,
+                    "pChange": -17.391304347826082,
                     "pchangeinOpenInterest": 1.3392857142857142,
                     "strikePrice": 247.5,
-                    "totalBuyQuantity": 415800,
-                    "totalSellQuantity": 504900,
-                    "totalTradedVolume": 94,
+                    "totalBuyQuantity": 421200,
+                    "totalSellQuantity": 507600,
+                    "totalTradedVolume": 99,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
-                    "askPrice": 10.45,
+                    "askPrice": 10.35,
                     "askQty": 2700,
                     "bidQty": 2700,
-                    "bidprice": 10.25,
+                    "bidprice": 10.1,
                     "change": -0.6499999999999986,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
@@ -1292,11 +1313,11 @@
                     "pChange": -6.532663316582902,
                     "pchangeinOpenInterest": -1.694915254237288,
                     "strikePrice": 247.5,
-                    "totalBuyQuantity": 237600,
-                    "totalSellQuantity": 229500,
+                    "totalBuyQuantity": 234900,
+                    "totalSellQuantity": 226800,
                     "totalTradedVolume": 4,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 247.5
@@ -1304,30 +1325,30 @@
             {
                 "CE": {
                     "askPrice": 0.7,
-                    "askQty": 48600,
-                    "bidQty": 10800,
-                    "bidprice": 0.65,
+                    "askQty": 56700,
+                    "bidQty": 86400,
+                    "bidprice": 0.6,
                     "change": -0.09999999999999998,
-                    "changeinOpenInterest": -36,
+                    "changeinOpenInterest": -35,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOWERGRID25-05-2023CE250.00",
                     "impliedVolatility": 30.92,
                     "lastPrice": 0.65,
-                    "openInterest": 1215,
+                    "openInterest": 1216,
                     "pChange": -13.33333333333333,
-                    "pchangeinOpenInterest": -2.8776978417266186,
+                    "pchangeinOpenInterest": -2.797761790567546,
                     "strikePrice": 250,
-                    "totalBuyQuantity": 3412800,
-                    "totalSellQuantity": 893700,
-                    "totalTradedVolume": 285,
+                    "totalBuyQuantity": 3383100,
+                    "totalSellQuantity": 909900,
+                    "totalTradedVolume": 300,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
-                    "askPrice": 12.65,
-                    "askQty": 5400,
+                    "askPrice": 12.6,
+                    "askQty": 2700,
                     "bidQty": 2700,
-                    "bidprice": 12.45,
+                    "bidprice": 12.3,
                     "change": 0.3000000000000007,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
@@ -1338,11 +1359,11 @@
                     "pChange": 2.7027027027027093,
                     "pchangeinOpenInterest": -1.098901098901099,
                     "strikePrice": 250,
-                    "totalBuyQuantity": 229500,
-                    "totalSellQuantity": 226800,
+                    "totalBuyQuantity": 232200,
+                    "totalSellQuantity": 224100,
                     "totalTradedVolume": 4,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 250
@@ -1351,29 +1372,29 @@
                 "CE": {
                     "askPrice": 0.4,
                     "askQty": 24300,
-                    "bidQty": 24300,
-                    "bidprice": 0.35,
-                    "change": -0.04999999999999999,
-                    "changeinOpenInterest": 4,
+                    "bidQty": 40500,
+                    "bidprice": 0.3,
+                    "change": -0.10000000000000003,
+                    "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOWERGRID25-05-2023CE252.50",
                     "impliedVolatility": 30.9,
-                    "lastPrice": 0.4,
-                    "openInterest": 188,
-                    "pChange": -11.111111111111107,
-                    "pchangeinOpenInterest": 2.1739130434782608,
+                    "lastPrice": 0.35,
+                    "openInterest": 187,
+                    "pChange": -22.22222222222223,
+                    "pchangeinOpenInterest": 1.6304347826086956,
                     "strikePrice": 252.5,
-                    "totalBuyQuantity": 1306800,
-                    "totalSellQuantity": 418500,
-                    "totalTradedVolume": 60,
+                    "totalBuyQuantity": 1285200,
+                    "totalSellQuantity": 429300,
+                    "totalTradedVolume": 95,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
-                    "askPrice": 14.85,
+                    "askPrice": 14.8,
                     "askQty": 2700,
                     "bidQty": 2700,
-                    "bidprice": 14.6,
+                    "bidprice": 14.5,
                     "change": 0.29999999999999893,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
@@ -1385,10 +1406,10 @@
                     "pchangeinOpenInterest": 2.7027027027027026,
                     "strikePrice": 252.5,
                     "totalBuyQuantity": 226800,
-                    "totalSellQuantity": 229500,
+                    "totalSellQuantity": 226800,
                     "totalTradedVolume": 3,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 252.5
@@ -1396,30 +1417,30 @@
             {
                 "CE": {
                     "askPrice": 0.2,
-                    "askQty": 83700,
-                    "bidQty": 245700,
+                    "askQty": 143100,
+                    "bidQty": 24300,
                     "bidprice": 0.15,
                     "change": 0,
-                    "changeinOpenInterest": 0,
+                    "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOWERGRID25-05-2023CE255.00",
                     "impliedVolatility": 29.83,
                     "lastPrice": 0.2,
-                    "openInterest": 2298,
+                    "openInterest": 2301,
                     "pChange": 0,
-                    "pchangeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0.13054830287206268,
                     "strikePrice": 255,
-                    "totalBuyQuantity": 2073600,
-                    "totalSellQuantity": 826200,
-                    "totalTradedVolume": 54,
+                    "totalBuyQuantity": 1868400,
+                    "totalSellQuantity": 888300,
+                    "totalTradedVolume": 68,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.75
                 },
                 "PE": {
-                    "askPrice": 17.2,
-                    "askQty": 56700,
-                    "bidQty": 5400,
-                    "bidprice": 16.85,
+                    "askPrice": 17.15,
+                    "askQty": 2700,
+                    "bidQty": 2700,
+                    "bidprice": 16.8,
                     "change": 1.0500000000000007,
                     "changeinOpenInterest": 13,
                     "expiryDate": "25-May-2023",
@@ -1430,11 +1451,11 @@
                     "pChange": 6.583072100313485,
                     "pchangeinOpenInterest": 9.701492537313433,
                     "strikePrice": 255,
-                    "totalBuyQuantity": 229500,
-                    "totalSellQuantity": 386100,
+                    "totalBuyQuantity": 234900,
+                    "totalSellQuantity": 383400,
                     "totalTradedVolume": 82,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 255
@@ -1443,8 +1464,8 @@
                 "CE": {
                     "askPrice": 0.2,
                     "askQty": 59400,
-                    "bidQty": 2700,
-                    "bidprice": 0.15,
+                    "bidQty": 175500,
+                    "bidprice": 0.1,
                     "change": 0,
                     "changeinOpenInterest": -5,
                     "expiryDate": "25-May-2023",
@@ -1459,13 +1480,13 @@
                     "totalSellQuantity": 340200,
                     "totalTradedVolume": 30,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
-                    "askPrice": 19.6,
+                    "askPrice": 19.65,
                     "askQty": 2700,
-                    "bidQty": 18900,
-                    "bidprice": 18.4,
+                    "bidQty": 10800,
+                    "bidprice": 18.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1476,11 +1497,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 257.5,
-                    "totalBuyQuantity": 151200,
+                    "totalBuyQuantity": 143100,
                     "totalSellQuantity": 135000,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 257.5
@@ -1488,30 +1509,30 @@
             {
                 "CE": {
                     "askPrice": 0.15,
-                    "askQty": 267300,
-                    "bidQty": 980100,
+                    "askQty": 210600,
+                    "bidQty": 985500,
                     "bidprice": 0.1,
                     "change": -0.04999999999999999,
-                    "changeinOpenInterest": -31,
+                    "changeinOpenInterest": -32,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOWERGRID25-05-2023CE260.00",
                     "impliedVolatility": 32.27,
                     "lastPrice": 0.1,
-                    "openInterest": 1053,
+                    "openInterest": 1052,
                     "pChange": -33.33333333333333,
-                    "pchangeinOpenInterest": -2.859778597785978,
+                    "pchangeinOpenInterest": -2.952029520295203,
                     "strikePrice": 260,
-                    "totalBuyQuantity": 3107700,
-                    "totalSellQuantity": 1015200,
-                    "totalTradedVolume": 77,
+                    "totalBuyQuantity": 3129300,
+                    "totalSellQuantity": 958500,
+                    "totalTradedVolume": 110,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
-                    "askPrice": 22.15,
+                    "askPrice": 22.1,
                     "askQty": 2700,
-                    "bidQty": 10800,
-                    "bidprice": 21.3,
+                    "bidQty": 8100,
+                    "bidprice": 21,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1522,11 +1543,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 260,
-                    "totalBuyQuantity": 232200,
+                    "totalBuyQuantity": 221400,
                     "totalSellQuantity": 210600,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 260
@@ -1534,7 +1555,7 @@
             {
                 "CE": {
                     "askPrice": 0.1,
-                    "askQty": 129600,
+                    "askQty": 78300,
                     "bidQty": 75600,
                     "bidprice": 0.05,
                     "change": 0,
@@ -1548,16 +1569,16 @@
                     "pchangeinOpenInterest": 0.7092198581560284,
                     "strikePrice": 262.5,
                     "totalBuyQuantity": 75600,
-                    "totalSellQuantity": 286200,
+                    "totalSellQuantity": 234900,
                     "totalTradedVolume": 6,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
-                    "askPrice": 24.7,
+                    "askPrice": 24.65,
                     "askQty": 2700,
                     "bidQty": 2700,
-                    "bidprice": 23.95,
+                    "bidprice": 23.9,
                     "change": 2.6499999999999986,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1572,7 +1593,7 @@
                     "totalSellQuantity": 135000,
                     "totalTradedVolume": 1,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 262.5
@@ -1580,24 +1601,24 @@
             {
                 "CE": {
                     "askPrice": 0.1,
-                    "askQty": 693900,
-                    "bidQty": 618300,
+                    "askQty": 675000,
+                    "bidQty": 510300,
                     "bidprice": 0.05,
-                    "change": 0.05,
+                    "change": 0,
                     "changeinOpenInterest": -4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOWERGRID25-05-2023CE265.00",
                     "impliedVolatility": 37.99,
-                    "lastPrice": 0.1,
+                    "lastPrice": 0.05,
                     "openInterest": 347,
-                    "pChange": 100,
+                    "pChange": 0,
                     "pchangeinOpenInterest": -1.1396011396011396,
                     "strikePrice": 265,
-                    "totalBuyQuantity": 618300,
-                    "totalSellQuantity": 1096200,
-                    "totalTradedVolume": 14,
+                    "totalBuyQuantity": 510300,
+                    "totalSellQuantity": 1093500,
+                    "totalTradedVolume": 25,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 28.6,
@@ -1618,7 +1639,7 @@
                     "totalSellQuantity": 132300,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 265
@@ -1643,7 +1664,7 @@
                     "totalSellQuantity": 202500,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 31,
@@ -1660,11 +1681,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 267.5,
-                    "totalBuyQuantity": 137700,
+                    "totalBuyQuantity": 132300,
                     "totalSellQuantity": 132300,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 267.5
@@ -1689,13 +1710,13 @@
                     "totalSellQuantity": 639900,
                     "totalTradedVolume": 35,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
-                    "askPrice": 32.65,
-                    "askQty": 8100,
-                    "bidQty": 8100,
-                    "bidprice": 29.95,
+                    "askPrice": 33.65,
+                    "askQty": 16200,
+                    "bidQty": 13500,
+                    "bidprice": 30.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1706,11 +1727,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 270,
-                    "totalBuyQuantity": 132300,
-                    "totalSellQuantity": 132300,
+                    "totalBuyQuantity": 137700,
+                    "totalSellQuantity": 124200,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 270
@@ -1735,7 +1756,7 @@
                     "totalSellQuantity": 167400,
                     "totalTradedVolume": 1,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 37,
@@ -1756,7 +1777,7 @@
                     "totalSellQuantity": 116100,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 272.5
@@ -1764,8 +1785,8 @@
             {
                 "CE": {
                     "askPrice": 0.1,
-                    "askQty": 108000,
-                    "bidQty": 191700,
+                    "askQty": 102600,
+                    "bidQty": 186300,
                     "bidprice": 0.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -1777,11 +1798,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 275,
-                    "totalBuyQuantity": 191700,
-                    "totalSellQuantity": 332100,
+                    "totalBuyQuantity": 186300,
+                    "totalSellQuantity": 310500,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 37.7,
@@ -1802,7 +1823,7 @@
                     "totalSellQuantity": 124200,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 275
@@ -1827,7 +1848,7 @@
                     "totalSellQuantity": 286200,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 42.3,
@@ -1848,7 +1869,7 @@
                     "totalSellQuantity": 116100,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 277.5
@@ -1873,7 +1894,7 @@
                     "totalSellQuantity": 140400,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 42.65,
@@ -1894,7 +1915,7 @@
                     "totalSellQuantity": 132300,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 280
@@ -1919,7 +1940,7 @@
                     "totalSellQuantity": 116100,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 282.5
@@ -1948,7 +1969,7 @@
                     "totalSellQuantity": 108000,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 177.5
@@ -1973,11 +1994,11 @@
                     "totalSellQuantity": 116100,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
-                    "askPrice": 2.6,
-                    "askQty": 108000,
+                    "askPrice": 0.4,
+                    "askQty": 2700,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -1991,10 +2012,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 180,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 108000,
+                    "totalSellQuantity": 56700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 180
@@ -2019,7 +2040,7 @@
                     "totalSellQuantity": 116100,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 0.7,
@@ -2040,7 +2061,7 @@
                     "totalSellQuantity": 56700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 182.5
@@ -2065,7 +2086,28 @@
                     "totalSellQuantity": 116100,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
+                },
+                "PE": {
+                    "askPrice": 0.5,
+                    "askQty": 2700,
+                    "bidQty": 0,
+                    "bidprice": 0,
+                    "change": 0,
+                    "changeinOpenInterest": 0,
+                    "expiryDate": "25-May-2023",
+                    "identifier": "OPTSTKPOWERGRID25-05-2023PE185.00",
+                    "impliedVolatility": 0,
+                    "lastPrice": 0,
+                    "openInterest": 0,
+                    "pChange": 0,
+                    "pchangeinOpenInterest": 0,
+                    "strikePrice": 185,
+                    "totalBuyQuantity": 0,
+                    "totalSellQuantity": 54000,
+                    "totalTradedVolume": 0,
+                    "underlying": "POWERGRID",
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 185
@@ -2090,7 +2132,7 @@
                     "totalSellQuantity": 116100,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 2.55,
@@ -2111,7 +2153,7 @@
                     "totalSellQuantity": 108000,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 187.5
@@ -2136,7 +2178,7 @@
                     "totalSellQuantity": 108000,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 187.5
@@ -2161,7 +2203,7 @@
                     "totalSellQuantity": 108000,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2182,7 +2224,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 190
@@ -2207,11 +2249,11 @@
                     "totalSellQuantity": 116100,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
-                    "askPrice": 0.35,
-                    "askQty": 10800,
+                    "askPrice": 0.3,
+                    "askQty": 2700,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -2225,10 +2267,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 190,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 70200,
+                    "totalSellQuantity": 99900,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 190
@@ -2253,7 +2295,7 @@
                     "totalSellQuantity": 116100,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 0.7,
@@ -2274,7 +2316,7 @@
                     "totalSellQuantity": 56700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 192.5
@@ -2299,7 +2341,7 @@
                     "totalSellQuantity": 108000,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 192.5
@@ -2324,7 +2366,7 @@
                     "totalSellQuantity": 116100,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.75
                 },
                 "PE": {
                     "askPrice": 0.95,
@@ -2345,7 +2387,7 @@
                     "totalSellQuantity": 24300,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 195
@@ -2370,7 +2412,7 @@
                     "totalSellQuantity": 116100,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 2,
@@ -2391,7 +2433,7 @@
                     "totalSellQuantity": 2700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.75
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 195
@@ -2416,7 +2458,7 @@
                     "totalSellQuantity": 116100,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.75
                 },
                 "PE": {
                     "askPrice": 0.7,
@@ -2437,7 +2479,7 @@
                     "totalSellQuantity": 59400,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 197.5
@@ -2462,14 +2504,14 @@
                     "totalSellQuantity": 108000,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 197.5
             },
             {
                 "CE": {
-                    "askPrice": 41.85,
+                    "askPrice": 41.25,
                     "askQty": 8100,
                     "bidQty": 8100,
                     "bidprice": 35.3,
@@ -2484,10 +2526,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 200,
                     "totalBuyQuantity": 116100,
-                    "totalSellQuantity": 116100,
+                    "totalSellQuantity": 121500,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 0.1,
@@ -2508,17 +2550,17 @@
                     "totalSellQuantity": 51300,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 200
             },
             {
                 "CE": {
-                    "askPrice": 49.15,
+                    "askPrice": 48.65,
                     "askQty": 108000,
                     "bidQty": 8100,
-                    "bidprice": 36.6,
+                    "bidprice": 36.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2533,7 +2575,7 @@
                     "totalSellQuantity": 108000,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2554,7 +2596,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 200
@@ -2579,7 +2621,7 @@
                     "totalSellQuantity": 116100,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 0.8,
@@ -2600,7 +2642,7 @@
                     "totalSellQuantity": 56700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 202.5
@@ -2625,14 +2667,14 @@
                     "totalSellQuantity": 108000,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 202.5
             },
             {
                 "CE": {
-                    "askPrice": 35.4,
+                    "askPrice": 37.1,
                     "askQty": 8100,
                     "bidQty": 8100,
                     "bidprice": 30.2,
@@ -2647,13 +2689,13 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 205,
                     "totalBuyQuantity": 116100,
-                    "totalSellQuantity": 121500,
+                    "totalSellQuantity": 116100,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.75
                 },
                 "PE": {
-                    "askPrice": 0.35,
+                    "askPrice": 0.25,
                     "askQty": 5400,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -2668,10 +2710,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 205,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 164700,
+                    "totalSellQuantity": 83700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 205
@@ -2696,7 +2738,7 @@
                     "totalSellQuantity": 118800,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.75
                 },
                 "PE": {
                     "askPrice": 2.6,
@@ -2717,7 +2759,7 @@
                     "totalSellQuantity": 2700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 205
@@ -2742,7 +2784,7 @@
                     "totalSellQuantity": 116100,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 2.35,
@@ -2763,7 +2805,7 @@
                     "totalSellQuantity": 132300,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 207.5
@@ -2788,7 +2830,7 @@
                     "totalSellQuantity": 118800,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 2.7,
@@ -2809,7 +2851,7 @@
                     "totalSellQuantity": 2700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 207.5
@@ -2834,12 +2876,12 @@
                     "totalSellQuantity": 132300,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 0.15,
-                    "askQty": 2700,
-                    "bidQty": 64800,
+                    "askQty": 5400,
+                    "bidQty": 83700,
                     "bidprice": 0.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -2851,11 +2893,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 210,
-                    "totalBuyQuantity": 361800,
-                    "totalSellQuantity": 224100,
+                    "totalBuyQuantity": 380700,
+                    "totalSellQuantity": 251100,
                     "totalTradedVolume": 2,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 210
@@ -2880,7 +2922,7 @@
                     "totalSellQuantity": 118800,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 2.8,
@@ -2901,7 +2943,7 @@
                     "totalSellQuantity": 2700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 210
@@ -2926,7 +2968,7 @@
                     "totalSellQuantity": 116100,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 1.3,
@@ -2947,7 +2989,7 @@
                     "totalSellQuantity": 21600,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 212.5
@@ -2972,7 +3014,7 @@
                     "totalSellQuantity": 118800,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 2.95,
@@ -2993,7 +3035,7 @@
                     "totalSellQuantity": 2700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 212.5
@@ -3018,7 +3060,7 @@
                     "totalSellQuantity": 140400,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 0.2,
@@ -3039,7 +3081,7 @@
                     "totalSellQuantity": 151200,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 215
@@ -3064,7 +3106,7 @@
                     "totalSellQuantity": 110700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3085,7 +3127,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 1,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 215
@@ -3110,7 +3152,7 @@
                     "totalSellQuantity": 118800,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 3.3,
@@ -3131,14 +3173,14 @@
                     "totalSellQuantity": 2700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.75
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 217.5
             },
             {
                 "CE": {
-                    "askPrice": 22.35,
+                    "askPrice": 22.45,
                     "askQty": 8100,
                     "bidQty": 8100,
                     "bidprice": 19.6,
@@ -3153,14 +3195,14 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 217.5,
                     "totalBuyQuantity": 140400,
-                    "totalSellQuantity": 145800,
+                    "totalSellQuantity": 140400,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
-                    "askPrice": 1.45,
-                    "askQty": 8100,
+                    "askPrice": 0.85,
+                    "askQty": 5400,
                     "bidQty": 32400,
                     "bidprice": 0.05,
                     "change": 0,
@@ -3174,10 +3216,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 217.5,
                     "totalBuyQuantity": 32400,
-                    "totalSellQuantity": 24300,
+                    "totalSellQuantity": 35100,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 217.5
@@ -3202,7 +3244,7 @@
                     "totalSellQuantity": 118800,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 2.9,
@@ -3223,17 +3265,17 @@
                     "totalSellQuantity": 5400,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 220
             },
             {
                 "CE": {
-                    "askPrice": 19.15,
-                    "askQty": 10800,
-                    "bidQty": 2700,
-                    "bidprice": 17.6,
+                    "askPrice": 19.2,
+                    "askQty": 8100,
+                    "bidQty": 8100,
+                    "bidprice": 17.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3244,16 +3286,16 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 220,
-                    "totalBuyQuantity": 218700,
-                    "totalSellQuantity": 183600,
+                    "totalBuyQuantity": 226800,
+                    "totalSellQuantity": 216000,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
-                    "askPrice": 0.25,
-                    "askQty": 10800,
-                    "bidQty": 102600,
+                    "askPrice": 0.3,
+                    "askQty": 16200,
+                    "bidQty": 129600,
                     "bidprice": 0.2,
                     "change": 0.04999999999999999,
                     "changeinOpenInterest": -24,
@@ -3267,9 +3309,9 @@
                     "strikePrice": 220,
                     "totalBuyQuantity": 880200,
                     "totalSellQuantity": 369900,
-                    "totalTradedVolume": 36,
+                    "totalTradedVolume": 58,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 220
@@ -3294,28 +3336,28 @@
                     "totalSellQuantity": 145800,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.75
                 },
                 "PE": {
-                    "askPrice": 0.3,
-                    "askQty": 5400,
-                    "bidQty": 10800,
+                    "askPrice": 0.35,
+                    "askQty": 13500,
+                    "bidQty": 16200,
                     "bidprice": 0.2,
-                    "change": -0.04999999999999999,
+                    "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOWERGRID25-05-2023PE222.50",
                     "impliedVolatility": 31.1,
-                    "lastPrice": 0.25,
+                    "lastPrice": 0.3,
                     "openInterest": 49,
-                    "pChange": -16.666666666666664,
+                    "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 222.5,
                     "totalBuyQuantity": 313200,
-                    "totalSellQuantity": 305100,
-                    "totalTradedVolume": 1,
+                    "totalSellQuantity": 329400,
+                    "totalTradedVolume": 4,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 222.5
@@ -3340,7 +3382,7 @@
                     "totalSellQuantity": 118800,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 3.95,
@@ -3361,7 +3403,7 @@
                     "totalSellQuantity": 2700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 222.5
@@ -3386,7 +3428,7 @@
                     "totalSellQuantity": 2700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 222.5
@@ -3411,7 +3453,7 @@
                     "totalSellQuantity": 118800,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 4,
@@ -3432,7 +3474,7 @@
                     "totalSellQuantity": 8100,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 225
@@ -3457,17 +3499,17 @@
                     "totalSellQuantity": 2700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 225
             },
             {
                 "CE": {
-                    "askPrice": 13.75,
+                    "askPrice": 13.8,
                     "askQty": 2700,
                     "bidQty": 2700,
-                    "bidprice": 13.3,
+                    "bidprice": 13.5,
                     "change": -0.34999999999999964,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3478,11 +3520,11 @@
                     "pChange": -2.3569023569023546,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 225,
-                    "totalBuyQuantity": 148500,
-                    "totalSellQuantity": 137700,
+                    "totalBuyQuantity": 140400,
+                    "totalSellQuantity": 145800,
                     "totalTradedVolume": 1,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 0.45,
@@ -3503,7 +3545,7 @@
                     "totalSellQuantity": 448200,
                     "totalTradedVolume": 12,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 225
@@ -3512,8 +3554,8 @@
                 "CE": {
                     "askPrice": 19.45,
                     "askQty": 8100,
-                    "bidQty": 8100,
-                    "bidprice": 11.35,
+                    "bidQty": 2700,
+                    "bidprice": 11.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3524,11 +3566,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 227.5,
-                    "totalBuyQuantity": 118800,
+                    "totalBuyQuantity": 110700,
                     "totalSellQuantity": 118800,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 4.85,
@@ -3546,10 +3588,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 227.5,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 110700,
+                    "totalSellQuantity": 218700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 227.5
@@ -3574,17 +3616,17 @@
                     "totalSellQuantity": 2700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 227.5
             },
             {
                 "CE": {
-                    "askPrice": 12.2,
+                    "askPrice": 12.4,
                     "askQty": 10800,
                     "bidQty": 2700,
-                    "bidprice": 10.6,
+                    "bidprice": 10.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3595,16 +3637,16 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 227.5,
-                    "totalBuyQuantity": 145800,
-                    "totalSellQuantity": 148500,
+                    "totalBuyQuantity": 148500,
+                    "totalSellQuantity": 145800,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 0.65,
-                    "askQty": 5400,
-                    "bidQty": 16200,
+                    "askQty": 8100,
+                    "bidQty": 5400,
                     "bidprice": 0.6,
                     "change": 0,
                     "changeinOpenInterest": -1,
@@ -3616,21 +3658,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": -2.4390243902439024,
                     "strikePrice": 227.5,
-                    "totalBuyQuantity": 669600,
+                    "totalBuyQuantity": 661500,
                     "totalSellQuantity": 380700,
                     "totalTradedVolume": 3,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 227.5
             },
             {
                 "CE": {
-                    "askPrice": 9.2,
-                    "askQty": 16200,
-                    "bidQty": 2700,
-                    "bidprice": 9,
+                    "askPrice": 9.25,
+                    "askQty": 5400,
+                    "bidQty": 5400,
+                    "bidprice": 9.05,
                     "change": -1.25,
                     "changeinOpenInterest": -7,
                     "expiryDate": "25-May-2023",
@@ -3641,63 +3683,63 @@
                     "pChange": -12.135922330097086,
                     "pchangeinOpenInterest": -5.223880597014926,
                     "strikePrice": 230,
-                    "totalBuyQuantity": 253800,
-                    "totalSellQuantity": 264600,
+                    "totalBuyQuantity": 256500,
+                    "totalSellQuantity": 253800,
                     "totalTradedVolume": 515,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
-                    "askPrice": 1,
-                    "askQty": 37800,
-                    "bidQty": 35100,
+                    "askPrice": 0.95,
+                    "askQty": 8100,
+                    "bidQty": 29700,
                     "bidprice": 0.9,
-                    "change": 0.09999999999999998,
-                    "changeinOpenInterest": -31,
+                    "change": 0.1499999999999999,
+                    "changeinOpenInterest": -35,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOWERGRID25-05-2023PE230.00",
                     "impliedVolatility": 27.55,
-                    "lastPrice": 0.9,
-                    "openInterest": 542,
-                    "pChange": 12.499999999999996,
-                    "pchangeinOpenInterest": -5.4101221640488655,
+                    "lastPrice": 0.95,
+                    "openInterest": 538,
+                    "pChange": 18.74999999999999,
+                    "pchangeinOpenInterest": -6.108202443280978,
                     "strikePrice": 230,
-                    "totalBuyQuantity": 2130300,
-                    "totalSellQuantity": 542700,
-                    "totalTradedVolume": 213,
+                    "totalBuyQuantity": 2127600,
+                    "totalSellQuantity": 545400,
+                    "totalTradedVolume": 218,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 230
             },
             {
                 "CE": {
-                    "askPrice": 13.35,
+                    "askPrice": 13.45,
                     "askQty": 2700,
                     "bidQty": 2700,
-                    "bidprice": 12.5,
-                    "change": 0,
+                    "bidprice": 12.25,
+                    "change": -1.3000000000000007,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKPOWERGRID29-06-2023CE230.00",
                     "impliedVolatility": 0,
-                    "lastPrice": 0,
+                    "lastPrice": 12.7,
                     "openInterest": 11,
-                    "pChange": 0,
+                    "pChange": -9.28571428571429,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 230,
-                    "totalBuyQuantity": 113400,
-                    "totalSellQuantity": 8100,
-                    "totalTradedVolume": 0,
+                    "totalBuyQuantity": 116100,
+                    "totalSellQuantity": 10800,
+                    "totalTradedVolume": 2,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
-                    "askPrice": 3.3,
+                    "askPrice": 3.4,
                     "askQty": 2700,
-                    "bidQty": 5400,
-                    "bidprice": 2.9,
+                    "bidQty": 2700,
+                    "bidprice": 3.05,
                     "change": 0.1499999999999999,
                     "changeinOpenInterest": 1,
                     "expiryDate": "29-Jun-2023",
@@ -3708,11 +3750,11 @@
                     "pChange": 5.263157894736839,
                     "pchangeinOpenInterest": 2.7777777777777777,
                     "strikePrice": 230,
-                    "totalBuyQuantity": 170100,
+                    "totalBuyQuantity": 175500,
                     "totalSellQuantity": 48600,
                     "totalTradedVolume": 6,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 230
@@ -3737,17 +3779,17 @@
                     "totalSellQuantity": 2700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 230
             },
             {
                 "CE": {
-                    "askPrice": 7.3,
+                    "askPrice": 7.35,
                     "askQty": 2700,
-                    "bidQty": 2700,
-                    "bidprice": 6.95,
+                    "bidQty": 5400,
+                    "bidprice": 7.05,
                     "change": -0.04999999999999982,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3762,28 +3804,28 @@
                     "totalSellQuantity": 226800,
                     "totalTradedVolume": 2,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.75
                 },
                 "PE": {
-                    "askPrice": 1.55,
-                    "askQty": 5400,
-                    "bidQty": 13500,
-                    "bidprice": 1.45,
-                    "change": 0.30000000000000004,
+                    "askPrice": 1.5,
+                    "askQty": 8100,
+                    "bidQty": 16200,
+                    "bidprice": 1.4,
+                    "change": 0.19999999999999996,
                     "changeinOpenInterest": -12,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOWERGRID25-05-2023PE232.50",
                     "impliedVolatility": 27.29,
-                    "lastPrice": 1.55,
+                    "lastPrice": 1.45,
                     "openInterest": 52,
-                    "pChange": 24.000000000000004,
+                    "pChange": 15.999999999999998,
                     "pchangeinOpenInterest": -18.75,
                     "strikePrice": 232.5,
-                    "totalBuyQuantity": 693900,
-                    "totalSellQuantity": 423900,
-                    "totalTradedVolume": 36,
+                    "totalBuyQuantity": 683100,
+                    "totalSellQuantity": 442800,
+                    "totalTradedVolume": 37,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 232.5
@@ -3808,7 +3850,7 @@
                     "totalSellQuantity": 110700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 6.2,
@@ -3829,60 +3871,60 @@
                     "totalSellQuantity": 110700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 232.5
             },
             {
                 "CE": {
-                    "askPrice": 5.35,
-                    "askQty": 2700,
-                    "bidQty": 16200,
-                    "bidprice": 5.25,
-                    "change": -0.9000000000000004,
-                    "changeinOpenInterest": 2,
+                    "askPrice": 5.45,
+                    "askQty": 10800,
+                    "bidQty": 10800,
+                    "bidprice": 5.3,
+                    "change": -0.8499999999999996,
+                    "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOWERGRID25-05-2023CE235.00",
                     "impliedVolatility": 29.24,
-                    "lastPrice": 5.35,
-                    "openInterest": 200,
-                    "pChange": -14.400000000000004,
-                    "pchangeinOpenInterest": 1.0101010101010102,
+                    "lastPrice": 5.4,
+                    "openInterest": 201,
+                    "pChange": -13.599999999999996,
+                    "pchangeinOpenInterest": 1.5151515151515151,
                     "strikePrice": 235,
-                    "totalBuyQuantity": 267300,
-                    "totalSellQuantity": 278100,
-                    "totalTradedVolume": 278,
+                    "totalBuyQuantity": 272700,
+                    "totalSellQuantity": 283500,
+                    "totalTradedVolume": 281,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 2.3,
-                    "askQty": 16200,
+                    "askQty": 10800,
                     "bidQty": 5400,
-                    "bidprice": 2.25,
-                    "change": 0.30000000000000027,
-                    "changeinOpenInterest": 4,
+                    "bidprice": 2.2,
+                    "change": 0.3500000000000001,
+                    "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOWERGRID25-05-2023PE235.00",
                     "impliedVolatility": 26.82,
-                    "lastPrice": 2.2,
-                    "openInterest": 279,
-                    "pChange": 15.789473684210542,
-                    "pchangeinOpenInterest": 1.4545454545454546,
+                    "lastPrice": 2.25,
+                    "openInterest": 278,
+                    "pChange": 18.421052631578952,
+                    "pchangeinOpenInterest": 1.0909090909090908,
                     "strikePrice": 235,
-                    "totalBuyQuantity": 434700,
-                    "totalSellQuantity": 453600,
-                    "totalTradedVolume": 113,
+                    "totalBuyQuantity": 421200,
+                    "totalSellQuantity": 461700,
+                    "totalTradedVolume": 120,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 235
             },
             {
                 "CE": {
-                    "askPrice": 11.3,
+                    "askPrice": 10.95,
                     "askQty": 2700,
                     "bidQty": 2700,
                     "bidprice": 8.5,
@@ -3900,13 +3942,13 @@
                     "totalSellQuantity": 113400,
                     "totalTradedVolume": 1,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
-                    "askPrice": 5.95,
+                    "askPrice": 5.9,
                     "askQty": 2700,
                     "bidQty": 2700,
-                    "bidprice": 3.8,
+                    "bidprice": 3.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3917,11 +3959,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 235,
-                    "totalBuyQuantity": 10800,
-                    "totalSellQuantity": 5400,
+                    "totalBuyQuantity": 13500,
+                    "totalSellQuantity": 116100,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 235
@@ -3946,60 +3988,60 @@
                     "totalSellQuantity": 2700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 235
             },
             {
                 "CE": {
-                    "askPrice": 4,
-                    "askQty": 10800,
-                    "bidQty": 8100,
-                    "bidprice": 3.9,
-                    "change": -0.7000000000000002,
+                    "askPrice": 4.05,
+                    "askQty": 5400,
+                    "bidQty": 10800,
+                    "bidprice": 3.95,
+                    "change": -0.75,
                     "changeinOpenInterest": 4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOWERGRID25-05-2023CE237.50",
                     "impliedVolatility": 28.55,
-                    "lastPrice": 4,
+                    "lastPrice": 3.95,
                     "openInterest": 72,
-                    "pChange": -14.893617021276597,
+                    "pChange": -15.957446808510637,
                     "pchangeinOpenInterest": 5.882352941176471,
                     "strikePrice": 237.5,
-                    "totalBuyQuantity": 183600,
-                    "totalSellQuantity": 305100,
-                    "totalTradedVolume": 122,
+                    "totalBuyQuantity": 194400,
+                    "totalSellQuantity": 299700,
+                    "totalTradedVolume": 126,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 3.35,
                     "askQty": 5400,
-                    "bidQty": 8100,
+                    "bidQty": 5400,
                     "bidprice": 3.25,
-                    "change": 0.5499999999999998,
-                    "changeinOpenInterest": 13,
+                    "change": 0.5,
+                    "changeinOpenInterest": 11,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOWERGRID25-05-2023PE237.50",
                     "impliedVolatility": 26.29,
-                    "lastPrice": 3.3,
-                    "openInterest": 109,
-                    "pChange": 19.999999999999993,
-                    "pchangeinOpenInterest": 13.541666666666666,
+                    "lastPrice": 3.25,
+                    "openInterest": 107,
+                    "pChange": 18.181818181818183,
+                    "pchangeinOpenInterest": 11.458333333333334,
                     "strikePrice": 237.5,
-                    "totalBuyQuantity": 456300,
-                    "totalSellQuantity": 410400,
-                    "totalTradedVolume": 128,
+                    "totalBuyQuantity": 453600,
+                    "totalSellQuantity": 415800,
+                    "totalTradedVolume": 136,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 237.5
             },
             {
                 "CE": {
-                    "askPrice": 11.7,
+                    "askPrice": 11.6,
                     "askQty": 2700,
                     "bidQty": 2700,
                     "bidprice": 5.8,
@@ -4017,7 +4059,7 @@
                     "totalSellQuantity": 113400,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 8.5,
@@ -4038,14 +4080,14 @@
                     "totalSellQuantity": 221400,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 237.5
             },
             {
                 "CE": {
-                    "askPrice": 17.65,
+                    "askPrice": 14.1,
                     "askQty": 2700,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -4060,18 +4102,18 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 237.5,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 2700,
+                    "totalSellQuantity": 5400,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 237.5
             },
             {
                 "CE": {
-                    "askPrice": 7.3,
-                    "askQty": 16200,
+                    "askPrice": 7.4,
+                    "askQty": 5400,
                     "bidQty": 2700,
                     "bidprice": 6.95,
                     "change": -0.39999999999999947,
@@ -4084,17 +4126,17 @@
                     "pChange": -5.263157894736835,
                     "pchangeinOpenInterest": 12,
                     "strikePrice": 240,
-                    "totalBuyQuantity": 313200,
-                    "totalSellQuantity": 129600,
+                    "totalBuyQuantity": 299700,
+                    "totalSellQuantity": 118800,
                     "totalTradedVolume": 6,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
-                    "askPrice": 8.45,
+                    "askPrice": 7.45,
                     "askQty": 2700,
                     "bidQty": 2700,
-                    "bidprice": 6.55,
+                    "bidprice": 6.4,
                     "change": -0.15000000000000036,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4105,64 +4147,64 @@
                     "pChange": -2.158273381294969,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 240,
-                    "totalBuyQuantity": 13500,
-                    "totalSellQuantity": 21600,
+                    "totalBuyQuantity": 16200,
+                    "totalSellQuantity": 27000,
                     "totalTradedVolume": 2,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 240
             },
             {
                 "CE": {
-                    "askPrice": 2.9,
-                    "askQty": 16200,
-                    "bidQty": 8100,
-                    "bidprice": 2.85,
-                    "change": -0.4500000000000002,
-                    "changeinOpenInterest": 57,
+                    "askPrice": 2.85,
+                    "askQty": 5400,
+                    "bidQty": 16200,
+                    "bidprice": 2.8,
+                    "change": -0.5,
+                    "changeinOpenInterest": 62,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOWERGRID25-05-2023CE240.00",
                     "impliedVolatility": 28.93,
-                    "lastPrice": 2.9,
-                    "openInterest": 562,
-                    "pChange": -13.432835820895528,
-                    "pchangeinOpenInterest": 11.287128712871286,
+                    "lastPrice": 2.85,
+                    "openInterest": 567,
+                    "pChange": -14.925373134328357,
+                    "pchangeinOpenInterest": 12.277227722772277,
                     "strikePrice": 240,
-                    "totalBuyQuantity": 634500,
-                    "totalSellQuantity": 637200,
-                    "totalTradedVolume": 559,
+                    "totalBuyQuantity": 631800,
+                    "totalSellQuantity": 656100,
+                    "totalTradedVolume": 579,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
-                    "askPrice": 4.8,
-                    "askQty": 5400,
+                    "askPrice": 4.75,
+                    "askQty": 2700,
                     "bidQty": 2700,
-                    "bidprice": 4.7,
+                    "bidprice": 4.65,
                     "change": 0.8500000000000001,
-                    "changeinOpenInterest": -3,
+                    "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOWERGRID25-05-2023PE240.00",
                     "impliedVolatility": 24.34,
                     "lastPrice": 4.75,
-                    "openInterest": 367,
+                    "openInterest": 369,
                     "pChange": 21.7948717948718,
-                    "pchangeinOpenInterest": -0.8108108108108109,
+                    "pchangeinOpenInterest": -0.2702702702702703,
                     "strikePrice": 240,
-                    "totalBuyQuantity": 467100,
-                    "totalSellQuantity": 302400,
-                    "totalTradedVolume": 173,
+                    "totalBuyQuantity": 461700,
+                    "totalSellQuantity": 305100,
+                    "totalTradedVolume": 181,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 240
             },
             {
                 "CE": {
-                    "askPrice": 13.85,
+                    "askPrice": 13.4,
                     "askQty": 2700,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -4180,7 +4222,7 @@
                     "totalSellQuantity": 8100,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 15.1,
@@ -4201,7 +4243,7 @@
                     "totalSellQuantity": 2700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 240
@@ -4209,30 +4251,30 @@
             {
                 "CE": {
                     "askPrice": 2.05,
-                    "askQty": 16200,
-                    "bidQty": 8100,
+                    "askQty": 10800,
+                    "bidQty": 10800,
                     "bidprice": 1.95,
-                    "change": -0.3999999999999999,
+                    "change": -0.3500000000000001,
                     "changeinOpenInterest": 36,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOWERGRID25-05-2023CE242.50",
                     "impliedVolatility": 28.93,
-                    "lastPrice": 2,
+                    "lastPrice": 2.05,
                     "openInterest": 189,
-                    "pChange": -16.666666666666664,
+                    "pChange": -14.583333333333337,
                     "pchangeinOpenInterest": 23.529411764705884,
                     "strikePrice": 242.5,
-                    "totalBuyQuantity": 407700,
-                    "totalSellQuantity": 456300,
-                    "totalTradedVolume": 146,
+                    "totalBuyQuantity": 418500,
+                    "totalSellQuantity": 459000,
+                    "totalTradedVolume": 148,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.75
                 },
                 "PE": {
-                    "askPrice": 6.45,
+                    "askPrice": 6.35,
                     "askQty": 2700,
-                    "bidQty": 5400,
-                    "bidprice": 6.3,
+                    "bidQty": 2700,
+                    "bidprice": 6.25,
                     "change": 1,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
@@ -4243,18 +4285,18 @@
                     "pChange": 18.51851851851852,
                     "pchangeinOpenInterest": -0.6493506493506493,
                     "strikePrice": 242.5,
-                    "totalBuyQuantity": 283500,
+                    "totalBuyQuantity": 280800,
                     "totalSellQuantity": 145800,
                     "totalTradedVolume": 36,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 242.5
             },
             {
                 "CE": {
-                    "askPrice": 7.2,
+                    "askPrice": 7.25,
                     "askQty": 5400,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -4272,7 +4314,7 @@
                     "totalSellQuantity": 118800,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 11.4,
@@ -4293,7 +4335,7 @@
                     "totalSellQuantity": 110700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 242.5
@@ -4318,7 +4360,7 @@
                     "totalSellQuantity": 8100,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 242.5
@@ -4326,9 +4368,9 @@
             {
                 "CE": {
                     "askPrice": 1.45,
-                    "askQty": 35100,
-                    "bidQty": 5400,
-                    "bidprice": 1.4,
+                    "askQty": 18900,
+                    "bidQty": 35100,
+                    "bidprice": 1.35,
                     "change": -0.25,
                     "changeinOpenInterest": 50,
                     "expiryDate": "25-May-2023",
@@ -4339,17 +4381,17 @@
                     "pChange": -15.151515151515152,
                     "pchangeinOpenInterest": 4.892367906066537,
                     "strikePrice": 245,
-                    "totalBuyQuantity": 604800,
-                    "totalSellQuantity": 737100,
-                    "totalTradedVolume": 301,
+                    "totalBuyQuantity": 602100,
+                    "totalSellQuantity": 729000,
+                    "totalTradedVolume": 311,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.75
                 },
                 "PE": {
-                    "askPrice": 8.35,
-                    "askQty": 8100,
+                    "askPrice": 8.25,
+                    "askQty": 2700,
                     "bidQty": 2700,
-                    "bidprice": 8.2,
+                    "bidprice": 8.1,
                     "change": 1.200000000000001,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4360,21 +4402,21 @@
                     "pChange": 16.901408450704242,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 245,
-                    "totalBuyQuantity": 288900,
+                    "totalBuyQuantity": 278100,
                     "totalSellQuantity": 253800,
                     "totalTradedVolume": 30,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 245
             },
             {
                 "CE": {
-                    "askPrice": 6,
+                    "askPrice": 5.95,
                     "askQty": 2700,
                     "bidQty": 2700,
-                    "bidprice": 4.35,
+                    "bidprice": 4.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4385,17 +4427,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 245,
-                    "totalBuyQuantity": 5400,
+                    "totalBuyQuantity": 8100,
                     "totalSellQuantity": 5400,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
-                    "askPrice": 12.6,
+                    "askPrice": 12.75,
                     "askQty": 2700,
                     "bidQty": 8100,
-                    "bidprice": 7.6,
+                    "bidprice": 7.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4406,11 +4448,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 245,
-                    "totalBuyQuantity": 13500,
-                    "totalSellQuantity": 116100,
+                    "totalBuyQuantity": 10800,
+                    "totalSellQuantity": 113400,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 245
@@ -4435,7 +4477,7 @@
                     "totalSellQuantity": 5400,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 17.75,
@@ -4456,14 +4498,14 @@
                     "totalSellQuantity": 2700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 245
             },
             {
                 "CE": {
-                    "askPrice": 6.25,
+                    "askPrice": 4.9,
                     "askQty": 2700,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -4478,16 +4520,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 247.5,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 5400,
+                    "totalSellQuantity": 8100,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
-                    "askPrice": 16,
-                    "askQty": 10800,
+                    "askPrice": 15.55,
+                    "askQty": 8100,
                     "bidQty": 2700,
-                    "bidprice": 6.55,
+                    "bidprice": 7.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4498,11 +4540,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 247.5,
-                    "totalBuyQuantity": 2700,
+                    "totalBuyQuantity": 5400,
                     "totalSellQuantity": 118800,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 247.5
@@ -4510,30 +4552,30 @@
             {
                 "CE": {
                     "askPrice": 1,
-                    "askQty": 10800,
-                    "bidQty": 29700,
+                    "askQty": 16200,
+                    "bidQty": 21600,
                     "bidprice": 0.9,
-                    "change": -0.2499999999999999,
+                    "change": -0.19999999999999996,
                     "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOWERGRID25-05-2023CE247.50",
                     "impliedVolatility": 29.58,
-                    "lastPrice": 0.9,
+                    "lastPrice": 0.95,
                     "openInterest": 227,
-                    "pChange": -21.7391304347826,
+                    "pChange": -17.391304347826082,
                     "pchangeinOpenInterest": 1.3392857142857142,
                     "strikePrice": 247.5,
-                    "totalBuyQuantity": 415800,
-                    "totalSellQuantity": 504900,
-                    "totalTradedVolume": 94,
+                    "totalBuyQuantity": 421200,
+                    "totalSellQuantity": 507600,
+                    "totalTradedVolume": 99,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
-                    "askPrice": 10.45,
+                    "askPrice": 10.35,
                     "askQty": 2700,
                     "bidQty": 2700,
-                    "bidprice": 10.25,
+                    "bidprice": 10.1,
                     "change": -0.6499999999999986,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
@@ -4544,11 +4586,11 @@
                     "pChange": -6.532663316582902,
                     "pchangeinOpenInterest": -1.694915254237288,
                     "strikePrice": 247.5,
-                    "totalBuyQuantity": 237600,
-                    "totalSellQuantity": 229500,
+                    "totalBuyQuantity": 234900,
+                    "totalSellQuantity": 226800,
                     "totalTradedVolume": 4,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 247.5
@@ -4573,7 +4615,7 @@
                     "totalSellQuantity": 2700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 247.5
@@ -4581,30 +4623,30 @@
             {
                 "CE": {
                     "askPrice": 0.7,
-                    "askQty": 48600,
-                    "bidQty": 10800,
-                    "bidprice": 0.65,
+                    "askQty": 56700,
+                    "bidQty": 86400,
+                    "bidprice": 0.6,
                     "change": -0.09999999999999998,
-                    "changeinOpenInterest": -36,
+                    "changeinOpenInterest": -35,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOWERGRID25-05-2023CE250.00",
                     "impliedVolatility": 30.92,
                     "lastPrice": 0.65,
-                    "openInterest": 1215,
+                    "openInterest": 1216,
                     "pChange": -13.33333333333333,
-                    "pchangeinOpenInterest": -2.8776978417266186,
+                    "pchangeinOpenInterest": -2.797761790567546,
                     "strikePrice": 250,
-                    "totalBuyQuantity": 3412800,
-                    "totalSellQuantity": 893700,
-                    "totalTradedVolume": 285,
+                    "totalBuyQuantity": 3383100,
+                    "totalSellQuantity": 909900,
+                    "totalTradedVolume": 300,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
-                    "askPrice": 12.65,
-                    "askQty": 5400,
+                    "askPrice": 12.6,
+                    "askQty": 2700,
                     "bidQty": 2700,
-                    "bidprice": 12.45,
+                    "bidprice": 12.3,
                     "change": 0.3000000000000007,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
@@ -4615,11 +4657,11 @@
                     "pChange": 2.7027027027027093,
                     "pchangeinOpenInterest": -1.098901098901099,
                     "strikePrice": 250,
-                    "totalBuyQuantity": 229500,
-                    "totalSellQuantity": 226800,
+                    "totalBuyQuantity": 232200,
+                    "totalSellQuantity": 224100,
                     "totalTradedVolume": 4,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 250
@@ -4627,30 +4669,30 @@
             {
                 "CE": {
                     "askPrice": 3.75,
-                    "askQty": 5400,
-                    "bidQty": 2700,
+                    "askQty": 2700,
+                    "bidQty": 16200,
                     "bidprice": 3.65,
-                    "change": -0.30000000000000027,
+                    "change": -0.25,
                     "changeinOpenInterest": 4,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKPOWERGRID29-06-2023CE250.00",
                     "impliedVolatility": 23.71,
-                    "lastPrice": 3.65,
+                    "lastPrice": 3.7,
                     "openInterest": 94,
-                    "pChange": -7.594936708860765,
+                    "pChange": -6.329113924050632,
                     "pchangeinOpenInterest": 4.444444444444445,
                     "strikePrice": 250,
-                    "totalBuyQuantity": 286200,
+                    "totalBuyQuantity": 307800,
                     "totalSellQuantity": 162000,
-                    "totalTradedVolume": 8,
+                    "totalTradedVolume": 9,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 14.85,
                     "askQty": 2700,
                     "bidQty": 2700,
-                    "bidprice": 13.15,
+                    "bidprice": 10.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4665,7 +4707,7 @@
                     "totalSellQuantity": 116100,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 250
@@ -4674,29 +4716,29 @@
                 "CE": {
                     "askPrice": 0.4,
                     "askQty": 24300,
-                    "bidQty": 24300,
-                    "bidprice": 0.35,
-                    "change": -0.04999999999999999,
-                    "changeinOpenInterest": 4,
+                    "bidQty": 40500,
+                    "bidprice": 0.3,
+                    "change": -0.10000000000000003,
+                    "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOWERGRID25-05-2023CE252.50",
                     "impliedVolatility": 30.9,
-                    "lastPrice": 0.4,
-                    "openInterest": 188,
-                    "pChange": -11.111111111111107,
-                    "pchangeinOpenInterest": 2.1739130434782608,
+                    "lastPrice": 0.35,
+                    "openInterest": 187,
+                    "pChange": -22.22222222222223,
+                    "pchangeinOpenInterest": 1.6304347826086956,
                     "strikePrice": 252.5,
-                    "totalBuyQuantity": 1306800,
-                    "totalSellQuantity": 418500,
-                    "totalTradedVolume": 60,
+                    "totalBuyQuantity": 1285200,
+                    "totalSellQuantity": 429300,
+                    "totalTradedVolume": 95,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
-                    "askPrice": 14.85,
+                    "askPrice": 14.8,
                     "askQty": 2700,
                     "bidQty": 2700,
-                    "bidprice": 14.6,
+                    "bidprice": 14.5,
                     "change": 0.29999999999999893,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
@@ -4708,10 +4750,10 @@
                     "pchangeinOpenInterest": 2.7027027027027026,
                     "strikePrice": 252.5,
                     "totalBuyQuantity": 226800,
-                    "totalSellQuantity": 229500,
+                    "totalSellQuantity": 226800,
                     "totalTradedVolume": 3,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 252.5
@@ -4736,7 +4778,7 @@
                     "totalSellQuantity": 113400,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 19.95,
@@ -4757,7 +4799,7 @@
                     "totalSellQuantity": 118800,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 252.5
@@ -4765,30 +4807,30 @@
             {
                 "CE": {
                     "askPrice": 0.2,
-                    "askQty": 83700,
-                    "bidQty": 245700,
+                    "askQty": 143100,
+                    "bidQty": 24300,
                     "bidprice": 0.15,
                     "change": 0,
-                    "changeinOpenInterest": 0,
+                    "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOWERGRID25-05-2023CE255.00",
                     "impliedVolatility": 29.83,
                     "lastPrice": 0.2,
-                    "openInterest": 2298,
+                    "openInterest": 2301,
                     "pChange": 0,
-                    "pchangeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 0.13054830287206268,
                     "strikePrice": 255,
-                    "totalBuyQuantity": 2073600,
-                    "totalSellQuantity": 826200,
-                    "totalTradedVolume": 54,
+                    "totalBuyQuantity": 1868400,
+                    "totalSellQuantity": 888300,
+                    "totalTradedVolume": 68,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.75
                 },
                 "PE": {
-                    "askPrice": 17.2,
-                    "askQty": 56700,
-                    "bidQty": 5400,
-                    "bidprice": 16.85,
+                    "askPrice": 17.15,
+                    "askQty": 2700,
+                    "bidQty": 2700,
+                    "bidprice": 16.8,
                     "change": 1.0500000000000007,
                     "changeinOpenInterest": 13,
                     "expiryDate": "25-May-2023",
@@ -4799,11 +4841,11 @@
                     "pChange": 6.583072100313485,
                     "pchangeinOpenInterest": 9.701492537313433,
                     "strikePrice": 255,
-                    "totalBuyQuantity": 229500,
-                    "totalSellQuantity": 386100,
+                    "totalBuyQuantity": 234900,
+                    "totalSellQuantity": 383400,
                     "totalTradedVolume": 82,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 255
@@ -4813,7 +4855,7 @@
                     "askPrice": 4.25,
                     "askQty": 2700,
                     "bidQty": 2700,
-                    "bidprice": 2.4,
+                    "bidprice": 2.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4824,11 +4866,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 255,
-                    "totalBuyQuantity": 180900,
+                    "totalBuyQuantity": 186300,
                     "totalSellQuantity": 121500,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 20.7,
@@ -4849,7 +4891,7 @@
                     "totalSellQuantity": 118800,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 255
@@ -4858,8 +4900,8 @@
                 "CE": {
                     "askPrice": 0.2,
                     "askQty": 59400,
-                    "bidQty": 2700,
-                    "bidprice": 0.15,
+                    "bidQty": 175500,
+                    "bidprice": 0.1,
                     "change": 0,
                     "changeinOpenInterest": -5,
                     "expiryDate": "25-May-2023",
@@ -4874,13 +4916,13 @@
                     "totalSellQuantity": 340200,
                     "totalTradedVolume": 30,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
-                    "askPrice": 19.6,
+                    "askPrice": 19.65,
                     "askQty": 2700,
-                    "bidQty": 18900,
-                    "bidprice": 18.4,
+                    "bidQty": 10800,
+                    "bidprice": 18.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4891,11 +4933,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 257.5,
-                    "totalBuyQuantity": 151200,
+                    "totalBuyQuantity": 143100,
                     "totalSellQuantity": 135000,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 257.5
@@ -4920,7 +4962,7 @@
                     "totalSellQuantity": 113400,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 22.7,
@@ -4941,7 +4983,7 @@
                     "totalSellQuantity": 118800,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 257.5
@@ -4949,30 +4991,30 @@
             {
                 "CE": {
                     "askPrice": 0.15,
-                    "askQty": 267300,
-                    "bidQty": 980100,
+                    "askQty": 210600,
+                    "bidQty": 985500,
                     "bidprice": 0.1,
                     "change": -0.04999999999999999,
-                    "changeinOpenInterest": -31,
+                    "changeinOpenInterest": -32,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOWERGRID25-05-2023CE260.00",
                     "impliedVolatility": 32.27,
                     "lastPrice": 0.1,
-                    "openInterest": 1053,
+                    "openInterest": 1052,
                     "pChange": -33.33333333333333,
-                    "pchangeinOpenInterest": -2.859778597785978,
+                    "pchangeinOpenInterest": -2.952029520295203,
                     "strikePrice": 260,
-                    "totalBuyQuantity": 3107700,
-                    "totalSellQuantity": 1015200,
-                    "totalTradedVolume": 77,
+                    "totalBuyQuantity": 3129300,
+                    "totalSellQuantity": 958500,
+                    "totalTradedVolume": 110,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
-                    "askPrice": 22.15,
+                    "askPrice": 22.1,
                     "askQty": 2700,
-                    "bidQty": 10800,
-                    "bidprice": 21.3,
+                    "bidQty": 8100,
+                    "bidprice": 21,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4983,20 +5025,20 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 260,
-                    "totalBuyQuantity": 232200,
+                    "totalBuyQuantity": 221400,
                     "totalSellQuantity": 210600,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 260
             },
             {
                 "CE": {
-                    "askPrice": 2.9,
+                    "askPrice": 3,
                     "askQty": 2700,
-                    "bidQty": 2700,
+                    "bidQty": 5400,
                     "bidprice": 1.55,
                     "change": 0.10000000000000009,
                     "changeinOpenInterest": 0,
@@ -5008,17 +5050,17 @@
                     "pChange": 5.71428571428572,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 260,
-                    "totalBuyQuantity": 189000,
+                    "totalBuyQuantity": 191700,
                     "totalSellQuantity": 116100,
                     "totalTradedVolume": 1,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 23.5,
                     "askQty": 5400,
                     "bidQty": 8100,
-                    "bidprice": 17.55,
+                    "bidprice": 17.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -5029,11 +5071,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 260,
-                    "totalBuyQuantity": 124200,
+                    "totalBuyQuantity": 118800,
                     "totalSellQuantity": 116100,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 260
@@ -5041,7 +5083,7 @@
             {
                 "CE": {
                     "askPrice": 0.1,
-                    "askQty": 129600,
+                    "askQty": 78300,
                     "bidQty": 75600,
                     "bidprice": 0.05,
                     "change": 0,
@@ -5055,16 +5097,16 @@
                     "pchangeinOpenInterest": 0.7092198581560284,
                     "strikePrice": 262.5,
                     "totalBuyQuantity": 75600,
-                    "totalSellQuantity": 286200,
+                    "totalSellQuantity": 234900,
                     "totalTradedVolume": 6,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
-                    "askPrice": 24.7,
+                    "askPrice": 24.65,
                     "askQty": 2700,
                     "bidQty": 2700,
-                    "bidprice": 23.95,
+                    "bidprice": 23.9,
                     "change": 2.6499999999999986,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5079,7 +5121,7 @@
                     "totalSellQuantity": 135000,
                     "totalTradedVolume": 1,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 262.5
@@ -5104,7 +5146,7 @@
                     "totalSellQuantity": 2700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 32.8,
@@ -5125,7 +5167,7 @@
                     "totalSellQuantity": 2700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 262.5
@@ -5150,7 +5192,7 @@
                     "totalSellQuantity": 2700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 27.45,
@@ -5171,7 +5213,7 @@
                     "totalSellQuantity": 118800,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 262.5
@@ -5179,24 +5221,24 @@
             {
                 "CE": {
                     "askPrice": 0.1,
-                    "askQty": 693900,
-                    "bidQty": 618300,
+                    "askQty": 675000,
+                    "bidQty": 510300,
                     "bidprice": 0.05,
-                    "change": 0.05,
+                    "change": 0,
                     "changeinOpenInterest": -4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOWERGRID25-05-2023CE265.00",
                     "impliedVolatility": 37.99,
-                    "lastPrice": 0.1,
+                    "lastPrice": 0.05,
                     "openInterest": 347,
-                    "pChange": 100,
+                    "pChange": 0,
                     "pchangeinOpenInterest": -1.1396011396011396,
                     "strikePrice": 265,
-                    "totalBuyQuantity": 618300,
-                    "totalSellQuantity": 1096200,
-                    "totalTradedVolume": 14,
+                    "totalBuyQuantity": 510300,
+                    "totalSellQuantity": 1093500,
+                    "totalTradedVolume": 25,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 28.6,
@@ -5217,7 +5259,7 @@
                     "totalSellQuantity": 132300,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 265
@@ -5242,7 +5284,7 @@
                     "totalSellQuantity": 5400,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 30.4,
@@ -5263,7 +5305,7 @@
                     "totalSellQuantity": 118800,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 265
@@ -5288,7 +5330,7 @@
                     "totalSellQuantity": 202500,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 31,
@@ -5305,11 +5347,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 267.5,
-                    "totalBuyQuantity": 137700,
+                    "totalBuyQuantity": 132300,
                     "totalSellQuantity": 132300,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 267.5
@@ -5334,7 +5376,7 @@
                     "totalSellQuantity": 2700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 32.7,
@@ -5355,7 +5397,7 @@
                     "totalSellQuantity": 118800,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 267.5
@@ -5380,7 +5422,7 @@
                     "totalSellQuantity": 2700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 37.05,
@@ -5401,7 +5443,7 @@
                     "totalSellQuantity": 2700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 267.5
@@ -5426,13 +5468,13 @@
                     "totalSellQuantity": 639900,
                     "totalTradedVolume": 35,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
-                    "askPrice": 32.65,
-                    "askQty": 8100,
-                    "bidQty": 8100,
-                    "bidprice": 29.95,
+                    "askPrice": 33.65,
+                    "askQty": 16200,
+                    "bidQty": 13500,
+                    "bidprice": 30.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5443,11 +5485,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 270,
-                    "totalBuyQuantity": 132300,
-                    "totalSellQuantity": 132300,
+                    "totalBuyQuantity": 137700,
+                    "totalSellQuantity": 124200,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 270
@@ -5472,7 +5514,7 @@
                     "totalSellQuantity": 2700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 35.05,
@@ -5493,7 +5535,7 @@
                     "totalSellQuantity": 118800,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.75
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 270
@@ -5518,7 +5560,7 @@
                     "totalSellQuantity": 167400,
                     "totalTradedVolume": 1,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 37,
@@ -5539,7 +5581,7 @@
                     "totalSellQuantity": 116100,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 272.5
@@ -5564,7 +5606,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 36.25,
@@ -5585,7 +5627,7 @@
                     "totalSellQuantity": 118800,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 272.5
@@ -5610,7 +5652,7 @@
                     "totalSellQuantity": 2700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 272.5
@@ -5618,8 +5660,8 @@
             {
                 "CE": {
                     "askPrice": 0.1,
-                    "askQty": 108000,
-                    "bidQty": 191700,
+                    "askQty": 102600,
+                    "bidQty": 186300,
                     "bidprice": 0.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -5631,11 +5673,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 275,
-                    "totalBuyQuantity": 191700,
-                    "totalSellQuantity": 332100,
+                    "totalBuyQuantity": 186300,
+                    "totalSellQuantity": 310500,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 37.7,
@@ -5656,7 +5698,7 @@
                     "totalSellQuantity": 124200,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 275
@@ -5681,7 +5723,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 39.9,
@@ -5702,7 +5744,7 @@
                     "totalSellQuantity": 110700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 275
@@ -5727,7 +5769,7 @@
                     "totalSellQuantity": 2700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 275
@@ -5752,7 +5794,7 @@
                     "totalSellQuantity": 286200,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 42.3,
@@ -5773,7 +5815,7 @@
                     "totalSellQuantity": 116100,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 277.5
@@ -5798,7 +5840,7 @@
                     "totalSellQuantity": 2700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 42.2,
@@ -5819,7 +5861,7 @@
                     "totalSellQuantity": 118800,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 277.5
@@ -5844,7 +5886,7 @@
                     "totalSellQuantity": 140400,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 42.65,
@@ -5865,7 +5907,7 @@
                     "totalSellQuantity": 132300,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 280
@@ -5890,13 +5932,13 @@
                     "totalSellQuantity": 2700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
-                    "askPrice": 43.85,
-                    "askQty": 8100,
-                    "bidQty": 108000,
-                    "bidprice": 36.4,
+                    "askPrice": 43.9,
+                    "askQty": 2700,
+                    "bidQty": 8100,
+                    "bidprice": 36.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -5907,11 +5949,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 280,
-                    "totalBuyQuantity": 110700,
-                    "totalSellQuantity": 118800,
+                    "totalBuyQuantity": 118800,
+                    "totalSellQuantity": 110700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 280
@@ -5936,7 +5978,7 @@
                     "totalSellQuantity": 116100,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 282.5
@@ -5961,7 +6003,7 @@
                     "totalSellQuantity": 2700,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "PE": {
                     "askPrice": 47.1,
@@ -5982,7 +6024,7 @@
                     "totalSellQuantity": 118800,
                     "totalTradedVolume": 0,
                     "underlying": "POWERGRID",
-                    "underlyingValue": 237.5
+                    "underlyingValue": 237.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 282.5
@@ -6038,7 +6080,7 @@
             280,
             282.5
         ],
-        "timestamp": "18-May-2023 10:21:15",
-        "underlyingValue": 237.5
+        "timestamp": "18-May-2023 10:26:47",
+        "underlyingValue": 237.65
     }
 }

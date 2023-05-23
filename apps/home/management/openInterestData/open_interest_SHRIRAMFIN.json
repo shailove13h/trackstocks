@@ -1,12 +1,12 @@
 {
     "filtered": {
         "CE": {
-            "totOI": 2684,
-            "totVol": 525
+            "totOI": 2686,
+            "totVol": 528
         },
         "PE": {
-            "totOI": 1405,
-            "totVol": 180
+            "totOI": 1407,
+            "totVol": 181
         },
         "data": [
             {
@@ -29,7 +29,7 @@
                     "totalSellQuantity": 19800,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1040
@@ -54,7 +54,7 @@
                     "totalSellQuantity": 19800,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1060
@@ -79,7 +79,7 @@
                     "totalSellQuantity": 19800,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1080
@@ -104,7 +104,7 @@
                     "totalSellQuantity": 19800,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -125,7 +125,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1100
@@ -150,7 +150,7 @@
                     "totalSellQuantity": 19800,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -171,7 +171,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1120
@@ -196,7 +196,7 @@
                     "totalSellQuantity": 19800,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -217,7 +217,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1140
@@ -242,7 +242,7 @@
                     "totalSellQuantity": 23400,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 0.75,
@@ -263,14 +263,14 @@
                     "totalSellQuantity": 1800,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1160
             },
             {
                 "CE": {
-                    "askPrice": 172.55,
+                    "askPrice": 172.6,
                     "askQty": 1800,
                     "bidQty": 1800,
                     "bidprice": 158.8,
@@ -285,10 +285,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1180,
                     "totalBuyQuantity": 25200,
-                    "totalSellQuantity": 25200,
+                    "totalSellQuantity": 23400,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 2.85,
@@ -309,7 +309,7 @@
                     "totalSellQuantity": 19200,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1180
@@ -317,9 +317,9 @@
             {
                 "CE": {
                     "askPrice": 152.05,
-                    "askQty": 4200,
-                    "bidQty": 1800,
-                    "bidprice": 137.95,
+                    "askQty": 1800,
+                    "bidQty": 600,
+                    "bidprice": 138.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -330,14 +330,14 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1200,
-                    "totalBuyQuantity": 23400,
-                    "totalSellQuantity": 27600,
+                    "totalBuyQuantity": 24600,
+                    "totalSellQuantity": 25200,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
-                    "askPrice": 0.95,
+                    "askPrice": 1.05,
                     "askQty": 600,
                     "bidQty": 1800,
                     "bidprice": 0.35,
@@ -355,7 +355,7 @@
                     "totalSellQuantity": 43800,
                     "totalTradedVolume": 3,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1200
@@ -380,7 +380,7 @@
                     "totalSellQuantity": 25200,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 4.75,
@@ -401,7 +401,7 @@
                     "totalSellQuantity": 22800,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1220
@@ -411,7 +411,7 @@
                     "askPrice": 109.85,
                     "askQty": 600,
                     "bidQty": 1200,
-                    "bidprice": 99.25,
+                    "bidprice": 98.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -422,16 +422,16 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1240,
-                    "totalBuyQuantity": 27000,
+                    "totalBuyQuantity": 25200,
                     "totalSellQuantity": 25200,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 0.95,
                     "askQty": 1200,
-                    "bidQty": 2400,
+                    "bidQty": 1800,
                     "bidprice": 0.85,
                     "change": -0.55,
                     "changeinOpenInterest": -8,
@@ -443,21 +443,21 @@
                     "pChange": -35.483870967741936,
                     "pchangeinOpenInterest": -8.88888888888889,
                     "strikePrice": 1240,
-                    "totalBuyQuantity": 72600,
-                    "totalSellQuantity": 170400,
+                    "totalBuyQuantity": 77400,
+                    "totalSellQuantity": 152400,
                     "totalTradedVolume": 35,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1240
             },
             {
                 "CE": {
-                    "askPrice": 89.25,
-                    "askQty": 600,
-                    "bidQty": 1200,
-                    "bidprice": 80,
+                    "askPrice": 92,
+                    "askQty": 1200,
+                    "bidQty": 600,
+                    "bidprice": 84.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -472,38 +472,38 @@
                     "totalSellQuantity": 25200,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 1.65,
                     "askQty": 1200,
                     "bidQty": 1200,
                     "bidprice": 1.4,
-                    "change": -0.34999999999999987,
-                    "changeinOpenInterest": 0,
+                    "change": -0.3999999999999999,
+                    "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSHRIRAMFIN25-05-2023PE1260.00",
                     "impliedVolatility": 31.27,
-                    "lastPrice": 1.6,
-                    "openInterest": 235,
-                    "pChange": -17.948717948717942,
-                    "pchangeinOpenInterest": 0,
+                    "lastPrice": 1.55,
+                    "openInterest": 237,
+                    "pChange": -20.51282051282051,
+                    "pchangeinOpenInterest": 0.851063829787234,
                     "strikePrice": 1260,
-                    "totalBuyQuantity": 64800,
-                    "totalSellQuantity": 174000,
-                    "totalTradedVolume": 21,
+                    "totalBuyQuantity": 63600,
+                    "totalSellQuantity": 178200,
+                    "totalTradedVolume": 22,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1260
             },
             {
                 "CE": {
-                    "askPrice": 70.7,
+                    "askPrice": 70.6,
                     "askQty": 600,
                     "bidQty": 600,
-                    "bidprice": 66.85,
+                    "bidprice": 67.55,
                     "change": 5.399999999999999,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -514,15 +514,15 @@
                     "pChange": 8.62619808306709,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1280,
-                    "totalBuyQuantity": 31800,
-                    "totalSellQuantity": 25800,
+                    "totalBuyQuantity": 31200,
+                    "totalSellQuantity": 25200,
                     "totalTradedVolume": 3,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 3.4,
-                    "askQty": 600,
+                    "askQty": 1200,
                     "bidQty": 1200,
                     "bidprice": 3.15,
                     "change": -0.4500000000000002,
@@ -535,21 +535,21 @@
                     "pChange": -11.392405063291143,
                     "pchangeinOpenInterest": -5.617977528089888,
                     "strikePrice": 1280,
-                    "totalBuyQuantity": 73800,
-                    "totalSellQuantity": 90000,
+                    "totalBuyQuantity": 72600,
+                    "totalSellQuantity": 89400,
                     "totalTradedVolume": 18,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1280
             },
             {
                 "CE": {
-                    "askPrice": 52.6,
+                    "askPrice": 52.55,
                     "askQty": 600,
                     "bidQty": 600,
-                    "bidprice": 50.7,
+                    "bidprice": 50.45,
                     "change": -0.75,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
@@ -560,17 +560,17 @@
                     "pChange": -1.4177693761814745,
                     "pchangeinOpenInterest": -1.8018018018018018,
                     "strikePrice": 1300,
-                    "totalBuyQuantity": 33600,
+                    "totalBuyQuantity": 33000,
                     "totalSellQuantity": 45000,
                     "totalTradedVolume": 7,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
-                    "askPrice": 6.35,
-                    "askQty": 1800,
-                    "bidQty": 1800,
-                    "bidprice": 6.05,
+                    "askPrice": 6.15,
+                    "askQty": 1200,
+                    "bidQty": 600,
+                    "bidprice": 6.1,
                     "change": -0.5499999999999998,
                     "changeinOpenInterest": 8,
                     "expiryDate": "25-May-2023",
@@ -581,21 +581,21 @@
                     "pChange": -8.208955223880594,
                     "pchangeinOpenInterest": 3.278688524590164,
                     "strikePrice": 1300,
-                    "totalBuyQuantity": 74400,
+                    "totalBuyQuantity": 76200,
                     "totalSellQuantity": 82200,
                     "totalTradedVolume": 82,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1300
             },
             {
                 "CE": {
-                    "askPrice": 38.65,
+                    "askPrice": 38.75,
                     "askQty": 600,
                     "bidQty": 600,
-                    "bidprice": 34.9,
+                    "bidprice": 34.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -606,14 +606,14 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1320,
-                    "totalBuyQuantity": 32400,
-                    "totalSellQuantity": 25800,
+                    "totalBuyQuantity": 33000,
+                    "totalSellQuantity": 26400,
                     "totalTradedVolume": 2,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
-                    "askPrice": 11.7,
+                    "askPrice": 11.4,
                     "askQty": 600,
                     "bidQty": 600,
                     "bidprice": 10.65,
@@ -628,35 +628,35 @@
                     "pchangeinOpenInterest": -0.819672131147541,
                     "strikePrice": 1320,
                     "totalBuyQuantity": 52800,
-                    "totalSellQuantity": 60000,
+                    "totalSellQuantity": 60600,
                     "totalTradedVolume": 2,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1320
             },
             {
                 "CE": {
-                    "askPrice": 24.5,
-                    "askQty": 1200,
-                    "bidQty": 600,
-                    "bidprice": 23.9,
-                    "change": -1.5500000000000007,
-                    "changeinOpenInterest": 15,
+                    "askPrice": 24.4,
+                    "askQty": 600,
+                    "bidQty": 1200,
+                    "bidprice": 23.95,
+                    "change": -1.0500000000000007,
+                    "changeinOpenInterest": 17,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSHRIRAMFIN25-05-2023CE1340.00",
                     "impliedVolatility": 29.63,
-                    "lastPrice": 24,
-                    "openInterest": 203,
-                    "pChange": -6.066536203522507,
-                    "pchangeinOpenInterest": 7.9787234042553195,
+                    "lastPrice": 24.5,
+                    "openInterest": 205,
+                    "pChange": -4.109589041095893,
+                    "pchangeinOpenInterest": 9.042553191489361,
                     "strikePrice": 1340,
                     "totalBuyQuantity": 82800,
                     "totalSellQuantity": 69600,
-                    "totalTradedVolume": 116,
+                    "totalTradedVolume": 119,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 19.15,
@@ -677,7 +677,7 @@
                     "totalSellQuantity": 71400,
                     "totalTradedVolume": 10,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1340
@@ -687,7 +687,7 @@
                     "askPrice": 15.45,
                     "askQty": 600,
                     "bidQty": 600,
-                    "bidprice": 14.7,
+                    "bidprice": 14.9,
                     "change": -2.3499999999999996,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
@@ -698,17 +698,17 @@
                     "pChange": -14.285714285714285,
                     "pchangeinOpenInterest": -0.2109704641350211,
                     "strikePrice": 1360,
-                    "totalBuyQuantity": 101400,
+                    "totalBuyQuantity": 84600,
                     "totalSellQuantity": 105600,
                     "totalTradedVolume": 124,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 31.15,
-                    "askQty": 600,
+                    "askQty": 1200,
                     "bidQty": 600,
-                    "bidprice": 28.45,
+                    "bidprice": 28.3,
                     "change": -5.899999999999999,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
@@ -719,11 +719,11 @@
                     "pChange": -16.208791208791208,
                     "pchangeinOpenInterest": 0.8547008547008547,
                     "strikePrice": 1360,
-                    "totalBuyQuantity": 33000,
-                    "totalSellQuantity": 42000,
+                    "totalBuyQuantity": 31800,
+                    "totalSellQuantity": 43200,
                     "totalTradedVolume": 2,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1360
@@ -733,7 +733,7 @@
                     "askPrice": 8.85,
                     "askQty": 1800,
                     "bidQty": 600,
-                    "bidprice": 8.3,
+                    "bidprice": 8.4,
                     "change": -1.4000000000000004,
                     "changeinOpenInterest": 13,
                     "expiryDate": "25-May-2023",
@@ -745,16 +745,16 @@
                     "pchangeinOpenInterest": 7.7844311377245505,
                     "strikePrice": 1380,
                     "totalBuyQuantity": 69000,
-                    "totalSellQuantity": 80400,
+                    "totalSellQuantity": 79800,
                     "totalTradedVolume": 38,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
-                    "askPrice": 44.95,
-                    "askQty": 600,
+                    "askPrice": 46.35,
+                    "askQty": 1200,
                     "bidQty": 600,
-                    "bidprice": 41.55,
+                    "bidprice": 41.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -766,10 +766,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1380,
                     "totalBuyQuantity": 13200,
-                    "totalSellQuantity": 25200,
+                    "totalSellQuantity": 27000,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1380
@@ -777,9 +777,9 @@
             {
                 "CE": {
                     "askPrice": 5.2,
-                    "askQty": 600,
+                    "askQty": 1800,
                     "bidQty": 600,
-                    "bidprice": 5,
+                    "bidprice": 5.1,
                     "change": -0.9000000000000004,
                     "changeinOpenInterest": 12,
                     "expiryDate": "25-May-2023",
@@ -790,17 +790,17 @@
                     "pChange": -15.254237288135597,
                     "pchangeinOpenInterest": 2.542372881355932,
                     "strikePrice": 1400,
-                    "totalBuyQuantity": 100200,
-                    "totalSellQuantity": 114600,
+                    "totalBuyQuantity": 100800,
+                    "totalSellQuantity": 115800,
                     "totalTradedVolume": 109,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
-                    "askPrice": 61.6,
-                    "askQty": 600,
+                    "askPrice": 62.75,
+                    "askQty": 1200,
                     "bidQty": 600,
-                    "bidprice": 58.75,
+                    "bidprice": 58.2,
                     "change": -15.599999999999994,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -812,10 +812,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1400,
                     "totalBuyQuantity": 48000,
-                    "totalSellQuantity": 38400,
+                    "totalSellQuantity": 39600,
                     "totalTradedVolume": 1,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1400
@@ -823,7 +823,7 @@
             {
                 "CE": {
                     "askPrice": 2.95,
-                    "askQty": 1200,
+                    "askQty": 600,
                     "bidQty": 600,
                     "bidprice": 2.75,
                     "change": -0.5,
@@ -836,17 +836,17 @@
                     "pChange": -15.151515151515152,
                     "pchangeinOpenInterest": -1.9230769230769231,
                     "strikePrice": 1420,
-                    "totalBuyQuantity": 89400,
+                    "totalBuyQuantity": 90000,
                     "totalSellQuantity": 96600,
                     "totalTradedVolume": 25,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
-                    "askPrice": 78.35,
+                    "askPrice": 78,
                     "askQty": 600,
-                    "bidQty": 1200,
-                    "bidprice": 75.65,
+                    "bidQty": 600,
+                    "bidprice": 75.8,
                     "change": -2.700000000000003,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -857,21 +857,21 @@
                     "pChange": -3.3333333333333366,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1420,
-                    "totalBuyQuantity": 31200,
-                    "totalSellQuantity": 27000,
+                    "totalBuyQuantity": 31800,
+                    "totalSellQuantity": 27600,
                     "totalTradedVolume": 6,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1420
             },
             {
                 "CE": {
-                    "askPrice": 1.9,
-                    "askQty": 7200,
-                    "bidQty": 1800,
-                    "bidprice": 1.75,
+                    "askPrice": 1.8,
+                    "askQty": 6000,
+                    "bidQty": 1200,
+                    "bidprice": 1.7,
                     "change": -0.050000000000000044,
                     "changeinOpenInterest": 15,
                     "expiryDate": "25-May-2023",
@@ -883,16 +883,16 @@
                     "pchangeinOpenInterest": 9.615384615384615,
                     "strikePrice": 1440,
                     "totalBuyQuantity": 90600,
-                    "totalSellQuantity": 133800,
+                    "totalSellQuantity": 135600,
                     "totalTradedVolume": 48,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
-                    "askPrice": 98.1,
+                    "askPrice": 96.9,
                     "askQty": 600,
-                    "bidQty": 600,
-                    "bidprice": 92.35,
+                    "bidQty": 1800,
+                    "bidprice": 91.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -903,11 +903,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1440,
-                    "totalBuyQuantity": 25800,
-                    "totalSellQuantity": 25200,
+                    "totalBuyQuantity": 27600,
+                    "totalSellQuantity": 26400,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1440
@@ -932,13 +932,13 @@
                     "totalSellQuantity": 73800,
                     "totalTradedVolume": 1,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
-                    "askPrice": 120.65,
+                    "askPrice": 122.6,
                     "askQty": 1800,
                     "bidQty": 1800,
-                    "bidprice": 109.5,
+                    "bidprice": 110.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -949,11 +949,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1460,
-                    "totalBuyQuantity": 25200,
-                    "totalSellQuantity": 25200,
+                    "totalBuyQuantity": 27000,
+                    "totalSellQuantity": 27000,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1460
@@ -961,7 +961,7 @@
             {
                 "CE": {
                     "askPrice": 0.7,
-                    "askQty": 1200,
+                    "askQty": 1800,
                     "bidQty": 1200,
                     "bidprice": 0.6,
                     "change": 0,
@@ -975,16 +975,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1480,
                     "totalBuyQuantity": 43200,
-                    "totalSellQuantity": 91200,
+                    "totalSellQuantity": 92400,
                     "totalTradedVolume": 12,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
-                    "askPrice": 140.15,
+                    "askPrice": 139.75,
                     "askQty": 1800,
                     "bidQty": 600,
-                    "bidprice": 131.5,
+                    "bidprice": 131.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -995,11 +995,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1480,
-                    "totalBuyQuantity": 26400,
+                    "totalBuyQuantity": 25800,
                     "totalSellQuantity": 27000,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1480
@@ -1007,7 +1007,7 @@
             {
                 "CE": {
                     "askPrice": 0.6,
-                    "askQty": 1800,
+                    "askQty": 2400,
                     "bidQty": 1800,
                     "bidprice": 0.5,
                     "change": -0.09999999999999998,
@@ -1021,16 +1021,16 @@
                     "pchangeinOpenInterest": 1.6997167138810199,
                     "strikePrice": 1500,
                     "totalBuyQuantity": 66600,
-                    "totalSellQuantity": 69000,
+                    "totalSellQuantity": 69600,
                     "totalTradedVolume": 37,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
-                    "askPrice": 163.4,
-                    "askQty": 1200,
-                    "bidQty": 1800,
-                    "bidprice": 149.75,
+                    "askPrice": 162,
+                    "askQty": 600,
+                    "bidQty": 3600,
+                    "bidprice": 147.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1045,7 +1045,7 @@
                     "totalSellQuantity": 24600,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1500
@@ -1070,7 +1070,7 @@
                     "totalSellQuantity": 19200,
                     "totalTradedVolume": 1,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 184.3,
@@ -1091,7 +1091,7 @@
                     "totalSellQuantity": 26400,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1520
@@ -1116,7 +1116,7 @@
                     "totalSellQuantity": 1800,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 202.9,
@@ -1137,7 +1137,7 @@
                     "totalSellQuantity": 25200,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1540
@@ -1162,7 +1162,7 @@
                     "totalSellQuantity": 3000,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 227.25,
@@ -1183,7 +1183,7 @@
                     "totalSellQuantity": 23400,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1560
@@ -1208,7 +1208,7 @@
                     "totalSellQuantity": 600,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 247,
@@ -1229,7 +1229,7 @@
                     "totalSellQuantity": 23400,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1580
@@ -1254,11 +1254,11 @@
                     "totalSellQuantity": 10200,
                     "totalTradedVolume": 2,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
-                    "askPrice": 265.55,
-                    "askQty": 1800,
+                    "askPrice": 265.6,
+                    "askQty": 3600,
                     "bidQty": 1800,
                     "bidprice": 246.05,
                     "change": 0,
@@ -1272,10 +1272,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1600,
                     "totalBuyQuantity": 23400,
-                    "totalSellQuantity": 23400,
+                    "totalSellQuantity": 21600,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1600
@@ -1300,7 +1300,7 @@
                     "totalSellQuantity": 600,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 297.15,
@@ -1321,7 +1321,7 @@
                     "totalSellQuantity": 19800,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1620
@@ -1346,7 +1346,7 @@
                     "totalSellQuantity": 18000,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 332.6,
@@ -1367,7 +1367,7 @@
                     "totalSellQuantity": 18000,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1640
@@ -1392,7 +1392,7 @@
                     "totalSellQuantity": 18000,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 327.3,
@@ -1413,7 +1413,7 @@
                     "totalSellQuantity": 23400,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1660
@@ -1442,7 +1442,7 @@
                     "totalSellQuantity": 19800,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1040
@@ -1467,7 +1467,7 @@
                     "totalSellQuantity": 19800,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1060
@@ -1492,7 +1492,7 @@
                     "totalSellQuantity": 19800,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1513,7 +1513,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1060
@@ -1538,7 +1538,7 @@
                     "totalSellQuantity": 19800,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1559,7 +1559,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1080
@@ -1584,7 +1584,7 @@
                     "totalSellQuantity": 19800,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1080
@@ -1609,7 +1609,7 @@
                     "totalSellQuantity": 19800,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1630,7 +1630,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1100
@@ -1655,7 +1655,7 @@
                     "totalSellQuantity": 19800,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1676,7 +1676,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1100
@@ -1701,7 +1701,7 @@
                     "totalSellQuantity": 18000,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1722,7 +1722,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1120
@@ -1747,7 +1747,7 @@
                     "totalSellQuantity": 19800,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1768,7 +1768,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1120
@@ -1793,7 +1793,7 @@
                     "totalSellQuantity": 19800,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1814,7 +1814,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1140
@@ -1839,7 +1839,7 @@
                     "totalSellQuantity": 18000,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1860,7 +1860,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1140
@@ -1885,7 +1885,7 @@
                     "totalSellQuantity": 18000,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1906,7 +1906,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1160
@@ -1931,7 +1931,7 @@
                     "totalSellQuantity": 23400,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 0.75,
@@ -1952,14 +1952,14 @@
                     "totalSellQuantity": 1800,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1160
             },
             {
                 "CE": {
-                    "askPrice": 172.55,
+                    "askPrice": 172.6,
                     "askQty": 1800,
                     "bidQty": 1800,
                     "bidprice": 158.8,
@@ -1974,10 +1974,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1180,
                     "totalBuyQuantity": 25200,
-                    "totalSellQuantity": 25200,
+                    "totalSellQuantity": 23400,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 2.85,
@@ -1998,7 +1998,7 @@
                     "totalSellQuantity": 19200,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1180
@@ -2023,7 +2023,7 @@
                     "totalSellQuantity": 18000,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2044,7 +2044,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1180
@@ -2054,7 +2054,7 @@
                     "askPrice": 190.05,
                     "askQty": 18000,
                     "bidQty": 1800,
-                    "bidprice": 130.55,
+                    "bidprice": 123.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2069,7 +2069,7 @@
                     "totalSellQuantity": 18000,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2090,7 +2090,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1200
@@ -2098,9 +2098,9 @@
             {
                 "CE": {
                     "askPrice": 152.05,
-                    "askQty": 4200,
-                    "bidQty": 1800,
-                    "bidprice": 137.95,
+                    "askQty": 1800,
+                    "bidQty": 600,
+                    "bidprice": 138.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2111,14 +2111,14 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1200,
-                    "totalBuyQuantity": 23400,
-                    "totalSellQuantity": 27600,
+                    "totalBuyQuantity": 24600,
+                    "totalSellQuantity": 25200,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
-                    "askPrice": 0.95,
+                    "askPrice": 1.05,
                     "askQty": 600,
                     "bidQty": 1800,
                     "bidprice": 0.35,
@@ -2136,7 +2136,7 @@
                     "totalSellQuantity": 43800,
                     "totalTradedVolume": 3,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1200
@@ -2161,7 +2161,7 @@
                     "totalSellQuantity": 25200,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 4.75,
@@ -2182,7 +2182,7 @@
                     "totalSellQuantity": 22800,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1220
@@ -2192,7 +2192,7 @@
                     "askPrice": 169.55,
                     "askQty": 18000,
                     "bidQty": 1800,
-                    "bidprice": 93.3,
+                    "bidprice": 94.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2207,7 +2207,7 @@
                     "totalSellQuantity": 18000,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1220
@@ -2216,8 +2216,8 @@
                 "CE": {
                     "askPrice": 148.75,
                     "askQty": 18000,
-                    "bidQty": 0,
-                    "bidprice": 0,
+                    "bidQty": 1800,
+                    "bidprice": 86.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2228,11 +2228,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1240,
-                    "totalBuyQuantity": 0,
+                    "totalBuyQuantity": 1800,
                     "totalSellQuantity": 18000,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1240
@@ -2242,7 +2242,7 @@
                     "askPrice": 109.85,
                     "askQty": 600,
                     "bidQty": 1200,
-                    "bidprice": 99.25,
+                    "bidprice": 98.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2253,16 +2253,16 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1240,
-                    "totalBuyQuantity": 27000,
+                    "totalBuyQuantity": 25200,
                     "totalSellQuantity": 25200,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 0.95,
                     "askQty": 1200,
-                    "bidQty": 2400,
+                    "bidQty": 1800,
                     "bidprice": 0.85,
                     "change": -0.55,
                     "changeinOpenInterest": -8,
@@ -2274,11 +2274,11 @@
                     "pChange": -35.483870967741936,
                     "pchangeinOpenInterest": -8.88888888888889,
                     "strikePrice": 1240,
-                    "totalBuyQuantity": 72600,
-                    "totalSellQuantity": 170400,
+                    "totalBuyQuantity": 77400,
+                    "totalSellQuantity": 152400,
                     "totalTradedVolume": 35,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1240
@@ -2288,7 +2288,7 @@
                     "askPrice": 118,
                     "askQty": 3000,
                     "bidQty": 1800,
-                    "bidprice": 82.4,
+                    "bidprice": 81.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2303,7 +2303,7 @@
                     "totalSellQuantity": 21000,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 23.85,
@@ -2324,17 +2324,17 @@
                     "totalSellQuantity": 7200,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1260
             },
             {
                 "CE": {
-                    "askPrice": 89.25,
-                    "askQty": 600,
-                    "bidQty": 1200,
-                    "bidprice": 80,
+                    "askPrice": 92,
+                    "askQty": 1200,
+                    "bidQty": 600,
+                    "bidprice": 84.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2349,38 +2349,38 @@
                     "totalSellQuantity": 25200,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 1.65,
                     "askQty": 1200,
                     "bidQty": 1200,
                     "bidprice": 1.4,
-                    "change": -0.34999999999999987,
-                    "changeinOpenInterest": 0,
+                    "change": -0.3999999999999999,
+                    "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSHRIRAMFIN25-05-2023PE1260.00",
                     "impliedVolatility": 31.27,
-                    "lastPrice": 1.6,
-                    "openInterest": 235,
-                    "pChange": -17.948717948717942,
-                    "pchangeinOpenInterest": 0,
+                    "lastPrice": 1.55,
+                    "openInterest": 237,
+                    "pChange": -20.51282051282051,
+                    "pchangeinOpenInterest": 0.851063829787234,
                     "strikePrice": 1260,
-                    "totalBuyQuantity": 64800,
-                    "totalSellQuantity": 174000,
-                    "totalTradedVolume": 21,
+                    "totalBuyQuantity": 63600,
+                    "totalSellQuantity": 178200,
+                    "totalTradedVolume": 22,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1260
             },
             {
                 "CE": {
-                    "askPrice": 70.7,
+                    "askPrice": 70.6,
                     "askQty": 600,
                     "bidQty": 600,
-                    "bidprice": 66.85,
+                    "bidprice": 67.55,
                     "change": 5.399999999999999,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2391,15 +2391,15 @@
                     "pChange": 8.62619808306709,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1280,
-                    "totalBuyQuantity": 31800,
-                    "totalSellQuantity": 25800,
+                    "totalBuyQuantity": 31200,
+                    "totalSellQuantity": 25200,
                     "totalTradedVolume": 3,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 3.4,
-                    "askQty": 600,
+                    "askQty": 1200,
                     "bidQty": 1200,
                     "bidprice": 3.15,
                     "change": -0.4500000000000002,
@@ -2412,11 +2412,11 @@
                     "pChange": -11.392405063291143,
                     "pchangeinOpenInterest": -5.617977528089888,
                     "strikePrice": 1280,
-                    "totalBuyQuantity": 73800,
-                    "totalSellQuantity": 90000,
+                    "totalBuyQuantity": 72600,
+                    "totalSellQuantity": 89400,
                     "totalTradedVolume": 18,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1280
@@ -2441,13 +2441,13 @@
                     "totalSellQuantity": 18000,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 1200,
-                    "bidprice": 17.8,
+                    "bidprice": 17.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2462,17 +2462,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1280
             },
             {
                 "CE": {
-                    "askPrice": 52.6,
+                    "askPrice": 52.55,
                     "askQty": 600,
                     "bidQty": 600,
-                    "bidprice": 50.7,
+                    "bidprice": 50.45,
                     "change": -0.75,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
@@ -2483,17 +2483,17 @@
                     "pChange": -1.4177693761814745,
                     "pchangeinOpenInterest": -1.8018018018018018,
                     "strikePrice": 1300,
-                    "totalBuyQuantity": 33600,
+                    "totalBuyQuantity": 33000,
                     "totalSellQuantity": 45000,
                     "totalTradedVolume": 7,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
-                    "askPrice": 6.35,
-                    "askQty": 1800,
-                    "bidQty": 1800,
-                    "bidprice": 6.05,
+                    "askPrice": 6.15,
+                    "askQty": 1200,
+                    "bidQty": 600,
+                    "bidprice": 6.1,
                     "change": -0.5499999999999998,
                     "changeinOpenInterest": 8,
                     "expiryDate": "25-May-2023",
@@ -2504,19 +2504,19 @@
                     "pChange": -8.208955223880594,
                     "pchangeinOpenInterest": 3.278688524590164,
                     "strikePrice": 1300,
-                    "totalBuyQuantity": 74400,
+                    "totalBuyQuantity": 76200,
                     "totalSellQuantity": 82200,
                     "totalTradedVolume": 82,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1300
             },
             {
                 "CE": {
-                    "askPrice": 84.6,
-                    "askQty": 1800,
+                    "askPrice": 89.95,
+                    "askQty": 600,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -2530,16 +2530,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1300,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 21600,
+                    "totalSellQuantity": 18600,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
-                    "askPrice": 33.65,
+                    "askPrice": 33.6,
                     "askQty": 600,
                     "bidQty": 600,
-                    "bidprice": 31.75,
+                    "bidprice": 32.15,
                     "change": -4.599999999999994,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2550,21 +2550,21 @@
                     "pChange": -11.779769526248387,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1300,
-                    "totalBuyQuantity": 26400,
-                    "totalSellQuantity": 10200,
+                    "totalBuyQuantity": 27600,
+                    "totalSellQuantity": 11400,
                     "totalTradedVolume": 3,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1300
             },
             {
                 "CE": {
-                    "askPrice": 38.65,
+                    "askPrice": 38.75,
                     "askQty": 600,
                     "bidQty": 600,
-                    "bidprice": 34.9,
+                    "bidprice": 34.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2575,14 +2575,14 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1320,
-                    "totalBuyQuantity": 32400,
-                    "totalSellQuantity": 25800,
+                    "totalBuyQuantity": 33000,
+                    "totalSellQuantity": 26400,
                     "totalTradedVolume": 2,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
-                    "askPrice": 11.7,
+                    "askPrice": 11.4,
                     "askQty": 600,
                     "bidQty": 600,
                     "bidprice": 10.65,
@@ -2597,10 +2597,10 @@
                     "pchangeinOpenInterest": -0.819672131147541,
                     "strikePrice": 1320,
                     "totalBuyQuantity": 52800,
-                    "totalSellQuantity": 60000,
+                    "totalSellQuantity": 60600,
                     "totalTradedVolume": 2,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1320
@@ -2610,7 +2610,7 @@
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 600,
-                    "bidprice": 32.2,
+                    "bidprice": 32.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2625,32 +2625,32 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1320
             },
             {
                 "CE": {
-                    "askPrice": 24.5,
-                    "askQty": 1200,
-                    "bidQty": 600,
-                    "bidprice": 23.9,
-                    "change": -1.5500000000000007,
-                    "changeinOpenInterest": 15,
+                    "askPrice": 24.4,
+                    "askQty": 600,
+                    "bidQty": 1200,
+                    "bidprice": 23.95,
+                    "change": -1.0500000000000007,
+                    "changeinOpenInterest": 17,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKSHRIRAMFIN25-05-2023CE1340.00",
                     "impliedVolatility": 29.63,
-                    "lastPrice": 24,
-                    "openInterest": 203,
-                    "pChange": -6.066536203522507,
-                    "pchangeinOpenInterest": 7.9787234042553195,
+                    "lastPrice": 24.5,
+                    "openInterest": 205,
+                    "pChange": -4.109589041095893,
+                    "pchangeinOpenInterest": 9.042553191489361,
                     "strikePrice": 1340,
                     "totalBuyQuantity": 82800,
                     "totalSellQuantity": 69600,
-                    "totalTradedVolume": 116,
+                    "totalTradedVolume": 119,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 19.15,
@@ -2671,14 +2671,14 @@
                     "totalSellQuantity": 71400,
                     "totalTradedVolume": 10,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1340
             },
             {
                 "CE": {
-                    "askPrice": 64.05,
+                    "askPrice": 63.55,
                     "askQty": 600,
                     "bidQty": 1200,
                     "bidprice": 33,
@@ -2696,7 +2696,7 @@
                     "totalSellQuantity": 1800,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1340
@@ -2706,7 +2706,7 @@
                     "askPrice": 15.45,
                     "askQty": 600,
                     "bidQty": 600,
-                    "bidprice": 14.7,
+                    "bidprice": 14.9,
                     "change": -2.3499999999999996,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
@@ -2717,17 +2717,17 @@
                     "pChange": -14.285714285714285,
                     "pchangeinOpenInterest": -0.2109704641350211,
                     "strikePrice": 1360,
-                    "totalBuyQuantity": 101400,
+                    "totalBuyQuantity": 84600,
                     "totalSellQuantity": 105600,
                     "totalTradedVolume": 124,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 31.15,
-                    "askQty": 600,
+                    "askQty": 1200,
                     "bidQty": 600,
-                    "bidprice": 28.45,
+                    "bidprice": 28.3,
                     "change": -5.899999999999999,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
@@ -2738,18 +2738,18 @@
                     "pChange": -16.208791208791208,
                     "pchangeinOpenInterest": 0.8547008547008547,
                     "strikePrice": 1360,
-                    "totalBuyQuantity": 33000,
-                    "totalSellQuantity": 42000,
+                    "totalBuyQuantity": 31800,
+                    "totalSellQuantity": 43200,
                     "totalTradedVolume": 2,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1360
             },
             {
                 "CE": {
-                    "askPrice": 52.1,
+                    "askPrice": 51.8,
                     "askQty": 600,
                     "bidQty": 1800,
                     "bidprice": 27,
@@ -2764,10 +2764,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1360,
                     "totalBuyQuantity": 3000,
-                    "totalSellQuantity": 1200,
+                    "totalSellQuantity": 1800,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 115.5,
@@ -2788,7 +2788,7 @@
                     "totalSellQuantity": 1800,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1360
@@ -2798,7 +2798,7 @@
                     "askPrice": 8.85,
                     "askQty": 1800,
                     "bidQty": 600,
-                    "bidprice": 8.3,
+                    "bidprice": 8.4,
                     "change": -1.4000000000000004,
                     "changeinOpenInterest": 13,
                     "expiryDate": "25-May-2023",
@@ -2810,16 +2810,16 @@
                     "pchangeinOpenInterest": 7.7844311377245505,
                     "strikePrice": 1380,
                     "totalBuyQuantity": 69000,
-                    "totalSellQuantity": 80400,
+                    "totalSellQuantity": 79800,
                     "totalTradedVolume": 38,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
-                    "askPrice": 44.95,
-                    "askQty": 600,
+                    "askPrice": 46.35,
+                    "askQty": 1200,
                     "bidQty": 600,
-                    "bidprice": 41.55,
+                    "bidprice": 41.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2831,10 +2831,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1380,
                     "totalBuyQuantity": 13200,
-                    "totalSellQuantity": 25200,
+                    "totalSellQuantity": 27000,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1380
@@ -2859,7 +2859,7 @@
                     "totalSellQuantity": 18600,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2880,14 +2880,14 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1380
             },
             {
                 "CE": {
-                    "askPrice": 25.95,
+                    "askPrice": 26,
                     "askQty": 600,
                     "bidQty": 600,
                     "bidprice": 25.3,
@@ -2901,17 +2901,17 @@
                     "pChange": -2.3437500000000053,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1400,
-                    "totalBuyQuantity": 39600,
-                    "totalSellQuantity": 14400,
+                    "totalBuyQuantity": 39000,
+                    "totalSellQuantity": 13800,
                     "totalTradedVolume": 4,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
-                    "askPrice": 134.75,
+                    "askPrice": 115.45,
                     "askQty": 1800,
                     "bidQty": 1800,
-                    "bidprice": 79.55,
+                    "bidprice": 76.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2926,7 +2926,7 @@
                     "totalSellQuantity": 3000,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1400
@@ -2934,9 +2934,9 @@
             {
                 "CE": {
                     "askPrice": 5.2,
-                    "askQty": 600,
+                    "askQty": 1800,
                     "bidQty": 600,
-                    "bidprice": 5,
+                    "bidprice": 5.1,
                     "change": -0.9000000000000004,
                     "changeinOpenInterest": 12,
                     "expiryDate": "25-May-2023",
@@ -2947,17 +2947,17 @@
                     "pChange": -15.254237288135597,
                     "pchangeinOpenInterest": 2.542372881355932,
                     "strikePrice": 1400,
-                    "totalBuyQuantity": 100200,
-                    "totalSellQuantity": 114600,
+                    "totalBuyQuantity": 100800,
+                    "totalSellQuantity": 115800,
                     "totalTradedVolume": 109,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
-                    "askPrice": 61.6,
-                    "askQty": 600,
+                    "askPrice": 62.75,
+                    "askQty": 1200,
                     "bidQty": 600,
-                    "bidprice": 58.75,
+                    "bidprice": 58.2,
                     "change": -15.599999999999994,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2969,10 +2969,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1400,
                     "totalBuyQuantity": 48000,
-                    "totalSellQuantity": 38400,
+                    "totalSellQuantity": 39600,
                     "totalTradedVolume": 1,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1400
@@ -2997,7 +2997,7 @@
                     "totalSellQuantity": 18000,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 167.55,
@@ -3018,7 +3018,7 @@
                     "totalSellQuantity": 1800,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1420
@@ -3026,7 +3026,7 @@
             {
                 "CE": {
                     "askPrice": 2.95,
-                    "askQty": 1200,
+                    "askQty": 600,
                     "bidQty": 600,
                     "bidprice": 2.75,
                     "change": -0.5,
@@ -3039,17 +3039,17 @@
                     "pChange": -15.151515151515152,
                     "pchangeinOpenInterest": -1.9230769230769231,
                     "strikePrice": 1420,
-                    "totalBuyQuantity": 89400,
+                    "totalBuyQuantity": 90000,
                     "totalSellQuantity": 96600,
                     "totalTradedVolume": 25,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
-                    "askPrice": 78.35,
+                    "askPrice": 78,
                     "askQty": 600,
-                    "bidQty": 1200,
-                    "bidprice": 75.65,
+                    "bidQty": 600,
+                    "bidprice": 75.8,
                     "change": -2.700000000000003,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3060,21 +3060,21 @@
                     "pChange": -3.3333333333333366,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1420,
-                    "totalBuyQuantity": 31200,
-                    "totalSellQuantity": 27000,
+                    "totalBuyQuantity": 31800,
+                    "totalSellQuantity": 27600,
                     "totalTradedVolume": 6,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1420
             },
             {
                 "CE": {
-                    "askPrice": 1.9,
-                    "askQty": 7200,
-                    "bidQty": 1800,
-                    "bidprice": 1.75,
+                    "askPrice": 1.8,
+                    "askQty": 6000,
+                    "bidQty": 1200,
+                    "bidprice": 1.7,
                     "change": -0.050000000000000044,
                     "changeinOpenInterest": 15,
                     "expiryDate": "25-May-2023",
@@ -3086,16 +3086,16 @@
                     "pchangeinOpenInterest": 9.615384615384615,
                     "strikePrice": 1440,
                     "totalBuyQuantity": 90600,
-                    "totalSellQuantity": 133800,
+                    "totalSellQuantity": 135600,
                     "totalTradedVolume": 48,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
-                    "askPrice": 98.1,
+                    "askPrice": 96.9,
                     "askQty": 600,
-                    "bidQty": 600,
-                    "bidprice": 92.35,
+                    "bidQty": 1800,
+                    "bidprice": 91.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3106,18 +3106,18 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1440,
-                    "totalBuyQuantity": 25800,
-                    "totalSellQuantity": 25200,
+                    "totalBuyQuantity": 27600,
+                    "totalSellQuantity": 26400,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1440
             },
             {
                 "CE": {
-                    "askPrice": 38.15,
+                    "askPrice": 38.1,
                     "askQty": 600,
                     "bidQty": 600,
                     "bidprice": 12.45,
@@ -3135,7 +3135,7 @@
                     "totalSellQuantity": 19200,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 182.85,
@@ -3156,7 +3156,7 @@
                     "totalSellQuantity": 1800,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1440
@@ -3181,13 +3181,13 @@
                     "totalSellQuantity": 73800,
                     "totalTradedVolume": 1,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
-                    "askPrice": 120.65,
+                    "askPrice": 122.6,
                     "askQty": 1800,
                     "bidQty": 1800,
-                    "bidprice": 109.5,
+                    "bidprice": 110.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3198,11 +3198,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1460,
-                    "totalBuyQuantity": 25200,
-                    "totalSellQuantity": 25200,
+                    "totalBuyQuantity": 27000,
+                    "totalSellQuantity": 27000,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1460
@@ -3227,7 +3227,7 @@
                     "totalSellQuantity": 18000,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 204.4,
@@ -3248,7 +3248,7 @@
                     "totalSellQuantity": 1800,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1460
@@ -3256,7 +3256,7 @@
             {
                 "CE": {
                     "askPrice": 0.7,
-                    "askQty": 1200,
+                    "askQty": 1800,
                     "bidQty": 1200,
                     "bidprice": 0.6,
                     "change": 0,
@@ -3270,16 +3270,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1480,
                     "totalBuyQuantity": 43200,
-                    "totalSellQuantity": 91200,
+                    "totalSellQuantity": 92400,
                     "totalTradedVolume": 12,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
-                    "askPrice": 140.15,
+                    "askPrice": 139.75,
                     "askQty": 1800,
                     "bidQty": 600,
-                    "bidprice": 131.5,
+                    "bidprice": 131.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3290,11 +3290,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1480,
-                    "totalBuyQuantity": 26400,
+                    "totalBuyQuantity": 25800,
                     "totalSellQuantity": 27000,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1480
@@ -3319,7 +3319,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3340,7 +3340,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1480
@@ -3348,7 +3348,7 @@
             {
                 "CE": {
                     "askPrice": 0.6,
-                    "askQty": 1800,
+                    "askQty": 2400,
                     "bidQty": 1800,
                     "bidprice": 0.5,
                     "change": -0.09999999999999998,
@@ -3362,16 +3362,16 @@
                     "pchangeinOpenInterest": 1.6997167138810199,
                     "strikePrice": 1500,
                     "totalBuyQuantity": 66600,
-                    "totalSellQuantity": 69000,
+                    "totalSellQuantity": 69600,
                     "totalTradedVolume": 37,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
-                    "askPrice": 163.4,
-                    "askQty": 1200,
-                    "bidQty": 1800,
-                    "bidprice": 149.75,
+                    "askPrice": 162,
+                    "askQty": 600,
+                    "bidQty": 3600,
+                    "bidprice": 147.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3386,7 +3386,7 @@
                     "totalSellQuantity": 24600,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1500
@@ -3411,7 +3411,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3432,7 +3432,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1500
@@ -3457,7 +3457,7 @@
                     "totalSellQuantity": 19200,
                     "totalTradedVolume": 1,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 184.3,
@@ -3478,7 +3478,7 @@
                     "totalSellQuantity": 26400,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1520
@@ -3503,7 +3503,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3524,7 +3524,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1520
@@ -3549,7 +3549,7 @@
                     "totalSellQuantity": 1800,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 202.9,
@@ -3570,7 +3570,7 @@
                     "totalSellQuantity": 25200,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1540
@@ -3595,7 +3595,28 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
+                },
+                "PE": {
+                    "askPrice": 0,
+                    "askQty": 0,
+                    "bidQty": 1800,
+                    "bidprice": 124.2,
+                    "change": 0,
+                    "changeinOpenInterest": 0,
+                    "expiryDate": "29-Jun-2023",
+                    "identifier": "OPTSTKSHRIRAMFIN29-06-2023PE1540.00",
+                    "impliedVolatility": 0,
+                    "lastPrice": 0,
+                    "openInterest": 0,
+                    "pChange": 0,
+                    "pchangeinOpenInterest": 0,
+                    "strikePrice": 1540,
+                    "totalBuyQuantity": 1800,
+                    "totalSellQuantity": 0,
+                    "totalTradedVolume": 0,
+                    "underlying": "SHRIRAMFIN",
+                    "underlyingValue": 0
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1540
@@ -3620,7 +3641,7 @@
                     "totalSellQuantity": 3000,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 227.25,
@@ -3641,7 +3662,7 @@
                     "totalSellQuantity": 23400,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1560
@@ -3666,7 +3687,28 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
+                },
+                "PE": {
+                    "askPrice": 0,
+                    "askQty": 0,
+                    "bidQty": 1800,
+                    "bidprice": 134.2,
+                    "change": 0,
+                    "changeinOpenInterest": 0,
+                    "expiryDate": "29-Jun-2023",
+                    "identifier": "OPTSTKSHRIRAMFIN29-06-2023PE1560.00",
+                    "impliedVolatility": 0,
+                    "lastPrice": 0,
+                    "openInterest": 0,
+                    "pChange": 0,
+                    "pchangeinOpenInterest": 0,
+                    "strikePrice": 1560,
+                    "totalBuyQuantity": 1800,
+                    "totalSellQuantity": 0,
+                    "totalTradedVolume": 0,
+                    "underlying": "SHRIRAMFIN",
+                    "underlyingValue": 0
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1560
@@ -3691,7 +3733,7 @@
                     "totalSellQuantity": 600,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 247,
@@ -3712,7 +3754,7 @@
                     "totalSellQuantity": 23400,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1580
@@ -3737,7 +3779,28 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
+                },
+                "PE": {
+                    "askPrice": 0,
+                    "askQty": 0,
+                    "bidQty": 1800,
+                    "bidprice": 144.45,
+                    "change": 0,
+                    "changeinOpenInterest": 0,
+                    "expiryDate": "29-Jun-2023",
+                    "identifier": "OPTSTKSHRIRAMFIN29-06-2023PE1580.00",
+                    "impliedVolatility": 0,
+                    "lastPrice": 0,
+                    "openInterest": 0,
+                    "pChange": 0,
+                    "pchangeinOpenInterest": 0,
+                    "strikePrice": 1580,
+                    "totalBuyQuantity": 1800,
+                    "totalSellQuantity": 0,
+                    "totalTradedVolume": 0,
+                    "underlying": "SHRIRAMFIN",
+                    "underlyingValue": 0
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1580
@@ -3762,11 +3825,11 @@
                     "totalSellQuantity": 10200,
                     "totalTradedVolume": 2,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
-                    "askPrice": 265.55,
-                    "askQty": 1800,
+                    "askPrice": 265.6,
+                    "askQty": 3600,
                     "bidQty": 1800,
                     "bidprice": 246.05,
                     "change": 0,
@@ -3780,10 +3843,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1600,
                     "totalBuyQuantity": 23400,
-                    "totalSellQuantity": 23400,
+                    "totalSellQuantity": 21600,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1600
@@ -3808,13 +3871,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 358.4,
                     "askQty": 1800,
                     "bidQty": 1800,
-                    "bidprice": 156.75,
+                    "bidprice": 154.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3829,7 +3892,7 @@
                     "totalSellQuantity": 1800,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1600
@@ -3854,7 +3917,7 @@
                     "totalSellQuantity": 600,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 297.15,
@@ -3875,7 +3938,7 @@
                     "totalSellQuantity": 19800,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1620
@@ -3900,7 +3963,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1620
@@ -3925,7 +3988,7 @@
                     "totalSellQuantity": 18000,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 332.6,
@@ -3946,7 +4009,7 @@
                     "totalSellQuantity": 18000,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1640
@@ -3971,7 +4034,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1640
@@ -3996,7 +4059,7 @@
                     "totalSellQuantity": 18000,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "PE": {
                     "askPrice": 327.3,
@@ -4017,7 +4080,7 @@
                     "totalSellQuantity": 23400,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1660
@@ -4042,7 +4105,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "SHRIRAMFIN",
-                    "underlyingValue": 1341.2
+                    "underlyingValue": 1341.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1660
@@ -4086,7 +4149,7 @@
             1640,
             1660
         ],
-        "timestamp": "18-May-2023 10:21:15",
-        "underlyingValue": 1341.2
+        "timestamp": "18-May-2023 10:25:46",
+        "underlyingValue": 1341.25
     }
 }

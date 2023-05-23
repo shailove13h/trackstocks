@@ -1,20 +1,20 @@
 {
     "filtered": {
         "CE": {
-            "totOI": 3150,
-            "totVol": 810
+            "totOI": 3152,
+            "totVol": 823
         },
         "PE": {
             "totOI": 1264,
-            "totVol": 248
+            "totVol": 253
         },
         "data": [
             {
                 "CE": {
-                    "askPrice": 47.6,
+                    "askPrice": 47.5,
                     "askQty": 9000,
                     "bidQty": 9000,
-                    "bidprice": 29.45,
+                    "bidprice": 39.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -29,7 +29,7 @@
                     "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 0.45,
@@ -50,17 +50,17 @@
                     "totalSellQuantity": 33000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 187.5
             },
             {
                 "CE": {
-                    "askPrice": 45.35,
+                    "askPrice": 45.05,
                     "askQty": 9000,
                     "bidQty": 9000,
-                    "bidprice": 29.85,
+                    "bidprice": 37.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -75,7 +75,7 @@
                     "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 3,
@@ -96,7 +96,7 @@
                     "totalSellQuantity": 6000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 190
@@ -106,7 +106,7 @@
                     "askPrice": 42.55,
                     "askQty": 9000,
                     "bidQty": 9000,
-                    "bidprice": 29.65,
+                    "bidprice": 34.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -121,7 +121,7 @@
                     "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 0.55,
@@ -142,7 +142,7 @@
                     "totalSellQuantity": 30000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 192.5
@@ -152,7 +152,7 @@
                     "askPrice": 40.05,
                     "askQty": 9000,
                     "bidQty": 9000,
-                    "bidprice": 27.05,
+                    "bidprice": 32.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -167,17 +167,17 @@
                     "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 195
             },
             {
                 "CE": {
-                    "askPrice": 37.55,
+                    "askPrice": 37.45,
                     "askQty": 9000,
                     "bidQty": 9000,
-                    "bidprice": 23.5,
+                    "bidprice": 29,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -192,7 +192,7 @@
                     "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 0.45,
@@ -213,17 +213,17 @@
                     "totalSellQuantity": 33000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 197.5
             },
             {
                 "CE": {
-                    "askPrice": 34.55,
+                    "askPrice": 34.65,
                     "askQty": 9000,
                     "bidQty": 9000,
-                    "bidprice": 28.05,
+                    "bidprice": 29.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -235,14 +235,14 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 200,
                     "totalBuyQuantity": 135000,
-                    "totalSellQuantity": 135000,
+                    "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 0.05,
-                    "askQty": 57000,
+                    "askQty": 63000,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -256,20 +256,20 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 200,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 102000,
+                    "totalSellQuantity": 114000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 200
             },
             {
                 "CE": {
-                    "askPrice": 32.85,
+                    "askPrice": 32.55,
                     "askQty": 9000,
                     "bidQty": 9000,
-                    "bidprice": 14.85,
+                    "bidprice": 14.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -280,11 +280,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 202.5,
-                    "totalBuyQuantity": 72000,
+                    "totalBuyQuantity": 75000,
                     "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 0.45,
@@ -305,7 +305,7 @@
                     "totalSellQuantity": 33000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 202.5
@@ -315,7 +315,7 @@
                     "askPrice": 29.7,
                     "askQty": 9000,
                     "bidQty": 9000,
-                    "bidprice": 12.45,
+                    "bidprice": 16.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -326,11 +326,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 205,
-                    "totalBuyQuantity": 84000,
+                    "totalBuyQuantity": 135000,
                     "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 1.7,
@@ -351,17 +351,17 @@
                     "totalSellQuantity": 3000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 205
             },
             {
                 "CE": {
-                    "askPrice": 27.5,
+                    "askPrice": 25,
                     "askQty": 9000,
                     "bidQty": 9000,
-                    "bidprice": 19.9,
+                    "bidprice": 22.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -372,11 +372,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 207.5,
-                    "totalBuyQuantity": 129000,
-                    "totalSellQuantity": 129000,
+                    "totalBuyQuantity": 135000,
+                    "totalSellQuantity": 135000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 0.4,
@@ -397,17 +397,17 @@
                     "totalSellQuantity": 39000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 207.5
             },
             {
                 "CE": {
-                    "askPrice": 22.6,
-                    "askQty": 9000,
-                    "bidQty": 9000,
-                    "bidprice": 20.4,
+                    "askPrice": 21.5,
+                    "askQty": 12000,
+                    "bidQty": 18000,
+                    "bidprice": 20.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -419,14 +419,14 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 210,
                     "totalBuyQuantity": 165000,
-                    "totalSellQuantity": 168000,
+                    "totalSellQuantity": 159000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 0.1,
-                    "askQty": 27000,
+                    "askQty": 30000,
                     "bidQty": 156000,
                     "bidprice": 0.05,
                     "change": 0,
@@ -443,17 +443,17 @@
                     "totalSellQuantity": 333000,
                     "totalTradedVolume": 1,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 210
             },
             {
                 "CE": {
-                    "askPrice": 23.35,
+                    "askPrice": 22.95,
                     "askQty": 9000,
                     "bidQty": 9000,
-                    "bidprice": 16.4,
+                    "bidprice": 17.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -464,11 +464,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 212.5,
-                    "totalBuyQuantity": 138000,
+                    "totalBuyQuantity": 141000,
                     "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 0.45,
@@ -489,17 +489,17 @@
                     "totalSellQuantity": 6000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 212.5
             },
             {
                 "CE": {
-                    "askPrice": 16.9,
+                    "askPrice": 16.6,
                     "askQty": 12000,
                     "bidQty": 12000,
-                    "bidprice": 15.65,
+                    "bidprice": 15.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -514,7 +514,7 @@
                     "totalSellQuantity": 159000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 0.2,
@@ -525,7 +525,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPETRONET25-05-2023PE215.00",
-                    "impliedVolatility": 31.71,
+                    "impliedVolatility": 31.49,
                     "lastPrice": 0.2,
                     "openInterest": 84,
                     "pChange": -19.999999999999996,
@@ -535,17 +535,17 @@
                     "totalSellQuantity": 351000,
                     "totalTradedVolume": 14,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 215
             },
             {
                 "CE": {
-                    "askPrice": 14.85,
-                    "askQty": 9000,
+                    "askPrice": 14.65,
+                    "askQty": 3000,
                     "bidQty": 3000,
-                    "bidprice": 13.15,
+                    "bidprice": 12.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -557,10 +557,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 217.5,
                     "totalBuyQuantity": 153000,
-                    "totalSellQuantity": 159000,
+                    "totalSellQuantity": 150000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 0.25,
@@ -581,17 +581,17 @@
                     "totalSellQuantity": 231000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 217.5
             },
             {
                 "CE": {
-                    "askPrice": 11.75,
-                    "askQty": 6000,
-                    "bidQty": 6000,
-                    "bidprice": 11.3,
+                    "askPrice": 11.35,
+                    "askQty": 3000,
+                    "bidQty": 3000,
+                    "bidprice": 11,
                     "change": 2.0999999999999996,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -602,42 +602,42 @@
                     "pChange": 20.487804878048777,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 220,
-                    "totalBuyQuantity": 276000,
-                    "totalSellQuantity": 285000,
+                    "totalBuyQuantity": 273000,
+                    "totalSellQuantity": 282000,
                     "totalTradedVolume": 5,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 0.4,
                     "askQty": 51000,
-                    "bidQty": 3000,
+                    "bidQty": 9000,
                     "bidprice": 0.35,
                     "change": -0.25,
                     "changeinOpenInterest": 11,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPETRONET25-05-2023PE220.00",
-                    "impliedVolatility": 26.77,
+                    "impliedVolatility": 26.52,
                     "lastPrice": 0.35,
                     "openInterest": 240,
                     "pChange": -41.66666666666667,
                     "pchangeinOpenInterest": 4.8034934497816595,
                     "strikePrice": 220,
-                    "totalBuyQuantity": 1128000,
-                    "totalSellQuantity": 402000,
+                    "totalBuyQuantity": 1212000,
+                    "totalSellQuantity": 405000,
                     "totalTradedVolume": 69,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 220
             },
             {
                 "CE": {
-                    "askPrice": 9.4,
+                    "askPrice": 9.3,
                     "askQty": 3000,
                     "bidQty": 3000,
-                    "bidprice": 8.25,
+                    "bidprice": 8.4,
                     "change": 1.5999999999999996,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -649,41 +649,41 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 222.5,
                     "totalBuyQuantity": 162000,
-                    "totalSellQuantity": 153000,
+                    "totalSellQuantity": 150000,
                     "totalTradedVolume": 1,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 0.65,
                     "askQty": 9000,
-                    "bidQty": 24000,
-                    "bidprice": 0.55,
+                    "bidQty": 9000,
+                    "bidprice": 0.6,
                     "change": -0.5,
                     "changeinOpenInterest": -13,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPETRONET25-05-2023PE222.50",
-                    "impliedVolatility": 24.55,
+                    "impliedVolatility": 24.26,
                     "lastPrice": 0.5,
                     "openInterest": 70,
                     "pChange": -50,
                     "pchangeinOpenInterest": -15.662650602409638,
                     "strikePrice": 222.5,
-                    "totalBuyQuantity": 216000,
-                    "totalSellQuantity": 411000,
+                    "totalBuyQuantity": 222000,
+                    "totalSellQuantity": 417000,
                     "totalTradedVolume": 23,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 222.5
             },
             {
                 "CE": {
-                    "askPrice": 6.9,
+                    "askPrice": 7.05,
                     "askQty": 3000,
-                    "bidQty": 6000,
-                    "bidprice": 6.7,
+                    "bidQty": 3000,
+                    "bidprice": 6.75,
                     "change": 1.25,
                     "changeinOpenInterest": -5,
                     "expiryDate": "25-May-2023",
@@ -694,78 +694,78 @@
                     "pChange": 20.833333333333336,
                     "pchangeinOpenInterest": -7.575757575757576,
                     "strikePrice": 225,
-                    "totalBuyQuantity": 300000,
+                    "totalBuyQuantity": 297000,
                     "totalSellQuantity": 306000,
                     "totalTradedVolume": 19,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "PE": {
-                    "askPrice": 1,
+                    "askPrice": 1.05,
                     "askQty": 6000,
-                    "bidQty": 21000,
-                    "bidprice": 0.9,
-                    "change": -0.44999999999999996,
+                    "bidQty": 9000,
+                    "bidprice": 0.95,
+                    "change": -0.3999999999999999,
                     "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPETRONET25-05-2023PE225.00",
                     "impliedVolatility": 23.85,
-                    "lastPrice": 0.95,
+                    "lastPrice": 1,
                     "openInterest": 175,
-                    "pChange": -32.14285714285714,
+                    "pChange": -28.571428571428566,
                     "pchangeinOpenInterest": 1.1560693641618498,
                     "strikePrice": 225,
-                    "totalBuyQuantity": 1113000,
-                    "totalSellQuantity": 474000,
-                    "totalTradedVolume": 32,
+                    "totalBuyQuantity": 1107000,
+                    "totalSellQuantity": 468000,
+                    "totalTradedVolume": 34,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 225
             },
             {
                 "CE": {
-                    "askPrice": 5.45,
-                    "askQty": 3000,
+                    "askPrice": 5.15,
+                    "askQty": 9000,
                     "bidQty": 3000,
-                    "bidprice": 5.2,
+                    "bidprice": 4.9,
                     "change": 1,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPETRONET25-05-2023CE227.50",
-                    "impliedVolatility": 29.42,
+                    "impliedVolatility": 30.26,
                     "lastPrice": 5.85,
                     "openInterest": 45,
                     "pChange": 20.61855670103093,
                     "pchangeinOpenInterest": 2.272727272727273,
                     "strikePrice": 227.5,
-                    "totalBuyQuantity": 273000,
+                    "totalBuyQuantity": 270000,
                     "totalSellQuantity": 282000,
                     "totalTradedVolume": 3,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
-                    "askPrice": 1.75,
-                    "askQty": 3000,
-                    "bidQty": 6000,
+                    "askPrice": 1.8,
+                    "askQty": 18000,
+                    "bidQty": 3000,
                     "bidprice": 1.6,
                     "change": -0.8,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPETRONET25-05-2023PE227.50",
-                    "impliedVolatility": 23.18,
+                    "impliedVolatility": 22.77,
                     "lastPrice": 1.45,
                     "openInterest": 73,
                     "pChange": -35.55555555555556,
                     "pchangeinOpenInterest": -2.6666666666666665,
                     "strikePrice": 227.5,
-                    "totalBuyQuantity": 252000,
-                    "totalSellQuantity": 378000,
+                    "totalBuyQuantity": 264000,
+                    "totalSellQuantity": 381000,
                     "totalTradedVolume": 6,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 227.5
@@ -773,45 +773,45 @@
             {
                 "CE": {
                     "askPrice": 3.7,
-                    "askQty": 3000,
-                    "bidQty": 15000,
+                    "askQty": 6000,
+                    "bidQty": 9000,
                     "bidprice": 3.6,
-                    "change": 0.44999999999999973,
-                    "changeinOpenInterest": -54,
+                    "change": 0.5499999999999998,
+                    "changeinOpenInterest": -53,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPETRONET25-05-2023CE230.00",
-                    "impliedVolatility": 24.92,
-                    "lastPrice": 3.65,
-                    "openInterest": 383,
-                    "pChange": 14.062499999999991,
-                    "pchangeinOpenInterest": -12.356979405034325,
+                    "impliedVolatility": 26.78,
+                    "lastPrice": 3.75,
+                    "openInterest": 384,
+                    "pChange": 17.187499999999993,
+                    "pchangeinOpenInterest": -12.128146453089245,
                     "strikePrice": 230,
-                    "totalBuyQuantity": 357000,
-                    "totalSellQuantity": 507000,
-                    "totalTradedVolume": 315,
+                    "totalBuyQuantity": 363000,
+                    "totalSellQuantity": 513000,
+                    "totalTradedVolume": 323,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
-                    "askPrice": 2.8,
-                    "askQty": 6000,
+                    "askPrice": 2.85,
+                    "askQty": 3000,
                     "bidQty": 6000,
-                    "bidprice": 2.7,
-                    "change": -0.9500000000000002,
+                    "bidprice": 2.75,
+                    "change": -0.6499999999999999,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPETRONET25-05-2023PE230.00",
-                    "impliedVolatility": 23.66,
-                    "lastPrice": 2.55,
+                    "impliedVolatility": 23.93,
+                    "lastPrice": 2.85,
                     "openInterest": 178,
-                    "pChange": -27.142857142857146,
+                    "pChange": -18.57142857142857,
                     "pchangeinOpenInterest": -1.1111111111111112,
                     "strikePrice": 230,
                     "totalBuyQuantity": 354000,
                     "totalSellQuantity": 426000,
-                    "totalTradedVolume": 57,
+                    "totalTradedVolume": 59,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 230
@@ -820,44 +820,44 @@
                 "CE": {
                     "askPrice": 2.55,
                     "askQty": 15000,
-                    "bidQty": 6000,
-                    "bidprice": 2.4,
-                    "change": 0.5499999999999998,
+                    "bidQty": 3000,
+                    "bidprice": 2.45,
+                    "change": 0.1499999999999999,
                     "changeinOpenInterest": 36,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPETRONET25-05-2023CE232.50",
-                    "impliedVolatility": 25.51,
-                    "lastPrice": 2.8,
+                    "impliedVolatility": 27.22,
+                    "lastPrice": 2.4,
                     "openInterest": 105,
-                    "pChange": 24.444444444444436,
+                    "pChange": 6.6666666666666625,
                     "pchangeinOpenInterest": 52.17391304347826,
                     "strikePrice": 232.5,
-                    "totalBuyQuantity": 333000,
-                    "totalSellQuantity": 528000,
-                    "totalTradedVolume": 103,
+                    "totalBuyQuantity": 327000,
+                    "totalSellQuantity": 525000,
+                    "totalTradedVolume": 104,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 4.2,
                     "askQty": 3000,
                     "bidQty": 6000,
-                    "bidprice": 4,
+                    "bidprice": 4.05,
                     "change": -1,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPETRONET25-05-2023PE232.50",
-                    "impliedVolatility": 23.89,
+                    "impliedVolatility": 23.21,
                     "lastPrice": 3.75,
                     "openInterest": 22,
                     "pChange": -21.052631578947366,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 232.5,
-                    "totalBuyQuantity": 420000,
-                    "totalSellQuantity": 426000,
+                    "totalBuyQuantity": 426000,
+                    "totalSellQuantity": 429000,
                     "totalTradedVolume": 17,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 232.5
@@ -866,44 +866,44 @@
                 "CE": {
                     "askPrice": 1.7,
                     "askQty": 24000,
-                    "bidQty": 3000,
+                    "bidQty": 6000,
                     "bidprice": 1.55,
-                    "change": 0.25,
-                    "changeinOpenInterest": 2,
+                    "change": 0.19999999999999996,
+                    "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPETRONET25-05-2023CE235.00",
-                    "impliedVolatility": 25.74,
-                    "lastPrice": 1.7,
-                    "openInterest": 329,
-                    "pChange": 17.24137931034483,
-                    "pchangeinOpenInterest": 0.6116207951070336,
+                    "impliedVolatility": 26.17,
+                    "lastPrice": 1.65,
+                    "openInterest": 330,
+                    "pChange": 13.79310344827586,
+                    "pchangeinOpenInterest": 0.9174311926605505,
                     "strikePrice": 235,
                     "totalBuyQuantity": 1119000,
-                    "totalSellQuantity": 534000,
-                    "totalTradedVolume": 106,
+                    "totalSellQuantity": 531000,
+                    "totalTradedVolume": 107,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 5.9,
                     "askQty": 3000,
-                    "bidQty": 6000,
-                    "bidprice": 5.6,
-                    "change": -1.3499999999999996,
+                    "bidQty": 3000,
+                    "bidprice": 5.55,
+                    "change": -1.2999999999999998,
                     "changeinOpenInterest": -14,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPETRONET25-05-2023PE235.00",
-                    "impliedVolatility": 19.96,
-                    "lastPrice": 5.5,
+                    "impliedVolatility": 24.42,
+                    "lastPrice": 5.55,
                     "openInterest": 69,
-                    "pChange": -19.708029197080286,
+                    "pChange": -18.97810218978102,
                     "pchangeinOpenInterest": -16.867469879518072,
                     "strikePrice": 235,
-                    "totalBuyQuantity": 300000,
-                    "totalSellQuantity": 300000,
-                    "totalTradedVolume": 18,
+                    "totalBuyQuantity": 297000,
+                    "totalSellQuantity": 297000,
+                    "totalTradedVolume": 19,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 235
@@ -918,21 +918,21 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPETRONET25-05-2023CE237.50",
-                    "impliedVolatility": 27.42,
+                    "impliedVolatility": 27.79,
                     "lastPrice": 1.25,
                     "openInterest": 144,
                     "pChange": 19.047619047619044,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 237.5,
-                    "totalBuyQuantity": 342000,
+                    "totalBuyQuantity": 336000,
                     "totalSellQuantity": 450000,
                     "totalTradedVolume": 23,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
-                    "askPrice": 7.75,
-                    "askQty": 9000,
+                    "askPrice": 7.85,
+                    "askQty": 12000,
                     "bidQty": 3000,
                     "bidprice": 7.45,
                     "change": -1.3000000000000007,
@@ -946,10 +946,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 237.5,
                     "totalBuyQuantity": 270000,
-                    "totalSellQuantity": 294000,
+                    "totalSellQuantity": 300000,
                     "totalTradedVolume": 9,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 237.5
@@ -957,30 +957,30 @@
             {
                 "CE": {
                     "askPrice": 0.85,
-                    "askQty": 12000,
+                    "askQty": 24000,
                     "bidQty": 3000,
-                    "bidprice": 0.8,
+                    "bidprice": 0.75,
                     "change": 0,
                     "changeinOpenInterest": -60,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPETRONET25-05-2023CE240.00",
-                    "impliedVolatility": 28.45,
+                    "impliedVolatility": 27.53,
                     "lastPrice": 0.75,
                     "openInterest": 922,
                     "pChange": 0,
                     "pchangeinOpenInterest": -6.109979633401222,
                     "strikePrice": 240,
                     "totalBuyQuantity": 1710000,
-                    "totalSellQuantity": 957000,
-                    "totalTradedVolume": 176,
+                    "totalSellQuantity": 933000,
+                    "totalTradedVolume": 179,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
-                    "askPrice": 9.55,
+                    "askPrice": 10.1,
                     "askQty": 3000,
                     "bidQty": 3000,
-                    "bidprice": 8.9,
+                    "bidprice": 9.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -992,10 +992,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 240,
                     "totalBuyQuantity": 288000,
-                    "totalSellQuantity": 279000,
+                    "totalSellQuantity": 276000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 240
@@ -1005,12 +1005,12 @@
                     "askPrice": 0.6,
                     "askQty": 9000,
                     "bidQty": 6000,
-                    "bidprice": 0.45,
+                    "bidprice": 0.4,
                     "change": 0.09999999999999998,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPETRONET25-05-2023CE242.50",
-                    "impliedVolatility": 29.84,
+                    "impliedVolatility": 30.13,
                     "lastPrice": 0.6,
                     "openInterest": 74,
                     "pChange": 19.999999999999996,
@@ -1020,13 +1020,13 @@
                     "totalSellQuantity": 411000,
                     "totalTradedVolume": 3,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
-                    "askPrice": 12.85,
-                    "askQty": 3000,
+                    "askPrice": 12.7,
+                    "askQty": 9000,
                     "bidQty": 3000,
-                    "bidprice": 11.65,
+                    "bidprice": 11.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1038,10 +1038,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 242.5,
                     "totalBuyQuantity": 162000,
-                    "totalSellQuantity": 162000,
+                    "totalSellQuantity": 159000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 242.5
@@ -1050,29 +1050,29 @@
                 "CE": {
                     "askPrice": 0.35,
                     "askQty": 6000,
-                    "bidQty": 45000,
+                    "bidQty": 42000,
                     "bidprice": 0.3,
                     "change": -0.04999999999999999,
                     "changeinOpenInterest": -13,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPETRONET25-05-2023CE245.00",
-                    "impliedVolatility": 28.63,
+                    "impliedVolatility": 28.88,
                     "lastPrice": 0.3,
                     "openInterest": 245,
                     "pChange": -14.285714285714283,
                     "pchangeinOpenInterest": -5.038759689922481,
                     "strikePrice": 245,
-                    "totalBuyQuantity": 783000,
-                    "totalSellQuantity": 543000,
+                    "totalBuyQuantity": 780000,
+                    "totalSellQuantity": 537000,
                     "totalTradedVolume": 24,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
-                    "askPrice": 14.7,
+                    "askPrice": 14.45,
                     "askQty": 3000,
                     "bidQty": 3000,
-                    "bidprice": 14.3,
+                    "bidprice": 13.9,
                     "change": -2.4499999999999993,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1084,10 +1084,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 245,
                     "totalBuyQuantity": 153000,
-                    "totalSellQuantity": 156000,
+                    "totalSellQuantity": 159000,
                     "totalTradedVolume": 2,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 245
@@ -1112,13 +1112,13 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
-                    "askPrice": 21.65,
-                    "askQty": 9000,
-                    "bidQty": 3000,
-                    "bidprice": 16.1,
+                    "askPrice": 19.45,
+                    "askQty": 3000,
+                    "bidQty": 12000,
+                    "bidprice": 12.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1130,10 +1130,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 247.5,
                     "totalBuyQuantity": 132000,
-                    "totalSellQuantity": 132000,
+                    "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 247.5
@@ -1158,13 +1158,13 @@
                     "totalSellQuantity": 714000,
                     "totalTradedVolume": 32,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "PE": {
-                    "askPrice": 20.05,
-                    "askQty": 12000,
-                    "bidQty": 12000,
-                    "bidprice": 18.65,
+                    "askPrice": 20.75,
+                    "askQty": 21000,
+                    "bidQty": 9000,
+                    "bidprice": 18.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1175,11 +1175,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 250,
-                    "totalBuyQuantity": 159000,
-                    "totalSellQuantity": 159000,
+                    "totalBuyQuantity": 168000,
+                    "totalSellQuantity": 168000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 250
@@ -1204,7 +1204,7 @@
                     "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 252.5
@@ -1212,8 +1212,8 @@
             {
                 "CE": {
                     "askPrice": 0.2,
-                    "askQty": 15000,
-                    "bidQty": 129000,
+                    "askQty": 9000,
+                    "bidQty": 159000,
                     "bidprice": 0.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -1225,15 +1225,15 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 255,
-                    "totalBuyQuantity": 129000,
-                    "totalSellQuantity": 246000,
+                    "totalBuyQuantity": 159000,
+                    "totalSellQuantity": 240000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "PE": {
-                    "askPrice": 25.45,
-                    "askQty": 9000,
+                    "askPrice": 25.5,
+                    "askQty": 18000,
                     "bidQty": 9000,
                     "bidprice": 22.15,
                     "change": 0,
@@ -1247,10 +1247,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 255,
                     "totalBuyQuantity": 147000,
-                    "totalSellQuantity": 147000,
+                    "totalSellQuantity": 138000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 255
@@ -1275,7 +1275,7 @@
                     "totalSellQuantity": 3000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 32.6,
@@ -1296,7 +1296,7 @@
                     "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 257.5
@@ -1305,7 +1305,7 @@
                 "CE": {
                     "askPrice": 0.1,
                     "askQty": 18000,
-                    "bidQty": 60000,
+                    "bidQty": 57000,
                     "bidprice": 0.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -1317,11 +1317,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 260,
-                    "totalBuyQuantity": 60000,
-                    "totalSellQuantity": 159000,
+                    "totalBuyQuantity": 57000,
+                    "totalSellQuantity": 177000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 30.55,
@@ -1342,7 +1342,7 @@
                     "totalSellQuantity": 147000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 260
@@ -1367,7 +1367,7 @@
                     "totalSellQuantity": 3000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 37.65,
@@ -1388,7 +1388,7 @@
                     "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 262.5
@@ -1410,13 +1410,13 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 265,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 81000,
+                    "totalSellQuantity": 30000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
-                    "askPrice": 47.45,
+                    "askPrice": 39.45,
                     "askQty": 9000,
                     "bidQty": 9000,
                     "bidprice": 30.45,
@@ -1434,7 +1434,7 @@
                     "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 265
@@ -1459,7 +1459,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 43.6,
@@ -1480,7 +1480,7 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 267.5
@@ -1505,10 +1505,10 @@
                     "totalSellQuantity": 48000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "PE": {
-                    "askPrice": 51.75,
+                    "askPrice": 45.75,
                     "askQty": 9000,
                     "bidQty": 9000,
                     "bidprice": 35.45,
@@ -1526,7 +1526,7 @@
                     "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 270
@@ -1551,7 +1551,7 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 272.5
@@ -1576,10 +1576,10 @@
                     "totalSellQuantity": 15000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
-                    "askPrice": 55.25,
+                    "askPrice": 48.05,
                     "askQty": 9000,
                     "bidQty": 9000,
                     "bidprice": 40.45,
@@ -1597,7 +1597,7 @@
                     "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 275
@@ -1608,10 +1608,10 @@
         "data": [
             {
                 "CE": {
-                    "askPrice": 47.6,
+                    "askPrice": 47.5,
                     "askQty": 9000,
                     "bidQty": 9000,
-                    "bidprice": 29.45,
+                    "bidprice": 39.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1626,7 +1626,7 @@
                     "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 0.45,
@@ -1647,7 +1647,7 @@
                     "totalSellQuantity": 33000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 187.5
@@ -1672,7 +1672,7 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 187.5
@@ -1697,17 +1697,17 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 190
             },
             {
                 "CE": {
-                    "askPrice": 45.35,
+                    "askPrice": 45.05,
                     "askQty": 9000,
                     "bidQty": 9000,
-                    "bidprice": 29.85,
+                    "bidprice": 37.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1722,7 +1722,7 @@
                     "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 3,
@@ -1743,7 +1743,7 @@
                     "totalSellQuantity": 6000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 190
@@ -1753,7 +1753,7 @@
                     "askPrice": 42.55,
                     "askQty": 9000,
                     "bidQty": 9000,
-                    "bidprice": 29.65,
+                    "bidprice": 34.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1768,7 +1768,7 @@
                     "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 0.55,
@@ -1789,15 +1789,15 @@
                     "totalSellQuantity": 30000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 192.5
             },
             {
                 "CE": {
-                    "askPrice": 47.65,
-                    "askQty": 9000,
+                    "askPrice": 45.55,
+                    "askQty": 120000,
                     "bidQty": 9000,
                     "bidprice": 25.85,
                     "change": 0,
@@ -1811,10 +1811,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 192.5,
                     "totalBuyQuantity": 9000,
-                    "totalSellQuantity": 129000,
+                    "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1835,7 +1835,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 192.5
@@ -1860,7 +1860,7 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 195
@@ -1870,7 +1870,7 @@
                     "askPrice": 40.05,
                     "askQty": 9000,
                     "bidQty": 9000,
-                    "bidprice": 27.05,
+                    "bidprice": 32.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1885,17 +1885,17 @@
                     "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 195
             },
             {
                 "CE": {
-                    "askPrice": 37.55,
+                    "askPrice": 37.45,
                     "askQty": 9000,
                     "bidQty": 9000,
-                    "bidprice": 23.5,
+                    "bidprice": 29,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1910,7 +1910,7 @@
                     "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 0.45,
@@ -1931,7 +1931,7 @@
                     "totalSellQuantity": 33000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 197.5
@@ -1956,7 +1956,7 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1977,17 +1977,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 197.5
             },
             {
                 "CE": {
-                    "askPrice": 34.55,
+                    "askPrice": 34.65,
                     "askQty": 9000,
                     "bidQty": 9000,
-                    "bidprice": 28.05,
+                    "bidprice": 29.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1999,14 +1999,14 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 200,
                     "totalBuyQuantity": 135000,
-                    "totalSellQuantity": 135000,
+                    "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 0.05,
-                    "askQty": 57000,
+                    "askQty": 63000,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -2020,10 +2020,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 200,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 102000,
+                    "totalSellQuantity": 114000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 200
@@ -2048,7 +2048,7 @@
                     "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 0.45,
@@ -2069,17 +2069,17 @@
                     "totalSellQuantity": 3000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 200
             },
             {
                 "CE": {
-                    "askPrice": 32.85,
+                    "askPrice": 32.55,
                     "askQty": 9000,
                     "bidQty": 9000,
-                    "bidprice": 14.85,
+                    "bidprice": 14.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2090,11 +2090,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 202.5,
-                    "totalBuyQuantity": 72000,
+                    "totalBuyQuantity": 75000,
                     "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 0.45,
@@ -2115,7 +2115,7 @@
                     "totalSellQuantity": 33000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 202.5
@@ -2140,11 +2140,11 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "PE": {
-                    "askPrice": 3.6,
-                    "askQty": 120000,
+                    "askPrice": 0,
+                    "askQty": 0,
                     "bidQty": 3000,
                     "bidprice": 0.05,
                     "change": 0,
@@ -2158,18 +2158,18 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 202.5,
                     "totalBuyQuantity": 3000,
-                    "totalSellQuantity": 120000,
+                    "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 202.5
             },
             {
                 "CE": {
-                    "askPrice": 32.95,
-                    "askQty": 6000,
+                    "askPrice": 35.15,
+                    "askQty": 120000,
                     "bidQty": 15000,
                     "bidprice": 15.2,
                     "change": 0,
@@ -2183,10 +2183,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 205,
                     "totalBuyQuantity": 15000,
-                    "totalSellQuantity": 135000,
+                    "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 4,
@@ -2207,7 +2207,7 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 205
@@ -2217,7 +2217,7 @@
                     "askPrice": 29.7,
                     "askQty": 9000,
                     "bidQty": 9000,
-                    "bidprice": 12.45,
+                    "bidprice": 16.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2228,11 +2228,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 205,
-                    "totalBuyQuantity": 84000,
+                    "totalBuyQuantity": 135000,
                     "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 1.7,
@@ -2253,17 +2253,17 @@
                     "totalSellQuantity": 3000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 205
             },
             {
                 "CE": {
-                    "askPrice": 27.5,
+                    "askPrice": 25,
                     "askQty": 9000,
                     "bidQty": 9000,
-                    "bidprice": 19.9,
+                    "bidprice": 22.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2274,11 +2274,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 207.5,
-                    "totalBuyQuantity": 129000,
-                    "totalSellQuantity": 129000,
+                    "totalBuyQuantity": 135000,
+                    "totalSellQuantity": 135000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 0.4,
@@ -2299,7 +2299,7 @@
                     "totalSellQuantity": 39000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 207.5
@@ -2324,7 +2324,7 @@
                     "totalSellQuantity": 123000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 3.3,
@@ -2345,17 +2345,17 @@
                     "totalSellQuantity": 3000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 207.5
             },
             {
                 "CE": {
-                    "askPrice": 26.5,
-                    "askQty": 6000,
-                    "bidQty": 15000,
-                    "bidprice": 11.6,
+                    "askPrice": 27.1,
+                    "askQty": 15000,
+                    "bidQty": 18000,
+                    "bidprice": 19.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2366,15 +2366,15 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 210,
-                    "totalBuyQuantity": 15000,
-                    "totalSellQuantity": 135000,
+                    "totalBuyQuantity": 18000,
+                    "totalSellQuantity": 138000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
-                    "askPrice": 1.8,
-                    "askQty": 6000,
+                    "askPrice": 1,
+                    "askQty": 3000,
                     "bidQty": 3000,
                     "bidprice": 0.2,
                     "change": 0,
@@ -2387,21 +2387,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 210,
-                    "totalBuyQuantity": 12000,
-                    "totalSellQuantity": 6000,
+                    "totalBuyQuantity": 45000,
+                    "totalSellQuantity": 12000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 210
             },
             {
                 "CE": {
-                    "askPrice": 22.6,
-                    "askQty": 9000,
-                    "bidQty": 9000,
-                    "bidprice": 20.4,
+                    "askPrice": 21.5,
+                    "askQty": 12000,
+                    "bidQty": 18000,
+                    "bidprice": 20.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2413,14 +2413,14 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 210,
                     "totalBuyQuantity": 165000,
-                    "totalSellQuantity": 168000,
+                    "totalSellQuantity": 159000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 0.1,
-                    "askQty": 27000,
+                    "askQty": 30000,
                     "bidQty": 156000,
                     "bidprice": 0.05,
                     "change": 0,
@@ -2437,7 +2437,7 @@
                     "totalSellQuantity": 333000,
                     "totalTradedVolume": 1,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 210
@@ -2462,7 +2462,7 @@
                     "totalSellQuantity": 132000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 3.65,
@@ -2483,17 +2483,17 @@
                     "totalSellQuantity": 3000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 212.5
             },
             {
                 "CE": {
-                    "askPrice": 23.35,
+                    "askPrice": 22.95,
                     "askQty": 9000,
                     "bidQty": 9000,
-                    "bidprice": 16.4,
+                    "bidprice": 17.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2504,11 +2504,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 212.5,
-                    "totalBuyQuantity": 138000,
+                    "totalBuyQuantity": 141000,
                     "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 0.45,
@@ -2529,7 +2529,7 @@
                     "totalSellQuantity": 6000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 212.5
@@ -2554,17 +2554,17 @@
                     "totalSellQuantity": 132000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 215
             },
             {
                 "CE": {
-                    "askPrice": 16.9,
+                    "askPrice": 16.6,
                     "askQty": 12000,
                     "bidQty": 12000,
-                    "bidprice": 15.65,
+                    "bidprice": 15.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2579,7 +2579,7 @@
                     "totalSellQuantity": 159000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 0.2,
@@ -2590,7 +2590,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPETRONET25-05-2023PE215.00",
-                    "impliedVolatility": 31.71,
+                    "impliedVolatility": 31.49,
                     "lastPrice": 0.2,
                     "openInterest": 84,
                     "pChange": -19.999999999999996,
@@ -2600,7 +2600,7 @@
                     "totalSellQuantity": 351000,
                     "totalTradedVolume": 14,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 215
@@ -2625,17 +2625,17 @@
                     "totalSellQuantity": 132000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 217.5
             },
             {
                 "CE": {
-                    "askPrice": 14.85,
-                    "askQty": 9000,
+                    "askPrice": 14.65,
+                    "askQty": 3000,
                     "bidQty": 3000,
-                    "bidprice": 13.15,
+                    "bidprice": 12.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2647,10 +2647,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 217.5,
                     "totalBuyQuantity": 153000,
-                    "totalSellQuantity": 159000,
+                    "totalSellQuantity": 150000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 0.25,
@@ -2671,17 +2671,17 @@
                     "totalSellQuantity": 231000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 217.5
             },
             {
                 "CE": {
-                    "askPrice": 11.75,
-                    "askQty": 6000,
-                    "bidQty": 6000,
-                    "bidprice": 11.3,
+                    "askPrice": 11.35,
+                    "askQty": 3000,
+                    "bidQty": 3000,
+                    "bidprice": 11,
                     "change": 2.0999999999999996,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2692,39 +2692,39 @@
                     "pChange": 20.487804878048777,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 220,
-                    "totalBuyQuantity": 276000,
-                    "totalSellQuantity": 285000,
+                    "totalBuyQuantity": 273000,
+                    "totalSellQuantity": 282000,
                     "totalTradedVolume": 5,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 0.4,
                     "askQty": 51000,
-                    "bidQty": 3000,
+                    "bidQty": 9000,
                     "bidprice": 0.35,
                     "change": -0.25,
                     "changeinOpenInterest": 11,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPETRONET25-05-2023PE220.00",
-                    "impliedVolatility": 26.77,
+                    "impliedVolatility": 26.52,
                     "lastPrice": 0.35,
                     "openInterest": 240,
                     "pChange": -41.66666666666667,
                     "pchangeinOpenInterest": 4.8034934497816595,
                     "strikePrice": 220,
-                    "totalBuyQuantity": 1128000,
-                    "totalSellQuantity": 402000,
+                    "totalBuyQuantity": 1212000,
+                    "totalSellQuantity": 405000,
                     "totalTradedVolume": 69,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 220
             },
             {
                 "CE": {
-                    "askPrice": 19.65,
+                    "askPrice": 18.35,
                     "askQty": 9000,
                     "bidQty": 24000,
                     "bidprice": 10.4,
@@ -2742,28 +2742,28 @@
                     "totalSellQuantity": 132000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
-                    "askPrice": 3.75,
+                    "askPrice": 3.2,
                     "askQty": 3000,
-                    "bidQty": 9000,
-                    "bidprice": 2.15,
-                    "change": 0,
+                    "bidQty": 6000,
+                    "bidprice": 2.35,
+                    "change": 0.4500000000000002,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKPETRONET29-06-2023PE220.00",
                     "impliedVolatility": 0,
-                    "lastPrice": 0,
+                    "lastPrice": 2.5,
                     "openInterest": 5,
-                    "pChange": 0,
+                    "pChange": 21.951219512195134,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 220,
-                    "totalBuyQuantity": 15000,
-                    "totalSellQuantity": 27000,
-                    "totalTradedVolume": 0,
+                    "totalBuyQuantity": 21000,
+                    "totalSellQuantity": 150000,
+                    "totalTradedVolume": 2,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 220
@@ -2788,7 +2788,7 @@
                     "totalSellQuantity": 132000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 5.25,
@@ -2809,17 +2809,17 @@
                     "totalSellQuantity": 3000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 0
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 222.5
             },
             {
                 "CE": {
-                    "askPrice": 9.4,
+                    "askPrice": 9.3,
                     "askQty": 3000,
                     "bidQty": 3000,
-                    "bidprice": 8.25,
+                    "bidprice": 8.4,
                     "change": 1.5999999999999996,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2831,41 +2831,41 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 222.5,
                     "totalBuyQuantity": 162000,
-                    "totalSellQuantity": 153000,
+                    "totalSellQuantity": 150000,
                     "totalTradedVolume": 1,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 0.65,
                     "askQty": 9000,
-                    "bidQty": 24000,
-                    "bidprice": 0.55,
+                    "bidQty": 9000,
+                    "bidprice": 0.6,
                     "change": -0.5,
                     "changeinOpenInterest": -13,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPETRONET25-05-2023PE222.50",
-                    "impliedVolatility": 24.55,
+                    "impliedVolatility": 24.26,
                     "lastPrice": 0.5,
                     "openInterest": 70,
                     "pChange": -50,
                     "pchangeinOpenInterest": -15.662650602409638,
                     "strikePrice": 222.5,
-                    "totalBuyQuantity": 216000,
-                    "totalSellQuantity": 411000,
+                    "totalBuyQuantity": 222000,
+                    "totalSellQuantity": 417000,
                     "totalTradedVolume": 23,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 222.5
             },
             {
                 "CE": {
-                    "askPrice": 14.85,
-                    "askQty": 9000,
+                    "askPrice": 14.55,
+                    "askQty": 3000,
                     "bidQty": 3000,
-                    "bidprice": 7.6,
+                    "bidprice": 7.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2876,17 +2876,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 225,
-                    "totalBuyQuantity": 6000,
-                    "totalSellQuantity": 132000,
+                    "totalBuyQuantity": 3000,
+                    "totalSellQuantity": 126000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "PE": {
-                    "askPrice": 4.85,
+                    "askPrice": 4.8,
                     "askQty": 3000,
                     "bidQty": 3000,
-                    "bidprice": 3.3,
+                    "bidprice": 3.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2901,17 +2901,17 @@
                     "totalSellQuantity": 6000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 225
             },
             {
                 "CE": {
-                    "askPrice": 6.9,
+                    "askPrice": 7.05,
                     "askQty": 3000,
-                    "bidQty": 6000,
-                    "bidprice": 6.7,
+                    "bidQty": 3000,
+                    "bidprice": 6.75,
                     "change": 1.25,
                     "changeinOpenInterest": -5,
                     "expiryDate": "25-May-2023",
@@ -2922,78 +2922,78 @@
                     "pChange": 20.833333333333336,
                     "pchangeinOpenInterest": -7.575757575757576,
                     "strikePrice": 225,
-                    "totalBuyQuantity": 300000,
+                    "totalBuyQuantity": 297000,
                     "totalSellQuantity": 306000,
                     "totalTradedVolume": 19,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "PE": {
-                    "askPrice": 1,
+                    "askPrice": 1.05,
                     "askQty": 6000,
-                    "bidQty": 21000,
-                    "bidprice": 0.9,
-                    "change": -0.44999999999999996,
+                    "bidQty": 9000,
+                    "bidprice": 0.95,
+                    "change": -0.3999999999999999,
                     "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPETRONET25-05-2023PE225.00",
                     "impliedVolatility": 23.85,
-                    "lastPrice": 0.95,
+                    "lastPrice": 1,
                     "openInterest": 175,
-                    "pChange": -32.14285714285714,
+                    "pChange": -28.571428571428566,
                     "pchangeinOpenInterest": 1.1560693641618498,
                     "strikePrice": 225,
-                    "totalBuyQuantity": 1113000,
-                    "totalSellQuantity": 474000,
-                    "totalTradedVolume": 32,
+                    "totalBuyQuantity": 1107000,
+                    "totalSellQuantity": 468000,
+                    "totalTradedVolume": 34,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 225
             },
             {
                 "CE": {
-                    "askPrice": 5.45,
-                    "askQty": 3000,
+                    "askPrice": 5.15,
+                    "askQty": 9000,
                     "bidQty": 3000,
-                    "bidprice": 5.2,
+                    "bidprice": 4.9,
                     "change": 1,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPETRONET25-05-2023CE227.50",
-                    "impliedVolatility": 29.42,
+                    "impliedVolatility": 30.26,
                     "lastPrice": 5.85,
                     "openInterest": 45,
                     "pChange": 20.61855670103093,
                     "pchangeinOpenInterest": 2.272727272727273,
                     "strikePrice": 227.5,
-                    "totalBuyQuantity": 273000,
+                    "totalBuyQuantity": 270000,
                     "totalSellQuantity": 282000,
                     "totalTradedVolume": 3,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
-                    "askPrice": 1.75,
-                    "askQty": 3000,
-                    "bidQty": 6000,
+                    "askPrice": 1.8,
+                    "askQty": 18000,
+                    "bidQty": 3000,
                     "bidprice": 1.6,
                     "change": -0.8,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPETRONET25-05-2023PE227.50",
-                    "impliedVolatility": 23.18,
+                    "impliedVolatility": 22.77,
                     "lastPrice": 1.45,
                     "openInterest": 73,
                     "pChange": -35.55555555555556,
                     "pchangeinOpenInterest": -2.6666666666666665,
                     "strikePrice": 227.5,
-                    "totalBuyQuantity": 252000,
-                    "totalSellQuantity": 378000,
+                    "totalBuyQuantity": 264000,
+                    "totalSellQuantity": 381000,
                     "totalTradedVolume": 6,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 227.5
@@ -3018,7 +3018,7 @@
                     "totalSellQuantity": 12000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 7.7,
@@ -3039,7 +3039,7 @@
                     "totalSellQuantity": 126000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 227.5
@@ -3047,76 +3047,76 @@
             {
                 "CE": {
                     "askPrice": 3.7,
-                    "askQty": 3000,
-                    "bidQty": 15000,
+                    "askQty": 6000,
+                    "bidQty": 9000,
                     "bidprice": 3.6,
-                    "change": 0.44999999999999973,
-                    "changeinOpenInterest": -54,
+                    "change": 0.5499999999999998,
+                    "changeinOpenInterest": -53,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPETRONET25-05-2023CE230.00",
-                    "impliedVolatility": 24.92,
-                    "lastPrice": 3.65,
-                    "openInterest": 383,
-                    "pChange": 14.062499999999991,
-                    "pchangeinOpenInterest": -12.356979405034325,
+                    "impliedVolatility": 26.78,
+                    "lastPrice": 3.75,
+                    "openInterest": 384,
+                    "pChange": 17.187499999999993,
+                    "pchangeinOpenInterest": -12.128146453089245,
                     "strikePrice": 230,
-                    "totalBuyQuantity": 357000,
-                    "totalSellQuantity": 507000,
-                    "totalTradedVolume": 315,
+                    "totalBuyQuantity": 363000,
+                    "totalSellQuantity": 513000,
+                    "totalTradedVolume": 323,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
-                    "askPrice": 2.8,
-                    "askQty": 6000,
+                    "askPrice": 2.85,
+                    "askQty": 3000,
                     "bidQty": 6000,
-                    "bidprice": 2.7,
-                    "change": -0.9500000000000002,
+                    "bidprice": 2.75,
+                    "change": -0.6499999999999999,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPETRONET25-05-2023PE230.00",
-                    "impliedVolatility": 23.66,
-                    "lastPrice": 2.55,
+                    "impliedVolatility": 23.93,
+                    "lastPrice": 2.85,
                     "openInterest": 178,
-                    "pChange": -27.142857142857146,
+                    "pChange": -18.57142857142857,
                     "pchangeinOpenInterest": -1.1111111111111112,
                     "strikePrice": 230,
                     "totalBuyQuantity": 354000,
                     "totalSellQuantity": 426000,
-                    "totalTradedVolume": 57,
+                    "totalTradedVolume": 59,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 230
             },
             {
                 "CE": {
-                    "askPrice": 8.55,
+                    "askPrice": 8.75,
                     "askQty": 3000,
                     "bidQty": 3000,
                     "bidprice": 8.35,
-                    "change": 1.5999999999999996,
-                    "changeinOpenInterest": 16,
+                    "change": 1.6500000000000004,
+                    "changeinOpenInterest": 18,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKPETRONET29-06-2023CE230.00",
-                    "impliedVolatility": 22.52,
-                    "lastPrice": 8.45,
-                    "openInterest": 28,
-                    "pChange": 23.35766423357664,
-                    "pchangeinOpenInterest": 133.33333333333334,
+                    "impliedVolatility": 22.81,
+                    "lastPrice": 8.5,
+                    "openInterest": 30,
+                    "pChange": 24.08759124087592,
+                    "pchangeinOpenInterest": 150,
                     "strikePrice": 230,
-                    "totalBuyQuantity": 36000,
+                    "totalBuyQuantity": 30000,
                     "totalSellQuantity": 147000,
-                    "totalTradedVolume": 25,
+                    "totalTradedVolume": 26,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
-                    "askPrice": 6.35,
+                    "askPrice": 6.45,
                     "askQty": 3000,
                     "bidQty": 3000,
-                    "bidprice": 4.75,
+                    "bidprice": 5.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3127,11 +3127,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 230,
-                    "totalBuyQuantity": 15000,
+                    "totalBuyQuantity": 9000,
                     "totalSellQuantity": 258000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 230
@@ -3140,51 +3140,51 @@
                 "CE": {
                     "askPrice": 2.55,
                     "askQty": 15000,
-                    "bidQty": 6000,
-                    "bidprice": 2.4,
-                    "change": 0.5499999999999998,
+                    "bidQty": 3000,
+                    "bidprice": 2.45,
+                    "change": 0.1499999999999999,
                     "changeinOpenInterest": 36,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPETRONET25-05-2023CE232.50",
-                    "impliedVolatility": 25.51,
-                    "lastPrice": 2.8,
+                    "impliedVolatility": 27.22,
+                    "lastPrice": 2.4,
                     "openInterest": 105,
-                    "pChange": 24.444444444444436,
+                    "pChange": 6.6666666666666625,
                     "pchangeinOpenInterest": 52.17391304347826,
                     "strikePrice": 232.5,
-                    "totalBuyQuantity": 333000,
-                    "totalSellQuantity": 528000,
-                    "totalTradedVolume": 103,
+                    "totalBuyQuantity": 327000,
+                    "totalSellQuantity": 525000,
+                    "totalTradedVolume": 104,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 4.2,
                     "askQty": 3000,
                     "bidQty": 6000,
-                    "bidprice": 4,
+                    "bidprice": 4.05,
                     "change": -1,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPETRONET25-05-2023PE232.50",
-                    "impliedVolatility": 23.89,
+                    "impliedVolatility": 23.21,
                     "lastPrice": 3.75,
                     "openInterest": 22,
                     "pChange": -21.052631578947366,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 232.5,
-                    "totalBuyQuantity": 420000,
-                    "totalSellQuantity": 426000,
+                    "totalBuyQuantity": 426000,
+                    "totalSellQuantity": 429000,
                     "totalTradedVolume": 17,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 232.5
             },
             {
                 "CE": {
-                    "askPrice": 8.15,
+                    "askPrice": 7.9,
                     "askQty": 3000,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -3202,7 +3202,7 @@
                     "totalSellQuantity": 9000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 9.9,
@@ -3223,7 +3223,7 @@
                     "totalSellQuantity": 123000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 232.5
@@ -3232,44 +3232,44 @@
                 "CE": {
                     "askPrice": 1.7,
                     "askQty": 24000,
-                    "bidQty": 3000,
+                    "bidQty": 6000,
                     "bidprice": 1.55,
-                    "change": 0.25,
-                    "changeinOpenInterest": 2,
+                    "change": 0.19999999999999996,
+                    "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPETRONET25-05-2023CE235.00",
-                    "impliedVolatility": 25.74,
-                    "lastPrice": 1.7,
-                    "openInterest": 329,
-                    "pChange": 17.24137931034483,
-                    "pchangeinOpenInterest": 0.6116207951070336,
+                    "impliedVolatility": 26.17,
+                    "lastPrice": 1.65,
+                    "openInterest": 330,
+                    "pChange": 13.79310344827586,
+                    "pchangeinOpenInterest": 0.9174311926605505,
                     "strikePrice": 235,
                     "totalBuyQuantity": 1119000,
-                    "totalSellQuantity": 534000,
-                    "totalTradedVolume": 106,
+                    "totalSellQuantity": 531000,
+                    "totalTradedVolume": 107,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 5.9,
                     "askQty": 3000,
-                    "bidQty": 6000,
-                    "bidprice": 5.6,
-                    "change": -1.3499999999999996,
+                    "bidQty": 3000,
+                    "bidprice": 5.55,
+                    "change": -1.2999999999999998,
                     "changeinOpenInterest": -14,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPETRONET25-05-2023PE235.00",
-                    "impliedVolatility": 19.96,
-                    "lastPrice": 5.5,
+                    "impliedVolatility": 24.42,
+                    "lastPrice": 5.55,
                     "openInterest": 69,
-                    "pChange": -19.708029197080286,
+                    "pChange": -18.97810218978102,
                     "pchangeinOpenInterest": -16.867469879518072,
                     "strikePrice": 235,
-                    "totalBuyQuantity": 300000,
-                    "totalSellQuantity": 300000,
-                    "totalTradedVolume": 18,
+                    "totalBuyQuantity": 297000,
+                    "totalSellQuantity": 297000,
+                    "totalTradedVolume": 19,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 235
@@ -3279,7 +3279,7 @@
                     "askPrice": 6.4,
                     "askQty": 3000,
                     "bidQty": 3000,
-                    "bidprice": 5.3,
+                    "bidprice": 5.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3294,13 +3294,13 @@
                     "totalSellQuantity": 6000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "PE": {
-                    "askPrice": 10.8,
-                    "askQty": 6000,
+                    "askPrice": 10.45,
+                    "askQty": 3000,
                     "bidQty": 3000,
-                    "bidprice": 5.2,
+                    "bidprice": 7.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3315,14 +3315,14 @@
                     "totalSellQuantity": 126000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 235
             },
             {
                 "CE": {
-                    "askPrice": 5.65,
+                    "askPrice": 5.7,
                     "askQty": 3000,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -3340,11 +3340,11 @@
                     "totalSellQuantity": 126000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "PE": {
-                    "askPrice": 11.75,
-                    "askQty": 12000,
+                    "askPrice": 11.9,
+                    "askQty": 9000,
                     "bidQty": 3000,
                     "bidprice": 6,
                     "change": 0,
@@ -3361,7 +3361,7 @@
                     "totalSellQuantity": 132000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 237.5
@@ -3376,21 +3376,21 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPETRONET25-05-2023CE237.50",
-                    "impliedVolatility": 27.42,
+                    "impliedVolatility": 27.79,
                     "lastPrice": 1.25,
                     "openInterest": 144,
                     "pChange": 19.047619047619044,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 237.5,
-                    "totalBuyQuantity": 342000,
+                    "totalBuyQuantity": 336000,
                     "totalSellQuantity": 450000,
                     "totalTradedVolume": 23,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
-                    "askPrice": 7.75,
-                    "askQty": 9000,
+                    "askPrice": 7.85,
+                    "askQty": 12000,
                     "bidQty": 3000,
                     "bidprice": 7.45,
                     "change": -1.3000000000000007,
@@ -3404,35 +3404,35 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 237.5,
                     "totalBuyQuantity": 270000,
-                    "totalSellQuantity": 294000,
+                    "totalSellQuantity": 300000,
                     "totalTradedVolume": 9,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 237.5
             },
             {
                 "CE": {
-                    "askPrice": 4.75,
-                    "askQty": 6000,
+                    "askPrice": 4.6,
+                    "askQty": 3000,
                     "bidQty": 6000,
-                    "bidprice": 4.6,
-                    "change": 0.7500000000000004,
-                    "changeinOpenInterest": 64,
+                    "bidprice": 4.55,
+                    "change": 0.6999999999999997,
+                    "changeinOpenInterest": 66,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKPETRONET29-06-2023CE240.00",
-                    "impliedVolatility": 23.21,
-                    "lastPrice": 4.65,
-                    "openInterest": 89,
-                    "pChange": 19.230769230769244,
-                    "pchangeinOpenInterest": 256,
+                    "impliedVolatility": 23.74,
+                    "lastPrice": 4.6,
+                    "openInterest": 91,
+                    "pChange": 17.948717948717942,
+                    "pchangeinOpenInterest": 264,
                     "strikePrice": 240,
                     "totalBuyQuantity": 225000,
-                    "totalSellQuantity": 261000,
-                    "totalTradedVolume": 102,
+                    "totalSellQuantity": 264000,
+                    "totalTradedVolume": 107,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 15.25,
@@ -3453,7 +3453,7 @@
                     "totalSellQuantity": 138000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 240
@@ -3461,30 +3461,30 @@
             {
                 "CE": {
                     "askPrice": 0.85,
-                    "askQty": 12000,
+                    "askQty": 24000,
                     "bidQty": 3000,
-                    "bidprice": 0.8,
+                    "bidprice": 0.75,
                     "change": 0,
                     "changeinOpenInterest": -60,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPETRONET25-05-2023CE240.00",
-                    "impliedVolatility": 28.45,
+                    "impliedVolatility": 27.53,
                     "lastPrice": 0.75,
                     "openInterest": 922,
                     "pChange": 0,
                     "pchangeinOpenInterest": -6.109979633401222,
                     "strikePrice": 240,
                     "totalBuyQuantity": 1710000,
-                    "totalSellQuantity": 957000,
-                    "totalTradedVolume": 176,
+                    "totalSellQuantity": 933000,
+                    "totalTradedVolume": 179,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
-                    "askPrice": 9.55,
+                    "askPrice": 10.1,
                     "askQty": 3000,
                     "bidQty": 3000,
-                    "bidprice": 8.9,
+                    "bidprice": 9.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3496,10 +3496,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 240,
                     "totalBuyQuantity": 288000,
-                    "totalSellQuantity": 279000,
+                    "totalSellQuantity": 276000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 240
@@ -3509,12 +3509,12 @@
                     "askPrice": 0.6,
                     "askQty": 9000,
                     "bidQty": 6000,
-                    "bidprice": 0.45,
+                    "bidprice": 0.4,
                     "change": 0.09999999999999998,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPETRONET25-05-2023CE242.50",
-                    "impliedVolatility": 29.84,
+                    "impliedVolatility": 30.13,
                     "lastPrice": 0.6,
                     "openInterest": 74,
                     "pChange": 19.999999999999996,
@@ -3524,13 +3524,13 @@
                     "totalSellQuantity": 411000,
                     "totalTradedVolume": 3,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
-                    "askPrice": 12.85,
-                    "askQty": 3000,
+                    "askPrice": 12.7,
+                    "askQty": 9000,
                     "bidQty": 3000,
-                    "bidprice": 11.65,
+                    "bidprice": 11.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3542,10 +3542,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 242.5,
                     "totalBuyQuantity": 162000,
-                    "totalSellQuantity": 162000,
+                    "totalSellQuantity": 159000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 242.5
@@ -3570,7 +3570,7 @@
                     "totalSellQuantity": 123000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 17.05,
@@ -3591,17 +3591,17 @@
                     "totalSellQuantity": 132000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 242.5
             },
             {
                 "CE": {
-                    "askPrice": 4.35,
+                    "askPrice": 4.4,
                     "askQty": 3000,
-                    "bidQty": 6000,
-                    "bidprice": 2.85,
+                    "bidQty": 3000,
+                    "bidprice": 2.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3612,11 +3612,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 245,
-                    "totalBuyQuantity": 129000,
+                    "totalBuyQuantity": 123000,
                     "totalSellQuantity": 6000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 19.4,
@@ -3637,7 +3637,7 @@
                     "totalSellQuantity": 123000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 245
@@ -3646,29 +3646,29 @@
                 "CE": {
                     "askPrice": 0.35,
                     "askQty": 6000,
-                    "bidQty": 45000,
+                    "bidQty": 42000,
                     "bidprice": 0.3,
                     "change": -0.04999999999999999,
                     "changeinOpenInterest": -13,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPETRONET25-05-2023CE245.00",
-                    "impliedVolatility": 28.63,
+                    "impliedVolatility": 28.88,
                     "lastPrice": 0.3,
                     "openInterest": 245,
                     "pChange": -14.285714285714283,
                     "pchangeinOpenInterest": -5.038759689922481,
                     "strikePrice": 245,
-                    "totalBuyQuantity": 783000,
-                    "totalSellQuantity": 543000,
+                    "totalBuyQuantity": 780000,
+                    "totalSellQuantity": 537000,
                     "totalTradedVolume": 24,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
-                    "askPrice": 14.7,
+                    "askPrice": 14.45,
                     "askQty": 3000,
                     "bidQty": 3000,
-                    "bidprice": 14.3,
+                    "bidprice": 13.9,
                     "change": -2.4499999999999993,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3680,10 +3680,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 245,
                     "totalBuyQuantity": 153000,
-                    "totalSellQuantity": 156000,
+                    "totalSellQuantity": 159000,
                     "totalTradedVolume": 2,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 245
@@ -3708,7 +3708,7 @@
                     "totalSellQuantity": 3000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 21.4,
@@ -3729,7 +3729,7 @@
                     "totalSellQuantity": 132000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 247.5
@@ -3754,13 +3754,13 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
-                    "askPrice": 21.65,
-                    "askQty": 9000,
-                    "bidQty": 3000,
-                    "bidprice": 16.1,
+                    "askPrice": 19.45,
+                    "askQty": 3000,
+                    "bidQty": 12000,
+                    "bidprice": 12.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3772,10 +3772,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 247.5,
                     "totalBuyQuantity": 132000,
-                    "totalSellQuantity": 132000,
+                    "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 247.5
@@ -3800,13 +3800,13 @@
                     "totalSellQuantity": 714000,
                     "totalTradedVolume": 32,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "PE": {
-                    "askPrice": 20.05,
-                    "askQty": 12000,
-                    "bidQty": 12000,
-                    "bidprice": 18.65,
+                    "askPrice": 20.75,
+                    "askQty": 21000,
+                    "bidQty": 9000,
+                    "bidprice": 18.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3817,21 +3817,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 250,
-                    "totalBuyQuantity": 159000,
-                    "totalSellQuantity": 159000,
+                    "totalBuyQuantity": 168000,
+                    "totalSellQuantity": 168000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 250
             },
             {
                 "CE": {
-                    "askPrice": 2.5,
+                    "askPrice": 2.45,
                     "askQty": 3000,
-                    "bidQty": 3000,
-                    "bidprice": 2.1,
+                    "bidQty": 15000,
+                    "bidprice": 2.05,
                     "change": -2.8499999999999996,
                     "changeinOpenInterest": 1,
                     "expiryDate": "29-Jun-2023",
@@ -3846,7 +3846,7 @@
                     "totalSellQuantity": 63000,
                     "totalTradedVolume": 5,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 250
@@ -3871,7 +3871,7 @@
                     "totalSellQuantity": 3000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 0
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 250
@@ -3896,7 +3896,7 @@
                     "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 252.5
@@ -3921,7 +3921,7 @@
                     "totalSellQuantity": 3000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 25.7,
@@ -3942,7 +3942,7 @@
                     "totalSellQuantity": 123000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 252.5
@@ -3950,8 +3950,8 @@
             {
                 "CE": {
                     "askPrice": 0.2,
-                    "askQty": 15000,
-                    "bidQty": 129000,
+                    "askQty": 9000,
+                    "bidQty": 159000,
                     "bidprice": 0.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -3963,15 +3963,15 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 255,
-                    "totalBuyQuantity": 129000,
-                    "totalSellQuantity": 246000,
+                    "totalBuyQuantity": 159000,
+                    "totalSellQuantity": 240000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "PE": {
-                    "askPrice": 25.45,
-                    "askQty": 9000,
+                    "askPrice": 25.5,
+                    "askQty": 18000,
                     "bidQty": 9000,
                     "bidprice": 22.15,
                     "change": 0,
@@ -3985,10 +3985,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 255,
                     "totalBuyQuantity": 147000,
-                    "totalSellQuantity": 147000,
+                    "totalSellQuantity": 138000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 255
@@ -4013,7 +4013,7 @@
                     "totalSellQuantity": 132000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 255
@@ -4038,7 +4038,7 @@
                     "totalSellQuantity": 3000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 32.6,
@@ -4059,7 +4059,7 @@
                     "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 257.5
@@ -4084,7 +4084,7 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 257.5
@@ -4093,7 +4093,7 @@
                 "CE": {
                     "askPrice": 0.1,
                     "askQty": 18000,
-                    "bidQty": 60000,
+                    "bidQty": 57000,
                     "bidprice": 0.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -4105,11 +4105,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 260,
-                    "totalBuyQuantity": 60000,
-                    "totalSellQuantity": 159000,
+                    "totalBuyQuantity": 57000,
+                    "totalSellQuantity": 177000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 30.55,
@@ -4130,7 +4130,7 @@
                     "totalSellQuantity": 147000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 260
@@ -4155,7 +4155,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 39.45,
@@ -4176,7 +4176,7 @@
                     "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 260
@@ -4201,7 +4201,7 @@
                     "totalSellQuantity": 3000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 37.65,
@@ -4222,7 +4222,7 @@
                     "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 262.5
@@ -4247,7 +4247,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 38.6,
@@ -4268,7 +4268,7 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 262.5
@@ -4290,13 +4290,13 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 265,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 81000,
+                    "totalSellQuantity": 30000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
-                    "askPrice": 47.45,
+                    "askPrice": 39.45,
                     "askQty": 9000,
                     "bidQty": 9000,
                     "bidprice": 30.45,
@@ -4314,7 +4314,7 @@
                     "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 265
@@ -4339,7 +4339,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 43.7,
@@ -4360,7 +4360,7 @@
                     "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 265
@@ -4385,7 +4385,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 43.6,
@@ -4406,7 +4406,7 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 267.5
@@ -4431,7 +4431,7 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 267.5
@@ -4456,10 +4456,10 @@
                     "totalSellQuantity": 48000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "PE": {
-                    "askPrice": 51.75,
+                    "askPrice": 45.75,
                     "askQty": 9000,
                     "bidQty": 9000,
                     "bidprice": 35.45,
@@ -4477,7 +4477,7 @@
                     "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 270
@@ -4502,7 +4502,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "PE": {
                     "askPrice": 49.9,
@@ -4523,7 +4523,7 @@
                     "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 270
@@ -4548,7 +4548,7 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 272.5
@@ -4573,7 +4573,7 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 272.5
@@ -4598,10 +4598,10 @@
                     "totalSellQuantity": 15000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "PE": {
-                    "askPrice": 55.25,
+                    "askPrice": 48.05,
                     "askQty": 9000,
                     "bidQty": 9000,
                     "bidprice": 40.45,
@@ -4619,7 +4619,7 @@
                     "totalSellQuantity": 129000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.25
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 275
@@ -4644,7 +4644,7 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "PETRONET",
-                    "underlyingValue": 230.6
+                    "underlyingValue": 230.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 275
@@ -4693,7 +4693,7 @@
             272.5,
             275
         ],
-        "timestamp": "18-May-2023 10:19:49",
-        "underlyingValue": 230.6
+        "timestamp": "18-May-2023 10:25:46",
+        "underlyingValue": 230.45
     }
 }

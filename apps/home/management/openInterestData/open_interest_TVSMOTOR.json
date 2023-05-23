@@ -1,20 +1,20 @@
 {
     "filtered": {
         "CE": {
-            "totOI": 5456,
-            "totVol": 4468
+            "totOI": 5451,
+            "totVol": 4620
         },
         "PE": {
-            "totOI": 4791,
-            "totVol": 1630
+            "totOI": 4783,
+            "totVol": 1676
         },
         "data": [
             {
                 "CE": {
-                    "askPrice": 379.3,
+                    "askPrice": 368.1,
                     "askQty": 700,
                     "bidQty": 700,
-                    "bidprice": 342.35,
+                    "bidprice": 353.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -29,7 +29,7 @@
                     "totalSellQuantity": 23100,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
                     "askPrice": 2,
@@ -50,7 +50,7 @@
                     "totalSellQuantity": 21000,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 880
@@ -75,7 +75,7 @@
                     "totalSellQuantity": 22400,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
                     "askPrice": 0.4,
@@ -96,7 +96,7 @@
                     "totalSellQuantity": 1400,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 900
@@ -121,7 +121,7 @@
                     "totalSellQuantity": 25200,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
                     "askPrice": 1.7,
@@ -142,7 +142,7 @@
                     "totalSellQuantity": 21700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 920
@@ -167,7 +167,7 @@
                     "totalSellQuantity": 23100,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
                     "askPrice": 1.45,
@@ -188,17 +188,17 @@
                     "totalSellQuantity": 700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 940
             },
             {
                 "CE": {
-                    "askPrice": 308,
-                    "askQty": 2100,
+                    "askPrice": 290.3,
+                    "askQty": 4200,
                     "bidQty": 2100,
-                    "bidprice": 200.75,
+                    "bidprice": 272.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -209,11 +209,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 960,
-                    "totalBuyQuantity": 2100,
-                    "totalSellQuantity": 23100,
+                    "totalBuyQuantity": 6300,
+                    "totalSellQuantity": 25200,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -234,17 +234,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 960
             },
             {
                 "CE": {
-                    "askPrice": 287.95,
+                    "askPrice": 270.3,
                     "askQty": 2100,
                     "bidQty": 2100,
-                    "bidprice": 180.8,
+                    "bidprice": 254.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -255,11 +255,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 980,
-                    "totalBuyQuantity": 2100,
-                    "totalSellQuantity": 23100,
+                    "totalBuyQuantity": 6300,
+                    "totalSellQuantity": 27300,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -280,17 +280,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 980
             },
             {
                 "CE": {
-                    "askPrice": 245.2,
+                    "askPrice": 244.55,
                     "askQty": 700,
                     "bidQty": 700,
-                    "bidprice": 242,
+                    "bidprice": 241.1,
                     "change": -2,
                     "changeinOpenInterest": -14,
                     "expiryDate": "25-May-2023",
@@ -301,32 +301,32 @@
                     "pChange": -0.8264462809917356,
                     "pchangeinOpenInterest": -10.294117647058824,
                     "strikePrice": 1000,
-                    "totalBuyQuantity": 7700,
-                    "totalSellQuantity": 26600,
+                    "totalBuyQuantity": 7000,
+                    "totalSellQuantity": 25900,
                     "totalTradedVolume": 16,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
-                    "askPrice": 0.45,
-                    "askQty": 1400,
+                    "askPrice": 0.5,
+                    "askQty": 2100,
                     "bidQty": 2100,
-                    "bidprice": 0.4,
-                    "change": -0.04999999999999993,
-                    "changeinOpenInterest": -20,
+                    "bidprice": 0.45,
+                    "change": -0.09999999999999998,
+                    "changeinOpenInterest": -24,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTVSMOTOR25-05-2023PE1000.00",
                     "impliedVolatility": 72.37,
-                    "lastPrice": 0.55,
-                    "openInterest": 605,
-                    "pChange": -8.333333333333323,
-                    "pchangeinOpenInterest": -3.2,
+                    "lastPrice": 0.5,
+                    "openInterest": 601,
+                    "pChange": -16.666666666666664,
+                    "pchangeinOpenInterest": -3.84,
                     "strikePrice": 1000,
                     "totalBuyQuantity": 126700,
-                    "totalSellQuantity": 197400,
-                    "totalTradedVolume": 58,
+                    "totalSellQuantity": 195300,
+                    "totalTradedVolume": 63,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1000
@@ -336,7 +336,7 @@
                     "askPrice": 230.3,
                     "askQty": 3500,
                     "bidQty": 2100,
-                    "bidprice": 214.45,
+                    "bidprice": 217.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -351,13 +351,13 @@
                     "totalSellQuantity": 28700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
-                    "askPrice": 0.8,
+                    "askPrice": 0.6,
                     "askQty": 700,
                     "bidQty": 3500,
-                    "bidprice": 0.2,
+                    "bidprice": 0.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -368,11 +368,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1020,
-                    "totalBuyQuantity": 23100,
-                    "totalSellQuantity": 2800,
+                    "totalBuyQuantity": 26600,
+                    "totalSellQuantity": 25200,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1020
@@ -397,13 +397,13 @@
                     "totalSellQuantity": 27300,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
                     "askPrice": 0.6,
                     "askQty": 700,
-                    "bidQty": 700,
-                    "bidprice": 0.55,
+                    "bidQty": 4200,
+                    "bidprice": 0.5,
                     "change": -0.050000000000000044,
                     "changeinOpenInterest": -5,
                     "expiryDate": "25-May-2023",
@@ -414,21 +414,21 @@
                     "pChange": -9.090909090909099,
                     "pchangeinOpenInterest": -4.310344827586207,
                     "strikePrice": 1040,
-                    "totalBuyQuantity": 47600,
+                    "totalBuyQuantity": 50400,
                     "totalSellQuantity": 84700,
                     "totalTradedVolume": 17,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1040
             },
             {
                 "CE": {
-                    "askPrice": 186.9,
+                    "askPrice": 189.25,
                     "askQty": 2100,
                     "bidQty": 2100,
-                    "bidprice": 175.7,
+                    "bidprice": 178,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -440,41 +440,41 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1060,
                     "totalBuyQuantity": 8400,
-                    "totalSellQuantity": 29400,
+                    "totalSellQuantity": 30800,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
-                    "askPrice": 0.75,
-                    "askQty": 1400,
+                    "askPrice": 0.7,
+                    "askQty": 2100,
                     "bidQty": 2100,
-                    "bidprice": 0.7,
-                    "change": -0.15000000000000002,
-                    "changeinOpenInterest": 1,
+                    "bidprice": 0.65,
+                    "change": -0.19999999999999996,
+                    "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTVSMOTOR25-05-2023PE1060.00",
                     "impliedVolatility": 57.39,
-                    "lastPrice": 0.7,
-                    "openInterest": 92,
-                    "pChange": -17.647058823529417,
-                    "pchangeinOpenInterest": 1.098901098901099,
+                    "lastPrice": 0.65,
+                    "openInterest": 90,
+                    "pChange": -23.529411764705877,
+                    "pchangeinOpenInterest": -1.098901098901099,
                     "strikePrice": 1060,
-                    "totalBuyQuantity": 67900,
-                    "totalSellQuantity": 86800,
-                    "totalTradedVolume": 5,
+                    "totalBuyQuantity": 72800,
+                    "totalSellQuantity": 88200,
+                    "totalTradedVolume": 8,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1060
             },
             {
                 "CE": {
-                    "askPrice": 166.5,
-                    "askQty": 2100,
+                    "askPrice": 167.2,
+                    "askQty": 2800,
                     "bidQty": 2100,
-                    "bidprice": 157.7,
+                    "bidprice": 160.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -486,16 +486,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1080,
                     "totalBuyQuantity": 29400,
-                    "totalSellQuantity": 46900,
+                    "totalSellQuantity": 46200,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
-                    "askPrice": 0.8,
-                    "askQty": 2100,
+                    "askPrice": 0.75,
+                    "askQty": 1400,
                     "bidQty": 700,
-                    "bidprice": 0.75,
+                    "bidprice": 0.7,
                     "change": -0.050000000000000044,
                     "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
@@ -506,41 +506,41 @@
                     "pChange": -6.250000000000005,
                     "pchangeinOpenInterest": -3.2967032967032965,
                     "strikePrice": 1080,
-                    "totalBuyQuantity": 72100,
+                    "totalBuyQuantity": 70700,
                     "totalSellQuantity": 69300,
                     "totalTradedVolume": 13,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1080
             },
             {
                 "CE": {
-                    "askPrice": 142.2,
+                    "askPrice": 145.45,
                     "askQty": 700,
                     "bidQty": 700,
-                    "bidprice": 140.4,
-                    "change": 0,
+                    "bidprice": 143.55,
+                    "change": 3.6500000000000057,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTVSMOTOR25-05-2023CE1100.00",
                     "impliedVolatility": 0,
-                    "lastPrice": 0,
+                    "lastPrice": 142.65,
                     "openInterest": 192,
-                    "pChange": 0,
+                    "pChange": 2.6258992805755437,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1100,
-                    "totalBuyQuantity": 53200,
+                    "totalBuyQuantity": 58800,
                     "totalSellQuantity": 60900,
-                    "totalTradedVolume": 0,
+                    "totalTradedVolume": 1,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
                     "askPrice": 0.9,
                     "askQty": 2100,
-                    "bidQty": 4900,
+                    "bidQty": 2800,
                     "bidprice": 0.8,
                     "change": -0.09999999999999998,
                     "changeinOpenInterest": -12,
@@ -552,21 +552,21 @@
                     "pChange": -11.111111111111107,
                     "pchangeinOpenInterest": -1.7316017316017316,
                     "strikePrice": 1100,
-                    "totalBuyQuantity": 84000,
-                    "totalSellQuantity": 90300,
+                    "totalBuyQuantity": 83300,
+                    "totalSellQuantity": 89600,
                     "totalTradedVolume": 27,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1100
             },
             {
                 "CE": {
-                    "askPrice": 122.85,
+                    "askPrice": 125.7,
                     "askQty": 700,
-                    "bidQty": 700,
-                    "bidprice": 119.4,
+                    "bidQty": 2100,
+                    "bidprice": 119.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -577,11 +577,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1120,
-                    "totalBuyQuantity": 55300,
+                    "totalBuyQuantity": 57400,
                     "totalSellQuantity": 55300,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
                     "askPrice": 0.9,
@@ -602,17 +602,17 @@
                     "totalSellQuantity": 58800,
                     "totalTradedVolume": 1,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1120
             },
             {
                 "CE": {
-                    "askPrice": 105.5,
+                    "askPrice": 105.45,
                     "askQty": 700,
-                    "bidQty": 700,
-                    "bidprice": 103.15,
+                    "bidQty": 1400,
+                    "bidprice": 102.6,
                     "change": 2.6500000000000057,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -623,88 +623,88 @@
                     "pChange": 2.653980971457192,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1140,
-                    "totalBuyQuantity": 39200,
-                    "totalSellQuantity": 55300,
+                    "totalBuyQuantity": 38500,
+                    "totalSellQuantity": 56000,
                     "totalTradedVolume": 1,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
-                    "askPrice": 1.05,
-                    "askQty": 1400,
+                    "askPrice": 1.1,
+                    "askQty": 2100,
                     "bidQty": 1400,
                     "bidprice": 1,
-                    "change": -0.19999999999999996,
+                    "change": -0.25,
                     "changeinOpenInterest": 8,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTVSMOTOR25-05-2023PE1140.00",
                     "impliedVolatility": 37.92,
-                    "lastPrice": 1.05,
+                    "lastPrice": 1,
                     "openInterest": 260,
-                    "pChange": -15.999999999999998,
+                    "pChange": -20,
                     "pchangeinOpenInterest": 3.1746031746031744,
                     "strikePrice": 1140,
-                    "totalBuyQuantity": 85400,
-                    "totalSellQuantity": 82600,
-                    "totalTradedVolume": 35,
+                    "totalBuyQuantity": 87500,
+                    "totalSellQuantity": 81200,
+                    "totalTradedVolume": 39,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1140
             },
             {
                 "CE": {
-                    "askPrice": 82.9,
+                    "askPrice": 85.35,
                     "askQty": 700,
                     "bidQty": 1400,
-                    "bidprice": 81.05,
-                    "change": -7.25,
+                    "bidprice": 84.15,
+                    "change": -5.5,
                     "changeinOpenInterest": -11,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTVSMOTOR25-05-2023CE1160.00",
                     "impliedVolatility": 0,
-                    "lastPrice": 82.75,
+                    "lastPrice": 84.5,
                     "openInterest": 197,
-                    "pChange": -8.055555555555555,
+                    "pChange": -6.111111111111111,
                     "pchangeinOpenInterest": -5.288461538461538,
                     "strikePrice": 1160,
-                    "totalBuyQuantity": 59500,
-                    "totalSellQuantity": 53200,
-                    "totalTradedVolume": 19,
+                    "totalBuyQuantity": 63700,
+                    "totalSellQuantity": 54600,
+                    "totalTradedVolume": 22,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
-                    "askPrice": 1.7,
-                    "askQty": 1400,
-                    "bidQty": 2800,
-                    "bidprice": 1.6,
-                    "change": -0.1499999999999999,
+                    "askPrice": 1.6,
+                    "askQty": 3500,
+                    "bidQty": 4200,
+                    "bidprice": 1.45,
+                    "change": -0.2999999999999998,
                     "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTVSMOTOR25-05-2023PE1160.00",
                     "impliedVolatility": 34.15,
-                    "lastPrice": 1.75,
+                    "lastPrice": 1.6,
                     "openInterest": 437,
-                    "pChange": -7.894736842105258,
+                    "pChange": -15.789473684210517,
                     "pchangeinOpenInterest": 0.6912442396313364,
                     "strikePrice": 1160,
-                    "totalBuyQuantity": 102200,
-                    "totalSellQuantity": 107100,
-                    "totalTradedVolume": 41,
+                    "totalBuyQuantity": 100100,
+                    "totalSellQuantity": 103600,
+                    "totalTradedVolume": 46,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1160
             },
             {
                 "CE": {
-                    "askPrice": 64.55,
+                    "askPrice": 66.5,
                     "askQty": 700,
                     "bidQty": 1400,
-                    "bidprice": 63.05,
+                    "bidprice": 64.7,
                     "change": -8.800000000000004,
                     "changeinOpenInterest": -5,
                     "expiryDate": "25-May-2023",
@@ -715,42 +715,42 @@
                     "pChange": -12.368236120871403,
                     "pchangeinOpenInterest": -4,
                     "strikePrice": 1180,
-                    "totalBuyQuantity": 65100,
-                    "totalSellQuantity": 58100,
+                    "totalBuyQuantity": 66500,
+                    "totalSellQuantity": 56700,
                     "totalTradedVolume": 8,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
-                    "askPrice": 2.75,
-                    "askQty": 1400,
+                    "askPrice": 2.6,
+                    "askQty": 700,
                     "bidQty": 2800,
-                    "bidprice": 2.65,
-                    "change": -0.20000000000000018,
+                    "bidprice": 2.4,
+                    "change": -0.3500000000000001,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTVSMOTOR25-05-2023PE1180.00",
                     "impliedVolatility": 32.45,
-                    "lastPrice": 2.75,
+                    "lastPrice": 2.6,
                     "openInterest": 268,
-                    "pChange": -6.7796610169491585,
+                    "pChange": -11.864406779661019,
                     "pchangeinOpenInterest": 0.37453183520599254,
                     "strikePrice": 1180,
-                    "totalBuyQuantity": 100100,
-                    "totalSellQuantity": 104300,
-                    "totalTradedVolume": 50,
+                    "totalBuyQuantity": 98700,
+                    "totalSellQuantity": 103600,
+                    "totalTradedVolume": 51,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1180
             },
             {
                 "CE": {
-                    "askPrice": 46.55,
+                    "askPrice": 48.1,
                     "askQty": 700,
                     "bidQty": 700,
-                    "bidprice": 45.55,
+                    "bidprice": 47.25,
                     "change": -6.850000000000001,
                     "changeinOpenInterest": -7,
                     "expiryDate": "25-May-2023",
@@ -761,201 +761,201 @@
                     "pChange": -12.827715355805246,
                     "pchangeinOpenInterest": -1.5217391304347827,
                     "strikePrice": 1200,
-                    "totalBuyQuantity": 73500,
-                    "totalSellQuantity": 65100,
+                    "totalBuyQuantity": 72100,
+                    "totalSellQuantity": 65800,
                     "totalTradedVolume": 85,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
-                    "askPrice": 5.25,
-                    "askQty": 700,
-                    "bidQty": 2100,
-                    "bidprice": 5.1,
-                    "change": 0.25,
+                    "askPrice": 4.85,
+                    "askQty": 4900,
+                    "bidQty": 1400,
+                    "bidprice": 4.65,
+                    "change": -0.2999999999999998,
                     "changeinOpenInterest": 11,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTVSMOTOR25-05-2023PE1200.00",
                     "impliedVolatility": 30.25,
-                    "lastPrice": 5.3,
+                    "lastPrice": 4.75,
                     "openInterest": 737,
-                    "pChange": 4.9504950495049505,
+                    "pChange": -5.940594059405938,
                     "pchangeinOpenInterest": 1.5151515151515151,
                     "strikePrice": 1200,
-                    "totalBuyQuantity": 95900,
-                    "totalSellQuantity": 197400,
-                    "totalTradedVolume": 309,
+                    "totalBuyQuantity": 99400,
+                    "totalSellQuantity": 189000,
+                    "totalTradedVolume": 311,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1200
             },
             {
                 "CE": {
-                    "askPrice": 33,
-                    "askQty": 700,
-                    "bidQty": 700,
-                    "bidprice": 32.5,
-                    "change": -6.149999999999999,
+                    "askPrice": 32.55,
+                    "askQty": 1400,
+                    "bidQty": 1400,
+                    "bidprice": 32.1,
+                    "change": -5.100000000000001,
                     "changeinOpenInterest": 33,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTVSMOTOR25-05-2023CE1220.00",
                     "impliedVolatility": 19.18,
-                    "lastPrice": 31.85,
+                    "lastPrice": 32.9,
                     "openInterest": 295,
-                    "pChange": -16.184210526315788,
+                    "pChange": -13.42105263157895,
                     "pchangeinOpenInterest": 12.595419847328245,
                     "strikePrice": 1220,
-                    "totalBuyQuantity": 83300,
-                    "totalSellQuantity": 97300,
-                    "totalTradedVolume": 640,
+                    "totalBuyQuantity": 81200,
+                    "totalSellQuantity": 102200,
+                    "totalTradedVolume": 656,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
-                    "askPrice": 10.15,
+                    "askPrice": 9.3,
                     "askQty": 700,
-                    "bidQty": 700,
-                    "bidprice": 9.9,
-                    "change": 1.25,
+                    "bidQty": 1400,
+                    "bidprice": 9.1,
+                    "change": 0.40000000000000036,
                     "changeinOpenInterest": -35,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTVSMOTOR25-05-2023PE1220.00",
                     "impliedVolatility": 30.57,
-                    "lastPrice": 9.95,
+                    "lastPrice": 9.1,
                     "openInterest": 492,
-                    "pChange": 14.367816091954024,
+                    "pChange": 4.597701149425292,
                     "pchangeinOpenInterest": -6.641366223908919,
                     "strikePrice": 1220,
-                    "totalBuyQuantity": 85400,
-                    "totalSellQuantity": 124600,
-                    "totalTradedVolume": 379,
+                    "totalBuyQuantity": 88900,
+                    "totalSellQuantity": 123200,
+                    "totalTradedVolume": 386,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1220
             },
             {
                 "CE": {
-                    "askPrice": 20.8,
+                    "askPrice": 20.65,
                     "askQty": 700,
                     "bidQty": 1400,
-                    "bidprice": 20.65,
-                    "change": -3.849999999999998,
+                    "bidprice": 20.3,
+                    "change": -3.9499999999999993,
                     "changeinOpenInterest": 55,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTVSMOTOR25-05-2023CE1240.00",
                     "impliedVolatility": 22.48,
-                    "lastPrice": 20.6,
+                    "lastPrice": 20.5,
                     "openInterest": 712,
-                    "pChange": -15.746421267893652,
+                    "pChange": -16.155419222903884,
                     "pchangeinOpenInterest": 8.37138508371385,
                     "strikePrice": 1240,
-                    "totalBuyQuantity": 120400,
-                    "totalSellQuantity": 163800,
-                    "totalTradedVolume": 644,
+                    "totalBuyQuantity": 115500,
+                    "totalSellQuantity": 164500,
+                    "totalTradedVolume": 675,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
-                    "askPrice": 17.65,
+                    "askPrice": 17.35,
                     "askQty": 700,
-                    "bidQty": 3500,
-                    "bidprice": 17.3,
-                    "change": 2.650000000000002,
-                    "changeinOpenInterest": 10,
+                    "bidQty": 700,
+                    "bidprice": 17.1,
+                    "change": 1.5500000000000007,
+                    "changeinOpenInterest": 9,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTVSMOTOR25-05-2023PE1240.00",
                     "impliedVolatility": 32.24,
-                    "lastPrice": 18.1,
-                    "openInterest": 456,
-                    "pChange": 17.152103559870564,
-                    "pchangeinOpenInterest": 2.242152466367713,
+                    "lastPrice": 17,
+                    "openInterest": 455,
+                    "pChange": 10.032362459546931,
+                    "pchangeinOpenInterest": 2.0179372197309418,
                     "strikePrice": 1240,
-                    "totalBuyQuantity": 103600,
+                    "totalBuyQuantity": 107100,
                     "totalSellQuantity": 165900,
-                    "totalTradedVolume": 480,
+                    "totalTradedVolume": 491,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1240
             },
             {
                 "CE": {
-                    "askPrice": 12,
+                    "askPrice": 12.7,
                     "askQty": 1400,
-                    "bidQty": 3500,
-                    "bidprice": 11.9,
-                    "change": -2.950000000000001,
-                    "changeinOpenInterest": 362,
+                    "bidQty": 2100,
+                    "bidprice": 12.55,
+                    "change": -2.3000000000000007,
+                    "changeinOpenInterest": 372,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTVSMOTOR25-05-2023CE1260.00",
                     "impliedVolatility": 24.79,
-                    "lastPrice": 11.95,
-                    "openInterest": 1013,
-                    "pChange": -19.79865771812081,
-                    "pchangeinOpenInterest": 55.60675883256528,
+                    "lastPrice": 12.6,
+                    "openInterest": 1023,
+                    "pChange": -15.43624161073826,
+                    "pchangeinOpenInterest": 57.142857142857146,
                     "strikePrice": 1260,
-                    "totalBuyQuantity": 142100,
-                    "totalSellQuantity": 315700,
-                    "totalTradedVolume": 1790,
+                    "totalBuyQuantity": 130200,
+                    "totalSellQuantity": 319900,
+                    "totalTradedVolume": 1845,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
-                    "askPrice": 31.15,
-                    "askQty": 2100,
+                    "askPrice": 29.5,
+                    "askQty": 1400,
                     "bidQty": 1400,
-                    "bidprice": 30.45,
-                    "change": 5.950000000000003,
-                    "changeinOpenInterest": -9,
+                    "bidprice": 29,
+                    "change": 4.350000000000001,
+                    "changeinOpenInterest": -10,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTVSMOTOR25-05-2023PE1260.00",
                     "impliedVolatility": 34.79,
-                    "lastPrice": 30.85,
-                    "openInterest": 166,
-                    "pChange": 23.895582329317282,
-                    "pchangeinOpenInterest": -5.142857142857143,
+                    "lastPrice": 29.25,
+                    "openInterest": 165,
+                    "pChange": 17.469879518072297,
+                    "pchangeinOpenInterest": -5.714285714285714,
                     "strikePrice": 1260,
-                    "totalBuyQuantity": 72800,
-                    "totalSellQuantity": 57400,
-                    "totalTradedVolume": 184,
+                    "totalBuyQuantity": 82600,
+                    "totalSellQuantity": 56700,
+                    "totalTradedVolume": 192,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1260
             },
             {
                 "CE": {
-                    "askPrice": 6.85,
-                    "askQty": 700,
-                    "bidQty": 1400,
-                    "bidprice": 6.7,
-                    "change": -1.5500000000000007,
-                    "changeinOpenInterest": 64,
+                    "askPrice": 6.75,
+                    "askQty": 1400,
+                    "bidQty": 2100,
+                    "bidprice": 6.55,
+                    "change": -1.1000000000000005,
+                    "changeinOpenInterest": 67,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTVSMOTOR25-05-2023CE1280.00",
                     "impliedVolatility": 25.82,
-                    "lastPrice": 6.35,
-                    "openInterest": 490,
-                    "pChange": -19.62025316455697,
-                    "pchangeinOpenInterest": 15.023474178403756,
+                    "lastPrice": 6.8,
+                    "openInterest": 493,
+                    "pChange": -13.924050632911397,
+                    "pchangeinOpenInterest": 15.727699530516432,
                     "strikePrice": 1280,
-                    "totalBuyQuantity": 87500,
-                    "totalSellQuantity": 130200,
-                    "totalTradedVolume": 350,
+                    "totalBuyQuantity": 82600,
+                    "totalSellQuantity": 132300,
+                    "totalTradedVolume": 355,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
-                    "askPrice": 43.85,
-                    "askQty": 1400,
+                    "askPrice": 43.9,
+                    "askQty": 700,
                     "bidQty": 700,
-                    "bidprice": 42.15,
+                    "bidprice": 42.65,
                     "change": 6.399999999999999,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
@@ -966,42 +966,42 @@
                     "pChange": 16.797900262467188,
                     "pchangeinOpenInterest": -2.7777777777777777,
                     "strikePrice": 1280,
-                    "totalBuyQuantity": 34300,
-                    "totalSellQuantity": 15400,
+                    "totalBuyQuantity": 35000,
+                    "totalSellQuantity": 11900,
                     "totalTradedVolume": 2,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1280
             },
             {
                 "CE": {
-                    "askPrice": 3.2,
-                    "askQty": 7000,
-                    "bidQty": 4200,
-                    "bidprice": 3.1,
-                    "change": -0.8000000000000003,
-                    "changeinOpenInterest": 28,
+                    "askPrice": 3.45,
+                    "askQty": 1400,
+                    "bidQty": 700,
+                    "bidprice": 3.35,
+                    "change": -0.4500000000000002,
+                    "changeinOpenInterest": 12,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTVSMOTOR25-05-2023CE1300.00",
                     "impliedVolatility": 26.92,
-                    "lastPrice": 3.05,
-                    "openInterest": 854,
-                    "pChange": -20.779220779220786,
-                    "pchangeinOpenInterest": 3.389830508474576,
+                    "lastPrice": 3.4,
+                    "openInterest": 838,
+                    "pChange": -11.688311688311693,
+                    "pchangeinOpenInterest": 1.4527845036319613,
                     "strikePrice": 1300,
-                    "totalBuyQuantity": 111300,
-                    "totalSellQuantity": 229600,
-                    "totalTradedVolume": 781,
+                    "totalBuyQuantity": 109200,
+                    "totalSellQuantity": 215600,
+                    "totalTradedVolume": 812,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
-                    "askPrice": 62.45,
-                    "askQty": 700,
+                    "askPrice": 60.35,
+                    "askQty": 1400,
                     "bidQty": 700,
-                    "bidprice": 61.35,
+                    "bidprice": 59.15,
                     "change": 7.399999999999999,
                     "changeinOpenInterest": -4,
                     "expiryDate": "25-May-2023",
@@ -1012,42 +1012,42 @@
                     "pChange": 13.27354260089686,
                     "pchangeinOpenInterest": -4.081632653061225,
                     "strikePrice": 1300,
-                    "totalBuyQuantity": 41300,
+                    "totalBuyQuantity": 42000,
                     "totalSellQuantity": 20300,
                     "totalTradedVolume": 26,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1300
             },
             {
                 "CE": {
-                    "askPrice": 1.8,
+                    "askPrice": 2.05,
                     "askQty": 2100,
-                    "bidQty": 2100,
-                    "bidprice": 1.75,
-                    "change": -0.19999999999999996,
-                    "changeinOpenInterest": 2,
+                    "bidQty": 4900,
+                    "bidprice": 1.9,
+                    "change": -0.050000000000000044,
+                    "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTVSMOTOR25-05-2023CE1320.00",
                     "impliedVolatility": 28.14,
-                    "lastPrice": 1.8,
-                    "openInterest": 196,
-                    "pChange": -9.999999999999998,
-                    "pchangeinOpenInterest": 1.0309278350515463,
+                    "lastPrice": 1.95,
+                    "openInterest": 195,
+                    "pChange": -2.500000000000002,
+                    "pchangeinOpenInterest": 0.5154639175257731,
                     "strikePrice": 1320,
-                    "totalBuyQuantity": 105000,
-                    "totalSellQuantity": 88200,
-                    "totalTradedVolume": 60,
+                    "totalBuyQuantity": 107800,
+                    "totalSellQuantity": 86100,
+                    "totalTradedVolume": 64,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
-                    "askPrice": 81.35,
+                    "askPrice": 79.05,
                     "askQty": 700,
-                    "bidQty": 1400,
-                    "bidprice": 79.3,
+                    "bidQty": 700,
+                    "bidprice": 77.3,
                     "change": 7.799999999999997,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1058,42 +1058,42 @@
                     "pChange": 10.83333333333333,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1320,
-                    "totalBuyQuantity": 29400,
-                    "totalSellQuantity": 10500,
+                    "totalBuyQuantity": 28700,
+                    "totalSellQuantity": 9100,
                     "totalTradedVolume": 3,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1320
             },
             {
                 "CE": {
-                    "askPrice": 1,
-                    "askQty": 700,
-                    "bidQty": 3500,
-                    "bidprice": 0.95,
-                    "change": -0.2499999999999999,
-                    "changeinOpenInterest": -4,
+                    "askPrice": 1.2,
+                    "askQty": 1400,
+                    "bidQty": 2800,
+                    "bidprice": 1.1,
+                    "change": -0.09999999999999987,
+                    "changeinOpenInterest": -5,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTVSMOTOR25-05-2023CE1340.00",
                     "impliedVolatility": 30.15,
-                    "lastPrice": 0.9,
-                    "openInterest": 267,
-                    "pChange": -21.7391304347826,
-                    "pchangeinOpenInterest": -1.4760147601476015,
+                    "lastPrice": 1.05,
+                    "openInterest": 266,
+                    "pChange": -8.695652173913032,
+                    "pchangeinOpenInterest": -1.845018450184502,
                     "strikePrice": 1340,
-                    "totalBuyQuantity": 88200,
-                    "totalSellQuantity": 90300,
-                    "totalTradedVolume": 51,
+                    "totalBuyQuantity": 96600,
+                    "totalSellQuantity": 84700,
+                    "totalTradedVolume": 54,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
-                    "askPrice": 105.5,
-                    "askQty": 1400,
+                    "askPrice": 98.3,
+                    "askQty": 700,
                     "bidQty": 2100,
-                    "bidprice": 95.95,
+                    "bidprice": 94.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1104,21 +1104,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1340,
-                    "totalBuyQuantity": 31500,
-                    "totalSellQuantity": 9100,
+                    "totalBuyQuantity": 30100,
+                    "totalSellQuantity": 7700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1340
             },
             {
                 "CE": {
-                    "askPrice": 0.7,
-                    "askQty": 2100,
-                    "bidQty": 2100,
-                    "bidprice": 0.6,
+                    "askPrice": 0.75,
+                    "askQty": 1400,
+                    "bidQty": 1400,
+                    "bidprice": 0.65,
                     "change": -0.04999999999999993,
                     "changeinOpenInterest": 9,
                     "expiryDate": "25-May-2023",
@@ -1129,17 +1129,17 @@
                     "pChange": -7.142857142857134,
                     "pchangeinOpenInterest": 11.25,
                     "strikePrice": 1360,
-                    "totalBuyQuantity": 66500,
+                    "totalBuyQuantity": 86100,
                     "totalSellQuantity": 77000,
                     "totalTradedVolume": 18,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
-                    "askPrice": 122.25,
-                    "askQty": 2100,
-                    "bidQty": 3500,
-                    "bidprice": 113.3,
+                    "askPrice": 120.85,
+                    "askQty": 700,
+                    "bidQty": 2100,
+                    "bidprice": 113.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1154,17 +1154,17 @@
                     "totalSellQuantity": 9100,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1360
             },
             {
                 "CE": {
-                    "askPrice": 0.6,
-                    "askQty": 700,
-                    "bidQty": 3500,
-                    "bidprice": 0.3,
+                    "askPrice": 0.65,
+                    "askQty": 1400,
+                    "bidQty": 700,
+                    "bidprice": 0.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1175,17 +1175,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1380,
-                    "totalBuyQuantity": 45500,
-                    "totalSellQuantity": 30100,
+                    "totalBuyQuantity": 46200,
+                    "totalSellQuantity": 51100,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
-                    "askPrice": 145.25,
+                    "askPrice": 141.85,
                     "askQty": 2100,
-                    "bidQty": 3500,
-                    "bidprice": 133.7,
+                    "bidQty": 2100,
+                    "bidprice": 131.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1196,21 +1196,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1380,
-                    "totalBuyQuantity": 30800,
-                    "totalSellQuantity": 9800,
+                    "totalBuyQuantity": 29400,
+                    "totalSellQuantity": 8400,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1380
             },
             {
                 "CE": {
-                    "askPrice": 0.35,
-                    "askQty": 2100,
-                    "bidQty": 2800,
-                    "bidprice": 0.3,
+                    "askPrice": 0.7,
+                    "askQty": 1400,
+                    "bidQty": 700,
+                    "bidprice": 0.35,
                     "change": -0.15000000000000002,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1221,17 +1221,17 @@
                     "pChange": -30.000000000000004,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1400,
-                    "totalBuyQuantity": 60200,
-                    "totalSellQuantity": 56700,
-                    "totalTradedVolume": 5,
+                    "totalBuyQuantity": 70000,
+                    "totalSellQuantity": 53200,
+                    "totalTradedVolume": 8,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
-                    "askPrice": 163.8,
-                    "askQty": 700,
+                    "askPrice": 163.45,
+                    "askQty": 1400,
                     "bidQty": 2100,
-                    "bidprice": 154.4,
+                    "bidprice": 151.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1243,18 +1243,18 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1400,
                     "totalBuyQuantity": 29400,
-                    "totalSellQuantity": 9100,
+                    "totalSellQuantity": 7700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1400
             },
             {
                 "CE": {
-                    "askPrice": 2.4,
-                    "askQty": 21000,
+                    "askPrice": 1.45,
+                    "askQty": 2800,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -1268,13 +1268,13 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1420,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 21000,
+                    "totalSellQuantity": 24500,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
-                    "askPrice": 205.8,
+                    "askPrice": 196.7,
                     "askQty": 2100,
                     "bidQty": 2100,
                     "bidprice": 158.45,
@@ -1292,7 +1292,7 @@
                     "totalSellQuantity": 23100,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1420
@@ -1303,10 +1303,10 @@
         "data": [
             {
                 "CE": {
-                    "askPrice": 379.3,
+                    "askPrice": 368.1,
                     "askQty": 700,
                     "bidQty": 700,
-                    "bidprice": 342.35,
+                    "bidprice": 353.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1321,7 +1321,7 @@
                     "totalSellQuantity": 23100,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
                     "askPrice": 2,
@@ -1342,7 +1342,7 @@
                     "totalSellQuantity": 21000,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 880
@@ -1367,7 +1367,7 @@
                     "totalSellQuantity": 22400,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
                     "askPrice": 0.4,
@@ -1388,7 +1388,7 @@
                     "totalSellQuantity": 1400,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 900
@@ -1413,7 +1413,7 @@
                     "totalSellQuantity": 21700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 920
@@ -1438,7 +1438,7 @@
                     "totalSellQuantity": 25200,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
                     "askPrice": 1.7,
@@ -1459,7 +1459,7 @@
                     "totalSellQuantity": 21700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 920
@@ -1484,7 +1484,7 @@
                     "totalSellQuantity": 23100,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
                     "askPrice": 1.45,
@@ -1505,7 +1505,7 @@
                     "totalSellQuantity": 700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 940
@@ -1530,7 +1530,7 @@
                     "totalSellQuantity": 23800,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
                     "askPrice": 3.15,
@@ -1551,7 +1551,7 @@
                     "totalSellQuantity": 21000,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 940
@@ -1576,7 +1576,7 @@
                     "totalSellQuantity": 21700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1597,17 +1597,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 960
             },
             {
                 "CE": {
-                    "askPrice": 308,
-                    "askQty": 2100,
+                    "askPrice": 290.3,
+                    "askQty": 4200,
                     "bidQty": 2100,
-                    "bidprice": 200.75,
+                    "bidprice": 272.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1618,11 +1618,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 960,
-                    "totalBuyQuantity": 2100,
-                    "totalSellQuantity": 23100,
+                    "totalBuyQuantity": 6300,
+                    "totalSellQuantity": 25200,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1643,17 +1643,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 960
             },
             {
                 "CE": {
-                    "askPrice": 287.95,
+                    "askPrice": 270.3,
                     "askQty": 2100,
                     "bidQty": 2100,
-                    "bidprice": 180.8,
+                    "bidprice": 254.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1664,11 +1664,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 980,
-                    "totalBuyQuantity": 2100,
-                    "totalSellQuantity": 23100,
+                    "totalBuyQuantity": 6300,
+                    "totalSellQuantity": 27300,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1689,7 +1689,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 980
@@ -1714,7 +1714,7 @@
                     "totalSellQuantity": 21700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1735,7 +1735,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 980
@@ -1760,7 +1760,7 @@
                     "totalSellQuantity": 700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
                     "askPrice": 9.45,
@@ -1781,17 +1781,17 @@
                     "totalSellQuantity": 700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1000
             },
             {
                 "CE": {
-                    "askPrice": 245.2,
+                    "askPrice": 244.55,
                     "askQty": 700,
                     "bidQty": 700,
-                    "bidprice": 242,
+                    "bidprice": 241.1,
                     "change": -2,
                     "changeinOpenInterest": -14,
                     "expiryDate": "25-May-2023",
@@ -1802,39 +1802,39 @@
                     "pChange": -0.8264462809917356,
                     "pchangeinOpenInterest": -10.294117647058824,
                     "strikePrice": 1000,
-                    "totalBuyQuantity": 7700,
-                    "totalSellQuantity": 26600,
+                    "totalBuyQuantity": 7000,
+                    "totalSellQuantity": 25900,
                     "totalTradedVolume": 16,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
-                    "askPrice": 0.45,
-                    "askQty": 1400,
+                    "askPrice": 0.5,
+                    "askQty": 2100,
                     "bidQty": 2100,
-                    "bidprice": 0.4,
-                    "change": -0.04999999999999993,
-                    "changeinOpenInterest": -20,
+                    "bidprice": 0.45,
+                    "change": -0.09999999999999998,
+                    "changeinOpenInterest": -24,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTVSMOTOR25-05-2023PE1000.00",
                     "impliedVolatility": 72.37,
-                    "lastPrice": 0.55,
-                    "openInterest": 605,
-                    "pChange": -8.333333333333323,
-                    "pchangeinOpenInterest": -3.2,
+                    "lastPrice": 0.5,
+                    "openInterest": 601,
+                    "pChange": -16.666666666666664,
+                    "pchangeinOpenInterest": -3.84,
                     "strikePrice": 1000,
                     "totalBuyQuantity": 126700,
-                    "totalSellQuantity": 197400,
-                    "totalTradedVolume": 58,
+                    "totalSellQuantity": 195300,
+                    "totalTradedVolume": 63,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1000
             },
             {
                 "CE": {
-                    "askPrice": 267.05,
+                    "askPrice": 268.15,
                     "askQty": 2100,
                     "bidQty": 4900,
                     "bidprice": 171.35,
@@ -1849,10 +1849,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1000,
                     "totalBuyQuantity": 4900,
-                    "totalSellQuantity": 24500,
+                    "totalSellQuantity": 23100,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
                     "askPrice": 2.9,
@@ -1873,7 +1873,7 @@
                     "totalSellQuantity": 4200,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1000
@@ -1898,7 +1898,7 @@
                     "totalSellQuantity": 700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1020
@@ -1908,7 +1908,7 @@
                     "askPrice": 230.3,
                     "askQty": 3500,
                     "bidQty": 2100,
-                    "bidprice": 214.45,
+                    "bidprice": 217.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1923,13 +1923,13 @@
                     "totalSellQuantity": 28700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
-                    "askPrice": 0.8,
+                    "askPrice": 0.6,
                     "askQty": 700,
                     "bidQty": 3500,
-                    "bidprice": 0.2,
+                    "bidprice": 0.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1940,11 +1940,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1020,
-                    "totalBuyQuantity": 23100,
-                    "totalSellQuantity": 2800,
+                    "totalBuyQuantity": 26600,
+                    "totalSellQuantity": 25200,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1020
@@ -1969,7 +1969,7 @@
                     "totalSellQuantity": 23800,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
                     "askPrice": 5.3,
@@ -1990,7 +1990,7 @@
                     "totalSellQuantity": 700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1020
@@ -2015,13 +2015,13 @@
                     "totalSellQuantity": 27300,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
                     "askPrice": 0.6,
                     "askQty": 700,
-                    "bidQty": 700,
-                    "bidprice": 0.55,
+                    "bidQty": 4200,
+                    "bidprice": 0.5,
                     "change": -0.050000000000000044,
                     "changeinOpenInterest": -5,
                     "expiryDate": "25-May-2023",
@@ -2032,11 +2032,11 @@
                     "pChange": -9.090909090909099,
                     "pchangeinOpenInterest": -4.310344827586207,
                     "strikePrice": 1040,
-                    "totalBuyQuantity": 47600,
+                    "totalBuyQuantity": 50400,
                     "totalSellQuantity": 84700,
                     "totalTradedVolume": 17,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1040
@@ -2061,7 +2061,7 @@
                     "totalSellQuantity": 23800,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
                     "askPrice": 5.7,
@@ -2082,7 +2082,7 @@
                     "totalSellQuantity": 700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1040
@@ -2107,7 +2107,7 @@
                     "totalSellQuantity": 700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
                     "askPrice": 14.05,
@@ -2128,17 +2128,17 @@
                     "totalSellQuantity": 700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1040
             },
             {
                 "CE": {
-                    "askPrice": 186.9,
+                    "askPrice": 189.25,
                     "askQty": 2100,
                     "bidQty": 2100,
-                    "bidprice": 175.7,
+                    "bidprice": 178,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2150,31 +2150,31 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1060,
                     "totalBuyQuantity": 8400,
-                    "totalSellQuantity": 29400,
+                    "totalSellQuantity": 30800,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
-                    "askPrice": 0.75,
-                    "askQty": 1400,
+                    "askPrice": 0.7,
+                    "askQty": 2100,
                     "bidQty": 2100,
-                    "bidprice": 0.7,
-                    "change": -0.15000000000000002,
-                    "changeinOpenInterest": 1,
+                    "bidprice": 0.65,
+                    "change": -0.19999999999999996,
+                    "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTVSMOTOR25-05-2023PE1060.00",
                     "impliedVolatility": 57.39,
-                    "lastPrice": 0.7,
-                    "openInterest": 92,
-                    "pChange": -17.647058823529417,
-                    "pchangeinOpenInterest": 1.098901098901099,
+                    "lastPrice": 0.65,
+                    "openInterest": 90,
+                    "pChange": -23.529411764705877,
+                    "pchangeinOpenInterest": -1.098901098901099,
                     "strikePrice": 1060,
-                    "totalBuyQuantity": 67900,
-                    "totalSellQuantity": 86800,
-                    "totalTradedVolume": 5,
+                    "totalBuyQuantity": 72800,
+                    "totalSellQuantity": 88200,
+                    "totalTradedVolume": 8,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1060
@@ -2199,7 +2199,7 @@
                     "totalSellQuantity": 700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
                     "askPrice": 15.45,
@@ -2220,7 +2220,7 @@
                     "totalSellQuantity": 700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1060
@@ -2245,7 +2245,7 @@
                     "totalSellQuantity": 23800,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
                     "askPrice": 6.3,
@@ -2266,17 +2266,17 @@
                     "totalSellQuantity": 700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1060
             },
             {
                 "CE": {
-                    "askPrice": 166.5,
-                    "askQty": 2100,
+                    "askPrice": 167.2,
+                    "askQty": 2800,
                     "bidQty": 2100,
-                    "bidprice": 157.7,
+                    "bidprice": 160.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2288,16 +2288,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1080,
                     "totalBuyQuantity": 29400,
-                    "totalSellQuantity": 46900,
+                    "totalSellQuantity": 46200,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
-                    "askPrice": 0.8,
-                    "askQty": 2100,
+                    "askPrice": 0.75,
+                    "askQty": 1400,
                     "bidQty": 700,
-                    "bidprice": 0.75,
+                    "bidprice": 0.7,
                     "change": -0.050000000000000044,
                     "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
@@ -2308,11 +2308,11 @@
                     "pChange": -6.250000000000005,
                     "pchangeinOpenInterest": -3.2967032967032965,
                     "strikePrice": 1080,
-                    "totalBuyQuantity": 72100,
+                    "totalBuyQuantity": 70700,
                     "totalSellQuantity": 69300,
                     "totalTradedVolume": 13,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1080
@@ -2337,7 +2337,7 @@
                     "totalSellQuantity": 700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
                     "askPrice": 17.15,
@@ -2358,17 +2358,17 @@
                     "totalSellQuantity": 700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1080
             },
             {
                 "CE": {
-                    "askPrice": 183.6,
-                    "askQty": 2100,
+                    "askPrice": 184.25,
+                    "askQty": 2800,
                     "bidQty": 2800,
-                    "bidprice": 159.5,
+                    "bidprice": 155.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2383,7 +2383,7 @@
                     "totalSellQuantity": 23800,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
                     "askPrice": 7.05,
@@ -2404,32 +2404,32 @@
                     "totalSellQuantity": 700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 0
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1080
             },
             {
                 "CE": {
-                    "askPrice": 152,
+                    "askPrice": 153,
                     "askQty": 700,
-                    "bidQty": 2100,
-                    "bidprice": 149.35,
-                    "change": -2.4499999999999886,
-                    "changeinOpenInterest": 2,
+                    "bidQty": 700,
+                    "bidprice": 149.05,
+                    "change": 0.5500000000000114,
+                    "changeinOpenInterest": 3,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKTVSMOTOR29-06-2023CE1100.00",
                     "impliedVolatility": 0,
-                    "lastPrice": 148,
-                    "openInterest": 10,
-                    "pChange": -1.6284479893652302,
-                    "pchangeinOpenInterest": 25,
+                    "lastPrice": 151,
+                    "openInterest": 11,
+                    "pChange": 0.36556995679628546,
+                    "pchangeinOpenInterest": 37.5,
                     "strikePrice": 1100,
                     "totalBuyQuantity": 3500,
                     "totalSellQuantity": 22400,
-                    "totalTradedVolume": 3,
+                    "totalTradedVolume": 4,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
                     "askPrice": 4.7,
@@ -2450,37 +2450,37 @@
                     "totalSellQuantity": 4900,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1100
             },
             {
                 "CE": {
-                    "askPrice": 142.2,
+                    "askPrice": 145.45,
                     "askQty": 700,
                     "bidQty": 700,
-                    "bidprice": 140.4,
-                    "change": 0,
+                    "bidprice": 143.55,
+                    "change": 3.6500000000000057,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTVSMOTOR25-05-2023CE1100.00",
                     "impliedVolatility": 0,
-                    "lastPrice": 0,
+                    "lastPrice": 142.65,
                     "openInterest": 192,
-                    "pChange": 0,
+                    "pChange": 2.6258992805755437,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1100,
-                    "totalBuyQuantity": 53200,
+                    "totalBuyQuantity": 58800,
                     "totalSellQuantity": 60900,
-                    "totalTradedVolume": 0,
+                    "totalTradedVolume": 1,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
                     "askPrice": 0.9,
                     "askQty": 2100,
-                    "bidQty": 4900,
+                    "bidQty": 2800,
                     "bidprice": 0.8,
                     "change": -0.09999999999999998,
                     "changeinOpenInterest": -12,
@@ -2492,11 +2492,11 @@
                     "pChange": -11.111111111111107,
                     "pchangeinOpenInterest": -1.7316017316017316,
                     "strikePrice": 1100,
-                    "totalBuyQuantity": 84000,
-                    "totalSellQuantity": 90300,
+                    "totalBuyQuantity": 83300,
+                    "totalSellQuantity": 89600,
                     "totalTradedVolume": 27,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1100
@@ -2521,7 +2521,7 @@
                     "totalSellQuantity": 700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
                     "askPrice": 19.25,
@@ -2542,17 +2542,17 @@
                     "totalSellQuantity": 700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1100
             },
             {
                 "CE": {
-                    "askPrice": 145.65,
-                    "askQty": 2800,
-                    "bidQty": 2100,
-                    "bidprice": 120.9,
+                    "askPrice": 143.3,
+                    "askQty": 2100,
+                    "bidQty": 700,
+                    "bidprice": 118.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2563,17 +2563,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1120,
-                    "totalBuyQuantity": 2800,
+                    "totalBuyQuantity": 700,
                     "totalSellQuantity": 23800,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
                     "askPrice": 9.7,
                     "askQty": 700,
-                    "bidQty": 700,
-                    "bidprice": 1.2,
+                    "bidQty": 21000,
+                    "bidprice": 1.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2585,10 +2585,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1120,
                     "totalBuyQuantity": 21700,
-                    "totalSellQuantity": 700,
+                    "totalSellQuantity": 21700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1120
@@ -2613,7 +2613,7 @@
                     "totalSellQuantity": 700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
                     "askPrice": 21.85,
@@ -2634,17 +2634,17 @@
                     "totalSellQuantity": 700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1120
             },
             {
                 "CE": {
-                    "askPrice": 122.85,
+                    "askPrice": 125.7,
                     "askQty": 700,
-                    "bidQty": 700,
-                    "bidprice": 119.4,
+                    "bidQty": 2100,
+                    "bidprice": 119.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2655,11 +2655,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1120,
-                    "totalBuyQuantity": 55300,
+                    "totalBuyQuantity": 57400,
                     "totalSellQuantity": 55300,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
                     "askPrice": 0.9,
@@ -2680,17 +2680,17 @@
                     "totalSellQuantity": 58800,
                     "totalTradedVolume": 1,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1120
             },
             {
                 "CE": {
-                    "askPrice": 128.15,
-                    "askQty": 2800,
-                    "bidQty": 2800,
-                    "bidprice": 105.3,
+                    "askPrice": 125.8,
+                    "askQty": 3500,
+                    "bidQty": 2100,
+                    "bidprice": 105.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2702,14 +2702,14 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1140,
                     "totalBuyQuantity": 4200,
-                    "totalSellQuantity": 23800,
+                    "totalSellQuantity": 25200,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
                     "askPrice": 11,
-                    "askQty": 700,
+                    "askQty": 1400,
                     "bidQty": 21000,
                     "bidprice": 2.35,
                     "change": 0,
@@ -2723,10 +2723,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1140,
                     "totalBuyQuantity": 21700,
-                    "totalSellQuantity": 22400,
+                    "totalSellQuantity": 43400,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1140
@@ -2751,17 +2751,17 @@
                     "totalSellQuantity": 700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1140
             },
             {
                 "CE": {
-                    "askPrice": 105.5,
+                    "askPrice": 105.45,
                     "askQty": 700,
-                    "bidQty": 700,
-                    "bidprice": 103.15,
+                    "bidQty": 1400,
+                    "bidprice": 102.6,
                     "change": 2.6500000000000057,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2772,88 +2772,88 @@
                     "pChange": 2.653980971457192,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1140,
-                    "totalBuyQuantity": 39200,
-                    "totalSellQuantity": 55300,
+                    "totalBuyQuantity": 38500,
+                    "totalSellQuantity": 56000,
                     "totalTradedVolume": 1,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
-                    "askPrice": 1.05,
-                    "askQty": 1400,
+                    "askPrice": 1.1,
+                    "askQty": 2100,
                     "bidQty": 1400,
                     "bidprice": 1,
-                    "change": -0.19999999999999996,
+                    "change": -0.25,
                     "changeinOpenInterest": 8,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTVSMOTOR25-05-2023PE1140.00",
                     "impliedVolatility": 37.92,
-                    "lastPrice": 1.05,
+                    "lastPrice": 1,
                     "openInterest": 260,
-                    "pChange": -15.999999999999998,
+                    "pChange": -20,
                     "pchangeinOpenInterest": 3.1746031746031744,
                     "strikePrice": 1140,
-                    "totalBuyQuantity": 85400,
-                    "totalSellQuantity": 82600,
-                    "totalTradedVolume": 35,
+                    "totalBuyQuantity": 87500,
+                    "totalSellQuantity": 81200,
+                    "totalTradedVolume": 39,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1140
             },
             {
                 "CE": {
-                    "askPrice": 82.9,
+                    "askPrice": 85.35,
                     "askQty": 700,
                     "bidQty": 1400,
-                    "bidprice": 81.05,
-                    "change": -7.25,
+                    "bidprice": 84.15,
+                    "change": -5.5,
                     "changeinOpenInterest": -11,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTVSMOTOR25-05-2023CE1160.00",
                     "impliedVolatility": 0,
-                    "lastPrice": 82.75,
+                    "lastPrice": 84.5,
                     "openInterest": 197,
-                    "pChange": -8.055555555555555,
+                    "pChange": -6.111111111111111,
                     "pchangeinOpenInterest": -5.288461538461538,
                     "strikePrice": 1160,
-                    "totalBuyQuantity": 59500,
-                    "totalSellQuantity": 53200,
-                    "totalTradedVolume": 19,
+                    "totalBuyQuantity": 63700,
+                    "totalSellQuantity": 54600,
+                    "totalTradedVolume": 22,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
-                    "askPrice": 1.7,
-                    "askQty": 1400,
-                    "bidQty": 2800,
-                    "bidprice": 1.6,
-                    "change": -0.1499999999999999,
+                    "askPrice": 1.6,
+                    "askQty": 3500,
+                    "bidQty": 4200,
+                    "bidprice": 1.45,
+                    "change": -0.2999999999999998,
                     "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTVSMOTOR25-05-2023PE1160.00",
                     "impliedVolatility": 34.15,
-                    "lastPrice": 1.75,
+                    "lastPrice": 1.6,
                     "openInterest": 437,
-                    "pChange": -7.894736842105258,
+                    "pChange": -15.789473684210517,
                     "pchangeinOpenInterest": 0.6912442396313364,
                     "strikePrice": 1160,
-                    "totalBuyQuantity": 102200,
-                    "totalSellQuantity": 107100,
-                    "totalTradedVolume": 41,
+                    "totalBuyQuantity": 100100,
+                    "totalSellQuantity": 103600,
+                    "totalTradedVolume": 46,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1160
             },
             {
                 "CE": {
-                    "askPrice": 112.65,
+                    "askPrice": 114.25,
                     "askQty": 2100,
-                    "bidQty": 1400,
-                    "bidprice": 77,
+                    "bidQty": 0,
+                    "bidprice": 0,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2864,17 +2864,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1160,
-                    "totalBuyQuantity": 4200,
-                    "totalSellQuantity": 27300,
+                    "totalBuyQuantity": 0,
+                    "totalSellQuantity": 25200,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
-                    "askPrice": 14.25,
+                    "askPrice": 10.75,
                     "askQty": 700,
-                    "bidQty": 700,
-                    "bidprice": 9.85,
+                    "bidQty": 2100,
+                    "bidprice": 9.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2886,20 +2886,20 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1160,
                     "totalBuyQuantity": 24500,
-                    "totalSellQuantity": 23800,
+                    "totalSellQuantity": 23100,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1160
             },
             {
                 "CE": {
-                    "askPrice": 64.55,
+                    "askPrice": 66.5,
                     "askQty": 700,
                     "bidQty": 1400,
-                    "bidprice": 63.05,
+                    "bidprice": 64.7,
                     "change": -8.800000000000004,
                     "changeinOpenInterest": -5,
                     "expiryDate": "25-May-2023",
@@ -2910,32 +2910,32 @@
                     "pChange": -12.368236120871403,
                     "pchangeinOpenInterest": -4,
                     "strikePrice": 1180,
-                    "totalBuyQuantity": 65100,
-                    "totalSellQuantity": 58100,
+                    "totalBuyQuantity": 66500,
+                    "totalSellQuantity": 56700,
                     "totalTradedVolume": 8,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
-                    "askPrice": 2.75,
-                    "askQty": 1400,
+                    "askPrice": 2.6,
+                    "askQty": 700,
                     "bidQty": 2800,
-                    "bidprice": 2.65,
-                    "change": -0.20000000000000018,
+                    "bidprice": 2.4,
+                    "change": -0.3500000000000001,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTVSMOTOR25-05-2023PE1180.00",
                     "impliedVolatility": 32.45,
-                    "lastPrice": 2.75,
+                    "lastPrice": 2.6,
                     "openInterest": 268,
-                    "pChange": -6.7796610169491585,
+                    "pChange": -11.864406779661019,
                     "pchangeinOpenInterest": 0.37453183520599254,
                     "strikePrice": 1180,
-                    "totalBuyQuantity": 100100,
-                    "totalSellQuantity": 104300,
-                    "totalTradedVolume": 50,
+                    "totalBuyQuantity": 98700,
+                    "totalSellQuantity": 103600,
+                    "totalTradedVolume": 51,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1180
@@ -2960,13 +2960,13 @@
                     "totalSellQuantity": 23800,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
-                    "askPrice": 16.05,
+                    "askPrice": 13.8,
                     "askQty": 700,
-                    "bidQty": 1400,
-                    "bidprice": 11.6,
+                    "bidQty": 700,
+                    "bidprice": 12.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2977,11 +2977,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1180,
-                    "totalBuyQuantity": 2100,
-                    "totalSellQuantity": 23100,
+                    "totalBuyQuantity": 3500,
+                    "totalSellQuantity": 45500,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1180
@@ -3006,7 +3006,7 @@
                     "totalSellQuantity": 700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
                     "askPrice": 32.2,
@@ -3027,17 +3027,17 @@
                     "totalSellQuantity": 700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1180
             },
             {
                 "CE": {
-                    "askPrice": 46.55,
+                    "askPrice": 48.1,
                     "askQty": 700,
                     "bidQty": 700,
-                    "bidprice": 45.55,
+                    "bidprice": 47.25,
                     "change": -6.850000000000001,
                     "changeinOpenInterest": -7,
                     "expiryDate": "25-May-2023",
@@ -3048,42 +3048,42 @@
                     "pChange": -12.827715355805246,
                     "pchangeinOpenInterest": -1.5217391304347827,
                     "strikePrice": 1200,
-                    "totalBuyQuantity": 73500,
-                    "totalSellQuantity": 65100,
+                    "totalBuyQuantity": 72100,
+                    "totalSellQuantity": 65800,
                     "totalTradedVolume": 85,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
-                    "askPrice": 5.25,
-                    "askQty": 700,
-                    "bidQty": 2100,
-                    "bidprice": 5.1,
-                    "change": 0.25,
+                    "askPrice": 4.85,
+                    "askQty": 4900,
+                    "bidQty": 1400,
+                    "bidprice": 4.65,
+                    "change": -0.2999999999999998,
                     "changeinOpenInterest": 11,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTVSMOTOR25-05-2023PE1200.00",
                     "impliedVolatility": 30.25,
-                    "lastPrice": 5.3,
+                    "lastPrice": 4.75,
                     "openInterest": 737,
-                    "pChange": 4.9504950495049505,
+                    "pChange": -5.940594059405938,
                     "pchangeinOpenInterest": 1.5151515151515151,
                     "strikePrice": 1200,
-                    "totalBuyQuantity": 95900,
-                    "totalSellQuantity": 197400,
-                    "totalTradedVolume": 309,
+                    "totalBuyQuantity": 99400,
+                    "totalSellQuantity": 189000,
+                    "totalTradedVolume": 311,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1200
             },
             {
                 "CE": {
-                    "askPrice": 66.6,
+                    "askPrice": 68.85,
                     "askQty": 700,
                     "bidQty": 700,
-                    "bidprice": 64.7,
+                    "bidprice": 66.35,
                     "change": -4.900000000000006,
                     "changeinOpenInterest": -1,
                     "expiryDate": "29-Jun-2023",
@@ -3095,16 +3095,16 @@
                     "pchangeinOpenInterest": -1.1764705882352942,
                     "strikePrice": 1200,
                     "totalBuyQuantity": 34300,
-                    "totalSellQuantity": 55300,
+                    "totalSellQuantity": 54600,
                     "totalTradedVolume": 15,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
-                    "askPrice": 20.35,
+                    "askPrice": 19.75,
                     "askQty": 700,
                     "bidQty": 700,
-                    "bidprice": 19.15,
+                    "bidprice": 18.95,
                     "change": 1.5,
                     "changeinOpenInterest": -3,
                     "expiryDate": "29-Jun-2023",
@@ -3116,10 +3116,10 @@
                     "pchangeinOpenInterest": -2.0408163265306123,
                     "strikePrice": 1200,
                     "totalBuyQuantity": 60200,
-                    "totalSellQuantity": 62300,
+                    "totalSellQuantity": 65100,
                     "totalTradedVolume": 22,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1200
@@ -3144,7 +3144,7 @@
                     "totalSellQuantity": 700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
                     "askPrice": 49.5,
@@ -3165,17 +3165,17 @@
                     "totalSellQuantity": 700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1200
             },
             {
                 "CE": {
-                    "askPrice": 54.75,
+                    "askPrice": 55.65,
                     "askQty": 700,
-                    "bidQty": 700,
-                    "bidprice": 51.6,
+                    "bidQty": 1400,
+                    "bidprice": 53.1,
                     "change": -8.049999999999997,
                     "changeinOpenInterest": 1,
                     "expiryDate": "29-Jun-2023",
@@ -3186,17 +3186,17 @@
                     "pChange": -13.609467455621296,
                     "pchangeinOpenInterest": 5,
                     "strikePrice": 1220,
-                    "totalBuyQuantity": 7000,
+                    "totalBuyQuantity": 6300,
                     "totalSellQuantity": 27300,
                     "totalTradedVolume": 10,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
-                    "askPrice": 28.35,
+                    "askPrice": 26.8,
                     "askQty": 700,
                     "bidQty": 700,
-                    "bidprice": 25.85,
+                    "bidprice": 24.85,
                     "change": -1.3499999999999979,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3207,88 +3207,88 @@
                     "pChange": -4.545454545454539,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1220,
-                    "totalBuyQuantity": 23800,
-                    "totalSellQuantity": 23100,
+                    "totalBuyQuantity": 49000,
+                    "totalSellQuantity": 45500,
                     "totalTradedVolume": 1,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1220
             },
             {
                 "CE": {
-                    "askPrice": 33,
-                    "askQty": 700,
-                    "bidQty": 700,
-                    "bidprice": 32.5,
-                    "change": -6.149999999999999,
+                    "askPrice": 32.55,
+                    "askQty": 1400,
+                    "bidQty": 1400,
+                    "bidprice": 32.1,
+                    "change": -5.100000000000001,
                     "changeinOpenInterest": 33,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTVSMOTOR25-05-2023CE1220.00",
                     "impliedVolatility": 19.18,
-                    "lastPrice": 31.85,
+                    "lastPrice": 32.9,
                     "openInterest": 295,
-                    "pChange": -16.184210526315788,
+                    "pChange": -13.42105263157895,
                     "pchangeinOpenInterest": 12.595419847328245,
                     "strikePrice": 1220,
-                    "totalBuyQuantity": 83300,
-                    "totalSellQuantity": 97300,
-                    "totalTradedVolume": 640,
+                    "totalBuyQuantity": 81200,
+                    "totalSellQuantity": 102200,
+                    "totalTradedVolume": 656,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
-                    "askPrice": 10.15,
+                    "askPrice": 9.3,
                     "askQty": 700,
-                    "bidQty": 700,
-                    "bidprice": 9.9,
-                    "change": 1.25,
+                    "bidQty": 1400,
+                    "bidprice": 9.1,
+                    "change": 0.40000000000000036,
                     "changeinOpenInterest": -35,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTVSMOTOR25-05-2023PE1220.00",
                     "impliedVolatility": 30.57,
-                    "lastPrice": 9.95,
+                    "lastPrice": 9.1,
                     "openInterest": 492,
-                    "pChange": 14.367816091954024,
+                    "pChange": 4.597701149425292,
                     "pchangeinOpenInterest": -6.641366223908919,
                     "strikePrice": 1220,
-                    "totalBuyQuantity": 85400,
-                    "totalSellQuantity": 124600,
-                    "totalTradedVolume": 379,
+                    "totalBuyQuantity": 88900,
+                    "totalSellQuantity": 123200,
+                    "totalTradedVolume": 386,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1220
             },
             {
                 "CE": {
-                    "askPrice": 41.95,
+                    "askPrice": 43.7,
                     "askQty": 700,
-                    "bidQty": 700,
-                    "bidprice": 40.85,
-                    "change": -1,
+                    "bidQty": 1400,
+                    "bidprice": 41.05,
+                    "change": 0,
                     "changeinOpenInterest": 2,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKTVSMOTOR29-06-2023CE1240.00",
                     "impliedVolatility": 18.63,
-                    "lastPrice": 41,
+                    "lastPrice": 42,
                     "openInterest": 18,
-                    "pChange": -2.380952380952381,
+                    "pChange": 0,
                     "pchangeinOpenInterest": 12.5,
                     "strikePrice": 1240,
                     "totalBuyQuantity": 9800,
-                    "totalSellQuantity": 32200,
-                    "totalTradedVolume": 5,
+                    "totalSellQuantity": 30100,
+                    "totalTradedVolume": 7,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
-                    "askPrice": 35.95,
+                    "askPrice": 34.8,
                     "askQty": 700,
                     "bidQty": 700,
-                    "bidprice": 34.6,
+                    "bidprice": 32.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3299,11 +3299,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1240,
-                    "totalBuyQuantity": 23800,
-                    "totalSellQuantity": 3500,
+                    "totalBuyQuantity": 25200,
+                    "totalSellQuantity": 4900,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1240
@@ -3325,10 +3325,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1240,
                     "totalBuyQuantity": 700,
-                    "totalSellQuantity": 1400,
+                    "totalSellQuantity": 700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
                     "askPrice": 65.5,
@@ -3349,99 +3349,99 @@
                     "totalSellQuantity": 700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1240
             },
             {
                 "CE": {
-                    "askPrice": 20.8,
+                    "askPrice": 20.65,
                     "askQty": 700,
                     "bidQty": 1400,
-                    "bidprice": 20.65,
-                    "change": -3.849999999999998,
+                    "bidprice": 20.3,
+                    "change": -3.9499999999999993,
                     "changeinOpenInterest": 55,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTVSMOTOR25-05-2023CE1240.00",
                     "impliedVolatility": 22.48,
-                    "lastPrice": 20.6,
+                    "lastPrice": 20.5,
                     "openInterest": 712,
-                    "pChange": -15.746421267893652,
+                    "pChange": -16.155419222903884,
                     "pchangeinOpenInterest": 8.37138508371385,
                     "strikePrice": 1240,
-                    "totalBuyQuantity": 120400,
-                    "totalSellQuantity": 163800,
-                    "totalTradedVolume": 644,
+                    "totalBuyQuantity": 115500,
+                    "totalSellQuantity": 164500,
+                    "totalTradedVolume": 675,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
-                    "askPrice": 17.65,
+                    "askPrice": 17.35,
                     "askQty": 700,
-                    "bidQty": 3500,
-                    "bidprice": 17.3,
-                    "change": 2.650000000000002,
-                    "changeinOpenInterest": 10,
+                    "bidQty": 700,
+                    "bidprice": 17.1,
+                    "change": 1.5500000000000007,
+                    "changeinOpenInterest": 9,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTVSMOTOR25-05-2023PE1240.00",
                     "impliedVolatility": 32.24,
-                    "lastPrice": 18.1,
-                    "openInterest": 456,
-                    "pChange": 17.152103559870564,
-                    "pchangeinOpenInterest": 2.242152466367713,
+                    "lastPrice": 17,
+                    "openInterest": 455,
+                    "pChange": 10.032362459546931,
+                    "pchangeinOpenInterest": 2.0179372197309418,
                     "strikePrice": 1240,
-                    "totalBuyQuantity": 103600,
+                    "totalBuyQuantity": 107100,
                     "totalSellQuantity": 165900,
-                    "totalTradedVolume": 480,
+                    "totalTradedVolume": 491,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1240
             },
             {
                 "CE": {
-                    "askPrice": 12,
+                    "askPrice": 12.7,
                     "askQty": 1400,
-                    "bidQty": 3500,
-                    "bidprice": 11.9,
-                    "change": -2.950000000000001,
-                    "changeinOpenInterest": 362,
+                    "bidQty": 2100,
+                    "bidprice": 12.55,
+                    "change": -2.3000000000000007,
+                    "changeinOpenInterest": 372,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTVSMOTOR25-05-2023CE1260.00",
                     "impliedVolatility": 24.79,
-                    "lastPrice": 11.95,
-                    "openInterest": 1013,
-                    "pChange": -19.79865771812081,
-                    "pchangeinOpenInterest": 55.60675883256528,
+                    "lastPrice": 12.6,
+                    "openInterest": 1023,
+                    "pChange": -15.43624161073826,
+                    "pchangeinOpenInterest": 57.142857142857146,
                     "strikePrice": 1260,
-                    "totalBuyQuantity": 142100,
-                    "totalSellQuantity": 315700,
-                    "totalTradedVolume": 1790,
+                    "totalBuyQuantity": 130200,
+                    "totalSellQuantity": 319900,
+                    "totalTradedVolume": 1845,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
-                    "askPrice": 31.15,
-                    "askQty": 2100,
+                    "askPrice": 29.5,
+                    "askQty": 1400,
                     "bidQty": 1400,
-                    "bidprice": 30.45,
-                    "change": 5.950000000000003,
-                    "changeinOpenInterest": -9,
+                    "bidprice": 29,
+                    "change": 4.350000000000001,
+                    "changeinOpenInterest": -10,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTVSMOTOR25-05-2023PE1260.00",
                     "impliedVolatility": 34.79,
-                    "lastPrice": 30.85,
-                    "openInterest": 166,
-                    "pChange": 23.895582329317282,
-                    "pchangeinOpenInterest": -5.142857142857143,
+                    "lastPrice": 29.25,
+                    "openInterest": 165,
+                    "pChange": 17.469879518072297,
+                    "pchangeinOpenInterest": -5.714285714285714,
                     "strikePrice": 1260,
-                    "totalBuyQuantity": 72800,
-                    "totalSellQuantity": 57400,
-                    "totalTradedVolume": 184,
+                    "totalBuyQuantity": 82600,
+                    "totalSellQuantity": 56700,
+                    "totalTradedVolume": 192,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1260
@@ -3463,10 +3463,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1260,
                     "totalBuyQuantity": 700,
-                    "totalSellQuantity": 2100,
+                    "totalSellQuantity": 700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
                     "askPrice": 75.4,
@@ -3487,17 +3487,17 @@
                     "totalSellQuantity": 700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1260
             },
             {
                 "CE": {
-                    "askPrice": 35.7,
+                    "askPrice": 34.75,
                     "askQty": 700,
                     "bidQty": 700,
-                    "bidprice": 29,
+                    "bidprice": 32.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3508,17 +3508,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1260,
-                    "totalBuyQuantity": 1400,
-                    "totalSellQuantity": 25900,
+                    "totalBuyQuantity": 2800,
+                    "totalSellQuantity": 27300,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
-                    "askPrice": 49,
+                    "askPrice": 45.95,
                     "askQty": 700,
                     "bidQty": 700,
-                    "bidprice": 42.3,
+                    "bidprice": 43.9,
                     "change": -15.200000000000003,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3529,42 +3529,42 @@
                     "pChange": -25.762711864406786,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1260,
-                    "totalBuyQuantity": 2800,
-                    "totalSellQuantity": 22400,
+                    "totalBuyQuantity": 3500,
+                    "totalSellQuantity": 3500,
                     "totalTradedVolume": 1,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1260
             },
             {
                 "CE": {
-                    "askPrice": 6.85,
-                    "askQty": 700,
-                    "bidQty": 1400,
-                    "bidprice": 6.7,
-                    "change": -1.5500000000000007,
-                    "changeinOpenInterest": 64,
+                    "askPrice": 6.75,
+                    "askQty": 1400,
+                    "bidQty": 2100,
+                    "bidprice": 6.55,
+                    "change": -1.1000000000000005,
+                    "changeinOpenInterest": 67,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTVSMOTOR25-05-2023CE1280.00",
                     "impliedVolatility": 25.82,
-                    "lastPrice": 6.35,
-                    "openInterest": 490,
-                    "pChange": -19.62025316455697,
-                    "pchangeinOpenInterest": 15.023474178403756,
+                    "lastPrice": 6.8,
+                    "openInterest": 493,
+                    "pChange": -13.924050632911397,
+                    "pchangeinOpenInterest": 15.727699530516432,
                     "strikePrice": 1280,
-                    "totalBuyQuantity": 87500,
-                    "totalSellQuantity": 130200,
-                    "totalTradedVolume": 350,
+                    "totalBuyQuantity": 82600,
+                    "totalSellQuantity": 132300,
+                    "totalTradedVolume": 355,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
-                    "askPrice": 43.85,
-                    "askQty": 1400,
+                    "askPrice": 43.9,
+                    "askQty": 700,
                     "bidQty": 700,
-                    "bidprice": 42.15,
+                    "bidprice": 42.65,
                     "change": 6.399999999999999,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
@@ -3575,21 +3575,21 @@
                     "pChange": 16.797900262467188,
                     "pchangeinOpenInterest": -2.7777777777777777,
                     "strikePrice": 1280,
-                    "totalBuyQuantity": 34300,
-                    "totalSellQuantity": 15400,
+                    "totalBuyQuantity": 35000,
+                    "totalSellQuantity": 11900,
                     "totalTradedVolume": 2,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1280
             },
             {
                 "CE": {
-                    "askPrice": 29.1,
+                    "askPrice": 30.3,
                     "askQty": 700,
                     "bidQty": 700,
-                    "bidprice": 21.3,
+                    "bidprice": 23.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3600,17 +3600,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1280,
-                    "totalBuyQuantity": 1400,
+                    "totalBuyQuantity": 2100,
                     "totalSellQuantity": 2100,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
-                    "askPrice": 61.55,
+                    "askPrice": 63.2,
                     "askQty": 700,
                     "bidQty": 700,
-                    "bidprice": 53.3,
+                    "bidprice": 50.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3621,11 +3621,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1280,
-                    "totalBuyQuantity": 1400,
+                    "totalBuyQuantity": 700,
                     "totalSellQuantity": 22400,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1280
@@ -3650,7 +3650,7 @@
                     "totalSellQuantity": 700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
                     "askPrice": 86.7,
@@ -3671,38 +3671,38 @@
                     "totalSellQuantity": 700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1280
             },
             {
                 "CE": {
-                    "askPrice": 3.2,
-                    "askQty": 7000,
-                    "bidQty": 4200,
-                    "bidprice": 3.1,
-                    "change": -0.8000000000000003,
-                    "changeinOpenInterest": 28,
+                    "askPrice": 3.45,
+                    "askQty": 1400,
+                    "bidQty": 700,
+                    "bidprice": 3.35,
+                    "change": -0.4500000000000002,
+                    "changeinOpenInterest": 12,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTVSMOTOR25-05-2023CE1300.00",
                     "impliedVolatility": 26.92,
-                    "lastPrice": 3.05,
-                    "openInterest": 854,
-                    "pChange": -20.779220779220786,
-                    "pchangeinOpenInterest": 3.389830508474576,
+                    "lastPrice": 3.4,
+                    "openInterest": 838,
+                    "pChange": -11.688311688311693,
+                    "pchangeinOpenInterest": 1.4527845036319613,
                     "strikePrice": 1300,
-                    "totalBuyQuantity": 111300,
-                    "totalSellQuantity": 229600,
-                    "totalTradedVolume": 781,
+                    "totalBuyQuantity": 109200,
+                    "totalSellQuantity": 215600,
+                    "totalTradedVolume": 812,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
-                    "askPrice": 62.45,
-                    "askQty": 700,
+                    "askPrice": 60.35,
+                    "askQty": 1400,
                     "bidQty": 700,
-                    "bidprice": 61.35,
+                    "bidprice": 59.15,
                     "change": 7.399999999999999,
                     "changeinOpenInterest": -4,
                     "expiryDate": "25-May-2023",
@@ -3713,42 +3713,42 @@
                     "pChange": 13.27354260089686,
                     "pchangeinOpenInterest": -4.081632653061225,
                     "strikePrice": 1300,
-                    "totalBuyQuantity": 41300,
+                    "totalBuyQuantity": 42000,
                     "totalSellQuantity": 20300,
                     "totalTradedVolume": 26,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1300
             },
             {
                 "CE": {
-                    "askPrice": 19.2,
+                    "askPrice": 20.05,
                     "askQty": 700,
                     "bidQty": 700,
-                    "bidprice": 18.5,
-                    "change": -3.6499999999999986,
-                    "changeinOpenInterest": -7,
+                    "bidprice": 18.95,
+                    "change": -2.849999999999998,
+                    "changeinOpenInterest": -6,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKTVSMOTOR29-06-2023CE1300.00",
                     "impliedVolatility": 20.99,
-                    "lastPrice": 19,
-                    "openInterest": 153,
-                    "pChange": -16.114790286975712,
-                    "pchangeinOpenInterest": -4.375,
+                    "lastPrice": 19.8,
+                    "openInterest": 154,
+                    "pChange": -12.582781456953635,
+                    "pchangeinOpenInterest": -3.75,
                     "strikePrice": 1300,
-                    "totalBuyQuantity": 63700,
-                    "totalSellQuantity": 63700,
-                    "totalTradedVolume": 16,
+                    "totalBuyQuantity": 65800,
+                    "totalSellQuantity": 64400,
+                    "totalTradedVolume": 19,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
-                    "askPrice": 72.7,
-                    "askQty": 700,
+                    "askPrice": 71.4,
+                    "askQty": 1400,
                     "bidQty": 700,
-                    "bidprice": 70.3,
+                    "bidprice": 68.75,
                     "change": 2.9000000000000057,
                     "changeinOpenInterest": 22,
                     "expiryDate": "29-Jun-2023",
@@ -3760,10 +3760,10 @@
                     "pchangeinOpenInterest": 91.66666666666667,
                     "strikePrice": 1300,
                     "totalBuyQuantity": 7700,
-                    "totalSellQuantity": 28700,
+                    "totalSellQuantity": 28000,
                     "totalTradedVolume": 24,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1300
@@ -3788,38 +3788,38 @@
                     "totalSellQuantity": 700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1300
             },
             {
                 "CE": {
-                    "askPrice": 1.8,
+                    "askPrice": 2.05,
                     "askQty": 2100,
-                    "bidQty": 2100,
-                    "bidprice": 1.75,
-                    "change": -0.19999999999999996,
-                    "changeinOpenInterest": 2,
+                    "bidQty": 4900,
+                    "bidprice": 1.9,
+                    "change": -0.050000000000000044,
+                    "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTVSMOTOR25-05-2023CE1320.00",
                     "impliedVolatility": 28.14,
-                    "lastPrice": 1.8,
-                    "openInterest": 196,
-                    "pChange": -9.999999999999998,
-                    "pchangeinOpenInterest": 1.0309278350515463,
+                    "lastPrice": 1.95,
+                    "openInterest": 195,
+                    "pChange": -2.500000000000002,
+                    "pchangeinOpenInterest": 0.5154639175257731,
                     "strikePrice": 1320,
-                    "totalBuyQuantity": 105000,
-                    "totalSellQuantity": 88200,
-                    "totalTradedVolume": 60,
+                    "totalBuyQuantity": 107800,
+                    "totalSellQuantity": 86100,
+                    "totalTradedVolume": 64,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
-                    "askPrice": 81.35,
+                    "askPrice": 79.05,
                     "askQty": 700,
-                    "bidQty": 1400,
-                    "bidprice": 79.3,
+                    "bidQty": 700,
+                    "bidprice": 77.3,
                     "change": 7.799999999999997,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3830,11 +3830,11 @@
                     "pChange": 10.83333333333333,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1320,
-                    "totalBuyQuantity": 29400,
-                    "totalSellQuantity": 10500,
+                    "totalBuyQuantity": 28700,
+                    "totalSellQuantity": 9100,
                     "totalTradedVolume": 3,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1320
@@ -3859,7 +3859,7 @@
                     "totalSellQuantity": 700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
                     "askPrice": 121.6,
@@ -3880,17 +3880,17 @@
                     "totalSellQuantity": 700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1320
             },
             {
                 "CE": {
-                    "askPrice": 16.3,
+                    "askPrice": 15.5,
                     "askQty": 700,
                     "bidQty": 700,
-                    "bidprice": 12.1,
+                    "bidprice": 13.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3901,17 +3901,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1320,
-                    "totalBuyQuantity": 3500,
-                    "totalSellQuantity": 21700,
+                    "totalBuyQuantity": 4900,
+                    "totalSellQuantity": 23800,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
-                    "askPrice": 94,
+                    "askPrice": 94.95,
                     "askQty": 2100,
-                    "bidQty": 2800,
-                    "bidprice": 73.3,
+                    "bidQty": 2100,
+                    "bidprice": 79.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3922,42 +3922,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1320,
-                    "totalBuyQuantity": 2800,
-                    "totalSellQuantity": 25200,
+                    "totalBuyQuantity": 4200,
+                    "totalSellQuantity": 23800,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1320
             },
             {
                 "CE": {
-                    "askPrice": 1,
-                    "askQty": 700,
-                    "bidQty": 3500,
-                    "bidprice": 0.95,
-                    "change": -0.2499999999999999,
-                    "changeinOpenInterest": -4,
+                    "askPrice": 1.2,
+                    "askQty": 1400,
+                    "bidQty": 2800,
+                    "bidprice": 1.1,
+                    "change": -0.09999999999999987,
+                    "changeinOpenInterest": -5,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTVSMOTOR25-05-2023CE1340.00",
                     "impliedVolatility": 30.15,
-                    "lastPrice": 0.9,
-                    "openInterest": 267,
-                    "pChange": -21.7391304347826,
-                    "pchangeinOpenInterest": -1.4760147601476015,
+                    "lastPrice": 1.05,
+                    "openInterest": 266,
+                    "pChange": -8.695652173913032,
+                    "pchangeinOpenInterest": -1.845018450184502,
                     "strikePrice": 1340,
-                    "totalBuyQuantity": 88200,
-                    "totalSellQuantity": 90300,
-                    "totalTradedVolume": 51,
+                    "totalBuyQuantity": 96600,
+                    "totalSellQuantity": 84700,
+                    "totalTradedVolume": 54,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
-                    "askPrice": 105.5,
-                    "askQty": 1400,
+                    "askPrice": 98.3,
+                    "askQty": 700,
                     "bidQty": 2100,
-                    "bidprice": 95.95,
+                    "bidprice": 94.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3968,21 +3968,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1340,
-                    "totalBuyQuantity": 31500,
-                    "totalSellQuantity": 9100,
+                    "totalBuyQuantity": 30100,
+                    "totalSellQuantity": 7700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1340
             },
             {
                 "CE": {
-                    "askPrice": 14.65,
+                    "askPrice": 11.65,
                     "askQty": 700,
                     "bidQty": 700,
-                    "bidprice": 8.15,
+                    "bidprice": 9.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3993,11 +3993,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1340,
-                    "totalBuyQuantity": 2800,
-                    "totalSellQuantity": 700,
+                    "totalBuyQuantity": 3500,
+                    "totalSellQuantity": 1400,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
                     "askPrice": 113.55,
@@ -4018,7 +4018,7 @@
                     "totalSellQuantity": 23800,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1340
@@ -4043,17 +4043,17 @@
                     "totalSellQuantity": 700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1340
             },
             {
                 "CE": {
-                    "askPrice": 0.7,
-                    "askQty": 2100,
-                    "bidQty": 2100,
-                    "bidprice": 0.6,
+                    "askPrice": 0.75,
+                    "askQty": 1400,
+                    "bidQty": 1400,
+                    "bidprice": 0.65,
                     "change": -0.04999999999999993,
                     "changeinOpenInterest": 9,
                     "expiryDate": "25-May-2023",
@@ -4064,17 +4064,17 @@
                     "pChange": -7.142857142857134,
                     "pchangeinOpenInterest": 11.25,
                     "strikePrice": 1360,
-                    "totalBuyQuantity": 66500,
+                    "totalBuyQuantity": 86100,
                     "totalSellQuantity": 77000,
                     "totalTradedVolume": 18,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
-                    "askPrice": 122.25,
-                    "askQty": 2100,
-                    "bidQty": 3500,
-                    "bidprice": 113.3,
+                    "askPrice": 120.85,
+                    "askQty": 700,
+                    "bidQty": 2100,
+                    "bidprice": 113.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4089,7 +4089,7 @@
                     "totalSellQuantity": 9100,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1360
@@ -4114,7 +4114,7 @@
                     "totalSellQuantity": 700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
                     "askPrice": 131.45,
@@ -4135,17 +4135,17 @@
                     "totalSellQuantity": 25200,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1360
             },
             {
                 "CE": {
-                    "askPrice": 0.6,
-                    "askQty": 700,
-                    "bidQty": 3500,
-                    "bidprice": 0.3,
+                    "askPrice": 0.65,
+                    "askQty": 1400,
+                    "bidQty": 700,
+                    "bidprice": 0.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4156,17 +4156,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1380,
-                    "totalBuyQuantity": 45500,
-                    "totalSellQuantity": 30100,
+                    "totalBuyQuantity": 46200,
+                    "totalSellQuantity": 51100,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
-                    "askPrice": 145.25,
+                    "askPrice": 141.85,
                     "askQty": 2100,
-                    "bidQty": 3500,
-                    "bidprice": 133.7,
+                    "bidQty": 2100,
+                    "bidprice": 131.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4177,11 +4177,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1380,
-                    "totalBuyQuantity": 30800,
-                    "totalSellQuantity": 9800,
+                    "totalBuyQuantity": 29400,
+                    "totalSellQuantity": 8400,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1380
@@ -4206,13 +4206,13 @@
                     "totalSellQuantity": 21700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
                     "askPrice": 151.25,
                     "askQty": 2800,
-                    "bidQty": 2100,
-                    "bidprice": 125.6,
+                    "bidQty": 700,
+                    "bidprice": 121.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4223,11 +4223,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1380,
-                    "totalBuyQuantity": 23800,
+                    "totalBuyQuantity": 21700,
                     "totalSellQuantity": 23800,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1380
@@ -4252,17 +4252,17 @@
                     "totalSellQuantity": 700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1380
             },
             {
                 "CE": {
-                    "askPrice": 0.35,
-                    "askQty": 2100,
-                    "bidQty": 2800,
-                    "bidprice": 0.3,
+                    "askPrice": 0.7,
+                    "askQty": 1400,
+                    "bidQty": 700,
+                    "bidprice": 0.35,
                     "change": -0.15000000000000002,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4273,17 +4273,17 @@
                     "pChange": -30.000000000000004,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1400,
-                    "totalBuyQuantity": 60200,
-                    "totalSellQuantity": 56700,
-                    "totalTradedVolume": 5,
+                    "totalBuyQuantity": 70000,
+                    "totalSellQuantity": 53200,
+                    "totalTradedVolume": 8,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
-                    "askPrice": 163.8,
-                    "askQty": 700,
+                    "askPrice": 163.45,
+                    "askQty": 1400,
                     "bidQty": 2100,
-                    "bidprice": 154.4,
+                    "bidprice": 151.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4295,19 +4295,19 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1400,
                     "totalBuyQuantity": 29400,
-                    "totalSellQuantity": 9100,
+                    "totalSellQuantity": 7700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1400
             },
             {
                 "CE": {
-                    "askPrice": 4.25,
+                    "askPrice": 4.15,
                     "askQty": 700,
-                    "bidQty": 700,
+                    "bidQty": 1400,
                     "bidprice": 3.5,
                     "change": -4.5,
                     "changeinOpenInterest": 0,
@@ -4323,13 +4323,13 @@
                     "totalSellQuantity": 24500,
                     "totalTradedVolume": 3,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
-                    "askPrice": 170.45,
-                    "askQty": 2800,
-                    "bidQty": 2100,
-                    "bidprice": 140.25,
+                    "askPrice": 167.05,
+                    "askQty": 2100,
+                    "bidQty": 2800,
+                    "bidprice": 139.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4344,7 +4344,7 @@
                     "totalSellQuantity": 23800,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1400
@@ -4369,7 +4369,7 @@
                     "totalSellQuantity": 700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
                     "askPrice": 185.4,
@@ -4390,15 +4390,15 @@
                     "totalSellQuantity": 700,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1400
             },
             {
                 "CE": {
-                    "askPrice": 2.4,
-                    "askQty": 21000,
+                    "askPrice": 1.45,
+                    "askQty": 2800,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -4412,13 +4412,13 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1420,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 21000,
+                    "totalSellQuantity": 24500,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.4
                 },
                 "PE": {
-                    "askPrice": 205.8,
+                    "askPrice": 196.7,
                     "askQty": 2100,
                     "bidQty": 2100,
                     "bidprice": 158.45,
@@ -4436,7 +4436,7 @@
                     "totalSellQuantity": 23100,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1420
@@ -4461,10 +4461,10 @@
                     "totalSellQuantity": 22400,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 0
+                    "underlyingValue": 1246.25
                 },
                 "PE": {
-                    "askPrice": 232.85,
+                    "askPrice": 225.15,
                     "askQty": 2100,
                     "bidQty": 2100,
                     "bidprice": 155.5,
@@ -4482,7 +4482,7 @@
                     "totalSellQuantity": 23100,
                     "totalTradedVolume": 0,
                     "underlying": "TVSMOTOR",
-                    "underlyingValue": 1243.75
+                    "underlyingValue": 1246.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1420
@@ -4523,7 +4523,7 @@
             1400,
             1420
         ],
-        "timestamp": "18-May-2023 10:21:15",
-        "underlyingValue": 1243.75
+        "timestamp": "18-May-2023 10:26:47",
+        "underlyingValue": 1246.4
     }
 }

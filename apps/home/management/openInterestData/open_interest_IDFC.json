@@ -1,17 +1,17 @@
 {
     "filtered": {
         "CE": {
-            "totOI": 3700,
-            "totVol": 594
+            "totOI": 3707,
+            "totVol": 608
         },
         "PE": {
-            "totOI": 2068,
-            "totVol": 288
+            "totOI": 2054,
+            "totVol": 297
         },
         "data": [
             {
                 "CE": {
-                    "askPrice": 34.65,
+                    "askPrice": 33.85,
                     "askQty": 30000,
                     "bidQty": 30000,
                     "bidprice": 29.9,
@@ -29,7 +29,7 @@
                     "totalSellQuantity": 330000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.1,
@@ -50,14 +50,14 @@
                     "totalSellQuantity": 360000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 61
             },
             {
                 "CE": {
-                    "askPrice": 33.75,
+                    "askPrice": 32.75,
                     "askQty": 30000,
                     "bidQty": 30000,
                     "bidprice": 28.9,
@@ -75,7 +75,7 @@
                     "totalSellQuantity": 330000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.1,
@@ -96,7 +96,7 @@
                     "totalSellQuantity": 360000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 62
@@ -121,7 +121,7 @@
                     "totalSellQuantity": 330000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.05,
@@ -142,14 +142,14 @@
                     "totalSellQuantity": 360000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 63
             },
             {
                 "CE": {
-                    "askPrice": 31.15,
+                    "askPrice": 30.65,
                     "askQty": 30000,
                     "bidQty": 30000,
                     "bidprice": 27,
@@ -167,11 +167,11 @@
                     "totalSellQuantity": 330000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
-                    "askPrice": 0.45,
-                    "askQty": 40000,
+                    "askPrice": 0.1,
+                    "askQty": 10000,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -185,10 +185,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 64,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 380000,
+                    "totalSellQuantity": 390000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 64
@@ -197,8 +197,8 @@
                 "CE": {
                     "askPrice": 29.4,
                     "askQty": 30000,
-                    "bidQty": 40000,
-                    "bidprice": 26.1,
+                    "bidQty": 10000,
+                    "bidprice": 26.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -213,7 +213,7 @@
                     "totalSellQuantity": 330000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.05,
@@ -234,7 +234,7 @@
                     "totalSellQuantity": 370000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 65
@@ -259,7 +259,7 @@
                     "totalSellQuantity": 330000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.45,
@@ -280,7 +280,7 @@
                     "totalSellQuantity": 370000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 66
@@ -305,7 +305,7 @@
                     "totalSellQuantity": 330000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.25,
@@ -326,7 +326,7 @@
                     "totalSellQuantity": 450000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 67
@@ -351,7 +351,7 @@
                     "totalSellQuantity": 330000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.25,
@@ -372,7 +372,7 @@
                     "totalSellQuantity": 440000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 68
@@ -397,7 +397,7 @@
                     "totalSellQuantity": 300000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.3,
@@ -418,7 +418,7 @@
                     "totalSellQuantity": 400000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 69
@@ -443,7 +443,7 @@
                     "totalSellQuantity": 330000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 70
@@ -468,7 +468,7 @@
                     "totalSellQuantity": 330000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.4,
@@ -489,7 +489,7 @@
                     "totalSellQuantity": 370000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 71
@@ -514,7 +514,7 @@
                     "totalSellQuantity": 330000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.4,
@@ -535,7 +535,7 @@
                     "totalSellQuantity": 370000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 72
@@ -560,7 +560,7 @@
                     "totalSellQuantity": 330000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.4,
@@ -581,7 +581,7 @@
                     "totalSellQuantity": 370000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 73
@@ -606,7 +606,7 @@
                     "totalSellQuantity": 330000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 1.65,
@@ -627,7 +627,7 @@
                     "totalSellQuantity": 300000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 74
@@ -652,7 +652,7 @@
                     "totalSellQuantity": 330000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.05,
@@ -673,7 +673,7 @@
                     "totalSellQuantity": 750000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 75
@@ -698,7 +698,7 @@
                     "totalSellQuantity": 330000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.35,
@@ -719,7 +719,7 @@
                     "totalSellQuantity": 430000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 76
@@ -744,7 +744,7 @@
                     "totalSellQuantity": 330000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 2.65,
@@ -765,7 +765,7 @@
                     "totalSellQuantity": 300000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 77
@@ -775,7 +775,7 @@
                     "askPrice": 17.9,
                     "askQty": 300000,
                     "bidQty": 30000,
-                    "bidprice": 13.1,
+                    "bidprice": 12.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -787,10 +787,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 78,
                     "totalBuyQuantity": 330000,
-                    "totalSellQuantity": 330000,
+                    "totalSellQuantity": 340000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.05,
@@ -811,7 +811,7 @@
                     "totalSellQuantity": 430000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 78
@@ -820,8 +820,8 @@
                 "CE": {
                     "askPrice": 15.2,
                     "askQty": 30000,
-                    "bidQty": 300000,
-                    "bidprice": 11.85,
+                    "bidQty": 30000,
+                    "bidprice": 11.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -832,11 +832,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 79,
-                    "totalBuyQuantity": 300000,
+                    "totalBuyQuantity": 330000,
                     "totalSellQuantity": 330000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.35,
@@ -857,53 +857,53 @@
                     "totalSellQuantity": 510000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 79
             },
             {
                 "CE": {
-                    "askPrice": 12.8,
-                    "askQty": 40000,
-                    "bidQty": 10000,
-                    "bidprice": 12.45,
+                    "askPrice": 12.5,
+                    "askQty": 10000,
+                    "bidQty": 20000,
+                    "bidprice": 12.2,
                     "change": 0.8499999999999996,
                     "changeinOpenInterest": -8,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023CE80.00",
-                    "impliedVolatility": 70.22,
+                    "impliedVolatility": 51.02,
                     "lastPrice": 12.4,
                     "openInterest": 235,
                     "pChange": 7.359307359307356,
                     "pchangeinOpenInterest": -3.292181069958848,
                     "strikePrice": 80,
-                    "totalBuyQuantity": 650000,
-                    "totalSellQuantity": 630000,
+                    "totalBuyQuantity": 630000,
+                    "totalSellQuantity": 600000,
                     "totalTradedVolume": 13,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.05,
-                    "askQty": 130000,
+                    "askQty": 440000,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": -0.05,
-                    "changeinOpenInterest": -4,
+                    "changeinOpenInterest": -5,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023PE80.00",
-                    "impliedVolatility": 52.05,
+                    "impliedVolatility": 51.56,
                     "lastPrice": 0.05,
-                    "openInterest": 364,
+                    "openInterest": 363,
                     "pChange": -50,
-                    "pchangeinOpenInterest": -1.0869565217391304,
+                    "pchangeinOpenInterest": -1.358695652173913,
                     "strikePrice": 80,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 2270000,
+                    "totalSellQuantity": 2580000,
                     "totalTradedVolume": 18,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 80
@@ -928,7 +928,7 @@
                     "totalSellQuantity": 390000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.15,
@@ -949,7 +949,7 @@
                     "totalSellQuantity": 500000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 81
@@ -958,8 +958,8 @@
                 "CE": {
                     "askPrice": 11.95,
                     "askQty": 40000,
-                    "bidQty": 30000,
-                    "bidprice": 9.85,
+                    "bidQty": 40000,
+                    "bidprice": 10.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -970,11 +970,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 82,
-                    "totalBuyQuantity": 620000,
+                    "totalBuyQuantity": 590000,
                     "totalSellQuantity": 360000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.1,
@@ -995,17 +995,17 @@
                     "totalSellQuantity": 1030000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 82
             },
             {
                 "CE": {
-                    "askPrice": 9.95,
+                    "askPrice": 10,
                     "askQty": 30000,
-                    "bidQty": 40000,
-                    "bidprice": 8.35,
+                    "bidQty": 10000,
+                    "bidprice": 9.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1016,11 +1016,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 83,
-                    "totalBuyQuantity": 520000,
+                    "totalBuyQuantity": 460000,
                     "totalSellQuantity": 620000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.1,
@@ -1041,7 +1041,7 @@
                     "totalSellQuantity": 890000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 83
@@ -1050,8 +1050,8 @@
                 "CE": {
                     "askPrice": 9,
                     "askQty": 40000,
-                    "bidQty": 30000,
-                    "bidprice": 8.2,
+                    "bidQty": 10000,
+                    "bidprice": 8.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1062,42 +1062,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 84,
-                    "totalBuyQuantity": 420000,
+                    "totalBuyQuantity": 430000,
                     "totalSellQuantity": 430000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.1,
-                    "askQty": 160000,
-                    "bidQty": 430000,
+                    "askQty": 150000,
+                    "bidQty": 420000,
                     "bidprice": 0.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023PE84.00",
-                    "impliedVolatility": 41.79,
+                    "impliedVolatility": 41.24,
                     "lastPrice": 0.1,
                     "openInterest": 86,
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 84,
-                    "totalBuyQuantity": 430000,
-                    "totalSellQuantity": 1140000,
+                    "totalBuyQuantity": 420000,
+                    "totalSellQuantity": 1130000,
                     "totalTradedVolume": 1,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 84
             },
             {
                 "CE": {
-                    "askPrice": 7.8,
+                    "askPrice": 7.55,
                     "askQty": 10000,
                     "bidQty": 10000,
-                    "bidprice": 7.4,
+                    "bidprice": 7.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1112,53 +1112,53 @@
                     "totalSellQuantity": 710000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.1,
-                    "askQty": 380000,
-                    "bidQty": 2470000,
+                    "askQty": 450000,
+                    "bidQty": 2190000,
                     "bidprice": 0.05,
-                    "change": -0.04999999999999999,
-                    "changeinOpenInterest": -1,
+                    "change": -0.09999999999999999,
+                    "changeinOpenInterest": -12,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023PE85.00",
-                    "impliedVolatility": 37.61,
-                    "lastPrice": 0.1,
-                    "openInterest": 448,
-                    "pChange": -33.33333333333333,
-                    "pchangeinOpenInterest": -0.22271714922049,
+                    "impliedVolatility": 37.04,
+                    "lastPrice": 0.05,
+                    "openInterest": 437,
+                    "pChange": -66.66666666666666,
+                    "pchangeinOpenInterest": -2.6726057906458798,
                     "strikePrice": 85,
-                    "totalBuyQuantity": 2470000,
-                    "totalSellQuantity": 1890000,
-                    "totalTradedVolume": 63,
+                    "totalBuyQuantity": 2190000,
+                    "totalSellQuantity": 1950000,
+                    "totalTradedVolume": 71,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 85
             },
             {
                 "CE": {
-                    "askPrice": 6.6,
+                    "askPrice": 6.55,
                     "askQty": 50000,
                     "bidQty": 10000,
-                    "bidprice": 6.45,
+                    "bidprice": 6.35,
                     "change": 0.8499999999999996,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023CE86.00",
-                    "impliedVolatility": 0,
+                    "impliedVolatility": 35.11,
                     "lastPrice": 6.5,
                     "openInterest": 403,
                     "pChange": 15.044247787610612,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 86,
-                    "totalBuyQuantity": 840000,
-                    "totalSellQuantity": 810000,
+                    "totalBuyQuantity": 850000,
+                    "totalSellQuantity": 820000,
                     "totalTradedVolume": 13,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.15,
@@ -1169,7 +1169,7 @@
                     "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023PE86.00",
-                    "impliedVolatility": 33.41,
+                    "impliedVolatility": 32.83,
                     "lastPrice": 0.1,
                     "openInterest": 140,
                     "pChange": -50,
@@ -1179,53 +1179,53 @@
                     "totalSellQuantity": 1250000,
                     "totalTradedVolume": 7,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 86
             },
             {
                 "CE": {
-                    "askPrice": 5.75,
+                    "askPrice": 5.65,
                     "askQty": 30000,
                     "bidQty": 20000,
-                    "bidprice": 5.55,
+                    "bidprice": 5.5,
                     "change": 1.5,
                     "changeinOpenInterest": -5,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023CE87.00",
-                    "impliedVolatility": 41.86,
+                    "impliedVolatility": 46.1,
                     "lastPrice": 5.9,
                     "openInterest": 39,
                     "pChange": 34.090909090909086,
                     "pchangeinOpenInterest": -11.363636363636363,
                     "strikePrice": 87,
-                    "totalBuyQuantity": 850000,
+                    "totalBuyQuantity": 840000,
                     "totalSellQuantity": 820000,
                     "totalTradedVolume": 8,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.2,
-                    "askQty": 170000,
+                    "askQty": 180000,
                     "bidQty": 440000,
                     "bidprice": 0.15,
                     "change": -0.19999999999999998,
                     "changeinOpenInterest": 5,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023PE87.00",
-                    "impliedVolatility": 32.07,
+                    "impliedVolatility": 31.44,
                     "lastPrice": 0.15,
                     "openInterest": 114,
                     "pChange": -57.14285714285714,
                     "pchangeinOpenInterest": 4.587155963302752,
                     "strikePrice": 87,
-                    "totalBuyQuantity": 2730000,
-                    "totalSellQuantity": 1330000,
+                    "totalBuyQuantity": 2610000,
+                    "totalSellQuantity": 1120000,
                     "totalTradedVolume": 17,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 87
@@ -1235,114 +1235,114 @@
                     "askPrice": 4.75,
                     "askQty": 20000,
                     "bidQty": 10000,
-                    "bidprice": 4.6,
+                    "bidprice": 4.55,
                     "change": 1.8499999999999996,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023CE88.00",
-                    "impliedVolatility": 49.4,
+                    "impliedVolatility": 52.37,
                     "lastPrice": 5.35,
                     "openInterest": 59,
                     "pChange": 52.85714285714285,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 88,
-                    "totalBuyQuantity": 840000,
-                    "totalSellQuantity": 580000,
+                    "totalBuyQuantity": 830000,
+                    "totalSellQuantity": 570000,
                     "totalTradedVolume": 2,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.3,
-                    "askQty": 100000,
-                    "bidQty": 430000,
-                    "bidprice": 0.2,
+                    "askQty": 50000,
+                    "bidQty": 20000,
+                    "bidprice": 0.25,
                     "change": -0.2,
                     "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023PE88.00",
-                    "impliedVolatility": 31.73,
+                    "impliedVolatility": 31.02,
                     "lastPrice": 0.25,
                     "openInterest": 110,
                     "pChange": -44.44444444444445,
                     "pchangeinOpenInterest": 1.8518518518518519,
                     "strikePrice": 88,
-                    "totalBuyQuantity": 2390000,
-                    "totalSellQuantity": 1320000,
+                    "totalBuyQuantity": 2540000,
+                    "totalSellQuantity": 1270000,
                     "totalTradedVolume": 19,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 88
             },
             {
                 "CE": {
-                    "askPrice": 3.9,
-                    "askQty": 30000,
+                    "askPrice": 3.8,
+                    "askQty": 20000,
                     "bidQty": 10000,
-                    "bidprice": 3.7,
+                    "bidprice": 3.65,
                     "change": -0.30000000000000027,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023CE89.00",
-                    "impliedVolatility": 30.78,
+                    "impliedVolatility": 34.25,
                     "lastPrice": 3.9,
                     "openInterest": 32,
                     "pChange": -7.1428571428571495,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 89,
-                    "totalBuyQuantity": 840000,
-                    "totalSellQuantity": 850000,
+                    "totalBuyQuantity": 830000,
+                    "totalSellQuantity": 860000,
                     "totalTradedVolume": 1,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.4,
                     "askQty": 90000,
-                    "bidQty": 70000,
+                    "bidQty": 130000,
                     "bidprice": 0.35,
                     "change": -0.25,
                     "changeinOpenInterest": -5,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023PE89.00",
-                    "impliedVolatility": 29.88,
+                    "impliedVolatility": 29.09,
                     "lastPrice": 0.35,
                     "openInterest": 69,
                     "pChange": -41.66666666666667,
                     "pchangeinOpenInterest": -6.756756756756757,
                     "strikePrice": 89,
-                    "totalBuyQuantity": 2360000,
-                    "totalSellQuantity": 1180000,
-                    "totalTradedVolume": 27,
+                    "totalBuyQuantity": 2420000,
+                    "totalSellQuantity": 1170000,
+                    "totalTradedVolume": 28,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 89
             },
             {
                 "CE": {
-                    "askPrice": 3.05,
+                    "askPrice": 3,
                     "askQty": 50000,
                     "bidQty": 20000,
                     "bidprice": 2.9,
-                    "change": 0.5499999999999998,
+                    "change": 0.4500000000000002,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023CE90.00",
-                    "impliedVolatility": 28.89,
-                    "lastPrice": 3.05,
+                    "impliedVolatility": 31.63,
+                    "lastPrice": 2.95,
                     "openInterest": 290,
-                    "pChange": 21.999999999999993,
+                    "pChange": 18.000000000000007,
                     "pchangeinOpenInterest": -0.684931506849315,
                     "strikePrice": 90,
                     "totalBuyQuantity": 1150000,
-                    "totalSellQuantity": 1230000,
-                    "totalTradedVolume": 54,
+                    "totalSellQuantity": 1290000,
+                    "totalTradedVolume": 56,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.6,
@@ -1350,20 +1350,20 @@
                     "bidQty": 20000,
                     "bidprice": 0.55,
                     "change": -0.35,
-                    "changeinOpenInterest": 5,
+                    "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023PE90.00",
-                    "impliedVolatility": 28.19,
+                    "impliedVolatility": 28.54,
                     "lastPrice": 0.55,
-                    "openInterest": 181,
+                    "openInterest": 179,
                     "pChange": -38.888888888888886,
-                    "pchangeinOpenInterest": 2.840909090909091,
+                    "pchangeinOpenInterest": 1.7045454545454546,
                     "strikePrice": 90,
                     "totalBuyQuantity": 3360000,
                     "totalSellQuantity": 1510000,
                     "totalTradedVolume": 51,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 90
@@ -1371,70 +1371,70 @@
             {
                 "CE": {
                     "askPrice": 2.35,
-                    "askQty": 90000,
+                    "askQty": 110000,
                     "bidQty": 30000,
                     "bidprice": 2.2,
                     "change": 0.6000000000000001,
                     "changeinOpenInterest": -6,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023CE91.00",
-                    "impliedVolatility": 29.99,
+                    "impliedVolatility": 31.01,
                     "lastPrice": 2.35,
                     "openInterest": 67,
                     "pChange": 34.28571428571429,
                     "pchangeinOpenInterest": -8.219178082191782,
                     "strikePrice": 91,
                     "totalBuyQuantity": 680000,
-                    "totalSellQuantity": 1040000,
+                    "totalSellQuantity": 1050000,
                     "totalTradedVolume": 17,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.9,
                     "askQty": 90000,
-                    "bidQty": 40000,
+                    "bidQty": 20000,
                     "bidprice": 0.85,
                     "change": -0.5,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023PE91.00",
-                    "impliedVolatility": 28.37,
+                    "impliedVolatility": 27.29,
                     "lastPrice": 0.8,
                     "openInterest": 63,
                     "pChange": -38.46153846153846,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 91,
-                    "totalBuyQuantity": 2810000,
-                    "totalSellQuantity": 1530000,
+                    "totalBuyQuantity": 2770000,
+                    "totalSellQuantity": 1520000,
                     "totalTradedVolume": 26,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 91
             },
             {
                 "CE": {
-                    "askPrice": 1.75,
-                    "askQty": 40000,
-                    "bidQty": 30000,
-                    "bidprice": 1.65,
-                    "change": 0.3500000000000001,
-                    "changeinOpenInterest": -13,
+                    "askPrice": 1.7,
+                    "askQty": 100000,
+                    "bidQty": 70000,
+                    "bidprice": 1.6,
+                    "change": 0.25,
+                    "changeinOpenInterest": -11,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023CE92.00",
-                    "impliedVolatility": 28.93,
-                    "lastPrice": 1.75,
-                    "openInterest": 165,
-                    "pChange": 25.000000000000007,
-                    "pchangeinOpenInterest": -7.303370786516854,
+                    "impliedVolatility": 30.58,
+                    "lastPrice": 1.65,
+                    "openInterest": 167,
+                    "pChange": 17.857142857142858,
+                    "pchangeinOpenInterest": -6.179775280898877,
                     "strikePrice": 92,
-                    "totalBuyQuantity": 1510000,
-                    "totalSellQuantity": 1600000,
-                    "totalTradedVolume": 101,
+                    "totalBuyQuantity": 1490000,
+                    "totalSellQuantity": 1660000,
+                    "totalTradedVolume": 104,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 1.3,
@@ -1445,7 +1445,7 @@
                     "changeinOpenInterest": 8,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023PE92.00",
-                    "impliedVolatility": 27.47,
+                    "impliedVolatility": 28.14,
                     "lastPrice": 1.25,
                     "openInterest": 63,
                     "pChange": -30.555555555555557,
@@ -1455,7 +1455,7 @@
                     "totalSellQuantity": 1510000,
                     "totalTradedVolume": 31,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 92
@@ -1464,23 +1464,23 @@
                 "CE": {
                     "askPrice": 1.25,
                     "askQty": 40000,
-                    "bidQty": 40000,
+                    "bidQty": 30000,
                     "bidprice": 1.2,
-                    "change": 0.30000000000000004,
-                    "changeinOpenInterest": 3,
+                    "change": 0.19999999999999996,
+                    "changeinOpenInterest": 4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023CE93.00",
-                    "impliedVolatility": 28.82,
-                    "lastPrice": 1.3,
-                    "openInterest": 239,
-                    "pChange": 30.000000000000004,
-                    "pchangeinOpenInterest": 1.271186440677966,
+                    "impliedVolatility": 31.14,
+                    "lastPrice": 1.2,
+                    "openInterest": 240,
+                    "pChange": 19.999999999999996,
+                    "pchangeinOpenInterest": 1.694915254237288,
                     "strikePrice": 93,
-                    "totalBuyQuantity": 3430000,
-                    "totalSellQuantity": 1850000,
-                    "totalTradedVolume": 104,
+                    "totalBuyQuantity": 3400000,
+                    "totalSellQuantity": 1860000,
+                    "totalTradedVolume": 106,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 1.85,
@@ -1491,17 +1491,17 @@
                     "changeinOpenInterest": -5,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023PE93.00",
-                    "impliedVolatility": 28.39,
+                    "impliedVolatility": 26.74,
                     "lastPrice": 1.7,
                     "openInterest": 59,
                     "pChange": -29.166666666666668,
                     "pchangeinOpenInterest": -7.8125,
                     "strikePrice": 93,
-                    "totalBuyQuantity": 1200000,
-                    "totalSellQuantity": 1250000,
+                    "totalBuyQuantity": 1220000,
+                    "totalSellQuantity": 1280000,
                     "totalTradedVolume": 22,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 93
@@ -1510,34 +1510,34 @@
                 "CE": {
                     "askPrice": 0.9,
                     "askQty": 40000,
-                    "bidQty": 40000,
+                    "bidQty": 60000,
                     "bidprice": 0.85,
                     "change": 0.15000000000000002,
                     "changeinOpenInterest": -9,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023CE94.00",
-                    "impliedVolatility": 29.63,
+                    "impliedVolatility": 29.68,
                     "lastPrice": 0.85,
                     "openInterest": 143,
                     "pChange": 21.428571428571434,
                     "pchangeinOpenInterest": -5.921052631578948,
                     "strikePrice": 94,
-                    "totalBuyQuantity": 2510000,
+                    "totalBuyQuantity": 2540000,
                     "totalSellQuantity": 2010000,
                     "totalTradedVolume": 74,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
-                    "askPrice": 2.5,
+                    "askPrice": 2.55,
                     "askQty": 10000,
                     "bidQty": 10000,
-                    "bidprice": 2.2,
+                    "bidprice": 2.4,
                     "change": -1.4500000000000002,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023PE94.00",
-                    "impliedVolatility": 32.33,
+                    "impliedVolatility": 30.32,
                     "lastPrice": 2.5,
                     "openInterest": 15,
                     "pChange": -36.708860759493675,
@@ -1547,7 +1547,7 @@
                     "totalSellQuantity": 460000,
                     "totalTradedVolume": 2,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 94
@@ -1555,45 +1555,45 @@
             {
                 "CE": {
                     "askPrice": 0.7,
-                    "askQty": 120000,
+                    "askQty": 130000,
                     "bidQty": 90000,
                     "bidprice": 0.6,
                     "change": 0.09999999999999998,
-                    "changeinOpenInterest": -18,
+                    "changeinOpenInterest": -14,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023CE95.00",
-                    "impliedVolatility": 29.54,
+                    "impliedVolatility": 31.68,
                     "lastPrice": 0.65,
-                    "openInterest": 477,
+                    "openInterest": 481,
                     "pChange": 18.181818181818176,
-                    "pchangeinOpenInterest": -3.6363636363636362,
+                    "pchangeinOpenInterest": -2.8282828282828283,
                     "strikePrice": 95,
-                    "totalBuyQuantity": 5420000,
-                    "totalSellQuantity": 2410000,
+                    "totalBuyQuantity": 5400000,
+                    "totalSellQuantity": 2440000,
                     "totalTradedVolume": 133,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 3.3,
-                    "askQty": 30000,
+                    "askQty": 40000,
                     "bidQty": 20000,
                     "bidprice": 3.15,
                     "change": -1.9,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023PE95.00",
-                    "impliedVolatility": 16.51,
+                    "impliedVolatility": 0,
                     "lastPrice": 2.6,
                     "openInterest": 34,
                     "pChange": -42.22222222222222,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 95,
-                    "totalBuyQuantity": 820000,
-                    "totalSellQuantity": 820000,
+                    "totalBuyQuantity": 830000,
+                    "totalSellQuantity": 830000,
                     "totalTradedVolume": 4,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 95
@@ -1601,30 +1601,30 @@
             {
                 "CE": {
                     "askPrice": 0.5,
-                    "askQty": 50000,
-                    "bidQty": 20000,
+                    "askQty": 70000,
+                    "bidQty": 30000,
                     "bidprice": 0.45,
                     "change": 0.04999999999999999,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023CE96.00",
-                    "impliedVolatility": 32.71,
+                    "impliedVolatility": 33.57,
                     "lastPrice": 0.5,
                     "openInterest": 66,
                     "pChange": 11.111111111111107,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 96,
                     "totalBuyQuantity": 2130000,
-                    "totalSellQuantity": 1490000,
+                    "totalSellQuantity": 1520000,
                     "totalTradedVolume": 9,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 4.2,
-                    "askQty": 10000,
+                    "askQty": 20000,
                     "bidQty": 10000,
-                    "bidprice": 3.75,
+                    "bidprice": 3.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1635,11 +1635,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 96,
-                    "totalBuyQuantity": 430000,
-                    "totalSellQuantity": 430000,
+                    "totalBuyQuantity": 410000,
+                    "totalSellQuantity": 410000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 96
@@ -1654,7 +1654,7 @@
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023CE97.00",
-                    "impliedVolatility": 33.39,
+                    "impliedVolatility": 34.16,
                     "lastPrice": 0.35,
                     "openInterest": 154,
                     "pChange": 0,
@@ -1664,13 +1664,13 @@
                     "totalSellQuantity": 1270000,
                     "totalTradedVolume": 26,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 5.15,
                     "askQty": 10000,
                     "bidQty": 10000,
-                    "bidprice": 4.6,
+                    "bidprice": 4.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1681,42 +1681,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 97,
-                    "totalBuyQuantity": 450000,
-                    "totalSellQuantity": 400000,
+                    "totalBuyQuantity": 460000,
+                    "totalSellQuantity": 410000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 97
             },
             {
                 "CE": {
-                    "askPrice": 0.35,
-                    "askQty": 80000,
+                    "askPrice": 0.3,
+                    "askQty": 90000,
                     "bidQty": 70000,
                     "bidprice": 0.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023CE98.00",
-                    "impliedVolatility": 38.05,
+                    "impliedVolatility": 36.99,
                     "lastPrice": 0.3,
                     "openInterest": 62,
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 98,
                     "totalBuyQuantity": 2100000,
-                    "totalSellQuantity": 1130000,
+                    "totalSellQuantity": 1210000,
                     "totalTradedVolume": 9,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 6.15,
                     "askQty": 10000,
                     "bidQty": 10000,
-                    "bidprice": 5.35,
+                    "bidprice": 5.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1731,7 +1731,7 @@
                     "totalSellQuantity": 400000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 98
@@ -1746,7 +1746,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023CE99.00",
-                    "impliedVolatility": 40.61,
+                    "impliedVolatility": 41.32,
                     "lastPrice": 0.3,
                     "openInterest": 50,
                     "pChange": 19.999999999999996,
@@ -1756,13 +1756,13 @@
                     "totalSellQuantity": 920000,
                     "totalTradedVolume": 1,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 7.1,
                     "askQty": 10000,
                     "bidQty": 10000,
-                    "bidprice": 6.25,
+                    "bidprice": 6.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1777,7 +1777,7 @@
                     "totalSellQuantity": 400000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 99
@@ -1792,7 +1792,7 @@
                     "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023CE100.00",
-                    "impliedVolatility": 40.3,
+                    "impliedVolatility": 40.94,
                     "lastPrice": 0.2,
                     "openInterest": 339,
                     "pChange": 33.33333333333335,
@@ -1802,11 +1802,11 @@
                     "totalSellQuantity": 1850000,
                     "totalTradedVolume": 27,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
-                    "askPrice": 8.05,
-                    "askQty": 40000,
+                    "askPrice": 7.95,
+                    "askQty": 10000,
                     "bidQty": 10000,
                     "bidprice": 7.45,
                     "change": 0,
@@ -1823,7 +1823,7 @@
                     "totalSellQuantity": 430000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 100
@@ -1848,13 +1848,13 @@
                     "totalSellQuantity": 710000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 9.1,
                     "askQty": 10000,
                     "bidQty": 10000,
-                    "bidprice": 8.15,
+                    "bidprice": 8.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1869,7 +1869,7 @@
                     "totalSellQuantity": 400000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 101
@@ -1894,11 +1894,11 @@
                     "totalSellQuantity": 700000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
-                    "askPrice": 11.45,
-                    "askQty": 10000,
+                    "askPrice": 11.1,
+                    "askQty": 30000,
                     "bidQty": 10000,
                     "bidprice": 9.25,
                     "change": 0,
@@ -1912,10 +1912,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 102,
                     "totalBuyQuantity": 400000,
-                    "totalSellQuantity": 370000,
+                    "totalSellQuantity": 400000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 102
@@ -1940,7 +1940,7 @@
                     "totalSellQuantity": 690000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 12.5,
@@ -1961,7 +1961,7 @@
                     "totalSellQuantity": 390000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 103
@@ -1986,7 +1986,7 @@
                     "totalSellQuantity": 630000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 14.5,
@@ -2007,7 +2007,7 @@
                     "totalSellQuantity": 330000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 104
@@ -2015,24 +2015,24 @@
             {
                 "CE": {
                     "askPrice": 0.1,
-                    "askQty": 350000,
-                    "bidQty": 120000,
+                    "askQty": 370000,
+                    "bidQty": 80000,
                     "bidprice": 0.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023CE105.00",
-                    "impliedVolatility": 45.27,
+                    "impliedVolatility": 45.77,
                     "lastPrice": 0.05,
                     "openInterest": 138,
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 105,
-                    "totalBuyQuantity": 120000,
-                    "totalSellQuantity": 1200000,
-                    "totalTradedVolume": 2,
+                    "totalBuyQuantity": 80000,
+                    "totalSellQuantity": 1640000,
+                    "totalTradedVolume": 9,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 13.25,
@@ -2053,7 +2053,7 @@
                     "totalSellQuantity": 390000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 105
@@ -2064,7 +2064,7 @@
         "data": [
             {
                 "CE": {
-                    "askPrice": 34.65,
+                    "askPrice": 33.85,
                     "askQty": 30000,
                     "bidQty": 30000,
                     "bidprice": 29.9,
@@ -2082,7 +2082,7 @@
                     "totalSellQuantity": 330000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.1,
@@ -2103,14 +2103,14 @@
                     "totalSellQuantity": 360000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 61
             },
             {
                 "CE": {
-                    "askPrice": 33.75,
+                    "askPrice": 32.75,
                     "askQty": 30000,
                     "bidQty": 30000,
                     "bidprice": 28.9,
@@ -2128,7 +2128,7 @@
                     "totalSellQuantity": 330000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.1,
@@ -2149,7 +2149,7 @@
                     "totalSellQuantity": 360000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 62
@@ -2174,7 +2174,7 @@
                     "totalSellQuantity": 330000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.05,
@@ -2195,14 +2195,14 @@
                     "totalSellQuantity": 360000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 63
             },
             {
                 "CE": {
-                    "askPrice": 31.15,
+                    "askPrice": 30.65,
                     "askQty": 30000,
                     "bidQty": 30000,
                     "bidprice": 27,
@@ -2220,11 +2220,11 @@
                     "totalSellQuantity": 330000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
-                    "askPrice": 0.45,
-                    "askQty": 40000,
+                    "askPrice": 0.1,
+                    "askQty": 10000,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -2238,10 +2238,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 64,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 380000,
+                    "totalSellQuantity": 390000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 64
@@ -2250,8 +2250,8 @@
                 "CE": {
                     "askPrice": 29.4,
                     "askQty": 30000,
-                    "bidQty": 40000,
-                    "bidprice": 26.1,
+                    "bidQty": 10000,
+                    "bidprice": 26.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2266,7 +2266,7 @@
                     "totalSellQuantity": 330000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.05,
@@ -2287,15 +2287,15 @@
                     "totalSellQuantity": 370000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 65
             },
             {
                 "CE": {
-                    "askPrice": 35.4,
-                    "askQty": 300000,
+                    "askPrice": 31.85,
+                    "askQty": 30000,
                     "bidQty": 30000,
                     "bidprice": 26.1,
                     "change": 0,
@@ -2309,10 +2309,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 65,
                     "totalBuyQuantity": 330000,
-                    "totalSellQuantity": 300000,
+                    "totalSellQuantity": 330000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 65
@@ -2337,7 +2337,7 @@
                     "totalSellQuantity": 300000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 66
@@ -2362,7 +2362,7 @@
                     "totalSellQuantity": 330000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.45,
@@ -2383,7 +2383,7 @@
                     "totalSellQuantity": 370000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 66
@@ -2408,7 +2408,7 @@
                     "totalSellQuantity": 330000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.25,
@@ -2429,7 +2429,7 @@
                     "totalSellQuantity": 450000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 67
@@ -2454,7 +2454,7 @@
                     "totalSellQuantity": 300000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 67
@@ -2479,7 +2479,7 @@
                     "totalSellQuantity": 330000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.25,
@@ -2500,7 +2500,7 @@
                     "totalSellQuantity": 440000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 68
@@ -2525,7 +2525,7 @@
                     "totalSellQuantity": 300000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 68
@@ -2550,7 +2550,7 @@
                     "totalSellQuantity": 300000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.3,
@@ -2571,7 +2571,7 @@
                     "totalSellQuantity": 400000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 69
@@ -2596,7 +2596,7 @@
                     "totalSellQuantity": 300000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 69
@@ -2621,7 +2621,7 @@
                     "totalSellQuantity": 330000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 70
@@ -2646,7 +2646,7 @@
                     "totalSellQuantity": 330000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 70
@@ -2671,7 +2671,7 @@
                     "totalSellQuantity": 330000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.4,
@@ -2692,7 +2692,7 @@
                     "totalSellQuantity": 370000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 71
@@ -2717,7 +2717,7 @@
                     "totalSellQuantity": 300000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 71
@@ -2742,7 +2742,7 @@
                     "totalSellQuantity": 330000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.4,
@@ -2763,7 +2763,7 @@
                     "totalSellQuantity": 370000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 72
@@ -2788,7 +2788,7 @@
                     "totalSellQuantity": 300000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 72
@@ -2813,7 +2813,7 @@
                     "totalSellQuantity": 330000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.4,
@@ -2834,7 +2834,7 @@
                     "totalSellQuantity": 370000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 73
@@ -2859,7 +2859,7 @@
                     "totalSellQuantity": 300000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 73
@@ -2884,7 +2884,7 @@
                     "totalSellQuantity": 330000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 1.65,
@@ -2905,7 +2905,7 @@
                     "totalSellQuantity": 300000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 74
@@ -2930,7 +2930,7 @@
                     "totalSellQuantity": 300000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 74
@@ -2955,7 +2955,7 @@
                     "totalSellQuantity": 300000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 75
@@ -2980,7 +2980,7 @@
                     "totalSellQuantity": 330000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.05,
@@ -3001,7 +3001,7 @@
                     "totalSellQuantity": 750000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 75
@@ -3026,7 +3026,7 @@
                     "totalSellQuantity": 300000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 76
@@ -3051,7 +3051,7 @@
                     "totalSellQuantity": 330000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.35,
@@ -3072,7 +3072,7 @@
                     "totalSellQuantity": 430000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 76
@@ -3097,7 +3097,7 @@
                     "totalSellQuantity": 300000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 77
@@ -3122,7 +3122,7 @@
                     "totalSellQuantity": 330000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 2.65,
@@ -3143,7 +3143,7 @@
                     "totalSellQuantity": 300000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 77
@@ -3168,7 +3168,7 @@
                     "totalSellQuantity": 330000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3189,7 +3189,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 78
@@ -3199,7 +3199,7 @@
                     "askPrice": 17.9,
                     "askQty": 300000,
                     "bidQty": 30000,
-                    "bidprice": 13.1,
+                    "bidprice": 12.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3211,10 +3211,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 78,
                     "totalBuyQuantity": 330000,
-                    "totalSellQuantity": 330000,
+                    "totalSellQuantity": 340000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.05,
@@ -3235,7 +3235,7 @@
                     "totalSellQuantity": 430000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 78
@@ -3244,8 +3244,8 @@
                 "CE": {
                     "askPrice": 15.2,
                     "askQty": 30000,
-                    "bidQty": 300000,
-                    "bidprice": 11.85,
+                    "bidQty": 30000,
+                    "bidprice": 11.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3256,11 +3256,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 79,
-                    "totalBuyQuantity": 300000,
+                    "totalBuyQuantity": 330000,
                     "totalSellQuantity": 330000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.35,
@@ -3281,7 +3281,7 @@
                     "totalSellQuantity": 510000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 79
@@ -3306,7 +3306,7 @@
                     "totalSellQuantity": 330000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 2.75,
@@ -3327,60 +3327,60 @@
                     "totalSellQuantity": 310000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 79
             },
             {
                 "CE": {
-                    "askPrice": 12.8,
-                    "askQty": 40000,
-                    "bidQty": 10000,
-                    "bidprice": 12.45,
+                    "askPrice": 12.5,
+                    "askQty": 10000,
+                    "bidQty": 20000,
+                    "bidprice": 12.2,
                     "change": 0.8499999999999996,
                     "changeinOpenInterest": -8,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023CE80.00",
-                    "impliedVolatility": 70.22,
+                    "impliedVolatility": 51.02,
                     "lastPrice": 12.4,
                     "openInterest": 235,
                     "pChange": 7.359307359307356,
                     "pchangeinOpenInterest": -3.292181069958848,
                     "strikePrice": 80,
-                    "totalBuyQuantity": 650000,
-                    "totalSellQuantity": 630000,
+                    "totalBuyQuantity": 630000,
+                    "totalSellQuantity": 600000,
                     "totalTradedVolume": 13,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.05,
-                    "askQty": 130000,
+                    "askQty": 440000,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": -0.05,
-                    "changeinOpenInterest": -4,
+                    "changeinOpenInterest": -5,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023PE80.00",
-                    "impliedVolatility": 52.05,
+                    "impliedVolatility": 51.56,
                     "lastPrice": 0.05,
-                    "openInterest": 364,
+                    "openInterest": 363,
                     "pChange": -50,
-                    "pchangeinOpenInterest": -1.0869565217391304,
+                    "pchangeinOpenInterest": -1.358695652173913,
                     "strikePrice": 80,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 2270000,
+                    "totalSellQuantity": 2580000,
                     "totalTradedVolume": 18,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 80
             },
             {
                 "CE": {
-                    "askPrice": 14,
+                    "askPrice": 14.05,
                     "askQty": 10000,
                     "bidQty": 10000,
                     "bidprice": 12.9,
@@ -3388,7 +3388,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKIDFC29-06-2023CE80.00",
-                    "impliedVolatility": 26.6,
+                    "impliedVolatility": 30.91,
                     "lastPrice": 13.4,
                     "openInterest": 2,
                     "pChange": 7.200000000000002,
@@ -3398,7 +3398,7 @@
                     "totalSellQuantity": 330000,
                     "totalTradedVolume": 4,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.35,
@@ -3409,7 +3409,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKIDFC29-06-2023PE80.00",
-                    "impliedVolatility": 30.24,
+                    "impliedVolatility": 30,
                     "lastPrice": 0.25,
                     "openInterest": 24,
                     "pChange": -28.571428571428566,
@@ -3419,7 +3419,7 @@
                     "totalSellQuantity": 50000,
                     "totalTradedVolume": 2,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 80
@@ -3444,7 +3444,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 80
@@ -3469,7 +3469,7 @@
                     "totalSellQuantity": 300000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3490,7 +3490,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 81
@@ -3515,7 +3515,7 @@
                     "totalSellQuantity": 390000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.15,
@@ -3536,7 +3536,7 @@
                     "totalSellQuantity": 500000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 81
@@ -3561,7 +3561,7 @@
                     "totalSellQuantity": 300000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 4.45,
@@ -3582,7 +3582,7 @@
                     "totalSellQuantity": 210000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 82
@@ -3591,8 +3591,8 @@
                 "CE": {
                     "askPrice": 11.95,
                     "askQty": 40000,
-                    "bidQty": 30000,
-                    "bidprice": 9.85,
+                    "bidQty": 40000,
+                    "bidprice": 10.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3603,11 +3603,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 82,
-                    "totalBuyQuantity": 620000,
+                    "totalBuyQuantity": 590000,
                     "totalSellQuantity": 360000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.1,
@@ -3628,17 +3628,17 @@
                     "totalSellQuantity": 1030000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 82
             },
             {
                 "CE": {
-                    "askPrice": 9.95,
+                    "askPrice": 10,
                     "askQty": 30000,
-                    "bidQty": 40000,
-                    "bidprice": 8.35,
+                    "bidQty": 10000,
+                    "bidprice": 9.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3649,11 +3649,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 83,
-                    "totalBuyQuantity": 520000,
+                    "totalBuyQuantity": 460000,
                     "totalSellQuantity": 620000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.1,
@@ -3674,7 +3674,7 @@
                     "totalSellQuantity": 890000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 83
@@ -3699,7 +3699,7 @@
                     "totalSellQuantity": 310000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 83
@@ -3708,8 +3708,8 @@
                 "CE": {
                     "askPrice": 9,
                     "askQty": 40000,
-                    "bidQty": 30000,
-                    "bidprice": 8.2,
+                    "bidQty": 10000,
+                    "bidprice": 8.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3720,32 +3720,32 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 84,
-                    "totalBuyQuantity": 420000,
+                    "totalBuyQuantity": 430000,
                     "totalSellQuantity": 430000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.1,
-                    "askQty": 160000,
-                    "bidQty": 430000,
+                    "askQty": 150000,
+                    "bidQty": 420000,
                     "bidprice": 0.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023PE84.00",
-                    "impliedVolatility": 41.79,
+                    "impliedVolatility": 41.24,
                     "lastPrice": 0.1,
                     "openInterest": 86,
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 84,
-                    "totalBuyQuantity": 430000,
-                    "totalSellQuantity": 1140000,
+                    "totalBuyQuantity": 420000,
+                    "totalSellQuantity": 1130000,
                     "totalTradedVolume": 1,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 84
@@ -3770,7 +3770,7 @@
                     "totalSellQuantity": 340000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 2.7,
@@ -3791,7 +3791,7 @@
                     "totalSellQuantity": 10000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 84
@@ -3816,17 +3816,17 @@
                     "totalSellQuantity": 10000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 84
             },
             {
                 "CE": {
-                    "askPrice": 7.8,
+                    "askPrice": 7.55,
                     "askQty": 10000,
                     "bidQty": 10000,
-                    "bidprice": 7.4,
+                    "bidprice": 7.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3841,28 +3841,28 @@
                     "totalSellQuantity": 710000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.1,
-                    "askQty": 380000,
-                    "bidQty": 2470000,
+                    "askQty": 450000,
+                    "bidQty": 2190000,
                     "bidprice": 0.05,
-                    "change": -0.04999999999999999,
-                    "changeinOpenInterest": -1,
+                    "change": -0.09999999999999999,
+                    "changeinOpenInterest": -12,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023PE85.00",
-                    "impliedVolatility": 37.61,
-                    "lastPrice": 0.1,
-                    "openInterest": 448,
-                    "pChange": -33.33333333333333,
-                    "pchangeinOpenInterest": -0.22271714922049,
+                    "impliedVolatility": 37.04,
+                    "lastPrice": 0.05,
+                    "openInterest": 437,
+                    "pChange": -66.66666666666666,
+                    "pchangeinOpenInterest": -2.6726057906458798,
                     "strikePrice": 85,
-                    "totalBuyQuantity": 2470000,
-                    "totalSellQuantity": 1890000,
-                    "totalTradedVolume": 63,
+                    "totalBuyQuantity": 2190000,
+                    "totalSellQuantity": 1950000,
+                    "totalTradedVolume": 71,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 85
@@ -3887,7 +3887,7 @@
                     "totalSellQuantity": 350000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 2.4,
@@ -3908,32 +3908,32 @@
                     "totalSellQuantity": 10000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 85
             },
             {
                 "CE": {
-                    "askPrice": 6.6,
+                    "askPrice": 6.55,
                     "askQty": 50000,
                     "bidQty": 10000,
-                    "bidprice": 6.45,
+                    "bidprice": 6.35,
                     "change": 0.8499999999999996,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023CE86.00",
-                    "impliedVolatility": 0,
+                    "impliedVolatility": 35.11,
                     "lastPrice": 6.5,
                     "openInterest": 403,
                     "pChange": 15.044247787610612,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 86,
-                    "totalBuyQuantity": 840000,
-                    "totalSellQuantity": 810000,
+                    "totalBuyQuantity": 850000,
+                    "totalSellQuantity": 820000,
                     "totalTradedVolume": 13,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.15,
@@ -3944,7 +3944,7 @@
                     "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023PE86.00",
-                    "impliedVolatility": 33.41,
+                    "impliedVolatility": 32.83,
                     "lastPrice": 0.1,
                     "openInterest": 140,
                     "pChange": -50,
@@ -3954,7 +3954,7 @@
                     "totalSellQuantity": 1250000,
                     "totalTradedVolume": 7,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 86
@@ -3979,7 +3979,7 @@
                     "totalSellQuantity": 340000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 3,
@@ -4000,53 +4000,53 @@
                     "totalSellQuantity": 10000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 86
             },
             {
                 "CE": {
-                    "askPrice": 5.75,
+                    "askPrice": 5.65,
                     "askQty": 30000,
                     "bidQty": 20000,
-                    "bidprice": 5.55,
+                    "bidprice": 5.5,
                     "change": 1.5,
                     "changeinOpenInterest": -5,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023CE87.00",
-                    "impliedVolatility": 41.86,
+                    "impliedVolatility": 46.1,
                     "lastPrice": 5.9,
                     "openInterest": 39,
                     "pChange": 34.090909090909086,
                     "pchangeinOpenInterest": -11.363636363636363,
                     "strikePrice": 87,
-                    "totalBuyQuantity": 850000,
+                    "totalBuyQuantity": 840000,
                     "totalSellQuantity": 820000,
                     "totalTradedVolume": 8,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.2,
-                    "askQty": 170000,
+                    "askQty": 180000,
                     "bidQty": 440000,
                     "bidprice": 0.15,
                     "change": -0.19999999999999998,
                     "changeinOpenInterest": 5,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023PE87.00",
-                    "impliedVolatility": 32.07,
+                    "impliedVolatility": 31.44,
                     "lastPrice": 0.15,
                     "openInterest": 114,
                     "pChange": -57.14285714285714,
                     "pchangeinOpenInterest": 4.587155963302752,
                     "strikePrice": 87,
-                    "totalBuyQuantity": 2730000,
-                    "totalSellQuantity": 1330000,
+                    "totalBuyQuantity": 2610000,
+                    "totalSellQuantity": 1120000,
                     "totalTradedVolume": 17,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 87
@@ -4071,7 +4071,7 @@
                     "totalSellQuantity": 40000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 87
@@ -4096,7 +4096,7 @@
                     "totalSellQuantity": 40000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 3.45,
@@ -4117,7 +4117,7 @@
                     "totalSellQuantity": 10000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 88
@@ -4127,43 +4127,43 @@
                     "askPrice": 4.75,
                     "askQty": 20000,
                     "bidQty": 10000,
-                    "bidprice": 4.6,
+                    "bidprice": 4.55,
                     "change": 1.8499999999999996,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023CE88.00",
-                    "impliedVolatility": 49.4,
+                    "impliedVolatility": 52.37,
                     "lastPrice": 5.35,
                     "openInterest": 59,
                     "pChange": 52.85714285714285,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 88,
-                    "totalBuyQuantity": 840000,
-                    "totalSellQuantity": 580000,
+                    "totalBuyQuantity": 830000,
+                    "totalSellQuantity": 570000,
                     "totalTradedVolume": 2,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.3,
-                    "askQty": 100000,
-                    "bidQty": 430000,
-                    "bidprice": 0.2,
+                    "askQty": 50000,
+                    "bidQty": 20000,
+                    "bidprice": 0.25,
                     "change": -0.2,
                     "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023PE88.00",
-                    "impliedVolatility": 31.73,
+                    "impliedVolatility": 31.02,
                     "lastPrice": 0.25,
                     "openInterest": 110,
                     "pChange": -44.44444444444445,
                     "pchangeinOpenInterest": 1.8518518518518519,
                     "strikePrice": 88,
-                    "totalBuyQuantity": 2390000,
-                    "totalSellQuantity": 1320000,
+                    "totalBuyQuantity": 2540000,
+                    "totalSellQuantity": 1270000,
                     "totalTradedVolume": 19,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 88
@@ -4188,78 +4188,78 @@
                     "totalSellQuantity": 320000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 89
             },
             {
                 "CE": {
-                    "askPrice": 3.9,
-                    "askQty": 30000,
+                    "askPrice": 3.8,
+                    "askQty": 20000,
                     "bidQty": 10000,
-                    "bidprice": 3.7,
+                    "bidprice": 3.65,
                     "change": -0.30000000000000027,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023CE89.00",
-                    "impliedVolatility": 30.78,
+                    "impliedVolatility": 34.25,
                     "lastPrice": 3.9,
                     "openInterest": 32,
                     "pChange": -7.1428571428571495,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 89,
-                    "totalBuyQuantity": 840000,
-                    "totalSellQuantity": 850000,
+                    "totalBuyQuantity": 830000,
+                    "totalSellQuantity": 860000,
                     "totalTradedVolume": 1,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.4,
                     "askQty": 90000,
-                    "bidQty": 70000,
+                    "bidQty": 130000,
                     "bidprice": 0.35,
                     "change": -0.25,
                     "changeinOpenInterest": -5,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023PE89.00",
-                    "impliedVolatility": 29.88,
+                    "impliedVolatility": 29.09,
                     "lastPrice": 0.35,
                     "openInterest": 69,
                     "pChange": -41.66666666666667,
                     "pchangeinOpenInterest": -6.756756756756757,
                     "strikePrice": 89,
-                    "totalBuyQuantity": 2360000,
-                    "totalSellQuantity": 1180000,
-                    "totalTradedVolume": 27,
+                    "totalBuyQuantity": 2420000,
+                    "totalSellQuantity": 1170000,
+                    "totalTradedVolume": 28,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 89
             },
             {
                 "CE": {
-                    "askPrice": 3.05,
+                    "askPrice": 3,
                     "askQty": 50000,
                     "bidQty": 20000,
                     "bidprice": 2.9,
-                    "change": 0.5499999999999998,
+                    "change": 0.4500000000000002,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023CE90.00",
-                    "impliedVolatility": 28.89,
-                    "lastPrice": 3.05,
+                    "impliedVolatility": 31.63,
+                    "lastPrice": 2.95,
                     "openInterest": 290,
-                    "pChange": 21.999999999999993,
+                    "pChange": 18.000000000000007,
                     "pchangeinOpenInterest": -0.684931506849315,
                     "strikePrice": 90,
                     "totalBuyQuantity": 1150000,
-                    "totalSellQuantity": 1230000,
-                    "totalTradedVolume": 54,
+                    "totalSellQuantity": 1290000,
+                    "totalTradedVolume": 56,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.6,
@@ -4267,20 +4267,20 @@
                     "bidQty": 20000,
                     "bidprice": 0.55,
                     "change": -0.35,
-                    "changeinOpenInterest": 5,
+                    "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023PE90.00",
-                    "impliedVolatility": 28.19,
+                    "impliedVolatility": 28.54,
                     "lastPrice": 0.55,
-                    "openInterest": 181,
+                    "openInterest": 179,
                     "pChange": -38.888888888888886,
-                    "pchangeinOpenInterest": 2.840909090909091,
+                    "pchangeinOpenInterest": 1.7045454545454546,
                     "strikePrice": 90,
                     "totalBuyQuantity": 3360000,
                     "totalSellQuantity": 1510000,
                     "totalTradedVolume": 51,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 90
@@ -4290,12 +4290,12 @@
                     "askPrice": 5.35,
                     "askQty": 10000,
                     "bidQty": 10000,
-                    "bidprice": 5,
+                    "bidprice": 4.9,
                     "change": 1.0999999999999996,
                     "changeinOpenInterest": -1,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKIDFC29-06-2023CE90.00",
-                    "impliedVolatility": 27.25,
+                    "impliedVolatility": 28.13,
                     "lastPrice": 5.3,
                     "openInterest": 14,
                     "pChange": 26.19047619047618,
@@ -4305,12 +4305,12 @@
                     "totalSellQuantity": 90000,
                     "totalTradedVolume": 5,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 2.2,
-                    "askQty": 50000,
-                    "bidQty": 20000,
+                    "askQty": 60000,
+                    "bidQty": 10000,
                     "bidprice": 2.05,
                     "change": -0.25,
                     "changeinOpenInterest": 0,
@@ -4322,18 +4322,18 @@
                     "pChange": -10.416666666666668,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 90,
-                    "totalBuyQuantity": 380000,
-                    "totalSellQuantity": 160000,
+                    "totalBuyQuantity": 370000,
+                    "totalSellQuantity": 330000,
                     "totalTradedVolume": 2,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 90
             },
             {
                 "CE": {
-                    "askPrice": 8.4,
+                    "askPrice": 8.35,
                     "askQty": 10000,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -4351,7 +4351,7 @@
                     "totalSellQuantity": 10000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 90
@@ -4359,45 +4359,45 @@
             {
                 "CE": {
                     "askPrice": 2.35,
-                    "askQty": 90000,
+                    "askQty": 110000,
                     "bidQty": 30000,
                     "bidprice": 2.2,
                     "change": 0.6000000000000001,
                     "changeinOpenInterest": -6,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023CE91.00",
-                    "impliedVolatility": 29.99,
+                    "impliedVolatility": 31.01,
                     "lastPrice": 2.35,
                     "openInterest": 67,
                     "pChange": 34.28571428571429,
                     "pchangeinOpenInterest": -8.219178082191782,
                     "strikePrice": 91,
                     "totalBuyQuantity": 680000,
-                    "totalSellQuantity": 1040000,
+                    "totalSellQuantity": 1050000,
                     "totalTradedVolume": 17,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0.9,
                     "askQty": 90000,
-                    "bidQty": 40000,
+                    "bidQty": 20000,
                     "bidprice": 0.85,
                     "change": -0.5,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023PE91.00",
-                    "impliedVolatility": 28.37,
+                    "impliedVolatility": 27.29,
                     "lastPrice": 0.8,
                     "openInterest": 63,
                     "pChange": -38.46153846153846,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 91,
-                    "totalBuyQuantity": 2810000,
-                    "totalSellQuantity": 1530000,
+                    "totalBuyQuantity": 2770000,
+                    "totalSellQuantity": 1520000,
                     "totalTradedVolume": 26,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 91
@@ -4422,10 +4422,10 @@
                     "totalSellQuantity": 20000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
-                    "askPrice": 4,
+                    "askPrice": 4.1,
                     "askQty": 10000,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -4443,14 +4443,14 @@
                     "totalSellQuantity": 320000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 91
             },
             {
                 "CE": {
-                    "askPrice": 7.85,
+                    "askPrice": 7.8,
                     "askQty": 10000,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -4468,32 +4468,32 @@
                     "totalSellQuantity": 20000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 91
             },
             {
                 "CE": {
-                    "askPrice": 1.75,
-                    "askQty": 40000,
-                    "bidQty": 30000,
-                    "bidprice": 1.65,
-                    "change": 0.3500000000000001,
-                    "changeinOpenInterest": -13,
+                    "askPrice": 1.7,
+                    "askQty": 100000,
+                    "bidQty": 70000,
+                    "bidprice": 1.6,
+                    "change": 0.25,
+                    "changeinOpenInterest": -11,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023CE92.00",
-                    "impliedVolatility": 28.93,
-                    "lastPrice": 1.75,
-                    "openInterest": 165,
-                    "pChange": 25.000000000000007,
-                    "pchangeinOpenInterest": -7.303370786516854,
+                    "impliedVolatility": 30.58,
+                    "lastPrice": 1.65,
+                    "openInterest": 167,
+                    "pChange": 17.857142857142858,
+                    "pchangeinOpenInterest": -6.179775280898877,
                     "strikePrice": 92,
-                    "totalBuyQuantity": 1510000,
-                    "totalSellQuantity": 1600000,
-                    "totalTradedVolume": 101,
+                    "totalBuyQuantity": 1490000,
+                    "totalSellQuantity": 1660000,
+                    "totalTradedVolume": 104,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 1.3,
@@ -4504,7 +4504,7 @@
                     "changeinOpenInterest": 8,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023PE92.00",
-                    "impliedVolatility": 27.47,
+                    "impliedVolatility": 28.14,
                     "lastPrice": 1.25,
                     "openInterest": 63,
                     "pChange": -30.555555555555557,
@@ -4514,7 +4514,7 @@
                     "totalSellQuantity": 1510000,
                     "totalTradedVolume": 31,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 92
@@ -4539,7 +4539,7 @@
                     "totalSellQuantity": 20000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 9.75,
@@ -4560,14 +4560,14 @@
                     "totalSellQuantity": 10000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 92
             },
             {
                 "CE": {
-                    "askPrice": 5.05,
+                    "askPrice": 5,
                     "askQty": 10000,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -4585,10 +4585,10 @@
                     "totalSellQuantity": 330000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
-                    "askPrice": 4.55,
+                    "askPrice": 4,
                     "askQty": 10000,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -4603,10 +4603,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 92,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 20000,
+                    "totalSellQuantity": 30000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 92
@@ -4615,23 +4615,23 @@
                 "CE": {
                     "askPrice": 1.25,
                     "askQty": 40000,
-                    "bidQty": 40000,
+                    "bidQty": 30000,
                     "bidprice": 1.2,
-                    "change": 0.30000000000000004,
-                    "changeinOpenInterest": 3,
+                    "change": 0.19999999999999996,
+                    "changeinOpenInterest": 4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023CE93.00",
-                    "impliedVolatility": 28.82,
-                    "lastPrice": 1.3,
-                    "openInterest": 239,
-                    "pChange": 30.000000000000004,
-                    "pchangeinOpenInterest": 1.271186440677966,
+                    "impliedVolatility": 31.14,
+                    "lastPrice": 1.2,
+                    "openInterest": 240,
+                    "pChange": 19.999999999999996,
+                    "pchangeinOpenInterest": 1.694915254237288,
                     "strikePrice": 93,
-                    "totalBuyQuantity": 3430000,
-                    "totalSellQuantity": 1850000,
-                    "totalTradedVolume": 104,
+                    "totalBuyQuantity": 3400000,
+                    "totalSellQuantity": 1860000,
+                    "totalTradedVolume": 106,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 1.85,
@@ -4642,32 +4642,32 @@
                     "changeinOpenInterest": -5,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023PE93.00",
-                    "impliedVolatility": 28.39,
+                    "impliedVolatility": 26.74,
                     "lastPrice": 1.7,
                     "openInterest": 59,
                     "pChange": -29.166666666666668,
                     "pchangeinOpenInterest": -7.8125,
                     "strikePrice": 93,
-                    "totalBuyQuantity": 1200000,
-                    "totalSellQuantity": 1250000,
+                    "totalBuyQuantity": 1220000,
+                    "totalSellQuantity": 1280000,
                     "totalTradedVolume": 22,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 93
             },
             {
                 "CE": {
-                    "askPrice": 3.75,
+                    "askPrice": 3.7,
                     "askQty": 10000,
-                    "bidQty": 10000,
-                    "bidprice": 2.75,
+                    "bidQty": 30000,
+                    "bidprice": 2.7,
                     "change": 0.3500000000000001,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKIDFC29-06-2023CE93.00",
-                    "impliedVolatility": 27.99,
+                    "impliedVolatility": 28.64,
                     "lastPrice": 3.7,
                     "openInterest": 0,
                     "pChange": 10.447761194029853,
@@ -4677,7 +4677,7 @@
                     "totalSellQuantity": 150000,
                     "totalTradedVolume": 1,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -4698,7 +4698,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 93
@@ -4707,34 +4707,34 @@
                 "CE": {
                     "askPrice": 0.9,
                     "askQty": 40000,
-                    "bidQty": 40000,
+                    "bidQty": 60000,
                     "bidprice": 0.85,
                     "change": 0.15000000000000002,
                     "changeinOpenInterest": -9,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023CE94.00",
-                    "impliedVolatility": 29.63,
+                    "impliedVolatility": 29.68,
                     "lastPrice": 0.85,
                     "openInterest": 143,
                     "pChange": 21.428571428571434,
                     "pchangeinOpenInterest": -5.921052631578948,
                     "strikePrice": 94,
-                    "totalBuyQuantity": 2510000,
+                    "totalBuyQuantity": 2540000,
                     "totalSellQuantity": 2010000,
                     "totalTradedVolume": 74,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
-                    "askPrice": 2.5,
+                    "askPrice": 2.55,
                     "askQty": 10000,
                     "bidQty": 10000,
-                    "bidprice": 2.2,
+                    "bidprice": 2.4,
                     "change": -1.4500000000000002,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023PE94.00",
-                    "impliedVolatility": 32.33,
+                    "impliedVolatility": 30.32,
                     "lastPrice": 2.5,
                     "openInterest": 15,
                     "pChange": -36.708860759493675,
@@ -4744,14 +4744,14 @@
                     "totalSellQuantity": 460000,
                     "totalTradedVolume": 2,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 94
             },
             {
                 "CE": {
-                    "askPrice": 3.7,
+                    "askPrice": 3.65,
                     "askQty": 10000,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -4769,7 +4769,7 @@
                     "totalSellQuantity": 340000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 6.9,
@@ -4790,14 +4790,14 @@
                     "totalSellQuantity": 10000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 94
             },
             {
                 "CE": {
-                    "askPrice": 6.2,
+                    "askPrice": 6.15,
                     "askQty": 10000,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -4815,7 +4815,7 @@
                     "totalSellQuantity": 20000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 94
@@ -4823,74 +4823,74 @@
             {
                 "CE": {
                     "askPrice": 0.7,
-                    "askQty": 120000,
+                    "askQty": 130000,
                     "bidQty": 90000,
                     "bidprice": 0.6,
                     "change": 0.09999999999999998,
-                    "changeinOpenInterest": -18,
+                    "changeinOpenInterest": -14,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023CE95.00",
-                    "impliedVolatility": 29.54,
+                    "impliedVolatility": 31.68,
                     "lastPrice": 0.65,
-                    "openInterest": 477,
+                    "openInterest": 481,
                     "pChange": 18.181818181818176,
-                    "pchangeinOpenInterest": -3.6363636363636362,
+                    "pchangeinOpenInterest": -2.8282828282828283,
                     "strikePrice": 95,
-                    "totalBuyQuantity": 5420000,
-                    "totalSellQuantity": 2410000,
+                    "totalBuyQuantity": 5400000,
+                    "totalSellQuantity": 2440000,
                     "totalTradedVolume": 133,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 3.3,
-                    "askQty": 30000,
+                    "askQty": 40000,
                     "bidQty": 20000,
                     "bidprice": 3.15,
                     "change": -1.9,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023PE95.00",
-                    "impliedVolatility": 16.51,
+                    "impliedVolatility": 0,
                     "lastPrice": 2.6,
                     "openInterest": 34,
                     "pChange": -42.22222222222222,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 95,
-                    "totalBuyQuantity": 820000,
-                    "totalSellQuantity": 820000,
+                    "totalBuyQuantity": 830000,
+                    "totalSellQuantity": 830000,
                     "totalTradedVolume": 4,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 95
             },
             {
                 "CE": {
-                    "askPrice": 2.6,
-                    "askQty": 20000,
+                    "askPrice": 2.65,
+                    "askQty": 10000,
                     "bidQty": 10000,
                     "bidprice": 2.5,
                     "change": 0.4500000000000002,
                     "changeinOpenInterest": 2,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKIDFC29-06-2023CE95.00",
-                    "impliedVolatility": 27.19,
+                    "impliedVolatility": 26.91,
                     "lastPrice": 2.6,
                     "openInterest": 111,
                     "pChange": 20.930232558139544,
                     "pchangeinOpenInterest": 1.834862385321101,
                     "strikePrice": 95,
                     "totalBuyQuantity": 170000,
-                    "totalSellQuantity": 1020000,
+                    "totalSellQuantity": 1010000,
                     "totalTradedVolume": 8,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
-                    "askPrice": 6.5,
-                    "askQty": 20000,
+                    "askPrice": 6.65,
+                    "askQty": 30000,
                     "bidQty": 50000,
                     "bidprice": 2.6,
                     "change": 0,
@@ -4904,18 +4904,18 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 95,
                     "totalBuyQuantity": 50000,
-                    "totalSellQuantity": 60000,
+                    "totalSellQuantity": 40000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 95
             },
             {
                 "CE": {
-                    "askPrice": 8.95,
-                    "askQty": 20000,
+                    "askPrice": 8.3,
+                    "askQty": 10000,
                     "bidQty": 10000,
                     "bidprice": 3,
                     "change": 0,
@@ -4932,7 +4932,7 @@
                     "totalSellQuantity": 20000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 11.25,
@@ -4953,7 +4953,7 @@
                     "totalSellQuantity": 10000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 95
@@ -4961,30 +4961,30 @@
             {
                 "CE": {
                     "askPrice": 0.5,
-                    "askQty": 50000,
-                    "bidQty": 20000,
+                    "askQty": 70000,
+                    "bidQty": 30000,
                     "bidprice": 0.45,
                     "change": 0.04999999999999999,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023CE96.00",
-                    "impliedVolatility": 32.71,
+                    "impliedVolatility": 33.57,
                     "lastPrice": 0.5,
                     "openInterest": 66,
                     "pChange": 11.111111111111107,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 96,
                     "totalBuyQuantity": 2130000,
-                    "totalSellQuantity": 1490000,
+                    "totalSellQuantity": 1520000,
                     "totalTradedVolume": 9,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 4.2,
-                    "askQty": 10000,
+                    "askQty": 20000,
                     "bidQty": 10000,
-                    "bidprice": 3.75,
+                    "bidprice": 3.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4995,11 +4995,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 96,
-                    "totalBuyQuantity": 430000,
-                    "totalSellQuantity": 430000,
+                    "totalBuyQuantity": 410000,
+                    "totalSellQuantity": 410000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 96
@@ -5024,7 +5024,7 @@
                     "totalSellQuantity": 310000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 9.7,
@@ -5045,7 +5045,7 @@
                     "totalSellQuantity": 330000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 96
@@ -5060,7 +5060,7 @@
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023CE97.00",
-                    "impliedVolatility": 33.39,
+                    "impliedVolatility": 34.16,
                     "lastPrice": 0.35,
                     "openInterest": 154,
                     "pChange": 0,
@@ -5070,13 +5070,13 @@
                     "totalSellQuantity": 1270000,
                     "totalTradedVolume": 26,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 5.15,
                     "askQty": 10000,
                     "bidQty": 10000,
-                    "bidprice": 4.6,
+                    "bidprice": 4.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5087,11 +5087,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 97,
-                    "totalBuyQuantity": 450000,
-                    "totalSellQuantity": 400000,
+                    "totalBuyQuantity": 460000,
+                    "totalSellQuantity": 410000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 97
@@ -5101,7 +5101,7 @@
                     "askPrice": 5.05,
                     "askQty": 10000,
                     "bidQty": 30000,
-                    "bidprice": 1.6,
+                    "bidprice": 1.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -5116,7 +5116,7 @@
                     "totalSellQuantity": 10000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 10.1,
@@ -5137,7 +5137,7 @@
                     "totalSellQuantity": 340000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 97
@@ -5162,17 +5162,17 @@
                     "totalSellQuantity": 10000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 97
             },
             {
                 "CE": {
-                    "askPrice": 1.75,
+                    "askPrice": 1.7,
                     "askQty": 10000,
-                    "bidQty": 0,
-                    "bidprice": 0,
+                    "bidQty": 20000,
+                    "bidprice": 1.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -5183,11 +5183,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 98,
-                    "totalBuyQuantity": 0,
+                    "totalBuyQuantity": 20000,
                     "totalSellQuantity": 40000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 9.6,
@@ -5208,7 +5208,7 @@
                     "totalSellQuantity": 50000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 98
@@ -5233,38 +5233,38 @@
                     "totalSellQuantity": 10000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 98
             },
             {
                 "CE": {
-                    "askPrice": 0.35,
-                    "askQty": 80000,
+                    "askPrice": 0.3,
+                    "askQty": 90000,
                     "bidQty": 70000,
                     "bidprice": 0.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023CE98.00",
-                    "impliedVolatility": 38.05,
+                    "impliedVolatility": 36.99,
                     "lastPrice": 0.3,
                     "openInterest": 62,
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 98,
                     "totalBuyQuantity": 2100000,
-                    "totalSellQuantity": 1130000,
+                    "totalSellQuantity": 1210000,
                     "totalTradedVolume": 9,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 6.15,
                     "askQty": 10000,
                     "bidQty": 10000,
-                    "bidprice": 5.35,
+                    "bidprice": 5.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5279,32 +5279,32 @@
                     "totalSellQuantity": 400000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 98
             },
             {
                 "CE": {
-                    "askPrice": 1.45,
-                    "askQty": 10000,
+                    "askPrice": 1.4,
+                    "askQty": 30000,
                     "bidQty": 10000,
-                    "bidprice": 1.2,
+                    "bidprice": 1.15,
                     "change": -2.05,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKIDFC29-06-2023CE99.00",
-                    "impliedVolatility": 26.62,
+                    "impliedVolatility": 27.02,
                     "lastPrice": 1.35,
                     "openInterest": 1,
                     "pChange": -60.29411764705882,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 99,
-                    "totalBuyQuantity": 330000,
+                    "totalBuyQuantity": 340000,
                     "totalSellQuantity": 340000,
                     "totalTradedVolume": 1,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 10.25,
@@ -5325,7 +5325,7 @@
                     "totalSellQuantity": 60000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 99
@@ -5340,7 +5340,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023CE99.00",
-                    "impliedVolatility": 40.61,
+                    "impliedVolatility": 41.32,
                     "lastPrice": 0.3,
                     "openInterest": 50,
                     "pChange": 19.999999999999996,
@@ -5350,13 +5350,13 @@
                     "totalSellQuantity": 920000,
                     "totalTradedVolume": 1,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 7.1,
                     "askQty": 10000,
                     "bidQty": 10000,
-                    "bidprice": 6.25,
+                    "bidprice": 6.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5371,7 +5371,7 @@
                     "totalSellQuantity": 400000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 99
@@ -5386,7 +5386,7 @@
                     "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023CE100.00",
-                    "impliedVolatility": 40.3,
+                    "impliedVolatility": 40.94,
                     "lastPrice": 0.2,
                     "openInterest": 339,
                     "pChange": 33.33333333333335,
@@ -5396,11 +5396,11 @@
                     "totalSellQuantity": 1850000,
                     "totalTradedVolume": 27,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
-                    "askPrice": 8.05,
-                    "askQty": 40000,
+                    "askPrice": 7.95,
+                    "askQty": 10000,
                     "bidQty": 10000,
                     "bidprice": 7.45,
                     "change": 0,
@@ -5417,36 +5417,36 @@
                     "totalSellQuantity": 430000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 100
             },
             {
                 "CE": {
-                    "askPrice": 1.15,
-                    "askQty": 50000,
-                    "bidQty": 20000,
-                    "bidprice": 1.1,
-                    "change": 0.04999999999999982,
+                    "askPrice": 1.1,
+                    "askQty": 30000,
+                    "bidQty": 10000,
+                    "bidprice": 1.05,
+                    "change": 0,
                     "changeinOpenInterest": -7,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKIDFC29-06-2023CE100.00",
-                    "impliedVolatility": 26.89,
-                    "lastPrice": 1.15,
+                    "impliedVolatility": 27.26,
+                    "lastPrice": 1.1,
                     "openInterest": 51,
-                    "pChange": 4.545454545454529,
+                    "pChange": 0,
                     "pchangeinOpenInterest": -12.068965517241379,
                     "strikePrice": 100,
-                    "totalBuyQuantity": 510000,
-                    "totalSellQuantity": 540000,
-                    "totalTradedVolume": 16,
+                    "totalBuyQuantity": 490000,
+                    "totalSellQuantity": 550000,
+                    "totalTradedVolume": 18,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
-                    "askPrice": 8.85,
-                    "askQty": 20000,
+                    "askPrice": 8.5,
+                    "askQty": 30000,
                     "bidQty": 50000,
                     "bidprice": 4.85,
                     "change": 0,
@@ -5463,17 +5463,17 @@
                     "totalSellQuantity": 360000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 100
             },
             {
                 "CE": {
-                    "askPrice": 5.4,
+                    "askPrice": 3.5,
                     "askQty": 10000,
-                    "bidQty": 0,
-                    "bidprice": 0,
+                    "bidQty": 10000,
+                    "bidprice": 1.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "27-Jul-2023",
@@ -5484,11 +5484,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 100,
-                    "totalBuyQuantity": 0,
+                    "totalBuyQuantity": 10000,
                     "totalSellQuantity": 20000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 16.6,
@@ -5509,7 +5509,7 @@
                     "totalSellQuantity": 10000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 100
@@ -5534,13 +5534,13 @@
                     "totalSellQuantity": 710000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 9.1,
                     "askQty": 10000,
                     "bidQty": 10000,
-                    "bidprice": 8.15,
+                    "bidprice": 8.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5555,7 +5555,7 @@
                     "totalSellQuantity": 400000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 101
@@ -5564,8 +5564,8 @@
                 "CE": {
                     "askPrice": 2.85,
                     "askQty": 310000,
-                    "bidQty": 30000,
-                    "bidprice": 0.8,
+                    "bidQty": 20000,
+                    "bidprice": 0.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -5576,11 +5576,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 101,
-                    "totalBuyQuantity": 340000,
+                    "totalBuyQuantity": 350000,
                     "totalSellQuantity": 310000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 12.3,
@@ -5601,7 +5601,7 @@
                     "totalSellQuantity": 340000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 101
@@ -5626,11 +5626,11 @@
                     "totalSellQuantity": 700000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
-                    "askPrice": 11.45,
-                    "askQty": 10000,
+                    "askPrice": 11.1,
+                    "askQty": 30000,
                     "bidQty": 10000,
                     "bidprice": 9.25,
                     "change": 0,
@@ -5644,10 +5644,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 102,
                     "totalBuyQuantity": 400000,
-                    "totalSellQuantity": 370000,
+                    "totalSellQuantity": 400000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 102
@@ -5657,7 +5657,7 @@
                     "askPrice": 2.85,
                     "askQty": 10000,
                     "bidQty": 30000,
-                    "bidprice": 0.65,
+                    "bidprice": 0.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -5668,11 +5668,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 102,
-                    "totalBuyQuantity": 340000,
-                    "totalSellQuantity": 10000,
+                    "totalBuyQuantity": 350000,
+                    "totalSellQuantity": 210000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 13.6,
@@ -5693,7 +5693,7 @@
                     "totalSellQuantity": 40000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 102
@@ -5718,7 +5718,7 @@
                     "totalSellQuantity": 10000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 102
@@ -5743,7 +5743,7 @@
                     "totalSellQuantity": 690000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 12.5,
@@ -5764,16 +5764,16 @@
                     "totalSellQuantity": 390000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 103
             },
             {
                 "CE": {
-                    "askPrice": 0,
-                    "askQty": 0,
-                    "bidQty": 10000,
+                    "askPrice": 2.7,
+                    "askQty": 10000,
+                    "bidQty": 20000,
                     "bidprice": 0.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -5785,11 +5785,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 103,
-                    "totalBuyQuantity": 20000,
-                    "totalSellQuantity": 0,
+                    "totalBuyQuantity": 30000,
+                    "totalSellQuantity": 210000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 14.3,
@@ -5810,7 +5810,7 @@
                     "totalSellQuantity": 340000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 103
@@ -5835,7 +5835,7 @@
                     "totalSellQuantity": 630000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 14.5,
@@ -5856,7 +5856,7 @@
                     "totalSellQuantity": 330000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 104
@@ -5881,7 +5881,7 @@
                     "totalSellQuantity": 220000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 15.1,
@@ -5902,7 +5902,7 @@
                     "totalSellQuantity": 340000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 104
@@ -5910,24 +5910,24 @@
             {
                 "CE": {
                     "askPrice": 0.1,
-                    "askQty": 350000,
-                    "bidQty": 120000,
+                    "askQty": 370000,
+                    "bidQty": 80000,
                     "bidprice": 0.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDFC25-05-2023CE105.00",
-                    "impliedVolatility": 45.27,
+                    "impliedVolatility": 45.77,
                     "lastPrice": 0.05,
                     "openInterest": 138,
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 105,
-                    "totalBuyQuantity": 120000,
-                    "totalSellQuantity": 1200000,
-                    "totalTradedVolume": 2,
+                    "totalBuyQuantity": 80000,
+                    "totalSellQuantity": 1640000,
+                    "totalTradedVolume": 9,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 13.25,
@@ -5948,7 +5948,7 @@
                     "totalSellQuantity": 390000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 105
@@ -5973,7 +5973,7 @@
                     "totalSellQuantity": 20000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "PE": {
                     "askPrice": 15.15,
@@ -5994,7 +5994,7 @@
                     "totalSellQuantity": 340000,
                     "totalTradedVolume": 0,
                     "underlying": "IDFC",
-                    "underlyingValue": 92.2
+                    "underlyingValue": 92.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 105
@@ -6052,7 +6052,7 @@
             104,
             105
         ],
-        "timestamp": "18-May-2023 10:19:49",
-        "underlyingValue": 92.2
+        "timestamp": "18-May-2023 10:28:17",
+        "underlyingValue": 92.25
     }
 }

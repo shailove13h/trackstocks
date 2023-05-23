@@ -1,12 +1,12 @@
 {
     "filtered": {
         "CE": {
-            "totOI": 4695,
-            "totVol": 2999
+            "totOI": 4702,
+            "totVol": 3050
         },
         "PE": {
-            "totOI": 1882,
-            "totVol": 353
+            "totOI": 1877,
+            "totVol": 368
         },
         "data": [
             {
@@ -29,7 +29,7 @@
                     "totalSellQuantity": 200000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 1.9,
@@ -50,7 +50,7 @@
                     "totalSellQuantity": 12000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 70
@@ -75,7 +75,7 @@
                     "totalSellQuantity": 200000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 2.2,
@@ -96,7 +96,7 @@
                     "totalSellQuantity": 8000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 72.5
@@ -121,7 +121,7 @@
                     "totalSellQuantity": 200000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 1.75,
@@ -142,7 +142,7 @@
                     "totalSellQuantity": 212000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 75
@@ -167,7 +167,7 @@
                     "totalSellQuantity": 200000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 2.2,
@@ -188,7 +188,7 @@
                     "totalSellQuantity": 208000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 77.5
@@ -213,7 +213,7 @@
                     "totalSellQuantity": 212000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 0.45,
@@ -234,7 +234,7 @@
                     "totalSellQuantity": 8000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 80
@@ -259,7 +259,7 @@
                     "totalSellQuantity": 236000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 0.8,
@@ -280,7 +280,7 @@
                     "totalSellQuantity": 224000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 82.5
@@ -305,7 +305,7 @@
                     "totalSellQuantity": 212000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 0.35,
@@ -326,17 +326,17 @@
                     "totalSellQuantity": 480000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 85
             },
             {
                 "CE": {
-                    "askPrice": 30.05,
+                    "askPrice": 29.75,
                     "askQty": 12000,
                     "bidQty": 12000,
-                    "bidprice": 25.6,
+                    "bidprice": 10.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -347,11 +347,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 87.5,
-                    "totalBuyQuantity": 212000,
+                    "totalBuyQuantity": 96000,
                     "totalSellQuantity": 212000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 0.9,
@@ -372,7 +372,7 @@
                     "totalSellQuantity": 216000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 87.5
@@ -397,7 +397,7 @@
                     "totalSellQuantity": 248000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 0.15,
@@ -418,17 +418,17 @@
                     "totalSellQuantity": 480000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 90
             },
             {
                 "CE": {
-                    "askPrice": 24.3,
+                    "askPrice": 24.2,
                     "askQty": 12000,
                     "bidQty": 12000,
-                    "bidprice": 7.3,
+                    "bidprice": 9.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -439,11 +439,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 92.5,
-                    "totalBuyQuantity": 140000,
+                    "totalBuyQuantity": 108000,
                     "totalSellQuantity": 212000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 0.5,
@@ -464,15 +464,15 @@
                     "totalSellQuantity": 476000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 92.5
             },
             {
                 "CE": {
-                    "askPrice": 20,
-                    "askQty": 16000,
+                    "askPrice": 19.85,
+                    "askQty": 8000,
                     "bidQty": 12000,
                     "bidprice": 19.1,
                     "change": 0,
@@ -486,10 +486,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 95,
                     "totalBuyQuantity": 236000,
-                    "totalSellQuantity": 256000,
+                    "totalSellQuantity": 248000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 0.35,
@@ -500,7 +500,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023PE95.00",
-                    "impliedVolatility": 82.4,
+                    "impliedVolatility": 81.8,
                     "lastPrice": 0.25,
                     "openInterest": 113,
                     "pChange": 0,
@@ -510,14 +510,14 @@
                     "totalSellQuantity": 628000,
                     "totalTradedVolume": 1,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 95
             },
             {
                 "CE": {
-                    "askPrice": 18.25,
+                    "askPrice": 17.35,
                     "askQty": 4000,
                     "bidQty": 4000,
                     "bidprice": 16.45,
@@ -532,10 +532,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 97.5,
                     "totalBuyQuantity": 240000,
-                    "totalSellQuantity": 244000,
+                    "totalSellQuantity": 248000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 1.3,
@@ -556,22 +556,22 @@
                     "totalSellQuantity": 248000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 97.5
             },
             {
                 "CE": {
-                    "askPrice": 14.95,
-                    "askQty": 8000,
+                    "askPrice": 14.75,
+                    "askQty": 4000,
                     "bidQty": 4000,
-                    "bidprice": 14.65,
+                    "bidprice": 14.5,
                     "change": 1.5999999999999996,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023CE100.00",
-                    "impliedVolatility": 73.53,
+                    "impliedVolatility": 80.41,
                     "lastPrice": 15,
                     "openInterest": 101,
                     "pChange": 11.940298507462684,
@@ -581,38 +581,38 @@
                     "totalSellQuantity": 376000,
                     "totalTradedVolume": 1,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 0.45,
-                    "askQty": 16000,
-                    "bidQty": 4000,
+                    "askQty": 12000,
+                    "bidQty": 8000,
                     "bidprice": 0.4,
                     "change": -0.04999999999999999,
-                    "changeinOpenInterest": 6,
+                    "changeinOpenInterest": 4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023PE100.00",
-                    "impliedVolatility": 68.76,
+                    "impliedVolatility": 70.36,
                     "lastPrice": 0.4,
-                    "openInterest": 271,
+                    "openInterest": 269,
                     "pChange": -11.111111111111107,
-                    "pchangeinOpenInterest": 2.2641509433962264,
+                    "pchangeinOpenInterest": 1.509433962264151,
                     "strikePrice": 100,
                     "totalBuyQuantity": 684000,
                     "totalSellQuantity": 744000,
-                    "totalTradedVolume": 43,
+                    "totalTradedVolume": 45,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 100
             },
             {
                 "CE": {
-                    "askPrice": 13.8,
-                    "askQty": 12000,
-                    "bidQty": 4000,
-                    "bidprice": 11.95,
+                    "askPrice": 13.45,
+                    "askQty": 4000,
+                    "bidQty": 12000,
+                    "bidprice": 11.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -623,17 +623,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 102.5,
-                    "totalBuyQuantity": 240000,
-                    "totalSellQuantity": 252000,
+                    "totalBuyQuantity": 252000,
+                    "totalSellQuantity": 240000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
-                    "askPrice": 1.3,
+                    "askPrice": 1.4,
                     "askQty": 4000,
                     "bidQty": 4000,
-                    "bidprice": 0.5,
+                    "bidprice": 0.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -644,103 +644,103 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 102.5,
-                    "totalBuyQuantity": 496000,
+                    "totalBuyQuantity": 504000,
                     "totalSellQuantity": 600000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 102.5
             },
             {
                 "CE": {
-                    "askPrice": 10.4,
+                    "askPrice": 10.2,
                     "askQty": 4000,
-                    "bidQty": 8000,
-                    "bidprice": 10.1,
+                    "bidQty": 4000,
+                    "bidprice": 10,
                     "change": 1.799999999999999,
                     "changeinOpenInterest": -4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023CE105.00",
-                    "impliedVolatility": 77.94,
+                    "impliedVolatility": 81.53,
                     "lastPrice": 10.95,
                     "openInterest": 135,
                     "pChange": 19.672131147540973,
                     "pchangeinOpenInterest": -2.8776978417266186,
                     "strikePrice": 105,
-                    "totalBuyQuantity": 408000,
-                    "totalSellQuantity": 416000,
+                    "totalBuyQuantity": 404000,
+                    "totalSellQuantity": 420000,
                     "totalTradedVolume": 6,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 0.95,
-                    "askQty": 4000,
-                    "bidQty": 16000,
+                    "askQty": 16000,
+                    "bidQty": 12000,
                     "bidprice": 0.9,
                     "change": -0.15000000000000002,
-                    "changeinOpenInterest": -5,
+                    "changeinOpenInterest": -6,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023PE105.00",
-                    "impliedVolatility": 64.47,
+                    "impliedVolatility": 64.96,
                     "lastPrice": 0.9,
-                    "openInterest": 283,
+                    "openInterest": 282,
                     "pChange": -14.285714285714288,
-                    "pchangeinOpenInterest": -1.7361111111111112,
+                    "pchangeinOpenInterest": -2.0833333333333335,
                     "strikePrice": 105,
-                    "totalBuyQuantity": 760000,
+                    "totalBuyQuantity": 756000,
                     "totalSellQuantity": 776000,
-                    "totalTradedVolume": 27,
+                    "totalTradedVolume": 31,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 105
             },
             {
                 "CE": {
-                    "askPrice": 8.25,
-                    "askQty": 4000,
+                    "askPrice": 8.65,
+                    "askQty": 48000,
                     "bidQty": 4000,
-                    "bidprice": 7.8,
+                    "bidprice": 7.7,
                     "change": 1.2000000000000002,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023CE107.50",
-                    "impliedVolatility": 63.7,
+                    "impliedVolatility": 66.91,
                     "lastPrice": 8.4,
                     "openInterest": 34,
                     "pChange": 16.666666666666668,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 107.5,
                     "totalBuyQuantity": 408000,
-                    "totalSellQuantity": 388000,
+                    "totalSellQuantity": 424000,
                     "totalTradedVolume": 1,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
-                    "askPrice": 1.4,
-                    "askQty": 4000,
-                    "bidQty": 8000,
+                    "askPrice": 1.45,
+                    "askQty": 24000,
+                    "bidQty": 12000,
                     "bidprice": 1.3,
                     "change": -0.5,
-                    "changeinOpenInterest": 2,
+                    "changeinOpenInterest": 8,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023PE107.50",
-                    "impliedVolatility": 59.5,
+                    "impliedVolatility": 58.58,
                     "lastPrice": 1.15,
-                    "openInterest": 49,
+                    "openInterest": 55,
                     "pChange": -30.303030303030305,
-                    "pchangeinOpenInterest": 4.25531914893617,
+                    "pchangeinOpenInterest": 17.02127659574468,
                     "strikePrice": 107.5,
-                    "totalBuyQuantity": 236000,
-                    "totalSellQuantity": 696000,
+                    "totalBuyQuantity": 268000,
+                    "totalSellQuantity": 688000,
                     "totalTradedVolume": 24,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 107.5
@@ -748,173 +748,173 @@
             {
                 "CE": {
                     "askPrice": 6.45,
-                    "askQty": 24000,
+                    "askQty": 8000,
                     "bidQty": 8000,
-                    "bidprice": 6.35,
-                    "change": 1.1000000000000005,
-                    "changeinOpenInterest": 3,
+                    "bidprice": 6.3,
+                    "change": 1.0500000000000007,
+                    "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023CE110.00",
-                    "impliedVolatility": 63.97,
-                    "lastPrice": 6.45,
-                    "openInterest": 300,
-                    "pChange": 20.560747663551414,
-                    "pchangeinOpenInterest": 1.0101010101010102,
+                    "impliedVolatility": 64.64,
+                    "lastPrice": 6.4,
+                    "openInterest": 299,
+                    "pChange": 19.62616822429908,
+                    "pchangeinOpenInterest": 0.6734006734006734,
                     "strikePrice": 110,
                     "totalBuyQuantity": 432000,
                     "totalSellQuantity": 520000,
-                    "totalTradedVolume": 161,
+                    "totalTradedVolume": 163,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
-                    "askPrice": 2.1,
+                    "askPrice": 2.15,
                     "askQty": 4000,
                     "bidQty": 8000,
                     "bidprice": 2,
                     "change": -0.30000000000000027,
-                    "changeinOpenInterest": 15,
+                    "changeinOpenInterest": 7,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023PE110.00",
-                    "impliedVolatility": 59.63,
+                    "impliedVolatility": 62.15,
                     "lastPrice": 2.05,
-                    "openInterest": 298,
+                    "openInterest": 290,
                     "pChange": -12.765957446808521,
-                    "pchangeinOpenInterest": 5.30035335689046,
+                    "pchangeinOpenInterest": 2.4734982332155475,
                     "strikePrice": 110,
                     "totalBuyQuantity": 588000,
-                    "totalSellQuantity": 652000,
-                    "totalTradedVolume": 95,
+                    "totalSellQuantity": 648000,
+                    "totalTradedVolume": 96,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 110
             },
             {
                 "CE": {
-                    "askPrice": 5,
-                    "askQty": 8000,
-                    "bidQty": 8000,
-                    "bidprice": 4.9,
-                    "change": 1,
+                    "askPrice": 4.95,
+                    "askQty": 12000,
+                    "bidQty": 4000,
+                    "bidprice": 4.8,
+                    "change": 0.8999999999999995,
                     "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023CE112.50",
-                    "impliedVolatility": 64.45,
-                    "lastPrice": 4.95,
+                    "impliedVolatility": 66.38,
+                    "lastPrice": 4.85,
                     "openInterest": 127,
-                    "pChange": 25.316455696202528,
+                    "pChange": 22.784810126582265,
                     "pchangeinOpenInterest": 1.6,
                     "strikePrice": 112.5,
                     "totalBuyQuantity": 428000,
-                    "totalSellQuantity": 448000,
-                    "totalTradedVolume": 56,
+                    "totalSellQuantity": 460000,
+                    "totalTradedVolume": 57,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 3.1,
                     "askQty": 4000,
-                    "bidQty": 4000,
+                    "bidQty": 8000,
                     "bidprice": 2.95,
-                    "change": -0.4500000000000002,
+                    "change": -0.3500000000000001,
                     "changeinOpenInterest": 6,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023PE112.50",
-                    "impliedVolatility": 60.62,
-                    "lastPrice": 3,
+                    "impliedVolatility": 60.12,
+                    "lastPrice": 3.1,
                     "openInterest": 79,
-                    "pChange": -13.04347826086957,
+                    "pChange": -10.144927536231886,
                     "pchangeinOpenInterest": 8.219178082191782,
                     "strikePrice": 112.5,
                     "totalBuyQuantity": 640000,
-                    "totalSellQuantity": 640000,
-                    "totalTradedVolume": 22,
+                    "totalSellQuantity": 648000,
+                    "totalTradedVolume": 24,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 112.5
             },
             {
                 "CE": {
-                    "askPrice": 3.75,
-                    "askQty": 12000,
-                    "bidQty": 36000,
-                    "bidprice": 3.7,
-                    "change": 0.8500000000000001,
-                    "changeinOpenInterest": 326,
+                    "askPrice": 3.7,
+                    "askQty": 4000,
+                    "bidQty": 60000,
+                    "bidprice": 3.65,
+                    "change": 0.8000000000000003,
+                    "changeinOpenInterest": 340,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023CE115.00",
-                    "impliedVolatility": 66.56,
-                    "lastPrice": 3.75,
-                    "openInterest": 1136,
-                    "pChange": 29.31034482758621,
-                    "pchangeinOpenInterest": 40.24691358024691,
+                    "impliedVolatility": 64.97,
+                    "lastPrice": 3.7,
+                    "openInterest": 1150,
+                    "pChange": 27.586206896551737,
+                    "pchangeinOpenInterest": 41.97530864197531,
                     "strikePrice": 115,
-                    "totalBuyQuantity": 1304000,
-                    "totalSellQuantity": 1548000,
-                    "totalTradedVolume": 1639,
+                    "totalBuyQuantity": 1384000,
+                    "totalSellQuantity": 1540000,
+                    "totalTradedVolume": 1667,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
-                    "askPrice": 4.35,
-                    "askQty": 4000,
-                    "bidQty": 8000,
-                    "bidprice": 4.25,
-                    "change": -0.5499999999999998,
+                    "askPrice": 4.5,
+                    "askQty": 8000,
+                    "bidQty": 12000,
+                    "bidprice": 4.35,
+                    "change": -0.5,
                     "changeinOpenInterest": 44,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023PE115.00",
-                    "impliedVolatility": 58.97,
-                    "lastPrice": 4.3,
+                    "impliedVolatility": 61.33,
+                    "lastPrice": 4.35,
                     "openInterest": 229,
-                    "pChange": -11.340206185567007,
+                    "pChange": -10.309278350515465,
                     "pchangeinOpenInterest": 23.783783783783782,
                     "strikePrice": 115,
                     "totalBuyQuantity": 708000,
-                    "totalSellQuantity": 632000,
-                    "totalTradedVolume": 119,
+                    "totalSellQuantity": 656000,
+                    "totalTradedVolume": 125,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 115
             },
             {
                 "CE": {
-                    "askPrice": 2.75,
-                    "askQty": 8000,
+                    "askPrice": 2.7,
+                    "askQty": 16000,
                     "bidQty": 8000,
-                    "bidprice": 2.65,
-                    "change": 0.7000000000000002,
-                    "changeinOpenInterest": 20,
+                    "bidprice": 2.6,
+                    "change": 0.6499999999999999,
+                    "changeinOpenInterest": 18,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023CE117.50",
-                    "impliedVolatility": 64.06,
-                    "lastPrice": 2.7,
-                    "openInterest": 243,
-                    "pChange": 35.00000000000001,
-                    "pchangeinOpenInterest": 8.968609865470851,
+                    "impliedVolatility": 64.56,
+                    "lastPrice": 2.65,
+                    "openInterest": 241,
+                    "pChange": 32.49999999999999,
+                    "pchangeinOpenInterest": 8.071748878923767,
                     "strikePrice": 117.5,
-                    "totalBuyQuantity": 708000,
+                    "totalBuyQuantity": 676000,
                     "totalSellQuantity": 868000,
-                    "totalTradedVolume": 113,
+                    "totalTradedVolume": 116,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
-                    "askPrice": 5.9,
-                    "askQty": 8000,
+                    "askPrice": 6,
+                    "askQty": 4000,
                     "bidQty": 4000,
-                    "bidprice": 5.75,
+                    "bidprice": 5.9,
                     "change": -1.2000000000000002,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023PE117.50",
-                    "impliedVolatility": 57.11,
+                    "impliedVolatility": 55.06,
                     "lastPrice": 5.3,
                     "openInterest": 26,
                     "pChange": -18.461538461538467,
@@ -924,89 +924,89 @@
                     "totalSellQuantity": 432000,
                     "totalTradedVolume": 9,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 117.5
             },
             {
                 "CE": {
-                    "askPrice": 1.95,
+                    "askPrice": 1.9,
                     "askQty": 12000,
-                    "bidQty": 40000,
+                    "bidQty": 20000,
                     "bidprice": 1.85,
                     "change": 0.3999999999999999,
-                    "changeinOpenInterest": -27,
+                    "changeinOpenInterest": -35,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023CE120.00",
-                    "impliedVolatility": 66.13,
+                    "impliedVolatility": 64.59,
                     "lastPrice": 1.9,
-                    "openInterest": 977,
+                    "openInterest": 969,
                     "pChange": 26.66666666666666,
-                    "pchangeinOpenInterest": -2.689243027888446,
+                    "pchangeinOpenInterest": -3.4860557768924303,
                     "strikePrice": 120,
                     "totalBuyQuantity": 916000,
-                    "totalSellQuantity": 1008000,
-                    "totalTradedVolume": 727,
+                    "totalSellQuantity": 1032000,
+                    "totalTradedVolume": 740,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
-                    "askPrice": 7.6,
-                    "askQty": 8000,
-                    "bidQty": 8000,
-                    "bidprice": 7.45,
+                    "askPrice": 7.75,
+                    "askQty": 4000,
+                    "bidQty": 4000,
+                    "bidprice": 7.6,
                     "change": -1.5000000000000009,
                     "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023PE120.00",
-                    "impliedVolatility": 57.7,
+                    "impliedVolatility": 55.05,
                     "lastPrice": 7.05,
                     "openInterest": 95,
                     "pChange": -17.543859649122815,
                     "pchangeinOpenInterest": 3.260869565217391,
                     "strikePrice": 120,
                     "totalBuyQuantity": 432000,
-                    "totalSellQuantity": 432000,
+                    "totalSellQuantity": 436000,
                     "totalTradedVolume": 11,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 120
             },
             {
                 "CE": {
-                    "askPrice": 1.4,
-                    "askQty": 20000,
-                    "bidQty": 16000,
+                    "askPrice": 1.35,
+                    "askQty": 16000,
+                    "bidQty": 8000,
                     "bidprice": 1.3,
                     "change": 0.3999999999999999,
                     "changeinOpenInterest": 9,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023CE122.50",
-                    "impliedVolatility": 65.79,
+                    "impliedVolatility": 65.76,
                     "lastPrice": 1.4,
                     "openInterest": 135,
                     "pChange": 39.99999999999999,
                     "pchangeinOpenInterest": 7.142857142857143,
                     "strikePrice": 122.5,
-                    "totalBuyQuantity": 360000,
+                    "totalBuyQuantity": 356000,
                     "totalSellQuantity": 664000,
                     "totalTradedVolume": 46,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
-                    "askPrice": 9.65,
-                    "askQty": 8000,
+                    "askPrice": 9.85,
+                    "askQty": 4000,
                     "bidQty": 4000,
-                    "bidprice": 9.2,
+                    "bidprice": 9.5,
                     "change": 0.40000000000000036,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023PE122.50",
-                    "impliedVolatility": 53.75,
+                    "impliedVolatility": 49.82,
                     "lastPrice": 8.8,
                     "openInterest": 13,
                     "pChange": 4.761904761904765,
@@ -1016,7 +1016,7 @@
                     "totalSellQuantity": 248000,
                     "totalTradedVolume": 1,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 122.5
@@ -1024,45 +1024,45 @@
             {
                 "CE": {
                     "askPrice": 0.95,
-                    "askQty": 20000,
-                    "bidQty": 4000,
-                    "bidprice": 0.9,
-                    "change": 0.29999999999999993,
-                    "changeinOpenInterest": 4,
+                    "askQty": 12000,
+                    "bidQty": 20000,
+                    "bidprice": 0.85,
+                    "change": 0.25,
+                    "changeinOpenInterest": 8,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023CE125.00",
-                    "impliedVolatility": 66.17,
-                    "lastPrice": 0.95,
-                    "openInterest": 532,
-                    "pChange": 46.15384615384614,
-                    "pchangeinOpenInterest": 0.7575757575757576,
+                    "impliedVolatility": 65.83,
+                    "lastPrice": 0.9,
+                    "openInterest": 536,
+                    "pChange": 38.46153846153846,
+                    "pchangeinOpenInterest": 1.5151515151515151,
                     "strikePrice": 125,
-                    "totalBuyQuantity": 1112000,
-                    "totalSellQuantity": 848000,
-                    "totalTradedVolume": 156,
+                    "totalBuyQuantity": 1100000,
+                    "totalSellQuantity": 844000,
+                    "totalTradedVolume": 158,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
-                    "askPrice": 11.8,
+                    "askPrice": 11.9,
                     "askQty": 4000,
-                    "bidQty": 8000,
-                    "bidprice": 11.45,
+                    "bidQty": 12000,
+                    "bidprice": 11.55,
                     "change": -1.3000000000000007,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023PE125.00",
-                    "impliedVolatility": 0,
+                    "impliedVolatility": 64.34,
                     "lastPrice": 11.5,
                     "openInterest": 40,
                     "pChange": -10.156250000000005,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 125,
-                    "totalBuyQuantity": 256000,
+                    "totalBuyQuantity": 252000,
                     "totalSellQuantity": 256000,
                     "totalTradedVolume": 1,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 125
@@ -1087,13 +1087,13 @@
                     "totalSellQuantity": 556000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
-                    "askPrice": 14.6,
+                    "askPrice": 14.75,
                     "askQty": 4000,
-                    "bidQty": 16000,
-                    "bidprice": 13.2,
+                    "bidQty": 4000,
+                    "bidprice": 13.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1104,11 +1104,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 127.5,
-                    "totalBuyQuantity": 256000,
-                    "totalSellQuantity": 240000,
+                    "totalBuyQuantity": 268000,
+                    "totalSellQuantity": 244000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 127.5
@@ -1119,27 +1119,27 @@
                     "askQty": 16000,
                     "bidQty": 36000,
                     "bidprice": 0.5,
-                    "change": 0.10000000000000003,
+                    "change": 0.04999999999999999,
                     "changeinOpenInterest": -34,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023CE130.00",
-                    "impliedVolatility": 70.58,
-                    "lastPrice": 0.55,
+                    "impliedVolatility": 71.31,
+                    "lastPrice": 0.5,
                     "openInterest": 542,
-                    "pChange": 22.22222222222223,
+                    "pChange": 11.111111111111107,
                     "pchangeinOpenInterest": -5.902777777777778,
                     "strikePrice": 130,
-                    "totalBuyQuantity": 876000,
-                    "totalSellQuantity": 792000,
-                    "totalTradedVolume": 77,
+                    "totalBuyQuantity": 884000,
+                    "totalSellQuantity": 796000,
+                    "totalTradedVolume": 79,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
-                    "askPrice": 16.3,
+                    "askPrice": 16.55,
                     "askQty": 4000,
-                    "bidQty": 4000,
-                    "bidprice": 16,
+                    "bidQty": 8000,
+                    "bidprice": 16.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1154,7 +1154,7 @@
                     "totalSellQuantity": 244000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 130
@@ -1162,30 +1162,30 @@
             {
                 "CE": {
                     "askPrice": 0.4,
-                    "askQty": 16000,
-                    "bidQty": 8000,
+                    "askQty": 20000,
+                    "bidQty": 4000,
                     "bidprice": 0.35,
                     "change": 0.10000000000000003,
                     "changeinOpenInterest": 4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023CE132.50",
-                    "impliedVolatility": 72.23,
+                    "impliedVolatility": 72.91,
                     "lastPrice": 0.4,
                     "openInterest": 322,
                     "pChange": 33.33333333333335,
                     "pchangeinOpenInterest": 1.2578616352201257,
                     "strikePrice": 132.5,
-                    "totalBuyQuantity": 212000,
+                    "totalBuyQuantity": 208000,
                     "totalSellQuantity": 868000,
                     "totalTradedVolume": 16,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
-                    "askPrice": 18.75,
+                    "askPrice": 18.9,
                     "askQty": 4000,
                     "bidQty": 4000,
-                    "bidprice": 18.35,
+                    "bidprice": 18.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1197,10 +1197,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 132.5,
                     "totalBuyQuantity": 248000,
-                    "totalSellQuantity": 244000,
+                    "totalSellQuantity": 248000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 132.5
@@ -1229,7 +1229,7 @@
                     "totalSellQuantity": 200000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 1.9,
@@ -1250,7 +1250,7 @@
                     "totalSellQuantity": 12000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 70
@@ -1275,7 +1275,7 @@
                     "totalSellQuantity": 200000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 2.2,
@@ -1296,7 +1296,7 @@
                     "totalSellQuantity": 8000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 72.5
@@ -1321,7 +1321,7 @@
                     "totalSellQuantity": 200000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 1.75,
@@ -1342,7 +1342,7 @@
                     "totalSellQuantity": 212000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 75
@@ -1367,7 +1367,7 @@
                     "totalSellQuantity": 200000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 2.2,
@@ -1388,7 +1388,7 @@
                     "totalSellQuantity": 208000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 77.5
@@ -1413,7 +1413,7 @@
                     "totalSellQuantity": 212000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 0.45,
@@ -1434,7 +1434,7 @@
                     "totalSellQuantity": 8000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 80
@@ -1459,7 +1459,7 @@
                     "totalSellQuantity": 236000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 0.8,
@@ -1480,7 +1480,7 @@
                     "totalSellQuantity": 224000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 82.5
@@ -1505,7 +1505,7 @@
                     "totalSellQuantity": 200000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 3.3,
@@ -1526,7 +1526,7 @@
                     "totalSellQuantity": 200000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 82.5
@@ -1551,7 +1551,7 @@
                     "totalSellQuantity": 212000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 0.35,
@@ -1572,14 +1572,14 @@
                     "totalSellQuantity": 480000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 85
             },
             {
                 "CE": {
-                    "askPrice": 34.1,
+                    "askPrice": 34,
                     "askQty": 200000,
                     "bidQty": 24000,
                     "bidprice": 28.7,
@@ -1597,7 +1597,7 @@
                     "totalSellQuantity": 200000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 3.35,
@@ -1618,17 +1618,17 @@
                     "totalSellQuantity": 200000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 85
             },
             {
                 "CE": {
-                    "askPrice": 30.05,
+                    "askPrice": 29.75,
                     "askQty": 12000,
                     "bidQty": 12000,
-                    "bidprice": 25.6,
+                    "bidprice": 10.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1639,11 +1639,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 87.5,
-                    "totalBuyQuantity": 212000,
+                    "totalBuyQuantity": 96000,
                     "totalSellQuantity": 212000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 0.9,
@@ -1664,14 +1664,14 @@
                     "totalSellQuantity": 216000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 87.5
             },
             {
                 "CE": {
-                    "askPrice": 31.5,
+                    "askPrice": 31.4,
                     "askQty": 200000,
                     "bidQty": 24000,
                     "bidprice": 26.45,
@@ -1689,7 +1689,7 @@
                     "totalSellQuantity": 200000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 3.15,
@@ -1710,7 +1710,7 @@
                     "totalSellQuantity": 200000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 87.5
@@ -1735,7 +1735,7 @@
                     "totalSellQuantity": 224000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 1.45,
@@ -1756,7 +1756,7 @@
                     "totalSellQuantity": 216000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 90
@@ -1781,7 +1781,7 @@
                     "totalSellQuantity": 248000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 0.15,
@@ -1802,7 +1802,7 @@
                     "totalSellQuantity": 480000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 90
@@ -1827,7 +1827,7 @@
                     "totalSellQuantity": 200000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 4.1,
@@ -1848,17 +1848,17 @@
                     "totalSellQuantity": 400000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 92.5
             },
             {
                 "CE": {
-                    "askPrice": 24.3,
+                    "askPrice": 24.2,
                     "askQty": 12000,
                     "bidQty": 12000,
-                    "bidprice": 7.3,
+                    "bidprice": 9.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1869,11 +1869,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 92.5,
-                    "totalBuyQuantity": 140000,
+                    "totalBuyQuantity": 108000,
                     "totalSellQuantity": 212000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 0.5,
@@ -1894,15 +1894,15 @@
                     "totalSellQuantity": 476000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 92.5
             },
             {
                 "CE": {
-                    "askPrice": 20,
-                    "askQty": 16000,
+                    "askPrice": 19.85,
+                    "askQty": 8000,
                     "bidQty": 12000,
                     "bidprice": 19.1,
                     "change": 0,
@@ -1916,10 +1916,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 95,
                     "totalBuyQuantity": 236000,
-                    "totalSellQuantity": 256000,
+                    "totalSellQuantity": 248000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 0.35,
@@ -1930,7 +1930,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023PE95.00",
-                    "impliedVolatility": 82.4,
+                    "impliedVolatility": 81.8,
                     "lastPrice": 0.25,
                     "openInterest": 113,
                     "pChange": 0,
@@ -1940,17 +1940,17 @@
                     "totalSellQuantity": 628000,
                     "totalTradedVolume": 1,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 95
             },
             {
                 "CE": {
-                    "askPrice": 26.75,
-                    "askQty": 200000,
-                    "bidQty": 200000,
-                    "bidprice": 19,
+                    "askPrice": 27.55,
+                    "askQty": 24000,
+                    "bidQty": 24000,
+                    "bidprice": 19.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -1961,11 +1961,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 95,
-                    "totalBuyQuantity": 200000,
-                    "totalSellQuantity": 200000,
+                    "totalBuyQuantity": 224000,
+                    "totalSellQuantity": 224000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1986,14 +1986,14 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 95
             },
             {
                 "CE": {
-                    "askPrice": 18.25,
+                    "askPrice": 17.35,
                     "askQty": 4000,
                     "bidQty": 4000,
                     "bidprice": 16.45,
@@ -2008,10 +2008,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 97.5,
                     "totalBuyQuantity": 240000,
-                    "totalSellQuantity": 244000,
+                    "totalSellQuantity": 248000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 1.3,
@@ -2032,7 +2032,7 @@
                     "totalSellQuantity": 248000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 97.5
@@ -2057,7 +2057,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2078,22 +2078,22 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 97.5
             },
             {
                 "CE": {
-                    "askPrice": 14.95,
-                    "askQty": 8000,
+                    "askPrice": 14.75,
+                    "askQty": 4000,
                     "bidQty": 4000,
-                    "bidprice": 14.65,
+                    "bidprice": 14.5,
                     "change": 1.5999999999999996,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023CE100.00",
-                    "impliedVolatility": 73.53,
+                    "impliedVolatility": 80.41,
                     "lastPrice": 15,
                     "openInterest": 101,
                     "pChange": 11.940298507462684,
@@ -2103,28 +2103,28 @@
                     "totalSellQuantity": 376000,
                     "totalTradedVolume": 1,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 0.45,
-                    "askQty": 16000,
-                    "bidQty": 4000,
+                    "askQty": 12000,
+                    "bidQty": 8000,
                     "bidprice": 0.4,
                     "change": -0.04999999999999999,
-                    "changeinOpenInterest": 6,
+                    "changeinOpenInterest": 4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023PE100.00",
-                    "impliedVolatility": 68.76,
+                    "impliedVolatility": 70.36,
                     "lastPrice": 0.4,
-                    "openInterest": 271,
+                    "openInterest": 269,
                     "pChange": -11.111111111111107,
-                    "pchangeinOpenInterest": 2.2641509433962264,
+                    "pchangeinOpenInterest": 1.509433962264151,
                     "strikePrice": 100,
                     "totalBuyQuantity": 684000,
                     "totalSellQuantity": 744000,
-                    "totalTradedVolume": 43,
+                    "totalTradedVolume": 45,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 100
@@ -2149,38 +2149,38 @@
                     "totalSellQuantity": 32000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
-                    "askPrice": 2,
-                    "askQty": 4000,
+                    "askPrice": 2.05,
+                    "askQty": 8000,
                     "bidQty": 4000,
-                    "bidprice": 1.8,
+                    "bidprice": 1.9,
                     "change": -0.15000000000000013,
                     "changeinOpenInterest": 3,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKIBULHSGFIN29-06-2023PE100.00",
-                    "impliedVolatility": 48.48,
+                    "impliedVolatility": 49.66,
                     "lastPrice": 1.95,
                     "openInterest": 94,
                     "pChange": -7.1428571428571495,
                     "pchangeinOpenInterest": 3.2967032967032965,
                     "strikePrice": 100,
                     "totalBuyQuantity": 312000,
-                    "totalSellQuantity": 260000,
+                    "totalSellQuantity": 264000,
                     "totalTradedVolume": 4,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 100
             },
             {
                 "CE": {
-                    "askPrice": 13.8,
-                    "askQty": 12000,
-                    "bidQty": 4000,
-                    "bidprice": 11.95,
+                    "askPrice": 13.45,
+                    "askQty": 4000,
+                    "bidQty": 12000,
+                    "bidprice": 11.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2191,17 +2191,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 102.5,
-                    "totalBuyQuantity": 240000,
-                    "totalSellQuantity": 252000,
+                    "totalBuyQuantity": 252000,
+                    "totalSellQuantity": 240000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
-                    "askPrice": 1.3,
+                    "askPrice": 1.4,
                     "askQty": 4000,
                     "bidQty": 4000,
-                    "bidprice": 0.5,
+                    "bidprice": 0.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2212,11 +2212,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 102.5,
-                    "totalBuyQuantity": 496000,
+                    "totalBuyQuantity": 504000,
                     "totalSellQuantity": 600000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 102.5
@@ -2241,7 +2241,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2262,63 +2262,63 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 102.5
             },
             {
                 "CE": {
-                    "askPrice": 10.4,
+                    "askPrice": 10.2,
                     "askQty": 4000,
-                    "bidQty": 8000,
-                    "bidprice": 10.1,
+                    "bidQty": 4000,
+                    "bidprice": 10,
                     "change": 1.799999999999999,
                     "changeinOpenInterest": -4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023CE105.00",
-                    "impliedVolatility": 77.94,
+                    "impliedVolatility": 81.53,
                     "lastPrice": 10.95,
                     "openInterest": 135,
                     "pChange": 19.672131147540973,
                     "pchangeinOpenInterest": -2.8776978417266186,
                     "strikePrice": 105,
-                    "totalBuyQuantity": 408000,
-                    "totalSellQuantity": 416000,
+                    "totalBuyQuantity": 404000,
+                    "totalSellQuantity": 420000,
                     "totalTradedVolume": 6,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 0.95,
-                    "askQty": 4000,
-                    "bidQty": 16000,
+                    "askQty": 16000,
+                    "bidQty": 12000,
                     "bidprice": 0.9,
                     "change": -0.15000000000000002,
-                    "changeinOpenInterest": -5,
+                    "changeinOpenInterest": -6,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023PE105.00",
-                    "impliedVolatility": 64.47,
+                    "impliedVolatility": 64.96,
                     "lastPrice": 0.9,
-                    "openInterest": 283,
+                    "openInterest": 282,
                     "pChange": -14.285714285714288,
-                    "pchangeinOpenInterest": -1.7361111111111112,
+                    "pchangeinOpenInterest": -2.0833333333333335,
                     "strikePrice": 105,
-                    "totalBuyQuantity": 760000,
+                    "totalBuyQuantity": 756000,
                     "totalSellQuantity": 776000,
-                    "totalTradedVolume": 27,
+                    "totalTradedVolume": 31,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 105
             },
             {
                 "CE": {
-                    "askPrice": 15.3,
-                    "askQty": 24000,
+                    "askPrice": 18.9,
+                    "askQty": 4000,
                     "bidQty": 24000,
-                    "bidprice": 9.7,
+                    "bidprice": 8.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2330,77 +2330,77 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 105,
                     "totalBuyQuantity": 228000,
-                    "totalSellQuantity": 80000,
+                    "totalSellQuantity": 60000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 3.35,
-                    "askQty": 8000,
-                    "bidQty": 4000,
+                    "askQty": 12000,
+                    "bidQty": 8000,
                     "bidprice": 3.2,
                     "change": -0.20000000000000018,
                     "changeinOpenInterest": 2,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKIBULHSGFIN29-06-2023PE105.00",
-                    "impliedVolatility": 47.89,
+                    "impliedVolatility": 49.9,
                     "lastPrice": 3.3,
                     "openInterest": 53,
                     "pChange": -5.71428571428572,
                     "pchangeinOpenInterest": 3.9215686274509802,
                     "strikePrice": 105,
-                    "totalBuyQuantity": 296000,
-                    "totalSellQuantity": 200000,
+                    "totalBuyQuantity": 300000,
+                    "totalSellQuantity": 208000,
                     "totalTradedVolume": 8,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 105
             },
             {
                 "CE": {
-                    "askPrice": 8.25,
-                    "askQty": 4000,
+                    "askPrice": 8.65,
+                    "askQty": 48000,
                     "bidQty": 4000,
-                    "bidprice": 7.8,
+                    "bidprice": 7.7,
                     "change": 1.2000000000000002,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023CE107.50",
-                    "impliedVolatility": 63.7,
+                    "impliedVolatility": 66.91,
                     "lastPrice": 8.4,
                     "openInterest": 34,
                     "pChange": 16.666666666666668,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 107.5,
                     "totalBuyQuantity": 408000,
-                    "totalSellQuantity": 388000,
+                    "totalSellQuantity": 424000,
                     "totalTradedVolume": 1,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
-                    "askPrice": 1.4,
-                    "askQty": 4000,
-                    "bidQty": 8000,
+                    "askPrice": 1.45,
+                    "askQty": 24000,
+                    "bidQty": 12000,
                     "bidprice": 1.3,
                     "change": -0.5,
-                    "changeinOpenInterest": 2,
+                    "changeinOpenInterest": 8,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023PE107.50",
-                    "impliedVolatility": 59.5,
+                    "impliedVolatility": 58.58,
                     "lastPrice": 1.15,
-                    "openInterest": 49,
+                    "openInterest": 55,
                     "pChange": -30.303030303030305,
-                    "pchangeinOpenInterest": 4.25531914893617,
+                    "pchangeinOpenInterest": 17.02127659574468,
                     "strikePrice": 107.5,
-                    "totalBuyQuantity": 236000,
-                    "totalSellQuantity": 696000,
+                    "totalBuyQuantity": 268000,
+                    "totalSellQuantity": 688000,
                     "totalTradedVolume": 24,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 107.5
@@ -2425,13 +2425,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 4000,
-                    "bidprice": 3.75,
+                    "bidprice": 3.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2442,11 +2442,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 107.5,
-                    "totalBuyQuantity": 16000,
+                    "totalBuyQuantity": 216000,
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 107.5
@@ -2454,137 +2454,137 @@
             {
                 "CE": {
                     "askPrice": 6.45,
-                    "askQty": 24000,
+                    "askQty": 8000,
                     "bidQty": 8000,
-                    "bidprice": 6.35,
-                    "change": 1.1000000000000005,
-                    "changeinOpenInterest": 3,
+                    "bidprice": 6.3,
+                    "change": 1.0500000000000007,
+                    "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023CE110.00",
-                    "impliedVolatility": 63.97,
-                    "lastPrice": 6.45,
-                    "openInterest": 300,
-                    "pChange": 20.560747663551414,
-                    "pchangeinOpenInterest": 1.0101010101010102,
+                    "impliedVolatility": 64.64,
+                    "lastPrice": 6.4,
+                    "openInterest": 299,
+                    "pChange": 19.62616822429908,
+                    "pchangeinOpenInterest": 0.6734006734006734,
                     "strikePrice": 110,
                     "totalBuyQuantity": 432000,
                     "totalSellQuantity": 520000,
-                    "totalTradedVolume": 161,
+                    "totalTradedVolume": 163,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
-                    "askPrice": 2.1,
+                    "askPrice": 2.15,
                     "askQty": 4000,
                     "bidQty": 8000,
                     "bidprice": 2,
                     "change": -0.30000000000000027,
-                    "changeinOpenInterest": 15,
+                    "changeinOpenInterest": 7,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023PE110.00",
-                    "impliedVolatility": 59.63,
+                    "impliedVolatility": 62.15,
                     "lastPrice": 2.05,
-                    "openInterest": 298,
+                    "openInterest": 290,
                     "pChange": -12.765957446808521,
-                    "pchangeinOpenInterest": 5.30035335689046,
+                    "pchangeinOpenInterest": 2.4734982332155475,
                     "strikePrice": 110,
                     "totalBuyQuantity": 588000,
-                    "totalSellQuantity": 652000,
-                    "totalTradedVolume": 95,
+                    "totalSellQuantity": 648000,
+                    "totalTradedVolume": 96,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 110
             },
             {
                 "CE": {
-                    "askPrice": 10.5,
+                    "askPrice": 10.45,
                     "askQty": 16000,
                     "bidQty": 4000,
-                    "bidprice": 9.8,
+                    "bidprice": 9.95,
                     "change": 3.5999999999999996,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKIBULHSGFIN29-06-2023CE110.00",
-                    "impliedVolatility": 0,
+                    "impliedVolatility": 50.4,
                     "lastPrice": 10.6,
                     "openInterest": 11,
                     "pChange": 51.42857142857142,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 110,
-                    "totalBuyQuantity": 208000,
+                    "totalBuyQuantity": 216000,
                     "totalSellQuantity": 20000,
                     "totalTradedVolume": 1,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 5.2,
                     "askQty": 4000,
                     "bidQty": 4000,
-                    "bidprice": 4.9,
+                    "bidprice": 5.05,
                     "change": -0.2999999999999998,
                     "changeinOpenInterest": 1,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKIBULHSGFIN29-06-2023PE110.00",
-                    "impliedVolatility": 0,
+                    "impliedVolatility": 48.73,
                     "lastPrice": 4.95,
                     "openInterest": 37,
                     "pChange": -5.714285714285711,
                     "pchangeinOpenInterest": 2.7777777777777777,
                     "strikePrice": 110,
-                    "totalBuyQuantity": 476000,
-                    "totalSellQuantity": 156000,
+                    "totalBuyQuantity": 472000,
+                    "totalSellQuantity": 160000,
                     "totalTradedVolume": 5,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 110
             },
             {
                 "CE": {
-                    "askPrice": 5,
-                    "askQty": 8000,
-                    "bidQty": 8000,
-                    "bidprice": 4.9,
-                    "change": 1,
+                    "askPrice": 4.95,
+                    "askQty": 12000,
+                    "bidQty": 4000,
+                    "bidprice": 4.8,
+                    "change": 0.8999999999999995,
                     "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023CE112.50",
-                    "impliedVolatility": 64.45,
-                    "lastPrice": 4.95,
+                    "impliedVolatility": 66.38,
+                    "lastPrice": 4.85,
                     "openInterest": 127,
-                    "pChange": 25.316455696202528,
+                    "pChange": 22.784810126582265,
                     "pchangeinOpenInterest": 1.6,
                     "strikePrice": 112.5,
                     "totalBuyQuantity": 428000,
-                    "totalSellQuantity": 448000,
-                    "totalTradedVolume": 56,
+                    "totalSellQuantity": 460000,
+                    "totalTradedVolume": 57,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 3.1,
                     "askQty": 4000,
-                    "bidQty": 4000,
+                    "bidQty": 8000,
                     "bidprice": 2.95,
-                    "change": -0.4500000000000002,
+                    "change": -0.3500000000000001,
                     "changeinOpenInterest": 6,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023PE112.50",
-                    "impliedVolatility": 60.62,
-                    "lastPrice": 3,
+                    "impliedVolatility": 60.12,
+                    "lastPrice": 3.1,
                     "openInterest": 79,
-                    "pChange": -13.04347826086957,
+                    "pChange": -10.144927536231886,
                     "pchangeinOpenInterest": 8.219178082191782,
                     "strikePrice": 112.5,
                     "totalBuyQuantity": 640000,
-                    "totalSellQuantity": 640000,
-                    "totalTradedVolume": 22,
+                    "totalSellQuantity": 648000,
+                    "totalTradedVolume": 24,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 112.5
@@ -2609,7 +2609,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2630,53 +2630,53 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 112.5
             },
             {
                 "CE": {
-                    "askPrice": 3.75,
-                    "askQty": 12000,
-                    "bidQty": 36000,
-                    "bidprice": 3.7,
-                    "change": 0.8500000000000001,
-                    "changeinOpenInterest": 326,
+                    "askPrice": 3.7,
+                    "askQty": 4000,
+                    "bidQty": 60000,
+                    "bidprice": 3.65,
+                    "change": 0.8000000000000003,
+                    "changeinOpenInterest": 340,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023CE115.00",
-                    "impliedVolatility": 66.56,
-                    "lastPrice": 3.75,
-                    "openInterest": 1136,
-                    "pChange": 29.31034482758621,
-                    "pchangeinOpenInterest": 40.24691358024691,
+                    "impliedVolatility": 64.97,
+                    "lastPrice": 3.7,
+                    "openInterest": 1150,
+                    "pChange": 27.586206896551737,
+                    "pchangeinOpenInterest": 41.97530864197531,
                     "strikePrice": 115,
-                    "totalBuyQuantity": 1304000,
-                    "totalSellQuantity": 1548000,
-                    "totalTradedVolume": 1639,
+                    "totalBuyQuantity": 1384000,
+                    "totalSellQuantity": 1540000,
+                    "totalTradedVolume": 1667,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
-                    "askPrice": 4.35,
-                    "askQty": 4000,
-                    "bidQty": 8000,
-                    "bidprice": 4.25,
-                    "change": -0.5499999999999998,
+                    "askPrice": 4.5,
+                    "askQty": 8000,
+                    "bidQty": 12000,
+                    "bidprice": 4.35,
+                    "change": -0.5,
                     "changeinOpenInterest": 44,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023PE115.00",
-                    "impliedVolatility": 58.97,
-                    "lastPrice": 4.3,
+                    "impliedVolatility": 61.33,
+                    "lastPrice": 4.35,
                     "openInterest": 229,
-                    "pChange": -11.340206185567007,
+                    "pChange": -10.309278350515465,
                     "pchangeinOpenInterest": 23.783783783783782,
                     "strikePrice": 115,
                     "totalBuyQuantity": 708000,
-                    "totalSellQuantity": 632000,
-                    "totalTradedVolume": 119,
+                    "totalSellQuantity": 656000,
+                    "totalTradedVolume": 125,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 115
@@ -2691,7 +2691,7 @@
                     "changeinOpenInterest": 4,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKIBULHSGFIN29-06-2023CE115.00",
-                    "impliedVolatility": 53.3,
+                    "impliedVolatility": 51.08,
                     "lastPrice": 8.1,
                     "openInterest": 29,
                     "pChange": 19.999999999999996,
@@ -2701,35 +2701,35 @@
                     "totalSellQuantity": 252000,
                     "totalTradedVolume": 14,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
-                    "askPrice": 7.75,
+                    "askPrice": 7.7,
                     "askQty": 4000,
                     "bidQty": 4000,
-                    "bidprice": 7.2,
+                    "bidprice": 7.45,
                     "change": -0.4500000000000002,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKIBULHSGFIN29-06-2023PE115.00",
-                    "impliedVolatility": 0,
+                    "impliedVolatility": 50.21,
                     "lastPrice": 7.5,
                     "openInterest": 5,
                     "pChange": -5.660377358490568,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 115,
                     "totalBuyQuantity": 216000,
-                    "totalSellQuantity": 8000,
+                    "totalSellQuantity": 12000,
                     "totalTradedVolume": 2,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 115
             },
             {
                 "CE": {
-                    "askPrice": 12.6,
+                    "askPrice": 12.35,
                     "askQty": 5100,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -2747,43 +2747,43 @@
                     "totalSellQuantity": 5100,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 115
             },
             {
                 "CE": {
-                    "askPrice": 2.75,
-                    "askQty": 8000,
+                    "askPrice": 2.7,
+                    "askQty": 16000,
                     "bidQty": 8000,
-                    "bidprice": 2.65,
-                    "change": 0.7000000000000002,
-                    "changeinOpenInterest": 20,
+                    "bidprice": 2.6,
+                    "change": 0.6499999999999999,
+                    "changeinOpenInterest": 18,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023CE117.50",
-                    "impliedVolatility": 64.06,
-                    "lastPrice": 2.7,
-                    "openInterest": 243,
-                    "pChange": 35.00000000000001,
-                    "pchangeinOpenInterest": 8.968609865470851,
+                    "impliedVolatility": 64.56,
+                    "lastPrice": 2.65,
+                    "openInterest": 241,
+                    "pChange": 32.49999999999999,
+                    "pchangeinOpenInterest": 8.071748878923767,
                     "strikePrice": 117.5,
-                    "totalBuyQuantity": 708000,
+                    "totalBuyQuantity": 676000,
                     "totalSellQuantity": 868000,
-                    "totalTradedVolume": 113,
+                    "totalTradedVolume": 116,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
-                    "askPrice": 5.9,
-                    "askQty": 8000,
+                    "askPrice": 6,
+                    "askQty": 4000,
                     "bidQty": 4000,
-                    "bidprice": 5.75,
+                    "bidprice": 5.9,
                     "change": -1.2000000000000002,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023PE117.50",
-                    "impliedVolatility": 57.11,
+                    "impliedVolatility": 55.06,
                     "lastPrice": 5.3,
                     "openInterest": 26,
                     "pChange": -18.461538461538467,
@@ -2793,17 +2793,17 @@
                     "totalSellQuantity": 432000,
                     "totalTradedVolume": 9,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 117.5
             },
             {
                 "CE": {
-                    "askPrice": 7.6,
+                    "askPrice": 7.55,
                     "askQty": 4000,
                     "bidQty": 4000,
-                    "bidprice": 6.2,
+                    "bidprice": 6.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2818,13 +2818,13 @@
                     "totalSellQuantity": 204000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
-                    "askPrice": 13.55,
-                    "askQty": 24000,
-                    "bidQty": 24000,
-                    "bidprice": 7.55,
+                    "askPrice": 18.15,
+                    "askQty": 200000,
+                    "bidQty": 4000,
+                    "bidprice": 7.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2835,18 +2835,18 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 117.5,
-                    "totalBuyQuantity": 28000,
+                    "totalBuyQuantity": 4000,
                     "totalSellQuantity": 224000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 117.5
             },
             {
                 "CE": {
-                    "askPrice": 11.35,
+                    "askPrice": 11.2,
                     "askQty": 5100,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -2864,84 +2864,84 @@
                     "totalSellQuantity": 5100,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 117.5
             },
             {
                 "CE": {
-                    "askPrice": 1.95,
+                    "askPrice": 1.9,
                     "askQty": 12000,
-                    "bidQty": 40000,
+                    "bidQty": 20000,
                     "bidprice": 1.85,
                     "change": 0.3999999999999999,
-                    "changeinOpenInterest": -27,
+                    "changeinOpenInterest": -35,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023CE120.00",
-                    "impliedVolatility": 66.13,
+                    "impliedVolatility": 64.59,
                     "lastPrice": 1.9,
-                    "openInterest": 977,
+                    "openInterest": 969,
                     "pChange": 26.66666666666666,
-                    "pchangeinOpenInterest": -2.689243027888446,
+                    "pchangeinOpenInterest": -3.4860557768924303,
                     "strikePrice": 120,
                     "totalBuyQuantity": 916000,
-                    "totalSellQuantity": 1008000,
-                    "totalTradedVolume": 727,
+                    "totalSellQuantity": 1032000,
+                    "totalTradedVolume": 740,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
-                    "askPrice": 7.6,
-                    "askQty": 8000,
-                    "bidQty": 8000,
-                    "bidprice": 7.45,
+                    "askPrice": 7.75,
+                    "askQty": 4000,
+                    "bidQty": 4000,
+                    "bidprice": 7.6,
                     "change": -1.5000000000000009,
                     "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023PE120.00",
-                    "impliedVolatility": 57.7,
+                    "impliedVolatility": 55.05,
                     "lastPrice": 7.05,
                     "openInterest": 95,
                     "pChange": -17.543859649122815,
                     "pchangeinOpenInterest": 3.260869565217391,
                     "strikePrice": 120,
                     "totalBuyQuantity": 432000,
-                    "totalSellQuantity": 432000,
+                    "totalSellQuantity": 436000,
                     "totalTradedVolume": 11,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 120
             },
             {
                 "CE": {
-                    "askPrice": 5.95,
-                    "askQty": 4000,
+                    "askPrice": 5.75,
+                    "askQty": 16000,
                     "bidQty": 4000,
-                    "bidprice": 5.75,
-                    "change": 1.0500000000000007,
+                    "bidprice": 5.6,
+                    "change": 0.9000000000000004,
                     "changeinOpenInterest": 24,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKIBULHSGFIN29-06-2023CE120.00",
-                    "impliedVolatility": 51.52,
-                    "lastPrice": 5.9,
+                    "impliedVolatility": 50.47,
+                    "lastPrice": 5.75,
                     "openInterest": 125,
-                    "pChange": 21.649484536082493,
+                    "pChange": 18.556701030927844,
                     "pchangeinOpenInterest": 23.762376237623762,
                     "strikePrice": 120,
-                    "totalBuyQuantity": 308000,
-                    "totalSellQuantity": 132000,
-                    "totalTradedVolume": 34,
+                    "totalBuyQuantity": 320000,
+                    "totalSellQuantity": 152000,
+                    "totalTradedVolume": 35,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
                     "askPrice": 10.7,
-                    "askQty": 4000,
-                    "bidQty": 4000,
-                    "bidprice": 10.45,
+                    "askQty": 8000,
+                    "bidQty": 12000,
+                    "bidprice": 10.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2952,47 +2952,47 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 120,
-                    "totalBuyQuantity": 8000,
-                    "totalSellQuantity": 4000,
+                    "totalBuyQuantity": 16000,
+                    "totalSellQuantity": 16000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 120
             },
             {
                 "CE": {
-                    "askPrice": 1.4,
-                    "askQty": 20000,
-                    "bidQty": 16000,
+                    "askPrice": 1.35,
+                    "askQty": 16000,
+                    "bidQty": 8000,
                     "bidprice": 1.3,
                     "change": 0.3999999999999999,
                     "changeinOpenInterest": 9,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023CE122.50",
-                    "impliedVolatility": 65.79,
+                    "impliedVolatility": 65.76,
                     "lastPrice": 1.4,
                     "openInterest": 135,
                     "pChange": 39.99999999999999,
                     "pchangeinOpenInterest": 7.142857142857143,
                     "strikePrice": 122.5,
-                    "totalBuyQuantity": 360000,
+                    "totalBuyQuantity": 356000,
                     "totalSellQuantity": 664000,
                     "totalTradedVolume": 46,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
-                    "askPrice": 9.65,
-                    "askQty": 8000,
+                    "askPrice": 9.85,
+                    "askQty": 4000,
                     "bidQty": 4000,
-                    "bidprice": 9.2,
+                    "bidprice": 9.5,
                     "change": 0.40000000000000036,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023PE122.50",
-                    "impliedVolatility": 53.75,
+                    "impliedVolatility": 49.82,
                     "lastPrice": 8.8,
                     "openInterest": 13,
                     "pChange": 4.761904761904765,
@@ -3002,7 +3002,7 @@
                     "totalSellQuantity": 248000,
                     "totalTradedVolume": 1,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 122.5
@@ -3027,10 +3027,10 @@
                     "totalSellQuantity": 204000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
-                    "askPrice": 15.5,
+                    "askPrice": 19.25,
                     "askQty": 24000,
                     "bidQty": 24000,
                     "bidprice": 6.2,
@@ -3045,10 +3045,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 122.5,
                     "totalBuyQuantity": 24000,
-                    "totalSellQuantity": 24000,
+                    "totalSellQuantity": 224000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 122.5
@@ -3056,76 +3056,76 @@
             {
                 "CE": {
                     "askPrice": 0.95,
-                    "askQty": 20000,
-                    "bidQty": 4000,
-                    "bidprice": 0.9,
-                    "change": 0.29999999999999993,
-                    "changeinOpenInterest": 4,
+                    "askQty": 12000,
+                    "bidQty": 20000,
+                    "bidprice": 0.85,
+                    "change": 0.25,
+                    "changeinOpenInterest": 8,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023CE125.00",
-                    "impliedVolatility": 66.17,
-                    "lastPrice": 0.95,
-                    "openInterest": 532,
-                    "pChange": 46.15384615384614,
-                    "pchangeinOpenInterest": 0.7575757575757576,
+                    "impliedVolatility": 65.83,
+                    "lastPrice": 0.9,
+                    "openInterest": 536,
+                    "pChange": 38.46153846153846,
+                    "pchangeinOpenInterest": 1.5151515151515151,
                     "strikePrice": 125,
-                    "totalBuyQuantity": 1112000,
-                    "totalSellQuantity": 848000,
-                    "totalTradedVolume": 156,
+                    "totalBuyQuantity": 1100000,
+                    "totalSellQuantity": 844000,
+                    "totalTradedVolume": 158,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
-                    "askPrice": 11.8,
+                    "askPrice": 11.9,
                     "askQty": 4000,
-                    "bidQty": 8000,
-                    "bidprice": 11.45,
+                    "bidQty": 12000,
+                    "bidprice": 11.55,
                     "change": -1.3000000000000007,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023PE125.00",
-                    "impliedVolatility": 0,
+                    "impliedVolatility": 64.34,
                     "lastPrice": 11.5,
                     "openInterest": 40,
                     "pChange": -10.156250000000005,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 125,
-                    "totalBuyQuantity": 256000,
+                    "totalBuyQuantity": 252000,
                     "totalSellQuantity": 256000,
                     "totalTradedVolume": 1,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 125
             },
             {
                 "CE": {
-                    "askPrice": 4.4,
+                    "askPrice": 4.15,
                     "askQty": 4000,
                     "bidQty": 4000,
-                    "bidprice": 4.05,
+                    "bidprice": 4,
                     "change": 1.0500000000000003,
                     "changeinOpenInterest": 4,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKIBULHSGFIN29-06-2023CE125.00",
-                    "impliedVolatility": 51.7,
+                    "impliedVolatility": 50.12,
                     "lastPrice": 4.2,
                     "openInterest": 56,
                     "pChange": 33.33333333333334,
                     "pchangeinOpenInterest": 7.6923076923076925,
                     "strikePrice": 125,
-                    "totalBuyQuantity": 312000,
-                    "totalSellQuantity": 472000,
+                    "totalBuyQuantity": 308000,
+                    "totalSellQuantity": 276000,
                     "totalTradedVolume": 16,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
-                    "askPrice": 18.7,
+                    "askPrice": 14.8,
                     "askQty": 24000,
                     "bidQty": 24000,
-                    "bidprice": 10.8,
+                    "bidprice": 13,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3136,11 +3136,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 125,
-                    "totalBuyQuantity": 152000,
-                    "totalSellQuantity": 228000,
+                    "totalBuyQuantity": 148000,
+                    "totalSellQuantity": 24000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 125
@@ -3165,13 +3165,13 @@
                     "totalSellQuantity": 556000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
-                    "askPrice": 14.6,
+                    "askPrice": 14.75,
                     "askQty": 4000,
-                    "bidQty": 16000,
-                    "bidprice": 13.2,
+                    "bidQty": 4000,
+                    "bidprice": 13.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3182,18 +3182,18 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 127.5,
-                    "totalBuyQuantity": 256000,
-                    "totalSellQuantity": 240000,
+                    "totalBuyQuantity": 268000,
+                    "totalSellQuantity": 244000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 127.5
             },
             {
                 "CE": {
-                    "askPrice": 3.9,
+                    "askPrice": 3.75,
                     "askQty": 4000,
                     "bidQty": 4000,
                     "bidprice": 3.2,
@@ -3211,11 +3211,11 @@
                     "totalSellQuantity": 208000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
-                    "askPrice": 18.8,
-                    "askQty": 28000,
+                    "askPrice": 24.3,
+                    "askQty": 12000,
                     "bidQty": 24000,
                     "bidprice": 10.75,
                     "change": 0,
@@ -3228,11 +3228,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 127.5,
-                    "totalBuyQuantity": 120000,
-                    "totalSellQuantity": 28000,
+                    "totalBuyQuantity": 116000,
+                    "totalSellQuantity": 224000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 127.5
@@ -3243,27 +3243,27 @@
                     "askQty": 16000,
                     "bidQty": 36000,
                     "bidprice": 0.5,
-                    "change": 0.10000000000000003,
+                    "change": 0.04999999999999999,
                     "changeinOpenInterest": -34,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023CE130.00",
-                    "impliedVolatility": 70.58,
-                    "lastPrice": 0.55,
+                    "impliedVolatility": 71.31,
+                    "lastPrice": 0.5,
                     "openInterest": 542,
-                    "pChange": 22.22222222222223,
+                    "pChange": 11.111111111111107,
                     "pchangeinOpenInterest": -5.902777777777778,
                     "strikePrice": 130,
-                    "totalBuyQuantity": 876000,
-                    "totalSellQuantity": 792000,
-                    "totalTradedVolume": 77,
+                    "totalBuyQuantity": 884000,
+                    "totalSellQuantity": 796000,
+                    "totalTradedVolume": 79,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
-                    "askPrice": 16.3,
+                    "askPrice": 16.55,
                     "askQty": 4000,
-                    "bidQty": 4000,
-                    "bidprice": 16,
+                    "bidQty": 8000,
+                    "bidprice": 16.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3278,38 +3278,38 @@
                     "totalSellQuantity": 244000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 130
             },
             {
                 "CE": {
-                    "askPrice": 3.15,
-                    "askQty": 8000,
+                    "askPrice": 2.95,
+                    "askQty": 4000,
                     "bidQty": 4000,
                     "bidprice": 2.85,
-                    "change": 0.5499999999999998,
+                    "change": 0.5,
                     "changeinOpenInterest": 11,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKIBULHSGFIN29-06-2023CE130.00",
-                    "impliedVolatility": 50.85,
-                    "lastPrice": 3,
+                    "impliedVolatility": 50.5,
+                    "lastPrice": 2.95,
                     "openInterest": 51,
-                    "pChange": 22.448979591836725,
+                    "pChange": 20.40816326530612,
                     "pchangeinOpenInterest": 27.5,
                     "strikePrice": 130,
-                    "totalBuyQuantity": 704000,
-                    "totalSellQuantity": 604000,
-                    "totalTradedVolume": 31,
+                    "totalBuyQuantity": 716000,
+                    "totalSellQuantity": 452000,
+                    "totalTradedVolume": 32,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
-                    "askPrice": 18.95,
-                    "askQty": 24000,
+                    "askPrice": 18,
+                    "askQty": 4000,
                     "bidQty": 24000,
-                    "bidprice": 16.65,
+                    "bidprice": 16.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3321,10 +3321,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 130,
                     "totalBuyQuantity": 224000,
-                    "totalSellQuantity": 228000,
+                    "totalSellQuantity": 208000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 130
@@ -3332,30 +3332,30 @@
             {
                 "CE": {
                     "askPrice": 0.4,
-                    "askQty": 16000,
-                    "bidQty": 8000,
+                    "askQty": 20000,
+                    "bidQty": 4000,
                     "bidprice": 0.35,
                     "change": 0.10000000000000003,
                     "changeinOpenInterest": 4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIBULHSGFIN25-05-2023CE132.50",
-                    "impliedVolatility": 72.23,
+                    "impliedVolatility": 72.91,
                     "lastPrice": 0.4,
                     "openInterest": 322,
                     "pChange": 33.33333333333335,
                     "pchangeinOpenInterest": 1.2578616352201257,
                     "strikePrice": 132.5,
-                    "totalBuyQuantity": 212000,
+                    "totalBuyQuantity": 208000,
                     "totalSellQuantity": 868000,
                     "totalTradedVolume": 16,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "PE": {
-                    "askPrice": 18.75,
+                    "askPrice": 18.9,
                     "askQty": 4000,
                     "bidQty": 4000,
-                    "bidprice": 18.35,
+                    "bidprice": 18.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3367,10 +3367,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 132.5,
                     "totalBuyQuantity": 248000,
-                    "totalSellQuantity": 244000,
+                    "totalSellQuantity": 248000,
                     "totalTradedVolume": 0,
                     "underlying": "IBULHSGFIN",
-                    "underlyingValue": 114.15
+                    "underlyingValue": 113.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 132.5
@@ -3409,7 +3409,7 @@
             130,
             132.5
         ],
-        "timestamp": "18-May-2023 10:19:49",
-        "underlyingValue": 114.15
+        "timestamp": "18-May-2023 10:26:47",
+        "underlyingValue": 113.9
     }
 }

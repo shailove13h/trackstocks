@@ -2,11 +2,11 @@
     "filtered": {
         "CE": {
             "totOI": 4126,
-            "totVol": 1219
+            "totVol": 1235
         },
         "PE": {
-            "totOI": 1513,
-            "totVol": 684
+            "totOI": 1512,
+            "totVol": 688
         },
         "data": [
             {
@@ -29,7 +29,7 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 215
@@ -39,7 +39,7 @@
                     "askPrice": 74.8,
                     "askQty": 80000,
                     "bidQty": 6000,
-                    "bidprice": 62.55,
+                    "bidprice": 62.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -54,7 +54,7 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 220
@@ -79,7 +79,7 @@
                     "totalSellQuantity": 86000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
                     "askPrice": 2.2,
@@ -100,17 +100,17 @@
                     "totalSellQuantity": 6000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 225
             },
             {
                 "CE": {
-                    "askPrice": 77,
+                    "askPrice": 65.3,
                     "askQty": 6000,
                     "bidQty": 6000,
-                    "bidprice": 52.95,
+                    "bidprice": 53.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -125,14 +125,14 @@
                     "totalSellQuantity": 86000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 230
             },
             {
                 "CE": {
-                    "askPrice": 69.8,
+                    "askPrice": 60.5,
                     "askQty": 6000,
                     "bidQty": 6000,
                     "bidprice": 47.95,
@@ -150,7 +150,7 @@
                     "totalSellQuantity": 86000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
                     "askPrice": 3,
@@ -171,7 +171,7 @@
                     "totalSellQuantity": 4000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 235
@@ -196,7 +196,7 @@
                     "totalSellQuantity": 86000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
                     "askPrice": 1,
@@ -217,7 +217,7 @@
                     "totalSellQuantity": 12000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 240
@@ -242,7 +242,7 @@
                     "totalSellQuantity": 98000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
                     "askPrice": 3,
@@ -263,17 +263,17 @@
                     "totalSellQuantity": 4000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 245
             },
             {
                 "CE": {
-                    "askPrice": 38.95,
+                    "askPrice": 38.9,
                     "askQty": 6000,
-                    "bidQty": 10000,
-                    "bidprice": 35.6,
+                    "bidQty": 8000,
+                    "bidprice": 36.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -284,11 +284,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 250,
-                    "totalBuyQuantity": 108000,
-                    "totalSellQuantity": 98000,
+                    "totalBuyQuantity": 106000,
+                    "totalSellQuantity": 104000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
                     "askPrice": 0.3,
@@ -299,7 +299,7 @@
                     "changeinOpenInterest": 10,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023PE250.00",
-                    "impliedVolatility": 55.4,
+                    "impliedVolatility": 56.98,
                     "lastPrice": 0.3,
                     "openInterest": 76,
                     "pChange": 19.999999999999996,
@@ -309,7 +309,7 @@
                     "totalSellQuantity": 262000,
                     "totalTradedVolume": 37,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 250
@@ -318,8 +318,8 @@
                 "CE": {
                     "askPrice": 34.15,
                     "askQty": 6000,
-                    "bidQty": 2000,
-                    "bidprice": 31.55,
+                    "bidQty": 6000,
+                    "bidprice": 31.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -330,11 +330,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 255,
-                    "totalBuyQuantity": 106000,
+                    "totalBuyQuantity": 108000,
                     "totalSellQuantity": 104000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
                     "askPrice": 0.4,
@@ -345,27 +345,27 @@
                     "changeinOpenInterest": 5,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023PE255.00",
-                    "impliedVolatility": 50.17,
+                    "impliedVolatility": 51.82,
                     "lastPrice": 0.35,
                     "openInterest": 52,
                     "pChange": -30.000000000000004,
                     "pchangeinOpenInterest": 10.638297872340425,
                     "strikePrice": 255,
                     "totalBuyQuantity": 336000,
-                    "totalSellQuantity": 256000,
+                    "totalSellQuantity": 268000,
                     "totalTradedVolume": 14,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 255
             },
             {
                 "CE": {
-                    "askPrice": 29.2,
+                    "askPrice": 29.1,
                     "askQty": 2000,
-                    "bidQty": 6000,
-                    "bidprice": 26.7,
+                    "bidQty": 2000,
+                    "bidprice": 26.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -376,42 +376,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 260,
-                    "totalBuyQuantity": 106000,
+                    "totalBuyQuantity": 100000,
                     "totalSellQuantity": 100000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
-                    "askPrice": 0.65,
-                    "askQty": 4000,
+                    "askPrice": 0.6,
+                    "askQty": 2000,
                     "bidQty": 4000,
                     "bidprice": 0.55,
                     "change": -0.20000000000000007,
-                    "changeinOpenInterest": 3,
+                    "changeinOpenInterest": 4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023PE260.00",
-                    "impliedVolatility": 48.76,
+                    "impliedVolatility": 50.58,
                     "lastPrice": 0.6,
-                    "openInterest": 76,
+                    "openInterest": 77,
                     "pChange": -25.000000000000007,
-                    "pchangeinOpenInterest": 4.109589041095891,
+                    "pchangeinOpenInterest": 5.47945205479452,
                     "strikePrice": 260,
-                    "totalBuyQuantity": 494000,
-                    "totalSellQuantity": 320000,
+                    "totalBuyQuantity": 496000,
+                    "totalSellQuantity": 336000,
                     "totalTradedVolume": 24,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 260
             },
             {
                 "CE": {
-                    "askPrice": 24.55,
-                    "askQty": 2000,
+                    "askPrice": 24.4,
+                    "askQty": 6000,
                     "bidQty": 2000,
-                    "bidprice": 21.8,
+                    "bidprice": 22.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -422,22 +422,22 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 265,
-                    "totalBuyQuantity": 100000,
-                    "totalSellQuantity": 100000,
+                    "totalBuyQuantity": 108000,
+                    "totalSellQuantity": 114000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
                     "askPrice": 0.9,
-                    "askQty": 2000,
-                    "bidQty": 4000,
+                    "askQty": 4000,
+                    "bidQty": 6000,
                     "bidprice": 0.8,
                     "change": -0.20000000000000007,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023PE265.00",
-                    "impliedVolatility": 45.95,
+                    "impliedVolatility": 47.96,
                     "lastPrice": 0.9,
                     "openInterest": 57,
                     "pChange": -18.181818181818183,
@@ -447,17 +447,17 @@
                     "totalSellQuantity": 208000,
                     "totalTradedVolume": 4,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 265
             },
             {
                 "CE": {
-                    "askPrice": 20.05,
+                    "askPrice": 19.95,
                     "askQty": 2000,
                     "bidQty": 2000,
-                    "bidprice": 16.95,
+                    "bidprice": 17.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -468,32 +468,32 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 270,
-                    "totalBuyQuantity": 104000,
-                    "totalSellQuantity": 102000,
+                    "totalBuyQuantity": 112000,
+                    "totalSellQuantity": 110000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
                     "askPrice": 1.3,
-                    "askQty": 2000,
+                    "askQty": 4000,
                     "bidQty": 8000,
                     "bidprice": 1.2,
                     "change": -0.3999999999999999,
                     "changeinOpenInterest": -6,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023PE270.00",
-                    "impliedVolatility": 43.09,
+                    "impliedVolatility": 45.88,
                     "lastPrice": 1.3,
                     "openInterest": 208,
                     "pChange": -23.529411764705877,
                     "pchangeinOpenInterest": -2.803738317757009,
                     "strikePrice": 270,
                     "totalBuyQuantity": 500000,
-                    "totalSellQuantity": 386000,
+                    "totalSellQuantity": 390000,
                     "totalTradedVolume": 141,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 270
@@ -503,7 +503,7 @@
                     "askPrice": 14.75,
                     "askQty": 2000,
                     "bidQty": 2000,
-                    "bidprice": 12.75,
+                    "bidprice": 12.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -518,43 +518,43 @@
                     "totalSellQuantity": 22000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
-                    "askPrice": 2,
-                    "askQty": 4000,
-                    "bidQty": 4000,
-                    "bidprice": 1.85,
-                    "change": -0.30000000000000027,
-                    "changeinOpenInterest": -7,
+                    "askPrice": 1.9,
+                    "askQty": 2000,
+                    "bidQty": 6000,
+                    "bidprice": 1.8,
+                    "change": -0.5500000000000003,
+                    "changeinOpenInterest": -9,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023PE275.00",
-                    "impliedVolatility": 40.37,
-                    "lastPrice": 2.15,
-                    "openInterest": 59,
-                    "pChange": -12.244897959183684,
-                    "pchangeinOpenInterest": -10.606060606060606,
+                    "impliedVolatility": 43.82,
+                    "lastPrice": 1.9,
+                    "openInterest": 57,
+                    "pChange": -22.448979591836743,
+                    "pchangeinOpenInterest": -13.636363636363637,
                     "strikePrice": 275,
-                    "totalBuyQuantity": 452000,
-                    "totalSellQuantity": 408000,
-                    "totalTradedVolume": 33,
+                    "totalBuyQuantity": 456000,
+                    "totalSellQuantity": 412000,
+                    "totalTradedVolume": 34,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 275
             },
             {
                 "CE": {
-                    "askPrice": 10.8,
+                    "askPrice": 10.65,
                     "askQty": 2000,
                     "bidQty": 6000,
-                    "bidprice": 10.35,
+                    "bidprice": 10.15,
                     "change": -0.5,
                     "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023CE280.00",
-                    "impliedVolatility": 34.5,
+                    "impliedVolatility": 29.73,
                     "lastPrice": 9.85,
                     "openInterest": 48,
                     "pChange": -4.830917874396135,
@@ -564,166 +564,166 @@
                     "totalSellQuantity": 210000,
                     "totalTradedVolume": 30,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
                     "askPrice": 3,
-                    "askQty": 2000,
-                    "bidQty": 2000,
+                    "askQty": 4000,
+                    "bidQty": 4000,
                     "bidprice": 2.85,
                     "change": -0.6000000000000001,
                     "changeinOpenInterest": 21,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023PE280.00",
-                    "impliedVolatility": 39.06,
+                    "impliedVolatility": 40.7,
                     "lastPrice": 3.1,
                     "openInterest": 257,
                     "pChange": -16.216216216216218,
                     "pchangeinOpenInterest": 8.898305084745763,
                     "strikePrice": 280,
-                    "totalBuyQuantity": 458000,
+                    "totalBuyQuantity": 456000,
                     "totalSellQuantity": 404000,
                     "totalTradedVolume": 215,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 280
             },
             {
                 "CE": {
-                    "askPrice": 7.4,
-                    "askQty": 2000,
-                    "bidQty": 4000,
-                    "bidprice": 7,
+                    "askPrice": 7.35,
+                    "askQty": 6000,
+                    "bidQty": 6000,
+                    "bidprice": 6.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023CE285.00",
-                    "impliedVolatility": 35.88,
+                    "impliedVolatility": 29.61,
                     "lastPrice": 7.2,
                     "openInterest": 22,
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 285,
-                    "totalBuyQuantity": 160000,
-                    "totalSellQuantity": 218000,
-                    "totalTradedVolume": 27,
+                    "totalBuyQuantity": 154000,
+                    "totalSellQuantity": 222000,
+                    "totalTradedVolume": 29,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
-                    "askPrice": 4.95,
-                    "askQty": 4000,
+                    "askPrice": 4.7,
+                    "askQty": 2000,
                     "bidQty": 2000,
-                    "bidprice": 4.6,
-                    "change": -0.5499999999999998,
+                    "bidprice": 4.45,
+                    "change": -0.8499999999999996,
                     "changeinOpenInterest": -19,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023PE285.00",
-                    "impliedVolatility": 37.78,
-                    "lastPrice": 4.8,
+                    "impliedVolatility": 39.67,
+                    "lastPrice": 4.5,
                     "openInterest": 109,
-                    "pChange": -10.280373831775698,
+                    "pChange": -15.887850467289713,
                     "pchangeinOpenInterest": -14.84375,
                     "strikePrice": 285,
-                    "totalBuyQuantity": 376000,
-                    "totalSellQuantity": 306000,
-                    "totalTradedVolume": 75,
+                    "totalBuyQuantity": 378000,
+                    "totalSellQuantity": 304000,
+                    "totalTradedVolume": 78,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 285
             },
             {
                 "CE": {
-                    "askPrice": 4.9,
-                    "askQty": 12000,
+                    "askPrice": 4.85,
+                    "askQty": 6000,
                     "bidQty": 2000,
-                    "bidprice": 4.75,
+                    "bidprice": 4.7,
                     "change": 0,
                     "changeinOpenInterest": 51,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023CE290.00",
-                    "impliedVolatility": 34.91,
+                    "impliedVolatility": 34.51,
                     "lastPrice": 4.8,
                     "openInterest": 250,
                     "pChange": 0,
                     "pchangeinOpenInterest": 25.628140703517587,
                     "strikePrice": 290,
-                    "totalBuyQuantity": 470000,
-                    "totalSellQuantity": 434000,
-                    "totalTradedVolume": 282,
+                    "totalBuyQuantity": 466000,
+                    "totalSellQuantity": 432000,
+                    "totalTradedVolume": 283,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
-                    "askPrice": 7.2,
-                    "askQty": 4000,
-                    "bidQty": 2000,
-                    "bidprice": 6.95,
+                    "askPrice": 7.15,
+                    "askQty": 2000,
+                    "bidQty": 4000,
+                    "bidprice": 6.85,
                     "change": -0.8000000000000007,
                     "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023PE290.00",
-                    "impliedVolatility": 34.63,
+                    "impliedVolatility": 39.6,
                     "lastPrice": 7.25,
                     "openInterest": 252,
                     "pChange": -9.937888198757772,
                     "pchangeinOpenInterest": 1.2048192771084338,
                     "strikePrice": 290,
                     "totalBuyQuantity": 232000,
-                    "totalSellQuantity": 262000,
+                    "totalSellQuantity": 260000,
                     "totalTradedVolume": 128,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 290
             },
             {
                 "CE": {
-                    "askPrice": 3.25,
+                    "askPrice": 3.2,
                     "askQty": 2000,
                     "bidQty": 2000,
-                    "bidprice": 3.15,
-                    "change": -0.04999999999999982,
-                    "changeinOpenInterest": 0,
+                    "bidprice": 3.1,
+                    "change": -0.09999999999999964,
+                    "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023CE295.00",
-                    "impliedVolatility": 37.95,
-                    "lastPrice": 3.25,
-                    "openInterest": 274,
-                    "pChange": -1.5151515151515098,
-                    "pchangeinOpenInterest": 0,
+                    "impliedVolatility": 35.88,
+                    "lastPrice": 3.2,
+                    "openInterest": 276,
+                    "pChange": -3.0303030303030196,
+                    "pchangeinOpenInterest": 0.7299270072992701,
                     "strikePrice": 295,
-                    "totalBuyQuantity": 458000,
-                    "totalSellQuantity": 456000,
-                    "totalTradedVolume": 155,
+                    "totalBuyQuantity": 456000,
+                    "totalSellQuantity": 454000,
+                    "totalTradedVolume": 158,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
-                    "askPrice": 10.75,
+                    "askPrice": 10.7,
                     "askQty": 2000,
-                    "bidQty": 2000,
+                    "bidQty": 4000,
                     "bidprice": 10.35,
                     "change": -0.09999999999999964,
                     "changeinOpenInterest": -4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023PE295.00",
-                    "impliedVolatility": 41.27,
+                    "impliedVolatility": 46.15,
                     "lastPrice": 11.3,
                     "openInterest": 71,
                     "pChange": -0.8771929824561372,
                     "pchangeinOpenInterest": -5.333333333333333,
                     "strikePrice": 295,
                     "totalBuyQuantity": 214000,
-                    "totalSellQuantity": 210000,
+                    "totalSellQuantity": 208000,
                     "totalTradedVolume": 7,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 295
@@ -732,44 +732,44 @@
                 "CE": {
                     "askPrice": 2.2,
                     "askQty": 2000,
-                    "bidQty": 2000,
+                    "bidQty": 4000,
                     "bidprice": 2.15,
                     "change": -0.09999999999999964,
-                    "changeinOpenInterest": 35,
+                    "changeinOpenInterest": 33,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023CE300.00",
-                    "impliedVolatility": 40.37,
+                    "impliedVolatility": 39.77,
                     "lastPrice": 2.2,
-                    "openInterest": 1070,
+                    "openInterest": 1068,
                     "pChange": -4.347826086956506,
-                    "pchangeinOpenInterest": 3.3816425120772946,
+                    "pchangeinOpenInterest": 3.1884057971014492,
                     "strikePrice": 300,
-                    "totalBuyQuantity": 466000,
-                    "totalSellQuantity": 768000,
-                    "totalTradedVolume": 386,
+                    "totalBuyQuantity": 476000,
+                    "totalSellQuantity": 774000,
+                    "totalTradedVolume": 390,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
-                    "askPrice": 14.8,
+                    "askPrice": 14.9,
                     "askQty": 2000,
-                    "bidQty": 2000,
-                    "bidprice": 14.15,
+                    "bidQty": 4000,
+                    "bidprice": 14.2,
                     "change": 0.20000000000000107,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023PE300.00",
-                    "impliedVolatility": 42.68,
+                    "impliedVolatility": 50.6,
                     "lastPrice": 15.4,
                     "openInterest": 191,
                     "pChange": 1.3157894736842175,
                     "pchangeinOpenInterest": -0.5208333333333334,
                     "strikePrice": 300,
-                    "totalBuyQuantity": 198000,
-                    "totalSellQuantity": 190000,
+                    "totalBuyQuantity": 200000,
+                    "totalSellQuantity": 194000,
                     "totalTradedVolume": 3,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 300
@@ -777,45 +777,45 @@
             {
                 "CE": {
                     "askPrice": 1.55,
-                    "askQty": 4000,
-                    "bidQty": 2000,
-                    "bidprice": 1.45,
+                    "askQty": 6000,
+                    "bidQty": 6000,
+                    "bidprice": 1.4,
                     "change": -0.10000000000000009,
-                    "changeinOpenInterest": 4,
+                    "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023CE305.00",
-                    "impliedVolatility": 43.79,
+                    "impliedVolatility": 40.94,
                     "lastPrice": 1.45,
-                    "openInterest": 323,
+                    "openInterest": 322,
                     "pChange": -6.451612903225811,
-                    "pchangeinOpenInterest": 1.2539184952978057,
+                    "pchangeinOpenInterest": 0.9404388714733543,
                     "strikePrice": 305,
-                    "totalBuyQuantity": 418000,
-                    "totalSellQuantity": 438000,
-                    "totalTradedVolume": 120,
+                    "totalBuyQuantity": 416000,
+                    "totalSellQuantity": 440000,
+                    "totalTradedVolume": 123,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
-                    "askPrice": 19.1,
+                    "askPrice": 18.9,
                     "askQty": 2000,
-                    "bidQty": 2000,
+                    "bidQty": 12000,
                     "bidprice": 17.95,
                     "change": 4.550000000000001,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023PE305.00",
-                    "impliedVolatility": 46.13,
+                    "impliedVolatility": 55.78,
                     "lastPrice": 19.85,
                     "openInterest": 23,
                     "pChange": 29.738562091503272,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 305,
-                    "totalBuyQuantity": 106000,
-                    "totalSellQuantity": 114000,
+                    "totalBuyQuantity": 126000,
+                    "totalSellQuantity": 112000,
                     "totalTradedVolume": 1,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 305
@@ -823,27 +823,27 @@
             {
                 "CE": {
                     "askPrice": 1.1,
-                    "askQty": 4000,
-                    "bidQty": 6000,
-                    "bidprice": 1.05,
-                    "change": -0.1499999999999999,
-                    "changeinOpenInterest": 7,
+                    "askQty": 6000,
+                    "bidQty": 12000,
+                    "bidprice": 1,
+                    "change": -0.09999999999999987,
+                    "changeinOpenInterest": 8,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023CE310.00",
-                    "impliedVolatility": 46.41,
-                    "lastPrice": 1,
-                    "openInterest": 548,
-                    "pChange": -13.04347826086956,
-                    "pchangeinOpenInterest": 1.2939001848428835,
+                    "impliedVolatility": 43.67,
+                    "lastPrice": 1.05,
+                    "openInterest": 549,
+                    "pChange": -8.695652173913032,
+                    "pchangeinOpenInterest": 1.478743068391867,
                     "strikePrice": 310,
-                    "totalBuyQuantity": 642000,
-                    "totalSellQuantity": 406000,
-                    "totalTradedVolume": 98,
+                    "totalBuyQuantity": 646000,
+                    "totalSellQuantity": 418000,
+                    "totalTradedVolume": 101,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
-                    "askPrice": 23.75,
+                    "askPrice": 23.95,
                     "askQty": 2000,
                     "bidQty": 2000,
                     "bidprice": 23.15,
@@ -851,63 +851,63 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023PE310.00",
-                    "impliedVolatility": 50.51,
+                    "impliedVolatility": 61.78,
                     "lastPrice": 24.55,
                     "openInterest": 28,
                     "pChange": 35.635359116022094,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 310,
-                    "totalBuyQuantity": 104000,
-                    "totalSellQuantity": 100000,
+                    "totalBuyQuantity": 110000,
+                    "totalSellQuantity": 110000,
                     "totalTradedVolume": 1,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 310
             },
             {
                 "CE": {
-                    "askPrice": 0.85,
-                    "askQty": 2000,
-                    "bidQty": 12000,
+                    "askPrice": 0.8,
+                    "askQty": 4000,
+                    "bidQty": 4000,
                     "bidprice": 0.75,
                     "change": -0.09999999999999998,
                     "changeinOpenInterest": 7,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023CE315.00",
-                    "impliedVolatility": 48.59,
+                    "impliedVolatility": 46.65,
                     "lastPrice": 0.75,
                     "openInterest": 167,
                     "pChange": -11.764705882352938,
                     "pchangeinOpenInterest": 4.375,
                     "strikePrice": 315,
-                    "totalBuyQuantity": 544000,
-                    "totalSellQuantity": 332000,
+                    "totalBuyQuantity": 538000,
+                    "totalSellQuantity": 336000,
                     "totalTradedVolume": 32,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
-                    "askPrice": 28.8,
-                    "askQty": 4000,
+                    "askPrice": 28.6,
+                    "askQty": 2000,
                     "bidQty": 2000,
-                    "bidprice": 27.6,
+                    "bidprice": 27.35,
                     "change": 5.75,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023PE315.00",
-                    "impliedVolatility": 53.72,
+                    "impliedVolatility": 66.9,
                     "lastPrice": 29.25,
                     "openInterest": 19,
                     "pChange": 24.46808510638298,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 315,
-                    "totalBuyQuantity": 102000,
-                    "totalSellQuantity": 102000,
+                    "totalBuyQuantity": 112000,
+                    "totalSellQuantity": 110000,
                     "totalTradedVolume": 1,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 315
@@ -916,29 +916,29 @@
                 "CE": {
                     "askPrice": 0.65,
                     "askQty": 8000,
-                    "bidQty": 6000,
-                    "bidprice": 0.6,
+                    "bidQty": 14000,
+                    "bidprice": 0.55,
                     "change": -0.04999999999999993,
                     "changeinOpenInterest": -17,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023CE320.00",
-                    "impliedVolatility": 51.85,
+                    "impliedVolatility": 50.94,
                     "lastPrice": 0.65,
                     "openInterest": 757,
                     "pChange": -7.142857142857134,
                     "pchangeinOpenInterest": -2.1963824289405687,
                     "strikePrice": 320,
-                    "totalBuyQuantity": 894000,
-                    "totalSellQuantity": 458000,
+                    "totalBuyQuantity": 896000,
+                    "totalSellQuantity": 454000,
                     "totalTradedVolume": 53,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
-                    "askPrice": 33.85,
+                    "askPrice": 34.6,
                     "askQty": 2000,
-                    "bidQty": 2000,
-                    "bidprice": 32.5,
+                    "bidQty": 4000,
+                    "bidprice": 32.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -950,10 +950,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 320,
                     "totalBuyQuantity": 104000,
-                    "totalSellQuantity": 102000,
+                    "totalSellQuantity": 104000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 320
@@ -962,27 +962,27 @@
                 "CE": {
                     "askPrice": 0.5,
                     "askQty": 2000,
-                    "bidQty": 8000,
-                    "bidprice": 0.4,
+                    "bidQty": 6000,
+                    "bidprice": 0.45,
                     "change": -0.10000000000000003,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023CE325.00",
-                    "impliedVolatility": 54.1,
+                    "impliedVolatility": 52.38,
                     "lastPrice": 0.45,
                     "openInterest": 96,
                     "pChange": -18.181818181818183,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 325,
-                    "totalBuyQuantity": 440000,
+                    "totalBuyQuantity": 442000,
                     "totalSellQuantity": 296000,
                     "totalTradedVolume": 8,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
-                    "askPrice": 38.5,
-                    "askQty": 4000,
+                    "askPrice": 39.2,
+                    "askQty": 2000,
                     "bidQty": 2000,
                     "bidprice": 37.45,
                     "change": 0,
@@ -996,10 +996,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 325,
                     "totalBuyQuantity": 104000,
-                    "totalSellQuantity": 104000,
+                    "totalSellQuantity": 108000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 325
@@ -1014,7 +1014,7 @@
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023CE330.00",
-                    "impliedVolatility": 56.54,
+                    "impliedVolatility": 54.9,
                     "lastPrice": 0.35,
                     "openInterest": 209,
                     "pChange": -12.50000000000001,
@@ -1024,13 +1024,13 @@
                     "totalSellQuantity": 344000,
                     "totalTradedVolume": 21,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
-                    "askPrice": 43.65,
-                    "askQty": 8000,
-                    "bidQty": 2000,
-                    "bidprice": 41.5,
+                    "askPrice": 43.95,
+                    "askQty": 6000,
+                    "bidQty": 4000,
+                    "bidprice": 41.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1041,11 +1041,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 330,
-                    "totalBuyQuantity": 100000,
-                    "totalSellQuantity": 106000,
+                    "totalBuyQuantity": 110000,
+                    "totalSellQuantity": 112000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 330
@@ -1070,13 +1070,13 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
-                    "askPrice": 48.75,
+                    "askPrice": 48.8,
                     "askQty": 10000,
                     "bidQty": 6000,
-                    "bidprice": 46.45,
+                    "bidprice": 46.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1087,11 +1087,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 335,
-                    "totalBuyQuantity": 104000,
+                    "totalBuyQuantity": 112000,
                     "totalSellQuantity": 108000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 335
@@ -1099,30 +1099,30 @@
             {
                 "CE": {
                     "askPrice": 0.25,
-                    "askQty": 6000,
+                    "askQty": 8000,
                     "bidQty": 4000,
                     "bidprice": 0.2,
                     "change": -0.09999999999999998,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023CE340.00",
-                    "impliedVolatility": 60.32,
+                    "impliedVolatility": 58.83,
                     "lastPrice": 0.2,
                     "openInterest": 128,
                     "pChange": -33.33333333333333,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 340,
                     "totalBuyQuantity": 278000,
-                    "totalSellQuantity": 210000,
+                    "totalSellQuantity": 200000,
                     "totalTradedVolume": 4,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
-                    "askPrice": 54.7,
-                    "askQty": 10000,
+                    "askPrice": 53.5,
+                    "askQty": 12000,
                     "bidQty": 6000,
-                    "bidprice": 50.5,
+                    "bidprice": 51.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1134,19 +1134,19 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 340,
                     "totalBuyQuantity": 106000,
-                    "totalSellQuantity": 110000,
+                    "totalSellQuantity": 104000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 340
             },
             {
                 "CE": {
-                    "askPrice": 1.7,
-                    "askQty": 80000,
-                    "bidQty": 2000,
+                    "askPrice": 0.45,
+                    "askQty": 2000,
+                    "bidQty": 4000,
                     "bidprice": 0.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -1158,14 +1158,14 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 345,
-                    "totalBuyQuantity": 66000,
-                    "totalSellQuantity": 80000,
+                    "totalBuyQuantity": 68000,
+                    "totalSellQuantity": 82000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
-                    "askPrice": 61.35,
+                    "askPrice": 60.75,
                     "askQty": 6000,
                     "bidQty": 6000,
                     "bidprice": 55.2,
@@ -1183,7 +1183,7 @@
                     "totalSellQuantity": 98000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 345
@@ -1198,7 +1198,7 @@
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023CE350.00",
-                    "impliedVolatility": 66.01,
+                    "impliedVolatility": 64.59,
                     "lastPrice": 0.15,
                     "openInterest": 130,
                     "pChange": -25.000000000000007,
@@ -1208,13 +1208,13 @@
                     "totalSellQuantity": 106000,
                     "totalTradedVolume": 3,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
-                    "askPrice": 65.1,
-                    "askQty": 2000,
+                    "askPrice": 64,
+                    "askQty": 14000,
                     "bidQty": 2000,
-                    "bidprice": 60.65,
+                    "bidprice": 60.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1225,11 +1225,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 350,
-                    "totalBuyQuantity": 100000,
-                    "totalSellQuantity": 102000,
+                    "totalBuyQuantity": 102000,
+                    "totalSellQuantity": 106000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 350
@@ -1258,7 +1258,7 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 215
@@ -1268,7 +1268,7 @@
                     "askPrice": 74.8,
                     "askQty": 80000,
                     "bidQty": 6000,
-                    "bidprice": 62.55,
+                    "bidprice": 62.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1283,7 +1283,7 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 220
@@ -1308,7 +1308,7 @@
                     "totalSellQuantity": 86000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
                     "askPrice": 2.2,
@@ -1329,17 +1329,17 @@
                     "totalSellQuantity": 6000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 225
             },
             {
                 "CE": {
-                    "askPrice": 77,
+                    "askPrice": 65.3,
                     "askQty": 6000,
                     "bidQty": 6000,
-                    "bidprice": 52.95,
+                    "bidprice": 53.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1354,7 +1354,7 @@
                     "totalSellQuantity": 86000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 230
@@ -1379,14 +1379,14 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 230
             },
             {
                 "CE": {
-                    "askPrice": 69.8,
+                    "askPrice": 60.5,
                     "askQty": 6000,
                     "bidQty": 6000,
                     "bidprice": 47.95,
@@ -1404,7 +1404,7 @@
                     "totalSellQuantity": 86000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
                     "askPrice": 3,
@@ -1425,7 +1425,7 @@
                     "totalSellQuantity": 4000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 235
@@ -1450,13 +1450,13 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
-                    "bidQty": 0,
-                    "bidprice": 0,
+                    "bidQty": 2000,
+                    "bidprice": 0.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -1467,11 +1467,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 235,
-                    "totalBuyQuantity": 0,
+                    "totalBuyQuantity": 2000,
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 235
@@ -1496,7 +1496,7 @@
                     "totalSellQuantity": 86000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
                     "askPrice": 1,
@@ -1517,14 +1517,14 @@
                     "totalSellQuantity": 12000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 240
             },
             {
                 "CE": {
-                    "askPrice": 57.7,
+                    "askPrice": 56.7,
                     "askQty": 6000,
                     "bidQty": 6000,
                     "bidprice": 44.95,
@@ -1542,7 +1542,28 @@
                     "totalSellQuantity": 86000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
+                },
+                "PE": {
+                    "askPrice": 2,
+                    "askQty": 2000,
+                    "bidQty": 2000,
+                    "bidprice": 0.1,
+                    "change": 0,
+                    "changeinOpenInterest": 0,
+                    "expiryDate": "29-Jun-2023",
+                    "identifier": "OPTSTKGRANULES29-06-2023PE240.00",
+                    "impliedVolatility": 0,
+                    "lastPrice": 0,
+                    "openInterest": 0,
+                    "pChange": 0,
+                    "pchangeinOpenInterest": 0,
+                    "strikePrice": 240,
+                    "totalBuyQuantity": 2000,
+                    "totalSellQuantity": 4000,
+                    "totalTradedVolume": 0,
+                    "underlying": "GRANULES",
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 240
@@ -1567,7 +1588,7 @@
                     "totalSellQuantity": 98000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
                     "askPrice": 3,
@@ -1588,7 +1609,7 @@
                     "totalSellQuantity": 4000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 245
@@ -1613,7 +1634,7 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1634,17 +1655,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 245
             },
             {
                 "CE": {
-                    "askPrice": 38.95,
+                    "askPrice": 38.9,
                     "askQty": 6000,
-                    "bidQty": 10000,
-                    "bidprice": 35.6,
+                    "bidQty": 8000,
+                    "bidprice": 36.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1655,11 +1676,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 250,
-                    "totalBuyQuantity": 108000,
-                    "totalSellQuantity": 98000,
+                    "totalBuyQuantity": 106000,
+                    "totalSellQuantity": 104000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
                     "askPrice": 0.3,
@@ -1670,7 +1691,7 @@
                     "changeinOpenInterest": 10,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023PE250.00",
-                    "impliedVolatility": 55.4,
+                    "impliedVolatility": 56.98,
                     "lastPrice": 0.3,
                     "openInterest": 76,
                     "pChange": 19.999999999999996,
@@ -1680,14 +1701,14 @@
                     "totalSellQuantity": 262000,
                     "totalTradedVolume": 37,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 250
             },
             {
                 "CE": {
-                    "askPrice": 44.05,
+                    "askPrice": 45.05,
                     "askQty": 6000,
                     "bidQty": 8000,
                     "bidprice": 35.1,
@@ -1705,28 +1726,28 @@
                     "totalSellQuantity": 88000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
                     "askPrice": 1.95,
                     "askQty": 2000,
                     "bidQty": 2000,
-                    "bidprice": 1.3,
+                    "bidprice": 1.4,
                     "change": -0.5,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKGRANULES29-06-2023PE250.00",
-                    "impliedVolatility": 33.53,
+                    "impliedVolatility": 34.32,
                     "lastPrice": 1.4,
                     "openInterest": 8,
                     "pChange": -26.31578947368421,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 250,
-                    "totalBuyQuantity": 116000,
+                    "totalBuyQuantity": 118000,
                     "totalSellQuantity": 26000,
                     "totalTradedVolume": 2,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 250
@@ -1735,8 +1756,8 @@
                 "CE": {
                     "askPrice": 34.15,
                     "askQty": 6000,
-                    "bidQty": 2000,
-                    "bidprice": 31.55,
+                    "bidQty": 6000,
+                    "bidprice": 31.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1747,11 +1768,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 255,
-                    "totalBuyQuantity": 106000,
+                    "totalBuyQuantity": 108000,
                     "totalSellQuantity": 104000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
                     "askPrice": 0.4,
@@ -1762,17 +1783,17 @@
                     "changeinOpenInterest": 5,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023PE255.00",
-                    "impliedVolatility": 50.17,
+                    "impliedVolatility": 51.82,
                     "lastPrice": 0.35,
                     "openInterest": 52,
                     "pChange": -30.000000000000004,
                     "pchangeinOpenInterest": 10.638297872340425,
                     "strikePrice": 255,
                     "totalBuyQuantity": 336000,
-                    "totalSellQuantity": 256000,
+                    "totalSellQuantity": 268000,
                     "totalTradedVolume": 14,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 255
@@ -1782,7 +1803,7 @@
                     "askPrice": 42.8,
                     "askQty": 80000,
                     "bidQty": 6000,
-                    "bidprice": 29.9,
+                    "bidprice": 30,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -1797,17 +1818,38 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
+                },
+                "PE": {
+                    "askPrice": 0,
+                    "askQty": 0,
+                    "bidQty": 2000,
+                    "bidprice": 0.1,
+                    "change": 0,
+                    "changeinOpenInterest": 0,
+                    "expiryDate": "29-Jun-2023",
+                    "identifier": "OPTSTKGRANULES29-06-2023PE255.00",
+                    "impliedVolatility": 0,
+                    "lastPrice": 0,
+                    "openInterest": 0,
+                    "pChange": 0,
+                    "pchangeinOpenInterest": 0,
+                    "strikePrice": 255,
+                    "totalBuyQuantity": 4000,
+                    "totalSellQuantity": 0,
+                    "totalTradedVolume": 0,
+                    "underlying": "GRANULES",
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 255
             },
             {
                 "CE": {
-                    "askPrice": 29.2,
+                    "askPrice": 29.1,
                     "askQty": 2000,
-                    "bidQty": 6000,
-                    "bidprice": 26.7,
+                    "bidQty": 2000,
+                    "bidprice": 26.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1818,42 +1860,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 260,
-                    "totalBuyQuantity": 106000,
+                    "totalBuyQuantity": 100000,
                     "totalSellQuantity": 100000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
-                    "askPrice": 0.65,
-                    "askQty": 4000,
+                    "askPrice": 0.6,
+                    "askQty": 2000,
                     "bidQty": 4000,
                     "bidprice": 0.55,
                     "change": -0.20000000000000007,
-                    "changeinOpenInterest": 3,
+                    "changeinOpenInterest": 4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023PE260.00",
-                    "impliedVolatility": 48.76,
+                    "impliedVolatility": 50.58,
                     "lastPrice": 0.6,
-                    "openInterest": 76,
+                    "openInterest": 77,
                     "pChange": -25.000000000000007,
-                    "pchangeinOpenInterest": 4.109589041095891,
+                    "pchangeinOpenInterest": 5.47945205479452,
                     "strikePrice": 260,
-                    "totalBuyQuantity": 494000,
-                    "totalSellQuantity": 320000,
+                    "totalBuyQuantity": 496000,
+                    "totalSellQuantity": 336000,
                     "totalTradedVolume": 24,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 260
             },
             {
                 "CE": {
-                    "askPrice": 38.25,
+                    "askPrice": 35.4,
                     "askQty": 6000,
-                    "bidQty": 6000,
-                    "bidprice": 28.35,
+                    "bidQty": 2000,
+                    "bidprice": 28.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -1864,11 +1906,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 260,
-                    "totalBuyQuantity": 92000,
+                    "totalBuyQuantity": 86000,
                     "totalSellQuantity": 88000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
                     "askPrice": 3.9,
@@ -1879,7 +1921,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKGRANULES29-06-2023PE260.00",
-                    "impliedVolatility": 32.93,
+                    "impliedVolatility": 33.86,
                     "lastPrice": 2.7,
                     "openInterest": 5,
                     "pChange": -8.47457627118644,
@@ -1889,17 +1931,17 @@
                     "totalSellQuantity": 10000,
                     "totalTradedVolume": 2,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 260
             },
             {
                 "CE": {
-                    "askPrice": 24.55,
-                    "askQty": 2000,
+                    "askPrice": 24.4,
+                    "askQty": 6000,
                     "bidQty": 2000,
-                    "bidprice": 21.8,
+                    "bidprice": 22.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1910,22 +1952,22 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 265,
-                    "totalBuyQuantity": 100000,
-                    "totalSellQuantity": 100000,
+                    "totalBuyQuantity": 108000,
+                    "totalSellQuantity": 114000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
                     "askPrice": 0.9,
-                    "askQty": 2000,
-                    "bidQty": 4000,
+                    "askQty": 4000,
+                    "bidQty": 6000,
                     "bidprice": 0.8,
                     "change": -0.20000000000000007,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023PE265.00",
-                    "impliedVolatility": 45.95,
+                    "impliedVolatility": 47.96,
                     "lastPrice": 0.9,
                     "openInterest": 57,
                     "pChange": -18.181818181818183,
@@ -1935,7 +1977,7 @@
                     "totalSellQuantity": 208000,
                     "totalTradedVolume": 4,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 265
@@ -1960,17 +2002,17 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 265
             },
             {
                 "CE": {
-                    "askPrice": 30.8,
-                    "askQty": 80000,
-                    "bidQty": 66000,
-                    "bidprice": 14.1,
+                    "askPrice": 27.45,
+                    "askQty": 2000,
+                    "bidQty": 8000,
+                    "bidprice": 14.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -1981,11 +2023,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 270,
-                    "totalBuyQuantity": 66000,
-                    "totalSellQuantity": 80000,
+                    "totalBuyQuantity": 8000,
+                    "totalSellQuantity": 88000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
                     "askPrice": 4.65,
@@ -1996,7 +2038,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKGRANULES29-06-2023PE270.00",
-                    "impliedVolatility": 30.5,
+                    "impliedVolatility": 31.59,
                     "lastPrice": 4.25,
                     "openInterest": 2,
                     "pChange": -22.018348623853214,
@@ -2006,17 +2048,17 @@
                     "totalSellQuantity": 8000,
                     "totalTradedVolume": 2,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 270
             },
             {
                 "CE": {
-                    "askPrice": 20.05,
+                    "askPrice": 19.95,
                     "askQty": 2000,
                     "bidQty": 2000,
-                    "bidprice": 16.95,
+                    "bidprice": 17.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2027,32 +2069,32 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 270,
-                    "totalBuyQuantity": 104000,
-                    "totalSellQuantity": 102000,
+                    "totalBuyQuantity": 112000,
+                    "totalSellQuantity": 110000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
                     "askPrice": 1.3,
-                    "askQty": 2000,
+                    "askQty": 4000,
                     "bidQty": 8000,
                     "bidprice": 1.2,
                     "change": -0.3999999999999999,
                     "changeinOpenInterest": -6,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023PE270.00",
-                    "impliedVolatility": 43.09,
+                    "impliedVolatility": 45.88,
                     "lastPrice": 1.3,
                     "openInterest": 208,
                     "pChange": -23.529411764705877,
                     "pchangeinOpenInterest": -2.803738317757009,
                     "strikePrice": 270,
                     "totalBuyQuantity": 500000,
-                    "totalSellQuantity": 386000,
+                    "totalSellQuantity": 390000,
                     "totalTradedVolume": 141,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 270
@@ -2062,7 +2104,7 @@
                     "askPrice": 14.75,
                     "askQty": 2000,
                     "bidQty": 2000,
-                    "bidprice": 12.75,
+                    "bidprice": 12.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2077,28 +2119,28 @@
                     "totalSellQuantity": 22000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
-                    "askPrice": 2,
-                    "askQty": 4000,
-                    "bidQty": 4000,
-                    "bidprice": 1.85,
-                    "change": -0.30000000000000027,
-                    "changeinOpenInterest": -7,
+                    "askPrice": 1.9,
+                    "askQty": 2000,
+                    "bidQty": 6000,
+                    "bidprice": 1.8,
+                    "change": -0.5500000000000003,
+                    "changeinOpenInterest": -9,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023PE275.00",
-                    "impliedVolatility": 40.37,
-                    "lastPrice": 2.15,
-                    "openInterest": 59,
-                    "pChange": -12.244897959183684,
-                    "pchangeinOpenInterest": -10.606060606060606,
+                    "impliedVolatility": 43.82,
+                    "lastPrice": 1.9,
+                    "openInterest": 57,
+                    "pChange": -22.448979591836743,
+                    "pchangeinOpenInterest": -13.636363636363637,
                     "strikePrice": 275,
-                    "totalBuyQuantity": 452000,
-                    "totalSellQuantity": 408000,
-                    "totalTradedVolume": 33,
+                    "totalBuyQuantity": 456000,
+                    "totalSellQuantity": 412000,
+                    "totalTradedVolume": 34,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 275
@@ -2108,7 +2150,7 @@
                     "askPrice": 28.45,
                     "askQty": 80000,
                     "bidQty": 6000,
-                    "bidprice": 9.9,
+                    "bidprice": 10.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2123,12 +2165,12 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
-                    "bidQty": 8000,
+                    "bidQty": 2000,
                     "bidprice": 3.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -2144,17 +2186,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 275
             },
             {
                 "CE": {
-                    "askPrice": 17.7,
+                    "askPrice": 17.5,
                     "askQty": 2000,
                     "bidQty": 2000,
-                    "bidprice": 16.8,
+                    "bidprice": 16.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2169,7 +2211,7 @@
                     "totalSellQuantity": 84000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
                     "askPrice": 7.75,
@@ -2180,7 +2222,7 @@
                     "changeinOpenInterest": 2,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKGRANULES29-06-2023PE280.00",
-                    "impliedVolatility": 30.52,
+                    "impliedVolatility": 31.87,
                     "lastPrice": 7.5,
                     "openInterest": 44,
                     "pChange": -7.407407407407403,
@@ -2190,22 +2232,22 @@
                     "totalSellQuantity": 36000,
                     "totalTradedVolume": 3,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 280
             },
             {
                 "CE": {
-                    "askPrice": 10.8,
+                    "askPrice": 10.65,
                     "askQty": 2000,
                     "bidQty": 6000,
-                    "bidprice": 10.35,
+                    "bidprice": 10.15,
                     "change": -0.5,
                     "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023CE280.00",
-                    "impliedVolatility": 34.5,
+                    "impliedVolatility": 29.73,
                     "lastPrice": 9.85,
                     "openInterest": 48,
                     "pChange": -4.830917874396135,
@@ -2215,81 +2257,81 @@
                     "totalSellQuantity": 210000,
                     "totalTradedVolume": 30,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
                     "askPrice": 3,
-                    "askQty": 2000,
-                    "bidQty": 2000,
+                    "askQty": 4000,
+                    "bidQty": 4000,
                     "bidprice": 2.85,
                     "change": -0.6000000000000001,
                     "changeinOpenInterest": 21,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023PE280.00",
-                    "impliedVolatility": 39.06,
+                    "impliedVolatility": 40.7,
                     "lastPrice": 3.1,
                     "openInterest": 257,
                     "pChange": -16.216216216216218,
                     "pchangeinOpenInterest": 8.898305084745763,
                     "strikePrice": 280,
-                    "totalBuyQuantity": 458000,
+                    "totalBuyQuantity": 456000,
                     "totalSellQuantity": 404000,
                     "totalTradedVolume": 215,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 280
             },
             {
                 "CE": {
-                    "askPrice": 7.4,
-                    "askQty": 2000,
-                    "bidQty": 4000,
-                    "bidprice": 7,
+                    "askPrice": 7.35,
+                    "askQty": 6000,
+                    "bidQty": 6000,
+                    "bidprice": 6.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023CE285.00",
-                    "impliedVolatility": 35.88,
+                    "impliedVolatility": 29.61,
                     "lastPrice": 7.2,
                     "openInterest": 22,
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 285,
-                    "totalBuyQuantity": 160000,
-                    "totalSellQuantity": 218000,
-                    "totalTradedVolume": 27,
+                    "totalBuyQuantity": 154000,
+                    "totalSellQuantity": 222000,
+                    "totalTradedVolume": 29,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
-                    "askPrice": 4.95,
-                    "askQty": 4000,
+                    "askPrice": 4.7,
+                    "askQty": 2000,
                     "bidQty": 2000,
-                    "bidprice": 4.6,
-                    "change": -0.5499999999999998,
+                    "bidprice": 4.45,
+                    "change": -0.8499999999999996,
                     "changeinOpenInterest": -19,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023PE285.00",
-                    "impliedVolatility": 37.78,
-                    "lastPrice": 4.8,
+                    "impliedVolatility": 39.67,
+                    "lastPrice": 4.5,
                     "openInterest": 109,
-                    "pChange": -10.280373831775698,
+                    "pChange": -15.887850467289713,
                     "pchangeinOpenInterest": -14.84375,
                     "strikePrice": 285,
-                    "totalBuyQuantity": 376000,
-                    "totalSellQuantity": 306000,
-                    "totalTradedVolume": 75,
+                    "totalBuyQuantity": 378000,
+                    "totalSellQuantity": 304000,
+                    "totalTradedVolume": 78,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 285
             },
             {
                 "CE": {
-                    "askPrice": 17.65,
+                    "askPrice": 18.2,
                     "askQty": 2000,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -2304,16 +2346,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 285,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 6000,
+                    "totalSellQuantity": 4000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 2000,
-                    "bidprice": 7.25,
+                    "bidprice": 7.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2328,14 +2370,14 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 285
             },
             {
                 "CE": {
-                    "askPrice": 26.05,
+                    "askPrice": 25.8,
                     "askQty": 2000,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -2353,106 +2395,106 @@
                     "totalSellQuantity": 2000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 285
             },
             {
                 "CE": {
-                    "askPrice": 4.9,
-                    "askQty": 12000,
+                    "askPrice": 4.85,
+                    "askQty": 6000,
                     "bidQty": 2000,
-                    "bidprice": 4.75,
+                    "bidprice": 4.7,
                     "change": 0,
                     "changeinOpenInterest": 51,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023CE290.00",
-                    "impliedVolatility": 34.91,
+                    "impliedVolatility": 34.51,
                     "lastPrice": 4.8,
                     "openInterest": 250,
                     "pChange": 0,
                     "pchangeinOpenInterest": 25.628140703517587,
                     "strikePrice": 290,
-                    "totalBuyQuantity": 470000,
-                    "totalSellQuantity": 434000,
-                    "totalTradedVolume": 282,
+                    "totalBuyQuantity": 466000,
+                    "totalSellQuantity": 432000,
+                    "totalTradedVolume": 283,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
-                    "askPrice": 7.2,
-                    "askQty": 4000,
-                    "bidQty": 2000,
-                    "bidprice": 6.95,
+                    "askPrice": 7.15,
+                    "askQty": 2000,
+                    "bidQty": 4000,
+                    "bidprice": 6.85,
                     "change": -0.8000000000000007,
                     "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023PE290.00",
-                    "impliedVolatility": 34.63,
+                    "impliedVolatility": 39.6,
                     "lastPrice": 7.25,
                     "openInterest": 252,
                     "pChange": -9.937888198757772,
                     "pchangeinOpenInterest": 1.2048192771084338,
                     "strikePrice": 290,
                     "totalBuyQuantity": 232000,
-                    "totalSellQuantity": 262000,
+                    "totalSellQuantity": 260000,
                     "totalTradedVolume": 128,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 290
             },
             {
                 "CE": {
-                    "askPrice": 12.1,
+                    "askPrice": 12.05,
                     "askQty": 2000,
                     "bidQty": 2000,
-                    "bidprice": 11.5,
+                    "bidprice": 11.6,
                     "change": -0.25,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKGRANULES29-06-2023CE290.00",
-                    "impliedVolatility": 32.17,
+                    "impliedVolatility": 30.27,
                     "lastPrice": 12.25,
                     "openInterest": 6,
                     "pChange": -2,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 290,
-                    "totalBuyQuantity": 90000,
-                    "totalSellQuantity": 42000,
+                    "totalBuyQuantity": 88000,
+                    "totalSellQuantity": 48000,
                     "totalTradedVolume": 1,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
                     "askPrice": 12.05,
                     "askQty": 2000,
                     "bidQty": 2000,
-                    "bidprice": 11.8,
+                    "bidprice": 11.75,
                     "change": -1.5500000000000007,
                     "changeinOpenInterest": 1,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKGRANULES29-06-2023PE290.00",
-                    "impliedVolatility": 27.82,
+                    "impliedVolatility": 29.55,
                     "lastPrice": 11,
                     "openInterest": 48,
                     "pChange": -12.350597609561758,
                     "pchangeinOpenInterest": 2.127659574468085,
                     "strikePrice": 290,
-                    "totalBuyQuantity": 262000,
-                    "totalSellQuantity": 106000,
+                    "totalBuyQuantity": 260000,
+                    "totalSellQuantity": 104000,
                     "totalTradedVolume": 5,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 290
             },
             {
                 "CE": {
-                    "askPrice": 23.1,
+                    "askPrice": 23.3,
                     "askQty": 2000,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -2470,53 +2512,53 @@
                     "totalSellQuantity": 2000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 290
             },
             {
                 "CE": {
-                    "askPrice": 3.25,
+                    "askPrice": 3.2,
                     "askQty": 2000,
                     "bidQty": 2000,
-                    "bidprice": 3.15,
-                    "change": -0.04999999999999982,
-                    "changeinOpenInterest": 0,
+                    "bidprice": 3.1,
+                    "change": -0.09999999999999964,
+                    "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023CE295.00",
-                    "impliedVolatility": 37.95,
-                    "lastPrice": 3.25,
-                    "openInterest": 274,
-                    "pChange": -1.5151515151515098,
-                    "pchangeinOpenInterest": 0,
+                    "impliedVolatility": 35.88,
+                    "lastPrice": 3.2,
+                    "openInterest": 276,
+                    "pChange": -3.0303030303030196,
+                    "pchangeinOpenInterest": 0.7299270072992701,
                     "strikePrice": 295,
-                    "totalBuyQuantity": 458000,
-                    "totalSellQuantity": 456000,
-                    "totalTradedVolume": 155,
+                    "totalBuyQuantity": 456000,
+                    "totalSellQuantity": 454000,
+                    "totalTradedVolume": 158,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
-                    "askPrice": 10.75,
+                    "askPrice": 10.7,
                     "askQty": 2000,
-                    "bidQty": 2000,
+                    "bidQty": 4000,
                     "bidprice": 10.35,
                     "change": -0.09999999999999964,
                     "changeinOpenInterest": -4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023PE295.00",
-                    "impliedVolatility": 41.27,
+                    "impliedVolatility": 46.15,
                     "lastPrice": 11.3,
                     "openInterest": 71,
                     "pChange": -0.8771929824561372,
                     "pchangeinOpenInterest": -5.333333333333333,
                     "strikePrice": 295,
                     "totalBuyQuantity": 214000,
-                    "totalSellQuantity": 210000,
+                    "totalSellQuantity": 208000,
                     "totalTradedVolume": 7,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 295
@@ -2541,13 +2583,13 @@
                     "totalSellQuantity": 6000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
-                    "askPrice": 25.15,
-                    "askQty": 2000,
-                    "bidQty": 0,
-                    "bidprice": 0,
+                    "askPrice": 0,
+                    "askQty": 0,
+                    "bidQty": 2000,
+                    "bidprice": 13.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2558,11 +2600,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 295,
-                    "totalBuyQuantity": 0,
-                    "totalSellQuantity": 20000,
+                    "totalBuyQuantity": 4000,
+                    "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 295
@@ -2587,7 +2629,7 @@
                     "totalSellQuantity": 2000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 295
@@ -2596,26 +2638,26 @@
                 "CE": {
                     "askPrice": 7.7,
                     "askQty": 2000,
-                    "bidQty": 2000,
+                    "bidQty": 4000,
                     "bidprice": 7.45,
                     "change": -0.25,
                     "changeinOpenInterest": 12,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKGRANULES29-06-2023CE300.00",
-                    "impliedVolatility": 29.39,
+                    "impliedVolatility": 28.87,
                     "lastPrice": 7.5,
                     "openInterest": 72,
                     "pChange": -3.225806451612903,
                     "pchangeinOpenInterest": 20,
                     "strikePrice": 300,
-                    "totalBuyQuantity": 200000,
-                    "totalSellQuantity": 188000,
+                    "totalBuyQuantity": 196000,
+                    "totalSellQuantity": 186000,
                     "totalTradedVolume": 43,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
-                    "askPrice": 18.6,
+                    "askPrice": 18.4,
                     "askQty": 2000,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -2623,17 +2665,17 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKGRANULES29-06-2023PE300.00",
-                    "impliedVolatility": 36.16,
+                    "impliedVolatility": 38.29,
                     "lastPrice": 20,
                     "openInterest": 19,
                     "pChange": 6.9518716577540145,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 300,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 12000,
+                    "totalSellQuantity": 10000,
                     "totalTradedVolume": 1,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 300
@@ -2642,44 +2684,44 @@
                 "CE": {
                     "askPrice": 2.2,
                     "askQty": 2000,
-                    "bidQty": 2000,
+                    "bidQty": 4000,
                     "bidprice": 2.15,
                     "change": -0.09999999999999964,
-                    "changeinOpenInterest": 35,
+                    "changeinOpenInterest": 33,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023CE300.00",
-                    "impliedVolatility": 40.37,
+                    "impliedVolatility": 39.77,
                     "lastPrice": 2.2,
-                    "openInterest": 1070,
+                    "openInterest": 1068,
                     "pChange": -4.347826086956506,
-                    "pchangeinOpenInterest": 3.3816425120772946,
+                    "pchangeinOpenInterest": 3.1884057971014492,
                     "strikePrice": 300,
-                    "totalBuyQuantity": 466000,
-                    "totalSellQuantity": 768000,
-                    "totalTradedVolume": 386,
+                    "totalBuyQuantity": 476000,
+                    "totalSellQuantity": 774000,
+                    "totalTradedVolume": 390,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
-                    "askPrice": 14.8,
+                    "askPrice": 14.9,
                     "askQty": 2000,
-                    "bidQty": 2000,
-                    "bidprice": 14.15,
+                    "bidQty": 4000,
+                    "bidprice": 14.2,
                     "change": 0.20000000000000107,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023PE300.00",
-                    "impliedVolatility": 42.68,
+                    "impliedVolatility": 50.6,
                     "lastPrice": 15.4,
                     "openInterest": 191,
                     "pChange": 1.3157894736842175,
                     "pchangeinOpenInterest": -0.5208333333333334,
                     "strikePrice": 300,
-                    "totalBuyQuantity": 198000,
-                    "totalSellQuantity": 190000,
+                    "totalBuyQuantity": 200000,
+                    "totalSellQuantity": 194000,
                     "totalTradedVolume": 3,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 300
@@ -2704,17 +2746,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 300
             },
             {
                 "CE": {
-                    "askPrice": 7.05,
+                    "askPrice": 7.2,
                     "askQty": 2000,
                     "bidQty": 2000,
-                    "bidprice": 5.4,
+                    "bidprice": 5.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2729,7 +2771,7 @@
                     "totalSellQuantity": 82000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
                     "askPrice": 41.15,
@@ -2750,7 +2792,7 @@
                     "totalSellQuantity": 6000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 305
@@ -2775,7 +2817,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 305
@@ -2783,45 +2825,45 @@
             {
                 "CE": {
                     "askPrice": 1.55,
-                    "askQty": 4000,
-                    "bidQty": 2000,
-                    "bidprice": 1.45,
+                    "askQty": 6000,
+                    "bidQty": 6000,
+                    "bidprice": 1.4,
                     "change": -0.10000000000000009,
-                    "changeinOpenInterest": 4,
+                    "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023CE305.00",
-                    "impliedVolatility": 43.79,
+                    "impliedVolatility": 40.94,
                     "lastPrice": 1.45,
-                    "openInterest": 323,
+                    "openInterest": 322,
                     "pChange": -6.451612903225811,
-                    "pchangeinOpenInterest": 1.2539184952978057,
+                    "pchangeinOpenInterest": 0.9404388714733543,
                     "strikePrice": 305,
-                    "totalBuyQuantity": 418000,
-                    "totalSellQuantity": 438000,
-                    "totalTradedVolume": 120,
+                    "totalBuyQuantity": 416000,
+                    "totalSellQuantity": 440000,
+                    "totalTradedVolume": 123,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
-                    "askPrice": 19.1,
+                    "askPrice": 18.9,
                     "askQty": 2000,
-                    "bidQty": 2000,
+                    "bidQty": 12000,
                     "bidprice": 17.95,
                     "change": 4.550000000000001,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023PE305.00",
-                    "impliedVolatility": 46.13,
+                    "impliedVolatility": 55.78,
                     "lastPrice": 19.85,
                     "openInterest": 23,
                     "pChange": 29.738562091503272,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 305,
-                    "totalBuyQuantity": 106000,
-                    "totalSellQuantity": 114000,
+                    "totalBuyQuantity": 126000,
+                    "totalSellQuantity": 112000,
                     "totalTradedVolume": 1,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 305
@@ -2846,13 +2888,13 @@
                     "totalSellQuantity": 90000,
                     "totalTradedVolume": 1,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
-                    "askPrice": 26.45,
+                    "askPrice": 26.25,
                     "askQty": 2000,
-                    "bidQty": 2000,
-                    "bidprice": 23.05,
+                    "bidQty": 6000,
+                    "bidprice": 15.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2863,11 +2905,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 310,
-                    "totalBuyQuantity": 68000,
+                    "totalBuyQuantity": 66000,
                     "totalSellQuantity": 2000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 310
@@ -2892,7 +2934,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 310
@@ -2900,27 +2942,27 @@
             {
                 "CE": {
                     "askPrice": 1.1,
-                    "askQty": 4000,
-                    "bidQty": 6000,
-                    "bidprice": 1.05,
-                    "change": -0.1499999999999999,
-                    "changeinOpenInterest": 7,
+                    "askQty": 6000,
+                    "bidQty": 12000,
+                    "bidprice": 1,
+                    "change": -0.09999999999999987,
+                    "changeinOpenInterest": 8,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023CE310.00",
-                    "impliedVolatility": 46.41,
-                    "lastPrice": 1,
-                    "openInterest": 548,
-                    "pChange": -13.04347826086956,
-                    "pchangeinOpenInterest": 1.2939001848428835,
+                    "impliedVolatility": 43.67,
+                    "lastPrice": 1.05,
+                    "openInterest": 549,
+                    "pChange": -8.695652173913032,
+                    "pchangeinOpenInterest": 1.478743068391867,
                     "strikePrice": 310,
-                    "totalBuyQuantity": 642000,
-                    "totalSellQuantity": 406000,
-                    "totalTradedVolume": 98,
+                    "totalBuyQuantity": 646000,
+                    "totalSellQuantity": 418000,
+                    "totalTradedVolume": 101,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
-                    "askPrice": 23.75,
+                    "askPrice": 23.95,
                     "askQty": 2000,
                     "bidQty": 2000,
                     "bidprice": 23.15,
@@ -2928,63 +2970,63 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023PE310.00",
-                    "impliedVolatility": 50.51,
+                    "impliedVolatility": 61.78,
                     "lastPrice": 24.55,
                     "openInterest": 28,
                     "pChange": 35.635359116022094,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 310,
-                    "totalBuyQuantity": 104000,
-                    "totalSellQuantity": 100000,
+                    "totalBuyQuantity": 110000,
+                    "totalSellQuantity": 110000,
                     "totalTradedVolume": 1,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 310
             },
             {
                 "CE": {
-                    "askPrice": 0.85,
-                    "askQty": 2000,
-                    "bidQty": 12000,
+                    "askPrice": 0.8,
+                    "askQty": 4000,
+                    "bidQty": 4000,
                     "bidprice": 0.75,
                     "change": -0.09999999999999998,
                     "changeinOpenInterest": 7,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023CE315.00",
-                    "impliedVolatility": 48.59,
+                    "impliedVolatility": 46.65,
                     "lastPrice": 0.75,
                     "openInterest": 167,
                     "pChange": -11.764705882352938,
                     "pchangeinOpenInterest": 4.375,
                     "strikePrice": 315,
-                    "totalBuyQuantity": 544000,
-                    "totalSellQuantity": 332000,
+                    "totalBuyQuantity": 538000,
+                    "totalSellQuantity": 336000,
                     "totalTradedVolume": 32,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
-                    "askPrice": 28.8,
-                    "askQty": 4000,
+                    "askPrice": 28.6,
+                    "askQty": 2000,
                     "bidQty": 2000,
-                    "bidprice": 27.6,
+                    "bidprice": 27.35,
                     "change": 5.75,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023PE315.00",
-                    "impliedVolatility": 53.72,
+                    "impliedVolatility": 66.9,
                     "lastPrice": 29.25,
                     "openInterest": 19,
                     "pChange": 24.46808510638298,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 315,
-                    "totalBuyQuantity": 102000,
-                    "totalSellQuantity": 102000,
+                    "totalBuyQuantity": 112000,
+                    "totalSellQuantity": 110000,
                     "totalTradedVolume": 1,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 315
@@ -3009,7 +3051,7 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
                     "askPrice": 50.35,
@@ -3030,7 +3072,7 @@
                     "totalSellQuantity": 6000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 315
@@ -3039,29 +3081,29 @@
                 "CE": {
                     "askPrice": 0.65,
                     "askQty": 8000,
-                    "bidQty": 6000,
-                    "bidprice": 0.6,
+                    "bidQty": 14000,
+                    "bidprice": 0.55,
                     "change": -0.04999999999999993,
                     "changeinOpenInterest": -17,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023CE320.00",
-                    "impliedVolatility": 51.85,
+                    "impliedVolatility": 50.94,
                     "lastPrice": 0.65,
                     "openInterest": 757,
                     "pChange": -7.142857142857134,
                     "pchangeinOpenInterest": -2.1963824289405687,
                     "strikePrice": 320,
-                    "totalBuyQuantity": 894000,
-                    "totalSellQuantity": 458000,
+                    "totalBuyQuantity": 896000,
+                    "totalSellQuantity": 454000,
                     "totalTradedVolume": 53,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
-                    "askPrice": 33.85,
+                    "askPrice": 34.6,
                     "askQty": 2000,
-                    "bidQty": 2000,
-                    "bidprice": 32.5,
+                    "bidQty": 4000,
+                    "bidprice": 32.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3073,17 +3115,17 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 320,
                     "totalBuyQuantity": 104000,
-                    "totalSellQuantity": 102000,
+                    "totalSellQuantity": 104000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 320
             },
             {
                 "CE": {
-                    "askPrice": 3.15,
+                    "askPrice": 3.1,
                     "askQty": 2000,
                     "bidQty": 4000,
                     "bidprice": 2.8,
@@ -3091,23 +3133,23 @@
                     "changeinOpenInterest": 2,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKGRANULES29-06-2023CE320.00",
-                    "impliedVolatility": 31.41,
+                    "impliedVolatility": 30.41,
                     "lastPrice": 2.85,
                     "openInterest": 29,
                     "pChange": -8.064516129032258,
                     "pchangeinOpenInterest": 7.407407407407407,
                     "strikePrice": 320,
                     "totalBuyQuantity": 162000,
-                    "totalSellQuantity": 146000,
+                    "totalSellQuantity": 144000,
                     "totalTradedVolume": 8,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
-                    "askPrice": 34.35,
-                    "askQty": 2000,
-                    "bidQty": 2000,
-                    "bidprice": 26.3,
+                    "askPrice": 36.45,
+                    "askQty": 6000,
+                    "bidQty": 6000,
+                    "bidprice": 27.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3118,11 +3160,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 320,
-                    "totalBuyQuantity": 82000,
-                    "totalSellQuantity": 6000,
+                    "totalBuyQuantity": 88000,
+                    "totalSellQuantity": 12000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 320
@@ -3131,27 +3173,27 @@
                 "CE": {
                     "askPrice": 0.5,
                     "askQty": 2000,
-                    "bidQty": 8000,
-                    "bidprice": 0.4,
+                    "bidQty": 6000,
+                    "bidprice": 0.45,
                     "change": -0.10000000000000003,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023CE325.00",
-                    "impliedVolatility": 54.1,
+                    "impliedVolatility": 52.38,
                     "lastPrice": 0.45,
                     "openInterest": 96,
                     "pChange": -18.181818181818183,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 325,
-                    "totalBuyQuantity": 440000,
+                    "totalBuyQuantity": 442000,
                     "totalSellQuantity": 296000,
                     "totalTradedVolume": 8,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
-                    "askPrice": 38.5,
-                    "askQty": 4000,
+                    "askPrice": 39.2,
+                    "askQty": 2000,
                     "bidQty": 2000,
                     "bidprice": 37.45,
                     "change": 0,
@@ -3165,10 +3207,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 325,
                     "totalBuyQuantity": 104000,
-                    "totalSellQuantity": 104000,
+                    "totalSellQuantity": 108000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 325
@@ -3193,13 +3235,13 @@
                     "totalSellQuantity": 82000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
                     "askPrice": 59.9,
                     "askQty": 6000,
                     "bidQty": 6000,
-                    "bidprice": 29.95,
+                    "bidprice": 30.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3214,7 +3256,7 @@
                     "totalSellQuantity": 6000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 325
@@ -3229,7 +3271,7 @@
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023CE330.00",
-                    "impliedVolatility": 56.54,
+                    "impliedVolatility": 54.9,
                     "lastPrice": 0.35,
                     "openInterest": 209,
                     "pChange": -12.50000000000001,
@@ -3239,13 +3281,13 @@
                     "totalSellQuantity": 344000,
                     "totalTradedVolume": 21,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
-                    "askPrice": 43.65,
-                    "askQty": 8000,
-                    "bidQty": 2000,
-                    "bidprice": 41.5,
+                    "askPrice": 43.95,
+                    "askQty": 6000,
+                    "bidQty": 4000,
+                    "bidprice": 41.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3256,11 +3298,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 330,
-                    "totalBuyQuantity": 100000,
-                    "totalSellQuantity": 106000,
+                    "totalBuyQuantity": 110000,
+                    "totalSellQuantity": 112000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 330
@@ -3285,13 +3327,13 @@
                     "totalSellQuantity": 84000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
                     "askPrice": 64.85,
                     "askQty": 6000,
                     "bidQty": 6000,
-                    "bidprice": 34.95,
+                    "bidprice": 35.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3306,7 +3348,7 @@
                     "totalSellQuantity": 6000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 330
@@ -3331,13 +3373,13 @@
                     "totalSellQuantity": 120000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
-                    "askPrice": 48.75,
+                    "askPrice": 48.8,
                     "askQty": 10000,
                     "bidQty": 6000,
-                    "bidprice": 46.45,
+                    "bidprice": 46.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3348,11 +3390,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 335,
-                    "totalBuyQuantity": 104000,
+                    "totalBuyQuantity": 112000,
                     "totalSellQuantity": 108000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 335
@@ -3361,7 +3403,7 @@
                 "CE": {
                     "askPrice": 0,
                     "askQty": 0,
-                    "bidQty": 8000,
+                    "bidQty": 10000,
                     "bidprice": 0.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -3373,17 +3415,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 335,
-                    "totalBuyQuantity": 10000,
+                    "totalBuyQuantity": 12000,
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
                     "askPrice": 69.15,
                     "askQty": 6000,
                     "bidQty": 6000,
-                    "bidprice": 39.6,
+                    "bidprice": 40.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3398,7 +3440,7 @@
                     "totalSellQuantity": 6000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 335
@@ -3406,30 +3448,30 @@
             {
                 "CE": {
                     "askPrice": 0.25,
-                    "askQty": 6000,
+                    "askQty": 8000,
                     "bidQty": 4000,
                     "bidprice": 0.2,
                     "change": -0.09999999999999998,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023CE340.00",
-                    "impliedVolatility": 60.32,
+                    "impliedVolatility": 58.83,
                     "lastPrice": 0.2,
                     "openInterest": 128,
                     "pChange": -33.33333333333333,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 340,
                     "totalBuyQuantity": 278000,
-                    "totalSellQuantity": 210000,
+                    "totalSellQuantity": 200000,
                     "totalTradedVolume": 4,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
-                    "askPrice": 54.7,
-                    "askQty": 10000,
+                    "askPrice": 53.5,
+                    "askQty": 12000,
                     "bidQty": 6000,
-                    "bidprice": 50.5,
+                    "bidprice": 51.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3441,10 +3483,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 340,
                     "totalBuyQuantity": 106000,
-                    "totalSellQuantity": 110000,
+                    "totalSellQuantity": 104000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 340
@@ -3453,8 +3495,8 @@
                 "CE": {
                     "askPrice": 2.5,
                     "askQty": 2000,
-                    "bidQty": 4000,
-                    "bidprice": 0.7,
+                    "bidQty": 2000,
+                    "bidprice": 0.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3469,13 +3511,13 @@
                     "totalSellQuantity": 2000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
                     "askPrice": 74.75,
                     "askQty": 8000,
                     "bidQty": 6000,
-                    "bidprice": 44.65,
+                    "bidprice": 47.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3486,20 +3528,20 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 340,
-                    "totalBuyQuantity": 86000,
+                    "totalBuyQuantity": 88000,
                     "totalSellQuantity": 8000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 340
             },
             {
                 "CE": {
-                    "askPrice": 1.7,
-                    "askQty": 80000,
-                    "bidQty": 2000,
+                    "askPrice": 0.45,
+                    "askQty": 2000,
+                    "bidQty": 4000,
                     "bidprice": 0.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -3511,14 +3553,14 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 345,
-                    "totalBuyQuantity": 66000,
-                    "totalSellQuantity": 80000,
+                    "totalBuyQuantity": 68000,
+                    "totalSellQuantity": 82000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
-                    "askPrice": 61.35,
+                    "askPrice": 60.75,
                     "askQty": 6000,
                     "bidQty": 6000,
                     "bidprice": 55.2,
@@ -3536,7 +3578,7 @@
                     "totalSellQuantity": 98000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 345
@@ -3546,7 +3588,7 @@
                     "askPrice": 79.7,
                     "askQty": 6000,
                     "bidQty": 6000,
-                    "bidprice": 49.2,
+                    "bidprice": 50.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3561,7 +3603,7 @@
                     "totalSellQuantity": 6000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 345
@@ -3576,7 +3618,7 @@
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGRANULES25-05-2023CE350.00",
-                    "impliedVolatility": 66.01,
+                    "impliedVolatility": 64.59,
                     "lastPrice": 0.15,
                     "openInterest": 130,
                     "pChange": -25.000000000000007,
@@ -3586,13 +3628,13 @@
                     "totalSellQuantity": 106000,
                     "totalTradedVolume": 3,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
-                    "askPrice": 65.1,
-                    "askQty": 2000,
+                    "askPrice": 64,
+                    "askQty": 14000,
                     "bidQty": 2000,
-                    "bidprice": 60.65,
+                    "bidprice": 60.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3603,11 +3645,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 350,
-                    "totalBuyQuantity": 100000,
-                    "totalSellQuantity": 102000,
+                    "totalBuyQuantity": 102000,
+                    "totalSellQuantity": 106000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 350
@@ -3632,13 +3674,13 @@
                     "totalSellQuantity": 2000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "PE": {
                     "askPrice": 84.75,
                     "askQty": 10000,
-                    "bidQty": 2000,
-                    "bidprice": 53.65,
+                    "bidQty": 80000,
+                    "bidprice": 55.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3649,11 +3691,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 350,
-                    "totalBuyQuantity": 82000,
+                    "totalBuyQuantity": 80000,
                     "totalSellQuantity": 10000,
                     "totalTradedVolume": 0,
                     "underlying": "GRANULES",
-                    "underlyingValue": 287.65
+                    "underlyingValue": 287.75
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 350
@@ -3694,7 +3736,7 @@
             345,
             350
         ],
-        "timestamp": "18-May-2023 10:19:49",
-        "underlyingValue": 287.65
+        "timestamp": "18-May-2023 10:25:46",
+        "underlyingValue": 287.75
     }
 }

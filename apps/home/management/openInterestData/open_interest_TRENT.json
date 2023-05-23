@@ -1,12 +1,12 @@
 {
     "filtered": {
         "CE": {
-            "totOI": 1670,
-            "totVol": 378
+            "totOI": 1672,
+            "totVol": 391
         },
         "PE": {
             "totOI": 1555,
-            "totVol": 101
+            "totVol": 107
         },
         "data": [
             {
@@ -29,7 +29,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1060
@@ -54,7 +54,7 @@
                     "totalSellQuantity": 16000,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1080
@@ -79,7 +79,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1120
@@ -104,14 +104,14 @@
                     "totalSellQuantity": 17200,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1140
             },
             {
                 "CE": {
-                    "askPrice": 381.85,
+                    "askPrice": 380.65,
                     "askQty": 1200,
                     "bidQty": 1200,
                     "bidprice": 327.5,
@@ -129,14 +129,14 @@
                     "totalSellQuantity": 17200,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1160
             },
             {
                 "CE": {
-                    "askPrice": 368.3,
+                    "askPrice": 359.6,
                     "askQty": 1200,
                     "bidQty": 1200,
                     "bidprice": 310.2,
@@ -154,7 +154,7 @@
                     "totalSellQuantity": 17200,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1180
@@ -179,7 +179,7 @@
                     "totalSellQuantity": 19600,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 1,
@@ -200,14 +200,14 @@
                     "totalSellQuantity": 8000,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1200
             },
             {
                 "CE": {
-                    "askPrice": 323.35,
+                    "askPrice": 318.35,
                     "askQty": 1200,
                     "bidQty": 1200,
                     "bidprice": 269.55,
@@ -225,7 +225,7 @@
                     "totalSellQuantity": 17200,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 0,
@@ -246,7 +246,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1220
@@ -271,7 +271,7 @@
                     "totalSellQuantity": 19600,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 0.7,
@@ -292,7 +292,7 @@
                     "totalSellQuantity": 2000,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1240
@@ -317,7 +317,7 @@
                     "totalSellQuantity": 17200,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 2,
@@ -338,7 +338,7 @@
                     "totalSellQuantity": 800,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1260
@@ -363,7 +363,7 @@
                     "totalSellQuantity": 17200,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 0,
@@ -384,17 +384,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1280
             },
             {
                 "CE": {
-                    "askPrice": 217.7,
-                    "askQty": 800,
+                    "askPrice": 221.1,
+                    "askQty": 2000,
                     "bidQty": 1200,
-                    "bidprice": 205.55,
+                    "bidprice": 207.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -405,11 +405,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1300,
-                    "totalBuyQuantity": 32800,
-                    "totalSellQuantity": 21200,
+                    "totalBuyQuantity": 32400,
+                    "totalSellQuantity": 22800,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 0.5,
@@ -420,7 +420,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTRENT25-05-2023PE1300.00",
-                    "impliedVolatility": 48.15,
+                    "impliedVolatility": 48.3,
                     "lastPrice": 0.35,
                     "openInterest": 219,
                     "pChange": -65,
@@ -430,17 +430,17 @@
                     "totalSellQuantity": 22000,
                     "totalTradedVolume": 1,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1300
             },
             {
                 "CE": {
-                    "askPrice": 202,
+                    "askPrice": 213.7,
                     "askQty": 1200,
-                    "bidQty": 1600,
-                    "bidprice": 187.7,
+                    "bidQty": 1200,
+                    "bidprice": 181.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -451,15 +451,15 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1320,
-                    "totalBuyQuantity": 25600,
-                    "totalSellQuantity": 21200,
+                    "totalBuyQuantity": 23200,
+                    "totalSellQuantity": 17200,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
-                    "askPrice": 3.1,
-                    "askQty": 16000,
+                    "askPrice": 0,
+                    "askQty": 0,
                     "bidQty": 4800,
                     "bidprice": 0.2,
                     "change": 0,
@@ -472,21 +472,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1320,
-                    "totalBuyQuantity": 4800,
-                    "totalSellQuantity": 16000,
+                    "totalBuyQuantity": 9600,
+                    "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1320
             },
             {
                 "CE": {
-                    "askPrice": 181.4,
-                    "askQty": 1600,
-                    "bidQty": 1200,
-                    "bidprice": 164.4,
+                    "askPrice": 181.2,
+                    "askQty": 400,
+                    "bidQty": 1600,
+                    "bidprice": 163.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -497,11 +497,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1340,
-                    "totalBuyQuantity": 22400,
-                    "totalSellQuantity": 22000,
+                    "totalBuyQuantity": 21200,
+                    "totalSellQuantity": 20400,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 0.85,
@@ -512,7 +512,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTRENT25-05-2023PE1340.00",
-                    "impliedVolatility": 40.4,
+                    "impliedVolatility": 40.56,
                     "lastPrice": 0.4,
                     "openInterest": 82,
                     "pChange": -52.94117647058824,
@@ -522,7 +522,7 @@
                     "totalSellQuantity": 42000,
                     "totalTradedVolume": 2,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1340
@@ -547,7 +547,7 @@
                     "totalSellQuantity": 24400,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 3.05,
@@ -568,7 +568,7 @@
                     "totalSellQuantity": 16400,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1360
@@ -593,7 +593,7 @@
                     "totalSellQuantity": 27600,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 5.3,
@@ -614,17 +614,17 @@
                     "totalSellQuantity": 16400,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1380
             },
             {
                 "CE": {
-                    "askPrice": 116.8,
+                    "askPrice": 117.85,
                     "askQty": 400,
                     "bidQty": 400,
-                    "bidprice": 110.25,
+                    "bidprice": 110.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -635,42 +635,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1400,
-                    "totalBuyQuantity": 36800,
-                    "totalSellQuantity": 34000,
+                    "totalBuyQuantity": 35600,
+                    "totalSellQuantity": 35200,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
-                    "askPrice": 1.6,
-                    "askQty": 400,
+                    "askPrice": 1.7,
+                    "askQty": 1200,
                     "bidQty": 400,
-                    "bidprice": 1.45,
+                    "bidprice": 1.5,
                     "change": -0.75,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTRENT25-05-2023PE1400.00",
-                    "impliedVolatility": 36.34,
+                    "impliedVolatility": 36.12,
                     "lastPrice": 1.75,
                     "openInterest": 165,
                     "pChange": -30,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1400,
-                    "totalBuyQuantity": 52400,
-                    "totalSellQuantity": 60800,
+                    "totalBuyQuantity": 52800,
+                    "totalSellQuantity": 56800,
                     "totalTradedVolume": 5,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1400
             },
             {
                 "CE": {
-                    "askPrice": 97.4,
-                    "askQty": 400,
+                    "askPrice": 99.95,
+                    "askQty": 4000,
                     "bidQty": 400,
-                    "bidprice": 87.7,
+                    "bidprice": 91.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -681,42 +681,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1420,
-                    "totalBuyQuantity": 41200,
-                    "totalSellQuantity": 37200,
+                    "totalBuyQuantity": 40400,
+                    "totalSellQuantity": 38800,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
-                    "askPrice": 2.15,
+                    "askPrice": 2.3,
                     "askQty": 400,
-                    "bidQty": 400,
+                    "bidQty": 800,
                     "bidprice": 2.1,
                     "change": -0.8999999999999999,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTRENT25-05-2023PE1420.00",
-                    "impliedVolatility": 33.04,
+                    "impliedVolatility": 33.25,
                     "lastPrice": 2.4,
                     "openInterest": 82,
                     "pChange": -27.27272727272727,
                     "pchangeinOpenInterest": 1.2345679012345678,
                     "strikePrice": 1420,
-                    "totalBuyQuantity": 42000,
-                    "totalSellQuantity": 49200,
+                    "totalBuyQuantity": 46800,
+                    "totalSellQuantity": 48800,
                     "totalTradedVolume": 2,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1420
             },
             {
                 "CE": {
-                    "askPrice": 78.45,
+                    "askPrice": 77.95,
                     "askQty": 400,
-                    "bidQty": 3200,
-                    "bidprice": 69.7,
+                    "bidQty": 2400,
+                    "bidprice": 71.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -727,42 +727,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1440,
-                    "totalBuyQuantity": 42800,
+                    "totalBuyQuantity": 41200,
                     "totalSellQuantity": 35200,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 3.5,
-                    "askQty": 400,
+                    "askQty": 800,
                     "bidQty": 400,
-                    "bidprice": 2.9,
-                    "change": 0,
+                    "bidprice": 3.1,
+                    "change": -1.3499999999999996,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTRENT25-05-2023PE1440.00",
                     "impliedVolatility": 0,
-                    "lastPrice": 0,
+                    "lastPrice": 3.5,
                     "openInterest": 88,
-                    "pChange": 0,
+                    "pChange": -27.83505154639175,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1440,
-                    "totalBuyQuantity": 25600,
+                    "totalBuyQuantity": 30800,
                     "totalSellQuantity": 23600,
-                    "totalTradedVolume": 0,
+                    "totalTradedVolume": 1,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1440
             },
             {
                 "CE": {
-                    "askPrice": 60.3,
+                    "askPrice": 60.25,
                     "askQty": 400,
-                    "bidQty": 1600,
-                    "bidprice": 54.95,
+                    "bidQty": 400,
+                    "bidprice": 55.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -773,42 +773,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1460,
-                    "totalBuyQuantity": 25600,
+                    "totalBuyQuantity": 24400,
                     "totalSellQuantity": 18800,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
-                    "askPrice": 5.85,
-                    "askQty": 1200,
-                    "bidQty": 400,
-                    "bidprice": 5.4,
-                    "change": -1.950000000000001,
+                    "askPrice": 5.9,
+                    "askQty": 800,
+                    "bidQty": 800,
+                    "bidprice": 5.45,
+                    "change": -2.4000000000000004,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTRENT25-05-2023PE1460.00",
-                    "impliedVolatility": 29.87,
-                    "lastPrice": 6.35,
+                    "impliedVolatility": 30.24,
+                    "lastPrice": 5.9,
                     "openInterest": 105,
-                    "pChange": -23.49397590361447,
+                    "pChange": -28.915662650602414,
                     "pchangeinOpenInterest": -0.9433962264150944,
                     "strikePrice": 1460,
-                    "totalBuyQuantity": 44000,
-                    "totalSellQuantity": 64800,
-                    "totalTradedVolume": 13,
+                    "totalBuyQuantity": 45200,
+                    "totalSellQuantity": 64400,
+                    "totalTradedVolume": 14,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1460
             },
             {
                 "CE": {
-                    "askPrice": 43.2,
-                    "askQty": 400,
+                    "askPrice": 43.35,
+                    "askQty": 800,
                     "bidQty": 400,
-                    "bidprice": 41.15,
+                    "bidprice": 40.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -823,151 +823,151 @@
                     "totalSellQuantity": 24400,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
-                    "askPrice": 9.15,
-                    "askQty": 400,
-                    "bidQty": 800,
-                    "bidprice": 8.95,
-                    "change": -3.8999999999999986,
+                    "askPrice": 9.65,
+                    "askQty": 800,
+                    "bidQty": 1200,
+                    "bidprice": 9.5,
+                    "change": -3.4499999999999993,
                     "changeinOpenInterest": 15,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTRENT25-05-2023PE1480.00",
-                    "impliedVolatility": 27.68,
-                    "lastPrice": 9.05,
+                    "impliedVolatility": 27.2,
+                    "lastPrice": 9.5,
                     "openInterest": 135,
-                    "pChange": -30.115830115830107,
+                    "pChange": -26.640926640926637,
                     "pchangeinOpenInterest": 12.5,
                     "strikePrice": 1480,
-                    "totalBuyQuantity": 48000,
-                    "totalSellQuantity": 66800,
-                    "totalTradedVolume": 41,
+                    "totalBuyQuantity": 51600,
+                    "totalSellQuantity": 68000,
+                    "totalTradedVolume": 45,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1480
             },
             {
                 "CE": {
-                    "askPrice": 27.8,
-                    "askQty": 400,
-                    "bidQty": 800,
-                    "bidprice": 26.85,
-                    "change": 3.75,
-                    "changeinOpenInterest": -11,
-                    "expiryDate": "25-May-2023",
-                    "identifier": "OPTSTKTRENT25-05-2023CE1500.00",
-                    "impliedVolatility": 22.35,
-                    "lastPrice": 27.95,
-                    "openInterest": 168,
-                    "pChange": 15.495867768595042,
-                    "pchangeinOpenInterest": -6.145251396648045,
-                    "strikePrice": 1500,
-                    "totalBuyQuantity": 27600,
-                    "totalSellQuantity": 55200,
-                    "totalTradedVolume": 98,
-                    "underlying": "TRENT",
-                    "underlyingValue": 1512.6
-                },
-                "PE": {
-                    "askPrice": 15.35,
+                    "askPrice": 27.65,
                     "askQty": 400,
                     "bidQty": 400,
-                    "bidprice": 14.65,
+                    "bidprice": 27,
+                    "change": 3.4499999999999993,
+                    "changeinOpenInterest": -10,
+                    "expiryDate": "25-May-2023",
+                    "identifier": "OPTSTKTRENT25-05-2023CE1500.00",
+                    "impliedVolatility": 23.13,
+                    "lastPrice": 27.65,
+                    "openInterest": 169,
+                    "pChange": 14.256198347107436,
+                    "pchangeinOpenInterest": -5.58659217877095,
+                    "strikePrice": 1500,
+                    "totalBuyQuantity": 32000,
+                    "totalSellQuantity": 56400,
+                    "totalTradedVolume": 100,
+                    "underlying": "TRENT",
+                    "underlyingValue": 1511.65
+                },
+                "PE": {
+                    "askPrice": 15.3,
+                    "askQty": 400,
+                    "bidQty": 400,
+                    "bidprice": 14.7,
                     "change": -2.3999999999999986,
                     "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTRENT25-05-2023PE1500.00",
-                    "impliedVolatility": 28.39,
+                    "impliedVolatility": 28.8,
                     "lastPrice": 17,
                     "openInterest": 75,
                     "pChange": -12.37113402061855,
                     "pchangeinOpenInterest": 4.166666666666667,
                     "strikePrice": 1500,
-                    "totalBuyQuantity": 64000,
-                    "totalSellQuantity": 64800,
+                    "totalBuyQuantity": 63600,
+                    "totalSellQuantity": 65600,
                     "totalTradedVolume": 23,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1500
             },
             {
                 "CE": {
-                    "askPrice": 16.85,
+                    "askPrice": 16.5,
                     "askQty": 400,
-                    "bidQty": 800,
-                    "bidprice": 16.2,
-                    "change": 2.8000000000000007,
-                    "changeinOpenInterest": -15,
+                    "bidQty": 400,
+                    "bidprice": 16.1,
+                    "change": 2.1000000000000014,
+                    "changeinOpenInterest": -14,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTRENT25-05-2023CE1520.00",
-                    "impliedVolatility": 21.51,
-                    "lastPrice": 17.05,
-                    "openInterest": 102,
-                    "pChange": 19.649122807017548,
-                    "pchangeinOpenInterest": -12.820512820512821,
+                    "impliedVolatility": 22.95,
+                    "lastPrice": 16.35,
+                    "openInterest": 103,
+                    "pChange": 14.736842105263168,
+                    "pchangeinOpenInterest": -11.965811965811966,
                     "strikePrice": 1520,
-                    "totalBuyQuantity": 47200,
-                    "totalSellQuantity": 46800,
-                    "totalTradedVolume": 111,
+                    "totalBuyQuantity": 48000,
+                    "totalSellQuantity": 48400,
+                    "totalTradedVolume": 113,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
-                    "askPrice": 25.05,
-                    "askQty": 1200,
+                    "askPrice": 24.55,
+                    "askQty": 400,
                     "bidQty": 400,
-                    "bidprice": 22.95,
+                    "bidprice": 23.2,
                     "change": -6.800000000000001,
                     "changeinOpenInterest": 8,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTRENT25-05-2023PE1520.00",
-                    "impliedVolatility": 26.03,
+                    "impliedVolatility": 26.57,
                     "lastPrice": 23.2,
                     "openInterest": 47,
                     "pChange": -22.666666666666668,
                     "pchangeinOpenInterest": 20.512820512820515,
                     "strikePrice": 1520,
-                    "totalBuyQuantity": 12400,
-                    "totalSellQuantity": 28800,
+                    "totalBuyQuantity": 17600,
+                    "totalSellQuantity": 28400,
                     "totalTradedVolume": 14,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1520
             },
             {
                 "CE": {
-                    "askPrice": 9.15,
+                    "askPrice": 8.9,
                     "askQty": 400,
                     "bidQty": 400,
-                    "bidprice": 9,
-                    "change": 1.3000000000000007,
+                    "bidprice": 8.5,
+                    "change": 1.25,
                     "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTRENT25-05-2023CE1540.00",
-                    "impliedVolatility": 22.12,
-                    "lastPrice": 9.05,
+                    "impliedVolatility": 22.18,
+                    "lastPrice": 9,
                     "openInterest": 160,
-                    "pChange": 16.774193548387107,
+                    "pChange": 16.129032258064516,
                     "pchangeinOpenInterest": 1.2658227848101267,
                     "strikePrice": 1540,
-                    "totalBuyQuantity": 47600,
-                    "totalSellQuantity": 60800,
-                    "totalTradedVolume": 27,
+                    "totalBuyQuantity": 46800,
+                    "totalSellQuantity": 62800,
+                    "totalTradedVolume": 28,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
-                    "askPrice": 44.1,
-                    "askQty": 1200,
+                    "askPrice": 39.1,
+                    "askQty": 400,
                     "bidQty": 400,
-                    "bidprice": 32.25,
+                    "bidprice": 33.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -978,42 +978,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1540,
-                    "totalBuyQuantity": 10400,
-                    "totalSellQuantity": 25200,
+                    "totalBuyQuantity": 10000,
+                    "totalSellQuantity": 22800,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1540
             },
             {
                 "CE": {
-                    "askPrice": 4.4,
-                    "askQty": 400,
+                    "askPrice": 4.3,
+                    "askQty": 800,
                     "bidQty": 800,
-                    "bidprice": 4.2,
-                    "change": 0.34999999999999964,
+                    "bidprice": 4.1,
+                    "change": 0.2999999999999998,
                     "changeinOpenInterest": 21,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTRENT25-05-2023CE1560.00",
-                    "impliedVolatility": 23.22,
-                    "lastPrice": 4.1,
+                    "impliedVolatility": 21.66,
+                    "lastPrice": 4.05,
                     "openInterest": 191,
-                    "pChange": 9.333333333333323,
+                    "pChange": 7.999999999999995,
                     "pchangeinOpenInterest": 12.352941176470589,
                     "strikePrice": 1560,
-                    "totalBuyQuantity": 50800,
-                    "totalSellQuantity": 55600,
-                    "totalTradedVolume": 114,
+                    "totalBuyQuantity": 50000,
+                    "totalSellQuantity": 56400,
+                    "totalTradedVolume": 115,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
-                    "askPrice": 53.25,
-                    "askQty": 400,
-                    "bidQty": 800,
-                    "bidprice": 47.05,
+                    "askPrice": 54.4,
+                    "askQty": 1200,
+                    "bidQty": 400,
+                    "bidprice": 48.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1024,21 +1024,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1560,
-                    "totalBuyQuantity": 4800,
-                    "totalSellQuantity": 20400,
+                    "totalBuyQuantity": 10000,
+                    "totalSellQuantity": 23200,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1560
             },
             {
                 "CE": {
-                    "askPrice": 2.3,
+                    "askPrice": 4.85,
                     "askQty": 400,
                     "bidQty": 400,
-                    "bidprice": 1.75,
+                    "bidprice": 1.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1049,17 +1049,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1580,
-                    "totalBuyQuantity": 30400,
+                    "totalBuyQuantity": 34000,
                     "totalSellQuantity": 20400,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
-                    "askPrice": 74.25,
+                    "askPrice": 74.05,
                     "askQty": 400,
-                    "bidQty": 800,
-                    "bidprice": 64.85,
+                    "bidQty": 1200,
+                    "bidprice": 62.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1070,42 +1070,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1580,
-                    "totalBuyQuantity": 9600,
-                    "totalSellQuantity": 22000,
+                    "totalBuyQuantity": 10000,
+                    "totalSellQuantity": 22400,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1580
             },
             {
                 "CE": {
-                    "askPrice": 1.3,
-                    "askQty": 1200,
+                    "askPrice": 1.25,
+                    "askQty": 800,
                     "bidQty": 1200,
                     "bidprice": 1.15,
                     "change": -0.3500000000000001,
                     "changeinOpenInterest": -7,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTRENT25-05-2023CE1600.00",
-                    "impliedVolatility": 24.15,
+                    "impliedVolatility": 24.38,
                     "lastPrice": 1.2,
                     "openInterest": 358,
                     "pChange": -22.580645161290327,
                     "pchangeinOpenInterest": -1.917808219178082,
                     "strikePrice": 1600,
-                    "totalBuyQuantity": 53200,
-                    "totalSellQuantity": 66000,
-                    "totalTradedVolume": 28,
+                    "totalBuyQuantity": 52800,
+                    "totalSellQuantity": 66400,
+                    "totalTradedVolume": 35,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
-                    "askPrice": 94.75,
-                    "askQty": 800,
-                    "bidQty": 1600,
-                    "bidprice": 81.3,
+                    "askPrice": 91.55,
+                    "askQty": 400,
+                    "bidQty": 1200,
+                    "bidprice": 82.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1116,11 +1116,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1600,
-                    "totalBuyQuantity": 26000,
-                    "totalSellQuantity": 23600,
+                    "totalBuyQuantity": 28800,
+                    "totalSellQuantity": 23200,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1600
@@ -1145,7 +1145,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 137.05,
@@ -1166,7 +1166,7 @@
                     "totalSellQuantity": 16000,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1620
@@ -1191,7 +1191,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 158.7,
@@ -1212,7 +1212,7 @@
                     "totalSellQuantity": 16000,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1640
@@ -1237,7 +1237,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 172.45,
@@ -1258,7 +1258,7 @@
                     "totalSellQuantity": 17200,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1660
@@ -1283,7 +1283,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 192.45,
@@ -1304,7 +1304,7 @@
                     "totalSellQuantity": 17200,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1680
@@ -1329,7 +1329,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 211.85,
@@ -1350,7 +1350,7 @@
                     "totalSellQuantity": 17200,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1700
@@ -1375,7 +1375,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 231.75,
@@ -1396,7 +1396,7 @@
                     "totalSellQuantity": 17200,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1720
@@ -1425,7 +1425,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1060
@@ -1450,7 +1450,7 @@
                     "totalSellQuantity": 16000,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1080
@@ -1475,7 +1475,7 @@
                     "totalSellQuantity": 17200,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1496,7 +1496,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1120
@@ -1521,7 +1521,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1120
@@ -1546,7 +1546,7 @@
                     "totalSellQuantity": 17200,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1140
@@ -1571,7 +1571,7 @@
                     "totalSellQuantity": 17200,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1140
@@ -1596,7 +1596,7 @@
                     "totalSellQuantity": 17200,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1617,14 +1617,14 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1160
             },
             {
                 "CE": {
-                    "askPrice": 381.85,
+                    "askPrice": 380.65,
                     "askQty": 1200,
                     "bidQty": 1200,
                     "bidprice": 327.5,
@@ -1642,14 +1642,14 @@
                     "totalSellQuantity": 17200,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1160
             },
             {
                 "CE": {
-                    "askPrice": 368.3,
+                    "askPrice": 359.6,
                     "askQty": 1200,
                     "bidQty": 1200,
                     "bidprice": 310.2,
@@ -1667,7 +1667,7 @@
                     "totalSellQuantity": 17200,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1180
@@ -1692,7 +1692,7 @@
                     "totalSellQuantity": 17200,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1713,7 +1713,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1180
@@ -1738,7 +1738,7 @@
                     "totalSellQuantity": 19600,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 1,
@@ -1759,7 +1759,7 @@
                     "totalSellQuantity": 8000,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1200
@@ -1784,14 +1784,14 @@
                     "totalSellQuantity": 17200,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1200
             },
             {
                 "CE": {
-                    "askPrice": 323.35,
+                    "askPrice": 318.35,
                     "askQty": 1200,
                     "bidQty": 1200,
                     "bidprice": 269.55,
@@ -1809,7 +1809,7 @@
                     "totalSellQuantity": 17200,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1830,7 +1830,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1220
@@ -1855,7 +1855,7 @@
                     "totalSellQuantity": 17200,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1876,7 +1876,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1220
@@ -1901,7 +1901,7 @@
                     "totalSellQuantity": 17200,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1922,7 +1922,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1240
@@ -1947,7 +1947,7 @@
                     "totalSellQuantity": 19600,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 0.7,
@@ -1968,7 +1968,7 @@
                     "totalSellQuantity": 2000,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1240
@@ -1993,7 +1993,7 @@
                     "totalSellQuantity": 17200,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 2,
@@ -2014,17 +2014,17 @@
                     "totalSellQuantity": 800,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1260
             },
             {
                 "CE": {
-                    "askPrice": 293.95,
-                    "askQty": 2000,
+                    "askPrice": 294,
+                    "askQty": 16000,
                     "bidQty": 1200,
-                    "bidprice": 178.7,
+                    "bidprice": 246.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2036,10 +2036,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1260,
                     "totalBuyQuantity": 2400,
-                    "totalSellQuantity": 18000,
+                    "totalSellQuantity": 16000,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 9.1,
@@ -2060,7 +2060,7 @@
                     "totalSellQuantity": 400,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1260
@@ -2085,7 +2085,7 @@
                     "totalSellQuantity": 17200,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2106,7 +2106,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1280
@@ -2131,7 +2131,7 @@
                     "totalSellQuantity": 16000,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2152,17 +2152,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1280
             },
             {
                 "CE": {
-                    "askPrice": 217.7,
-                    "askQty": 800,
+                    "askPrice": 221.1,
+                    "askQty": 2000,
                     "bidQty": 1200,
-                    "bidprice": 205.55,
+                    "bidprice": 207.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2173,11 +2173,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1300,
-                    "totalBuyQuantity": 32800,
-                    "totalSellQuantity": 21200,
+                    "totalBuyQuantity": 32400,
+                    "totalSellQuantity": 22800,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 0.5,
@@ -2188,7 +2188,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTRENT25-05-2023PE1300.00",
-                    "impliedVolatility": 48.15,
+                    "impliedVolatility": 48.3,
                     "lastPrice": 0.35,
                     "openInterest": 219,
                     "pChange": -65,
@@ -2198,7 +2198,7 @@
                     "totalSellQuantity": 22000,
                     "totalTradedVolume": 1,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1300
@@ -2208,7 +2208,7 @@
                     "askPrice": 280.9,
                     "askQty": 16000,
                     "bidQty": 1200,
-                    "bidprice": 169.3,
+                    "bidprice": 206.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2219,11 +2219,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1300,
-                    "totalBuyQuantity": 1600,
+                    "totalBuyQuantity": 2800,
                     "totalSellQuantity": 16000,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2244,7 +2244,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1300
@@ -2269,17 +2269,17 @@
                     "totalSellQuantity": 17200,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1320
             },
             {
                 "CE": {
-                    "askPrice": 202,
+                    "askPrice": 213.7,
                     "askQty": 1200,
-                    "bidQty": 1600,
-                    "bidprice": 187.7,
+                    "bidQty": 1200,
+                    "bidprice": 181.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2290,15 +2290,15 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1320,
-                    "totalBuyQuantity": 25600,
-                    "totalSellQuantity": 21200,
+                    "totalBuyQuantity": 23200,
+                    "totalSellQuantity": 17200,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
-                    "askPrice": 3.1,
-                    "askQty": 16000,
+                    "askPrice": 0,
+                    "askQty": 0,
                     "bidQty": 4800,
                     "bidprice": 0.2,
                     "change": 0,
@@ -2311,11 +2311,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1320,
-                    "totalBuyQuantity": 4800,
-                    "totalSellQuantity": 16000,
+                    "totalBuyQuantity": 9600,
+                    "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1320
@@ -2340,17 +2340,17 @@
                     "totalSellQuantity": 1200,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1340
             },
             {
                 "CE": {
-                    "askPrice": 181.4,
-                    "askQty": 1600,
-                    "bidQty": 1200,
-                    "bidprice": 164.4,
+                    "askPrice": 181.2,
+                    "askQty": 400,
+                    "bidQty": 1600,
+                    "bidprice": 163.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2361,11 +2361,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1340,
-                    "totalBuyQuantity": 22400,
-                    "totalSellQuantity": 22000,
+                    "totalBuyQuantity": 21200,
+                    "totalSellQuantity": 20400,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 0.85,
@@ -2376,7 +2376,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTRENT25-05-2023PE1340.00",
-                    "impliedVolatility": 40.4,
+                    "impliedVolatility": 40.56,
                     "lastPrice": 0.4,
                     "openInterest": 82,
                     "pChange": -52.94117647058824,
@@ -2386,7 +2386,7 @@
                     "totalSellQuantity": 42000,
                     "totalTradedVolume": 2,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1340
@@ -2411,7 +2411,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1360
@@ -2436,7 +2436,7 @@
                     "totalSellQuantity": 24400,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 3.05,
@@ -2457,7 +2457,7 @@
                     "totalSellQuantity": 16400,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1360
@@ -2482,7 +2482,7 @@
                     "totalSellQuantity": 27600,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 5.3,
@@ -2503,7 +2503,7 @@
                     "totalSellQuantity": 16400,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1380
@@ -2528,17 +2528,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1380
             },
             {
                 "CE": {
-                    "askPrice": 116.8,
+                    "askPrice": 117.85,
                     "askQty": 400,
                     "bidQty": 400,
-                    "bidprice": 110.25,
+                    "bidprice": 110.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2549,42 +2549,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1400,
-                    "totalBuyQuantity": 36800,
-                    "totalSellQuantity": 34000,
+                    "totalBuyQuantity": 35600,
+                    "totalSellQuantity": 35200,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
-                    "askPrice": 1.6,
-                    "askQty": 400,
+                    "askPrice": 1.7,
+                    "askQty": 1200,
                     "bidQty": 400,
-                    "bidprice": 1.45,
+                    "bidprice": 1.5,
                     "change": -0.75,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTRENT25-05-2023PE1400.00",
-                    "impliedVolatility": 36.34,
+                    "impliedVolatility": 36.12,
                     "lastPrice": 1.75,
                     "openInterest": 165,
                     "pChange": -30,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1400,
-                    "totalBuyQuantity": 52400,
-                    "totalSellQuantity": 60800,
+                    "totalBuyQuantity": 52800,
+                    "totalSellQuantity": 56800,
                     "totalTradedVolume": 5,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1400
             },
             {
                 "CE": {
-                    "askPrice": 191.25,
+                    "askPrice": 178.85,
                     "askQty": 1200,
                     "bidQty": 1200,
-                    "bidprice": 115.45,
+                    "bidprice": 98.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2599,17 +2599,17 @@
                     "totalSellQuantity": 2000,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1400
             },
             {
                 "CE": {
-                    "askPrice": 97.4,
-                    "askQty": 400,
+                    "askPrice": 99.95,
+                    "askQty": 4000,
                     "bidQty": 400,
-                    "bidprice": 87.7,
+                    "bidprice": 91.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2620,32 +2620,32 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1420,
-                    "totalBuyQuantity": 41200,
-                    "totalSellQuantity": 37200,
+                    "totalBuyQuantity": 40400,
+                    "totalSellQuantity": 38800,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
-                    "askPrice": 2.15,
+                    "askPrice": 2.3,
                     "askQty": 400,
-                    "bidQty": 400,
+                    "bidQty": 800,
                     "bidprice": 2.1,
                     "change": -0.8999999999999999,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTRENT25-05-2023PE1420.00",
-                    "impliedVolatility": 33.04,
+                    "impliedVolatility": 33.25,
                     "lastPrice": 2.4,
                     "openInterest": 82,
                     "pChange": -27.27272727272727,
                     "pchangeinOpenInterest": 1.2345679012345678,
                     "strikePrice": 1420,
-                    "totalBuyQuantity": 42000,
-                    "totalSellQuantity": 49200,
+                    "totalBuyQuantity": 46800,
+                    "totalSellQuantity": 48800,
                     "totalTradedVolume": 2,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1420
@@ -2655,7 +2655,7 @@
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 1200,
-                    "bidprice": 86.4,
+                    "bidprice": 93,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2670,17 +2670,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1420
             },
             {
                 "CE": {
-                    "askPrice": 78.45,
+                    "askPrice": 77.95,
                     "askQty": 400,
-                    "bidQty": 3200,
-                    "bidprice": 69.7,
+                    "bidQty": 2400,
+                    "bidprice": 71.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2691,32 +2691,32 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1440,
-                    "totalBuyQuantity": 42800,
+                    "totalBuyQuantity": 41200,
                     "totalSellQuantity": 35200,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 3.5,
-                    "askQty": 400,
+                    "askQty": 800,
                     "bidQty": 400,
-                    "bidprice": 2.9,
-                    "change": 0,
+                    "bidprice": 3.1,
+                    "change": -1.3499999999999996,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTRENT25-05-2023PE1440.00",
                     "impliedVolatility": 0,
-                    "lastPrice": 0,
+                    "lastPrice": 3.5,
                     "openInterest": 88,
-                    "pChange": 0,
+                    "pChange": -27.83505154639175,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1440,
-                    "totalBuyQuantity": 25600,
+                    "totalBuyQuantity": 30800,
                     "totalSellQuantity": 23600,
-                    "totalTradedVolume": 0,
+                    "totalTradedVolume": 1,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1440
@@ -2741,13 +2741,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 400,
-                    "bidprice": 18.05,
+                    "bidprice": 18.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2762,17 +2762,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1440
             },
             {
                 "CE": {
-                    "askPrice": 60.3,
+                    "askPrice": 60.25,
                     "askQty": 400,
-                    "bidQty": 1600,
-                    "bidprice": 54.95,
+                    "bidQty": 400,
+                    "bidprice": 55.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2783,40 +2783,40 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1460,
-                    "totalBuyQuantity": 25600,
+                    "totalBuyQuantity": 24400,
                     "totalSellQuantity": 18800,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
-                    "askPrice": 5.85,
-                    "askQty": 1200,
-                    "bidQty": 400,
-                    "bidprice": 5.4,
-                    "change": -1.950000000000001,
+                    "askPrice": 5.9,
+                    "askQty": 800,
+                    "bidQty": 800,
+                    "bidprice": 5.45,
+                    "change": -2.4000000000000004,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTRENT25-05-2023PE1460.00",
-                    "impliedVolatility": 29.87,
-                    "lastPrice": 6.35,
+                    "impliedVolatility": 30.24,
+                    "lastPrice": 5.9,
                     "openInterest": 105,
-                    "pChange": -23.49397590361447,
+                    "pChange": -28.915662650602414,
                     "pchangeinOpenInterest": -0.9433962264150944,
                     "strikePrice": 1460,
-                    "totalBuyQuantity": 44000,
-                    "totalSellQuantity": 64800,
-                    "totalTradedVolume": 13,
+                    "totalBuyQuantity": 45200,
+                    "totalSellQuantity": 64400,
+                    "totalTradedVolume": 14,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1460
             },
             {
                 "CE": {
-                    "askPrice": 184,
-                    "askQty": 400,
+                    "askPrice": 110.95,
+                    "askQty": 2800,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -2830,18 +2830,18 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1460,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 400,
+                    "totalSellQuantity": 3200,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1460
             },
             {
                 "CE": {
-                    "askPrice": 97.6,
-                    "askQty": 400,
+                    "askPrice": 0,
+                    "askQty": 0,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -2855,20 +2855,20 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1480,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 400,
+                    "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1480
             },
             {
                 "CE": {
-                    "askPrice": 43.2,
-                    "askQty": 400,
+                    "askPrice": 43.35,
+                    "askQty": 800,
                     "bidQty": 400,
-                    "bidprice": 41.15,
+                    "bidprice": 40.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2883,36 +2883,36 @@
                     "totalSellQuantity": 24400,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
-                    "askPrice": 9.15,
-                    "askQty": 400,
-                    "bidQty": 800,
-                    "bidprice": 8.95,
-                    "change": -3.8999999999999986,
+                    "askPrice": 9.65,
+                    "askQty": 800,
+                    "bidQty": 1200,
+                    "bidprice": 9.5,
+                    "change": -3.4499999999999993,
                     "changeinOpenInterest": 15,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTRENT25-05-2023PE1480.00",
-                    "impliedVolatility": 27.68,
-                    "lastPrice": 9.05,
+                    "impliedVolatility": 27.2,
+                    "lastPrice": 9.5,
                     "openInterest": 135,
-                    "pChange": -30.115830115830107,
+                    "pChange": -26.640926640926637,
                     "pchangeinOpenInterest": 12.5,
                     "strikePrice": 1480,
-                    "totalBuyQuantity": 48000,
-                    "totalSellQuantity": 66800,
-                    "totalTradedVolume": 41,
+                    "totalBuyQuantity": 51600,
+                    "totalSellQuantity": 68000,
+                    "totalTradedVolume": 45,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1480
             },
             {
                 "CE": {
-                    "askPrice": 127.55,
-                    "askQty": 400,
+                    "askPrice": 0,
+                    "askQty": 0,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -2926,87 +2926,87 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1480,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 400,
+                    "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1480
             },
             {
                 "CE": {
-                    "askPrice": 27.8,
-                    "askQty": 400,
-                    "bidQty": 800,
-                    "bidprice": 26.85,
-                    "change": 3.75,
-                    "changeinOpenInterest": -11,
-                    "expiryDate": "25-May-2023",
-                    "identifier": "OPTSTKTRENT25-05-2023CE1500.00",
-                    "impliedVolatility": 22.35,
-                    "lastPrice": 27.95,
-                    "openInterest": 168,
-                    "pChange": 15.495867768595042,
-                    "pchangeinOpenInterest": -6.145251396648045,
-                    "strikePrice": 1500,
-                    "totalBuyQuantity": 27600,
-                    "totalSellQuantity": 55200,
-                    "totalTradedVolume": 98,
-                    "underlying": "TRENT",
-                    "underlyingValue": 1512.6
-                },
-                "PE": {
-                    "askPrice": 15.35,
+                    "askPrice": 27.65,
                     "askQty": 400,
                     "bidQty": 400,
-                    "bidprice": 14.65,
+                    "bidprice": 27,
+                    "change": 3.4499999999999993,
+                    "changeinOpenInterest": -10,
+                    "expiryDate": "25-May-2023",
+                    "identifier": "OPTSTKTRENT25-05-2023CE1500.00",
+                    "impliedVolatility": 23.13,
+                    "lastPrice": 27.65,
+                    "openInterest": 169,
+                    "pChange": 14.256198347107436,
+                    "pchangeinOpenInterest": -5.58659217877095,
+                    "strikePrice": 1500,
+                    "totalBuyQuantity": 32000,
+                    "totalSellQuantity": 56400,
+                    "totalTradedVolume": 100,
+                    "underlying": "TRENT",
+                    "underlyingValue": 1511.65
+                },
+                "PE": {
+                    "askPrice": 15.3,
+                    "askQty": 400,
+                    "bidQty": 400,
+                    "bidprice": 14.7,
                     "change": -2.3999999999999986,
                     "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTRENT25-05-2023PE1500.00",
-                    "impliedVolatility": 28.39,
+                    "impliedVolatility": 28.8,
                     "lastPrice": 17,
                     "openInterest": 75,
                     "pChange": -12.37113402061855,
                     "pchangeinOpenInterest": 4.166666666666667,
                     "strikePrice": 1500,
-                    "totalBuyQuantity": 64000,
-                    "totalSellQuantity": 64800,
+                    "totalBuyQuantity": 63600,
+                    "totalSellQuantity": 65600,
                     "totalTradedVolume": 23,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1500
             },
             {
                 "CE": {
-                    "askPrice": 74.1,
-                    "askQty": 1600,
+                    "askPrice": 71.9,
+                    "askQty": 400,
                     "bidQty": 400,
-                    "bidprice": 70.1,
+                    "bidprice": 69.5,
                     "change": 1.2999999999999972,
                     "changeinOpenInterest": -9,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKTRENT29-06-2023CE1500.00",
-                    "impliedVolatility": 26.64,
+                    "impliedVolatility": 26.56,
                     "lastPrice": 70,
                     "openInterest": 121,
                     "pChange": 1.8922852983988312,
                     "pchangeinOpenInterest": -6.923076923076923,
                     "strikePrice": 1500,
-                    "totalBuyQuantity": 1600,
-                    "totalSellQuantity": 14000,
+                    "totalBuyQuantity": 1200,
+                    "totalSellQuantity": 13200,
                     "totalTradedVolume": 12,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
-                    "askPrice": 53.7,
+                    "askPrice": 65.5,
                     "askQty": 400,
                     "bidQty": 400,
-                    "bidprice": 39.4,
+                    "bidprice": 39.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3018,17 +3018,17 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1500,
                     "totalBuyQuantity": 800,
-                    "totalSellQuantity": 1200,
+                    "totalSellQuantity": 2000,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1500
             },
             {
                 "CE": {
-                    "askPrice": 116.7,
+                    "askPrice": 116.45,
                     "askQty": 400,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -3046,60 +3046,60 @@
                     "totalSellQuantity": 400,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1500
             },
             {
                 "CE": {
-                    "askPrice": 16.85,
+                    "askPrice": 16.5,
                     "askQty": 400,
-                    "bidQty": 800,
-                    "bidprice": 16.2,
-                    "change": 2.8000000000000007,
-                    "changeinOpenInterest": -15,
+                    "bidQty": 400,
+                    "bidprice": 16.1,
+                    "change": 2.1000000000000014,
+                    "changeinOpenInterest": -14,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTRENT25-05-2023CE1520.00",
-                    "impliedVolatility": 21.51,
-                    "lastPrice": 17.05,
-                    "openInterest": 102,
-                    "pChange": 19.649122807017548,
-                    "pchangeinOpenInterest": -12.820512820512821,
+                    "impliedVolatility": 22.95,
+                    "lastPrice": 16.35,
+                    "openInterest": 103,
+                    "pChange": 14.736842105263168,
+                    "pchangeinOpenInterest": -11.965811965811966,
                     "strikePrice": 1520,
-                    "totalBuyQuantity": 47200,
-                    "totalSellQuantity": 46800,
-                    "totalTradedVolume": 111,
+                    "totalBuyQuantity": 48000,
+                    "totalSellQuantity": 48400,
+                    "totalTradedVolume": 113,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
-                    "askPrice": 25.05,
-                    "askQty": 1200,
+                    "askPrice": 24.55,
+                    "askQty": 400,
                     "bidQty": 400,
-                    "bidprice": 22.95,
+                    "bidprice": 23.2,
                     "change": -6.800000000000001,
                     "changeinOpenInterest": 8,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTRENT25-05-2023PE1520.00",
-                    "impliedVolatility": 26.03,
+                    "impliedVolatility": 26.57,
                     "lastPrice": 23.2,
                     "openInterest": 47,
                     "pChange": -22.666666666666668,
                     "pchangeinOpenInterest": 20.512820512820515,
                     "strikePrice": 1520,
-                    "totalBuyQuantity": 12400,
-                    "totalSellQuantity": 28800,
+                    "totalBuyQuantity": 17600,
+                    "totalSellQuantity": 28400,
                     "totalTradedVolume": 14,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1520
             },
             {
                 "CE": {
-                    "askPrice": 108.8,
+                    "askPrice": 108.6,
                     "askQty": 400,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -3117,15 +3117,15 @@
                     "totalSellQuantity": 400,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1520
             },
             {
                 "CE": {
-                    "askPrice": 0,
-                    "askQty": 0,
+                    "askPrice": 76.4,
+                    "askQty": 400,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -3139,41 +3139,41 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1520,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 0,
+                    "totalSellQuantity": 400,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1520
             },
             {
                 "CE": {
-                    "askPrice": 9.15,
+                    "askPrice": 8.9,
                     "askQty": 400,
                     "bidQty": 400,
-                    "bidprice": 9,
-                    "change": 1.3000000000000007,
+                    "bidprice": 8.5,
+                    "change": 1.25,
                     "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTRENT25-05-2023CE1540.00",
-                    "impliedVolatility": 22.12,
-                    "lastPrice": 9.05,
+                    "impliedVolatility": 22.18,
+                    "lastPrice": 9,
                     "openInterest": 160,
-                    "pChange": 16.774193548387107,
+                    "pChange": 16.129032258064516,
                     "pchangeinOpenInterest": 1.2658227848101267,
                     "strikePrice": 1540,
-                    "totalBuyQuantity": 47600,
-                    "totalSellQuantity": 60800,
-                    "totalTradedVolume": 27,
+                    "totalBuyQuantity": 46800,
+                    "totalSellQuantity": 62800,
+                    "totalTradedVolume": 28,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
-                    "askPrice": 44.1,
-                    "askQty": 1200,
+                    "askPrice": 39.1,
+                    "askQty": 400,
                     "bidQty": 400,
-                    "bidprice": 32.25,
+                    "bidprice": 33.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3184,18 +3184,18 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1540,
-                    "totalBuyQuantity": 10400,
-                    "totalSellQuantity": 25200,
+                    "totalBuyQuantity": 10000,
+                    "totalSellQuantity": 22800,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1540
             },
             {
                 "CE": {
-                    "askPrice": 63.4,
+                    "askPrice": 63.25,
                     "askQty": 400,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -3213,14 +3213,14 @@
                     "totalSellQuantity": 1200,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1540
             },
             {
                 "CE": {
-                    "askPrice": 99.4,
+                    "askPrice": 99.15,
                     "askQty": 400,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -3238,38 +3238,38 @@
                     "totalSellQuantity": 400,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1540
             },
             {
                 "CE": {
-                    "askPrice": 4.4,
-                    "askQty": 400,
+                    "askPrice": 4.3,
+                    "askQty": 800,
                     "bidQty": 800,
-                    "bidprice": 4.2,
-                    "change": 0.34999999999999964,
+                    "bidprice": 4.1,
+                    "change": 0.2999999999999998,
                     "changeinOpenInterest": 21,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTRENT25-05-2023CE1560.00",
-                    "impliedVolatility": 23.22,
-                    "lastPrice": 4.1,
+                    "impliedVolatility": 21.66,
+                    "lastPrice": 4.05,
                     "openInterest": 191,
-                    "pChange": 9.333333333333323,
+                    "pChange": 7.999999999999995,
                     "pchangeinOpenInterest": 12.352941176470589,
                     "strikePrice": 1560,
-                    "totalBuyQuantity": 50800,
-                    "totalSellQuantity": 55600,
-                    "totalTradedVolume": 114,
+                    "totalBuyQuantity": 50000,
+                    "totalSellQuantity": 56400,
+                    "totalTradedVolume": 115,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
-                    "askPrice": 53.25,
-                    "askQty": 400,
-                    "bidQty": 800,
-                    "bidprice": 47.05,
+                    "askPrice": 54.4,
+                    "askQty": 1200,
+                    "bidQty": 400,
+                    "bidprice": 48.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3280,18 +3280,18 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1560,
-                    "totalBuyQuantity": 4800,
-                    "totalSellQuantity": 20400,
+                    "totalBuyQuantity": 10000,
+                    "totalSellQuantity": 23200,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1560
             },
             {
                 "CE": {
-                    "askPrice": 71.55,
+                    "askPrice": 94.55,
                     "askQty": 16000,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -3309,7 +3309,7 @@
                     "totalSellQuantity": 16000,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3330,7 +3330,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1560
@@ -3355,17 +3355,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1560
             },
             {
                 "CE": {
-                    "askPrice": 2.3,
+                    "askPrice": 4.85,
                     "askQty": 400,
                     "bidQty": 400,
-                    "bidprice": 1.75,
+                    "bidprice": 1.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3376,17 +3376,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1580,
-                    "totalBuyQuantity": 30400,
+                    "totalBuyQuantity": 34000,
                     "totalSellQuantity": 20400,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
-                    "askPrice": 74.25,
+                    "askPrice": 74.05,
                     "askQty": 400,
-                    "bidQty": 800,
-                    "bidprice": 64.85,
+                    "bidQty": 1200,
+                    "bidprice": 62.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3397,11 +3397,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1580,
-                    "totalBuyQuantity": 9600,
-                    "totalSellQuantity": 22000,
+                    "totalBuyQuantity": 10000,
+                    "totalSellQuantity": 22400,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1580
@@ -3426,38 +3426,38 @@
                     "totalSellQuantity": 16000,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1580
             },
             {
                 "CE": {
-                    "askPrice": 1.3,
-                    "askQty": 1200,
+                    "askPrice": 1.25,
+                    "askQty": 800,
                     "bidQty": 1200,
                     "bidprice": 1.15,
                     "change": -0.3500000000000001,
                     "changeinOpenInterest": -7,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTRENT25-05-2023CE1600.00",
-                    "impliedVolatility": 24.15,
+                    "impliedVolatility": 24.38,
                     "lastPrice": 1.2,
                     "openInterest": 358,
                     "pChange": -22.580645161290327,
                     "pchangeinOpenInterest": -1.917808219178082,
                     "strikePrice": 1600,
-                    "totalBuyQuantity": 53200,
-                    "totalSellQuantity": 66000,
-                    "totalTradedVolume": 28,
+                    "totalBuyQuantity": 52800,
+                    "totalSellQuantity": 66400,
+                    "totalTradedVolume": 35,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
-                    "askPrice": 94.75,
-                    "askQty": 800,
-                    "bidQty": 1600,
-                    "bidprice": 81.3,
+                    "askPrice": 91.55,
+                    "askQty": 400,
+                    "bidQty": 1200,
+                    "bidprice": 82.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3468,11 +3468,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1600,
-                    "totalBuyQuantity": 26000,
-                    "totalSellQuantity": 23600,
+                    "totalBuyQuantity": 28800,
+                    "totalSellQuantity": 23200,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1600
@@ -3497,13 +3497,13 @@
                     "totalSellQuantity": 1600,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
-                    "askPrice": 156.25,
+                    "askPrice": 152.75,
                     "askQty": 1200,
                     "bidQty": 1200,
-                    "bidprice": 76,
+                    "bidprice": 79.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3518,7 +3518,7 @@
                     "totalSellQuantity": 2000,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1600
@@ -3543,7 +3543,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 137.05,
@@ -3564,7 +3564,7 @@
                     "totalSellQuantity": 16000,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1620
@@ -3589,7 +3589,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3610,7 +3610,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1620
@@ -3635,7 +3635,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 158.7,
@@ -3656,17 +3656,17 @@
                     "totalSellQuantity": 16000,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1640
             },
             {
                 "PE": {
-                    "askPrice": 180.75,
+                    "askPrice": 174.35,
                     "askQty": 1200,
                     "bidQty": 1200,
-                    "bidprice": 104.4,
+                    "bidprice": 110.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3681,7 +3681,7 @@
                     "totalSellQuantity": 2000,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1640
@@ -3706,7 +3706,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 172.45,
@@ -3727,7 +3727,7 @@
                     "totalSellQuantity": 17200,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1660
@@ -3752,7 +3752,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3773,7 +3773,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1660
@@ -3798,7 +3798,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 192.45,
@@ -3819,7 +3819,7 @@
                     "totalSellQuantity": 17200,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1680
@@ -3844,7 +3844,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3865,7 +3865,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1680
@@ -3890,7 +3890,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 211.85,
@@ -3911,7 +3911,7 @@
                     "totalSellQuantity": 17200,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1700
@@ -3936,7 +3936,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1700
@@ -3961,7 +3961,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "PE": {
                     "askPrice": 231.75,
@@ -3982,7 +3982,7 @@
                     "totalSellQuantity": 17200,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1720
@@ -4007,7 +4007,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TRENT",
-                    "underlyingValue": 1512.6
+                    "underlyingValue": 1511.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1720
@@ -4053,7 +4053,7 @@
             1700,
             1720
         ],
-        "timestamp": "18-May-2023 10:19:49",
-        "underlyingValue": 1512.6
+        "timestamp": "18-May-2023 10:25:46",
+        "underlyingValue": 1511.65
     }
 }

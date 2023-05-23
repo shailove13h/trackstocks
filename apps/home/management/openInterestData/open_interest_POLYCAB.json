@@ -1,12 +1,12 @@
 {
     "filtered": {
         "CE": {
-            "totOI": 4242,
-            "totVol": 1886
+            "totOI": 4224,
+            "totVol": 1940
         },
         "PE": {
-            "totOI": 3433,
-            "totVol": 982
+            "totOI": 3444,
+            "totVol": 1033
         },
         "data": [
             {
@@ -29,17 +29,17 @@
                     "totalSellQuantity": 9000,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 2550
             },
             {
                 "CE": {
-                    "askPrice": 920.25,
+                    "askPrice": 917.85,
                     "askQty": 900,
                     "bidQty": 900,
-                    "bidprice": 789.9,
+                    "bidprice": 790.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -54,17 +54,17 @@
                     "totalSellQuantity": 9900,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 2600
             },
             {
                 "CE": {
-                    "askPrice": 873.25,
+                    "askPrice": 864.65,
                     "askQty": 900,
                     "bidQty": 900,
-                    "bidprice": 742.75,
+                    "bidprice": 744.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -79,7 +79,7 @@
                     "totalSellQuantity": 9900,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
                     "askPrice": 0,
@@ -100,7 +100,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 2650
@@ -125,17 +125,17 @@
                     "totalSellQuantity": 9900,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 2700
             },
             {
                 "CE": {
-                    "askPrice": 765.8,
+                    "askPrice": 760.5,
                     "askQty": 900,
                     "bidQty": 900,
-                    "bidprice": 647.45,
+                    "bidprice": 648.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -150,7 +150,7 @@
                     "totalSellQuantity": 9900,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
                     "askPrice": 0,
@@ -171,7 +171,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 2750
@@ -196,17 +196,17 @@
                     "totalSellQuantity": 11400,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 2800
             },
             {
                 "CE": {
-                    "askPrice": 655.05,
+                    "askPrice": 654.95,
                     "askQty": 900,
                     "bidQty": 900,
-                    "bidprice": 548.8,
+                    "bidprice": 549.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -221,7 +221,7 @@
                     "totalSellQuantity": 9900,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 2850
@@ -246,38 +246,38 @@
                     "totalSellQuantity": 11700,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3455.05
+                    "underlyingValue": 3454
                 },
                 "PE": {
-                    "askPrice": 0.75,
-                    "askQty": 600,
+                    "askPrice": 0.8,
+                    "askQty": 300,
                     "bidQty": 300,
-                    "bidprice": 0.7,
+                    "bidprice": 0.6,
                     "change": -0.2499999999999999,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOLYCAB25-05-2023PE2900.00",
-                    "impliedVolatility": 0,
+                    "impliedVolatility": 55.66,
                     "lastPrice": 0.9,
                     "openInterest": 309,
                     "pChange": -21.7391304347826,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 2900,
-                    "totalBuyQuantity": 27000,
-                    "totalSellQuantity": 11700,
+                    "totalBuyQuantity": 26700,
+                    "totalSellQuantity": 11400,
                     "totalTradedVolume": 1,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3455.05
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 2900
             },
             {
                 "CE": {
-                    "askPrice": 512.8,
+                    "askPrice": 512.75,
                     "askQty": 900,
                     "bidQty": 900,
-                    "bidprice": 481.75,
+                    "bidprice": 487.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -288,21 +288,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 2950,
-                    "totalBuyQuantity": 12600,
-                    "totalSellQuantity": 11700,
+                    "totalBuyQuantity": 11700,
+                    "totalSellQuantity": 12600,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 2950
             },
             {
                 "CE": {
-                    "askPrice": 456.5,
-                    "askQty": 300,
+                    "askPrice": 459.05,
+                    "askQty": 900,
                     "bidQty": 300,
-                    "bidprice": 446.45,
+                    "bidprice": 441.55,
                     "change": 10.600000000000023,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -314,31 +314,31 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 3000,
                     "totalBuyQuantity": 12300,
-                    "totalSellQuantity": 12000,
+                    "totalSellQuantity": 12900,
                     "totalTradedVolume": 1,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
-                    "askPrice": 1.85,
-                    "askQty": 600,
+                    "askPrice": 1.95,
+                    "askQty": 300,
                     "bidQty": 300,
-                    "bidprice": 1.7,
-                    "change": -0.25,
-                    "changeinOpenInterest": -21,
+                    "bidprice": 1.85,
+                    "change": -0.1499999999999999,
+                    "changeinOpenInterest": -23,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOLYCAB25-05-2023PE3000.00",
                     "impliedVolatility": 50.8,
-                    "lastPrice": 1.75,
-                    "openInterest": 624,
-                    "pChange": -12.5,
-                    "pchangeinOpenInterest": -3.255813953488372,
+                    "lastPrice": 1.85,
+                    "openInterest": 622,
+                    "pChange": -7.499999999999996,
+                    "pchangeinOpenInterest": -3.565891472868217,
                     "strikePrice": 3000,
-                    "totalBuyQuantity": 42900,
-                    "totalSellQuantity": 19200,
-                    "totalTradedVolume": 122,
+                    "totalBuyQuantity": 43500,
+                    "totalSellQuantity": 18600,
+                    "totalTradedVolume": 126,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 3000
@@ -348,7 +348,7 @@
                     "askPrice": 419.85,
                     "askQty": 900,
                     "bidQty": 900,
-                    "bidprice": 382.9,
+                    "bidprice": 388.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -359,17 +359,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 3050,
-                    "totalBuyQuantity": 12300,
+                    "totalBuyQuantity": 11400,
                     "totalSellQuantity": 12600,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
-                    "askPrice": 4,
+                    "askPrice": 3.9,
                     "askQty": 300,
-                    "bidQty": 300,
-                    "bidprice": 1.65,
+                    "bidQty": 900,
+                    "bidprice": 1.6,
                     "change": -0.75,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -380,21 +380,21 @@
                     "pChange": -27.27272727272727,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 3050,
-                    "totalBuyQuantity": 27000,
+                    "totalBuyQuantity": 26700,
                     "totalSellQuantity": 9300,
                     "totalTradedVolume": 2,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 3050
             },
             {
                 "CE": {
-                    "askPrice": 357.6,
-                    "askQty": 300,
-                    "bidQty": 1200,
-                    "bidprice": 344,
+                    "askPrice": 356.6,
+                    "askQty": 600,
+                    "bidQty": 300,
+                    "bidprice": 340.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -405,42 +405,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 3100,
-                    "totalBuyQuantity": 21300,
+                    "totalBuyQuantity": 20100,
                     "totalSellQuantity": 17400,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
-                    "askPrice": 2.55,
-                    "askQty": 600,
-                    "bidQty": 2700,
-                    "bidprice": 2.5,
-                    "change": -0.8500000000000001,
-                    "changeinOpenInterest": -24,
+                    "askPrice": 2.65,
+                    "askQty": 300,
+                    "bidQty": 300,
+                    "bidprice": 2.55,
+                    "change": -0.8999999999999999,
+                    "changeinOpenInterest": -15,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOLYCAB25-05-2023PE3100.00",
                     "impliedVolatility": 43.52,
-                    "lastPrice": 2.5,
-                    "openInterest": 373,
-                    "pChange": -25.37313432835821,
-                    "pchangeinOpenInterest": -6.045340050377834,
+                    "lastPrice": 2.45,
+                    "openInterest": 382,
+                    "pChange": -26.86567164179104,
+                    "pchangeinOpenInterest": -3.7783375314861463,
                     "strikePrice": 3100,
-                    "totalBuyQuantity": 49800,
-                    "totalSellQuantity": 30600,
-                    "totalTradedVolume": 101,
+                    "totalBuyQuantity": 48000,
+                    "totalSellQuantity": 28800,
+                    "totalTradedVolume": 118,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 3100
             },
             {
                 "CE": {
-                    "askPrice": 309.2,
+                    "askPrice": 307.3,
                     "askQty": 300,
-                    "bidQty": 900,
-                    "bidprice": 292.65,
+                    "bidQty": 2100,
+                    "bidprice": 287.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -455,38 +455,38 @@
                     "totalSellQuantity": 19200,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
-                    "askPrice": 3.25,
+                    "askPrice": 3.35,
                     "askQty": 300,
-                    "bidQty": 2100,
-                    "bidprice": 3.05,
-                    "change": -0.8999999999999995,
-                    "changeinOpenInterest": -1,
+                    "bidQty": 600,
+                    "bidprice": 3.15,
+                    "change": -0.8499999999999996,
+                    "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOLYCAB25-05-2023PE3150.00",
                     "impliedVolatility": 39.74,
-                    "lastPrice": 3.2,
-                    "openInterest": 137,
-                    "pChange": -21.95121951219511,
-                    "pchangeinOpenInterest": -0.7246376811594203,
+                    "lastPrice": 3.25,
+                    "openInterest": 138,
+                    "pChange": -20.731707317073162,
+                    "pchangeinOpenInterest": 0,
                     "strikePrice": 3150,
-                    "totalBuyQuantity": 52200,
-                    "totalSellQuantity": 33600,
-                    "totalTradedVolume": 12,
+                    "totalBuyQuantity": 52800,
+                    "totalSellQuantity": 33300,
+                    "totalTradedVolume": 14,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 3150
             },
             {
                 "CE": {
-                    "askPrice": 259.1,
-                    "askQty": 600,
+                    "askPrice": 253.45,
+                    "askQty": 300,
                     "bidQty": 300,
-                    "bidprice": 249.85,
+                    "bidprice": 247.05,
                     "change": 3.8499999999999943,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -497,42 +497,42 @@
                     "pChange": 1.583384741928848,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 3200,
-                    "totalBuyQuantity": 21300,
-                    "totalSellQuantity": 22200,
+                    "totalBuyQuantity": 22500,
+                    "totalSellQuantity": 22800,
                     "totalTradedVolume": 1,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
-                    "askPrice": 4.5,
-                    "askQty": 300,
-                    "bidQty": 300,
-                    "bidprice": 4.35,
-                    "change": -1.25,
-                    "changeinOpenInterest": 1,
+                    "askPrice": 4.75,
+                    "askQty": 2100,
+                    "bidQty": 900,
+                    "bidprice": 4.55,
+                    "change": -1.1499999999999995,
+                    "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOLYCAB25-05-2023PE3200.00",
                     "impliedVolatility": 36.8,
-                    "lastPrice": 4.55,
-                    "openInterest": 509,
-                    "pChange": -21.551724137931036,
-                    "pchangeinOpenInterest": 0.1968503937007874,
+                    "lastPrice": 4.65,
+                    "openInterest": 506,
+                    "pChange": -19.827586206896544,
+                    "pchangeinOpenInterest": -0.3937007874015748,
                     "strikePrice": 3200,
-                    "totalBuyQuantity": 40800,
-                    "totalSellQuantity": 40800,
-                    "totalTradedVolume": 81,
+                    "totalBuyQuantity": 43800,
+                    "totalSellQuantity": 39300,
+                    "totalTradedVolume": 89,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 3200
             },
             {
                 "CE": {
-                    "askPrice": 212.95,
-                    "askQty": 600,
+                    "askPrice": 207.9,
+                    "askQty": 300,
                     "bidQty": 2100,
-                    "bidprice": 195.5,
+                    "bidprice": 194.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -543,88 +543,88 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 3250,
-                    "totalBuyQuantity": 28200,
-                    "totalSellQuantity": 21000,
+                    "totalBuyQuantity": 29100,
+                    "totalSellQuantity": 22200,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
-                    "askPrice": 6.95,
+                    "askPrice": 7.65,
                     "askQty": 300,
-                    "bidQty": 900,
-                    "bidprice": 6.75,
-                    "change": -1.8000000000000007,
-                    "changeinOpenInterest": -18,
+                    "bidQty": 300,
+                    "bidprice": 7.45,
+                    "change": -1.7500000000000009,
+                    "changeinOpenInterest": -15,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOLYCAB25-05-2023PE3250.00",
                     "impliedVolatility": 35.18,
-                    "lastPrice": 7,
-                    "openInterest": 150,
-                    "pChange": -20.45454545454546,
-                    "pchangeinOpenInterest": -10.714285714285714,
+                    "lastPrice": 7.05,
+                    "openInterest": 153,
+                    "pChange": -19.886363636363644,
+                    "pchangeinOpenInterest": -8.928571428571429,
                     "strikePrice": 3250,
-                    "totalBuyQuantity": 54300,
-                    "totalSellQuantity": 36600,
-                    "totalTradedVolume": 114,
+                    "totalBuyQuantity": 56100,
+                    "totalSellQuantity": 35100,
+                    "totalTradedVolume": 116,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 3250
             },
             {
                 "CE": {
-                    "askPrice": 163.95,
+                    "askPrice": 159.6,
                     "askQty": 300,
                     "bidQty": 300,
-                    "bidprice": 160,
-                    "change": -4.099999999999994,
-                    "changeinOpenInterest": -1,
+                    "bidprice": 155.65,
+                    "change": 5.050000000000011,
+                    "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOLYCAB25-05-2023CE3300.00",
                     "impliedVolatility": 0,
-                    "lastPrice": 150.85,
-                    "openInterest": 193,
-                    "pChange": -2.646014843497899,
-                    "pchangeinOpenInterest": -0.5154639175257731,
+                    "lastPrice": 160,
+                    "openInterest": 194,
+                    "pChange": 3.2591158438205947,
+                    "pchangeinOpenInterest": 0,
                     "strikePrice": 3300,
-                    "totalBuyQuantity": 32400,
-                    "totalSellQuantity": 27300,
-                    "totalTradedVolume": 9,
+                    "totalBuyQuantity": 31800,
+                    "totalSellQuantity": 27900,
+                    "totalTradedVolume": 10,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
-                    "askPrice": 11.45,
+                    "askPrice": 12.6,
                     "askQty": 300,
                     "bidQty": 300,
-                    "bidprice": 11.25,
-                    "change": -2.8000000000000007,
-                    "changeinOpenInterest": -7,
+                    "bidprice": 12.25,
+                    "change": -1.8500000000000014,
+                    "changeinOpenInterest": -6,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOLYCAB25-05-2023PE3300.00",
                     "impliedVolatility": 32.87,
-                    "lastPrice": 11.5,
-                    "openInterest": 465,
-                    "pChange": -19.580419580419584,
-                    "pchangeinOpenInterest": -1.4830508474576272,
+                    "lastPrice": 12.45,
+                    "openInterest": 466,
+                    "pChange": -12.937062937062946,
+                    "pchangeinOpenInterest": -1.271186440677966,
                     "strikePrice": 3300,
-                    "totalBuyQuantity": 51600,
-                    "totalSellQuantity": 52500,
-                    "totalTradedVolume": 119,
+                    "totalBuyQuantity": 55200,
+                    "totalSellQuantity": 51000,
+                    "totalTradedVolume": 124,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 3300
             },
             {
                 "CE": {
-                    "askPrice": 120.2,
+                    "askPrice": 117.1,
                     "askQty": 300,
                     "bidQty": 300,
-                    "bidprice": 117.35,
+                    "bidprice": 114.05,
                     "change": 2.049999999999997,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
@@ -635,155 +635,155 @@
                     "pChange": 1.7741237559498029,
                     "pchangeinOpenInterest": -0.5555555555555556,
                     "strikePrice": 3350,
-                    "totalBuyQuantity": 21600,
-                    "totalSellQuantity": 17700,
+                    "totalBuyQuantity": 20700,
+                    "totalSellQuantity": 17400,
                     "totalTradedVolume": 32,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
-                    "askPrice": 18.7,
+                    "askPrice": 20.4,
                     "askQty": 300,
-                    "bidQty": 5100,
-                    "bidprice": 18.5,
-                    "change": -3.1499999999999986,
+                    "bidQty": 300,
+                    "bidprice": 19.85,
+                    "change": -3.6499999999999986,
                     "changeinOpenInterest": 14,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOLYCAB25-05-2023PE3350.00",
                     "impliedVolatility": 31.44,
-                    "lastPrice": 19.3,
+                    "lastPrice": 18.8,
                     "openInterest": 180,
-                    "pChange": -14.031180400890864,
+                    "pChange": -16.258351893095764,
                     "pchangeinOpenInterest": 8.433734939759036,
                     "strikePrice": 3350,
-                    "totalBuyQuantity": 51900,
-                    "totalSellQuantity": 42600,
-                    "totalTradedVolume": 81,
+                    "totalBuyQuantity": 62400,
+                    "totalSellQuantity": 40200,
+                    "totalTradedVolume": 82,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 3350
             },
             {
                 "CE": {
-                    "askPrice": 83.6,
+                    "askPrice": 80.35,
                     "askQty": 300,
-                    "bidQty": 300,
-                    "bidprice": 82.25,
-                    "change": 2.1500000000000057,
-                    "changeinOpenInterest": -36,
+                    "bidQty": 900,
+                    "bidprice": 78.8,
+                    "change": 0,
+                    "changeinOpenInterest": -38,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOLYCAB25-05-2023CE3400.00",
                     "impliedVolatility": 22.26,
-                    "lastPrice": 82,
-                    "openInterest": 607,
-                    "pChange": 2.692548528490928,
-                    "pchangeinOpenInterest": -5.598755832037325,
+                    "lastPrice": 79.85,
+                    "openInterest": 605,
+                    "pChange": 0,
+                    "pchangeinOpenInterest": -5.909797822706065,
                     "strikePrice": 3400,
-                    "totalBuyQuantity": 40800,
-                    "totalSellQuantity": 68700,
-                    "totalTradedVolume": 241,
+                    "totalBuyQuantity": 40200,
+                    "totalSellQuantity": 68400,
+                    "totalTradedVolume": 250,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
-                    "askPrice": 31.9,
+                    "askPrice": 34.25,
                     "askQty": 300,
                     "bidQty": 300,
-                    "bidprice": 31.25,
-                    "change": -6.549999999999997,
-                    "changeinOpenInterest": 32,
+                    "bidprice": 33.55,
+                    "change": -5.799999999999997,
+                    "changeinOpenInterest": 35,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOLYCAB25-05-2023PE3400.00",
                     "impliedVolatility": 31.04,
-                    "lastPrice": 31.5,
-                    "openInterest": 302,
-                    "pChange": -17.214191852825223,
-                    "pchangeinOpenInterest": 11.851851851851851,
+                    "lastPrice": 32.25,
+                    "openInterest": 305,
+                    "pChange": -15.243101182654396,
+                    "pchangeinOpenInterest": 12.962962962962964,
                     "strikePrice": 3400,
-                    "totalBuyQuantity": 48000,
-                    "totalSellQuantity": 40500,
-                    "totalTradedVolume": 230,
+                    "totalBuyQuantity": 48600,
+                    "totalSellQuantity": 36900,
+                    "totalTradedVolume": 239,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 3400
             },
             {
                 "CE": {
-                    "askPrice": 53.6,
+                    "askPrice": 52.3,
                     "askQty": 300,
                     "bidQty": 300,
-                    "bidprice": 53,
-                    "change": -2.8500000000000014,
-                    "changeinOpenInterest": -29,
+                    "bidprice": 51.55,
+                    "change": -1.3999999999999986,
+                    "changeinOpenInterest": -26,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOLYCAB25-05-2023CE3450.00",
                     "impliedVolatility": 23.34,
-                    "lastPrice": 50.55,
-                    "openInterest": 315,
-                    "pChange": -5.337078651685396,
-                    "pchangeinOpenInterest": -8.430232558139535,
+                    "lastPrice": 52,
+                    "openInterest": 318,
+                    "pChange": -2.621722846441945,
+                    "pchangeinOpenInterest": -7.558139534883721,
                     "strikePrice": 3450,
-                    "totalBuyQuantity": 44400,
-                    "totalSellQuantity": 46500,
-                    "totalTradedVolume": 264,
+                    "totalBuyQuantity": 46500,
+                    "totalSellQuantity": 46200,
+                    "totalTradedVolume": 282,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
-                    "askPrice": 53.45,
-                    "askQty": 600,
+                    "askPrice": 56.5,
+                    "askQty": 300,
                     "bidQty": 300,
-                    "bidprice": 52.25,
-                    "change": -5.049999999999997,
-                    "changeinOpenInterest": 8,
+                    "bidprice": 55.55,
+                    "change": -6.25,
+                    "changeinOpenInterest": 7,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOLYCAB25-05-2023PE3450.00",
                     "impliedVolatility": 32.67,
-                    "lastPrice": 56.6,
-                    "openInterest": 119,
-                    "pChange": -8.191403081914027,
-                    "pchangeinOpenInterest": 7.207207207207207,
+                    "lastPrice": 55.4,
+                    "openInterest": 118,
+                    "pChange": -10.137875101378752,
+                    "pchangeinOpenInterest": 6.306306306306307,
                     "strikePrice": 3450,
                     "totalBuyQuantity": 36600,
-                    "totalSellQuantity": 11700,
-                    "totalTradedVolume": 83,
+                    "totalSellQuantity": 11100,
+                    "totalTradedVolume": 86,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 3450
             },
             {
                 "CE": {
-                    "askPrice": 33.85,
+                    "askPrice": 32.8,
                     "askQty": 300,
-                    "bidQty": 600,
-                    "bidprice": 33.1,
-                    "change": -0.75,
-                    "changeinOpenInterest": 49,
+                    "bidQty": 300,
+                    "bidprice": 32.05,
+                    "change": -0.6499999999999986,
+                    "changeinOpenInterest": 50,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOLYCAB25-05-2023CE3500.00",
                     "impliedVolatility": 25.87,
-                    "lastPrice": 33.35,
-                    "openInterest": 822,
-                    "pChange": -2.19941348973607,
-                    "pchangeinOpenInterest": 6.338939197930142,
+                    "lastPrice": 33.45,
+                    "openInterest": 823,
+                    "pChange": -1.9061583577712569,
+                    "pchangeinOpenInterest": 6.468305304010349,
                     "strikePrice": 3500,
-                    "totalBuyQuantity": 57000,
-                    "totalSellQuantity": 94800,
-                    "totalTradedVolume": 523,
+                    "totalBuyQuantity": 56100,
+                    "totalSellQuantity": 96300,
+                    "totalTradedVolume": 531,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
-                    "askPrice": 83.9,
+                    "askPrice": 87.2,
                     "askQty": 300,
-                    "bidQty": 600,
-                    "bidprice": 81.6,
+                    "bidQty": 300,
+                    "bidprice": 85.25,
                     "change": -2.6999999999999886,
                     "changeinOpenInterest": 14,
                     "expiryDate": "25-May-2023",
@@ -795,20 +795,20 @@
                     "pchangeinOpenInterest": 12.962962962962964,
                     "strikePrice": 3500,
                     "totalBuyQuantity": 30300,
-                    "totalSellQuantity": 27000,
+                    "totalSellQuantity": 25800,
                     "totalTradedVolume": 35,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 3500
             },
             {
                 "CE": {
-                    "askPrice": 20.6,
+                    "askPrice": 19.85,
                     "askQty": 300,
-                    "bidQty": 600,
-                    "bidprice": 20,
+                    "bidQty": 300,
+                    "bidprice": 19.25,
                     "change": -1.25,
                     "changeinOpenInterest": 10,
                     "expiryDate": "25-May-2023",
@@ -819,17 +819,17 @@
                     "pChange": -5.76036866359447,
                     "pchangeinOpenInterest": 5.128205128205129,
                     "strikePrice": 3550,
-                    "totalBuyQuantity": 52800,
-                    "totalSellQuantity": 35700,
+                    "totalBuyQuantity": 51000,
+                    "totalSellQuantity": 35400,
                     "totalTradedVolume": 128,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
-                    "askPrice": 122.8,
-                    "askQty": 300,
+                    "askPrice": 129.35,
+                    "askQty": 900,
                     "bidQty": 300,
-                    "bidprice": 108.15,
+                    "bidprice": 121.95,
                     "change": 10.600000000000009,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -840,42 +840,42 @@
                     "pChange": 8.316987053746573,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 3550,
-                    "totalBuyQuantity": 11400,
-                    "totalSellQuantity": 13500,
+                    "totalBuyQuantity": 9000,
+                    "totalSellQuantity": 13200,
                     "totalTradedVolume": 1,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 3550
             },
             {
                 "CE": {
-                    "askPrice": 12.6,
+                    "askPrice": 12.1,
                     "askQty": 300,
-                    "bidQty": 600,
-                    "bidprice": 12.2,
-                    "change": -1.700000000000001,
-                    "changeinOpenInterest": -10,
+                    "bidQty": 900,
+                    "bidprice": 11.75,
+                    "change": -1.8000000000000007,
+                    "changeinOpenInterest": -30,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOLYCAB25-05-2023CE3600.00",
                     "impliedVolatility": 28.88,
-                    "lastPrice": 12.2,
-                    "openInterest": 576,
-                    "pChange": -12.230215827338137,
-                    "pchangeinOpenInterest": -1.7064846416382253,
+                    "lastPrice": 12.1,
+                    "openInterest": 556,
+                    "pChange": -12.949640287769789,
+                    "pchangeinOpenInterest": -5.1194539249146755,
                     "strikePrice": 3600,
-                    "totalBuyQuantity": 91200,
-                    "totalSellQuantity": 66600,
-                    "totalTradedVolume": 218,
+                    "totalBuyQuantity": 88500,
+                    "totalSellQuantity": 66000,
+                    "totalTradedVolume": 222,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
-                    "askPrice": 168,
+                    "askPrice": 169.45,
                     "askQty": 300,
                     "bidQty": 300,
-                    "bidprice": 159,
+                    "bidprice": 164.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -886,42 +886,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 3600,
-                    "totalBuyQuantity": 13800,
+                    "totalBuyQuantity": 14100,
                     "totalSellQuantity": 13500,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3455.05
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 3600
             },
             {
                 "CE": {
-                    "askPrice": 7.9,
+                    "askPrice": 7.6,
                     "askQty": 300,
-                    "bidQty": 300,
-                    "bidprice": 7.65,
-                    "change": -2.0999999999999996,
+                    "bidQty": 600,
+                    "bidprice": 7.3,
+                    "change": -1.4499999999999993,
                     "changeinOpenInterest": 10,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOLYCAB25-05-2023CE3650.00",
                     "impliedVolatility": 29.92,
-                    "lastPrice": 7,
+                    "lastPrice": 7.65,
                     "openInterest": 132,
-                    "pChange": -23.076923076923073,
+                    "pChange": -15.934065934065927,
                     "pchangeinOpenInterest": 8.19672131147541,
                     "strikePrice": 3650,
-                    "totalBuyQuantity": 61800,
-                    "totalSellQuantity": 36900,
-                    "totalTradedVolume": 94,
+                    "totalBuyQuantity": 60300,
+                    "totalSellQuantity": 41100,
+                    "totalTradedVolume": 96,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
                     "askPrice": 223.75,
                     "askQty": 300,
                     "bidQty": 300,
-                    "bidprice": 196,
+                    "bidprice": 201.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -932,42 +932,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 3650,
-                    "totalBuyQuantity": 13500,
+                    "totalBuyQuantity": 12300,
                     "totalSellQuantity": 12000,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 3650
             },
             {
                 "CE": {
-                    "askPrice": 5.1,
-                    "askQty": 900,
-                    "bidQty": 300,
-                    "bidprice": 4.95,
-                    "change": -1.1500000000000004,
-                    "changeinOpenInterest": -5,
+                    "askPrice": 4.9,
+                    "askQty": 600,
+                    "bidQty": 600,
+                    "bidprice": 4.7,
+                    "change": -1.4000000000000004,
+                    "changeinOpenInterest": -4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOLYCAB25-05-2023CE3700.00",
                     "impliedVolatility": 32.14,
-                    "lastPrice": 5,
-                    "openInterest": 418,
-                    "pChange": -18.699186991869922,
-                    "pchangeinOpenInterest": -1.1820330969267139,
+                    "lastPrice": 4.75,
+                    "openInterest": 419,
+                    "pChange": -22.764227642276428,
+                    "pchangeinOpenInterest": -0.9456264775413712,
                     "strikePrice": 3700,
-                    "totalBuyQuantity": 60900,
-                    "totalSellQuantity": 63900,
-                    "totalTradedVolume": 131,
+                    "totalBuyQuantity": 58800,
+                    "totalSellQuantity": 64200,
+                    "totalTradedVolume": 137,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
                     "askPrice": 273.25,
                     "askQty": 300,
-                    "bidQty": 600,
-                    "bidprice": 242.65,
+                    "bidQty": 300,
+                    "bidprice": 249.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -978,36 +978,36 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 3700,
-                    "totalBuyQuantity": 12600,
+                    "totalBuyQuantity": 13500,
                     "totalSellQuantity": 12000,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 3700
             },
             {
                 "CE": {
-                    "askPrice": 3.5,
-                    "askQty": 600,
-                    "bidQty": 900,
-                    "bidprice": 3.35,
+                    "askPrice": 3.35,
+                    "askQty": 900,
+                    "bidQty": 600,
+                    "bidprice": 3.25,
                     "change": -0.8999999999999995,
-                    "changeinOpenInterest": -10,
+                    "changeinOpenInterest": -12,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOLYCAB25-05-2023CE3750.00",
                     "impliedVolatility": 34.72,
                     "lastPrice": 3.45,
-                    "openInterest": 129,
+                    "openInterest": 127,
                     "pChange": -20.689655172413783,
-                    "pchangeinOpenInterest": -7.194244604316546,
+                    "pchangeinOpenInterest": -8.633093525179856,
                     "strikePrice": 3750,
-                    "totalBuyQuantity": 53400,
-                    "totalSellQuantity": 35100,
-                    "totalTradedVolume": 86,
+                    "totalBuyQuantity": 52500,
+                    "totalSellQuantity": 36900,
+                    "totalTradedVolume": 90,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
                     "askPrice": 321.65,
@@ -1028,35 +1028,35 @@
                     "totalSellQuantity": 12900,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 3750
             },
             {
                 "CE": {
-                    "askPrice": 2.75,
-                    "askQty": 900,
-                    "bidQty": 600,
-                    "bidprice": 2.65,
-                    "change": -0.75,
+                    "askPrice": 2.6,
+                    "askQty": 600,
+                    "bidQty": 3600,
+                    "bidprice": 2.5,
+                    "change": -0.5499999999999998,
                     "changeinOpenInterest": -32,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOLYCAB25-05-2023CE3800.00",
                     "impliedVolatility": 36.95,
-                    "lastPrice": 2.5,
+                    "lastPrice": 2.7,
                     "openInterest": 107,
-                    "pChange": -23.076923076923077,
+                    "pChange": -16.92307692307692,
                     "pchangeinOpenInterest": -23.02158273381295,
                     "strikePrice": 3800,
-                    "totalBuyQuantity": 54300,
-                    "totalSellQuantity": 35400,
-                    "totalTradedVolume": 155,
+                    "totalBuyQuantity": 52800,
+                    "totalSellQuantity": 36000,
+                    "totalTradedVolume": 157,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
-                    "askPrice": 374.6,
+                    "askPrice": 368.95,
                     "askQty": 900,
                     "bidQty": 300,
                     "bidprice": 341.3,
@@ -1074,7 +1074,7 @@
                     "totalSellQuantity": 12600,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 3800
@@ -1084,7 +1084,7 @@
                     "askPrice": 3.2,
                     "askQty": 300,
                     "bidQty": 300,
-                    "bidprice": 1.5,
+                    "bidprice": 1.4,
                     "change": -1.7500000000000002,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
@@ -1099,13 +1099,13 @@
                     "totalSellQuantity": 19200,
                     "totalTradedVolume": 3,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
-                    "askPrice": 432.85,
+                    "askPrice": 416.7,
                     "askQty": 900,
                     "bidQty": 900,
-                    "bidprice": 389.85,
+                    "bidprice": 389.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1116,11 +1116,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 3850,
-                    "totalBuyQuantity": 12600,
+                    "totalBuyQuantity": 11700,
                     "totalSellQuantity": 12600,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 3850
@@ -1145,7 +1145,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
                     "askPrice": 505.3,
@@ -1166,7 +1166,7 @@
                     "totalSellQuantity": 9900,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 3900
@@ -1195,14 +1195,14 @@
                     "totalSellQuantity": 9000,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 2400
             },
             {
                 "CE": {
-                    "askPrice": 1077.25,
+                    "askPrice": 1071.55,
                     "askQty": 900,
                     "bidQty": 900,
                     "bidprice": 756.1,
@@ -1220,14 +1220,14 @@
                     "totalSellQuantity": 9900,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 2450
             },
             {
                 "CE": {
-                    "askPrice": 1020.1,
+                    "askPrice": 1017.9,
                     "askQty": 900,
                     "bidQty": 900,
                     "bidprice": 707,
@@ -1245,7 +1245,7 @@
                     "totalSellQuantity": 9900,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 2500
@@ -1270,14 +1270,14 @@
                     "totalSellQuantity": 9000,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 2550
             },
             {
                 "CE": {
-                    "askPrice": 973.75,
+                    "askPrice": 966.25,
                     "askQty": 900,
                     "bidQty": 900,
                     "bidprice": 658.1,
@@ -1295,7 +1295,7 @@
                     "totalSellQuantity": 9900,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1316,17 +1316,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3455.05
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 2550
             },
             {
                 "CE": {
-                    "askPrice": 920.25,
+                    "askPrice": 917.85,
                     "askQty": 900,
                     "bidQty": 900,
-                    "bidprice": 789.9,
+                    "bidprice": 790.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1341,7 +1341,7 @@
                     "totalSellQuantity": 9900,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 2600
@@ -1366,17 +1366,17 @@
                     "totalSellQuantity": 9900,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3455.05
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 2600
             },
             {
                 "CE": {
-                    "askPrice": 873.25,
+                    "askPrice": 864.65,
                     "askQty": 900,
                     "bidQty": 900,
-                    "bidprice": 742.75,
+                    "bidprice": 744.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1391,7 +1391,7 @@
                     "totalSellQuantity": 9900,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1412,7 +1412,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 2650
@@ -1437,7 +1437,7 @@
                     "totalSellQuantity": 9900,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3455.05
+                    "underlyingValue": 3454
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1458,7 +1458,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 2650
@@ -1483,7 +1483,7 @@
                     "totalSellQuantity": 9900,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 2700
@@ -1508,7 +1508,7 @@
                     "totalSellQuantity": 9900,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1529,17 +1529,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 2700
             },
             {
                 "CE": {
-                    "askPrice": 765.8,
+                    "askPrice": 760.5,
                     "askQty": 900,
                     "bidQty": 900,
-                    "bidprice": 647.45,
+                    "bidprice": 648.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1554,7 +1554,7 @@
                     "totalSellQuantity": 9900,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1575,7 +1575,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 2750
@@ -1600,7 +1600,7 @@
                     "totalSellQuantity": 9900,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3455.05
+                    "underlyingValue": 3454
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1621,7 +1621,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3455.05
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 2750
@@ -1646,14 +1646,14 @@
                     "totalSellQuantity": 11400,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 2800
             },
             {
                 "CE": {
-                    "askPrice": 710,
+                    "askPrice": 702.8,
                     "askQty": 900,
                     "bidQty": 900,
                     "bidprice": 422.65,
@@ -1671,7 +1671,7 @@
                     "totalSellQuantity": 9900,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1692,15 +1692,15 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 2800
             },
             {
                 "CE": {
-                    "askPrice": 649.1,
-                    "askQty": 9000,
+                    "askPrice": 649.05,
+                    "askQty": 900,
                     "bidQty": 900,
                     "bidprice": 379.1,
                     "change": 0,
@@ -1714,10 +1714,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 2850,
                     "totalBuyQuantity": 900,
-                    "totalSellQuantity": 9000,
+                    "totalSellQuantity": 9900,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1738,17 +1738,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 2850
             },
             {
                 "CE": {
-                    "askPrice": 655.05,
+                    "askPrice": 654.95,
                     "askQty": 900,
                     "bidQty": 900,
-                    "bidprice": 548.8,
+                    "bidprice": 549.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1763,14 +1763,14 @@
                     "totalSellQuantity": 9900,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 2850
             },
             {
                 "CE": {
-                    "askPrice": 606.35,
+                    "askPrice": 602.75,
                     "askQty": 900,
                     "bidQty": 900,
                     "bidprice": 351.25,
@@ -1788,13 +1788,13 @@
                     "totalSellQuantity": 9900,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
-                    "askPrice": 13.65,
+                    "askPrice": 13.75,
                     "askQty": 300,
                     "bidQty": 300,
-                    "bidprice": 4.5,
+                    "bidprice": 6.05,
                     "change": -19.95,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -1809,7 +1809,7 @@
                     "totalSellQuantity": 600,
                     "totalTradedVolume": 1,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 2900
@@ -1834,28 +1834,28 @@
                     "totalSellQuantity": 11700,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3455.05
+                    "underlyingValue": 3454
                 },
                 "PE": {
-                    "askPrice": 0.75,
-                    "askQty": 600,
+                    "askPrice": 0.8,
+                    "askQty": 300,
                     "bidQty": 300,
-                    "bidprice": 0.7,
+                    "bidprice": 0.6,
                     "change": -0.2499999999999999,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOLYCAB25-05-2023PE2900.00",
-                    "impliedVolatility": 0,
+                    "impliedVolatility": 55.66,
                     "lastPrice": 0.9,
                     "openInterest": 309,
                     "pChange": -21.7391304347826,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 2900,
-                    "totalBuyQuantity": 27000,
-                    "totalSellQuantity": 11700,
+                    "totalBuyQuantity": 26700,
+                    "totalSellQuantity": 11400,
                     "totalTradedVolume": 1,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3455.05
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 2900
@@ -1865,7 +1865,7 @@
                     "askPrice": 573.6,
                     "askQty": 9000,
                     "bidQty": 900,
-                    "bidprice": 395.15,
+                    "bidprice": 409.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -1880,7 +1880,7 @@
                     "totalSellQuantity": 9000,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3455.05
+                    "underlyingValue": 3454
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1901,17 +1901,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3455.05
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 2950
             },
             {
                 "CE": {
-                    "askPrice": 512.8,
+                    "askPrice": 512.75,
                     "askQty": 900,
                     "bidQty": 900,
-                    "bidprice": 481.75,
+                    "bidprice": 487.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1922,21 +1922,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 2950,
-                    "totalBuyQuantity": 12600,
-                    "totalSellQuantity": 11700,
+                    "totalBuyQuantity": 11700,
+                    "totalSellQuantity": 12600,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 2950
             },
             {
                 "CE": {
-                    "askPrice": 502.75,
+                    "askPrice": 492.45,
                     "askQty": 900,
                     "bidQty": 900,
-                    "bidprice": 369.7,
+                    "bidprice": 380.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -1951,10 +1951,10 @@
                     "totalSellQuantity": 10200,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3455.05
+                    "underlyingValue": 3454
                 },
                 "PE": {
-                    "askPrice": 16.25,
+                    "askPrice": 16.55,
                     "askQty": 300,
                     "bidQty": 300,
                     "bidprice": 15.2,
@@ -1962,7 +1962,7 @@
                     "changeinOpenInterest": 2,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKPOLYCAB29-06-2023PE3000.00",
-                    "impliedVolatility": 30.79,
+                    "impliedVolatility": 33.89,
                     "lastPrice": 15.75,
                     "openInterest": 45,
                     "pChange": 2.2727272727272703,
@@ -1972,17 +1972,17 @@
                     "totalSellQuantity": 11700,
                     "totalTradedVolume": 17,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3455.05
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 3000
             },
             {
                 "CE": {
-                    "askPrice": 456.5,
-                    "askQty": 300,
+                    "askPrice": 459.05,
+                    "askQty": 900,
                     "bidQty": 300,
-                    "bidprice": 446.45,
+                    "bidprice": 441.55,
                     "change": 10.600000000000023,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1994,31 +1994,31 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 3000,
                     "totalBuyQuantity": 12300,
-                    "totalSellQuantity": 12000,
+                    "totalSellQuantity": 12900,
                     "totalTradedVolume": 1,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
-                    "askPrice": 1.85,
-                    "askQty": 600,
+                    "askPrice": 1.95,
+                    "askQty": 300,
                     "bidQty": 300,
-                    "bidprice": 1.7,
-                    "change": -0.25,
-                    "changeinOpenInterest": -21,
+                    "bidprice": 1.85,
+                    "change": -0.1499999999999999,
+                    "changeinOpenInterest": -23,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOLYCAB25-05-2023PE3000.00",
                     "impliedVolatility": 50.8,
-                    "lastPrice": 1.75,
-                    "openInterest": 624,
-                    "pChange": -12.5,
-                    "pchangeinOpenInterest": -3.255813953488372,
+                    "lastPrice": 1.85,
+                    "openInterest": 622,
+                    "pChange": -7.499999999999996,
+                    "pchangeinOpenInterest": -3.565891472868217,
                     "strikePrice": 3000,
-                    "totalBuyQuantity": 42900,
-                    "totalSellQuantity": 19200,
-                    "totalTradedVolume": 122,
+                    "totalBuyQuantity": 43500,
+                    "totalSellQuantity": 18600,
+                    "totalTradedVolume": 126,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 3000
@@ -2028,7 +2028,7 @@
                     "askPrice": 419.85,
                     "askQty": 900,
                     "bidQty": 900,
-                    "bidprice": 382.9,
+                    "bidprice": 388.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2039,17 +2039,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 3050,
-                    "totalBuyQuantity": 12300,
+                    "totalBuyQuantity": 11400,
                     "totalSellQuantity": 12600,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
-                    "askPrice": 4,
+                    "askPrice": 3.9,
                     "askQty": 300,
-                    "bidQty": 300,
-                    "bidprice": 1.65,
+                    "bidQty": 900,
+                    "bidprice": 1.6,
                     "change": -0.75,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2060,11 +2060,11 @@
                     "pChange": -27.27272727272727,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 3050,
-                    "totalBuyQuantity": 27000,
+                    "totalBuyQuantity": 26700,
                     "totalSellQuantity": 9300,
                     "totalTradedVolume": 2,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 3050
@@ -2074,7 +2074,7 @@
                     "askPrice": 489.65,
                     "askQty": 9000,
                     "bidQty": 900,
-                    "bidprice": 271.8,
+                    "bidprice": 274.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2089,17 +2089,17 @@
                     "totalSellQuantity": 9000,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 3050
             },
             {
                 "CE": {
-                    "askPrice": 357.6,
-                    "askQty": 300,
-                    "bidQty": 1200,
-                    "bidprice": 344,
+                    "askPrice": 356.6,
+                    "askQty": 600,
+                    "bidQty": 300,
+                    "bidprice": 340.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2110,42 +2110,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 3100,
-                    "totalBuyQuantity": 21300,
+                    "totalBuyQuantity": 20100,
                     "totalSellQuantity": 17400,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
-                    "askPrice": 2.55,
-                    "askQty": 600,
-                    "bidQty": 2700,
-                    "bidprice": 2.5,
-                    "change": -0.8500000000000001,
-                    "changeinOpenInterest": -24,
+                    "askPrice": 2.65,
+                    "askQty": 300,
+                    "bidQty": 300,
+                    "bidprice": 2.55,
+                    "change": -0.8999999999999999,
+                    "changeinOpenInterest": -15,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOLYCAB25-05-2023PE3100.00",
                     "impliedVolatility": 43.52,
-                    "lastPrice": 2.5,
-                    "openInterest": 373,
-                    "pChange": -25.37313432835821,
-                    "pchangeinOpenInterest": -6.045340050377834,
+                    "lastPrice": 2.45,
+                    "openInterest": 382,
+                    "pChange": -26.86567164179104,
+                    "pchangeinOpenInterest": -3.7783375314861463,
                     "strikePrice": 3100,
-                    "totalBuyQuantity": 49800,
-                    "totalSellQuantity": 30600,
-                    "totalTradedVolume": 101,
+                    "totalBuyQuantity": 48000,
+                    "totalSellQuantity": 28800,
+                    "totalTradedVolume": 118,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 3100
             },
             {
                 "CE": {
-                    "askPrice": 422.7,
+                    "askPrice": 410.1,
                     "askQty": 900,
                     "bidQty": 900,
-                    "bidprice": 319.65,
+                    "bidprice": 332.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2160,13 +2160,13 @@
                     "totalSellQuantity": 10200,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3455.05
+                    "underlyingValue": 3454
                 },
                 "PE": {
                     "askPrice": 32,
                     "askQty": 300,
                     "bidQty": 300,
-                    "bidprice": 16,
+                    "bidprice": 16.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2181,17 +2181,17 @@
                     "totalSellQuantity": 3000,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3455.05
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 3100
             },
             {
                 "CE": {
-                    "askPrice": 309.2,
+                    "askPrice": 307.3,
                     "askQty": 300,
-                    "bidQty": 900,
-                    "bidprice": 292.65,
+                    "bidQty": 2100,
+                    "bidprice": 287.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2206,28 +2206,28 @@
                     "totalSellQuantity": 19200,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
-                    "askPrice": 3.25,
+                    "askPrice": 3.35,
                     "askQty": 300,
-                    "bidQty": 2100,
-                    "bidprice": 3.05,
-                    "change": -0.8999999999999995,
-                    "changeinOpenInterest": -1,
+                    "bidQty": 600,
+                    "bidprice": 3.15,
+                    "change": -0.8499999999999996,
+                    "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOLYCAB25-05-2023PE3150.00",
                     "impliedVolatility": 39.74,
-                    "lastPrice": 3.2,
-                    "openInterest": 137,
-                    "pChange": -21.95121951219511,
-                    "pchangeinOpenInterest": -0.7246376811594203,
+                    "lastPrice": 3.25,
+                    "openInterest": 138,
+                    "pChange": -20.731707317073162,
+                    "pchangeinOpenInterest": 0,
                     "strikePrice": 3150,
-                    "totalBuyQuantity": 52200,
-                    "totalSellQuantity": 33600,
-                    "totalTradedVolume": 12,
+                    "totalBuyQuantity": 52800,
+                    "totalSellQuantity": 33300,
+                    "totalTradedVolume": 14,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 3150
@@ -2237,7 +2237,7 @@
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 900,
-                    "bidprice": 227.35,
+                    "bidprice": 226.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2252,13 +2252,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 300,
-                    "bidprice": 21.75,
+                    "bidprice": 22.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2273,17 +2273,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 3150
             },
             {
                 "CE": {
-                    "askPrice": 259.1,
-                    "askQty": 600,
+                    "askPrice": 253.45,
+                    "askQty": 300,
                     "bidQty": 300,
-                    "bidprice": 249.85,
+                    "bidprice": 247.05,
                     "change": 3.8499999999999943,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2294,32 +2294,32 @@
                     "pChange": 1.583384741928848,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 3200,
-                    "totalBuyQuantity": 21300,
-                    "totalSellQuantity": 22200,
+                    "totalBuyQuantity": 22500,
+                    "totalSellQuantity": 22800,
                     "totalTradedVolume": 1,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
-                    "askPrice": 4.5,
-                    "askQty": 300,
-                    "bidQty": 300,
-                    "bidprice": 4.35,
-                    "change": -1.25,
-                    "changeinOpenInterest": 1,
+                    "askPrice": 4.75,
+                    "askQty": 2100,
+                    "bidQty": 900,
+                    "bidprice": 4.55,
+                    "change": -1.1499999999999995,
+                    "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOLYCAB25-05-2023PE3200.00",
                     "impliedVolatility": 36.8,
-                    "lastPrice": 4.55,
-                    "openInterest": 509,
-                    "pChange": -21.551724137931036,
-                    "pchangeinOpenInterest": 0.1968503937007874,
+                    "lastPrice": 4.65,
+                    "openInterest": 506,
+                    "pChange": -19.827586206896544,
+                    "pchangeinOpenInterest": -0.3937007874015748,
                     "strikePrice": 3200,
-                    "totalBuyQuantity": 40800,
-                    "totalSellQuantity": 40800,
-                    "totalTradedVolume": 81,
+                    "totalBuyQuantity": 43800,
+                    "totalSellQuantity": 39300,
+                    "totalTradedVolume": 89,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 3200
@@ -2328,8 +2328,8 @@
                 "CE": {
                     "askPrice": 319,
                     "askQty": 300,
-                    "bidQty": 600,
-                    "bidprice": 252.95,
+                    "bidQty": 300,
+                    "bidprice": 218.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2340,11 +2340,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 3200,
-                    "totalBuyQuantity": 900,
+                    "totalBuyQuantity": 1200,
                     "totalSellQuantity": 300,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2365,17 +2365,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 2,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 3200
             },
             {
                 "CE": {
-                    "askPrice": 212.95,
-                    "askQty": 600,
+                    "askPrice": 207.9,
+                    "askQty": 300,
                     "bidQty": 2100,
-                    "bidprice": 195.5,
+                    "bidprice": 194.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2386,32 +2386,32 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 3250,
-                    "totalBuyQuantity": 28200,
-                    "totalSellQuantity": 21000,
+                    "totalBuyQuantity": 29100,
+                    "totalSellQuantity": 22200,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
-                    "askPrice": 6.95,
+                    "askPrice": 7.65,
                     "askQty": 300,
-                    "bidQty": 900,
-                    "bidprice": 6.75,
-                    "change": -1.8000000000000007,
-                    "changeinOpenInterest": -18,
+                    "bidQty": 300,
+                    "bidprice": 7.45,
+                    "change": -1.7500000000000009,
+                    "changeinOpenInterest": -15,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOLYCAB25-05-2023PE3250.00",
                     "impliedVolatility": 35.18,
-                    "lastPrice": 7,
-                    "openInterest": 150,
-                    "pChange": -20.45454545454546,
-                    "pchangeinOpenInterest": -10.714285714285714,
+                    "lastPrice": 7.05,
+                    "openInterest": 153,
+                    "pChange": -19.886363636363644,
+                    "pchangeinOpenInterest": -8.928571428571429,
                     "strikePrice": 3250,
-                    "totalBuyQuantity": 54300,
-                    "totalSellQuantity": 36600,
-                    "totalTradedVolume": 114,
+                    "totalBuyQuantity": 56100,
+                    "totalSellQuantity": 35100,
+                    "totalTradedVolume": 116,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 3250
@@ -2420,8 +2420,8 @@
                 "CE": {
                     "askPrice": 0,
                     "askQty": 0,
-                    "bidQty": 900,
-                    "bidprice": 179.55,
+                    "bidQty": 0,
+                    "bidprice": 0,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2432,17 +2432,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 3250,
-                    "totalBuyQuantity": 900,
+                    "totalBuyQuantity": 0,
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 300,
-                    "bidprice": 40.7,
+                    "bidprice": 41.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2457,84 +2457,84 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 3250
             },
             {
                 "CE": {
-                    "askPrice": 163.95,
+                    "askPrice": 159.6,
                     "askQty": 300,
                     "bidQty": 300,
-                    "bidprice": 160,
-                    "change": -4.099999999999994,
-                    "changeinOpenInterest": -1,
+                    "bidprice": 155.65,
+                    "change": 5.050000000000011,
+                    "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOLYCAB25-05-2023CE3300.00",
                     "impliedVolatility": 0,
-                    "lastPrice": 150.85,
-                    "openInterest": 193,
-                    "pChange": -2.646014843497899,
-                    "pchangeinOpenInterest": -0.5154639175257731,
+                    "lastPrice": 160,
+                    "openInterest": 194,
+                    "pChange": 3.2591158438205947,
+                    "pchangeinOpenInterest": 0,
                     "strikePrice": 3300,
-                    "totalBuyQuantity": 32400,
-                    "totalSellQuantity": 27300,
-                    "totalTradedVolume": 9,
+                    "totalBuyQuantity": 31800,
+                    "totalSellQuantity": 27900,
+                    "totalTradedVolume": 10,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
-                    "askPrice": 11.45,
+                    "askPrice": 12.6,
                     "askQty": 300,
                     "bidQty": 300,
-                    "bidprice": 11.25,
-                    "change": -2.8000000000000007,
-                    "changeinOpenInterest": -7,
+                    "bidprice": 12.25,
+                    "change": -1.8500000000000014,
+                    "changeinOpenInterest": -6,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOLYCAB25-05-2023PE3300.00",
                     "impliedVolatility": 32.87,
-                    "lastPrice": 11.5,
-                    "openInterest": 465,
-                    "pChange": -19.580419580419584,
-                    "pchangeinOpenInterest": -1.4830508474576272,
+                    "lastPrice": 12.45,
+                    "openInterest": 466,
+                    "pChange": -12.937062937062946,
+                    "pchangeinOpenInterest": -1.271186440677966,
                     "strikePrice": 3300,
-                    "totalBuyQuantity": 51600,
-                    "totalSellQuantity": 52500,
-                    "totalTradedVolume": 119,
+                    "totalBuyQuantity": 55200,
+                    "totalSellQuantity": 51000,
+                    "totalTradedVolume": 124,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 3300
             },
             {
                 "CE": {
-                    "askPrice": 204.75,
+                    "askPrice": 204.5,
                     "askQty": 300,
-                    "bidQty": 600,
-                    "bidprice": 198.6,
+                    "bidQty": 300,
+                    "bidprice": 195.85,
                     "change": -2,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKPOLYCAB29-06-2023CE3300.00",
-                    "impliedVolatility": 15.53,
+                    "impliedVolatility": 10.07,
                     "lastPrice": 195,
                     "openInterest": 32,
                     "pChange": -1.015228426395939,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 3300,
-                    "totalBuyQuantity": 2400,
-                    "totalSellQuantity": 2400,
+                    "totalBuyQuantity": 2700,
+                    "totalSellQuantity": 3000,
                     "totalTradedVolume": 9,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3455.05
+                    "underlyingValue": 3454
                 },
                 "PE": {
-                    "askPrice": 0,
-                    "askQty": 0,
+                    "askPrice": 97.8,
+                    "askQty": 300,
                     "bidQty": 300,
-                    "bidprice": 56,
+                    "bidprice": 58.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2545,19 +2545,19 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 3300,
-                    "totalBuyQuantity": 3300,
-                    "totalSellQuantity": 0,
+                    "totalBuyQuantity": 3600,
+                    "totalSellQuantity": 2700,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 3300
             },
             {
                 "CE": {
-                    "askPrice": 0,
-                    "askQty": 0,
+                    "askPrice": 205.3,
+                    "askQty": 300,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -2571,16 +2571,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 3350,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 0,
+                    "totalSellQuantity": 300,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3455.05
+                    "underlyingValue": 3454
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 300,
-                    "bidprice": 69.7,
+                    "bidprice": 70.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2595,17 +2595,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3455.05
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 3350
             },
             {
                 "CE": {
-                    "askPrice": 120.2,
+                    "askPrice": 117.1,
                     "askQty": 300,
                     "bidQty": 300,
-                    "bidprice": 117.35,
+                    "bidprice": 114.05,
                     "change": 2.049999999999997,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
@@ -2616,42 +2616,42 @@
                     "pChange": 1.7741237559498029,
                     "pchangeinOpenInterest": -0.5555555555555556,
                     "strikePrice": 3350,
-                    "totalBuyQuantity": 21600,
-                    "totalSellQuantity": 17700,
+                    "totalBuyQuantity": 20700,
+                    "totalSellQuantity": 17400,
                     "totalTradedVolume": 32,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
-                    "askPrice": 18.7,
+                    "askPrice": 20.4,
                     "askQty": 300,
-                    "bidQty": 5100,
-                    "bidprice": 18.5,
-                    "change": -3.1499999999999986,
+                    "bidQty": 300,
+                    "bidprice": 19.85,
+                    "change": -3.6499999999999986,
                     "changeinOpenInterest": 14,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOLYCAB25-05-2023PE3350.00",
                     "impliedVolatility": 31.44,
-                    "lastPrice": 19.3,
+                    "lastPrice": 18.8,
                     "openInterest": 180,
-                    "pChange": -14.031180400890864,
+                    "pChange": -16.258351893095764,
                     "pchangeinOpenInterest": 8.433734939759036,
                     "strikePrice": 3350,
-                    "totalBuyQuantity": 51900,
-                    "totalSellQuantity": 42600,
-                    "totalTradedVolume": 81,
+                    "totalBuyQuantity": 62400,
+                    "totalSellQuantity": 40200,
+                    "totalTradedVolume": 82,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 3350
             },
             {
                 "CE": {
-                    "askPrice": 150.85,
+                    "askPrice": 148.45,
                     "askQty": 300,
                     "bidQty": 300,
-                    "bidprice": 138.2,
+                    "bidprice": 135.2,
                     "change": 3.5999999999999943,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2663,16 +2663,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 3400,
                     "totalBuyQuantity": 1200,
-                    "totalSellQuantity": 2400,
+                    "totalSellQuantity": 2700,
                     "totalTradedVolume": 1,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
-                    "askPrice": 0,
-                    "askQty": 0,
+                    "askPrice": 117.15,
+                    "askQty": 300,
                     "bidQty": 300,
-                    "bidprice": 90,
+                    "bidprice": 103.1,
                     "change": -12.049999999999997,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2683,18 +2683,18 @@
                     "pChange": -10.850968032417828,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 3400,
-                    "totalBuyQuantity": 1800,
-                    "totalSellQuantity": 0,
+                    "totalBuyQuantity": 2400,
+                    "totalSellQuantity": 2100,
                     "totalTradedVolume": 1,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 3400
             },
             {
                 "CE": {
-                    "askPrice": 243.25,
+                    "askPrice": 239.9,
                     "askQty": 300,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -2712,106 +2712,106 @@
                     "totalSellQuantity": 300,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 3400
             },
             {
                 "CE": {
-                    "askPrice": 83.6,
+                    "askPrice": 80.35,
                     "askQty": 300,
-                    "bidQty": 300,
-                    "bidprice": 82.25,
-                    "change": 2.1500000000000057,
-                    "changeinOpenInterest": -36,
+                    "bidQty": 900,
+                    "bidprice": 78.8,
+                    "change": 0,
+                    "changeinOpenInterest": -38,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOLYCAB25-05-2023CE3400.00",
                     "impliedVolatility": 22.26,
-                    "lastPrice": 82,
-                    "openInterest": 607,
-                    "pChange": 2.692548528490928,
-                    "pchangeinOpenInterest": -5.598755832037325,
+                    "lastPrice": 79.85,
+                    "openInterest": 605,
+                    "pChange": 0,
+                    "pchangeinOpenInterest": -5.909797822706065,
                     "strikePrice": 3400,
-                    "totalBuyQuantity": 40800,
-                    "totalSellQuantity": 68700,
-                    "totalTradedVolume": 241,
+                    "totalBuyQuantity": 40200,
+                    "totalSellQuantity": 68400,
+                    "totalTradedVolume": 250,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
-                    "askPrice": 31.9,
+                    "askPrice": 34.25,
                     "askQty": 300,
                     "bidQty": 300,
-                    "bidprice": 31.25,
-                    "change": -6.549999999999997,
-                    "changeinOpenInterest": 32,
+                    "bidprice": 33.55,
+                    "change": -5.799999999999997,
+                    "changeinOpenInterest": 35,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOLYCAB25-05-2023PE3400.00",
                     "impliedVolatility": 31.04,
-                    "lastPrice": 31.5,
-                    "openInterest": 302,
-                    "pChange": -17.214191852825223,
-                    "pchangeinOpenInterest": 11.851851851851851,
+                    "lastPrice": 32.25,
+                    "openInterest": 305,
+                    "pChange": -15.243101182654396,
+                    "pchangeinOpenInterest": 12.962962962962964,
                     "strikePrice": 3400,
-                    "totalBuyQuantity": 48000,
-                    "totalSellQuantity": 40500,
-                    "totalTradedVolume": 230,
+                    "totalBuyQuantity": 48600,
+                    "totalSellQuantity": 36900,
+                    "totalTradedVolume": 239,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 3400
             },
             {
                 "CE": {
-                    "askPrice": 53.6,
+                    "askPrice": 52.3,
                     "askQty": 300,
                     "bidQty": 300,
-                    "bidprice": 53,
-                    "change": -2.8500000000000014,
-                    "changeinOpenInterest": -29,
+                    "bidprice": 51.55,
+                    "change": -1.3999999999999986,
+                    "changeinOpenInterest": -26,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOLYCAB25-05-2023CE3450.00",
                     "impliedVolatility": 23.34,
-                    "lastPrice": 50.55,
-                    "openInterest": 315,
-                    "pChange": -5.337078651685396,
-                    "pchangeinOpenInterest": -8.430232558139535,
+                    "lastPrice": 52,
+                    "openInterest": 318,
+                    "pChange": -2.621722846441945,
+                    "pchangeinOpenInterest": -7.558139534883721,
                     "strikePrice": 3450,
-                    "totalBuyQuantity": 44400,
-                    "totalSellQuantity": 46500,
-                    "totalTradedVolume": 264,
+                    "totalBuyQuantity": 46500,
+                    "totalSellQuantity": 46200,
+                    "totalTradedVolume": 282,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
-                    "askPrice": 53.45,
-                    "askQty": 600,
+                    "askPrice": 56.5,
+                    "askQty": 300,
                     "bidQty": 300,
-                    "bidprice": 52.25,
-                    "change": -5.049999999999997,
-                    "changeinOpenInterest": 8,
+                    "bidprice": 55.55,
+                    "change": -6.25,
+                    "changeinOpenInterest": 7,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOLYCAB25-05-2023PE3450.00",
                     "impliedVolatility": 32.67,
-                    "lastPrice": 56.6,
-                    "openInterest": 119,
-                    "pChange": -8.191403081914027,
-                    "pchangeinOpenInterest": 7.207207207207207,
+                    "lastPrice": 55.4,
+                    "openInterest": 118,
+                    "pChange": -10.137875101378752,
+                    "pchangeinOpenInterest": 6.306306306306307,
                     "strikePrice": 3450,
                     "totalBuyQuantity": 36600,
-                    "totalSellQuantity": 11700,
-                    "totalTradedVolume": 83,
+                    "totalSellQuantity": 11100,
+                    "totalTradedVolume": 86,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 3450
             },
             {
                 "CE": {
-                    "askPrice": 238.55,
+                    "askPrice": 235.5,
                     "askQty": 300,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -2829,14 +2829,14 @@
                     "totalSellQuantity": 300,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 3450
             },
             {
                 "CE": {
-                    "askPrice": 148.55,
+                    "askPrice": 145.45,
                     "askQty": 300,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -2854,38 +2854,38 @@
                     "totalSellQuantity": 9600,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 3450
             },
             {
                 "CE": {
-                    "askPrice": 33.85,
+                    "askPrice": 32.8,
                     "askQty": 300,
-                    "bidQty": 600,
-                    "bidprice": 33.1,
-                    "change": -0.75,
-                    "changeinOpenInterest": 49,
+                    "bidQty": 300,
+                    "bidprice": 32.05,
+                    "change": -0.6499999999999986,
+                    "changeinOpenInterest": 50,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOLYCAB25-05-2023CE3500.00",
                     "impliedVolatility": 25.87,
-                    "lastPrice": 33.35,
-                    "openInterest": 822,
-                    "pChange": -2.19941348973607,
-                    "pchangeinOpenInterest": 6.338939197930142,
+                    "lastPrice": 33.45,
+                    "openInterest": 823,
+                    "pChange": -1.9061583577712569,
+                    "pchangeinOpenInterest": 6.468305304010349,
                     "strikePrice": 3500,
-                    "totalBuyQuantity": 57000,
-                    "totalSellQuantity": 94800,
-                    "totalTradedVolume": 523,
+                    "totalBuyQuantity": 56100,
+                    "totalSellQuantity": 96300,
+                    "totalTradedVolume": 531,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
-                    "askPrice": 83.9,
+                    "askPrice": 87.2,
                     "askQty": 300,
-                    "bidQty": 600,
-                    "bidprice": 81.6,
+                    "bidQty": 300,
+                    "bidprice": 85.25,
                     "change": -2.6999999999999886,
                     "changeinOpenInterest": 14,
                     "expiryDate": "25-May-2023",
@@ -2897,20 +2897,20 @@
                     "pchangeinOpenInterest": 12.962962962962964,
                     "strikePrice": 3500,
                     "totalBuyQuantity": 30300,
-                    "totalSellQuantity": 27000,
+                    "totalSellQuantity": 25800,
                     "totalTradedVolume": 35,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 3500
             },
             {
                 "CE": {
-                    "askPrice": 95.45,
+                    "askPrice": 95.4,
                     "askQty": 300,
                     "bidQty": 300,
-                    "bidprice": 87.4,
+                    "bidprice": 84.35,
                     "change": -1.1000000000000085,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2922,16 +2922,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 3500,
                     "totalBuyQuantity": 6900,
-                    "totalSellQuantity": 8400,
+                    "totalSellQuantity": 8700,
                     "totalTradedVolume": 1,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
-                    "askPrice": 172.6,
-                    "askQty": 900,
+                    "askPrice": 175,
+                    "askQty": 300,
                     "bidQty": 300,
-                    "bidprice": 145.05,
+                    "bidprice": 146.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2943,17 +2943,17 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 3500,
                     "totalBuyQuantity": 600,
-                    "totalSellQuantity": 1200,
+                    "totalSellQuantity": 300,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3455.05
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 3500
             },
             {
                 "CE": {
-                    "askPrice": 213.4,
+                    "askPrice": 210.6,
                     "askQty": 300,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -2971,17 +2971,17 @@
                     "totalSellQuantity": 300,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 3500
             },
             {
                 "CE": {
-                    "askPrice": 20.6,
+                    "askPrice": 19.85,
                     "askQty": 300,
-                    "bidQty": 600,
-                    "bidprice": 20,
+                    "bidQty": 300,
+                    "bidprice": 19.25,
                     "change": -1.25,
                     "changeinOpenInterest": 10,
                     "expiryDate": "25-May-2023",
@@ -2992,17 +2992,17 @@
                     "pChange": -5.76036866359447,
                     "pchangeinOpenInterest": 5.128205128205129,
                     "strikePrice": 3550,
-                    "totalBuyQuantity": 52800,
-                    "totalSellQuantity": 35700,
+                    "totalBuyQuantity": 51000,
+                    "totalSellQuantity": 35400,
                     "totalTradedVolume": 128,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
-                    "askPrice": 122.8,
-                    "askQty": 300,
+                    "askPrice": 129.35,
+                    "askQty": 900,
                     "bidQty": 300,
-                    "bidprice": 108.15,
+                    "bidprice": 121.95,
                     "change": 10.600000000000009,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3013,21 +3013,21 @@
                     "pChange": 8.316987053746573,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 3550,
-                    "totalBuyQuantity": 11400,
-                    "totalSellQuantity": 13500,
+                    "totalBuyQuantity": 9000,
+                    "totalSellQuantity": 13200,
                     "totalTradedVolume": 1,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 3550
             },
             {
                 "CE": {
-                    "askPrice": 87.55,
+                    "askPrice": 87.6,
                     "askQty": 300,
                     "bidQty": 300,
-                    "bidprice": 58.9,
+                    "bidprice": 58.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3039,16 +3039,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 3550,
                     "totalBuyQuantity": 300,
-                    "totalSellQuantity": 10200,
+                    "totalSellQuantity": 9300,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
-                    "askPrice": 286.95,
+                    "askPrice": 282.6,
                     "askQty": 900,
-                    "bidQty": 900,
-                    "bidprice": 123,
+                    "bidQty": 0,
+                    "bidprice": 0,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3059,18 +3059,18 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 3550,
-                    "totalBuyQuantity": 900,
+                    "totalBuyQuantity": 0,
                     "totalSellQuantity": 900,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3455.05
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 3550
             },
             {
                 "CE": {
-                    "askPrice": 190.2,
+                    "askPrice": 187.65,
                     "askQty": 300,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -3088,38 +3088,38 @@
                     "totalSellQuantity": 300,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 3550
             },
             {
                 "CE": {
-                    "askPrice": 12.6,
+                    "askPrice": 12.1,
                     "askQty": 300,
-                    "bidQty": 600,
-                    "bidprice": 12.2,
-                    "change": -1.700000000000001,
-                    "changeinOpenInterest": -10,
+                    "bidQty": 900,
+                    "bidprice": 11.75,
+                    "change": -1.8000000000000007,
+                    "changeinOpenInterest": -30,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOLYCAB25-05-2023CE3600.00",
                     "impliedVolatility": 28.88,
-                    "lastPrice": 12.2,
-                    "openInterest": 576,
-                    "pChange": -12.230215827338137,
-                    "pchangeinOpenInterest": -1.7064846416382253,
+                    "lastPrice": 12.1,
+                    "openInterest": 556,
+                    "pChange": -12.949640287769789,
+                    "pchangeinOpenInterest": -5.1194539249146755,
                     "strikePrice": 3600,
-                    "totalBuyQuantity": 91200,
-                    "totalSellQuantity": 66600,
-                    "totalTradedVolume": 218,
+                    "totalBuyQuantity": 88500,
+                    "totalSellQuantity": 66000,
+                    "totalTradedVolume": 222,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
-                    "askPrice": 168,
+                    "askPrice": 169.45,
                     "askQty": 300,
                     "bidQty": 300,
-                    "bidprice": 159,
+                    "bidprice": 164.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3130,21 +3130,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 3600,
-                    "totalBuyQuantity": 13800,
+                    "totalBuyQuantity": 14100,
                     "totalSellQuantity": 13500,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3455.05
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 3600
             },
             {
                 "CE": {
-                    "askPrice": 62.3,
+                    "askPrice": 62.25,
                     "askQty": 300,
                     "bidQty": 300,
-                    "bidprice": 51,
+                    "bidprice": 55.05,
                     "change": 2.450000000000003,
                     "changeinOpenInterest": -1,
                     "expiryDate": "29-Jun-2023",
@@ -3159,13 +3159,13 @@
                     "totalSellQuantity": 2700,
                     "totalTradedVolume": 2,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
-                    "askPrice": 258.75,
+                    "askPrice": 246.25,
                     "askQty": 900,
                     "bidQty": 900,
-                    "bidprice": 143.1,
+                    "bidprice": 155.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3180,38 +3180,38 @@
                     "totalSellQuantity": 1200,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 3600
             },
             {
                 "CE": {
-                    "askPrice": 7.9,
+                    "askPrice": 7.6,
                     "askQty": 300,
-                    "bidQty": 300,
-                    "bidprice": 7.65,
-                    "change": -2.0999999999999996,
+                    "bidQty": 600,
+                    "bidprice": 7.3,
+                    "change": -1.4499999999999993,
                     "changeinOpenInterest": 10,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOLYCAB25-05-2023CE3650.00",
                     "impliedVolatility": 29.92,
-                    "lastPrice": 7,
+                    "lastPrice": 7.65,
                     "openInterest": 132,
-                    "pChange": -23.076923076923073,
+                    "pChange": -15.934065934065927,
                     "pchangeinOpenInterest": 8.19672131147541,
                     "strikePrice": 3650,
-                    "totalBuyQuantity": 61800,
-                    "totalSellQuantity": 36900,
-                    "totalTradedVolume": 94,
+                    "totalBuyQuantity": 60300,
+                    "totalSellQuantity": 41100,
+                    "totalTradedVolume": 96,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
                     "askPrice": 223.75,
                     "askQty": 300,
                     "bidQty": 300,
-                    "bidprice": 196,
+                    "bidprice": 201.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3222,21 +3222,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 3650,
-                    "totalBuyQuantity": 13500,
+                    "totalBuyQuantity": 12300,
                     "totalSellQuantity": 12000,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 3650
             },
             {
                 "CE": {
-                    "askPrice": 79.8,
+                    "askPrice": 78.3,
                     "askQty": 300,
                     "bidQty": 300,
-                    "bidprice": 33.15,
+                    "bidprice": 37.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3251,13 +3251,13 @@
                     "totalSellQuantity": 300,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 900,
-                    "bidprice": 160.65,
+                    "bidprice": 158.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3272,38 +3272,38 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3455.05
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 3650
             },
             {
                 "CE": {
-                    "askPrice": 5.1,
-                    "askQty": 900,
-                    "bidQty": 300,
-                    "bidprice": 4.95,
-                    "change": -1.1500000000000004,
-                    "changeinOpenInterest": -5,
+                    "askPrice": 4.9,
+                    "askQty": 600,
+                    "bidQty": 600,
+                    "bidprice": 4.7,
+                    "change": -1.4000000000000004,
+                    "changeinOpenInterest": -4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOLYCAB25-05-2023CE3700.00",
                     "impliedVolatility": 32.14,
-                    "lastPrice": 5,
-                    "openInterest": 418,
-                    "pChange": -18.699186991869922,
-                    "pchangeinOpenInterest": -1.1820330969267139,
+                    "lastPrice": 4.75,
+                    "openInterest": 419,
+                    "pChange": -22.764227642276428,
+                    "pchangeinOpenInterest": -0.9456264775413712,
                     "strikePrice": 3700,
-                    "totalBuyQuantity": 60900,
-                    "totalSellQuantity": 63900,
-                    "totalTradedVolume": 131,
+                    "totalBuyQuantity": 58800,
+                    "totalSellQuantity": 64200,
+                    "totalTradedVolume": 137,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
                     "askPrice": 273.25,
                     "askQty": 300,
-                    "bidQty": 600,
-                    "bidprice": 242.65,
+                    "bidQty": 300,
+                    "bidprice": 249.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3314,11 +3314,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 3700,
-                    "totalBuyQuantity": 12600,
+                    "totalBuyQuantity": 13500,
                     "totalSellQuantity": 12000,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 3700
@@ -3328,7 +3328,7 @@
                     "askPrice": 79.5,
                     "askQty": 300,
                     "bidQty": 300,
-                    "bidprice": 25.85,
+                    "bidprice": 26.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3343,13 +3343,13 @@
                     "totalSellQuantity": 600,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
-                    "askPrice": 0,
-                    "askQty": 0,
-                    "bidQty": 900,
-                    "bidprice": 178.1,
+                    "askPrice": 417.85,
+                    "askQty": 900,
+                    "bidQty": 0,
+                    "bidprice": 0,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3360,36 +3360,36 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 3700,
-                    "totalBuyQuantity": 900,
-                    "totalSellQuantity": 0,
+                    "totalBuyQuantity": 0,
+                    "totalSellQuantity": 900,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 3700
             },
             {
                 "CE": {
-                    "askPrice": 3.5,
-                    "askQty": 600,
-                    "bidQty": 900,
-                    "bidprice": 3.35,
+                    "askPrice": 3.35,
+                    "askQty": 900,
+                    "bidQty": 600,
+                    "bidprice": 3.25,
                     "change": -0.8999999999999995,
-                    "changeinOpenInterest": -10,
+                    "changeinOpenInterest": -12,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOLYCAB25-05-2023CE3750.00",
                     "impliedVolatility": 34.72,
                     "lastPrice": 3.45,
-                    "openInterest": 129,
+                    "openInterest": 127,
                     "pChange": -20.689655172413783,
-                    "pchangeinOpenInterest": -7.194244604316546,
+                    "pchangeinOpenInterest": -8.633093525179856,
                     "strikePrice": 3750,
-                    "totalBuyQuantity": 53400,
-                    "totalSellQuantity": 35100,
-                    "totalTradedVolume": 86,
+                    "totalBuyQuantity": 52500,
+                    "totalSellQuantity": 36900,
+                    "totalTradedVolume": 90,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
                     "askPrice": 321.65,
@@ -3410,7 +3410,7 @@
                     "totalSellQuantity": 12900,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 3750
@@ -3435,13 +3435,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 900,
-                    "bidprice": 199.85,
+                    "bidprice": 200.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3456,35 +3456,35 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 3750
             },
             {
                 "CE": {
-                    "askPrice": 2.75,
-                    "askQty": 900,
-                    "bidQty": 600,
-                    "bidprice": 2.65,
-                    "change": -0.75,
+                    "askPrice": 2.6,
+                    "askQty": 600,
+                    "bidQty": 3600,
+                    "bidprice": 2.5,
+                    "change": -0.5499999999999998,
                     "changeinOpenInterest": -32,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKPOLYCAB25-05-2023CE3800.00",
                     "impliedVolatility": 36.95,
-                    "lastPrice": 2.5,
+                    "lastPrice": 2.7,
                     "openInterest": 107,
-                    "pChange": -23.076923076923077,
+                    "pChange": -16.92307692307692,
                     "pchangeinOpenInterest": -23.02158273381295,
                     "strikePrice": 3800,
-                    "totalBuyQuantity": 54300,
-                    "totalSellQuantity": 35400,
-                    "totalTradedVolume": 155,
+                    "totalBuyQuantity": 52800,
+                    "totalSellQuantity": 36000,
+                    "totalTradedVolume": 157,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
-                    "askPrice": 374.6,
+                    "askPrice": 368.95,
                     "askQty": 900,
                     "bidQty": 300,
                     "bidprice": 341.3,
@@ -3502,7 +3502,7 @@
                     "totalSellQuantity": 12600,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 3800
@@ -3512,7 +3512,7 @@
                     "askPrice": 44.95,
                     "askQty": 300,
                     "bidQty": 300,
-                    "bidprice": 10.8,
+                    "bidprice": 11.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3527,13 +3527,13 @@
                     "totalSellQuantity": 1500,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
-                    "askPrice": 454.65,
+                    "askPrice": 444.25,
                     "askQty": 900,
                     "bidQty": 900,
-                    "bidprice": 293.65,
+                    "bidprice": 304.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3548,7 +3548,7 @@
                     "totalSellQuantity": 1200,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 3800
@@ -3558,7 +3558,7 @@
                     "askPrice": 3.2,
                     "askQty": 300,
                     "bidQty": 300,
-                    "bidprice": 1.5,
+                    "bidprice": 1.4,
                     "change": -1.7500000000000002,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
@@ -3573,13 +3573,13 @@
                     "totalSellQuantity": 19200,
                     "totalTradedVolume": 3,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
-                    "askPrice": 432.85,
+                    "askPrice": 416.7,
                     "askQty": 900,
                     "bidQty": 900,
-                    "bidprice": 389.85,
+                    "bidprice": 389.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3590,21 +3590,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 3850,
-                    "totalBuyQuantity": 12600,
+                    "totalBuyQuantity": 11700,
                     "totalSellQuantity": 12600,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 3850
             },
             {
                 "CE": {
-                    "askPrice": 40,
+                    "askPrice": 37,
                     "askQty": 900,
-                    "bidQty": 300,
-                    "bidprice": 1.05,
+                    "bidQty": 6000,
+                    "bidprice": 1.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3615,17 +3615,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 3850,
-                    "totalBuyQuantity": 3300,
-                    "totalSellQuantity": 1200,
+                    "totalBuyQuantity": 6300,
+                    "totalSellQuantity": 2100,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
-                    "askPrice": 507.9,
+                    "askPrice": 497.5,
                     "askQty": 900,
                     "bidQty": 900,
-                    "bidprice": 318.65,
+                    "bidprice": 329.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3640,7 +3640,7 @@
                     "totalSellQuantity": 1200,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 3850
@@ -3665,7 +3665,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
                     "askPrice": 505.3,
@@ -3686,7 +3686,7 @@
                     "totalSellQuantity": 9900,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 3900
@@ -3711,7 +3711,7 @@
                     "totalSellQuantity": 900,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "PE": {
                     "askPrice": 631.55,
@@ -3732,7 +3732,7 @@
                     "totalSellQuantity": 900,
                     "totalTradedVolume": 0,
                     "underlying": "POLYCAB",
-                    "underlyingValue": 3459
+                    "underlyingValue": 3454
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 3900
@@ -3776,7 +3776,7 @@
             3850,
             3900
         ],
-        "timestamp": "18-May-2023 10:21:15",
-        "underlyingValue": 3459
+        "timestamp": "18-May-2023 10:25:46",
+        "underlyingValue": 3454
     }
 }

@@ -1,12 +1,12 @@
 {
     "filtered": {
         "CE": {
-            "totOI": 8069,
-            "totVol": 1006
+            "totOI": 8070,
+            "totVol": 1026
         },
         "PE": {
-            "totOI": 7310,
-            "totVol": 605
+            "totOI": 7312,
+            "totVol": 615
         },
         "data": [
             {
@@ -29,7 +29,7 @@
                     "totalSellQuantity": 55000,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
                     "askPrice": 0.1,
@@ -50,7 +50,7 @@
                     "totalSellQuantity": 57200,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 230
@@ -75,7 +75,7 @@
                     "totalSellQuantity": 58300,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
                     "askPrice": 2.75,
@@ -96,7 +96,7 @@
                     "totalSellQuantity": 55000,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 235
@@ -121,7 +121,7 @@
                     "totalSellQuantity": 64900,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
                     "askPrice": 0.15,
@@ -132,7 +132,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023PE240.00",
-                    "impliedVolatility": 85.7,
+                    "impliedVolatility": 86.23,
                     "lastPrice": 0.15,
                     "openInterest": 171,
                     "pChange": -25.000000000000007,
@@ -142,7 +142,7 @@
                     "totalSellQuantity": 138600,
                     "totalTradedVolume": 1,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 240
@@ -151,8 +151,8 @@
                 "CE": {
                     "askPrice": 70.55,
                     "askQty": 3300,
-                    "bidQty": 6600,
-                    "bidprice": 65.65,
+                    "bidQty": 3300,
+                    "bidprice": 65.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -163,11 +163,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 245,
-                    "totalBuyQuantity": 61600,
+                    "totalBuyQuantity": 64900,
                     "totalSellQuantity": 64900,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
                     "askPrice": 1.5,
@@ -188,7 +188,7 @@
                     "totalSellQuantity": 6600,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 245
@@ -213,7 +213,7 @@
                     "totalSellQuantity": 66000,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
                     "askPrice": 0.2,
@@ -224,7 +224,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023PE250.00",
-                    "impliedVolatility": 77.03,
+                    "impliedVolatility": 77.59,
                     "lastPrice": 0.2,
                     "openInterest": 506,
                     "pChange": -19.999999999999996,
@@ -234,14 +234,14 @@
                     "totalSellQuantity": 111100,
                     "totalTradedVolume": 1,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 250
             },
             {
                 "CE": {
-                    "askPrice": 60.25,
+                    "askPrice": 61.5,
                     "askQty": 3300,
                     "bidQty": 3300,
                     "bidprice": 55.7,
@@ -259,7 +259,7 @@
                     "totalSellQuantity": 64900,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
                     "askPrice": 1.5,
@@ -280,7 +280,7 @@
                     "totalSellQuantity": 7700,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 255
@@ -305,7 +305,7 @@
                     "totalSellQuantity": 64900,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
                     "askPrice": 0.4,
@@ -316,27 +316,27 @@
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023PE260.00",
-                    "impliedVolatility": 65.15,
+                    "impliedVolatility": 65.72,
                     "lastPrice": 0.2,
                     "openInterest": 382,
                     "pChange": -42.85714285714285,
                     "pchangeinOpenInterest": -0.26109660574412535,
                     "strikePrice": 260,
                     "totalBuyQuantity": 139700,
-                    "totalSellQuantity": 41800,
+                    "totalSellQuantity": 44000,
                     "totalTradedVolume": 2,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 260
             },
             {
                 "CE": {
-                    "askPrice": 50.15,
+                    "askPrice": 51.05,
                     "askQty": 3300,
                     "bidQty": 3300,
-                    "bidprice": 46.4,
+                    "bidprice": 45.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -347,11 +347,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 265,
-                    "totalBuyQuantity": 64900,
+                    "totalBuyQuantity": 68200,
                     "totalSellQuantity": 68200,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
                     "askPrice": 1.65,
@@ -372,17 +372,17 @@
                     "totalSellQuantity": 56100,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 265
             },
             {
                 "CE": {
-                    "askPrice": 43.75,
+                    "askPrice": 44.25,
                     "askQty": 1100,
-                    "bidQty": 1100,
-                    "bidprice": 41.7,
+                    "bidQty": 3300,
+                    "bidprice": 41.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -393,22 +393,22 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 270,
-                    "totalBuyQuantity": 66000,
-                    "totalSellQuantity": 68200,
+                    "totalBuyQuantity": 69300,
+                    "totalSellQuantity": 67100,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 0.65,
-                    "askQty": 3300,
-                    "bidQty": 1100,
+                    "askPrice": 0.6,
+                    "askQty": 1100,
+                    "bidQty": 7700,
                     "bidprice": 0.5,
                     "change": -0.050000000000000044,
                     "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023PE270.00",
-                    "impliedVolatility": 64.24,
+                    "impliedVolatility": 66.08,
                     "lastPrice": 0.6,
                     "openInterest": 554,
                     "pChange": -7.692307692307699,
@@ -418,17 +418,17 @@
                     "totalSellQuantity": 130900,
                     "totalTradedVolume": 23,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 270
             },
             {
                 "CE": {
-                    "askPrice": 38.55,
+                    "askPrice": 39.5,
                     "askQty": 1100,
                     "bidQty": 1100,
-                    "bidprice": 36.9,
+                    "bidprice": 37,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -440,46 +440,46 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 275,
                     "totalBuyQuantity": 66000,
-                    "totalSellQuantity": 67100,
+                    "totalSellQuantity": 66000,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 0.85,
-                    "askQty": 2200,
-                    "bidQty": 2200,
+                    "askPrice": 0.8,
+                    "askQty": 1100,
+                    "bidQty": 3300,
                     "bidprice": 0.7,
                     "change": -0.19999999999999996,
                     "changeinOpenInterest": -5,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023PE275.00",
-                    "impliedVolatility": 59.73,
+                    "impliedVolatility": 60.42,
                     "lastPrice": 0.65,
                     "openInterest": 118,
                     "pChange": -23.529411764705877,
                     "pchangeinOpenInterest": -4.065040650406504,
                     "strikePrice": 275,
-                    "totalBuyQuantity": 217800,
-                    "totalSellQuantity": 176000,
+                    "totalBuyQuantity": 216700,
+                    "totalSellQuantity": 169400,
                     "totalTradedVolume": 10,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 275
             },
             {
                 "CE": {
-                    "askPrice": 33.35,
+                    "askPrice": 33.95,
                     "askQty": 1100,
                     "bidQty": 1100,
-                    "bidprice": 32.5,
+                    "bidprice": 33.15,
                     "change": 1.1000000000000014,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023CE280.00",
-                    "impliedVolatility": 76.06,
+                    "impliedVolatility": 70.26,
                     "lastPrice": 34.65,
                     "openInterest": 69,
                     "pChange": 3.2786885245901685,
@@ -489,38 +489,38 @@
                     "totalSellQuantity": 102300,
                     "totalTradedVolume": 2,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 1.1,
-                    "askQty": 2200,
+                    "askPrice": 1,
+                    "askQty": 7700,
                     "bidQty": 2200,
-                    "bidprice": 0.95,
+                    "bidprice": 0.9,
                     "change": -0.1499999999999999,
                     "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023PE280.00",
-                    "impliedVolatility": 60.24,
+                    "impliedVolatility": 60.27,
                     "lastPrice": 1.05,
                     "openInterest": 638,
                     "pChange": -12.499999999999993,
                     "pchangeinOpenInterest": 0.47244094488188976,
                     "strikePrice": 280,
-                    "totalBuyQuantity": 225500,
-                    "totalSellQuantity": 217800,
+                    "totalBuyQuantity": 224400,
+                    "totalSellQuantity": 212300,
                     "totalTradedVolume": 32,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 280
             },
             {
                 "CE": {
-                    "askPrice": 29.1,
+                    "askPrice": 29.55,
                     "askQty": 1100,
                     "bidQty": 1100,
-                    "bidprice": 27.45,
+                    "bidprice": 28.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -532,21 +532,21 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 285,
                     "totalBuyQuantity": 107800,
-                    "totalSellQuantity": 108900,
+                    "totalSellQuantity": 102300,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
                     "askPrice": 1.4,
                     "askQty": 2200,
-                    "bidQty": 2200,
+                    "bidQty": 1100,
                     "bidprice": 1.15,
                     "change": -0.5,
                     "changeinOpenInterest": -6,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023PE285.00",
-                    "impliedVolatility": 52.82,
+                    "impliedVolatility": 53.6,
                     "lastPrice": 1.1,
                     "openInterest": 158,
                     "pChange": -31.25,
@@ -556,273 +556,273 @@
                     "totalSellQuantity": 183700,
                     "totalTradedVolume": 27,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 285
             },
             {
                 "CE": {
-                    "askPrice": 24,
-                    "askQty": 1100,
+                    "askPrice": 24.5,
+                    "askQty": 2200,
                     "bidQty": 1100,
-                    "bidprice": 23.1,
+                    "bidprice": 23.65,
                     "change": 3.1999999999999993,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023CE290.00",
-                    "impliedVolatility": 71.77,
+                    "impliedVolatility": 67.88,
                     "lastPrice": 26.2,
                     "openInterest": 129,
                     "pChange": 13.913043478260867,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 290,
                     "totalBuyQuantity": 102300,
-                    "totalSellQuantity": 101200,
+                    "totalSellQuantity": 102300,
                     "totalTradedVolume": 1,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 1.7,
+                    "askPrice": 1.65,
                     "askQty": 1100,
-                    "bidQty": 1100,
-                    "bidprice": 1.55,
+                    "bidQty": 3300,
+                    "bidprice": 1.5,
                     "change": -0.1499999999999999,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023PE290.00",
-                    "impliedVolatility": 52.46,
+                    "impliedVolatility": 53.34,
                     "lastPrice": 1.75,
                     "openInterest": 789,
                     "pChange": -7.894736842105258,
                     "pchangeinOpenInterest": -0.12658227848101267,
                     "strikePrice": 290,
-                    "totalBuyQuantity": 162800,
+                    "totalBuyQuantity": 163900,
                     "totalSellQuantity": 220000,
                     "totalTradedVolume": 15,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 290
             },
             {
                 "CE": {
-                    "askPrice": 19.65,
+                    "askPrice": 20.1,
                     "askQty": 1100,
                     "bidQty": 1100,
-                    "bidprice": 18.8,
+                    "bidprice": 19.4,
                     "change": 2.8000000000000007,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023CE295.00",
-                    "impliedVolatility": 73.43,
+                    "impliedVolatility": 70.3,
                     "lastPrice": 22.8,
                     "openInterest": 48,
                     "pChange": 14.000000000000004,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 295,
                     "totalBuyQuantity": 108900,
-                    "totalSellQuantity": 100100,
+                    "totalSellQuantity": 102300,
                     "totalTradedVolume": 1,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 2.35,
-                    "askQty": 13200,
-                    "bidQty": 2200,
-                    "bidprice": 2.05,
+                    "askPrice": 2.15,
+                    "askQty": 6600,
+                    "bidQty": 1100,
+                    "bidprice": 2,
                     "change": -0.5500000000000003,
                     "changeinOpenInterest": -4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023PE295.00",
-                    "impliedVolatility": 47.7,
+                    "impliedVolatility": 48.66,
                     "lastPrice": 2.15,
                     "openInterest": 186,
                     "pChange": -20.370370370370377,
                     "pchangeinOpenInterest": -2.1052631578947367,
                     "strikePrice": 295,
-                    "totalBuyQuantity": 133100,
+                    "totalBuyQuantity": 129800,
                     "totalSellQuantity": 178200,
                     "totalTradedVolume": 8,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 295
             },
             {
                 "CE": {
-                    "askPrice": 15,
+                    "askPrice": 15.6,
                     "askQty": 2200,
                     "bidQty": 1100,
-                    "bidprice": 14.6,
-                    "change": 0.20000000000000107,
-                    "changeinOpenInterest": 0,
+                    "bidprice": 15.25,
+                    "change": -0.3999999999999986,
+                    "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023CE300.00",
-                    "impliedVolatility": 40.46,
-                    "lastPrice": 15.4,
-                    "openInterest": 608,
-                    "pChange": 1.3157894736842175,
-                    "pchangeinOpenInterest": 0,
+                    "impliedVolatility": 42.65,
+                    "lastPrice": 14.8,
+                    "openInterest": 607,
+                    "pChange": -2.631578947368412,
+                    "pchangeinOpenInterest": -0.16447368421052633,
                     "strikePrice": 300,
-                    "totalBuyQuantity": 130900,
+                    "totalBuyQuantity": 132000,
                     "totalSellQuantity": 114400,
-                    "totalTradedVolume": 23,
+                    "totalTradedVolume": 24,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 3,
-                    "askQty": 2200,
-                    "bidQty": 4400,
-                    "bidprice": 2.85,
-                    "change": -0.44999999999999973,
+                    "askPrice": 2.85,
+                    "askQty": 1100,
+                    "bidQty": 3300,
+                    "bidprice": 2.7,
+                    "change": -0.5,
                     "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023PE300.00",
-                    "impliedVolatility": 47.29,
-                    "lastPrice": 2.85,
+                    "impliedVolatility": 45.1,
+                    "lastPrice": 2.8,
                     "openInterest": 1706,
-                    "pChange": -13.63636363636363,
+                    "pChange": -15.151515151515152,
                     "pchangeinOpenInterest": -0.17554125219426564,
                     "strikePrice": 300,
                     "totalBuyQuantity": 225500,
-                    "totalSellQuantity": 229900,
-                    "totalTradedVolume": 199,
+                    "totalSellQuantity": 232100,
+                    "totalTradedVolume": 202,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 300
             },
             {
                 "CE": {
-                    "askPrice": 11,
+                    "askPrice": 11.6,
                     "askQty": 1100,
                     "bidQty": 1100,
-                    "bidprice": 10.55,
+                    "bidprice": 11.15,
                     "change": -0.6500000000000004,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023CE305.00",
-                    "impliedVolatility": 37.67,
+                    "impliedVolatility": 34.9,
                     "lastPrice": 10.7,
                     "openInterest": 76,
                     "pChange": -5.726872246696039,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 305,
-                    "totalBuyQuantity": 114400,
+                    "totalBuyQuantity": 113300,
                     "totalSellQuantity": 105600,
                     "totalTradedVolume": 4,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 3.85,
-                    "askQty": 1100,
+                    "askPrice": 3.55,
+                    "askQty": 5500,
                     "bidQty": 1100,
-                    "bidprice": 3.6,
-                    "change": -0.5,
+                    "bidprice": 3.35,
+                    "change": -1.1499999999999995,
                     "changeinOpenInterest": -4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023PE305.00",
-                    "impliedVolatility": 37.57,
-                    "lastPrice": 4.1,
+                    "impliedVolatility": 43.34,
+                    "lastPrice": 3.45,
                     "openInterest": 236,
-                    "pChange": -10.869565217391305,
+                    "pChange": -24.999999999999993,
                     "pchangeinOpenInterest": -1.6666666666666667,
                     "strikePrice": 305,
-                    "totalBuyQuantity": 174900,
+                    "totalBuyQuantity": 178200,
                     "totalSellQuantity": 182600,
-                    "totalTradedVolume": 14,
+                    "totalTradedVolume": 17,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 305
             },
             {
                 "CE": {
-                    "askPrice": 7.3,
-                    "askQty": 1100,
-                    "bidQty": 2200,
-                    "bidprice": 7.15,
-                    "change": -0.5499999999999998,
-                    "changeinOpenInterest": -9,
-                    "expiryDate": "25-May-2023",
-                    "identifier": "OPTSTKLAURUSLABS25-05-2023CE310.00",
-                    "impliedVolatility": 33.7,
-                    "lastPrice": 7.3,
-                    "openInterest": 422,
-                    "pChange": -7.006369426751591,
-                    "pchangeinOpenInterest": -2.0881670533642693,
-                    "strikePrice": 310,
-                    "totalBuyQuantity": 150700,
-                    "totalSellQuantity": 159500,
-                    "totalTradedVolume": 168,
-                    "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
-                },
-                "PE": {
-                    "askPrice": 5.2,
+                    "askPrice": 7.7,
                     "askQty": 2200,
                     "bidQty": 1100,
-                    "bidprice": 5,
+                    "bidprice": 7.55,
+                    "change": -0.34999999999999964,
+                    "changeinOpenInterest": -12,
+                    "expiryDate": "25-May-2023",
+                    "identifier": "OPTSTKLAURUSLABS25-05-2023CE310.00",
+                    "impliedVolatility": 33.71,
+                    "lastPrice": 7.5,
+                    "openInterest": 419,
+                    "pChange": -4.458598726114645,
+                    "pchangeinOpenInterest": -2.7842227378190256,
+                    "strikePrice": 310,
+                    "totalBuyQuantity": 150700,
+                    "totalSellQuantity": 161700,
+                    "totalTradedVolume": 170,
+                    "underlying": "LAURUSLABS",
+                    "underlyingValue": 312.95
+                },
+                "PE": {
+                    "askPrice": 4.95,
+                    "askQty": 1100,
+                    "bidQty": 1100,
+                    "bidprice": 4.8,
                     "change": -0.9000000000000004,
-                    "changeinOpenInterest": -20,
+                    "changeinOpenInterest": -18,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023PE310.00",
-                    "impliedVolatility": 38.08,
+                    "impliedVolatility": 37.53,
                     "lastPrice": 5.1,
-                    "openInterest": 452,
+                    "openInterest": 454,
                     "pChange": -15.000000000000005,
-                    "pchangeinOpenInterest": -4.237288135593221,
+                    "pchangeinOpenInterest": -3.8135593220338984,
                     "strikePrice": 310,
-                    "totalBuyQuantity": 196900,
+                    "totalBuyQuantity": 200200,
                     "totalSellQuantity": 180400,
                     "totalTradedVolume": 181,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 310
             },
             {
                 "CE": {
-                    "askPrice": 4.75,
-                    "askQty": 2200,
+                    "askPrice": 5,
+                    "askQty": 3300,
                     "bidQty": 1100,
-                    "bidprice": 4.65,
-                    "change": -0.5499999999999998,
+                    "bidprice": 4.95,
+                    "change": -0.34999999999999964,
                     "changeinOpenInterest": 11,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023CE315.00",
-                    "impliedVolatility": 34.12,
-                    "lastPrice": 4.75,
+                    "impliedVolatility": 32.56,
+                    "lastPrice": 4.95,
                     "openInterest": 304,
-                    "pChange": -10.377358490566033,
+                    "pChange": -6.603773584905653,
                     "pchangeinOpenInterest": 3.7542662116040955,
                     "strikePrice": 315,
-                    "totalBuyQuantity": 193600,
-                    "totalSellQuantity": 224400,
-                    "totalTradedVolume": 163,
+                    "totalBuyQuantity": 206800,
+                    "totalSellQuantity": 227700,
+                    "totalTradedVolume": 168,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 7.8,
+                    "askPrice": 7.4,
                     "askQty": 1100,
-                    "bidQty": 4400,
-                    "bidprice": 7.4,
+                    "bidQty": 1100,
+                    "bidprice": 7.1,
                     "change": -1.0500000000000007,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023PE315.00",
-                    "impliedVolatility": 37.37,
+                    "impliedVolatility": 36.96,
                     "lastPrice": 7.5,
                     "openInterest": 114,
                     "pChange": -12.280701754385973,
@@ -832,222 +832,222 @@
                     "totalSellQuantity": 111100,
                     "totalTradedVolume": 25,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 315
             },
             {
                 "CE": {
-                    "askPrice": 3,
+                    "askPrice": 3.25,
                     "askQty": 1100,
-                    "bidQty": 2200,
-                    "bidprice": 2.85,
-                    "change": -0.3500000000000001,
+                    "bidQty": 1100,
+                    "bidprice": 3.15,
+                    "change": -0.19999999999999973,
                     "changeinOpenInterest": 19,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023CE320.00",
-                    "impliedVolatility": 33.28,
-                    "lastPrice": 3.05,
+                    "impliedVolatility": 33.36,
+                    "lastPrice": 3.2,
                     "openInterest": 982,
-                    "pChange": -10.294117647058826,
+                    "pChange": -5.882352941176463,
                     "pchangeinOpenInterest": 1.9730010384215992,
                     "strikePrice": 320,
-                    "totalBuyQuantity": 287100,
-                    "totalSellQuantity": 267300,
-                    "totalTradedVolume": 244,
+                    "totalBuyQuantity": 292600,
+                    "totalSellQuantity": 269500,
+                    "totalTradedVolume": 245,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 10.9,
+                    "askPrice": 10.4,
                     "askQty": 1100,
-                    "bidQty": 1100,
-                    "bidprice": 10.6,
-                    "change": -0.6000000000000014,
+                    "bidQty": 2200,
+                    "bidprice": 10.05,
+                    "change": -1.1500000000000004,
                     "changeinOpenInterest": 16,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023PE320.00",
-                    "impliedVolatility": 36.95,
-                    "lastPrice": 10.7,
+                    "impliedVolatility": 37.58,
+                    "lastPrice": 10.15,
                     "openInterest": 466,
-                    "pChange": -5.309734513274349,
+                    "pChange": -10.176991150442479,
                     "pchangeinOpenInterest": 3.5555555555555554,
                     "strikePrice": 320,
-                    "totalBuyQuantity": 145200,
+                    "totalBuyQuantity": 146300,
                     "totalSellQuantity": 59400,
-                    "totalTradedVolume": 48,
+                    "totalTradedVolume": 50,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 320
             },
             {
                 "CE": {
-                    "askPrice": 1.85,
-                    "askQty": 1100,
-                    "bidQty": 3300,
-                    "bidprice": 1.75,
-                    "change": -0.4999999999999998,
-                    "changeinOpenInterest": 4,
+                    "askPrice": 2.05,
+                    "askQty": 2200,
+                    "bidQty": 1100,
+                    "bidprice": 2,
+                    "change": -0.2999999999999998,
+                    "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023CE325.00",
-                    "impliedVolatility": 35.16,
-                    "lastPrice": 1.8,
-                    "openInterest": 336,
-                    "pChange": -21.7391304347826,
-                    "pchangeinOpenInterest": 1.2048192771084338,
+                    "impliedVolatility": 33.74,
+                    "lastPrice": 2,
+                    "openInterest": 335,
+                    "pChange": -13.04347826086956,
+                    "pchangeinOpenInterest": 0.9036144578313253,
                     "strikePrice": 325,
-                    "totalBuyQuantity": 193600,
-                    "totalSellQuantity": 206800,
-                    "totalTradedVolume": 43,
+                    "totalBuyQuantity": 195800,
+                    "totalSellQuantity": 204600,
+                    "totalTradedVolume": 48,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 14.95,
+                    "askPrice": 14.6,
                     "askQty": 1100,
                     "bidQty": 1100,
-                    "bidprice": 14.1,
+                    "bidprice": 13.75,
                     "change": 0.1999999999999993,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023PE325.00",
-                    "impliedVolatility": 39.18,
+                    "impliedVolatility": 42.41,
                     "lastPrice": 15,
                     "openInterest": 65,
                     "pChange": 1.3513513513513467,
                     "pchangeinOpenInterest": -1.5151515151515151,
                     "strikePrice": 325,
                     "totalBuyQuantity": 110000,
-                    "totalSellQuantity": 103400,
+                    "totalSellQuantity": 104500,
                     "totalTradedVolume": 3,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 325
             },
             {
                 "CE": {
-                    "askPrice": 1.4,
-                    "askQty": 1100,
-                    "bidQty": 3300,
-                    "bidprice": 1.35,
-                    "change": -0.25,
-                    "changeinOpenInterest": -45,
+                    "askPrice": 1.55,
+                    "askQty": 9900,
+                    "bidQty": 1100,
+                    "bidprice": 1.4,
+                    "change": -0.1499999999999999,
+                    "changeinOpenInterest": -43,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023CE330.00",
-                    "impliedVolatility": 38.18,
-                    "lastPrice": 1.4,
-                    "openInterest": 1176,
-                    "pChange": -15.151515151515152,
-                    "pchangeinOpenInterest": -3.6855036855036856,
+                    "impliedVolatility": 38.22,
+                    "lastPrice": 1.5,
+                    "openInterest": 1178,
+                    "pChange": -9.090909090909086,
+                    "pchangeinOpenInterest": -3.5217035217035217,
                     "strikePrice": 330,
-                    "totalBuyQuantity": 222200,
+                    "totalBuyQuantity": 225500,
                     "totalSellQuantity": 322300,
-                    "totalTradedVolume": 108,
+                    "totalTradedVolume": 110,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 19.45,
+                    "askPrice": 18.65,
                     "askQty": 1100,
-                    "bidQty": 2200,
-                    "bidprice": 19,
-                    "change": -0.3500000000000014,
+                    "bidQty": 1100,
+                    "bidprice": 18.3,
+                    "change": -1.3999999999999986,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023PE330.00",
-                    "impliedVolatility": 42.17,
-                    "lastPrice": 19.4,
+                    "impliedVolatility": 46.21,
+                    "lastPrice": 18.35,
                     "openInterest": 177,
-                    "pChange": -1.7721518987341847,
+                    "pChange": -7.088607594936702,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 330,
-                    "totalBuyQuantity": 122100,
-                    "totalSellQuantity": 111100,
-                    "totalTradedVolume": 5,
+                    "totalBuyQuantity": 125400,
+                    "totalSellQuantity": 110000,
+                    "totalTradedVolume": 7,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 330
             },
             {
                 "CE": {
-                    "askPrice": 1.15,
+                    "askPrice": 1.2,
                     "askQty": 2200,
-                    "bidQty": 2200,
+                    "bidQty": 5500,
                     "bidprice": 1.1,
                     "change": -0.050000000000000044,
-                    "changeinOpenInterest": 11,
+                    "changeinOpenInterest": 15,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023CE335.00",
-                    "impliedVolatility": 42.7,
+                    "impliedVolatility": 42.41,
                     "lastPrice": 1.15,
-                    "openInterest": 1007,
+                    "openInterest": 1011,
                     "pChange": -4.1666666666666705,
-                    "pchangeinOpenInterest": 1.104417670682731,
+                    "pchangeinOpenInterest": 1.5060240963855422,
                     "strikePrice": 335,
-                    "totalBuyQuantity": 182600,
-                    "totalSellQuantity": 268400,
-                    "totalTradedVolume": 105,
+                    "totalBuyQuantity": 183700,
+                    "totalSellQuantity": 265100,
+                    "totalTradedVolume": 108,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 24.25,
+                    "askPrice": 23.8,
                     "askQty": 1100,
                     "bidQty": 1100,
-                    "bidprice": 23.35,
+                    "bidprice": 23.2,
                     "change": -0.40000000000000213,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023PE335.00",
-                    "impliedVolatility": 47.37,
+                    "impliedVolatility": 52.03,
                     "lastPrice": 24.2,
                     "openInterest": 65,
                     "pChange": -1.62601626016261,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 335,
-                    "totalBuyQuantity": 101200,
+                    "totalBuyQuantity": 102300,
                     "totalSellQuantity": 101200,
                     "totalTradedVolume": 4,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 335
             },
             {
                 "CE": {
-                    "askPrice": 0.85,
-                    "askQty": 2200,
-                    "bidQty": 2200,
-                    "bidprice": 0.75,
+                    "askPrice": 0.9,
+                    "askQty": 5500,
+                    "bidQty": 1100,
+                    "bidprice": 0.85,
                     "change": -0.1499999999999999,
                     "changeinOpenInterest": -18,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023CE340.00",
-                    "impliedVolatility": 44.22,
+                    "impliedVolatility": 44.86,
                     "lastPrice": 0.8,
                     "openInterest": 793,
                     "pChange": -15.789473684210517,
                     "pchangeinOpenInterest": -2.219482120838471,
                     "strikePrice": 340,
-                    "totalBuyQuantity": 331100,
-                    "totalSellQuantity": 247500,
+                    "totalBuyQuantity": 327800,
+                    "totalSellQuantity": 244200,
                     "totalTradedVolume": 72,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 29,
+                    "askPrice": 28.35,
                     "askQty": 1100,
                     "bidQty": 1100,
-                    "bidprice": 28.15,
+                    "bidprice": 27.45,
                     "change": -3.8500000000000014,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1062,7 +1062,7 @@
                     "totalSellQuantity": 100100,
                     "totalTradedVolume": 1,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 340
@@ -1070,45 +1070,45 @@
             {
                 "CE": {
                     "askPrice": 0.7,
-                    "askQty": 3300,
-                    "bidQty": 1100,
+                    "askQty": 1100,
+                    "bidQty": 2200,
                     "bidprice": 0.6,
                     "change": 0,
                     "changeinOpenInterest": -4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023CE345.00",
-                    "impliedVolatility": 48.16,
+                    "impliedVolatility": 47.43,
                     "lastPrice": 0.65,
                     "openInterest": 227,
                     "pChange": 0,
                     "pchangeinOpenInterest": -1.7316017316017316,
                     "strikePrice": 345,
-                    "totalBuyQuantity": 201300,
-                    "totalSellQuantity": 196900,
+                    "totalBuyQuantity": 176000,
+                    "totalSellQuantity": 169400,
                     "totalTradedVolume": 6,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 33.85,
+                    "askPrice": 33.3,
                     "askQty": 1100,
-                    "bidQty": 1100,
-                    "bidprice": 32.95,
+                    "bidQty": 2200,
+                    "bidprice": 32.6,
                     "change": 4.25,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023PE345.00",
-                    "impliedVolatility": 54.91,
+                    "impliedVolatility": 61.14,
                     "lastPrice": 33.75,
                     "openInterest": 13,
                     "pChange": 14.40677966101695,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 345,
-                    "totalBuyQuantity": 101200,
+                    "totalBuyQuantity": 103400,
                     "totalSellQuantity": 100100,
                     "totalTradedVolume": 4,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 345
@@ -1116,30 +1116,30 @@
             {
                 "CE": {
                     "askPrice": 0.55,
-                    "askQty": 3300,
+                    "askQty": 2200,
                     "bidQty": 3300,
                     "bidprice": 0.5,
                     "change": -0.050000000000000044,
                     "changeinOpenInterest": -18,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023CE350.00",
-                    "impliedVolatility": 50.51,
+                    "impliedVolatility": 49.82,
                     "lastPrice": 0.5,
                     "openInterest": 753,
                     "pChange": -9.090909090909099,
                     "pchangeinOpenInterest": -2.3346303501945527,
                     "strikePrice": 350,
-                    "totalBuyQuantity": 313500,
-                    "totalSellQuantity": 265100,
-                    "totalTradedVolume": 39,
+                    "totalBuyQuantity": 312400,
+                    "totalSellQuantity": 262900,
+                    "totalTradedVolume": 40,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 38.7,
+                    "askPrice": 38.15,
                     "askQty": 1100,
-                    "bidQty": 1100,
-                    "bidprice": 37.85,
+                    "bidQty": 2200,
+                    "bidprice": 37.55,
                     "change": -0.10000000000000142,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1150,11 +1150,11 @@
                     "pChange": -0.2713704206241558,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 350,
-                    "totalBuyQuantity": 67100,
+                    "totalBuyQuantity": 70400,
                     "totalSellQuantity": 68200,
                     "totalTradedVolume": 2,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 350
@@ -1163,8 +1163,8 @@
                 "CE": {
                     "askPrice": 0.8,
                     "askQty": 2200,
-                    "bidQty": 1100,
-                    "bidprice": 0.2,
+                    "bidQty": 2200,
+                    "bidprice": 0.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1175,17 +1175,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 355,
-                    "totalBuyQuantity": 14300,
-                    "totalSellQuantity": 84700,
+                    "totalBuyQuantity": 15400,
+                    "totalSellQuantity": 81400,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 44.35,
+                    "askPrice": 44.45,
                     "askQty": 3300,
                     "bidQty": 4400,
-                    "bidprice": 42,
+                    "bidprice": 41.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1197,10 +1197,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 355,
                     "totalBuyQuantity": 69300,
-                    "totalSellQuantity": 64900,
+                    "totalSellQuantity": 72600,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 355
@@ -1215,22 +1215,22 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023CE360.00",
-                    "impliedVolatility": 56.27,
+                    "impliedVolatility": 55.63,
                     "lastPrice": 0.35,
                     "openInterest": 368,
                     "pChange": 16.666666666666664,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 360,
-                    "totalBuyQuantity": 273900,
+                    "totalBuyQuantity": 258500,
                     "totalSellQuantity": 180400,
                     "totalTradedVolume": 20,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 49.15,
-                    "askQty": 4400,
-                    "bidQty": 4400,
+                    "askPrice": 48.95,
+                    "askQty": 3300,
+                    "bidQty": 3300,
                     "bidprice": 46.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -1242,18 +1242,18 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 360,
-                    "totalBuyQuantity": 69300,
-                    "totalSellQuantity": 69300,
+                    "totalBuyQuantity": 68200,
+                    "totalSellQuantity": 72600,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 360
             },
             {
                 "CE": {
-                    "askPrice": 0.95,
+                    "askPrice": 0.85,
                     "askQty": 1100,
                     "bidQty": 2200,
                     "bidprice": 0.15,
@@ -1268,16 +1268,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 365,
                     "totalBuyQuantity": 13200,
-                    "totalSellQuantity": 72600,
+                    "totalSellQuantity": 73700,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
                     "askPrice": 55.5,
                     "askQty": 3300,
                     "bidQty": 3300,
-                    "bidprice": 51.2,
+                    "bidprice": 49.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1292,7 +1292,7 @@
                     "totalSellQuantity": 64900,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 365
@@ -1317,13 +1317,13 @@
                     "totalSellQuantity": 110000,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 61.25,
+                    "askPrice": 59.9,
                     "askQty": 3300,
-                    "bidQty": 3300,
-                    "bidprice": 55.9,
+                    "bidQty": 6600,
+                    "bidprice": 54.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1334,11 +1334,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 370,
-                    "totalBuyQuantity": 64900,
+                    "totalBuyQuantity": 61600,
                     "totalSellQuantity": 64900,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 370
@@ -1363,10 +1363,10 @@
                     "totalSellQuantity": 58300,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 68.2,
+                    "askPrice": 68,
                     "askQty": 3300,
                     "bidQty": 3300,
                     "bidprice": 58.5,
@@ -1384,7 +1384,7 @@
                     "totalSellQuantity": 58300,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 375
@@ -1399,23 +1399,23 @@
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023CE380.00",
-                    "impliedVolatility": 61.05,
+                    "impliedVolatility": 60.52,
                     "lastPrice": 0.1,
                     "openInterest": 311,
                     "pChange": -33.33333333333333,
                     "pchangeinOpenInterest": 0.3225806451612903,
                     "strikePrice": 380,
                     "totalBuyQuantity": 70400,
-                    "totalSellQuantity": 181500,
+                    "totalSellQuantity": 174900,
                     "totalTradedVolume": 7,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 68.35,
-                    "askQty": 1100,
+                    "askPrice": 69.75,
+                    "askQty": 3300,
                     "bidQty": 3300,
-                    "bidprice": 65.9,
+                    "bidprice": 64.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1426,11 +1426,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 380,
-                    "totalBuyQuantity": 64900,
-                    "totalSellQuantity": 62700,
+                    "totalBuyQuantity": 69300,
+                    "totalSellQuantity": 66000,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 380
@@ -1455,10 +1455,10 @@
                     "totalSellQuantity": 1100,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 79.75,
+                    "askPrice": 79.65,
                     "askQty": 3300,
                     "bidQty": 3300,
                     "bidprice": 68,
@@ -1476,7 +1476,7 @@
                     "totalSellQuantity": 58300,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 385
@@ -1505,7 +1505,7 @@
                     "totalSellQuantity": 55000,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
                     "askPrice": 0.1,
@@ -1526,7 +1526,7 @@
                     "totalSellQuantity": 57200,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 230
@@ -1551,7 +1551,7 @@
                     "totalSellQuantity": 58300,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
                     "askPrice": 2.75,
@@ -1572,15 +1572,15 @@
                     "totalSellQuantity": 55000,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 235
             },
             {
                 "CE": {
-                    "askPrice": 84.75,
-                    "askQty": 3300,
+                    "askPrice": 84.8,
+                    "askQty": 55000,
                     "bidQty": 3300,
                     "bidprice": 48,
                     "change": 0,
@@ -1594,10 +1594,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 240,
                     "totalBuyQuantity": 3300,
-                    "totalSellQuantity": 58300,
+                    "totalSellQuantity": 55000,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1618,7 +1618,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 240
@@ -1643,7 +1643,7 @@
                     "totalSellQuantity": 64900,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
                     "askPrice": 0.15,
@@ -1654,7 +1654,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023PE240.00",
-                    "impliedVolatility": 85.7,
+                    "impliedVolatility": 86.23,
                     "lastPrice": 0.15,
                     "openInterest": 171,
                     "pChange": -25.000000000000007,
@@ -1664,7 +1664,7 @@
                     "totalSellQuantity": 138600,
                     "totalTradedVolume": 1,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 240
@@ -1673,8 +1673,8 @@
                 "CE": {
                     "askPrice": 70.55,
                     "askQty": 3300,
-                    "bidQty": 6600,
-                    "bidprice": 65.65,
+                    "bidQty": 3300,
+                    "bidprice": 65.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1685,11 +1685,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 245,
-                    "totalBuyQuantity": 61600,
+                    "totalBuyQuantity": 64900,
                     "totalSellQuantity": 64900,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
                     "askPrice": 1.5,
@@ -1710,7 +1710,7 @@
                     "totalSellQuantity": 6600,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 245
@@ -1735,7 +1735,7 @@
                     "totalSellQuantity": 55000,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1756,7 +1756,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 245
@@ -1781,7 +1781,7 @@
                     "totalSellQuantity": 55000,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1802,7 +1802,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 250
@@ -1827,7 +1827,7 @@
                     "totalSellQuantity": 66000,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
                     "askPrice": 0.2,
@@ -1838,7 +1838,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023PE250.00",
-                    "impliedVolatility": 77.03,
+                    "impliedVolatility": 77.59,
                     "lastPrice": 0.2,
                     "openInterest": 506,
                     "pChange": -19.999999999999996,
@@ -1848,14 +1848,14 @@
                     "totalSellQuantity": 111100,
                     "totalTradedVolume": 1,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 250
             },
             {
                 "CE": {
-                    "askPrice": 60.25,
+                    "askPrice": 61.5,
                     "askQty": 3300,
                     "bidQty": 3300,
                     "bidprice": 55.7,
@@ -1873,7 +1873,7 @@
                     "totalSellQuantity": 64900,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
                     "askPrice": 1.5,
@@ -1894,7 +1894,7 @@
                     "totalSellQuantity": 7700,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 255
@@ -1919,7 +1919,7 @@
                     "totalSellQuantity": 55000,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1940,7 +1940,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 255
@@ -1965,7 +1965,7 @@
                     "totalSellQuantity": 64900,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
                     "askPrice": 0.4,
@@ -1976,17 +1976,17 @@
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023PE260.00",
-                    "impliedVolatility": 65.15,
+                    "impliedVolatility": 65.72,
                     "lastPrice": 0.2,
                     "openInterest": 382,
                     "pChange": -42.85714285714285,
                     "pchangeinOpenInterest": -0.26109660574412535,
                     "strikePrice": 260,
                     "totalBuyQuantity": 139700,
-                    "totalSellQuantity": 41800,
+                    "totalSellQuantity": 44000,
                     "totalTradedVolume": 2,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 260
@@ -1995,8 +1995,8 @@
                 "CE": {
                     "askPrice": 66.95,
                     "askQty": 55000,
-                    "bidQty": 0,
-                    "bidprice": 0,
+                    "bidQty": 3300,
+                    "bidprice": 34.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2007,11 +2007,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 260,
-                    "totalBuyQuantity": 0,
+                    "totalBuyQuantity": 3300,
                     "totalSellQuantity": 55000,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2032,17 +2032,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 260
             },
             {
                 "CE": {
-                    "askPrice": 50.15,
+                    "askPrice": 51.05,
                     "askQty": 3300,
                     "bidQty": 3300,
-                    "bidprice": 46.4,
+                    "bidprice": 45.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2053,11 +2053,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 265,
-                    "totalBuyQuantity": 64900,
+                    "totalBuyQuantity": 68200,
                     "totalSellQuantity": 68200,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
                     "askPrice": 1.65,
@@ -2078,7 +2078,7 @@
                     "totalSellQuantity": 56100,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 265
@@ -2088,7 +2088,7 @@
                     "askPrice": 62.4,
                     "askQty": 55000,
                     "bidQty": 3300,
-                    "bidprice": 31,
+                    "bidprice": 31.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2103,7 +2103,7 @@
                     "totalSellQuantity": 55000,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2124,17 +2124,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 265
             },
             {
                 "CE": {
-                    "askPrice": 43.75,
+                    "askPrice": 44.25,
                     "askQty": 1100,
-                    "bidQty": 1100,
-                    "bidprice": 41.7,
+                    "bidQty": 3300,
+                    "bidprice": 41.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2145,22 +2145,22 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 270,
-                    "totalBuyQuantity": 66000,
-                    "totalSellQuantity": 68200,
+                    "totalBuyQuantity": 69300,
+                    "totalSellQuantity": 67100,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 0.65,
-                    "askQty": 3300,
-                    "bidQty": 1100,
+                    "askPrice": 0.6,
+                    "askQty": 1100,
+                    "bidQty": 7700,
                     "bidprice": 0.5,
                     "change": -0.050000000000000044,
                     "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023PE270.00",
-                    "impliedVolatility": 64.24,
+                    "impliedVolatility": 66.08,
                     "lastPrice": 0.6,
                     "openInterest": 554,
                     "pChange": -7.692307692307699,
@@ -2170,7 +2170,7 @@
                     "totalSellQuantity": 130900,
                     "totalTradedVolume": 23,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 270
@@ -2180,7 +2180,7 @@
                     "askPrice": 57.1,
                     "askQty": 55000,
                     "bidQty": 3300,
-                    "bidprice": 28.65,
+                    "bidprice": 41.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2195,7 +2195,7 @@
                     "totalSellQuantity": 55000,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2216,7 +2216,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 270
@@ -2241,7 +2241,7 @@
                     "totalSellQuantity": 55000,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2262,17 +2262,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 275
             },
             {
                 "CE": {
-                    "askPrice": 38.55,
+                    "askPrice": 39.5,
                     "askQty": 1100,
                     "bidQty": 1100,
-                    "bidprice": 36.9,
+                    "bidprice": 37,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2284,31 +2284,31 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 275,
                     "totalBuyQuantity": 66000,
-                    "totalSellQuantity": 67100,
+                    "totalSellQuantity": 66000,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 0.85,
-                    "askQty": 2200,
-                    "bidQty": 2200,
+                    "askPrice": 0.8,
+                    "askQty": 1100,
+                    "bidQty": 3300,
                     "bidprice": 0.7,
                     "change": -0.19999999999999996,
                     "changeinOpenInterest": -5,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023PE275.00",
-                    "impliedVolatility": 59.73,
+                    "impliedVolatility": 60.42,
                     "lastPrice": 0.65,
                     "openInterest": 118,
                     "pChange": -23.529411764705877,
                     "pchangeinOpenInterest": -4.065040650406504,
                     "strikePrice": 275,
-                    "totalBuyQuantity": 217800,
-                    "totalSellQuantity": 176000,
+                    "totalBuyQuantity": 216700,
+                    "totalSellQuantity": 169400,
                     "totalTradedVolume": 10,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 275
@@ -2318,7 +2318,7 @@
                     "askPrice": 44.45,
                     "askQty": 3300,
                     "bidQty": 3300,
-                    "bidprice": 19.35,
+                    "bidprice": 20.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2333,12 +2333,12 @@
                     "totalSellQuantity": 58300,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 4.9,
+                    "askPrice": 4.85,
                     "askQty": 1100,
-                    "bidQty": 3300,
+                    "bidQty": 2200,
                     "bidprice": 2,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -2351,25 +2351,25 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 280,
                     "totalBuyQuantity": 59400,
-                    "totalSellQuantity": 12100,
+                    "totalSellQuantity": 13200,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 280
             },
             {
                 "CE": {
-                    "askPrice": 33.35,
+                    "askPrice": 33.95,
                     "askQty": 1100,
                     "bidQty": 1100,
-                    "bidprice": 32.5,
+                    "bidprice": 33.15,
                     "change": 1.1000000000000014,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023CE280.00",
-                    "impliedVolatility": 76.06,
+                    "impliedVolatility": 70.26,
                     "lastPrice": 34.65,
                     "openInterest": 69,
                     "pChange": 3.2786885245901685,
@@ -2379,28 +2379,28 @@
                     "totalSellQuantity": 102300,
                     "totalTradedVolume": 2,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 1.1,
-                    "askQty": 2200,
+                    "askPrice": 1,
+                    "askQty": 7700,
                     "bidQty": 2200,
-                    "bidprice": 0.95,
+                    "bidprice": 0.9,
                     "change": -0.1499999999999999,
                     "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023PE280.00",
-                    "impliedVolatility": 60.24,
+                    "impliedVolatility": 60.27,
                     "lastPrice": 1.05,
                     "openInterest": 638,
                     "pChange": -12.499999999999993,
                     "pchangeinOpenInterest": 0.47244094488188976,
                     "strikePrice": 280,
-                    "totalBuyQuantity": 225500,
-                    "totalSellQuantity": 217800,
+                    "totalBuyQuantity": 224400,
+                    "totalSellQuantity": 212300,
                     "totalTradedVolume": 32,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 280
@@ -2425,7 +2425,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 280
@@ -2434,8 +2434,8 @@
                 "CE": {
                     "askPrice": 0,
                     "askQty": 0,
-                    "bidQty": 0,
-                    "bidprice": 0,
+                    "bidQty": 3300,
+                    "bidprice": 16.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2446,11 +2446,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 285,
-                    "totalBuyQuantity": 0,
+                    "totalBuyQuantity": 3300,
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2471,17 +2471,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 285
             },
             {
                 "CE": {
-                    "askPrice": 29.1,
+                    "askPrice": 29.55,
                     "askQty": 1100,
                     "bidQty": 1100,
-                    "bidprice": 27.45,
+                    "bidprice": 28.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2493,21 +2493,21 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 285,
                     "totalBuyQuantity": 107800,
-                    "totalSellQuantity": 108900,
+                    "totalSellQuantity": 102300,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
                     "askPrice": 1.4,
                     "askQty": 2200,
-                    "bidQty": 2200,
+                    "bidQty": 1100,
                     "bidprice": 1.15,
                     "change": -0.5,
                     "changeinOpenInterest": -6,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023PE285.00",
-                    "impliedVolatility": 52.82,
+                    "impliedVolatility": 53.6,
                     "lastPrice": 1.1,
                     "openInterest": 158,
                     "pChange": -31.25,
@@ -2517,7 +2517,7 @@
                     "totalSellQuantity": 183700,
                     "totalTradedVolume": 27,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 285
@@ -2527,7 +2527,7 @@
                     "askPrice": 51.8,
                     "askQty": 5500,
                     "bidQty": 3300,
-                    "bidprice": 12.05,
+                    "bidprice": 12.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2542,10 +2542,10 @@
                     "totalSellQuantity": 5500,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 4.9,
+                    "askPrice": 4.85,
                     "askQty": 1100,
                     "bidQty": 1100,
                     "bidprice": 3.2,
@@ -2560,56 +2560,56 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 290,
                     "totalBuyQuantity": 2200,
-                    "totalSellQuantity": 4400,
+                    "totalSellQuantity": 5500,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 290
             },
             {
                 "CE": {
-                    "askPrice": 24,
-                    "askQty": 1100,
+                    "askPrice": 24.5,
+                    "askQty": 2200,
                     "bidQty": 1100,
-                    "bidprice": 23.1,
+                    "bidprice": 23.65,
                     "change": 3.1999999999999993,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023CE290.00",
-                    "impliedVolatility": 71.77,
+                    "impliedVolatility": 67.88,
                     "lastPrice": 26.2,
                     "openInterest": 129,
                     "pChange": 13.913043478260867,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 290,
                     "totalBuyQuantity": 102300,
-                    "totalSellQuantity": 101200,
+                    "totalSellQuantity": 102300,
                     "totalTradedVolume": 1,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 1.7,
+                    "askPrice": 1.65,
                     "askQty": 1100,
-                    "bidQty": 1100,
-                    "bidprice": 1.55,
+                    "bidQty": 3300,
+                    "bidprice": 1.5,
                     "change": -0.1499999999999999,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023PE290.00",
-                    "impliedVolatility": 52.46,
+                    "impliedVolatility": 53.34,
                     "lastPrice": 1.75,
                     "openInterest": 789,
                     "pChange": -7.894736842105258,
                     "pchangeinOpenInterest": -0.12658227848101267,
                     "strikePrice": 290,
-                    "totalBuyQuantity": 162800,
+                    "totalBuyQuantity": 163900,
                     "totalSellQuantity": 220000,
                     "totalTradedVolume": 15,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 290
@@ -2634,13 +2634,13 @@
                     "totalSellQuantity": 3300,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 1100,
-                    "bidprice": 4.2,
+                    "bidprice": 4.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2655,106 +2655,106 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 295
             },
             {
                 "CE": {
-                    "askPrice": 19.65,
+                    "askPrice": 20.1,
                     "askQty": 1100,
                     "bidQty": 1100,
-                    "bidprice": 18.8,
+                    "bidprice": 19.4,
                     "change": 2.8000000000000007,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023CE295.00",
-                    "impliedVolatility": 73.43,
+                    "impliedVolatility": 70.3,
                     "lastPrice": 22.8,
                     "openInterest": 48,
                     "pChange": 14.000000000000004,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 295,
                     "totalBuyQuantity": 108900,
-                    "totalSellQuantity": 100100,
+                    "totalSellQuantity": 102300,
                     "totalTradedVolume": 1,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 2.35,
-                    "askQty": 13200,
-                    "bidQty": 2200,
-                    "bidprice": 2.05,
+                    "askPrice": 2.15,
+                    "askQty": 6600,
+                    "bidQty": 1100,
+                    "bidprice": 2,
                     "change": -0.5500000000000003,
                     "changeinOpenInterest": -4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023PE295.00",
-                    "impliedVolatility": 47.7,
+                    "impliedVolatility": 48.66,
                     "lastPrice": 2.15,
                     "openInterest": 186,
                     "pChange": -20.370370370370377,
                     "pchangeinOpenInterest": -2.1052631578947367,
                     "strikePrice": 295,
-                    "totalBuyQuantity": 133100,
+                    "totalBuyQuantity": 129800,
                     "totalSellQuantity": 178200,
                     "totalTradedVolume": 8,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 295
             },
             {
                 "CE": {
-                    "askPrice": 15,
+                    "askPrice": 15.6,
                     "askQty": 2200,
                     "bidQty": 1100,
-                    "bidprice": 14.6,
-                    "change": 0.20000000000000107,
-                    "changeinOpenInterest": 0,
+                    "bidprice": 15.25,
+                    "change": -0.3999999999999986,
+                    "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023CE300.00",
-                    "impliedVolatility": 40.46,
-                    "lastPrice": 15.4,
-                    "openInterest": 608,
-                    "pChange": 1.3157894736842175,
-                    "pchangeinOpenInterest": 0,
+                    "impliedVolatility": 42.65,
+                    "lastPrice": 14.8,
+                    "openInterest": 607,
+                    "pChange": -2.631578947368412,
+                    "pchangeinOpenInterest": -0.16447368421052633,
                     "strikePrice": 300,
-                    "totalBuyQuantity": 130900,
+                    "totalBuyQuantity": 132000,
                     "totalSellQuantity": 114400,
-                    "totalTradedVolume": 23,
+                    "totalTradedVolume": 24,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 3,
-                    "askQty": 2200,
-                    "bidQty": 4400,
-                    "bidprice": 2.85,
-                    "change": -0.44999999999999973,
+                    "askPrice": 2.85,
+                    "askQty": 1100,
+                    "bidQty": 3300,
+                    "bidprice": 2.7,
+                    "change": -0.5,
                     "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023PE300.00",
-                    "impliedVolatility": 47.29,
-                    "lastPrice": 2.85,
+                    "impliedVolatility": 45.1,
+                    "lastPrice": 2.8,
                     "openInterest": 1706,
-                    "pChange": -13.63636363636363,
+                    "pChange": -15.151515151515152,
                     "pchangeinOpenInterest": -0.17554125219426564,
                     "strikePrice": 300,
                     "totalBuyQuantity": 225500,
-                    "totalSellQuantity": 229900,
-                    "totalTradedVolume": 199,
+                    "totalSellQuantity": 232100,
+                    "totalTradedVolume": 202,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 300
             },
             {
                 "PE": {
-                    "askPrice": 18,
+                    "askPrice": 17.75,
                     "askQty": 1700,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -2772,17 +2772,17 @@
                     "totalSellQuantity": 1700,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 300
             },
             {
                 "CE": {
-                    "askPrice": 22.7,
+                    "askPrice": 23.2,
                     "askQty": 1100,
                     "bidQty": 4400,
-                    "bidprice": 10.95,
+                    "bidprice": 11.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2797,82 +2797,82 @@
                     "totalSellQuantity": 1100,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 7.45,
+                    "askPrice": 7.3,
                     "askQty": 1100,
                     "bidQty": 8800,
-                    "bidprice": 7.25,
-                    "change": -0.2999999999999998,
-                    "changeinOpenInterest": 4,
+                    "bidprice": 7.1,
+                    "change": -0.34999999999999964,
+                    "changeinOpenInterest": 5,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKLAURUSLABS29-06-2023PE300.00",
-                    "impliedVolatility": 33.46,
-                    "lastPrice": 7.2,
-                    "openInterest": 414,
-                    "pChange": -3.9999999999999973,
-                    "pchangeinOpenInterest": 0.975609756097561,
+                    "impliedVolatility": 33.15,
+                    "lastPrice": 7.15,
+                    "openInterest": 415,
+                    "pChange": -4.666666666666662,
+                    "pchangeinOpenInterest": 1.2195121951219512,
                     "strikePrice": 300,
                     "totalBuyQuantity": 141900,
                     "totalSellQuantity": 18700,
-                    "totalTradedVolume": 8,
+                    "totalTradedVolume": 9,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 300
             },
             {
                 "CE": {
-                    "askPrice": 11,
+                    "askPrice": 11.6,
                     "askQty": 1100,
                     "bidQty": 1100,
-                    "bidprice": 10.55,
+                    "bidprice": 11.15,
                     "change": -0.6500000000000004,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023CE305.00",
-                    "impliedVolatility": 37.67,
+                    "impliedVolatility": 34.9,
                     "lastPrice": 10.7,
                     "openInterest": 76,
                     "pChange": -5.726872246696039,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 305,
-                    "totalBuyQuantity": 114400,
+                    "totalBuyQuantity": 113300,
                     "totalSellQuantity": 105600,
                     "totalTradedVolume": 4,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 3.85,
-                    "askQty": 1100,
+                    "askPrice": 3.55,
+                    "askQty": 5500,
                     "bidQty": 1100,
-                    "bidprice": 3.6,
-                    "change": -0.5,
+                    "bidprice": 3.35,
+                    "change": -1.1499999999999995,
                     "changeinOpenInterest": -4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023PE305.00",
-                    "impliedVolatility": 37.57,
-                    "lastPrice": 4.1,
+                    "impliedVolatility": 43.34,
+                    "lastPrice": 3.45,
                     "openInterest": 236,
-                    "pChange": -10.869565217391305,
+                    "pChange": -24.999999999999993,
                     "pchangeinOpenInterest": -1.6666666666666667,
                     "strikePrice": 305,
-                    "totalBuyQuantity": 174900,
+                    "totalBuyQuantity": 178200,
                     "totalSellQuantity": 182600,
-                    "totalTradedVolume": 14,
+                    "totalTradedVolume": 17,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 305
             },
             {
                 "CE": {
-                    "askPrice": 0,
-                    "askQty": 0,
+                    "askPrice": 27.95,
+                    "askQty": 3300,
                     "bidQty": 3300,
                     "bidprice": 5.95,
                     "change": 0,
@@ -2886,16 +2886,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 305,
                     "totalBuyQuantity": 3300,
-                    "totalSellQuantity": 0,
+                    "totalSellQuantity": 4400,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 0,
-                    "askQty": 0,
+                    "askPrice": 14.05,
+                    "askQty": 1100,
                     "bidQty": 1100,
-                    "bidprice": 7.95,
+                    "bidprice": 7.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2907,17 +2907,17 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 305,
                     "totalBuyQuantity": 1100,
-                    "totalSellQuantity": 0,
+                    "totalSellQuantity": 1100,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 305
             },
             {
                 "CE": {
-                    "askPrice": 33.5,
+                    "askPrice": 34,
                     "askQty": 1700,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -2935,60 +2935,60 @@
                     "totalSellQuantity": 1700,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 305
             },
             {
                 "CE": {
-                    "askPrice": 7.3,
-                    "askQty": 1100,
-                    "bidQty": 2200,
-                    "bidprice": 7.15,
-                    "change": -0.5499999999999998,
-                    "changeinOpenInterest": -9,
-                    "expiryDate": "25-May-2023",
-                    "identifier": "OPTSTKLAURUSLABS25-05-2023CE310.00",
-                    "impliedVolatility": 33.7,
-                    "lastPrice": 7.3,
-                    "openInterest": 422,
-                    "pChange": -7.006369426751591,
-                    "pchangeinOpenInterest": -2.0881670533642693,
-                    "strikePrice": 310,
-                    "totalBuyQuantity": 150700,
-                    "totalSellQuantity": 159500,
-                    "totalTradedVolume": 168,
-                    "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
-                },
-                "PE": {
-                    "askPrice": 5.2,
+                    "askPrice": 7.7,
                     "askQty": 2200,
                     "bidQty": 1100,
-                    "bidprice": 5,
+                    "bidprice": 7.55,
+                    "change": -0.34999999999999964,
+                    "changeinOpenInterest": -12,
+                    "expiryDate": "25-May-2023",
+                    "identifier": "OPTSTKLAURUSLABS25-05-2023CE310.00",
+                    "impliedVolatility": 33.71,
+                    "lastPrice": 7.5,
+                    "openInterest": 419,
+                    "pChange": -4.458598726114645,
+                    "pchangeinOpenInterest": -2.7842227378190256,
+                    "strikePrice": 310,
+                    "totalBuyQuantity": 150700,
+                    "totalSellQuantity": 161700,
+                    "totalTradedVolume": 170,
+                    "underlying": "LAURUSLABS",
+                    "underlyingValue": 312.95
+                },
+                "PE": {
+                    "askPrice": 4.95,
+                    "askQty": 1100,
+                    "bidQty": 1100,
+                    "bidprice": 4.8,
                     "change": -0.9000000000000004,
-                    "changeinOpenInterest": -20,
+                    "changeinOpenInterest": -18,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023PE310.00",
-                    "impliedVolatility": 38.08,
+                    "impliedVolatility": 37.53,
                     "lastPrice": 5.1,
-                    "openInterest": 452,
+                    "openInterest": 454,
                     "pChange": -15.000000000000005,
-                    "pchangeinOpenInterest": -4.237288135593221,
+                    "pchangeinOpenInterest": -3.8135593220338984,
                     "strikePrice": 310,
-                    "totalBuyQuantity": 196900,
+                    "totalBuyQuantity": 200200,
                     "totalSellQuantity": 180400,
                     "totalTradedVolume": 181,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 310
             },
             {
                 "CE": {
-                    "askPrice": 20,
+                    "askPrice": 18.6,
                     "askQty": 1100,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -3006,64 +3006,64 @@
                     "totalSellQuantity": 4400,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 11.45,
+                    "askPrice": 11.1,
                     "askQty": 1100,
                     "bidQty": 1100,
-                    "bidprice": 9.65,
+                    "bidprice": 9.3,
                     "change": 0.25,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKLAURUSLABS29-06-2023PE310.00",
-                    "impliedVolatility": 32.68,
+                    "impliedVolatility": 33.29,
                     "lastPrice": 11.2,
                     "openInterest": 12,
                     "pChange": 2.2831050228310503,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 310,
-                    "totalBuyQuantity": 63800,
+                    "totalBuyQuantity": 62700,
                     "totalSellQuantity": 3300,
                     "totalTradedVolume": 1,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 310
             },
             {
                 "CE": {
-                    "askPrice": 4.75,
-                    "askQty": 2200,
+                    "askPrice": 5,
+                    "askQty": 3300,
                     "bidQty": 1100,
-                    "bidprice": 4.65,
-                    "change": -0.5499999999999998,
+                    "bidprice": 4.95,
+                    "change": -0.34999999999999964,
                     "changeinOpenInterest": 11,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023CE315.00",
-                    "impliedVolatility": 34.12,
-                    "lastPrice": 4.75,
+                    "impliedVolatility": 32.56,
+                    "lastPrice": 4.95,
                     "openInterest": 304,
-                    "pChange": -10.377358490566033,
+                    "pChange": -6.603773584905653,
                     "pchangeinOpenInterest": 3.7542662116040955,
                     "strikePrice": 315,
-                    "totalBuyQuantity": 193600,
-                    "totalSellQuantity": 224400,
-                    "totalTradedVolume": 163,
+                    "totalBuyQuantity": 206800,
+                    "totalSellQuantity": 227700,
+                    "totalTradedVolume": 168,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 7.8,
+                    "askPrice": 7.4,
                     "askQty": 1100,
-                    "bidQty": 4400,
-                    "bidprice": 7.4,
+                    "bidQty": 1100,
+                    "bidprice": 7.1,
                     "change": -1.0500000000000007,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023PE315.00",
-                    "impliedVolatility": 37.37,
+                    "impliedVolatility": 36.96,
                     "lastPrice": 7.5,
                     "openInterest": 114,
                     "pChange": -12.280701754385973,
@@ -3073,15 +3073,15 @@
                     "totalSellQuantity": 111100,
                     "totalTradedVolume": 25,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 315
             },
             {
                 "CE": {
-                    "askPrice": 16.3,
-                    "askQty": 2200,
+                    "askPrice": 0,
+                    "askQty": 0,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -3095,16 +3095,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 315,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 4400,
+                    "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 1100,
-                    "bidprice": 12.35,
+                    "bidprice": 12,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3119,14 +3119,14 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 315
             },
             {
                 "CE": {
-                    "askPrice": 25.85,
+                    "askPrice": 26.4,
                     "askQty": 1700,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -3144,38 +3144,38 @@
                     "totalSellQuantity": 3400,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 315
             },
             {
                 "CE": {
-                    "askPrice": 11.7,
-                    "askQty": 2200,
-                    "bidQty": 2200,
-                    "bidprice": 11.35,
-                    "change": -0.20000000000000107,
+                    "askPrice": 11.8,
+                    "askQty": 1100,
+                    "bidQty": 1100,
+                    "bidprice": 11.45,
+                    "change": -0.10000000000000142,
                     "changeinOpenInterest": 2,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKLAURUSLABS29-06-2023CE320.00",
-                    "impliedVolatility": 31.89,
-                    "lastPrice": 11.35,
+                    "impliedVolatility": 31.22,
+                    "lastPrice": 11.45,
                     "openInterest": 103,
-                    "pChange": -1.7316017316017407,
+                    "pChange": -0.8658008658008781,
                     "pchangeinOpenInterest": 1.9801980198019802,
                     "strikePrice": 320,
-                    "totalBuyQuantity": 88000,
+                    "totalBuyQuantity": 89100,
                     "totalSellQuantity": 96800,
-                    "totalTradedVolume": 17,
+                    "totalTradedVolume": 18,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
                     "askPrice": 30.95,
-                    "askQty": 5500,
-                    "bidQty": 3300,
-                    "bidprice": 12.15,
+                    "askQty": 2200,
+                    "bidQty": 1100,
+                    "bidprice": 6.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3186,65 +3186,65 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 320,
-                    "totalBuyQuantity": 7700,
-                    "totalSellQuantity": 6600,
+                    "totalBuyQuantity": 4400,
+                    "totalSellQuantity": 3300,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 320
             },
             {
                 "CE": {
-                    "askPrice": 3,
+                    "askPrice": 3.25,
                     "askQty": 1100,
-                    "bidQty": 2200,
-                    "bidprice": 2.85,
-                    "change": -0.3500000000000001,
+                    "bidQty": 1100,
+                    "bidprice": 3.15,
+                    "change": -0.19999999999999973,
                     "changeinOpenInterest": 19,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023CE320.00",
-                    "impliedVolatility": 33.28,
-                    "lastPrice": 3.05,
+                    "impliedVolatility": 33.36,
+                    "lastPrice": 3.2,
                     "openInterest": 982,
-                    "pChange": -10.294117647058826,
+                    "pChange": -5.882352941176463,
                     "pchangeinOpenInterest": 1.9730010384215992,
                     "strikePrice": 320,
-                    "totalBuyQuantity": 287100,
-                    "totalSellQuantity": 267300,
-                    "totalTradedVolume": 244,
+                    "totalBuyQuantity": 292600,
+                    "totalSellQuantity": 269500,
+                    "totalTradedVolume": 245,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 10.9,
+                    "askPrice": 10.4,
                     "askQty": 1100,
-                    "bidQty": 1100,
-                    "bidprice": 10.6,
-                    "change": -0.6000000000000014,
+                    "bidQty": 2200,
+                    "bidprice": 10.05,
+                    "change": -1.1500000000000004,
                     "changeinOpenInterest": 16,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023PE320.00",
-                    "impliedVolatility": 36.95,
-                    "lastPrice": 10.7,
+                    "impliedVolatility": 37.58,
+                    "lastPrice": 10.15,
                     "openInterest": 466,
-                    "pChange": -5.309734513274349,
+                    "pChange": -10.176991150442479,
                     "pchangeinOpenInterest": 3.5555555555555554,
                     "strikePrice": 320,
-                    "totalBuyQuantity": 145200,
+                    "totalBuyQuantity": 146300,
                     "totalSellQuantity": 59400,
-                    "totalTradedVolume": 48,
+                    "totalTradedVolume": 50,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 320
             },
             {
                 "CE": {
-                    "askPrice": 12.6,
-                    "askQty": 1100,
+                    "askPrice": 17.15,
+                    "askQty": 55000,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -3258,10 +3258,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 325,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 58300,
+                    "totalSellQuantity": 55000,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
                     "askPrice": 38.85,
@@ -3282,84 +3282,84 @@
                     "totalSellQuantity": 5500,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 325
             },
             {
                 "CE": {
-                    "askPrice": 1.85,
-                    "askQty": 1100,
-                    "bidQty": 3300,
-                    "bidprice": 1.75,
-                    "change": -0.4999999999999998,
-                    "changeinOpenInterest": 4,
+                    "askPrice": 2.05,
+                    "askQty": 2200,
+                    "bidQty": 1100,
+                    "bidprice": 2,
+                    "change": -0.2999999999999998,
+                    "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023CE325.00",
-                    "impliedVolatility": 35.16,
-                    "lastPrice": 1.8,
-                    "openInterest": 336,
-                    "pChange": -21.7391304347826,
-                    "pchangeinOpenInterest": 1.2048192771084338,
+                    "impliedVolatility": 33.74,
+                    "lastPrice": 2,
+                    "openInterest": 335,
+                    "pChange": -13.04347826086956,
+                    "pchangeinOpenInterest": 0.9036144578313253,
                     "strikePrice": 325,
-                    "totalBuyQuantity": 193600,
-                    "totalSellQuantity": 206800,
-                    "totalTradedVolume": 43,
+                    "totalBuyQuantity": 195800,
+                    "totalSellQuantity": 204600,
+                    "totalTradedVolume": 48,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 14.95,
+                    "askPrice": 14.6,
                     "askQty": 1100,
                     "bidQty": 1100,
-                    "bidprice": 14.1,
+                    "bidprice": 13.75,
                     "change": 0.1999999999999993,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023PE325.00",
-                    "impliedVolatility": 39.18,
+                    "impliedVolatility": 42.41,
                     "lastPrice": 15,
                     "openInterest": 65,
                     "pChange": 1.3513513513513467,
                     "pchangeinOpenInterest": -1.5151515151515151,
                     "strikePrice": 325,
                     "totalBuyQuantity": 110000,
-                    "totalSellQuantity": 103400,
+                    "totalSellQuantity": 104500,
                     "totalTradedVolume": 3,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 325
             },
             {
                 "CE": {
-                    "askPrice": 8.2,
+                    "askPrice": 8.15,
                     "askQty": 1100,
                     "bidQty": 1100,
-                    "bidprice": 7.65,
+                    "bidprice": 7.75,
                     "change": 0.04999999999999982,
                     "changeinOpenInterest": 1,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKLAURUSLABS29-06-2023CE330.00",
-                    "impliedVolatility": 33.29,
+                    "impliedVolatility": 32.11,
                     "lastPrice": 8,
                     "openInterest": 87,
                     "pChange": 0.6289308176100606,
                     "pchangeinOpenInterest": 1.1627906976744187,
                     "strikePrice": 330,
-                    "totalBuyQuantity": 107800,
-                    "totalSellQuantity": 111100,
+                    "totalBuyQuantity": 108900,
+                    "totalSellQuantity": 112200,
                     "totalTradedVolume": 6,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 29,
+                    "askPrice": 29.7,
                     "askQty": 1100,
                     "bidQty": 3300,
-                    "bidprice": 13.75,
+                    "bidprice": 10.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3374,99 +3374,99 @@
                     "totalSellQuantity": 5500,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 330
             },
             {
                 "CE": {
-                    "askPrice": 1.4,
-                    "askQty": 1100,
-                    "bidQty": 3300,
-                    "bidprice": 1.35,
-                    "change": -0.25,
-                    "changeinOpenInterest": -45,
+                    "askPrice": 1.55,
+                    "askQty": 9900,
+                    "bidQty": 1100,
+                    "bidprice": 1.4,
+                    "change": -0.1499999999999999,
+                    "changeinOpenInterest": -43,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023CE330.00",
-                    "impliedVolatility": 38.18,
-                    "lastPrice": 1.4,
-                    "openInterest": 1176,
-                    "pChange": -15.151515151515152,
-                    "pchangeinOpenInterest": -3.6855036855036856,
+                    "impliedVolatility": 38.22,
+                    "lastPrice": 1.5,
+                    "openInterest": 1178,
+                    "pChange": -9.090909090909086,
+                    "pchangeinOpenInterest": -3.5217035217035217,
                     "strikePrice": 330,
-                    "totalBuyQuantity": 222200,
+                    "totalBuyQuantity": 225500,
                     "totalSellQuantity": 322300,
-                    "totalTradedVolume": 108,
+                    "totalTradedVolume": 110,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 19.45,
+                    "askPrice": 18.65,
                     "askQty": 1100,
-                    "bidQty": 2200,
-                    "bidprice": 19,
-                    "change": -0.3500000000000014,
+                    "bidQty": 1100,
+                    "bidprice": 18.3,
+                    "change": -1.3999999999999986,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023PE330.00",
-                    "impliedVolatility": 42.17,
-                    "lastPrice": 19.4,
+                    "impliedVolatility": 46.21,
+                    "lastPrice": 18.35,
                     "openInterest": 177,
-                    "pChange": -1.7721518987341847,
+                    "pChange": -7.088607594936702,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 330,
-                    "totalBuyQuantity": 122100,
-                    "totalSellQuantity": 111100,
-                    "totalTradedVolume": 5,
+                    "totalBuyQuantity": 125400,
+                    "totalSellQuantity": 110000,
+                    "totalTradedVolume": 7,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 330
             },
             {
                 "CE": {
-                    "askPrice": 1.15,
+                    "askPrice": 1.2,
                     "askQty": 2200,
-                    "bidQty": 2200,
+                    "bidQty": 5500,
                     "bidprice": 1.1,
                     "change": -0.050000000000000044,
-                    "changeinOpenInterest": 11,
+                    "changeinOpenInterest": 15,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023CE335.00",
-                    "impliedVolatility": 42.7,
+                    "impliedVolatility": 42.41,
                     "lastPrice": 1.15,
-                    "openInterest": 1007,
+                    "openInterest": 1011,
                     "pChange": -4.1666666666666705,
-                    "pchangeinOpenInterest": 1.104417670682731,
+                    "pchangeinOpenInterest": 1.5060240963855422,
                     "strikePrice": 335,
-                    "totalBuyQuantity": 182600,
-                    "totalSellQuantity": 268400,
-                    "totalTradedVolume": 105,
+                    "totalBuyQuantity": 183700,
+                    "totalSellQuantity": 265100,
+                    "totalTradedVolume": 108,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 24.25,
+                    "askPrice": 23.8,
                     "askQty": 1100,
                     "bidQty": 1100,
-                    "bidprice": 23.35,
+                    "bidprice": 23.2,
                     "change": -0.40000000000000213,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023PE335.00",
-                    "impliedVolatility": 47.37,
+                    "impliedVolatility": 52.03,
                     "lastPrice": 24.2,
                     "openInterest": 65,
                     "pChange": -1.62601626016261,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 335,
-                    "totalBuyQuantity": 101200,
+                    "totalBuyQuantity": 102300,
                     "totalSellQuantity": 101200,
                     "totalTradedVolume": 4,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 335
@@ -3491,7 +3491,7 @@
                     "totalSellQuantity": 55000,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
                     "askPrice": 47.6,
@@ -3512,38 +3512,38 @@
                     "totalSellQuantity": 5500,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 335
             },
             {
                 "CE": {
-                    "askPrice": 0.85,
-                    "askQty": 2200,
-                    "bidQty": 2200,
-                    "bidprice": 0.75,
+                    "askPrice": 0.9,
+                    "askQty": 5500,
+                    "bidQty": 1100,
+                    "bidprice": 0.85,
                     "change": -0.1499999999999999,
                     "changeinOpenInterest": -18,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023CE340.00",
-                    "impliedVolatility": 44.22,
+                    "impliedVolatility": 44.86,
                     "lastPrice": 0.8,
                     "openInterest": 793,
                     "pChange": -15.789473684210517,
                     "pchangeinOpenInterest": -2.219482120838471,
                     "strikePrice": 340,
-                    "totalBuyQuantity": 331100,
-                    "totalSellQuantity": 247500,
+                    "totalBuyQuantity": 327800,
+                    "totalSellQuantity": 244200,
                     "totalTradedVolume": 72,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 29,
+                    "askPrice": 28.35,
                     "askQty": 1100,
                     "bidQty": 1100,
-                    "bidprice": 28.15,
+                    "bidprice": 27.45,
                     "change": -3.8500000000000014,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3558,32 +3558,32 @@
                     "totalSellQuantity": 100100,
                     "totalTradedVolume": 1,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 340
             },
             {
                 "CE": {
-                    "askPrice": 5.9,
+                    "askPrice": 5.95,
                     "askQty": 1100,
                     "bidQty": 1100,
-                    "bidprice": 5.25,
+                    "bidprice": 5.05,
                     "change": 0.5999999999999996,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKLAURUSLABS29-06-2023CE340.00",
-                    "impliedVolatility": 34.68,
+                    "impliedVolatility": 34.21,
                     "lastPrice": 6,
                     "openInterest": 10,
                     "pChange": 11.111111111111104,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 340,
                     "totalBuyQuantity": 61600,
-                    "totalSellQuantity": 60500,
+                    "totalSellQuantity": 59400,
                     "totalTradedVolume": 2,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
                     "askPrice": 52.15,
@@ -3604,7 +3604,7 @@
                     "totalSellQuantity": 5500,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 340
@@ -3612,45 +3612,45 @@
             {
                 "CE": {
                     "askPrice": 0.7,
-                    "askQty": 3300,
-                    "bidQty": 1100,
+                    "askQty": 1100,
+                    "bidQty": 2200,
                     "bidprice": 0.6,
                     "change": 0,
                     "changeinOpenInterest": -4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023CE345.00",
-                    "impliedVolatility": 48.16,
+                    "impliedVolatility": 47.43,
                     "lastPrice": 0.65,
                     "openInterest": 227,
                     "pChange": 0,
                     "pchangeinOpenInterest": -1.7316017316017316,
                     "strikePrice": 345,
-                    "totalBuyQuantity": 201300,
-                    "totalSellQuantity": 196900,
+                    "totalBuyQuantity": 176000,
+                    "totalSellQuantity": 169400,
                     "totalTradedVolume": 6,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 33.85,
+                    "askPrice": 33.3,
                     "askQty": 1100,
-                    "bidQty": 1100,
-                    "bidprice": 32.95,
+                    "bidQty": 2200,
+                    "bidprice": 32.6,
                     "change": 4.25,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023PE345.00",
-                    "impliedVolatility": 54.91,
+                    "impliedVolatility": 61.14,
                     "lastPrice": 33.75,
                     "openInterest": 13,
                     "pChange": 14.40677966101695,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 345,
-                    "totalBuyQuantity": 101200,
+                    "totalBuyQuantity": 103400,
                     "totalSellQuantity": 100100,
                     "totalTradedVolume": 4,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 345
@@ -3675,10 +3675,10 @@
                     "totalSellQuantity": 55000,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 56.9,
+                    "askPrice": 56.65,
                     "askQty": 3300,
                     "bidQty": 3300,
                     "bidprice": 25.95,
@@ -3696,7 +3696,7 @@
                     "totalSellQuantity": 3300,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 345
@@ -3704,30 +3704,30 @@
             {
                 "CE": {
                     "askPrice": 0.55,
-                    "askQty": 3300,
+                    "askQty": 2200,
                     "bidQty": 3300,
                     "bidprice": 0.5,
                     "change": -0.050000000000000044,
                     "changeinOpenInterest": -18,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023CE350.00",
-                    "impliedVolatility": 50.51,
+                    "impliedVolatility": 49.82,
                     "lastPrice": 0.5,
                     "openInterest": 753,
                     "pChange": -9.090909090909099,
                     "pchangeinOpenInterest": -2.3346303501945527,
                     "strikePrice": 350,
-                    "totalBuyQuantity": 313500,
-                    "totalSellQuantity": 265100,
-                    "totalTradedVolume": 39,
+                    "totalBuyQuantity": 312400,
+                    "totalSellQuantity": 262900,
+                    "totalTradedVolume": 40,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 38.7,
+                    "askPrice": 38.15,
                     "askQty": 1100,
-                    "bidQty": 1100,
-                    "bidprice": 37.85,
+                    "bidQty": 2200,
+                    "bidprice": 37.55,
                     "change": -0.10000000000000142,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3738,18 +3738,18 @@
                     "pChange": -0.2713704206241558,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 350,
-                    "totalBuyQuantity": 67100,
+                    "totalBuyQuantity": 70400,
                     "totalSellQuantity": 68200,
                     "totalTradedVolume": 2,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 350
             },
             {
                 "CE": {
-                    "askPrice": 4.45,
+                    "askPrice": 4.35,
                     "askQty": 1100,
                     "bidQty": 1100,
                     "bidprice": 3.95,
@@ -3764,31 +3764,31 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 350,
                     "totalBuyQuantity": 58300,
-                    "totalSellQuantity": 31900,
+                    "totalSellQuantity": 33000,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 43.6,
-                    "askQty": 2200,
-                    "bidQty": 1100,
-                    "bidprice": 38.35,
+                    "askPrice": 40.05,
+                    "askQty": 1100,
+                    "bidQty": 3300,
+                    "bidprice": 35.7,
                     "change": 4.799999999999997,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKLAURUSLABS29-06-2023PE350.00",
-                    "impliedVolatility": 33.11,
+                    "impliedVolatility": 34.73,
                     "lastPrice": 37.8,
                     "openInterest": 8,
                     "pChange": 14.545454545454536,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 350,
-                    "totalBuyQuantity": 56100,
-                    "totalSellQuantity": 2200,
+                    "totalBuyQuantity": 62700,
+                    "totalSellQuantity": 1100,
                     "totalTradedVolume": 1,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 350
@@ -3797,8 +3797,8 @@
                 "CE": {
                     "askPrice": 0.8,
                     "askQty": 2200,
-                    "bidQty": 1100,
-                    "bidprice": 0.2,
+                    "bidQty": 2200,
+                    "bidprice": 0.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3809,17 +3809,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 355,
-                    "totalBuyQuantity": 14300,
-                    "totalSellQuantity": 84700,
+                    "totalBuyQuantity": 15400,
+                    "totalSellQuantity": 81400,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 44.35,
+                    "askPrice": 44.45,
                     "askQty": 3300,
                     "bidQty": 4400,
-                    "bidprice": 42,
+                    "bidprice": 41.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3831,10 +3831,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 355,
                     "totalBuyQuantity": 69300,
-                    "totalSellQuantity": 64900,
+                    "totalSellQuantity": 72600,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 355
@@ -3859,13 +3859,13 @@
                     "totalSellQuantity": 55000,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 65.1,
+                    "askPrice": 57.7,
                     "askQty": 3300,
                     "bidQty": 3300,
-                    "bidprice": 35.4,
+                    "bidprice": 35.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3877,10 +3877,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 355,
                     "totalBuyQuantity": 58300,
-                    "totalSellQuantity": 3300,
+                    "totalSellQuantity": 5500,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 355
@@ -3895,22 +3895,22 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023CE360.00",
-                    "impliedVolatility": 56.27,
+                    "impliedVolatility": 55.63,
                     "lastPrice": 0.35,
                     "openInterest": 368,
                     "pChange": 16.666666666666664,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 360,
-                    "totalBuyQuantity": 273900,
+                    "totalBuyQuantity": 258500,
                     "totalSellQuantity": 180400,
                     "totalTradedVolume": 20,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 49.15,
-                    "askQty": 4400,
-                    "bidQty": 4400,
+                    "askPrice": 48.95,
+                    "askQty": 3300,
+                    "bidQty": 3300,
                     "bidprice": 46.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -3922,11 +3922,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 360,
-                    "totalBuyQuantity": 69300,
-                    "totalSellQuantity": 69300,
+                    "totalBuyQuantity": 68200,
+                    "totalSellQuantity": 72600,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 360
@@ -3936,7 +3936,7 @@
                     "askPrice": 3.7,
                     "askQty": 1100,
                     "bidQty": 1100,
-                    "bidprice": 2.2,
+                    "bidprice": 2.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3948,16 +3948,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 360,
                     "totalBuyQuantity": 62700,
-                    "totalSellQuantity": 5500,
+                    "totalSellQuantity": 6600,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 56.95,
-                    "askQty": 3300,
-                    "bidQty": 3300,
-                    "bidprice": 40.5,
+                    "askPrice": 49.9,
+                    "askQty": 2200,
+                    "bidQty": 55000,
+                    "bidprice": 40.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3968,18 +3968,18 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 360,
-                    "totalBuyQuantity": 58300,
-                    "totalSellQuantity": 5500,
+                    "totalBuyQuantity": 55000,
+                    "totalSellQuantity": 2200,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 360
             },
             {
                 "CE": {
-                    "askPrice": 0.95,
+                    "askPrice": 0.85,
                     "askQty": 1100,
                     "bidQty": 2200,
                     "bidprice": 0.15,
@@ -3994,16 +3994,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 365,
                     "totalBuyQuantity": 13200,
-                    "totalSellQuantity": 72600,
+                    "totalSellQuantity": 73700,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
                     "askPrice": 55.5,
                     "askQty": 3300,
                     "bidQty": 3300,
-                    "bidprice": 51.2,
+                    "bidprice": 49.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4018,7 +4018,7 @@
                     "totalSellQuantity": 64900,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 365
@@ -4043,10 +4043,10 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 73.05,
+                    "askPrice": 73.85,
                     "askQty": 3300,
                     "bidQty": 3300,
                     "bidprice": 45.95,
@@ -4064,7 +4064,7 @@
                     "totalSellQuantity": 3300,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 365
@@ -4089,13 +4089,13 @@
                     "totalSellQuantity": 110000,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 61.25,
+                    "askPrice": 59.9,
                     "askQty": 3300,
-                    "bidQty": 3300,
-                    "bidprice": 55.9,
+                    "bidQty": 6600,
+                    "bidprice": 54.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4106,11 +4106,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 370,
-                    "totalBuyQuantity": 64900,
+                    "totalBuyQuantity": 61600,
                     "totalSellQuantity": 64900,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 370
@@ -4135,10 +4135,10 @@
                     "totalSellQuantity": 1100,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 80.95,
+                    "askPrice": 79.95,
                     "askQty": 3300,
                     "bidQty": 3300,
                     "bidprice": 50.9,
@@ -4156,7 +4156,7 @@
                     "totalSellQuantity": 3300,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 370
@@ -4181,10 +4181,10 @@
                     "totalSellQuantity": 58300,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 68.2,
+                    "askPrice": 68,
                     "askQty": 3300,
                     "bidQty": 3300,
                     "bidprice": 58.5,
@@ -4202,7 +4202,7 @@
                     "totalSellQuantity": 58300,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 375
@@ -4227,7 +4227,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
                     "askPrice": 86.25,
@@ -4248,7 +4248,7 @@
                     "totalSellQuantity": 3300,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 375
@@ -4263,23 +4263,23 @@
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLAURUSLABS25-05-2023CE380.00",
-                    "impliedVolatility": 61.05,
+                    "impliedVolatility": 60.52,
                     "lastPrice": 0.1,
                     "openInterest": 311,
                     "pChange": -33.33333333333333,
                     "pchangeinOpenInterest": 0.3225806451612903,
                     "strikePrice": 380,
                     "totalBuyQuantity": 70400,
-                    "totalSellQuantity": 181500,
+                    "totalSellQuantity": 174900,
                     "totalTradedVolume": 7,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 68.35,
-                    "askQty": 1100,
+                    "askPrice": 69.75,
+                    "askQty": 3300,
                     "bidQty": 3300,
-                    "bidprice": 65.9,
+                    "bidprice": 64.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4290,11 +4290,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 380,
-                    "totalBuyQuantity": 64900,
-                    "totalSellQuantity": 62700,
+                    "totalBuyQuantity": 69300,
+                    "totalSellQuantity": 66000,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 380
@@ -4319,13 +4319,13 @@
                     "totalSellQuantity": 1100,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
                     "askPrice": 91.2,
                     "askQty": 5500,
-                    "bidQty": 55000,
-                    "bidprice": 60.4,
+                    "bidQty": 3300,
+                    "bidprice": 60.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4336,11 +4336,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 380,
-                    "totalBuyQuantity": 55000,
+                    "totalBuyQuantity": 58300,
                     "totalSellQuantity": 5500,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 380
@@ -4365,10 +4365,10 @@
                     "totalSellQuantity": 1100,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
-                    "askPrice": 79.75,
+                    "askPrice": 79.65,
                     "askQty": 3300,
                     "bidQty": 3300,
                     "bidprice": 68,
@@ -4386,7 +4386,7 @@
                     "totalSellQuantity": 58300,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 385
@@ -4411,7 +4411,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "PE": {
                     "askPrice": 96.25,
@@ -4432,7 +4432,7 @@
                     "totalSellQuantity": 4400,
                     "totalTradedVolume": 0,
                     "underlying": "LAURUSLABS",
-                    "underlyingValue": 312.3
+                    "underlyingValue": 312.95
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 385
@@ -4477,7 +4477,7 @@
             380,
             385
         ],
-        "timestamp": "18-May-2023 10:19:49",
-        "underlyingValue": 312.3
+        "timestamp": "18-May-2023 10:25:46",
+        "underlyingValue": 312.95
     }
 }

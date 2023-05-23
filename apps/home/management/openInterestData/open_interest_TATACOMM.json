@@ -1,12 +1,12 @@
 {
     "filtered": {
         "CE": {
-            "totOI": 3978,
-            "totVol": 825
+            "totOI": 3982,
+            "totVol": 917
         },
         "PE": {
-            "totOI": 1150,
-            "totVol": 87
+            "totOI": 1149,
+            "totVol": 91
         },
         "data": [
             {
@@ -29,7 +29,7 @@
                     "totalSellQuantity": 24500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
                     "askPrice": 2.15,
@@ -50,7 +50,7 @@
                     "totalSellQuantity": 20500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 980
@@ -75,7 +75,7 @@
                     "totalSellQuantity": 24500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
                     "askPrice": 0.75,
@@ -96,7 +96,7 @@
                     "totalSellQuantity": 1500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1000
@@ -121,7 +121,7 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1020
@@ -146,7 +146,7 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
                     "askPrice": 0,
@@ -167,7 +167,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.25
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1040
@@ -192,7 +192,7 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
                     "askPrice": 0,
@@ -213,7 +213,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.25
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1060
@@ -238,7 +238,7 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.25
+                    "underlyingValue": 1239
                 },
                 "PE": {
                     "askPrice": 0,
@@ -259,7 +259,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.25
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1080
@@ -284,7 +284,7 @@
                     "totalSellQuantity": 26000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.25
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1100
@@ -309,7 +309,7 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
                     "askPrice": 4,
@@ -330,7 +330,7 @@
                     "totalSellQuantity": 20000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1120
@@ -355,36 +355,36 @@
                     "totalSellQuantity": 26000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
-                    "askPrice": 1.3,
-                    "askQty": 1000,
-                    "bidQty": 1000,
-                    "bidprice": 1.2,
+                    "askPrice": 1.25,
+                    "askQty": 500,
+                    "bidQty": 500,
+                    "bidprice": 1.15,
                     "change": -1.15,
                     "changeinOpenInterest": -11,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACOMM25-05-2023PE1140.00",
-                    "impliedVolatility": 36.35,
+                    "impliedVolatility": 36.29,
                     "lastPrice": 1.15,
                     "openInterest": 45,
                     "pChange": -50,
                     "pchangeinOpenInterest": -19.642857142857142,
                     "strikePrice": 1140,
-                    "totalBuyQuantity": 64000,
+                    "totalBuyQuantity": 62500,
                     "totalSellQuantity": 61500,
                     "totalTradedVolume": 13,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1140
             },
             {
                 "CE": {
-                    "askPrice": 85,
-                    "askQty": 500,
+                    "askPrice": 89.5,
+                    "askQty": 1500,
                     "bidQty": 500,
                     "bidprice": 74.65,
                     "change": 0,
@@ -398,16 +398,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1160,
                     "totalBuyQuantity": 25000,
-                    "totalSellQuantity": 27000,
+                    "totalSellQuantity": 28500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
-                    "askPrice": 2.1,
+                    "askPrice": 2.2,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 1.15,
+                    "bidprice": 0.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -418,18 +418,18 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1160,
-                    "totalBuyQuantity": 22500,
-                    "totalSellQuantity": 28500,
+                    "totalBuyQuantity": 27000,
+                    "totalSellQuantity": 26000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1160
             },
             {
                 "CE": {
-                    "askPrice": 68.4,
+                    "askPrice": 70.4,
                     "askQty": 500,
                     "bidQty": 500,
                     "bidprice": 56.4,
@@ -443,42 +443,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1180,
-                    "totalBuyQuantity": 25000,
+                    "totalBuyQuantity": 30000,
                     "totalSellQuantity": 25000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
-                    "askPrice": 2.65,
+                    "askPrice": 2.45,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 2.45,
+                    "bidprice": 2.2,
                     "change": -1.7000000000000002,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACOMM25-05-2023PE1180.00",
-                    "impliedVolatility": 30.64,
+                    "impliedVolatility": 30.57,
                     "lastPrice": 3,
                     "openInterest": 69,
                     "pChange": -36.17021276595745,
                     "pchangeinOpenInterest": -1.4285714285714286,
                     "strikePrice": 1180,
-                    "totalBuyQuantity": 25500,
-                    "totalSellQuantity": 59500,
+                    "totalBuyQuantity": 30500,
+                    "totalSellQuantity": 60500,
                     "totalTradedVolume": 20,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1180
             },
             {
                 "CE": {
-                    "askPrice": 45.05,
+                    "askPrice": 48.4,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 41.55,
+                    "bidprice": 43.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -489,17 +489,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1200,
-                    "totalBuyQuantity": 29000,
+                    "totalBuyQuantity": 31000,
                     "totalSellQuantity": 26000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
-                    "askPrice": 5.25,
+                    "askPrice": 4.95,
                     "askQty": 500,
-                    "bidQty": 1000,
-                    "bidprice": 4.85,
+                    "bidQty": 500,
+                    "bidprice": 4.3,
                     "change": -0.7000000000000002,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
@@ -510,21 +510,21 @@
                     "pChange": -12.280701754385968,
                     "pchangeinOpenInterest": -0.3816793893129771,
                     "strikePrice": 1200,
-                    "totalBuyQuantity": 67000,
-                    "totalSellQuantity": 85500,
+                    "totalBuyQuantity": 65000,
+                    "totalSellQuantity": 85000,
                     "totalTradedVolume": 17,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.25
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1200
             },
             {
                 "CE": {
-                    "askPrice": 28.9,
+                    "askPrice": 31.9,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 26.95,
+                    "bidprice": 28.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -535,155 +535,155 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1220,
-                    "totalBuyQuantity": 22500,
-                    "totalSellQuantity": 21000,
+                    "totalBuyQuantity": 23000,
+                    "totalSellQuantity": 18500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
-                    "askPrice": 10.05,
-                    "askQty": 1000,
+                    "askPrice": 9,
+                    "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 9.15,
-                    "change": -2,
+                    "bidprice": 8.4,
+                    "change": -2.75,
                     "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACOMM25-05-2023PE1220.00",
-                    "impliedVolatility": 26.81,
-                    "lastPrice": 9.75,
+                    "impliedVolatility": 26.71,
+                    "lastPrice": 9,
                     "openInterest": 132,
-                    "pChange": -17.02127659574468,
+                    "pChange": -23.404255319148938,
                     "pchangeinOpenInterest": 1.5384615384615385,
                     "strikePrice": 1220,
-                    "totalBuyQuantity": 59000,
-                    "totalSellQuantity": 73000,
-                    "totalTradedVolume": 11,
+                    "totalBuyQuantity": 58000,
+                    "totalSellQuantity": 73500,
+                    "totalTradedVolume": 12,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1220
             },
             {
                 "CE": {
-                    "askPrice": 16.35,
-                    "askQty": 500,
-                    "bidQty": 1000,
-                    "bidprice": 15.65,
-                    "change": -0.6000000000000014,
-                    "changeinOpenInterest": 23,
-                    "expiryDate": "25-May-2023",
-                    "identifier": "OPTSTKTATACOMM25-05-2023CE1240.00",
-                    "impliedVolatility": 23.23,
-                    "lastPrice": 16.5,
-                    "openInterest": 217,
-                    "pChange": -3.5087719298245696,
-                    "pchangeinOpenInterest": 11.855670103092784,
-                    "strikePrice": 1240,
-                    "totalBuyQuantity": 52500,
-                    "totalSellQuantity": 65000,
-                    "totalTradedVolume": 139,
-                    "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
-                },
-                "PE": {
-                    "askPrice": 17.9,
+                    "askPrice": 17.95,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 16.85,
-                    "change": -1.5,
-                    "changeinOpenInterest": -14,
+                    "bidprice": 17.3,
+                    "change": 0.5,
+                    "changeinOpenInterest": 28,
+                    "expiryDate": "25-May-2023",
+                    "identifier": "OPTSTKTATACOMM25-05-2023CE1240.00",
+                    "impliedVolatility": 23.89,
+                    "lastPrice": 17.6,
+                    "openInterest": 222,
+                    "pChange": 2.923976608187134,
+                    "pchangeinOpenInterest": 14.43298969072165,
+                    "strikePrice": 1240,
+                    "totalBuyQuantity": 94500,
+                    "totalSellQuantity": 65000,
+                    "totalTradedVolume": 176,
+                    "underlying": "TATACOMM",
+                    "underlyingValue": 1239
+                },
+                "PE": {
+                    "askPrice": 17.3,
+                    "askQty": 500,
+                    "bidQty": 500,
+                    "bidprice": 16,
+                    "change": -2.3000000000000007,
+                    "changeinOpenInterest": -15,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACOMM25-05-2023PE1240.00",
-                    "impliedVolatility": 26.7,
-                    "lastPrice": 17.8,
-                    "openInterest": 181,
-                    "pChange": -7.772020725388601,
-                    "pchangeinOpenInterest": -7.17948717948718,
+                    "impliedVolatility": 26.27,
+                    "lastPrice": 17,
+                    "openInterest": 180,
+                    "pChange": -11.917098445595858,
+                    "pchangeinOpenInterest": -7.6923076923076925,
                     "strikePrice": 1240,
-                    "totalBuyQuantity": 72000,
-                    "totalSellQuantity": 74500,
-                    "totalTradedVolume": 25,
+                    "totalBuyQuantity": 56500,
+                    "totalSellQuantity": 75000,
+                    "totalTradedVolume": 27,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1240
             },
             {
                 "CE": {
-                    "askPrice": 9.95,
+                    "askPrice": 10.35,
                     "askQty": 500,
-                    "bidQty": 1000,
-                    "bidprice": 9.65,
-                    "change": -0.9500000000000011,
+                    "bidQty": 500,
+                    "bidprice": 10,
+                    "change": -0.6500000000000004,
                     "changeinOpenInterest": -8,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACOMM25-05-2023CE1260.00",
-                    "impliedVolatility": 25.67,
-                    "lastPrice": 9.7,
+                    "impliedVolatility": 25.86,
+                    "lastPrice": 10,
                     "openInterest": 299,
-                    "pChange": -8.920187793427239,
+                    "pChange": -6.1032863849765295,
                     "pchangeinOpenInterest": -2.6058631921824102,
                     "strikePrice": 1260,
-                    "totalBuyQuantity": 61500,
-                    "totalSellQuantity": 111500,
-                    "totalTradedVolume": 131,
+                    "totalBuyQuantity": 62500,
+                    "totalSellQuantity": 98500,
+                    "totalTradedVolume": 160,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
-                    "askPrice": 32.25,
+                    "askPrice": 30.5,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 29.9,
-                    "change": 0,
+                    "bidprice": 28.3,
+                    "change": -4.300000000000004,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACOMM25-05-2023PE1260.00",
                     "impliedVolatility": 0,
-                    "lastPrice": 0,
+                    "lastPrice": 28.9,
                     "openInterest": 111,
-                    "pChange": 0,
+                    "pChange": -12.951807228915674,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1260,
-                    "totalBuyQuantity": 28500,
-                    "totalSellQuantity": 44500,
-                    "totalTradedVolume": 0,
+                    "totalBuyQuantity": 29000,
+                    "totalSellQuantity": 46000,
+                    "totalTradedVolume": 1,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1260
             },
             {
                 "CE": {
-                    "askPrice": 6.35,
+                    "askPrice": 6.6,
                     "askQty": 1000,
-                    "bidQty": 1500,
-                    "bidprice": 6.2,
-                    "change": -0.8499999999999996,
-                    "changeinOpenInterest": -16,
+                    "bidQty": 500,
+                    "bidprice": 6.35,
+                    "change": -0.5999999999999996,
+                    "changeinOpenInterest": -12,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACOMM25-05-2023CE1280.00",
-                    "impliedVolatility": 28.93,
-                    "lastPrice": 6.2,
-                    "openInterest": 422,
-                    "pChange": -12.056737588652478,
-                    "pchangeinOpenInterest": -3.65296803652968,
+                    "impliedVolatility": 28.91,
+                    "lastPrice": 6.45,
+                    "openInterest": 426,
+                    "pChange": -8.510638297872337,
+                    "pchangeinOpenInterest": -2.73972602739726,
                     "strikePrice": 1280,
-                    "totalBuyQuantity": 59000,
-                    "totalSellQuantity": 89000,
-                    "totalTradedVolume": 111,
+                    "totalBuyQuantity": 57000,
+                    "totalSellQuantity": 86000,
+                    "totalTradedVolume": 125,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
-                    "askPrice": 49.1,
+                    "askPrice": 49.65,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 46.45,
+                    "bidprice": 43.6,
                     "change": -0.20000000000000284,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -694,42 +694,42 @@
                     "pChange": -0.40816326530612823,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1280,
-                    "totalBuyQuantity": 28500,
-                    "totalSellQuantity": 43500,
+                    "totalBuyQuantity": 27000,
+                    "totalSellQuantity": 47500,
                     "totalTradedVolume": 1,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.25
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1280
             },
             {
                 "CE": {
-                    "askPrice": 4.3,
-                    "askQty": 1500,
-                    "bidQty": 2000,
-                    "bidprice": 4.1,
-                    "change": -0.8999999999999995,
-                    "changeinOpenInterest": 5,
+                    "askPrice": 4.5,
+                    "askQty": 5500,
+                    "bidQty": 1000,
+                    "bidprice": 4.3,
+                    "change": -0.6499999999999995,
+                    "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACOMM25-05-2023CE1300.00",
-                    "impliedVolatility": 32.38,
-                    "lastPrice": 4.15,
-                    "openInterest": 1505,
-                    "pChange": -17.821782178217813,
-                    "pchangeinOpenInterest": 0.3333333333333333,
+                    "impliedVolatility": 32.34,
+                    "lastPrice": 4.4,
+                    "openInterest": 1502,
+                    "pChange": -12.871287128712861,
+                    "pchangeinOpenInterest": 0.13333333333333333,
                     "strikePrice": 1300,
-                    "totalBuyQuantity": 83000,
-                    "totalSellQuantity": 277000,
-                    "totalTradedVolume": 261,
+                    "totalBuyQuantity": 84000,
+                    "totalSellQuantity": 275500,
+                    "totalTradedVolume": 266,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
                     "askPrice": 67.7,
                     "askQty": 500,
-                    "bidQty": 3500,
-                    "bidprice": 62.75,
+                    "bidQty": 500,
+                    "bidprice": 63.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -740,42 +740,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1300,
-                    "totalBuyQuantity": 53000,
+                    "totalBuyQuantity": 51000,
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1300
             },
             {
                 "CE": {
-                    "askPrice": 2.7,
-                    "askQty": 2000,
-                    "bidQty": 500,
-                    "bidprice": 2.6,
-                    "change": -0.5499999999999998,
+                    "askPrice": 2.95,
+                    "askQty": 500,
+                    "bidQty": 1000,
+                    "bidprice": 2.8,
+                    "change": -0.3999999999999999,
                     "changeinOpenInterest": -8,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACOMM25-05-2023CE1320.00",
-                    "impliedVolatility": 33.73,
-                    "lastPrice": 2.6,
+                    "impliedVolatility": 33.97,
+                    "lastPrice": 2.75,
                     "openInterest": 343,
-                    "pChange": -17.460317460317455,
+                    "pChange": -12.698412698412694,
                     "pchangeinOpenInterest": -2.2792022792022792,
                     "strikePrice": 1320,
-                    "totalBuyQuantity": 76500,
-                    "totalSellQuantity": 82500,
-                    "totalTradedVolume": 39,
+                    "totalBuyQuantity": 79000,
+                    "totalSellQuantity": 79500,
+                    "totalTradedVolume": 42,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
-                    "askPrice": 89.5,
-                    "askQty": 500,
-                    "bidQty": 3500,
-                    "bidprice": 80.4,
+                    "askPrice": 86.3,
+                    "askQty": 2000,
+                    "bidQty": 2000,
+                    "bidprice": 78,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -786,11 +786,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1320,
-                    "totalBuyQuantity": 30500,
+                    "totalBuyQuantity": 27000,
                     "totalSellQuantity": 27000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1320
@@ -798,30 +798,30 @@
             {
                 "CE": {
                     "askPrice": 1.9,
-                    "askQty": 1500,
-                    "bidQty": 2000,
+                    "askQty": 5500,
+                    "bidQty": 1500,
                     "bidprice": 1.8,
-                    "change": -0.3500000000000001,
-                    "changeinOpenInterest": -9,
+                    "change": -0.40000000000000013,
+                    "changeinOpenInterest": -8,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACOMM25-05-2023CE1340.00",
-                    "impliedVolatility": 37.18,
-                    "lastPrice": 1.85,
-                    "openInterest": 284,
-                    "pChange": -15.909090909090912,
-                    "pchangeinOpenInterest": -3.0716723549488054,
+                    "impliedVolatility": 37.02,
+                    "lastPrice": 1.8,
+                    "openInterest": 285,
+                    "pChange": -18.181818181818183,
+                    "pchangeinOpenInterest": -2.7303754266211606,
                     "strikePrice": 1340,
-                    "totalBuyQuantity": 84000,
-                    "totalSellQuantity": 106500,
-                    "totalTradedVolume": 35,
+                    "totalBuyQuantity": 87000,
+                    "totalSellQuantity": 105500,
+                    "totalTradedVolume": 38,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
-                    "askPrice": 107.8,
-                    "askQty": 500,
+                    "askPrice": 106.65,
+                    "askQty": 1500,
                     "bidQty": 500,
-                    "bidprice": 97.25,
+                    "bidprice": 93.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -833,10 +833,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1340,
                     "totalBuyQuantity": 25000,
-                    "totalSellQuantity": 25000,
+                    "totalSellQuantity": 26500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1340
@@ -845,29 +845,29 @@
                 "CE": {
                     "askPrice": 1.7,
                     "askQty": 500,
-                    "bidQty": 3500,
-                    "bidprice": 1.15,
-                    "change": -0.40000000000000013,
+                    "bidQty": 500,
+                    "bidprice": 1.5,
+                    "change": -0.3500000000000001,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACOMM25-05-2023CE1360.00",
                     "impliedVolatility": 40.07,
-                    "lastPrice": 1.45,
+                    "lastPrice": 1.5,
                     "openInterest": 288,
-                    "pChange": -21.621621621621628,
+                    "pChange": -18.918918918918923,
                     "pchangeinOpenInterest": 0.34843205574912894,
                     "strikePrice": 1360,
-                    "totalBuyQuantity": 79500,
-                    "totalSellQuantity": 55000,
-                    "totalTradedVolume": 28,
+                    "totalBuyQuantity": 82500,
+                    "totalSellQuantity": 54500,
+                    "totalTradedVolume": 29,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.25
+                    "underlyingValue": 1239
                 },
                 "PE": {
                     "askPrice": 127.25,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 116.6,
+                    "bidprice": 113.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -882,38 +882,38 @@
                     "totalSellQuantity": 25000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1360
             },
             {
                 "CE": {
-                    "askPrice": 0.8,
-                    "askQty": 1000,
+                    "askPrice": 1,
+                    "askQty": 3500,
                     "bidQty": 1000,
-                    "bidprice": 0.7,
+                    "bidprice": 0.75,
                     "change": -0.3999999999999999,
                     "changeinOpenInterest": -9,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACOMM25-05-2023CE1380.00",
-                    "impliedVolatility": 39.98,
+                    "impliedVolatility": 40.47,
                     "lastPrice": 0.8,
                     "openInterest": 120,
                     "pChange": -33.33333333333333,
                     "pchangeinOpenInterest": -6.976744186046512,
                     "strikePrice": 1380,
-                    "totalBuyQuantity": 70000,
-                    "totalSellQuantity": 69500,
+                    "totalBuyQuantity": 70500,
+                    "totalSellQuantity": 68000,
                     "totalTradedVolume": 24,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
-                    "askPrice": 149.2,
+                    "askPrice": 147.3,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 135.35,
+                    "bidprice": 133.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -928,7 +928,7 @@
                     "totalSellQuantity": 26000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1380
@@ -936,30 +936,30 @@
             {
                 "CE": {
                     "askPrice": 0.4,
-                    "askQty": 2000,
-                    "bidQty": 2000,
-                    "bidprice": 0.3,
+                    "askQty": 500,
+                    "bidQty": 1000,
+                    "bidprice": 0.35,
                     "change": -0.4,
-                    "changeinOpenInterest": -11,
+                    "changeinOpenInterest": -14,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACOMM25-05-2023CE1400.00",
-                    "impliedVolatility": 38.82,
+                    "impliedVolatility": 38.87,
                     "lastPrice": 0.35,
-                    "openInterest": 267,
+                    "openInterest": 264,
                     "pChange": -53.333333333333336,
-                    "pchangeinOpenInterest": -3.9568345323741005,
+                    "pchangeinOpenInterest": -5.0359712230215825,
                     "strikePrice": 1400,
-                    "totalBuyQuantity": 45000,
-                    "totalSellQuantity": 63500,
+                    "totalBuyQuantity": 45500,
+                    "totalSellQuantity": 63000,
                     "totalTradedVolume": 46,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
                     "askPrice": 166,
                     "askQty": 2000,
                     "bidQty": 2000,
-                    "bidprice": 155,
+                    "bidprice": 154.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -974,7 +974,7 @@
                     "totalSellQuantity": 26500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1400
@@ -983,29 +983,29 @@
                 "CE": {
                     "askPrice": 0.6,
                     "askQty": 500,
-                    "bidQty": 0,
-                    "bidprice": 0,
+                    "bidQty": 6000,
+                    "bidprice": 0.1,
                     "change": -0.7000000000000001,
                     "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACOMM25-05-2023CE1420.00",
-                    "impliedVolatility": 43.59,
+                    "impliedVolatility": 43.64,
                     "lastPrice": 0.35,
                     "openInterest": 72,
                     "pChange": -66.66666666666667,
                     "pchangeinOpenInterest": 2.857142857142857,
                     "strikePrice": 1420,
-                    "totalBuyQuantity": 0,
-                    "totalSellQuantity": 33000,
+                    "totalBuyQuantity": 12500,
+                    "totalSellQuantity": 39500,
                     "totalTradedVolume": 11,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
                     "askPrice": 186.7,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 174.15,
+                    "bidprice": 172.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1020,7 +1020,7 @@
                     "totalSellQuantity": 26000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.25
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1420
@@ -1045,7 +1045,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.25
+                    "underlyingValue": 1239
                 },
                 "PE": {
                     "askPrice": 218.5,
@@ -1066,7 +1066,7 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1440
@@ -1091,13 +1091,13 @@
                     "totalSellQuantity": 1500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
-                    "askPrice": 228.9,
+                    "askPrice": 229.75,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 207.15,
+                    "bidprice": 213.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1112,7 +1112,7 @@
                     "totalSellQuantity": 24500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.25
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1460
@@ -1137,13 +1137,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
-                    "askPrice": 260.5,
+                    "askPrice": 251.15,
                     "askQty": 1500,
-                    "bidQty": 1500,
-                    "bidprice": 221.9,
+                    "bidQty": 3000,
+                    "bidprice": 233.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1154,11 +1154,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1480,
-                    "totalBuyQuantity": 21500,
-                    "totalSellQuantity": 21500,
+                    "totalBuyQuantity": 23000,
+                    "totalSellQuantity": 24500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1480
@@ -1187,7 +1187,7 @@
                     "totalSellQuantity": 24500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
                     "askPrice": 2.15,
@@ -1208,7 +1208,7 @@
                     "totalSellQuantity": 20500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 980
@@ -1233,7 +1233,7 @@
                     "totalSellQuantity": 24500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
                     "askPrice": 0.75,
@@ -1254,14 +1254,14 @@
                     "totalSellQuantity": 1500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1000
             },
             {
                 "CE": {
-                    "askPrice": 291.3,
+                    "askPrice": 292.5,
                     "askQty": 1500,
                     "bidQty": 1500,
                     "bidprice": 152.1,
@@ -1279,7 +1279,7 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.25
+                    "underlyingValue": 1239
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1300,17 +1300,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1000
             },
             {
                 "CE": {
-                    "askPrice": 273.05,
+                    "askPrice": 271.8,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 138.65,
+                    "bidprice": 139.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -1325,7 +1325,7 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1020
@@ -1350,17 +1350,17 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1020
             },
             {
                 "CE": {
-                    "askPrice": 253.3,
+                    "askPrice": 250.9,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 127.7,
+                    "bidprice": 128.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -1375,7 +1375,7 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.25
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1040
@@ -1400,7 +1400,7 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1421,7 +1421,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.25
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1040
@@ -1446,7 +1446,7 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1467,17 +1467,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.25
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1060
             },
             {
                 "CE": {
-                    "askPrice": 233.35,
-                    "askQty": 1500,
+                    "askPrice": 231.25,
+                    "askQty": 20000,
                     "bidQty": 1500,
-                    "bidprice": 117.05,
+                    "bidprice": 117.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -1489,10 +1489,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1060,
                     "totalBuyQuantity": 1500,
-                    "totalSellQuantity": 21500,
+                    "totalSellQuantity": 20000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1060
@@ -1517,7 +1517,7 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.25
+                    "underlyingValue": 1239
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1538,7 +1538,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.25
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1080
@@ -1563,7 +1563,7 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1584,7 +1584,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1080
@@ -1609,7 +1609,7 @@
                     "totalSellQuantity": 26000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.25
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1100
@@ -1634,7 +1634,7 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1655,7 +1655,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1100
@@ -1680,7 +1680,7 @@
                     "totalSellQuantity": 20000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.25
+                    "underlyingValue": 1239
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1701,7 +1701,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1120
@@ -1726,7 +1726,7 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
                     "askPrice": 4,
@@ -1747,14 +1747,14 @@
                     "totalSellQuantity": 20000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1120
             },
             {
                 "CE": {
-                    "askPrice": 148.45,
+                    "askPrice": 170.2,
                     "askQty": 20000,
                     "bidQty": 1500,
                     "bidprice": 78.3,
@@ -1772,7 +1772,7 @@
                     "totalSellQuantity": 20000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1140
@@ -1797,36 +1797,36 @@
                     "totalSellQuantity": 26000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
-                    "askPrice": 1.3,
-                    "askQty": 1000,
-                    "bidQty": 1000,
-                    "bidprice": 1.2,
+                    "askPrice": 1.25,
+                    "askQty": 500,
+                    "bidQty": 500,
+                    "bidprice": 1.15,
                     "change": -1.15,
                     "changeinOpenInterest": -11,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACOMM25-05-2023PE1140.00",
-                    "impliedVolatility": 36.35,
+                    "impliedVolatility": 36.29,
                     "lastPrice": 1.15,
                     "openInterest": 45,
                     "pChange": -50,
                     "pchangeinOpenInterest": -19.642857142857142,
                     "strikePrice": 1140,
-                    "totalBuyQuantity": 64000,
+                    "totalBuyQuantity": 62500,
                     "totalSellQuantity": 61500,
                     "totalTradedVolume": 13,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1140
             },
             {
                 "CE": {
-                    "askPrice": 85,
-                    "askQty": 500,
+                    "askPrice": 89.5,
+                    "askQty": 1500,
                     "bidQty": 500,
                     "bidprice": 74.65,
                     "change": 0,
@@ -1840,16 +1840,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1160,
                     "totalBuyQuantity": 25000,
-                    "totalSellQuantity": 27000,
+                    "totalSellQuantity": 28500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
-                    "askPrice": 2.1,
+                    "askPrice": 2.2,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 1.15,
+                    "bidprice": 0.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1860,18 +1860,18 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1160,
-                    "totalBuyQuantity": 22500,
-                    "totalSellQuantity": 28500,
+                    "totalBuyQuantity": 27000,
+                    "totalSellQuantity": 26000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1160
             },
             {
                 "CE": {
-                    "askPrice": 127.95,
+                    "askPrice": 149.2,
                     "askQty": 20000,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -1889,13 +1889,13 @@
                     "totalSellQuantity": 20000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 500,
-                    "bidprice": 7.2,
+                    "bidprice": 6.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -1910,14 +1910,14 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1160
             },
             {
                 "CE": {
-                    "askPrice": 68.4,
+                    "askPrice": 70.4,
                     "askQty": 500,
                     "bidQty": 500,
                     "bidprice": 56.4,
@@ -1931,32 +1931,32 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1180,
-                    "totalBuyQuantity": 25000,
+                    "totalBuyQuantity": 30000,
                     "totalSellQuantity": 25000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
-                    "askPrice": 2.65,
+                    "askPrice": 2.45,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 2.45,
+                    "bidprice": 2.2,
                     "change": -1.7000000000000002,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACOMM25-05-2023PE1180.00",
-                    "impliedVolatility": 30.64,
+                    "impliedVolatility": 30.57,
                     "lastPrice": 3,
                     "openInterest": 69,
                     "pChange": -36.17021276595745,
                     "pchangeinOpenInterest": -1.4285714285714286,
                     "strikePrice": 1180,
-                    "totalBuyQuantity": 25500,
-                    "totalSellQuantity": 59500,
+                    "totalBuyQuantity": 30500,
+                    "totalSellQuantity": 60500,
                     "totalTradedVolume": 20,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1180
@@ -1981,17 +1981,17 @@
                     "totalSellQuantity": 20000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1180
             },
             {
                 "CE": {
-                    "askPrice": 45.05,
+                    "askPrice": 48.4,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 41.55,
+                    "bidprice": 43.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2002,17 +2002,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1200,
-                    "totalBuyQuantity": 29000,
+                    "totalBuyQuantity": 31000,
                     "totalSellQuantity": 26000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
-                    "askPrice": 5.25,
+                    "askPrice": 4.95,
                     "askQty": 500,
-                    "bidQty": 1000,
-                    "bidprice": 4.85,
+                    "bidQty": 500,
+                    "bidprice": 4.3,
                     "change": -0.7000000000000002,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
@@ -2023,19 +2023,19 @@
                     "pChange": -12.280701754385968,
                     "pchangeinOpenInterest": -0.3816793893129771,
                     "strikePrice": 1200,
-                    "totalBuyQuantity": 67000,
-                    "totalSellQuantity": 85500,
+                    "totalBuyQuantity": 65000,
+                    "totalSellQuantity": 85000,
                     "totalTradedVolume": 17,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.25
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1200
             },
             {
                 "CE": {
-                    "askPrice": 76.45,
-                    "askQty": 1500,
+                    "askPrice": 0,
+                    "askQty": 0,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -2049,16 +2049,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1200,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 22500,
+                    "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
-                    "askPrice": 31.25,
-                    "askQty": 500,
+                    "askPrice": 29.95,
+                    "askQty": 1000,
                     "bidQty": 500,
-                    "bidprice": 19.8,
+                    "bidprice": 24.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2069,21 +2069,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1200,
-                    "totalBuyQuantity": 5000,
-                    "totalSellQuantity": 2000,
+                    "totalBuyQuantity": 3500,
+                    "totalSellQuantity": 2500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1200
             },
             {
                 "CE": {
-                    "askPrice": 28.9,
+                    "askPrice": 31.9,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 26.95,
+                    "bidprice": 28.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2094,42 +2094,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1220,
-                    "totalBuyQuantity": 22500,
-                    "totalSellQuantity": 21000,
+                    "totalBuyQuantity": 23000,
+                    "totalSellQuantity": 18500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
-                    "askPrice": 10.05,
-                    "askQty": 1000,
+                    "askPrice": 9,
+                    "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 9.15,
-                    "change": -2,
+                    "bidprice": 8.4,
+                    "change": -2.75,
                     "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACOMM25-05-2023PE1220.00",
-                    "impliedVolatility": 26.81,
-                    "lastPrice": 9.75,
+                    "impliedVolatility": 26.71,
+                    "lastPrice": 9,
                     "openInterest": 132,
-                    "pChange": -17.02127659574468,
+                    "pChange": -23.404255319148938,
                     "pchangeinOpenInterest": 1.5384615384615385,
                     "strikePrice": 1220,
-                    "totalBuyQuantity": 59000,
-                    "totalSellQuantity": 73000,
-                    "totalTradedVolume": 11,
+                    "totalBuyQuantity": 58000,
+                    "totalSellQuantity": 73500,
+                    "totalTradedVolume": 12,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1220
             },
             {
                 "CE": {
-                    "askPrice": 51.8,
+                    "askPrice": 50.75,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 37.05,
+                    "bidprice": 37.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2144,13 +2144,13 @@
                     "totalSellQuantity": 1000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
-                    "askPrice": 40,
+                    "askPrice": 37.95,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 32.65,
+                    "bidprice": 31.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2161,64 +2161,64 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1220,
-                    "totalBuyQuantity": 22000,
-                    "totalSellQuantity": 1000,
+                    "totalBuyQuantity": 22500,
+                    "totalSellQuantity": 2500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.25
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1220
             },
             {
                 "CE": {
-                    "askPrice": 16.35,
-                    "askQty": 500,
-                    "bidQty": 1000,
-                    "bidprice": 15.65,
-                    "change": -0.6000000000000014,
-                    "changeinOpenInterest": 23,
-                    "expiryDate": "25-May-2023",
-                    "identifier": "OPTSTKTATACOMM25-05-2023CE1240.00",
-                    "impliedVolatility": 23.23,
-                    "lastPrice": 16.5,
-                    "openInterest": 217,
-                    "pChange": -3.5087719298245696,
-                    "pchangeinOpenInterest": 11.855670103092784,
-                    "strikePrice": 1240,
-                    "totalBuyQuantity": 52500,
-                    "totalSellQuantity": 65000,
-                    "totalTradedVolume": 139,
-                    "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
-                },
-                "PE": {
-                    "askPrice": 17.9,
+                    "askPrice": 17.95,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 16.85,
-                    "change": -1.5,
-                    "changeinOpenInterest": -14,
+                    "bidprice": 17.3,
+                    "change": 0.5,
+                    "changeinOpenInterest": 28,
+                    "expiryDate": "25-May-2023",
+                    "identifier": "OPTSTKTATACOMM25-05-2023CE1240.00",
+                    "impliedVolatility": 23.89,
+                    "lastPrice": 17.6,
+                    "openInterest": 222,
+                    "pChange": 2.923976608187134,
+                    "pchangeinOpenInterest": 14.43298969072165,
+                    "strikePrice": 1240,
+                    "totalBuyQuantity": 94500,
+                    "totalSellQuantity": 65000,
+                    "totalTradedVolume": 176,
+                    "underlying": "TATACOMM",
+                    "underlyingValue": 1239
+                },
+                "PE": {
+                    "askPrice": 17.3,
+                    "askQty": 500,
+                    "bidQty": 500,
+                    "bidprice": 16,
+                    "change": -2.3000000000000007,
+                    "changeinOpenInterest": -15,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACOMM25-05-2023PE1240.00",
-                    "impliedVolatility": 26.7,
-                    "lastPrice": 17.8,
-                    "openInterest": 181,
-                    "pChange": -7.772020725388601,
-                    "pchangeinOpenInterest": -7.17948717948718,
+                    "impliedVolatility": 26.27,
+                    "lastPrice": 17,
+                    "openInterest": 180,
+                    "pChange": -11.917098445595858,
+                    "pchangeinOpenInterest": -7.6923076923076925,
                     "strikePrice": 1240,
-                    "totalBuyQuantity": 72000,
-                    "totalSellQuantity": 74500,
-                    "totalTradedVolume": 25,
+                    "totalBuyQuantity": 56500,
+                    "totalSellQuantity": 75000,
+                    "totalTradedVolume": 27,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1240
             },
             {
                 "CE": {
-                    "askPrice": 51.75,
+                    "askPrice": 53.15,
                     "askQty": 500,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -2236,13 +2236,13 @@
                     "totalSellQuantity": 1500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
-                    "askPrice": 85.75,
+                    "askPrice": 54.55,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 31.4,
+                    "bidprice": 30.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2253,11 +2253,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1240,
-                    "totalBuyQuantity": 2000,
-                    "totalSellQuantity": 1500,
+                    "totalBuyQuantity": 1500,
+                    "totalSellQuantity": 1000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1240
@@ -2282,60 +2282,60 @@
                     "totalSellQuantity": 500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1240
             },
             {
                 "CE": {
-                    "askPrice": 9.95,
+                    "askPrice": 10.35,
                     "askQty": 500,
-                    "bidQty": 1000,
-                    "bidprice": 9.65,
-                    "change": -0.9500000000000011,
+                    "bidQty": 500,
+                    "bidprice": 10,
+                    "change": -0.6500000000000004,
                     "changeinOpenInterest": -8,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACOMM25-05-2023CE1260.00",
-                    "impliedVolatility": 25.67,
-                    "lastPrice": 9.7,
+                    "impliedVolatility": 25.86,
+                    "lastPrice": 10,
                     "openInterest": 299,
-                    "pChange": -8.920187793427239,
+                    "pChange": -6.1032863849765295,
                     "pchangeinOpenInterest": -2.6058631921824102,
                     "strikePrice": 1260,
-                    "totalBuyQuantity": 61500,
-                    "totalSellQuantity": 111500,
-                    "totalTradedVolume": 131,
+                    "totalBuyQuantity": 62500,
+                    "totalSellQuantity": 98500,
+                    "totalTradedVolume": 160,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
-                    "askPrice": 32.25,
+                    "askPrice": 30.5,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 29.9,
-                    "change": 0,
+                    "bidprice": 28.3,
+                    "change": -4.300000000000004,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACOMM25-05-2023PE1260.00",
                     "impliedVolatility": 0,
-                    "lastPrice": 0,
+                    "lastPrice": 28.9,
                     "openInterest": 111,
-                    "pChange": 0,
+                    "pChange": -12.951807228915674,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1260,
-                    "totalBuyQuantity": 28500,
-                    "totalSellQuantity": 44500,
-                    "totalTradedVolume": 0,
+                    "totalBuyQuantity": 29000,
+                    "totalSellQuantity": 46000,
+                    "totalTradedVolume": 1,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1260
             },
             {
                 "CE": {
-                    "askPrice": 47.3,
+                    "askPrice": 48.4,
                     "askQty": 500,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -2353,13 +2353,13 @@
                     "totalSellQuantity": 21000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
                     "askPrice": 70.95,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 43.9,
+                    "bidprice": 42.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2374,15 +2374,15 @@
                     "totalSellQuantity": 1000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.25
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1260
             },
             {
                 "CE": {
-                    "askPrice": 63.95,
-                    "askQty": 500,
+                    "askPrice": 0,
+                    "askQty": 0,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -2396,17 +2396,17 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1260,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 500,
+                    "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1260
             },
             {
                 "CE": {
-                    "askPrice": 42.2,
+                    "askPrice": 43.2,
                     "askQty": 500,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -2424,11 +2424,11 @@
                     "totalSellQuantity": 1500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.25
+                    "underlyingValue": 1239
                 },
                 "PE": {
-                    "askPrice": 0,
-                    "askQty": 0,
+                    "askPrice": 111.2,
+                    "askQty": 1500,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -2442,41 +2442,41 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1280,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 0,
+                    "totalSellQuantity": 2000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1280
             },
             {
                 "CE": {
-                    "askPrice": 6.35,
+                    "askPrice": 6.6,
                     "askQty": 1000,
-                    "bidQty": 1500,
-                    "bidprice": 6.2,
-                    "change": -0.8499999999999996,
-                    "changeinOpenInterest": -16,
+                    "bidQty": 500,
+                    "bidprice": 6.35,
+                    "change": -0.5999999999999996,
+                    "changeinOpenInterest": -12,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACOMM25-05-2023CE1280.00",
-                    "impliedVolatility": 28.93,
-                    "lastPrice": 6.2,
-                    "openInterest": 422,
-                    "pChange": -12.056737588652478,
-                    "pchangeinOpenInterest": -3.65296803652968,
+                    "impliedVolatility": 28.91,
+                    "lastPrice": 6.45,
+                    "openInterest": 426,
+                    "pChange": -8.510638297872337,
+                    "pchangeinOpenInterest": -2.73972602739726,
                     "strikePrice": 1280,
-                    "totalBuyQuantity": 59000,
-                    "totalSellQuantity": 89000,
-                    "totalTradedVolume": 111,
+                    "totalBuyQuantity": 57000,
+                    "totalSellQuantity": 86000,
+                    "totalTradedVolume": 125,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
-                    "askPrice": 49.1,
+                    "askPrice": 49.65,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 46.45,
+                    "bidprice": 43.6,
                     "change": -0.20000000000000284,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2487,42 +2487,42 @@
                     "pChange": -0.40816326530612823,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1280,
-                    "totalBuyQuantity": 28500,
-                    "totalSellQuantity": 43500,
+                    "totalBuyQuantity": 27000,
+                    "totalSellQuantity": 47500,
                     "totalTradedVolume": 1,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.25
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1280
             },
             {
                 "CE": {
-                    "askPrice": 4.3,
-                    "askQty": 1500,
-                    "bidQty": 2000,
-                    "bidprice": 4.1,
-                    "change": -0.8999999999999995,
-                    "changeinOpenInterest": 5,
+                    "askPrice": 4.5,
+                    "askQty": 5500,
+                    "bidQty": 1000,
+                    "bidprice": 4.3,
+                    "change": -0.6499999999999995,
+                    "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACOMM25-05-2023CE1300.00",
-                    "impliedVolatility": 32.38,
-                    "lastPrice": 4.15,
-                    "openInterest": 1505,
-                    "pChange": -17.821782178217813,
-                    "pchangeinOpenInterest": 0.3333333333333333,
+                    "impliedVolatility": 32.34,
+                    "lastPrice": 4.4,
+                    "openInterest": 1502,
+                    "pChange": -12.871287128712861,
+                    "pchangeinOpenInterest": 0.13333333333333333,
                     "strikePrice": 1300,
-                    "totalBuyQuantity": 83000,
-                    "totalSellQuantity": 277000,
-                    "totalTradedVolume": 261,
+                    "totalBuyQuantity": 84000,
+                    "totalSellQuantity": 275500,
+                    "totalTradedVolume": 266,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
                     "askPrice": 67.7,
                     "askQty": 500,
-                    "bidQty": 3500,
-                    "bidprice": 62.75,
+                    "bidQty": 500,
+                    "bidprice": 63.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2533,11 +2533,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1300,
-                    "totalBuyQuantity": 53000,
+                    "totalBuyQuantity": 51000,
                     "totalSellQuantity": 43500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1300
@@ -2562,13 +2562,13 @@
                     "totalSellQuantity": 3000,
                     "totalTradedVolume": 1,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.25
+                    "underlyingValue": 1239
                 },
                 "PE": {
-                    "askPrice": 104.3,
-                    "askQty": 2000,
+                    "askPrice": 88.75,
+                    "askQty": 500,
                     "bidQty": 1500,
-                    "bidprice": 62.15,
+                    "bidprice": 62.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2579,42 +2579,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1300,
-                    "totalBuyQuantity": 3000,
-                    "totalSellQuantity": 24000,
+                    "totalBuyQuantity": 2500,
+                    "totalSellQuantity": 22000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1300
             },
             {
                 "CE": {
-                    "askPrice": 2.7,
-                    "askQty": 2000,
-                    "bidQty": 500,
-                    "bidprice": 2.6,
-                    "change": -0.5499999999999998,
+                    "askPrice": 2.95,
+                    "askQty": 500,
+                    "bidQty": 1000,
+                    "bidprice": 2.8,
+                    "change": -0.3999999999999999,
                     "changeinOpenInterest": -8,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACOMM25-05-2023CE1320.00",
-                    "impliedVolatility": 33.73,
-                    "lastPrice": 2.6,
+                    "impliedVolatility": 33.97,
+                    "lastPrice": 2.75,
                     "openInterest": 343,
-                    "pChange": -17.460317460317455,
+                    "pChange": -12.698412698412694,
                     "pchangeinOpenInterest": -2.2792022792022792,
                     "strikePrice": 1320,
-                    "totalBuyQuantity": 76500,
-                    "totalSellQuantity": 82500,
-                    "totalTradedVolume": 39,
+                    "totalBuyQuantity": 79000,
+                    "totalSellQuantity": 79500,
+                    "totalTradedVolume": 42,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
-                    "askPrice": 89.5,
-                    "askQty": 500,
-                    "bidQty": 3500,
-                    "bidprice": 80.4,
+                    "askPrice": 86.3,
+                    "askQty": 2000,
+                    "bidQty": 2000,
+                    "bidprice": 78,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2625,19 +2625,19 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1320,
-                    "totalBuyQuantity": 30500,
+                    "totalBuyQuantity": 27000,
                     "totalSellQuantity": 27000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1320
             },
             {
                 "CE": {
-                    "askPrice": 36.2,
-                    "askQty": 500,
+                    "askPrice": 0,
+                    "askQty": 0,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -2651,16 +2651,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1320,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 500,
+                    "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
-                    "askPrice": 140.95,
+                    "askPrice": 135.55,
                     "askQty": 1500,
-                    "bidQty": 1500,
-                    "bidprice": 64.5,
+                    "bidQty": 0,
+                    "bidprice": 0,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2671,11 +2671,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1320,
-                    "totalBuyQuantity": 1500,
+                    "totalBuyQuantity": 0,
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1320
@@ -2683,30 +2683,30 @@
             {
                 "CE": {
                     "askPrice": 1.9,
-                    "askQty": 1500,
-                    "bidQty": 2000,
+                    "askQty": 5500,
+                    "bidQty": 1500,
                     "bidprice": 1.8,
-                    "change": -0.3500000000000001,
-                    "changeinOpenInterest": -9,
+                    "change": -0.40000000000000013,
+                    "changeinOpenInterest": -8,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACOMM25-05-2023CE1340.00",
-                    "impliedVolatility": 37.18,
-                    "lastPrice": 1.85,
-                    "openInterest": 284,
-                    "pChange": -15.909090909090912,
-                    "pchangeinOpenInterest": -3.0716723549488054,
+                    "impliedVolatility": 37.02,
+                    "lastPrice": 1.8,
+                    "openInterest": 285,
+                    "pChange": -18.181818181818183,
+                    "pchangeinOpenInterest": -2.7303754266211606,
                     "strikePrice": 1340,
-                    "totalBuyQuantity": 84000,
-                    "totalSellQuantity": 106500,
-                    "totalTradedVolume": 35,
+                    "totalBuyQuantity": 87000,
+                    "totalSellQuantity": 105500,
+                    "totalTradedVolume": 38,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
-                    "askPrice": 107.8,
-                    "askQty": 500,
+                    "askPrice": 106.65,
+                    "askQty": 1500,
                     "bidQty": 500,
-                    "bidprice": 97.25,
+                    "bidprice": 93.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2718,10 +2718,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1340,
                     "totalBuyQuantity": 25000,
-                    "totalSellQuantity": 25000,
+                    "totalSellQuantity": 26500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1340
@@ -2730,8 +2730,8 @@
                 "CE": {
                     "askPrice": 15,
                     "askQty": 500,
-                    "bidQty": 0,
-                    "bidprice": 0,
+                    "bidQty": 500,
+                    "bidprice": 3.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2742,17 +2742,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1340,
-                    "totalBuyQuantity": 0,
+                    "totalBuyQuantity": 500,
                     "totalSellQuantity": 1000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.25
+                    "underlyingValue": 1239
                 },
                 "PE": {
-                    "askPrice": 161.8,
+                    "askPrice": 154.8,
                     "askQty": 1500,
-                    "bidQty": 1500,
-                    "bidprice": 72.9,
+                    "bidQty": 0,
+                    "bidprice": 0,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2763,11 +2763,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1340,
-                    "totalBuyQuantity": 1500,
+                    "totalBuyQuantity": 0,
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1340
@@ -2776,29 +2776,29 @@
                 "CE": {
                     "askPrice": 1.7,
                     "askQty": 500,
-                    "bidQty": 3500,
-                    "bidprice": 1.15,
-                    "change": -0.40000000000000013,
+                    "bidQty": 500,
+                    "bidprice": 1.5,
+                    "change": -0.3500000000000001,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACOMM25-05-2023CE1360.00",
                     "impliedVolatility": 40.07,
-                    "lastPrice": 1.45,
+                    "lastPrice": 1.5,
                     "openInterest": 288,
-                    "pChange": -21.621621621621628,
+                    "pChange": -18.918918918918923,
                     "pchangeinOpenInterest": 0.34843205574912894,
                     "strikePrice": 1360,
-                    "totalBuyQuantity": 79500,
-                    "totalSellQuantity": 55000,
-                    "totalTradedVolume": 28,
+                    "totalBuyQuantity": 82500,
+                    "totalSellQuantity": 54500,
+                    "totalTradedVolume": 29,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.25
+                    "underlyingValue": 1239
                 },
                 "PE": {
                     "askPrice": 127.25,
                     "askQty": 500,
                     "bidQty": 500,
-                    "bidprice": 116.6,
+                    "bidprice": 113.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2813,7 +2813,7 @@
                     "totalSellQuantity": 25000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1360
@@ -2838,13 +2838,13 @@
                     "totalSellQuantity": 20000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
-                    "askPrice": 181.1,
+                    "askPrice": 176.2,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 81.85,
+                    "bidprice": 81.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2859,38 +2859,38 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1360
             },
             {
                 "CE": {
-                    "askPrice": 0.8,
-                    "askQty": 1000,
+                    "askPrice": 1,
+                    "askQty": 3500,
                     "bidQty": 1000,
-                    "bidprice": 0.7,
+                    "bidprice": 0.75,
                     "change": -0.3999999999999999,
                     "changeinOpenInterest": -9,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACOMM25-05-2023CE1380.00",
-                    "impliedVolatility": 39.98,
+                    "impliedVolatility": 40.47,
                     "lastPrice": 0.8,
                     "openInterest": 120,
                     "pChange": -33.33333333333333,
                     "pchangeinOpenInterest": -6.976744186046512,
                     "strikePrice": 1380,
-                    "totalBuyQuantity": 70000,
-                    "totalSellQuantity": 69500,
+                    "totalBuyQuantity": 70500,
+                    "totalSellQuantity": 68000,
                     "totalTradedVolume": 24,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
-                    "askPrice": 149.2,
+                    "askPrice": 147.3,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 135.35,
+                    "bidprice": 133.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2905,7 +2905,7 @@
                     "totalSellQuantity": 26000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1380
@@ -2930,10 +2930,10 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
-                    "askPrice": 204.25,
+                    "askPrice": 201.55,
                     "askQty": 1500,
                     "bidQty": 1500,
                     "bidprice": 91.05,
@@ -2951,7 +2951,7 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1380
@@ -2959,30 +2959,30 @@
             {
                 "CE": {
                     "askPrice": 0.4,
-                    "askQty": 2000,
-                    "bidQty": 2000,
-                    "bidprice": 0.3,
+                    "askQty": 500,
+                    "bidQty": 1000,
+                    "bidprice": 0.35,
                     "change": -0.4,
-                    "changeinOpenInterest": -11,
+                    "changeinOpenInterest": -14,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACOMM25-05-2023CE1400.00",
-                    "impliedVolatility": 38.82,
+                    "impliedVolatility": 38.87,
                     "lastPrice": 0.35,
-                    "openInterest": 267,
+                    "openInterest": 264,
                     "pChange": -53.333333333333336,
-                    "pchangeinOpenInterest": -3.9568345323741005,
+                    "pchangeinOpenInterest": -5.0359712230215825,
                     "strikePrice": 1400,
-                    "totalBuyQuantity": 45000,
-                    "totalSellQuantity": 63500,
+                    "totalBuyQuantity": 45500,
+                    "totalSellQuantity": 63000,
                     "totalTradedVolume": 46,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
                     "askPrice": 166,
                     "askQty": 2000,
                     "bidQty": 2000,
-                    "bidprice": 155,
+                    "bidprice": 154.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2997,7 +2997,7 @@
                     "totalSellQuantity": 26500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1400
@@ -3022,10 +3022,10 @@
                     "totalSellQuantity": 20500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
-                    "askPrice": 225.85,
+                    "askPrice": 224.25,
                     "askQty": 1500,
                     "bidQty": 1500,
                     "bidprice": 100.7,
@@ -3043,7 +3043,7 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.25
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1400
@@ -3052,29 +3052,29 @@
                 "CE": {
                     "askPrice": 0.6,
                     "askQty": 500,
-                    "bidQty": 0,
-                    "bidprice": 0,
+                    "bidQty": 6000,
+                    "bidprice": 0.1,
                     "change": -0.7000000000000001,
                     "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATACOMM25-05-2023CE1420.00",
-                    "impliedVolatility": 43.59,
+                    "impliedVolatility": 43.64,
                     "lastPrice": 0.35,
                     "openInterest": 72,
                     "pChange": -66.66666666666667,
                     "pchangeinOpenInterest": 2.857142857142857,
                     "strikePrice": 1420,
-                    "totalBuyQuantity": 0,
-                    "totalSellQuantity": 33000,
+                    "totalBuyQuantity": 12500,
+                    "totalSellQuantity": 39500,
                     "totalTradedVolume": 11,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
                     "askPrice": 186.7,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 174.15,
+                    "bidprice": 172.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3089,7 +3089,7 @@
                     "totalSellQuantity": 26000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.25
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1420
@@ -3114,10 +3114,10 @@
                     "totalSellQuantity": 20000,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
-                    "askPrice": 250,
+                    "askPrice": 248.6,
                     "askQty": 1500,
                     "bidQty": 1500,
                     "bidprice": 110.7,
@@ -3135,7 +3135,7 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1420
@@ -3160,7 +3160,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.25
+                    "underlyingValue": 1239
                 },
                 "PE": {
                     "askPrice": 218.5,
@@ -3181,7 +3181,7 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1440
@@ -3206,7 +3206,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3227,7 +3227,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1440
@@ -3252,13 +3252,13 @@
                     "totalSellQuantity": 1500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
-                    "askPrice": 228.9,
+                    "askPrice": 229.75,
                     "askQty": 1500,
                     "bidQty": 1500,
-                    "bidprice": 207.15,
+                    "bidprice": 213.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3273,14 +3273,14 @@
                     "totalSellQuantity": 24500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.25
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1460
             },
             {
                 "PE": {
-                    "askPrice": 298.3,
+                    "askPrice": 296.6,
                     "askQty": 1500,
                     "bidQty": 1500,
                     "bidprice": 135.55,
@@ -3298,7 +3298,7 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1460
@@ -3323,13 +3323,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
-                    "askPrice": 260.5,
+                    "askPrice": 251.15,
                     "askQty": 1500,
-                    "bidQty": 1500,
-                    "bidprice": 221.9,
+                    "bidQty": 3000,
+                    "bidprice": 233.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3340,11 +3340,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1480,
-                    "totalBuyQuantity": 21500,
-                    "totalSellQuantity": 21500,
+                    "totalBuyQuantity": 23000,
+                    "totalSellQuantity": 24500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1480
@@ -3369,10 +3369,10 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "PE": {
-                    "askPrice": 318.45,
+                    "askPrice": 317.15,
                     "askQty": 1500,
                     "bidQty": 1500,
                     "bidprice": 151.55,
@@ -3390,7 +3390,7 @@
                     "totalSellQuantity": 21500,
                     "totalTradedVolume": 0,
                     "underlying": "TATACOMM",
-                    "underlyingValue": 1237.95
+                    "underlyingValue": 1239
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1480
@@ -3429,7 +3429,7 @@
             1460,
             1480
         ],
-        "timestamp": "18-May-2023 10:19:49",
-        "underlyingValue": 1237.95
+        "timestamp": "18-May-2023 10:25:46",
+        "underlyingValue": 1239
     }
 }

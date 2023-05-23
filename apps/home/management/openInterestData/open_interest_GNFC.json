@@ -1,12 +1,12 @@
 {
     "filtered": {
         "CE": {
-            "totOI": 4621,
-            "totVol": 100
+            "totOI": 4616,
+            "totVol": 104
         },
         "PE": {
-            "totOI": 2683,
-            "totVol": 37
+            "totOI": 2681,
+            "totVol": 45
         },
         "data": [
             {
@@ -29,7 +29,7 @@
                     "totalSellQuantity": 2600,
                     "totalTradedVolume": 0,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.65
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 460
@@ -44,7 +44,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGNFC25-05-2023CE500.00",
-                    "impliedVolatility": 141.26,
+                    "impliedVolatility": 135.4,
                     "lastPrice": 162,
                     "openInterest": 14,
                     "pChange": 8,
@@ -54,7 +54,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 1,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "PE": {
                     "askPrice": 2,
@@ -65,7 +65,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGNFC25-05-2023PE500.00",
-                    "impliedVolatility": 83.92,
+                    "impliedVolatility": 84.2,
                     "lastPrice": 0.2,
                     "openInterest": 133,
                     "pChange": -19.999999999999996,
@@ -75,7 +75,7 @@
                     "totalSellQuantity": 20800,
                     "totalTradedVolume": 1,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 500
@@ -100,14 +100,14 @@
                     "totalSellQuantity": 3900,
                     "totalTradedVolume": 0,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 510
             },
             {
                 "PE": {
-                    "askPrice": 0.4,
+                    "askPrice": 0.3,
                     "askQty": 1300,
                     "bidQty": 16900,
                     "bidprice": 0.25,
@@ -115,7 +115,7 @@
                     "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGNFC25-05-2023PE520.00",
-                    "impliedVolatility": 81.8,
+                    "impliedVolatility": 82.11,
                     "lastPrice": 0.45,
                     "openInterest": 95,
                     "pChange": -9.999999999999998,
@@ -125,7 +125,7 @@
                     "totalSellQuantity": 6500,
                     "totalTradedVolume": 5,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 520
@@ -140,7 +140,7 @@
                     "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGNFC25-05-2023PE530.00",
-                    "impliedVolatility": 86.76,
+                    "impliedVolatility": 87.1,
                     "lastPrice": 1,
                     "openInterest": 115,
                     "pChange": 100,
@@ -150,7 +150,7 @@
                     "totalSellQuantity": 71500,
                     "totalTradedVolume": 4,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 530
@@ -175,7 +175,7 @@
                     "totalSellQuantity": 2600,
                     "totalTradedVolume": 0,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 540
@@ -200,35 +200,35 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.65
+                    "underlyingValue": 658.8
                 },
                 "PE": {
-                    "askPrice": 2.8,
+                    "askPrice": 2.75,
                     "askQty": 1300,
-                    "bidQty": 7800,
+                    "bidQty": 6500,
                     "bidprice": 0.3,
-                    "change": -0.050000000000000044,
+                    "change": -0.10000000000000003,
                     "changeinOpenInterest": -5,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGNFC25-05-2023PE550.00",
-                    "impliedVolatility": 62.27,
-                    "lastPrice": 0.35,
+                    "impliedVolatility": 62.58,
+                    "lastPrice": 0.3,
                     "openInterest": 152,
-                    "pChange": -12.50000000000001,
+                    "pChange": -25.000000000000007,
                     "pchangeinOpenInterest": -3.1847133757961785,
                     "strikePrice": 550,
-                    "totalBuyQuantity": 11700,
+                    "totalBuyQuantity": 10400,
                     "totalSellQuantity": 3900,
-                    "totalTradedVolume": 6,
+                    "totalTradedVolume": 7,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 550
             },
             {
                 "CE": {
-                    "askPrice": 160.1,
+                    "askPrice": 160.9,
                     "askQty": 1300,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -246,7 +246,7 @@
                     "totalSellQuantity": 1300,
                     "totalTradedVolume": 0,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.65
+                    "underlyingValue": 658.8
                 },
                 "PE": {
                     "askPrice": 1.5,
@@ -267,7 +267,7 @@
                     "totalSellQuantity": 7800,
                     "totalTradedVolume": 0,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.65
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 560
@@ -292,7 +292,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "PE": {
                     "askPrice": 3,
@@ -303,7 +303,7 @@
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGNFC25-05-2023PE570.00",
-                    "impliedVolatility": 61.82,
+                    "impliedVolatility": 62.18,
                     "lastPrice": 1,
                     "openInterest": 140,
                     "pChange": -20,
@@ -313,14 +313,14 @@
                     "totalSellQuantity": 1300,
                     "totalTradedVolume": 2,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 570
             },
             {
                 "CE": {
-                    "askPrice": 87.4,
+                    "askPrice": 88.45,
                     "askQty": 1300,
                     "bidQty": 1300,
                     "bidprice": 63.7,
@@ -338,7 +338,7 @@
                     "totalSellQuantity": 1300,
                     "totalTradedVolume": 0,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.65
+                    "underlyingValue": 658.8
                 },
                 "PE": {
                     "askPrice": 3.95,
@@ -349,7 +349,7 @@
                     "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGNFC25-05-2023PE580.00",
-                    "impliedVolatility": 68.69,
+                    "impliedVolatility": 69.11,
                     "lastPrice": 2.5,
                     "openInterest": 238,
                     "pChange": -1.9607843137254832,
@@ -359,7 +359,7 @@
                     "totalSellQuantity": 9100,
                     "totalTradedVolume": 5,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 580
@@ -369,7 +369,7 @@
                     "askPrice": 74,
                     "askQty": 1300,
                     "bidQty": 1300,
-                    "bidprice": 58.1,
+                    "bidprice": 60.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -384,28 +384,28 @@
                     "totalSellQuantity": 2600,
                     "totalTradedVolume": 0,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.65
+                    "underlyingValue": 658.8
                 },
                 "PE": {
-                    "askPrice": 5,
-                    "askQty": 1300,
+                    "askPrice": 4.95,
+                    "askQty": 2600,
                     "bidQty": 1300,
                     "bidprice": 2.1,
                     "change": -0.75,
                     "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGNFC25-05-2023PE590.00",
-                    "impliedVolatility": 56.21,
+                    "impliedVolatility": 59.25,
                     "lastPrice": 2.1,
                     "openInterest": 212,
                     "pChange": -26.31578947368421,
                     "pchangeinOpenInterest": -1.3953488372093024,
                     "strikePrice": 590,
-                    "totalBuyQuantity": 19500,
-                    "totalSellQuantity": 2600,
+                    "totalBuyQuantity": 11700,
+                    "totalSellQuantity": 5200,
                     "totalTradedVolume": 5,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 590
@@ -430,28 +430,28 @@
                     "totalSellQuantity": 70200,
                     "totalTradedVolume": 7,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.65
+                    "underlyingValue": 658.8
                 },
                 "PE": {
-                    "askPrice": 7.95,
+                    "askPrice": 4.45,
                     "askQty": 1300,
-                    "bidQty": 1300,
-                    "bidprice": 3.1,
-                    "change": -0.9500000000000002,
+                    "bidQty": 3900,
+                    "bidprice": 3.05,
+                    "change": -1.1000000000000005,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGNFC25-05-2023PE600.00",
                     "impliedVolatility": 59,
-                    "lastPrice": 3.2,
+                    "lastPrice": 3.05,
                     "openInterest": 452,
-                    "pChange": -22.89156626506024,
+                    "pChange": -26.506024096385556,
                     "pchangeinOpenInterest": -0.22075055187637968,
                     "strikePrice": 600,
-                    "totalBuyQuantity": 133900,
-                    "totalSellQuantity": 19500,
-                    "totalTradedVolume": 2,
+                    "totalBuyQuantity": 130000,
+                    "totalSellQuantity": 23400,
+                    "totalTradedVolume": 8,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.65
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 600
@@ -466,7 +466,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGNFC25-05-2023CE610.00",
-                    "impliedVolatility": 71.07,
+                    "impliedVolatility": 68.88,
                     "lastPrice": 56,
                     "openInterest": 191,
                     "pChange": 22.00435729847495,
@@ -476,13 +476,13 @@
                     "totalSellQuantity": 3900,
                     "totalTradedVolume": 1,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "PE": {
-                    "askPrice": 4.95,
+                    "askPrice": 4.85,
                     "askQty": 1300,
                     "bidQty": 6500,
-                    "bidprice": 3.1,
+                    "bidprice": 3.25,
                     "change": -1,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
@@ -494,20 +494,20 @@
                     "pchangeinOpenInterest": -0.6756756756756757,
                     "strikePrice": 610,
                     "totalBuyQuantity": 35100,
-                    "totalSellQuantity": 2600,
+                    "totalSellQuantity": 9100,
                     "totalTradedVolume": 2,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.65
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 610
             },
             {
                 "CE": {
-                    "askPrice": 40,
-                    "askQty": 3900,
+                    "askPrice": 44.5,
+                    "askQty": 1300,
                     "bidQty": 1300,
-                    "bidprice": 35.15,
+                    "bidprice": 11.05,
                     "change": 7.399999999999999,
                     "changeinOpenInterest": -13,
                     "expiryDate": "25-May-2023",
@@ -519,41 +519,41 @@
                     "pchangeinOpenInterest": -4.421768707482993,
                     "strikePrice": 620,
                     "totalBuyQuantity": 11700,
-                    "totalSellQuantity": 10400,
-                    "totalTradedVolume": 20,
+                    "totalSellQuantity": 6500,
+                    "totalTradedVolume": 23,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.65
+                    "underlyingValue": 658.8
                 },
                 "PE": {
-                    "askPrice": 5.5,
+                    "askPrice": 5.45,
                     "askQty": 1300,
-                    "bidQty": 11700,
-                    "bidprice": 3.05,
+                    "bidQty": 1300,
+                    "bidprice": 3.1,
                     "change": -2.75,
-                    "changeinOpenInterest": 0,
+                    "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGNFC25-05-2023PE620.00",
-                    "impliedVolatility": 53.72,
+                    "impliedVolatility": 54.27,
                     "lastPrice": 3.05,
-                    "openInterest": 226,
+                    "openInterest": 224,
                     "pChange": -47.41379310344828,
-                    "pchangeinOpenInterest": 0,
+                    "pchangeinOpenInterest": -0.8849557522123894,
                     "strikePrice": 620,
-                    "totalBuyQuantity": 23400,
-                    "totalSellQuantity": 2600,
-                    "totalTradedVolume": 5,
+                    "totalBuyQuantity": 39000,
+                    "totalSellQuantity": 3900,
+                    "totalTradedVolume": 6,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 620
             },
             {
                 "CE": {
-                    "askPrice": 47.95,
-                    "askQty": 2600,
+                    "askPrice": 45,
+                    "askQty": 3900,
                     "bidQty": 6500,
-                    "bidprice": 32.35,
+                    "bidprice": 35.05,
                     "change": 7.899999999999999,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
@@ -564,11 +564,11 @@
                     "pChange": 23.16715542521994,
                     "pchangeinOpenInterest": -0.38461538461538464,
                     "strikePrice": 630,
-                    "totalBuyQuantity": 58500,
-                    "totalSellQuantity": 39000,
+                    "totalBuyQuantity": 59800,
+                    "totalSellQuantity": 35100,
                     "totalTradedVolume": 3,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.65
+                    "underlyingValue": 658.8
                 },
                 "PE": {
                     "askPrice": 19,
@@ -589,7 +589,7 @@
                     "totalSellQuantity": 5200,
                     "totalTradedVolume": 0,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 630
@@ -598,29 +598,29 @@
                 "CE": {
                     "askPrice": 36.8,
                     "askQty": 1300,
-                    "bidQty": 5200,
-                    "bidprice": 30,
+                    "bidQty": 1300,
+                    "bidprice": 27.85,
                     "change": 7,
                     "changeinOpenInterest": -10,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGNFC25-05-2023CE640.00",
-                    "impliedVolatility": 75.22,
+                    "impliedVolatility": 73.94,
                     "lastPrice": 37,
                     "openInterest": 1126,
                     "pChange": 23.333333333333332,
                     "pchangeinOpenInterest": -0.8802816901408451,
                     "strikePrice": 640,
-                    "totalBuyQuantity": 107900,
+                    "totalBuyQuantity": 105300,
                     "totalSellQuantity": 52000,
                     "totalTradedVolume": 13,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "PE": {
                     "askPrice": 24.9,
                     "askQty": 2600,
                     "bidQty": 1300,
-                    "bidprice": 8.1,
+                    "bidprice": 8.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -635,7 +635,7 @@
                     "totalSellQuantity": 3900,
                     "totalTradedVolume": 0,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 640
@@ -645,7 +645,7 @@
                     "askPrice": 26,
                     "askQty": 1300,
                     "bidQty": 1300,
-                    "bidprice": 20.95,
+                    "bidprice": 20.9,
                     "change": 6.600000000000001,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -656,17 +656,17 @@
                     "pChange": 32.352941176470594,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 650,
-                    "totalBuyQuantity": 70200,
+                    "totalBuyQuantity": 71500,
                     "totalSellQuantity": 16900,
                     "totalTradedVolume": 1,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.65
+                    "underlyingValue": 658.8
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 1300,
-                    "bidprice": 11.95,
+                    "bidprice": 11.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -681,32 +681,32 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 650
             },
             {
                 "CE": {
-                    "askPrice": 22.4,
+                    "askPrice": 22.8,
                     "askQty": 1300,
-                    "bidQty": 6500,
-                    "bidprice": 17.15,
-                    "change": 0.5,
-                    "changeinOpenInterest": -23,
+                    "bidQty": 1300,
+                    "bidprice": 17,
+                    "change": 0.6499999999999986,
+                    "changeinOpenInterest": -28,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGNFC25-05-2023CE660.00",
                     "impliedVolatility": 48.17,
-                    "lastPrice": 17,
-                    "openInterest": 305,
-                    "pChange": 3.0303030303030303,
-                    "pchangeinOpenInterest": -7.012195121951219,
+                    "lastPrice": 17.15,
+                    "openInterest": 300,
+                    "pChange": 3.9393939393939306,
+                    "pchangeinOpenInterest": -8.536585365853659,
                     "strikePrice": 660,
-                    "totalBuyQuantity": 94900,
+                    "totalBuyQuantity": 93600,
                     "totalSellQuantity": 16900,
-                    "totalTradedVolume": 28,
+                    "totalTradedVolume": 29,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.65
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 660
@@ -716,7 +716,7 @@
                     "askPrice": 19.95,
                     "askQty": 1300,
                     "bidQty": 1300,
-                    "bidprice": 10.5,
+                    "bidprice": 10.95,
                     "change": -1.1500000000000004,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
@@ -727,11 +727,11 @@
                     "pChange": -10.313901345291484,
                     "pchangeinOpenInterest": -0.8733624454148472,
                     "strikePrice": 670,
-                    "totalBuyQuantity": 26000,
+                    "totalBuyQuantity": 28600,
                     "totalSellQuantity": 10400,
                     "totalTradedVolume": 5,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.65
+                    "underlyingValue": 658.8
                 },
                 "PE": {
                     "askPrice": 0,
@@ -752,7 +752,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 670
@@ -777,7 +777,7 @@
                     "totalSellQuantity": 7800,
                     "totalTradedVolume": 2,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.65
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 680
@@ -792,7 +792,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGNFC25-05-2023CE690.00",
-                    "impliedVolatility": 56.99,
+                    "impliedVolatility": 56.34,
                     "lastPrice": 9,
                     "openInterest": 46,
                     "pChange": 50,
@@ -802,7 +802,7 @@
                     "totalSellQuantity": 9100,
                     "totalTradedVolume": 1,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 690
@@ -817,7 +817,7 @@
                     "changeinOpenInterest": -15,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGNFC25-05-2023CE700.00",
-                    "impliedVolatility": 51.31,
+                    "impliedVolatility": 53.97,
                     "lastPrice": 6,
                     "openInterest": 248,
                     "pChange": 39.53488372093024,
@@ -827,7 +827,7 @@
                     "totalSellQuantity": 57200,
                     "totalTradedVolume": 18,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 700
@@ -856,7 +856,7 @@
                     "totalSellQuantity": 2600,
                     "totalTradedVolume": 0,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.65
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 460
@@ -871,7 +871,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGNFC25-05-2023CE500.00",
-                    "impliedVolatility": 141.26,
+                    "impliedVolatility": 135.4,
                     "lastPrice": 162,
                     "openInterest": 14,
                     "pChange": 8,
@@ -881,7 +881,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 1,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "PE": {
                     "askPrice": 2,
@@ -892,7 +892,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGNFC25-05-2023PE500.00",
-                    "impliedVolatility": 83.92,
+                    "impliedVolatility": 84.2,
                     "lastPrice": 0.2,
                     "openInterest": 133,
                     "pChange": -19.999999999999996,
@@ -902,7 +902,7 @@
                     "totalSellQuantity": 20800,
                     "totalTradedVolume": 1,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 500
@@ -927,14 +927,14 @@
                     "totalSellQuantity": 3900,
                     "totalTradedVolume": 0,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 510
             },
             {
                 "PE": {
-                    "askPrice": 0.4,
+                    "askPrice": 0.3,
                     "askQty": 1300,
                     "bidQty": 16900,
                     "bidprice": 0.25,
@@ -942,7 +942,7 @@
                     "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGNFC25-05-2023PE520.00",
-                    "impliedVolatility": 81.8,
+                    "impliedVolatility": 82.11,
                     "lastPrice": 0.45,
                     "openInterest": 95,
                     "pChange": -9.999999999999998,
@@ -952,7 +952,7 @@
                     "totalSellQuantity": 6500,
                     "totalTradedVolume": 5,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 520
@@ -967,7 +967,7 @@
                     "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGNFC25-05-2023PE530.00",
-                    "impliedVolatility": 86.76,
+                    "impliedVolatility": 87.1,
                     "lastPrice": 1,
                     "openInterest": 115,
                     "pChange": 100,
@@ -977,7 +977,7 @@
                     "totalSellQuantity": 71500,
                     "totalTradedVolume": 4,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 530
@@ -1002,7 +1002,7 @@
                     "totalSellQuantity": 2600,
                     "totalTradedVolume": 0,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 540
@@ -1027,35 +1027,35 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.65
+                    "underlyingValue": 658.8
                 },
                 "PE": {
-                    "askPrice": 2.8,
+                    "askPrice": 2.75,
                     "askQty": 1300,
-                    "bidQty": 7800,
+                    "bidQty": 6500,
                     "bidprice": 0.3,
-                    "change": -0.050000000000000044,
+                    "change": -0.10000000000000003,
                     "changeinOpenInterest": -5,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGNFC25-05-2023PE550.00",
-                    "impliedVolatility": 62.27,
-                    "lastPrice": 0.35,
+                    "impliedVolatility": 62.58,
+                    "lastPrice": 0.3,
                     "openInterest": 152,
-                    "pChange": -12.50000000000001,
+                    "pChange": -25.000000000000007,
                     "pchangeinOpenInterest": -3.1847133757961785,
                     "strikePrice": 550,
-                    "totalBuyQuantity": 11700,
+                    "totalBuyQuantity": 10400,
                     "totalSellQuantity": 3900,
-                    "totalTradedVolume": 6,
+                    "totalTradedVolume": 7,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 550
             },
             {
                 "CE": {
-                    "askPrice": 160.1,
+                    "askPrice": 160.9,
                     "askQty": 1300,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -1073,7 +1073,7 @@
                     "totalSellQuantity": 1300,
                     "totalTradedVolume": 0,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.65
+                    "underlyingValue": 658.8
                 },
                 "PE": {
                     "askPrice": 1.5,
@@ -1094,7 +1094,7 @@
                     "totalSellQuantity": 7800,
                     "totalTradedVolume": 0,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.65
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 560
@@ -1119,7 +1119,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "PE": {
                     "askPrice": 3,
@@ -1130,7 +1130,7 @@
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGNFC25-05-2023PE570.00",
-                    "impliedVolatility": 61.82,
+                    "impliedVolatility": 62.18,
                     "lastPrice": 1,
                     "openInterest": 140,
                     "pChange": -20,
@@ -1140,14 +1140,14 @@
                     "totalSellQuantity": 1300,
                     "totalTradedVolume": 2,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 570
             },
             {
                 "CE": {
-                    "askPrice": 87.4,
+                    "askPrice": 88.45,
                     "askQty": 1300,
                     "bidQty": 1300,
                     "bidprice": 63.7,
@@ -1165,7 +1165,7 @@
                     "totalSellQuantity": 1300,
                     "totalTradedVolume": 0,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.65
+                    "underlyingValue": 658.8
                 },
                 "PE": {
                     "askPrice": 3.95,
@@ -1176,7 +1176,7 @@
                     "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGNFC25-05-2023PE580.00",
-                    "impliedVolatility": 68.69,
+                    "impliedVolatility": 69.11,
                     "lastPrice": 2.5,
                     "openInterest": 238,
                     "pChange": -1.9607843137254832,
@@ -1186,7 +1186,7 @@
                     "totalSellQuantity": 9100,
                     "totalTradedVolume": 5,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 580
@@ -1196,7 +1196,7 @@
                     "askPrice": 74,
                     "askQty": 1300,
                     "bidQty": 1300,
-                    "bidprice": 58.1,
+                    "bidprice": 60.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1211,28 +1211,28 @@
                     "totalSellQuantity": 2600,
                     "totalTradedVolume": 0,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.65
+                    "underlyingValue": 658.8
                 },
                 "PE": {
-                    "askPrice": 5,
-                    "askQty": 1300,
+                    "askPrice": 4.95,
+                    "askQty": 2600,
                     "bidQty": 1300,
                     "bidprice": 2.1,
                     "change": -0.75,
                     "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGNFC25-05-2023PE590.00",
-                    "impliedVolatility": 56.21,
+                    "impliedVolatility": 59.25,
                     "lastPrice": 2.1,
                     "openInterest": 212,
                     "pChange": -26.31578947368421,
                     "pchangeinOpenInterest": -1.3953488372093024,
                     "strikePrice": 590,
-                    "totalBuyQuantity": 19500,
-                    "totalSellQuantity": 2600,
+                    "totalBuyQuantity": 11700,
+                    "totalSellQuantity": 5200,
                     "totalTradedVolume": 5,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 590
@@ -1257,28 +1257,28 @@
                     "totalSellQuantity": 70200,
                     "totalTradedVolume": 7,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.65
+                    "underlyingValue": 658.8
                 },
                 "PE": {
-                    "askPrice": 7.95,
+                    "askPrice": 4.45,
                     "askQty": 1300,
-                    "bidQty": 1300,
-                    "bidprice": 3.1,
-                    "change": -0.9500000000000002,
+                    "bidQty": 3900,
+                    "bidprice": 3.05,
+                    "change": -1.1000000000000005,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGNFC25-05-2023PE600.00",
                     "impliedVolatility": 59,
-                    "lastPrice": 3.2,
+                    "lastPrice": 3.05,
                     "openInterest": 452,
-                    "pChange": -22.89156626506024,
+                    "pChange": -26.506024096385556,
                     "pchangeinOpenInterest": -0.22075055187637968,
                     "strikePrice": 600,
-                    "totalBuyQuantity": 133900,
-                    "totalSellQuantity": 19500,
-                    "totalTradedVolume": 2,
+                    "totalBuyQuantity": 130000,
+                    "totalSellQuantity": 23400,
+                    "totalTradedVolume": 8,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.65
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 600
@@ -1303,7 +1303,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.65
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 600
@@ -1318,7 +1318,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGNFC25-05-2023CE610.00",
-                    "impliedVolatility": 71.07,
+                    "impliedVolatility": 68.88,
                     "lastPrice": 56,
                     "openInterest": 191,
                     "pChange": 22.00435729847495,
@@ -1328,13 +1328,13 @@
                     "totalSellQuantity": 3900,
                     "totalTradedVolume": 1,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "PE": {
-                    "askPrice": 4.95,
+                    "askPrice": 4.85,
                     "askQty": 1300,
                     "bidQty": 6500,
-                    "bidprice": 3.1,
+                    "bidprice": 3.25,
                     "change": -1,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
@@ -1346,20 +1346,20 @@
                     "pchangeinOpenInterest": -0.6756756756756757,
                     "strikePrice": 610,
                     "totalBuyQuantity": 35100,
-                    "totalSellQuantity": 2600,
+                    "totalSellQuantity": 9100,
                     "totalTradedVolume": 2,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.65
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 610
             },
             {
                 "CE": {
-                    "askPrice": 40,
-                    "askQty": 3900,
+                    "askPrice": 44.5,
+                    "askQty": 1300,
                     "bidQty": 1300,
-                    "bidprice": 35.15,
+                    "bidprice": 11.05,
                     "change": 7.399999999999999,
                     "changeinOpenInterest": -13,
                     "expiryDate": "25-May-2023",
@@ -1371,41 +1371,41 @@
                     "pchangeinOpenInterest": -4.421768707482993,
                     "strikePrice": 620,
                     "totalBuyQuantity": 11700,
-                    "totalSellQuantity": 10400,
-                    "totalTradedVolume": 20,
+                    "totalSellQuantity": 6500,
+                    "totalTradedVolume": 23,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.65
+                    "underlyingValue": 658.8
                 },
                 "PE": {
-                    "askPrice": 5.5,
+                    "askPrice": 5.45,
                     "askQty": 1300,
-                    "bidQty": 11700,
-                    "bidprice": 3.05,
+                    "bidQty": 1300,
+                    "bidprice": 3.1,
                     "change": -2.75,
-                    "changeinOpenInterest": 0,
+                    "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGNFC25-05-2023PE620.00",
-                    "impliedVolatility": 53.72,
+                    "impliedVolatility": 54.27,
                     "lastPrice": 3.05,
-                    "openInterest": 226,
+                    "openInterest": 224,
                     "pChange": -47.41379310344828,
-                    "pchangeinOpenInterest": 0,
+                    "pchangeinOpenInterest": -0.8849557522123894,
                     "strikePrice": 620,
-                    "totalBuyQuantity": 23400,
-                    "totalSellQuantity": 2600,
-                    "totalTradedVolume": 5,
+                    "totalBuyQuantity": 39000,
+                    "totalSellQuantity": 3900,
+                    "totalTradedVolume": 6,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 620
             },
             {
                 "CE": {
-                    "askPrice": 47.95,
-                    "askQty": 2600,
+                    "askPrice": 45,
+                    "askQty": 3900,
                     "bidQty": 6500,
-                    "bidprice": 32.35,
+                    "bidprice": 35.05,
                     "change": 7.899999999999999,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
@@ -1416,11 +1416,11 @@
                     "pChange": 23.16715542521994,
                     "pchangeinOpenInterest": -0.38461538461538464,
                     "strikePrice": 630,
-                    "totalBuyQuantity": 58500,
-                    "totalSellQuantity": 39000,
+                    "totalBuyQuantity": 59800,
+                    "totalSellQuantity": 35100,
                     "totalTradedVolume": 3,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.65
+                    "underlyingValue": 658.8
                 },
                 "PE": {
                     "askPrice": 19,
@@ -1441,7 +1441,7 @@
                     "totalSellQuantity": 5200,
                     "totalTradedVolume": 0,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 630
@@ -1450,29 +1450,29 @@
                 "CE": {
                     "askPrice": 36.8,
                     "askQty": 1300,
-                    "bidQty": 5200,
-                    "bidprice": 30,
+                    "bidQty": 1300,
+                    "bidprice": 27.85,
                     "change": 7,
                     "changeinOpenInterest": -10,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGNFC25-05-2023CE640.00",
-                    "impliedVolatility": 75.22,
+                    "impliedVolatility": 73.94,
                     "lastPrice": 37,
                     "openInterest": 1126,
                     "pChange": 23.333333333333332,
                     "pchangeinOpenInterest": -0.8802816901408451,
                     "strikePrice": 640,
-                    "totalBuyQuantity": 107900,
+                    "totalBuyQuantity": 105300,
                     "totalSellQuantity": 52000,
                     "totalTradedVolume": 13,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "PE": {
                     "askPrice": 24.9,
                     "askQty": 2600,
                     "bidQty": 1300,
-                    "bidprice": 8.1,
+                    "bidprice": 8.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1487,7 +1487,7 @@
                     "totalSellQuantity": 3900,
                     "totalTradedVolume": 0,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 640
@@ -1497,7 +1497,7 @@
                     "askPrice": 26,
                     "askQty": 1300,
                     "bidQty": 1300,
-                    "bidprice": 20.95,
+                    "bidprice": 20.9,
                     "change": 6.600000000000001,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1508,17 +1508,17 @@
                     "pChange": 32.352941176470594,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 650,
-                    "totalBuyQuantity": 70200,
+                    "totalBuyQuantity": 71500,
                     "totalSellQuantity": 16900,
                     "totalTradedVolume": 1,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.65
+                    "underlyingValue": 658.8
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 1300,
-                    "bidprice": 11.95,
+                    "bidprice": 11.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1533,7 +1533,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 650
@@ -1558,7 +1558,7 @@
                     "totalSellQuantity": 1300,
                     "totalTradedVolume": 0,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1579,32 +1579,32 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.65
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 650
             },
             {
                 "CE": {
-                    "askPrice": 22.4,
+                    "askPrice": 22.8,
                     "askQty": 1300,
-                    "bidQty": 6500,
-                    "bidprice": 17.15,
-                    "change": 0.5,
-                    "changeinOpenInterest": -23,
+                    "bidQty": 1300,
+                    "bidprice": 17,
+                    "change": 0.6499999999999986,
+                    "changeinOpenInterest": -28,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGNFC25-05-2023CE660.00",
                     "impliedVolatility": 48.17,
-                    "lastPrice": 17,
-                    "openInterest": 305,
-                    "pChange": 3.0303030303030303,
-                    "pchangeinOpenInterest": -7.012195121951219,
+                    "lastPrice": 17.15,
+                    "openInterest": 300,
+                    "pChange": 3.9393939393939306,
+                    "pchangeinOpenInterest": -8.536585365853659,
                     "strikePrice": 660,
-                    "totalBuyQuantity": 94900,
+                    "totalBuyQuantity": 93600,
                     "totalSellQuantity": 16900,
-                    "totalTradedVolume": 28,
+                    "totalTradedVolume": 29,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.65
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 660
@@ -1614,7 +1614,7 @@
                     "askPrice": 19.95,
                     "askQty": 1300,
                     "bidQty": 1300,
-                    "bidprice": 10.5,
+                    "bidprice": 10.95,
                     "change": -1.1500000000000004,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
@@ -1625,11 +1625,11 @@
                     "pChange": -10.313901345291484,
                     "pchangeinOpenInterest": -0.8733624454148472,
                     "strikePrice": 670,
-                    "totalBuyQuantity": 26000,
+                    "totalBuyQuantity": 28600,
                     "totalSellQuantity": 10400,
                     "totalTradedVolume": 5,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.65
+                    "underlyingValue": 658.8
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1650,7 +1650,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 670
@@ -1675,7 +1675,7 @@
                     "totalSellQuantity": 1300,
                     "totalTradedVolume": 0,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 670
@@ -1700,7 +1700,7 @@
                     "totalSellQuantity": 7800,
                     "totalTradedVolume": 2,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.65
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 680
@@ -1725,7 +1725,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 680
@@ -1740,7 +1740,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGNFC25-05-2023CE690.00",
-                    "impliedVolatility": 56.99,
+                    "impliedVolatility": 56.34,
                     "lastPrice": 9,
                     "openInterest": 46,
                     "pChange": 50,
@@ -1750,7 +1750,7 @@
                     "totalSellQuantity": 9100,
                     "totalTradedVolume": 1,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 690
@@ -1765,7 +1765,7 @@
                     "changeinOpenInterest": -15,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGNFC25-05-2023CE700.00",
-                    "impliedVolatility": 51.31,
+                    "impliedVolatility": 53.97,
                     "lastPrice": 6,
                     "openInterest": 248,
                     "pChange": 39.53488372093024,
@@ -1775,7 +1775,7 @@
                     "totalSellQuantity": 57200,
                     "totalTradedVolume": 18,
                     "underlying": "GNFC",
-                    "underlyingValue": 657.7
+                    "underlyingValue": 658.8
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 700
@@ -1809,7 +1809,7 @@
             690,
             700
         ],
-        "timestamp": "18-May-2023 10:19:49",
-        "underlyingValue": 657.65
+        "timestamp": "18-May-2023 10:25:46",
+        "underlyingValue": 658.8
     }
 }

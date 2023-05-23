@@ -1,20 +1,20 @@
 {
     "filtered": {
         "CE": {
-            "totOI": 6826,
-            "totVol": 1438
+            "totOI": 6819,
+            "totVol": 1483
         },
         "PE": {
-            "totOI": 3449,
-            "totVol": 534
+            "totOI": 3452,
+            "totVol": 553
         },
         "data": [
             {
                 "CE": {
                     "askPrice": 36.3,
                     "askQty": 8400,
-                    "bidQty": 16800,
-                    "bidprice": 34.4,
+                    "bidQty": 8400,
+                    "bidprice": 34.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -25,11 +25,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 115,
-                    "totalBuyQuantity": 128800,
+                    "totalBuyQuantity": 137200,
                     "totalSellQuantity": 137200,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 1.95,
@@ -50,7 +50,7 @@
                     "totalSellQuantity": 120400,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 115
@@ -75,7 +75,7 @@
                     "totalSellQuantity": 120400,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 2.3,
@@ -96,7 +96,7 @@
                     "totalSellQuantity": 117600,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 117.5
@@ -121,11 +121,11 @@
                     "totalSellQuantity": 137200,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 0.15,
-                    "askQty": 19600,
+                    "askQty": 2800,
                     "bidQty": 2800,
                     "bidprice": 0.1,
                     "change": 0,
@@ -139,10 +139,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 120,
                     "totalBuyQuantity": 159600,
-                    "totalSellQuantity": 112000,
+                    "totalSellQuantity": 207200,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 120
@@ -167,7 +167,7 @@
                     "totalSellQuantity": 120400,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 122.5
@@ -192,7 +192,7 @@
                     "totalSellQuantity": 137200,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 0.15,
@@ -204,16 +204,16 @@
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDUSTOWER25-05-2023PE125.00",
                     "impliedVolatility": 0,
-                    "lastPrice": 0,
+                    "lastPrice": 0.1,
                     "openInterest": 132,
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 125,
                     "totalBuyQuantity": 98000,
                     "totalSellQuantity": 159600,
-                    "totalTradedVolume": 0,
+                    "totalTradedVolume": 4,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 125
@@ -223,7 +223,7 @@
                     "askPrice": 24.85,
                     "askQty": 8400,
                     "bidQty": 8400,
-                    "bidprice": 22.1,
+                    "bidprice": 22.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -234,11 +234,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 127.5,
-                    "totalBuyQuantity": 137200,
+                    "totalBuyQuantity": 145600,
                     "totalSellQuantity": 137200,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 1.5,
@@ -259,7 +259,7 @@
                     "totalSellQuantity": 142800,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 127.5
@@ -284,7 +284,7 @@
                     "totalSellQuantity": 252000,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 0.2,
@@ -305,14 +305,14 @@
                     "totalSellQuantity": 218400,
                     "totalTradedVolume": 8,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 130
             },
             {
                 "CE": {
-                    "askPrice": 20.15,
+                    "askPrice": 19.55,
                     "askQty": 8400,
                     "bidQty": 8400,
                     "bidprice": 17.15,
@@ -330,11 +330,11 @@
                     "totalSellQuantity": 145600,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 1.8,
-                    "askQty": 112000,
+                    "askPrice": 0.9,
+                    "askQty": 5600,
                     "bidQty": 8400,
                     "bidprice": 0.1,
                     "change": 0,
@@ -348,20 +348,20 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 132.5,
                     "totalBuyQuantity": 89600,
-                    "totalSellQuantity": 232400,
+                    "totalSellQuantity": 238000,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 132.5
             },
             {
                 "CE": {
-                    "askPrice": 16.2,
-                    "askQty": 16800,
+                    "askPrice": 15.9,
+                    "askQty": 2800,
                     "bidQty": 2800,
-                    "bidprice": 15.35,
+                    "bidprice": 15.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -373,15 +373,15 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 135,
                     "totalBuyQuantity": 257600,
-                    "totalSellQuantity": 257600,
+                    "totalSellQuantity": 254800,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 0.35,
                     "askQty": 100800,
-                    "bidQty": 33600,
+                    "bidQty": 30800,
                     "bidprice": 0.25,
                     "change": 0.04999999999999999,
                     "changeinOpenInterest": -31,
@@ -394,20 +394,20 @@
                     "pchangeinOpenInterest": -6.163021868787276,
                     "strikePrice": 135,
                     "totalBuyQuantity": 826000,
-                    "totalSellQuantity": 716800,
+                    "totalSellQuantity": 826000,
                     "totalTradedVolume": 52,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 135
             },
             {
                 "CE": {
-                    "askPrice": 13.1,
-                    "askQty": 2800,
-                    "bidQty": 2800,
-                    "bidprice": 12.8,
+                    "askPrice": 13.3,
+                    "askQty": 8400,
+                    "bidQty": 5600,
+                    "bidprice": 13,
                     "change": -5.4,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -418,42 +418,42 @@
                     "pChange": -29.110512129380055,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 137.5,
-                    "totalBuyQuantity": 142800,
+                    "totalBuyQuantity": 148400,
                     "totalSellQuantity": 148400,
                     "totalTradedVolume": 2,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 0.4,
-                    "askQty": 5600,
-                    "bidQty": 14000,
+                    "askPrice": 0.35,
+                    "askQty": 11200,
+                    "bidQty": 16800,
                     "bidprice": 0.3,
-                    "change": 0,
+                    "change": -0.04999999999999999,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDUSTOWER25-05-2023PE137.50",
                     "impliedVolatility": 47.04,
-                    "lastPrice": 0.35,
+                    "lastPrice": 0.3,
                     "openInterest": 92,
-                    "pChange": 0,
+                    "pChange": -14.285714285714283,
                     "pchangeinOpenInterest": -1.075268817204301,
                     "strikePrice": 137.5,
-                    "totalBuyQuantity": 316400,
-                    "totalSellQuantity": 448000,
-                    "totalTradedVolume": 10,
+                    "totalBuyQuantity": 319200,
+                    "totalSellQuantity": 456400,
+                    "totalTradedVolume": 11,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 137.5
             },
             {
                 "CE": {
-                    "askPrice": 10.75,
-                    "askQty": 11200,
-                    "bidQty": 2800,
-                    "bidprice": 10.5,
+                    "askPrice": 10.85,
+                    "askQty": 8400,
+                    "bidQty": 5600,
+                    "bidprice": 10.6,
                     "change": -2.0999999999999996,
                     "changeinOpenInterest": -5,
                     "expiryDate": "25-May-2023",
@@ -464,41 +464,41 @@
                     "pChange": -17.355371900826444,
                     "pchangeinOpenInterest": -4.424778761061947,
                     "strikePrice": 140,
-                    "totalBuyQuantity": 280000,
+                    "totalBuyQuantity": 277200,
                     "totalSellQuantity": 249200,
                     "totalTradedVolume": 6,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 0.5,
-                    "askQty": 25200,
-                    "bidQty": 8400,
-                    "bidprice": 0.45,
-                    "change": 0.09999999999999998,
+                    "askPrice": 0.45,
+                    "askQty": 22400,
+                    "bidQty": 25200,
+                    "bidprice": 0.4,
+                    "change": 0.04999999999999999,
                     "changeinOpenInterest": 13,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDUSTOWER25-05-2023PE140.00",
                     "impliedVolatility": 43.89,
-                    "lastPrice": 0.5,
+                    "lastPrice": 0.45,
                     "openInterest": 521,
-                    "pChange": 24.999999999999993,
+                    "pChange": 12.499999999999996,
                     "pchangeinOpenInterest": 2.559055118110236,
                     "strikePrice": 140,
-                    "totalBuyQuantity": 1204000,
-                    "totalSellQuantity": 599200,
-                    "totalTradedVolume": 112,
+                    "totalBuyQuantity": 1201200,
+                    "totalSellQuantity": 613200,
+                    "totalTradedVolume": 118,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 140
             },
             {
                 "CE": {
-                    "askPrice": 8.45,
-                    "askQty": 2800,
-                    "bidQty": 2800,
+                    "askPrice": 8.65,
+                    "askQty": 5600,
+                    "bidQty": 5600,
                     "bidprice": 8,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -510,11 +510,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 142.5,
-                    "totalBuyQuantity": 252000,
+                    "totalBuyQuantity": 274400,
                     "totalSellQuantity": 145600,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 0.7,
@@ -531,21 +531,21 @@
                     "pChange": 8.333333333333341,
                     "pchangeinOpenInterest": -8.870967741935484,
                     "strikePrice": 142.5,
-                    "totalBuyQuantity": 635600,
-                    "totalSellQuantity": 481600,
+                    "totalBuyQuantity": 632800,
+                    "totalSellQuantity": 476000,
                     "totalTradedVolume": 25,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 142.5
             },
             {
                 "CE": {
-                    "askPrice": 6.3,
-                    "askQty": 14000,
+                    "askPrice": 6.45,
+                    "askQty": 5600,
                     "bidQty": 2800,
-                    "bidprice": 6.1,
+                    "bidprice": 6.3,
                     "change": -1.4500000000000002,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
@@ -556,16 +556,16 @@
                     "pChange": -19.333333333333336,
                     "pchangeinOpenInterest": -0.7936507936507936,
                     "strikePrice": 145,
-                    "totalBuyQuantity": 291200,
-                    "totalSellQuantity": 282800,
+                    "totalBuyQuantity": 285600,
+                    "totalSellQuantity": 285600,
                     "totalTradedVolume": 34,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 1.1,
-                    "askQty": 16800,
-                    "bidQty": 11200,
+                    "askPrice": 1.05,
+                    "askQty": 14000,
+                    "bidQty": 8400,
                     "bidprice": 1,
                     "change": 0.15000000000000002,
                     "changeinOpenInterest": -7,
@@ -578,10 +578,10 @@
                     "pchangeinOpenInterest": -2.19435736677116,
                     "strikePrice": 145,
                     "totalBuyQuantity": 1862000,
-                    "totalSellQuantity": 512400,
+                    "totalSellQuantity": 529200,
                     "totalTradedVolume": 72,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 145
@@ -593,118 +593,118 @@
                     "bidQty": 5600,
                     "bidprice": 4.25,
                     "change": -0.9500000000000002,
-                    "changeinOpenInterest": 0,
+                    "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDUSTOWER25-05-2023CE147.50",
                     "impliedVolatility": 37.08,
                     "lastPrice": 4.8,
-                    "openInterest": 66,
+                    "openInterest": 65,
                     "pChange": -16.521739130434785,
-                    "pchangeinOpenInterest": 0,
+                    "pchangeinOpenInterest": -1.5151515151515151,
                     "strikePrice": 147.5,
                     "totalBuyQuantity": 263200,
                     "totalSellQuantity": 257600,
                     "totalTradedVolume": 4,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 1.75,
-                    "askQty": 2800,
+                    "askPrice": 1.7,
+                    "askQty": 11200,
                     "bidQty": 8400,
-                    "bidprice": 1.65,
-                    "change": 0.10000000000000009,
+                    "bidprice": 1.6,
+                    "change": 0.1499999999999999,
                     "changeinOpenInterest": -4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDUSTOWER25-05-2023PE147.50",
                     "impliedVolatility": 34.87,
-                    "lastPrice": 1.6,
+                    "lastPrice": 1.65,
                     "openInterest": 153,
-                    "pChange": 6.666666666666672,
+                    "pChange": 9.999999999999993,
                     "pchangeinOpenInterest": -2.5477707006369426,
                     "strikePrice": 147.5,
-                    "totalBuyQuantity": 700000,
-                    "totalSellQuantity": 448000,
-                    "totalTradedVolume": 43,
+                    "totalBuyQuantity": 691600,
+                    "totalSellQuantity": 456400,
+                    "totalTradedVolume": 45,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 147.5
             },
             {
                 "CE": {
-                    "askPrice": 3,
-                    "askQty": 11200,
+                    "askPrice": 3.1,
+                    "askQty": 8400,
                     "bidQty": 11200,
-                    "bidprice": 2.9,
-                    "change": -1.2000000000000002,
+                    "bidprice": 3,
+                    "change": -1.0500000000000003,
                     "changeinOpenInterest": 77,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDUSTOWER25-05-2023CE150.00",
                     "impliedVolatility": 32.86,
-                    "lastPrice": 2.95,
+                    "lastPrice": 3.1,
                     "openInterest": 665,
-                    "pChange": -28.915662650602414,
+                    "pChange": -25.30120481927711,
                     "pchangeinOpenInterest": 13.095238095238095,
                     "strikePrice": 150,
-                    "totalBuyQuantity": 523600,
-                    "totalSellQuantity": 568400,
-                    "totalTradedVolume": 325,
+                    "totalBuyQuantity": 534800,
+                    "totalSellQuantity": 574000,
+                    "totalTradedVolume": 331,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 2.9,
-                    "askQty": 8400,
-                    "bidQty": 11200,
-                    "bidprice": 2.75,
-                    "change": 0.5,
-                    "changeinOpenInterest": -19,
+                    "askPrice": 2.75,
+                    "askQty": 5600,
+                    "bidQty": 2800,
+                    "bidprice": 2.65,
+                    "change": 0.3999999999999999,
+                    "changeinOpenInterest": -16,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDUSTOWER25-05-2023PE150.00",
                     "impliedVolatility": 36.34,
-                    "lastPrice": 2.75,
-                    "openInterest": 585,
-                    "pChange": 22.22222222222222,
-                    "pchangeinOpenInterest": -3.1456953642384105,
+                    "lastPrice": 2.65,
+                    "openInterest": 588,
+                    "pChange": 17.77777777777777,
+                    "pchangeinOpenInterest": -2.6490066225165565,
                     "strikePrice": 150,
-                    "totalBuyQuantity": 540400,
-                    "totalSellQuantity": 498400,
-                    "totalTradedVolume": 160,
+                    "totalBuyQuantity": 532000,
+                    "totalSellQuantity": 501200,
+                    "totalTradedVolume": 166,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 150
             },
             {
                 "CE": {
-                    "askPrice": 2.1,
-                    "askQty": 16800,
-                    "bidQty": 5600,
-                    "bidprice": 2,
+                    "askPrice": 2.15,
+                    "askQty": 14000,
+                    "bidQty": 11200,
+                    "bidprice": 2.05,
                     "change": -1.0000000000000002,
-                    "changeinOpenInterest": 25,
+                    "changeinOpenInterest": 29,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDUSTOWER25-05-2023CE152.50",
                     "impliedVolatility": 33.77,
                     "lastPrice": 1.95,
-                    "openInterest": 186,
+                    "openInterest": 190,
                     "pChange": -33.898305084745765,
-                    "pchangeinOpenInterest": 15.527950310559007,
+                    "pchangeinOpenInterest": 18.012422360248447,
                     "strikePrice": 152.5,
-                    "totalBuyQuantity": 361200,
-                    "totalSellQuantity": 529200,
-                    "totalTradedVolume": 116,
+                    "totalBuyQuantity": 369600,
+                    "totalSellQuantity": 504000,
+                    "totalTradedVolume": 122,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 4.4,
+                    "askPrice": 4.3,
                     "askQty": 5600,
                     "bidQty": 5600,
-                    "bidprice": 4.2,
+                    "bidprice": 4.1,
                     "change": 0.8500000000000001,
                     "changeinOpenInterest": -5,
                     "expiryDate": "25-May-2023",
@@ -715,11 +715,11 @@
                     "pChange": 23.28767123287672,
                     "pchangeinOpenInterest": -4.065040650406504,
                     "strikePrice": 152.5,
-                    "totalBuyQuantity": 280000,
+                    "totalBuyQuantity": 288400,
                     "totalSellQuantity": 296800,
                     "totalTradedVolume": 20,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 152.5
@@ -727,30 +727,30 @@
             {
                 "CE": {
                     "askPrice": 1.45,
-                    "askQty": 19600,
-                    "bidQty": 16800,
+                    "askQty": 14000,
+                    "bidQty": 30800,
                     "bidprice": 1.35,
                     "change": -0.75,
-                    "changeinOpenInterest": 95,
+                    "changeinOpenInterest": 96,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDUSTOWER25-05-2023CE155.00",
                     "impliedVolatility": 37.24,
                     "lastPrice": 1.4,
-                    "openInterest": 812,
+                    "openInterest": 813,
                     "pChange": -34.883720930232556,
-                    "pchangeinOpenInterest": 13.249651324965132,
+                    "pchangeinOpenInterest": 13.389121338912133,
                     "strikePrice": 155,
-                    "totalBuyQuantity": 792400,
-                    "totalSellQuantity": 851200,
-                    "totalTradedVolume": 313,
+                    "totalBuyQuantity": 809200,
+                    "totalSellQuantity": 845600,
+                    "totalTradedVolume": 315,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 6.3,
-                    "askQty": 8400,
+                    "askPrice": 6.2,
+                    "askQty": 5600,
                     "bidQty": 2800,
-                    "bidprice": 6.1,
+                    "bidprice": 6.05,
                     "change": 0.75,
                     "changeinOpenInterest": -7,
                     "expiryDate": "25-May-2023",
@@ -761,20 +761,20 @@
                     "pChange": 14.150943396226415,
                     "pchangeinOpenInterest": -5.511811023622047,
                     "strikePrice": 155,
-                    "totalBuyQuantity": 305200,
+                    "totalBuyQuantity": 308000,
                     "totalSellQuantity": 296800,
                     "totalTradedVolume": 28,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 155
             },
             {
                 "CE": {
-                    "askPrice": 1,
-                    "askQty": 5600,
-                    "bidQty": 14000,
+                    "askPrice": 1.05,
+                    "askQty": 25200,
+                    "bidQty": 16800,
                     "bidprice": 0.95,
                     "change": -0.55,
                     "changeinOpenInterest": 0,
@@ -786,17 +786,17 @@
                     "pChange": -35.483870967741936,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 157.5,
-                    "totalBuyQuantity": 366800,
+                    "totalBuyQuantity": 392000,
                     "totalSellQuantity": 506800,
                     "totalTradedVolume": 32,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 8.55,
+                    "askPrice": 8.3,
                     "askQty": 2800,
-                    "bidQty": 5600,
-                    "bidprice": 8.15,
+                    "bidQty": 2800,
+                    "bidprice": 8,
                     "change": 1,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -807,11 +807,11 @@
                     "pChange": 13.333333333333334,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 157.5,
-                    "totalBuyQuantity": 257600,
-                    "totalSellQuantity": 263200,
+                    "totalBuyQuantity": 260400,
+                    "totalSellQuantity": 252000,
                     "totalTradedVolume": 2,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 157.5
@@ -819,30 +819,30 @@
             {
                 "CE": {
                     "askPrice": 0.75,
-                    "askQty": 44800,
-                    "bidQty": 19600,
+                    "askQty": 36400,
+                    "bidQty": 42000,
                     "bidprice": 0.7,
-                    "change": -0.40000000000000013,
-                    "changeinOpenInterest": 21,
+                    "change": -0.3500000000000001,
+                    "changeinOpenInterest": 19,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDUSTOWER25-05-2023CE160.00",
                     "impliedVolatility": 41.3,
-                    "lastPrice": 0.7,
-                    "openInterest": 1553,
-                    "pChange": -36.36363636363637,
-                    "pchangeinOpenInterest": 1.370757180156658,
+                    "lastPrice": 0.75,
+                    "openInterest": 1551,
+                    "pChange": -31.818181818181824,
+                    "pchangeinOpenInterest": 1.2402088772845954,
                     "strikePrice": 160,
-                    "totalBuyQuantity": 2010400,
-                    "totalSellQuantity": 946400,
-                    "totalTradedVolume": 247,
+                    "totalBuyQuantity": 2002000,
+                    "totalSellQuantity": 938000,
+                    "totalTradedVolume": 253,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 10.4,
-                    "askQty": 2800,
-                    "bidQty": 2800,
-                    "bidprice": 10.05,
+                    "askPrice": 10.55,
+                    "askQty": 5600,
+                    "bidQty": 8400,
+                    "bidprice": 10.25,
                     "change": 1.799999999999999,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -853,11 +853,11 @@
                     "pChange": 19.35483870967741,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 160,
-                    "totalBuyQuantity": 294000,
-                    "totalSellQuantity": 257600,
+                    "totalBuyQuantity": 299600,
+                    "totalSellQuantity": 285600,
                     "totalTradedVolume": 2,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 160
@@ -866,7 +866,7 @@
                 "CE": {
                     "askPrice": 0.55,
                     "askQty": 14000,
-                    "bidQty": 11200,
+                    "bidQty": 14000,
                     "bidprice": 0.5,
                     "change": -0.35,
                     "changeinOpenInterest": 5,
@@ -882,13 +882,13 @@
                     "totalSellQuantity": 498400,
                     "totalTradedVolume": 30,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 12.95,
+                    "askPrice": 12.7,
                     "askQty": 2800,
                     "bidQty": 2800,
-                    "bidprice": 12.4,
+                    "bidprice": 12.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -899,11 +899,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 162.5,
-                    "totalBuyQuantity": 151200,
+                    "totalBuyQuantity": 148400,
                     "totalSellQuantity": 145600,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 162.5
@@ -911,24 +911,24 @@
             {
                 "CE": {
                     "askPrice": 0.45,
-                    "askQty": 39200,
-                    "bidQty": 22400,
+                    "askQty": 42000,
+                    "bidQty": 16800,
                     "bidprice": 0.4,
-                    "change": -0.2,
+                    "change": -0.25,
                     "changeinOpenInterest": 12,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDUSTOWER25-05-2023CE165.00",
                     "impliedVolatility": 49.44,
-                    "lastPrice": 0.45,
+                    "lastPrice": 0.4,
                     "openInterest": 495,
-                    "pChange": -30.76923076923077,
+                    "pChange": -38.46153846153846,
                     "pchangeinOpenInterest": 2.484472049689441,
                     "strikePrice": 165,
-                    "totalBuyQuantity": 1372000,
-                    "totalSellQuantity": 546000,
-                    "totalTradedVolume": 92,
+                    "totalBuyQuantity": 1366400,
+                    "totalSellQuantity": 548800,
+                    "totalTradedVolume": 94,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 15.4,
@@ -949,7 +949,7 @@
                     "totalSellQuantity": 145600,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 165
@@ -958,7 +958,7 @@
                 "CE": {
                     "askPrice": 0.35,
                     "askQty": 11200,
-                    "bidQty": 11200,
+                    "bidQty": 16800,
                     "bidprice": 0.3,
                     "change": -0.20000000000000007,
                     "changeinOpenInterest": -2,
@@ -970,17 +970,17 @@
                     "pChange": -36.36363636363637,
                     "pchangeinOpenInterest": -1.7543859649122806,
                     "strikePrice": 167.5,
-                    "totalBuyQuantity": 226800,
-                    "totalSellQuantity": 338800,
+                    "totalBuyQuantity": 235200,
+                    "totalSellQuantity": 336000,
                     "totalTradedVolume": 11,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 17.7,
+                    "askPrice": 17.55,
                     "askQty": 2800,
                     "bidQty": 2800,
-                    "bidprice": 17.2,
+                    "bidprice": 17.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -991,11 +991,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 167.5,
-                    "totalBuyQuantity": 148400,
-                    "totalSellQuantity": 145600,
+                    "totalBuyQuantity": 140000,
+                    "totalSellQuantity": 156800,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 167.5
@@ -1003,30 +1003,30 @@
             {
                 "CE": {
                     "askPrice": 0.3,
-                    "askQty": 168000,
-                    "bidQty": 112000,
+                    "askQty": 140000,
+                    "bidQty": 84000,
                     "bidprice": 0.25,
-                    "change": -0.15000000000000002,
-                    "changeinOpenInterest": 11,
+                    "change": -0.10000000000000003,
+                    "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDUSTOWER25-05-2023CE170.00",
                     "impliedVolatility": 53.53,
-                    "lastPrice": 0.25,
-                    "openInterest": 735,
-                    "pChange": -37.50000000000001,
-                    "pchangeinOpenInterest": 1.5193370165745856,
+                    "lastPrice": 0.3,
+                    "openInterest": 726,
+                    "pChange": -25.000000000000007,
+                    "pchangeinOpenInterest": 0.27624309392265195,
                     "strikePrice": 170,
-                    "totalBuyQuantity": 1111600,
-                    "totalSellQuantity": 1254400,
-                    "totalTradedVolume": 179,
+                    "totalBuyQuantity": 1086400,
+                    "totalSellQuantity": 1156400,
+                    "totalTradedVolume": 189,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 20.2,
-                    "askQty": 5600,
-                    "bidQty": 19600,
-                    "bidprice": 19.3,
+                    "askPrice": 19.95,
+                    "askQty": 2800,
+                    "bidQty": 2800,
+                    "bidprice": 19.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1037,18 +1037,18 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 170,
-                    "totalBuyQuantity": 271600,
+                    "totalBuyQuantity": 268800,
                     "totalSellQuantity": 238000,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 170
             },
             {
                 "CE": {
-                    "askPrice": 1.15,
+                    "askPrice": 1.75,
                     "askQty": 2800,
                     "bidQty": 8400,
                     "bidprice": 0.2,
@@ -1063,16 +1063,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 172.5,
                     "totalBuyQuantity": 112000,
-                    "totalSellQuantity": 165200,
+                    "totalSellQuantity": 176400,
                     "totalTradedVolume": 3,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 23.95,
-                    "askQty": 5600,
+                    "askPrice": 24.2,
+                    "askQty": 11200,
                     "bidQty": 8400,
-                    "bidprice": 21.95,
+                    "bidprice": 21.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1083,11 +1083,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 172.5,
-                    "totalBuyQuantity": 145600,
-                    "totalSellQuantity": 142800,
+                    "totalBuyQuantity": 137200,
+                    "totalSellQuantity": 148400,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 172.5
@@ -1095,30 +1095,30 @@
             {
                 "CE": {
                     "askPrice": 0.2,
-                    "askQty": 44800,
-                    "bidQty": 252000,
+                    "askQty": 64400,
+                    "bidQty": 226800,
                     "bidprice": 0.15,
-                    "change": -0.09999999999999998,
+                    "change": -0.15,
                     "changeinOpenInterest": 7,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDUSTOWER25-05-2023CE175.00",
                     "impliedVolatility": 57.77,
-                    "lastPrice": 0.2,
+                    "lastPrice": 0.15,
                     "openInterest": 471,
-                    "pChange": -33.33333333333333,
+                    "pChange": -50,
                     "pchangeinOpenInterest": 1.5086206896551724,
                     "strikePrice": 175,
-                    "totalBuyQuantity": 778400,
-                    "totalSellQuantity": 532000,
-                    "totalTradedVolume": 29,
+                    "totalBuyQuantity": 753200,
+                    "totalSellQuantity": 551600,
+                    "totalTradedVolume": 39,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 25.25,
+                    "askPrice": 25.35,
                     "askQty": 2800,
                     "bidQty": 8400,
-                    "bidprice": 24.35,
+                    "bidprice": 24.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1129,11 +1129,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 175,
-                    "totalBuyQuantity": 145600,
-                    "totalSellQuantity": 142800,
+                    "totalBuyQuantity": 137200,
+                    "totalSellQuantity": 151200,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 175
@@ -1155,10 +1155,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 177.5,
                     "totalBuyQuantity": 70000,
-                    "totalSellQuantity": 330400,
+                    "totalSellQuantity": 344400,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 28.15,
@@ -1179,7 +1179,7 @@
                     "totalSellQuantity": 128800,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 177.5
@@ -1188,7 +1188,7 @@
                 "CE": {
                     "askPrice": 0.15,
                     "askQty": 123200,
-                    "bidQty": 114800,
+                    "bidQty": 95200,
                     "bidprice": 0.1,
                     "change": -0.04999999999999999,
                     "changeinOpenInterest": 0,
@@ -1200,17 +1200,17 @@
                     "pChange": -33.33333333333333,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 180,
-                    "totalBuyQuantity": 568400,
+                    "totalBuyQuantity": 548800,
                     "totalSellQuantity": 504000,
-                    "totalTradedVolume": 9,
+                    "totalTradedVolume": 12,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 30.45,
-                    "askQty": 11200,
+                    "askPrice": 30.3,
+                    "askQty": 2800,
                     "bidQty": 2800,
-                    "bidprice": 29.4,
+                    "bidprice": 28.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1221,11 +1221,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 180,
-                    "totalBuyQuantity": 131600,
-                    "totalSellQuantity": 140000,
+                    "totalBuyQuantity": 142800,
+                    "totalSellQuantity": 142800,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 180
@@ -1250,7 +1250,7 @@
                     "totalSellQuantity": 120400,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 182.5
@@ -1275,7 +1275,7 @@
                     "totalSellQuantity": 271600,
                     "totalTradedVolume": 3,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 35.7,
@@ -1296,7 +1296,7 @@
                     "totalSellQuantity": 137200,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 185
@@ -1321,7 +1321,7 @@
                     "totalSellQuantity": 112000,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 40.3,
@@ -1342,7 +1342,7 @@
                     "totalSellQuantity": 120400,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 187.5
@@ -1367,7 +1367,7 @@
                     "totalSellQuantity": 207200,
                     "totalTradedVolume": 2,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 40.75,
@@ -1388,7 +1388,7 @@
                     "totalSellQuantity": 128800,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 190
@@ -1413,7 +1413,7 @@
                     "totalSellQuantity": 254800,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 192.5
@@ -1438,7 +1438,7 @@
                     "totalSellQuantity": 123200,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 48.6,
@@ -1459,7 +1459,7 @@
                     "totalSellQuantity": 112000,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 195
@@ -1484,7 +1484,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 51.4,
@@ -1505,7 +1505,7 @@
                     "totalSellQuantity": 112000,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 197.5
@@ -1530,7 +1530,7 @@
                     "totalSellQuantity": 218400,
                     "totalTradedVolume": 1,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 50.25,
@@ -1551,7 +1551,7 @@
                     "totalSellQuantity": 128800,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 200
@@ -1576,7 +1576,7 @@
                     "totalSellQuantity": 112000,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 57.15,
@@ -1597,7 +1597,7 @@
                     "totalSellQuantity": 112000,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 202.5
@@ -1610,8 +1610,8 @@
                 "CE": {
                     "askPrice": 36.3,
                     "askQty": 8400,
-                    "bidQty": 16800,
-                    "bidprice": 34.4,
+                    "bidQty": 8400,
+                    "bidprice": 34.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1622,11 +1622,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 115,
-                    "totalBuyQuantity": 128800,
+                    "totalBuyQuantity": 137200,
                     "totalSellQuantity": 137200,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 1.95,
@@ -1647,7 +1647,7 @@
                     "totalSellQuantity": 120400,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 115
@@ -1672,7 +1672,7 @@
                     "totalSellQuantity": 112000,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1693,7 +1693,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 115
@@ -1718,7 +1718,7 @@
                     "totalSellQuantity": 112000,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1739,7 +1739,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 117.5
@@ -1764,7 +1764,7 @@
                     "totalSellQuantity": 120400,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 2.3,
@@ -1785,7 +1785,7 @@
                     "totalSellQuantity": 117600,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 117.5
@@ -1810,11 +1810,11 @@
                     "totalSellQuantity": 137200,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 0.15,
-                    "askQty": 19600,
+                    "askQty": 2800,
                     "bidQty": 2800,
                     "bidprice": 0.1,
                     "change": 0,
@@ -1828,17 +1828,17 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 120,
                     "totalBuyQuantity": 159600,
-                    "totalSellQuantity": 112000,
+                    "totalSellQuantity": 207200,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 120
             },
             {
                 "CE": {
-                    "askPrice": 34.3,
+                    "askPrice": 33.6,
                     "askQty": 5600,
                     "bidQty": 19600,
                     "bidprice": 18.9,
@@ -1853,10 +1853,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 120,
                     "totalBuyQuantity": 19600,
-                    "totalSellQuantity": 126000,
+                    "totalSellQuantity": 123200,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 3,
@@ -1877,7 +1877,7 @@
                     "totalSellQuantity": 30800,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 120
@@ -1902,7 +1902,7 @@
                     "totalSellQuantity": 112000,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1923,7 +1923,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 122.5
@@ -1948,7 +1948,7 @@
                     "totalSellQuantity": 120400,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 122.5
@@ -1973,7 +1973,7 @@
                     "totalSellQuantity": 137200,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 0.15,
@@ -1985,24 +1985,24 @@
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDUSTOWER25-05-2023PE125.00",
                     "impliedVolatility": 0,
-                    "lastPrice": 0,
+                    "lastPrice": 0.1,
                     "openInterest": 132,
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 125,
                     "totalBuyQuantity": 98000,
                     "totalSellQuantity": 159600,
-                    "totalTradedVolume": 0,
+                    "totalTradedVolume": 4,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 125
             },
             {
                 "CE": {
-                    "askPrice": 29.3,
-                    "askQty": 8400,
+                    "askPrice": 27.55,
+                    "askQty": 11200,
                     "bidQty": 19600,
                     "bidprice": 15.05,
                     "change": 0,
@@ -2016,14 +2016,14 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 125,
                     "totalBuyQuantity": 19600,
-                    "totalSellQuantity": 120400,
+                    "totalSellQuantity": 123200,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 0,
-                    "askQty": 0,
+                    "askPrice": 2,
+                    "askQty": 28000,
                     "bidQty": 5600,
                     "bidprice": 0.1,
                     "change": 0,
@@ -2037,10 +2037,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 125,
                     "totalBuyQuantity": 47600,
-                    "totalSellQuantity": 0,
+                    "totalSellQuantity": 28000,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 125
@@ -2050,7 +2050,7 @@
                     "askPrice": 24.85,
                     "askQty": 8400,
                     "bidQty": 8400,
-                    "bidprice": 22.1,
+                    "bidprice": 22.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2061,11 +2061,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 127.5,
-                    "totalBuyQuantity": 137200,
+                    "totalBuyQuantity": 145600,
                     "totalSellQuantity": 137200,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 1.5,
@@ -2086,7 +2086,7 @@
                     "totalSellQuantity": 142800,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 127.5
@@ -2111,7 +2111,7 @@
                     "totalSellQuantity": 112000,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 127.5
@@ -2136,7 +2136,7 @@
                     "totalSellQuantity": 252000,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 0.2,
@@ -2157,7 +2157,7 @@
                     "totalSellQuantity": 218400,
                     "totalTradedVolume": 8,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 130
@@ -2182,13 +2182,13 @@
                     "totalSellQuantity": 120400,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 1.25,
-                    "askQty": 8400,
-                    "bidQty": 2800,
-                    "bidprice": 1.15,
+                    "askPrice": 1.2,
+                    "askQty": 2800,
+                    "bidQty": 5600,
+                    "bidprice": 1.1,
                     "change": -0.19999999999999996,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2203,14 +2203,14 @@
                     "totalSellQuantity": 19600,
                     "totalTradedVolume": 2,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 130
             },
             {
                 "CE": {
-                    "askPrice": 20.15,
+                    "askPrice": 19.55,
                     "askQty": 8400,
                     "bidQty": 8400,
                     "bidprice": 17.15,
@@ -2228,11 +2228,11 @@
                     "totalSellQuantity": 145600,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 1.8,
-                    "askQty": 112000,
+                    "askPrice": 0.9,
+                    "askQty": 5600,
                     "bidQty": 8400,
                     "bidprice": 0.1,
                     "change": 0,
@@ -2246,10 +2246,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 132.5,
                     "totalBuyQuantity": 89600,
-                    "totalSellQuantity": 232400,
+                    "totalSellQuantity": 238000,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 132.5
@@ -2274,7 +2274,7 @@
                     "totalSellQuantity": 120400,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2295,7 +2295,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 132.5
@@ -2320,38 +2320,38 @@
                     "totalSellQuantity": 120400,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 2.15,
-                    "askQty": 11200,
+                    "askPrice": 2.1,
+                    "askQty": 5600,
                     "bidQty": 2800,
-                    "bidprice": 2.05,
-                    "change": 0,
+                    "bidprice": 2,
+                    "change": 0.19999999999999996,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKINDUSTOWER29-06-2023PE135.00",
                     "impliedVolatility": 0,
-                    "lastPrice": 0,
+                    "lastPrice": 2,
                     "openInterest": 7,
-                    "pChange": 0,
+                    "pChange": 11.111111111111107,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 135,
                     "totalBuyQuantity": 170800,
                     "totalSellQuantity": 16800,
-                    "totalTradedVolume": 0,
+                    "totalTradedVolume": 1,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 135
             },
             {
                 "CE": {
-                    "askPrice": 16.2,
-                    "askQty": 16800,
+                    "askPrice": 15.9,
+                    "askQty": 2800,
                     "bidQty": 2800,
-                    "bidprice": 15.35,
+                    "bidprice": 15.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2363,15 +2363,15 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 135,
                     "totalBuyQuantity": 257600,
-                    "totalSellQuantity": 257600,
+                    "totalSellQuantity": 254800,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 0.35,
                     "askQty": 100800,
-                    "bidQty": 33600,
+                    "bidQty": 30800,
                     "bidprice": 0.25,
                     "change": 0.04999999999999999,
                     "changeinOpenInterest": -31,
@@ -2384,10 +2384,10 @@
                     "pchangeinOpenInterest": -6.163021868787276,
                     "strikePrice": 135,
                     "totalBuyQuantity": 826000,
-                    "totalSellQuantity": 716800,
+                    "totalSellQuantity": 826000,
                     "totalTradedVolume": 52,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 135
@@ -2412,17 +2412,17 @@
                     "totalSellQuantity": 120400,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 137.5
             },
             {
                 "CE": {
-                    "askPrice": 13.1,
-                    "askQty": 2800,
-                    "bidQty": 2800,
-                    "bidprice": 12.8,
+                    "askPrice": 13.3,
+                    "askQty": 8400,
+                    "bidQty": 5600,
+                    "bidprice": 13,
                     "change": -5.4,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2433,42 +2433,42 @@
                     "pChange": -29.110512129380055,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 137.5,
-                    "totalBuyQuantity": 142800,
+                    "totalBuyQuantity": 148400,
                     "totalSellQuantity": 148400,
                     "totalTradedVolume": 2,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 0.4,
-                    "askQty": 5600,
-                    "bidQty": 14000,
+                    "askPrice": 0.35,
+                    "askQty": 11200,
+                    "bidQty": 16800,
                     "bidprice": 0.3,
-                    "change": 0,
+                    "change": -0.04999999999999999,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDUSTOWER25-05-2023PE137.50",
                     "impliedVolatility": 47.04,
-                    "lastPrice": 0.35,
+                    "lastPrice": 0.3,
                     "openInterest": 92,
-                    "pChange": 0,
+                    "pChange": -14.285714285714283,
                     "pchangeinOpenInterest": -1.075268817204301,
                     "strikePrice": 137.5,
-                    "totalBuyQuantity": 316400,
-                    "totalSellQuantity": 448000,
-                    "totalTradedVolume": 10,
+                    "totalBuyQuantity": 319200,
+                    "totalSellQuantity": 456400,
+                    "totalTradedVolume": 11,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 137.5
             },
             {
                 "CE": {
-                    "askPrice": 13.45,
+                    "askPrice": 13.65,
                     "askQty": 2800,
-                    "bidQty": 2800,
-                    "bidprice": 12.7,
+                    "bidQty": 14000,
+                    "bidprice": 12.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2479,42 +2479,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 140,
-                    "totalBuyQuantity": 11200,
-                    "totalSellQuantity": 117600,
+                    "totalBuyQuantity": 22400,
+                    "totalSellQuantity": 114800,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 3.35,
-                    "askQty": 2800,
-                    "bidQty": 8400,
+                    "askPrice": 3.4,
+                    "askQty": 5600,
+                    "bidQty": 11200,
                     "bidprice": 3.25,
-                    "change": 0.3999999999999999,
+                    "change": 0.4500000000000002,
                     "changeinOpenInterest": 3,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKINDUSTOWER29-06-2023PE140.00",
                     "impliedVolatility": 40.21,
-                    "lastPrice": 3.3,
+                    "lastPrice": 3.35,
                     "openInterest": 40,
-                    "pChange": 13.79310344827586,
+                    "pChange": 15.51724137931035,
                     "pchangeinOpenInterest": 8.108108108108109,
                     "strikePrice": 140,
-                    "totalBuyQuantity": 280000,
-                    "totalSellQuantity": 131600,
-                    "totalTradedVolume": 8,
+                    "totalBuyQuantity": 285600,
+                    "totalSellQuantity": 128800,
+                    "totalTradedVolume": 9,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 140
             },
             {
                 "CE": {
-                    "askPrice": 10.75,
-                    "askQty": 11200,
-                    "bidQty": 2800,
-                    "bidprice": 10.5,
+                    "askPrice": 10.85,
+                    "askQty": 8400,
+                    "bidQty": 5600,
+                    "bidprice": 10.6,
                     "change": -2.0999999999999996,
                     "changeinOpenInterest": -5,
                     "expiryDate": "25-May-2023",
@@ -2525,32 +2525,32 @@
                     "pChange": -17.355371900826444,
                     "pchangeinOpenInterest": -4.424778761061947,
                     "strikePrice": 140,
-                    "totalBuyQuantity": 280000,
+                    "totalBuyQuantity": 277200,
                     "totalSellQuantity": 249200,
                     "totalTradedVolume": 6,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 0.5,
-                    "askQty": 25200,
-                    "bidQty": 8400,
-                    "bidprice": 0.45,
-                    "change": 0.09999999999999998,
+                    "askPrice": 0.45,
+                    "askQty": 22400,
+                    "bidQty": 25200,
+                    "bidprice": 0.4,
+                    "change": 0.04999999999999999,
                     "changeinOpenInterest": 13,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDUSTOWER25-05-2023PE140.00",
                     "impliedVolatility": 43.89,
-                    "lastPrice": 0.5,
+                    "lastPrice": 0.45,
                     "openInterest": 521,
-                    "pChange": 24.999999999999993,
+                    "pChange": 12.499999999999996,
                     "pchangeinOpenInterest": 2.559055118110236,
                     "strikePrice": 140,
-                    "totalBuyQuantity": 1204000,
-                    "totalSellQuantity": 599200,
-                    "totalTradedVolume": 112,
+                    "totalBuyQuantity": 1201200,
+                    "totalSellQuantity": 613200,
+                    "totalTradedVolume": 118,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 140
@@ -2575,16 +2575,16 @@
                     "totalSellQuantity": 112000,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 142.5
             },
             {
                 "CE": {
-                    "askPrice": 8.45,
-                    "askQty": 2800,
-                    "bidQty": 2800,
+                    "askPrice": 8.65,
+                    "askQty": 5600,
+                    "bidQty": 5600,
                     "bidprice": 8,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -2596,11 +2596,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 142.5,
-                    "totalBuyQuantity": 252000,
+                    "totalBuyQuantity": 274400,
                     "totalSellQuantity": 145600,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 0.7,
@@ -2617,21 +2617,21 @@
                     "pChange": 8.333333333333341,
                     "pchangeinOpenInterest": -8.870967741935484,
                     "strikePrice": 142.5,
-                    "totalBuyQuantity": 635600,
-                    "totalSellQuantity": 481600,
+                    "totalBuyQuantity": 632800,
+                    "totalSellQuantity": 476000,
                     "totalTradedVolume": 25,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 142.5
             },
             {
                 "CE": {
-                    "askPrice": 6.3,
-                    "askQty": 14000,
+                    "askPrice": 6.45,
+                    "askQty": 5600,
                     "bidQty": 2800,
-                    "bidprice": 6.1,
+                    "bidprice": 6.3,
                     "change": -1.4500000000000002,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
@@ -2642,16 +2642,16 @@
                     "pChange": -19.333333333333336,
                     "pchangeinOpenInterest": -0.7936507936507936,
                     "strikePrice": 145,
-                    "totalBuyQuantity": 291200,
-                    "totalSellQuantity": 282800,
+                    "totalBuyQuantity": 285600,
+                    "totalSellQuantity": 285600,
                     "totalTradedVolume": 34,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 1.1,
-                    "askQty": 16800,
-                    "bidQty": 11200,
+                    "askPrice": 1.05,
+                    "askQty": 14000,
+                    "bidQty": 8400,
                     "bidprice": 1,
                     "change": 0.15000000000000002,
                     "changeinOpenInterest": -7,
@@ -2664,10 +2664,10 @@
                     "pchangeinOpenInterest": -2.19435736677116,
                     "strikePrice": 145,
                     "totalBuyQuantity": 1862000,
-                    "totalSellQuantity": 512400,
+                    "totalSellQuantity": 529200,
                     "totalTradedVolume": 72,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 145
@@ -2692,7 +2692,7 @@
                     "totalSellQuantity": 126000,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 5.3,
@@ -2713,7 +2713,7 @@
                     "totalSellQuantity": 53200,
                     "totalTradedVolume": 3,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 145
@@ -2725,41 +2725,41 @@
                     "bidQty": 5600,
                     "bidprice": 4.25,
                     "change": -0.9500000000000002,
-                    "changeinOpenInterest": 0,
+                    "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDUSTOWER25-05-2023CE147.50",
                     "impliedVolatility": 37.08,
                     "lastPrice": 4.8,
-                    "openInterest": 66,
+                    "openInterest": 65,
                     "pChange": -16.521739130434785,
-                    "pchangeinOpenInterest": 0,
+                    "pchangeinOpenInterest": -1.5151515151515151,
                     "strikePrice": 147.5,
                     "totalBuyQuantity": 263200,
                     "totalSellQuantity": 257600,
                     "totalTradedVolume": 4,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 1.75,
-                    "askQty": 2800,
+                    "askPrice": 1.7,
+                    "askQty": 11200,
                     "bidQty": 8400,
-                    "bidprice": 1.65,
-                    "change": 0.10000000000000009,
+                    "bidprice": 1.6,
+                    "change": 0.1499999999999999,
                     "changeinOpenInterest": -4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDUSTOWER25-05-2023PE147.50",
                     "impliedVolatility": 34.87,
-                    "lastPrice": 1.6,
+                    "lastPrice": 1.65,
                     "openInterest": 153,
-                    "pChange": 6.666666666666672,
+                    "pChange": 9.999999999999993,
                     "pchangeinOpenInterest": -2.5477707006369426,
                     "strikePrice": 147.5,
-                    "totalBuyQuantity": 700000,
-                    "totalSellQuantity": 448000,
-                    "totalTradedVolume": 43,
+                    "totalBuyQuantity": 691600,
+                    "totalSellQuantity": 456400,
+                    "totalTradedVolume": 45,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 147.5
@@ -2784,130 +2784,130 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 147.5
             },
             {
                 "CE": {
-                    "askPrice": 3,
-                    "askQty": 11200,
+                    "askPrice": 3.1,
+                    "askQty": 8400,
                     "bidQty": 11200,
-                    "bidprice": 2.9,
-                    "change": -1.2000000000000002,
+                    "bidprice": 3,
+                    "change": -1.0500000000000003,
                     "changeinOpenInterest": 77,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDUSTOWER25-05-2023CE150.00",
                     "impliedVolatility": 32.86,
-                    "lastPrice": 2.95,
+                    "lastPrice": 3.1,
                     "openInterest": 665,
-                    "pChange": -28.915662650602414,
+                    "pChange": -25.30120481927711,
                     "pchangeinOpenInterest": 13.095238095238095,
                     "strikePrice": 150,
-                    "totalBuyQuantity": 523600,
-                    "totalSellQuantity": 568400,
-                    "totalTradedVolume": 325,
+                    "totalBuyQuantity": 534800,
+                    "totalSellQuantity": 574000,
+                    "totalTradedVolume": 331,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 2.9,
-                    "askQty": 8400,
-                    "bidQty": 11200,
-                    "bidprice": 2.75,
-                    "change": 0.5,
-                    "changeinOpenInterest": -19,
+                    "askPrice": 2.75,
+                    "askQty": 5600,
+                    "bidQty": 2800,
+                    "bidprice": 2.65,
+                    "change": 0.3999999999999999,
+                    "changeinOpenInterest": -16,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDUSTOWER25-05-2023PE150.00",
                     "impliedVolatility": 36.34,
-                    "lastPrice": 2.75,
-                    "openInterest": 585,
-                    "pChange": 22.22222222222222,
-                    "pchangeinOpenInterest": -3.1456953642384105,
+                    "lastPrice": 2.65,
+                    "openInterest": 588,
+                    "pChange": 17.77777777777777,
+                    "pchangeinOpenInterest": -2.6490066225165565,
                     "strikePrice": 150,
-                    "totalBuyQuantity": 540400,
-                    "totalSellQuantity": 498400,
-                    "totalTradedVolume": 160,
+                    "totalBuyQuantity": 532000,
+                    "totalSellQuantity": 501200,
+                    "totalTradedVolume": 166,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 150
             },
             {
                 "CE": {
-                    "askPrice": 7.55,
-                    "askQty": 8400,
-                    "bidQty": 5600,
+                    "askPrice": 7.5,
+                    "askQty": 5600,
+                    "bidQty": 2800,
                     "bidprice": 7.35,
-                    "change": -0.4500000000000002,
+                    "change": -0.5499999999999998,
                     "changeinOpenInterest": 12,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKINDUSTOWER29-06-2023CE150.00",
                     "impliedVolatility": 32.04,
-                    "lastPrice": 7.5,
+                    "lastPrice": 7.4,
                     "openInterest": 208,
-                    "pChange": -5.660377358490568,
+                    "pChange": -6.9182389937106885,
                     "pchangeinOpenInterest": 6.122448979591836,
                     "strikePrice": 150,
-                    "totalBuyQuantity": 254800,
-                    "totalSellQuantity": 170800,
-                    "totalTradedVolume": 17,
+                    "totalBuyQuantity": 252000,
+                    "totalSellQuantity": 173600,
+                    "totalTradedVolume": 18,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 7.5,
-                    "askQty": 2800,
-                    "bidQty": 5600,
-                    "bidprice": 7.4,
-                    "change": 0.75,
+                    "askPrice": 7.6,
+                    "askQty": 5600,
+                    "bidQty": 2800,
+                    "bidprice": 7.35,
+                    "change": 0.6000000000000005,
                     "changeinOpenInterest": 10,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKINDUSTOWER29-06-2023PE150.00",
                     "impliedVolatility": 42.35,
-                    "lastPrice": 7.6,
+                    "lastPrice": 7.45,
                     "openInterest": 97,
-                    "pChange": 10.948905109489052,
+                    "pChange": 8.75912408759125,
                     "pchangeinOpenInterest": 11.494252873563218,
                     "strikePrice": 150,
-                    "totalBuyQuantity": 123200,
+                    "totalBuyQuantity": 128800,
                     "totalSellQuantity": 123200,
-                    "totalTradedVolume": 16,
+                    "totalTradedVolume": 17,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 150
             },
             {
                 "CE": {
-                    "askPrice": 2.1,
-                    "askQty": 16800,
-                    "bidQty": 5600,
-                    "bidprice": 2,
+                    "askPrice": 2.15,
+                    "askQty": 14000,
+                    "bidQty": 11200,
+                    "bidprice": 2.05,
                     "change": -1.0000000000000002,
-                    "changeinOpenInterest": 25,
+                    "changeinOpenInterest": 29,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDUSTOWER25-05-2023CE152.50",
                     "impliedVolatility": 33.77,
                     "lastPrice": 1.95,
-                    "openInterest": 186,
+                    "openInterest": 190,
                     "pChange": -33.898305084745765,
-                    "pchangeinOpenInterest": 15.527950310559007,
+                    "pchangeinOpenInterest": 18.012422360248447,
                     "strikePrice": 152.5,
-                    "totalBuyQuantity": 361200,
-                    "totalSellQuantity": 529200,
-                    "totalTradedVolume": 116,
+                    "totalBuyQuantity": 369600,
+                    "totalSellQuantity": 504000,
+                    "totalTradedVolume": 122,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 4.4,
+                    "askPrice": 4.3,
                     "askQty": 5600,
                     "bidQty": 5600,
-                    "bidprice": 4.2,
+                    "bidprice": 4.1,
                     "change": 0.8500000000000001,
                     "changeinOpenInterest": -5,
                     "expiryDate": "25-May-2023",
@@ -2918,11 +2918,11 @@
                     "pChange": 23.28767123287672,
                     "pchangeinOpenInterest": -4.065040650406504,
                     "strikePrice": 152.5,
-                    "totalBuyQuantity": 280000,
+                    "totalBuyQuantity": 288400,
                     "totalSellQuantity": 296800,
                     "totalTradedVolume": 20,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 152.5
@@ -2947,7 +2947,7 @@
                     "totalSellQuantity": 117600,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 16.75,
@@ -2968,7 +2968,7 @@
                     "totalSellQuantity": 8400,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 152.5
@@ -2976,30 +2976,30 @@
             {
                 "CE": {
                     "askPrice": 1.45,
-                    "askQty": 19600,
-                    "bidQty": 16800,
+                    "askQty": 14000,
+                    "bidQty": 30800,
                     "bidprice": 1.35,
                     "change": -0.75,
-                    "changeinOpenInterest": 95,
+                    "changeinOpenInterest": 96,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDUSTOWER25-05-2023CE155.00",
                     "impliedVolatility": 37.24,
                     "lastPrice": 1.4,
-                    "openInterest": 812,
+                    "openInterest": 813,
                     "pChange": -34.883720930232556,
-                    "pchangeinOpenInterest": 13.249651324965132,
+                    "pchangeinOpenInterest": 13.389121338912133,
                     "strikePrice": 155,
-                    "totalBuyQuantity": 792400,
-                    "totalSellQuantity": 851200,
-                    "totalTradedVolume": 313,
+                    "totalBuyQuantity": 809200,
+                    "totalSellQuantity": 845600,
+                    "totalTradedVolume": 315,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 6.3,
-                    "askQty": 8400,
+                    "askPrice": 6.2,
+                    "askQty": 5600,
                     "bidQty": 2800,
-                    "bidprice": 6.1,
+                    "bidprice": 6.05,
                     "change": 0.75,
                     "changeinOpenInterest": -7,
                     "expiryDate": "25-May-2023",
@@ -3010,21 +3010,21 @@
                     "pChange": 14.150943396226415,
                     "pchangeinOpenInterest": -5.511811023622047,
                     "strikePrice": 155,
-                    "totalBuyQuantity": 305200,
+                    "totalBuyQuantity": 308000,
                     "totalSellQuantity": 296800,
                     "totalTradedVolume": 28,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 155
             },
             {
                 "CE": {
-                    "askPrice": 5.4,
-                    "askQty": 5600,
-                    "bidQty": 8400,
-                    "bidprice": 5.2,
+                    "askPrice": 5.45,
+                    "askQty": 2800,
+                    "bidQty": 2800,
+                    "bidprice": 5.25,
                     "change": -0.2999999999999998,
                     "changeinOpenInterest": 1,
                     "expiryDate": "29-Jun-2023",
@@ -3035,17 +3035,17 @@
                     "pChange": -5.263157894736839,
                     "pchangeinOpenInterest": 2.5641025641025643,
                     "strikePrice": 155,
-                    "totalBuyQuantity": 53200,
-                    "totalSellQuantity": 159600,
-                    "totalTradedVolume": 3,
+                    "totalBuyQuantity": 56000,
+                    "totalSellQuantity": 151200,
+                    "totalTradedVolume": 6,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 10.7,
+                    "askPrice": 10.6,
                     "askQty": 2800,
                     "bidQty": 2800,
-                    "bidprice": 9.85,
+                    "bidprice": 9.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3056,11 +3056,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 155,
-                    "totalBuyQuantity": 2800,
+                    "totalBuyQuantity": 8400,
                     "totalSellQuantity": 8400,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 155
@@ -3085,16 +3085,16 @@
                     "totalSellQuantity": 3400,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 155
             },
             {
                 "CE": {
-                    "askPrice": 1,
-                    "askQty": 5600,
-                    "bidQty": 14000,
+                    "askPrice": 1.05,
+                    "askQty": 25200,
+                    "bidQty": 16800,
                     "bidprice": 0.95,
                     "change": -0.55,
                     "changeinOpenInterest": 0,
@@ -3106,17 +3106,17 @@
                     "pChange": -35.483870967741936,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 157.5,
-                    "totalBuyQuantity": 366800,
+                    "totalBuyQuantity": 392000,
                     "totalSellQuantity": 506800,
                     "totalTradedVolume": 32,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 8.55,
+                    "askPrice": 8.3,
                     "askQty": 2800,
-                    "bidQty": 5600,
-                    "bidprice": 8.15,
+                    "bidQty": 2800,
+                    "bidprice": 8,
                     "change": 1,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3127,11 +3127,11 @@
                     "pChange": 13.333333333333334,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 157.5,
-                    "totalBuyQuantity": 257600,
-                    "totalSellQuantity": 263200,
+                    "totalBuyQuantity": 260400,
+                    "totalSellQuantity": 252000,
                     "totalTradedVolume": 2,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 157.5
@@ -3156,7 +3156,7 @@
                     "totalSellQuantity": 112000,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 20.8,
@@ -3177,7 +3177,7 @@
                     "totalSellQuantity": 19600,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 157.5
@@ -3186,8 +3186,8 @@
                 "CE": {
                     "askPrice": 3.75,
                     "askQty": 2800,
-                    "bidQty": 5600,
-                    "bidprice": 3.6,
+                    "bidQty": 2800,
+                    "bidprice": 3.65,
                     "change": -0.2999999999999998,
                     "changeinOpenInterest": 10,
                     "expiryDate": "29-Jun-2023",
@@ -3198,17 +3198,17 @@
                     "pChange": -7.317073170731704,
                     "pchangeinOpenInterest": 11.11111111111111,
                     "strikePrice": 160,
-                    "totalBuyQuantity": 296800,
+                    "totalBuyQuantity": 294000,
                     "totalSellQuantity": 291200,
                     "totalTradedVolume": 24,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 14.35,
+                    "askPrice": 14.05,
                     "askQty": 2800,
                     "bidQty": 11200,
-                    "bidprice": 13.2,
+                    "bidprice": 13.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3219,11 +3219,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 160,
-                    "totalBuyQuantity": 126000,
+                    "totalBuyQuantity": 123200,
                     "totalSellQuantity": 2800,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 160
@@ -3231,30 +3231,30 @@
             {
                 "CE": {
                     "askPrice": 0.75,
-                    "askQty": 44800,
-                    "bidQty": 19600,
+                    "askQty": 36400,
+                    "bidQty": 42000,
                     "bidprice": 0.7,
-                    "change": -0.40000000000000013,
-                    "changeinOpenInterest": 21,
+                    "change": -0.3500000000000001,
+                    "changeinOpenInterest": 19,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDUSTOWER25-05-2023CE160.00",
                     "impliedVolatility": 41.3,
-                    "lastPrice": 0.7,
-                    "openInterest": 1553,
-                    "pChange": -36.36363636363637,
-                    "pchangeinOpenInterest": 1.370757180156658,
+                    "lastPrice": 0.75,
+                    "openInterest": 1551,
+                    "pChange": -31.818181818181824,
+                    "pchangeinOpenInterest": 1.2402088772845954,
                     "strikePrice": 160,
-                    "totalBuyQuantity": 2010400,
-                    "totalSellQuantity": 946400,
-                    "totalTradedVolume": 247,
+                    "totalBuyQuantity": 2002000,
+                    "totalSellQuantity": 938000,
+                    "totalTradedVolume": 253,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 10.4,
-                    "askQty": 2800,
-                    "bidQty": 2800,
-                    "bidprice": 10.05,
+                    "askPrice": 10.55,
+                    "askQty": 5600,
+                    "bidQty": 8400,
+                    "bidprice": 10.25,
                     "change": 1.799999999999999,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3265,11 +3265,11 @@
                     "pChange": 19.35483870967741,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 160,
-                    "totalBuyQuantity": 294000,
-                    "totalSellQuantity": 257600,
+                    "totalBuyQuantity": 299600,
+                    "totalSellQuantity": 285600,
                     "totalTradedVolume": 2,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 160
@@ -3294,7 +3294,7 @@
                     "totalSellQuantity": 3400,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 160
@@ -3303,7 +3303,7 @@
                 "CE": {
                     "askPrice": 0.55,
                     "askQty": 14000,
-                    "bidQty": 11200,
+                    "bidQty": 14000,
                     "bidprice": 0.5,
                     "change": -0.35,
                     "changeinOpenInterest": 5,
@@ -3319,13 +3319,13 @@
                     "totalSellQuantity": 498400,
                     "totalTradedVolume": 30,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 12.95,
+                    "askPrice": 12.7,
                     "askQty": 2800,
                     "bidQty": 2800,
-                    "bidprice": 12.4,
+                    "bidprice": 12.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3336,11 +3336,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 162.5,
-                    "totalBuyQuantity": 151200,
+                    "totalBuyQuantity": 148400,
                     "totalSellQuantity": 145600,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 162.5
@@ -3365,11 +3365,11 @@
                     "totalSellQuantity": 114800,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 24.85,
-                    "askQty": 112000,
+                    "askPrice": 24.5,
+                    "askQty": 8400,
                     "bidQty": 8400,
                     "bidprice": 10.35,
                     "change": 0,
@@ -3386,38 +3386,38 @@
                     "totalSellQuantity": 120400,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 162.5
             },
             {
                 "CE": {
-                    "askPrice": 2.55,
-                    "askQty": 5600,
+                    "askPrice": 2.6,
+                    "askQty": 2800,
                     "bidQty": 5600,
-                    "bidprice": 2.4,
-                    "change": -0.20000000000000018,
+                    "bidprice": 2.35,
+                    "change": -0.3500000000000001,
                     "changeinOpenInterest": 2,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKINDUSTOWER29-06-2023CE165.00",
                     "impliedVolatility": 34.15,
-                    "lastPrice": 2.55,
+                    "lastPrice": 2.4,
                     "openInterest": 14,
-                    "pChange": -7.27272727272728,
+                    "pChange": -12.727272727272732,
                     "pchangeinOpenInterest": 16.666666666666668,
                     "strikePrice": 165,
-                    "totalBuyQuantity": 198800,
-                    "totalSellQuantity": 168000,
-                    "totalTradedVolume": 4,
+                    "totalBuyQuantity": 165200,
+                    "totalSellQuantity": 131600,
+                    "totalTradedVolume": 5,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 18.2,
+                    "askPrice": 17.9,
                     "askQty": 5600,
                     "bidQty": 2800,
-                    "bidprice": 16.95,
+                    "bidprice": 16.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3432,7 +3432,7 @@
                     "totalSellQuantity": 5600,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 165
@@ -3440,24 +3440,24 @@
             {
                 "CE": {
                     "askPrice": 0.45,
-                    "askQty": 39200,
-                    "bidQty": 22400,
+                    "askQty": 42000,
+                    "bidQty": 16800,
                     "bidprice": 0.4,
-                    "change": -0.2,
+                    "change": -0.25,
                     "changeinOpenInterest": 12,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDUSTOWER25-05-2023CE165.00",
                     "impliedVolatility": 49.44,
-                    "lastPrice": 0.45,
+                    "lastPrice": 0.4,
                     "openInterest": 495,
-                    "pChange": -30.76923076923077,
+                    "pChange": -38.46153846153846,
                     "pchangeinOpenInterest": 2.484472049689441,
                     "strikePrice": 165,
-                    "totalBuyQuantity": 1372000,
-                    "totalSellQuantity": 546000,
-                    "totalTradedVolume": 92,
+                    "totalBuyQuantity": 1366400,
+                    "totalSellQuantity": 548800,
+                    "totalTradedVolume": 94,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 15.4,
@@ -3478,7 +3478,7 @@
                     "totalSellQuantity": 145600,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 165
@@ -3503,10 +3503,10 @@
                     "totalSellQuantity": 112000,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 29.05,
+                    "askPrice": 28.85,
                     "askQty": 8400,
                     "bidQty": 8400,
                     "bidprice": 15.35,
@@ -3524,7 +3524,7 @@
                     "totalSellQuantity": 120400,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 167.5
@@ -3533,7 +3533,7 @@
                 "CE": {
                     "askPrice": 0.35,
                     "askQty": 11200,
-                    "bidQty": 11200,
+                    "bidQty": 16800,
                     "bidprice": 0.3,
                     "change": -0.20000000000000007,
                     "changeinOpenInterest": -2,
@@ -3545,17 +3545,17 @@
                     "pChange": -36.36363636363637,
                     "pchangeinOpenInterest": -1.7543859649122806,
                     "strikePrice": 167.5,
-                    "totalBuyQuantity": 226800,
-                    "totalSellQuantity": 338800,
+                    "totalBuyQuantity": 235200,
+                    "totalSellQuantity": 336000,
                     "totalTradedVolume": 11,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 17.7,
+                    "askPrice": 17.55,
                     "askQty": 2800,
                     "bidQty": 2800,
-                    "bidprice": 17.2,
+                    "bidprice": 17.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3566,11 +3566,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 167.5,
-                    "totalBuyQuantity": 148400,
-                    "totalSellQuantity": 145600,
+                    "totalBuyQuantity": 140000,
+                    "totalSellQuantity": 156800,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 167.5
@@ -3578,30 +3578,30 @@
             {
                 "CE": {
                     "askPrice": 0.3,
-                    "askQty": 168000,
-                    "bidQty": 112000,
+                    "askQty": 140000,
+                    "bidQty": 84000,
                     "bidprice": 0.25,
-                    "change": -0.15000000000000002,
-                    "changeinOpenInterest": 11,
+                    "change": -0.10000000000000003,
+                    "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDUSTOWER25-05-2023CE170.00",
                     "impliedVolatility": 53.53,
-                    "lastPrice": 0.25,
-                    "openInterest": 735,
-                    "pChange": -37.50000000000001,
-                    "pchangeinOpenInterest": 1.5193370165745856,
+                    "lastPrice": 0.3,
+                    "openInterest": 726,
+                    "pChange": -25.000000000000007,
+                    "pchangeinOpenInterest": 0.27624309392265195,
                     "strikePrice": 170,
-                    "totalBuyQuantity": 1111600,
-                    "totalSellQuantity": 1254400,
-                    "totalTradedVolume": 179,
+                    "totalBuyQuantity": 1086400,
+                    "totalSellQuantity": 1156400,
+                    "totalTradedVolume": 189,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 20.2,
-                    "askQty": 5600,
-                    "bidQty": 19600,
-                    "bidprice": 19.3,
+                    "askPrice": 19.95,
+                    "askQty": 2800,
+                    "bidQty": 2800,
+                    "bidprice": 19.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3612,11 +3612,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 170,
-                    "totalBuyQuantity": 271600,
+                    "totalBuyQuantity": 268800,
                     "totalSellQuantity": 238000,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 170
@@ -3637,17 +3637,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": -3.225806451612903,
                     "strikePrice": 170,
-                    "totalBuyQuantity": 240800,
+                    "totalBuyQuantity": 243600,
                     "totalSellQuantity": 170800,
                     "totalTradedVolume": 3,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 22,
-                    "askQty": 5600,
-                    "bidQty": 5600,
-                    "bidprice": 18.65,
+                    "askPrice": 29.55,
+                    "askQty": 112000,
+                    "bidQty": 8400,
+                    "bidprice": 20.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3659,17 +3659,17 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 170,
                     "totalBuyQuantity": 126000,
-                    "totalSellQuantity": 5600,
+                    "totalSellQuantity": 131600,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 170
             },
             {
                 "CE": {
-                    "askPrice": 1.15,
+                    "askPrice": 1.75,
                     "askQty": 2800,
                     "bidQty": 8400,
                     "bidprice": 0.2,
@@ -3684,16 +3684,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 172.5,
                     "totalBuyQuantity": 112000,
-                    "totalSellQuantity": 165200,
+                    "totalSellQuantity": 176400,
                     "totalTradedVolume": 3,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 23.95,
-                    "askQty": 5600,
+                    "askPrice": 24.2,
+                    "askQty": 11200,
                     "bidQty": 8400,
-                    "bidprice": 21.95,
+                    "bidprice": 21.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3704,11 +3704,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 172.5,
-                    "totalBuyQuantity": 145600,
-                    "totalSellQuantity": 142800,
+                    "totalBuyQuantity": 137200,
+                    "totalSellQuantity": 148400,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 172.5
@@ -3733,11 +3733,11 @@
                     "totalSellQuantity": 112000,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 34.05,
-                    "askQty": 112000,
+                    "askPrice": 32,
+                    "askQty": 8400,
                     "bidQty": 8400,
                     "bidprice": 20.4,
                     "change": 0,
@@ -3754,7 +3754,7 @@
                     "totalSellQuantity": 120400,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 172.5
@@ -3762,30 +3762,30 @@
             {
                 "CE": {
                     "askPrice": 0.2,
-                    "askQty": 44800,
-                    "bidQty": 252000,
+                    "askQty": 64400,
+                    "bidQty": 226800,
                     "bidprice": 0.15,
-                    "change": -0.09999999999999998,
+                    "change": -0.15,
                     "changeinOpenInterest": 7,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKINDUSTOWER25-05-2023CE175.00",
                     "impliedVolatility": 57.77,
-                    "lastPrice": 0.2,
+                    "lastPrice": 0.15,
                     "openInterest": 471,
-                    "pChange": -33.33333333333333,
+                    "pChange": -50,
                     "pchangeinOpenInterest": 1.5086206896551724,
                     "strikePrice": 175,
-                    "totalBuyQuantity": 778400,
-                    "totalSellQuantity": 532000,
-                    "totalTradedVolume": 29,
+                    "totalBuyQuantity": 753200,
+                    "totalSellQuantity": 551600,
+                    "totalTradedVolume": 39,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 25.25,
+                    "askPrice": 25.35,
                     "askQty": 2800,
                     "bidQty": 8400,
-                    "bidprice": 24.35,
+                    "bidprice": 24.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3796,11 +3796,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 175,
-                    "totalBuyQuantity": 145600,
-                    "totalSellQuantity": 142800,
+                    "totalBuyQuantity": 137200,
+                    "totalSellQuantity": 151200,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 175
@@ -3821,11 +3821,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 175,
-                    "totalBuyQuantity": 198800,
-                    "totalSellQuantity": 123200,
+                    "totalBuyQuantity": 201600,
+                    "totalSellQuantity": 126000,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 29.95,
@@ -3846,7 +3846,7 @@
                     "totalSellQuantity": 22400,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 175
@@ -3868,10 +3868,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 177.5,
                     "totalBuyQuantity": 70000,
-                    "totalSellQuantity": 330400,
+                    "totalSellQuantity": 344400,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 28.15,
@@ -3892,7 +3892,7 @@
                     "totalSellQuantity": 128800,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 177.5
@@ -3917,11 +3917,11 @@
                     "totalSellQuantity": 112000,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 38.3,
-                    "askQty": 112000,
+                    "askPrice": 36.15,
+                    "askQty": 8400,
                     "bidQty": 8400,
                     "bidprice": 25.35,
                     "change": 0,
@@ -3938,7 +3938,7 @@
                     "totalSellQuantity": 120400,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 177.5
@@ -3947,7 +3947,7 @@
                 "CE": {
                     "askPrice": 0.15,
                     "askQty": 123200,
-                    "bidQty": 114800,
+                    "bidQty": 95200,
                     "bidprice": 0.1,
                     "change": -0.04999999999999999,
                     "changeinOpenInterest": 0,
@@ -3959,17 +3959,17 @@
                     "pChange": -33.33333333333333,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 180,
-                    "totalBuyQuantity": 568400,
+                    "totalBuyQuantity": 548800,
                     "totalSellQuantity": 504000,
-                    "totalTradedVolume": 9,
+                    "totalTradedVolume": 12,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
-                    "askPrice": 30.45,
-                    "askQty": 11200,
+                    "askPrice": 30.3,
+                    "askQty": 2800,
                     "bidQty": 2800,
-                    "bidprice": 29.4,
+                    "bidprice": 28.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3980,11 +3980,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 180,
-                    "totalBuyQuantity": 131600,
-                    "totalSellQuantity": 140000,
+                    "totalBuyQuantity": 142800,
+                    "totalSellQuantity": 142800,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 180
@@ -3993,7 +3993,7 @@
                 "CE": {
                     "askPrice": 0.75,
                     "askQty": 2800,
-                    "bidQty": 11200,
+                    "bidQty": 14000,
                     "bidprice": 0.65,
                     "change": 0,
                     "changeinOpenInterest": 6,
@@ -4005,17 +4005,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 11.320754716981131,
                     "strikePrice": 180,
-                    "totalBuyQuantity": 196000,
+                    "totalBuyQuantity": 198800,
                     "totalSellQuantity": 117600,
                     "totalTradedVolume": 13,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 31.95,
                     "askQty": 8400,
                     "bidQty": 8400,
-                    "bidprice": 27.9,
+                    "bidprice": 28.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4026,11 +4026,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 180,
-                    "totalBuyQuantity": 120400,
+                    "totalBuyQuantity": 126000,
                     "totalSellQuantity": 11200,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 180
@@ -4055,7 +4055,7 @@
                     "totalSellQuantity": 120400,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 182.5
@@ -4080,7 +4080,7 @@
                     "totalSellQuantity": 271600,
                     "totalTradedVolume": 3,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 35.7,
@@ -4101,7 +4101,7 @@
                     "totalSellQuantity": 137200,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 185
@@ -4126,7 +4126,7 @@
                     "totalSellQuantity": 112000,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 40.3,
@@ -4147,7 +4147,7 @@
                     "totalSellQuantity": 120400,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 187.5
@@ -4172,7 +4172,7 @@
                     "totalSellQuantity": 207200,
                     "totalTradedVolume": 2,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 40.75,
@@ -4193,7 +4193,7 @@
                     "totalSellQuantity": 128800,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 190
@@ -4218,7 +4218,7 @@
                     "totalSellQuantity": 254800,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 192.5
@@ -4243,7 +4243,7 @@
                     "totalSellQuantity": 123200,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 48.6,
@@ -4264,7 +4264,7 @@
                     "totalSellQuantity": 112000,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 195
@@ -4289,7 +4289,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 51.4,
@@ -4310,7 +4310,7 @@
                     "totalSellQuantity": 112000,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 197.5
@@ -4335,7 +4335,7 @@
                     "totalSellQuantity": 218400,
                     "totalTradedVolume": 1,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 50.25,
@@ -4356,7 +4356,7 @@
                     "totalSellQuantity": 128800,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 200
@@ -4381,7 +4381,7 @@
                     "totalSellQuantity": 112000,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "PE": {
                     "askPrice": 57.15,
@@ -4402,7 +4402,7 @@
                     "totalSellQuantity": 112000,
                     "totalTradedVolume": 0,
                     "underlying": "INDUSTOWER",
-                    "underlyingValue": 150.2
+                    "underlyingValue": 150.45
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 202.5
@@ -4451,7 +4451,7 @@
             200,
             202.5
         ],
-        "timestamp": "18-May-2023 10:21:15",
-        "underlyingValue": 150.2
+        "timestamp": "18-May-2023 10:26:47",
+        "underlyingValue": 150.45
     }
 }

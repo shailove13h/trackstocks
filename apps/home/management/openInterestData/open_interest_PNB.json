@@ -29,7 +29,7 @@
                     "totalSellQuantity": 112000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 40
@@ -54,7 +54,7 @@
                     "totalSellQuantity": 16000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 42
@@ -79,7 +79,7 @@
                     "totalSellQuantity": 48000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 43
@@ -104,7 +104,7 @@
                     "totalSellQuantity": 16000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 44
@@ -129,7 +129,7 @@
                     "totalSellQuantity": 32000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "PE": {
                     "askPrice": 0.1,
@@ -150,7 +150,7 @@
                     "totalSellQuantity": 480000,
                     "totalTradedVolume": 4,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 45
@@ -175,7 +175,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "PE": {
                     "askPrice": 0.25,
@@ -196,7 +196,7 @@
                     "totalSellQuantity": 32000,
                     "totalTradedVolume": 5,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 46
@@ -205,7 +205,7 @@
                 "CE": {
                     "askPrice": 3.15,
                     "askQty": 16000,
-                    "bidQty": 16000,
+                    "bidQty": 32000,
                     "bidprice": 2.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -221,7 +221,7 @@
                     "totalSellQuantity": 64000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "PE": {
                     "askPrice": 0.45,
@@ -242,7 +242,7 @@
                     "totalSellQuantity": 112000,
                     "totalTradedVolume": 1,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 47
@@ -267,11 +267,11 @@
                     "totalSellQuantity": 656000,
                     "totalTradedVolume": 4,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "PE": {
-                    "askPrice": 0.6,
-                    "askQty": 64000,
+                    "askPrice": 0.55,
+                    "askQty": 80000,
                     "bidQty": 32000,
                     "bidprice": 0.45,
                     "change": 0,
@@ -284,18 +284,18 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 48,
-                    "totalBuyQuantity": 384000,
-                    "totalSellQuantity": 192000,
+                    "totalBuyQuantity": 416000,
+                    "totalSellQuantity": 208000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 48
             },
             {
                 "CE": {
-                    "askPrice": 1.2,
+                    "askPrice": 1.25,
                     "askQty": 16000,
                     "bidQty": 112000,
                     "bidprice": 0.85,
@@ -310,16 +310,16 @@
                     "pchangeinOpenInterest": -1.6826923076923077,
                     "strikePrice": 49,
                     "totalBuyQuantity": 224000,
-                    "totalSellQuantity": 832000,
+                    "totalSellQuantity": 816000,
                     "totalTradedVolume": 8,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "PE": {
-                    "askPrice": 1,
+                    "askPrice": 1.05,
                     "askQty": 64000,
                     "bidQty": 16000,
-                    "bidprice": 0.8,
+                    "bidprice": 0.75,
                     "change": -0.3999999999999999,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -334,7 +334,7 @@
                     "totalSellQuantity": 208000,
                     "totalTradedVolume": 1,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 49
@@ -356,16 +356,16 @@
                     "pchangeinOpenInterest": -0.36596523330283626,
                     "strikePrice": 50,
                     "totalBuyQuantity": 624000,
-                    "totalSellQuantity": 2192000,
+                    "totalSellQuantity": 2208000,
                     "totalTradedVolume": 6,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "PE": {
-                    "askPrice": 1.55,
-                    "askQty": 48000,
+                    "askPrice": 1.65,
+                    "askQty": 80000,
                     "bidQty": 16000,
-                    "bidprice": 1.2,
+                    "bidprice": 1.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -376,11 +376,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 50,
-                    "totalBuyQuantity": 464000,
-                    "totalSellQuantity": 96000,
+                    "totalBuyQuantity": 480000,
+                    "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 50
@@ -389,8 +389,8 @@
                 "CE": {
                     "askPrice": 0.45,
                     "askQty": 32000,
-                    "bidQty": 16000,
-                    "bidprice": 0.3,
+                    "bidQty": 32000,
+                    "bidprice": 0.4,
                     "change": 0,
                     "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
@@ -401,17 +401,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": -0.6535947712418301,
                     "strikePrice": 51,
-                    "totalBuyQuantity": 384000,
-                    "totalSellQuantity": 752000,
+                    "totalBuyQuantity": 432000,
+                    "totalSellQuantity": 672000,
                     "totalTradedVolume": 4,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "PE": {
                     "askPrice": 2.3,
                     "askQty": 32000,
                     "bidQty": 16000,
-                    "bidprice": 1.9,
+                    "bidprice": 2.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -422,11 +422,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 51,
-                    "totalBuyQuantity": 112000,
+                    "totalBuyQuantity": 128000,
                     "totalSellQuantity": 32000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 51
@@ -434,7 +434,7 @@
             {
                 "CE": {
                     "askPrice": 0.35,
-                    "askQty": 32000,
+                    "askQty": 48000,
                     "bidQty": 16000,
                     "bidprice": 0.3,
                     "change": 0,
@@ -447,14 +447,14 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 52,
-                    "totalBuyQuantity": 480000,
-                    "totalSellQuantity": 992000,
+                    "totalBuyQuantity": 528000,
+                    "totalSellQuantity": 1088000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "PE": {
-                    "askPrice": 3.1,
+                    "askPrice": 3.2,
                     "askQty": 16000,
                     "bidQty": 16000,
                     "bidprice": 2.85,
@@ -472,7 +472,7 @@
                     "totalSellQuantity": 48000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 52
@@ -481,7 +481,7 @@
                 "CE": {
                     "askPrice": 0.35,
                     "askQty": 64000,
-                    "bidQty": 16000,
+                    "bidQty": 32000,
                     "bidprice": 0.25,
                     "change": 0.050000000000000044,
                     "changeinOpenInterest": 0,
@@ -493,11 +493,11 @@
                     "pChange": 14.285714285714299,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 53,
-                    "totalBuyQuantity": 1536000,
-                    "totalSellQuantity": 2832000,
+                    "totalBuyQuantity": 1568000,
+                    "totalSellQuantity": 2944000,
                     "totalTradedVolume": 1,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "PE": {
                     "askPrice": 4.65,
@@ -518,7 +518,7 @@
                     "totalSellQuantity": 32000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 53
@@ -543,10 +543,10 @@
                     "totalSellQuantity": 672000,
                     "totalTradedVolume": 2,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "PE": {
-                    "askPrice": 5.2,
+                    "askPrice": 5.05,
                     "askQty": 16000,
                     "bidQty": 16000,
                     "bidprice": 3.6,
@@ -564,7 +564,7 @@
                     "totalSellQuantity": 32000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 54
@@ -589,11 +589,11 @@
                     "totalSellQuantity": 2288000,
                     "totalTradedVolume": 6,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "PE": {
-                    "askPrice": 0,
-                    "askQty": 0,
+                    "askPrice": 6.35,
+                    "askQty": 16000,
                     "bidQty": 16000,
                     "bidprice": 3.9,
                     "change": 0,
@@ -606,11 +606,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 55,
-                    "totalBuyQuantity": 96000,
-                    "totalSellQuantity": 0,
+                    "totalBuyQuantity": 112000,
+                    "totalSellQuantity": 16000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 55
@@ -618,7 +618,7 @@
             {
                 "CE": {
                     "askPrice": 0.1,
-                    "askQty": 464000,
+                    "askQty": 944000,
                     "bidQty": 368000,
                     "bidprice": 0.05,
                     "change": 0,
@@ -632,10 +632,10 @@
                     "pchangeinOpenInterest": -0.29239766081871343,
                     "strikePrice": 56,
                     "totalBuyQuantity": 368000,
-                    "totalSellQuantity": 896000,
+                    "totalSellQuantity": 1552000,
                     "totalTradedVolume": 2,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 56
@@ -660,7 +660,7 @@
                     "totalSellQuantity": 320000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 57
@@ -685,7 +685,7 @@
                     "totalSellQuantity": 208000,
                     "totalTradedVolume": 1,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 58
@@ -710,7 +710,7 @@
                     "totalSellQuantity": 32000,
                     "totalTradedVolume": 1,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 59
@@ -735,7 +735,7 @@
                     "totalSellQuantity": 928000,
                     "totalTradedVolume": 9,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 60
@@ -760,7 +760,7 @@
                     "totalSellQuantity": 176000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 61
@@ -789,7 +789,7 @@
                     "totalSellQuantity": 112000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 40
@@ -814,7 +814,7 @@
                     "totalSellQuantity": 16000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 42
@@ -839,7 +839,7 @@
                     "totalSellQuantity": 48000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 43
@@ -864,7 +864,7 @@
                     "totalSellQuantity": 16000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 44
@@ -889,7 +889,7 @@
                     "totalSellQuantity": 128000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 44
@@ -914,7 +914,7 @@
                     "totalSellQuantity": 32000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "PE": {
                     "askPrice": 0.1,
@@ -935,7 +935,7 @@
                     "totalSellQuantity": 480000,
                     "totalTradedVolume": 4,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 45
@@ -960,7 +960,7 @@
                     "totalSellQuantity": 32000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 45
@@ -985,7 +985,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "PE": {
                     "askPrice": 0.25,
@@ -1006,7 +1006,7 @@
                     "totalSellQuantity": 32000,
                     "totalTradedVolume": 5,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 46
@@ -1031,7 +1031,7 @@
                     "totalSellQuantity": 16000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 46
@@ -1040,7 +1040,7 @@
                 "CE": {
                     "askPrice": 3.15,
                     "askQty": 16000,
-                    "bidQty": 16000,
+                    "bidQty": 32000,
                     "bidprice": 2.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -1056,7 +1056,7 @@
                     "totalSellQuantity": 64000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "PE": {
                     "askPrice": 0.45,
@@ -1077,7 +1077,7 @@
                     "totalSellQuantity": 112000,
                     "totalTradedVolume": 1,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 47
@@ -1102,7 +1102,7 @@
                     "totalSellQuantity": 32000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1123,7 +1123,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 48
@@ -1148,11 +1148,11 @@
                     "totalSellQuantity": 656000,
                     "totalTradedVolume": 4,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "PE": {
-                    "askPrice": 0.6,
-                    "askQty": 64000,
+                    "askPrice": 0.55,
+                    "askQty": 80000,
                     "bidQty": 32000,
                     "bidprice": 0.45,
                     "change": 0,
@@ -1165,18 +1165,18 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 48,
-                    "totalBuyQuantity": 384000,
-                    "totalSellQuantity": 192000,
+                    "totalBuyQuantity": 416000,
+                    "totalSellQuantity": 208000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 48
             },
             {
                 "CE": {
-                    "askPrice": 1.2,
+                    "askPrice": 1.25,
                     "askQty": 16000,
                     "bidQty": 112000,
                     "bidprice": 0.85,
@@ -1191,16 +1191,16 @@
                     "pchangeinOpenInterest": -1.6826923076923077,
                     "strikePrice": 49,
                     "totalBuyQuantity": 224000,
-                    "totalSellQuantity": 832000,
+                    "totalSellQuantity": 816000,
                     "totalTradedVolume": 8,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "PE": {
-                    "askPrice": 1,
+                    "askPrice": 1.05,
                     "askQty": 64000,
                     "bidQty": 16000,
-                    "bidprice": 0.8,
+                    "bidprice": 0.75,
                     "change": -0.3999999999999999,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1215,7 +1215,7 @@
                     "totalSellQuantity": 208000,
                     "totalTradedVolume": 1,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 49
@@ -1237,16 +1237,16 @@
                     "pchangeinOpenInterest": -0.36596523330283626,
                     "strikePrice": 50,
                     "totalBuyQuantity": 624000,
-                    "totalSellQuantity": 2192000,
+                    "totalSellQuantity": 2208000,
                     "totalTradedVolume": 6,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "PE": {
-                    "askPrice": 1.55,
-                    "askQty": 48000,
+                    "askPrice": 1.65,
+                    "askQty": 80000,
                     "bidQty": 16000,
-                    "bidprice": 1.2,
+                    "bidprice": 1.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1257,19 +1257,19 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 50,
-                    "totalBuyQuantity": 464000,
-                    "totalSellQuantity": 96000,
+                    "totalBuyQuantity": 480000,
+                    "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 50
             },
             {
                 "CE": {
-                    "askPrice": 2.55,
-                    "askQty": 64000,
+                    "askPrice": 2.45,
+                    "askQty": 16000,
                     "bidQty": 16000,
                     "bidprice": 2,
                     "change": 0,
@@ -1283,10 +1283,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 50,
                     "totalBuyQuantity": 32000,
-                    "totalSellQuantity": 224000,
+                    "totalSellQuantity": 256000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "PE": {
                     "askPrice": 3.7,
@@ -1307,7 +1307,7 @@
                     "totalSellQuantity": 16000,
                     "totalTradedVolume": 1,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 50
@@ -1316,8 +1316,8 @@
                 "CE": {
                     "askPrice": 0.45,
                     "askQty": 32000,
-                    "bidQty": 16000,
-                    "bidprice": 0.3,
+                    "bidQty": 32000,
+                    "bidprice": 0.4,
                     "change": 0,
                     "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
@@ -1328,17 +1328,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": -0.6535947712418301,
                     "strikePrice": 51,
-                    "totalBuyQuantity": 384000,
-                    "totalSellQuantity": 752000,
+                    "totalBuyQuantity": 432000,
+                    "totalSellQuantity": 672000,
                     "totalTradedVolume": 4,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "PE": {
                     "askPrice": 2.3,
                     "askQty": 32000,
                     "bidQty": 16000,
-                    "bidprice": 1.9,
+                    "bidprice": 2.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1349,11 +1349,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 51,
-                    "totalBuyQuantity": 112000,
+                    "totalBuyQuantity": 128000,
                     "totalSellQuantity": 32000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 51
@@ -1361,7 +1361,7 @@
             {
                 "CE": {
                     "askPrice": 0.35,
-                    "askQty": 32000,
+                    "askQty": 48000,
                     "bidQty": 16000,
                     "bidprice": 0.3,
                     "change": 0,
@@ -1374,14 +1374,14 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 52,
-                    "totalBuyQuantity": 480000,
-                    "totalSellQuantity": 992000,
+                    "totalBuyQuantity": 528000,
+                    "totalSellQuantity": 1088000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "PE": {
-                    "askPrice": 3.1,
+                    "askPrice": 3.2,
                     "askQty": 16000,
                     "bidQty": 16000,
                     "bidprice": 2.85,
@@ -1399,7 +1399,7 @@
                     "totalSellQuantity": 48000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 52
@@ -1424,7 +1424,7 @@
                     "totalSellQuantity": 16000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "PE": {
                     "askPrice": 6.3,
@@ -1445,7 +1445,7 @@
                     "totalSellQuantity": 16000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 52
@@ -1454,7 +1454,7 @@
                 "CE": {
                     "askPrice": 0.35,
                     "askQty": 64000,
-                    "bidQty": 16000,
+                    "bidQty": 32000,
                     "bidprice": 0.25,
                     "change": 0.050000000000000044,
                     "changeinOpenInterest": 0,
@@ -1466,11 +1466,11 @@
                     "pChange": 14.285714285714299,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 53,
-                    "totalBuyQuantity": 1536000,
-                    "totalSellQuantity": 2832000,
+                    "totalBuyQuantity": 1568000,
+                    "totalSellQuantity": 2944000,
                     "totalTradedVolume": 1,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "PE": {
                     "askPrice": 4.65,
@@ -1491,7 +1491,7 @@
                     "totalSellQuantity": 32000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 53
@@ -1516,7 +1516,7 @@
                     "totalSellQuantity": 16000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 53
@@ -1541,10 +1541,10 @@
                     "totalSellQuantity": 672000,
                     "totalTradedVolume": 2,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "PE": {
-                    "askPrice": 5.2,
+                    "askPrice": 5.05,
                     "askQty": 16000,
                     "bidQty": 16000,
                     "bidprice": 3.6,
@@ -1562,7 +1562,7 @@
                     "totalSellQuantity": 32000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 54
@@ -1587,7 +1587,7 @@
                     "totalSellQuantity": 16000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 54
@@ -1612,11 +1612,11 @@
                     "totalSellQuantity": 2288000,
                     "totalTradedVolume": 6,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "PE": {
-                    "askPrice": 0,
-                    "askQty": 0,
+                    "askPrice": 6.35,
+                    "askQty": 16000,
                     "bidQty": 16000,
                     "bidprice": 3.9,
                     "change": 0,
@@ -1629,11 +1629,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 55,
-                    "totalBuyQuantity": 96000,
-                    "totalSellQuantity": 0,
+                    "totalBuyQuantity": 112000,
+                    "totalSellQuantity": 16000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 55
@@ -1658,7 +1658,7 @@
                     "totalSellQuantity": 416000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 55
@@ -1666,7 +1666,7 @@
             {
                 "CE": {
                     "askPrice": 0.1,
-                    "askQty": 464000,
+                    "askQty": 944000,
                     "bidQty": 368000,
                     "bidprice": 0.05,
                     "change": 0,
@@ -1680,10 +1680,10 @@
                     "pchangeinOpenInterest": -0.29239766081871343,
                     "strikePrice": 56,
                     "totalBuyQuantity": 368000,
-                    "totalSellQuantity": 896000,
+                    "totalSellQuantity": 1552000,
                     "totalTradedVolume": 2,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 56
@@ -1708,7 +1708,7 @@
                     "totalSellQuantity": 320000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 57
@@ -1733,7 +1733,7 @@
                     "totalSellQuantity": 208000,
                     "totalTradedVolume": 1,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 58
@@ -1758,7 +1758,7 @@
                     "totalSellQuantity": 16000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 58
@@ -1783,7 +1783,7 @@
                     "totalSellQuantity": 32000,
                     "totalTradedVolume": 1,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 59
@@ -1808,7 +1808,7 @@
                     "totalSellQuantity": 928000,
                     "totalTradedVolume": 9,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 60
@@ -1833,7 +1833,7 @@
                     "totalSellQuantity": 448000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 60
@@ -1858,7 +1858,7 @@
                     "totalSellQuantity": 176000,
                     "totalTradedVolume": 0,
                     "underlying": "PNB",
-                    "underlyingValue": 49.45
+                    "underlyingValue": 49.35
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 61
@@ -1891,7 +1891,7 @@
             60,
             61
         ],
-        "timestamp": "18-May-2023 10:21:15",
-        "underlyingValue": 49.45
+        "timestamp": "18-May-2023 10:25:46",
+        "underlyingValue": 49.35
     }
 }

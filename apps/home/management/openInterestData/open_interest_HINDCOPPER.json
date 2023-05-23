@@ -1,12 +1,12 @@
 {
     "filtered": {
         "CE": {
-            "totOI": 4313,
-            "totVol": 337
+            "totOI": 4310,
+            "totVol": 370
         },
         "PE": {
-            "totOI": 1470,
-            "totVol": 70
+            "totOI": 1474,
+            "totVol": 86
         },
         "data": [
             {
@@ -29,7 +29,7 @@
                     "totalSellQuantity": 206400,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 2.05,
@@ -50,7 +50,7 @@
                     "totalSellQuantity": 196800,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 77.5
@@ -75,7 +75,7 @@
                     "totalSellQuantity": 206400,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 0.3,
@@ -96,17 +96,17 @@
                     "totalSellQuantity": 225600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 80
             },
             {
                 "CE": {
-                    "askPrice": 24.55,
+                    "askPrice": 24.45,
                     "askQty": 192000,
-                    "bidQty": 192000,
-                    "bidprice": 19.4,
+                    "bidQty": 14400,
+                    "bidprice": 20.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -117,11 +117,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 81,
-                    "totalBuyQuantity": 192000,
+                    "totalBuyQuantity": 206400,
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -142,17 +142,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 81
             },
             {
                 "CE": {
-                    "askPrice": 23.55,
+                    "askPrice": 23.45,
                     "askQty": 192000,
                     "bidQty": 14400,
-                    "bidprice": 18.6,
+                    "bidprice": 19.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -167,7 +167,7 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 82
@@ -192,7 +192,7 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -213,17 +213,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 82.5
             },
             {
                 "CE": {
-                    "askPrice": 22.55,
+                    "askPrice": 22.45,
                     "askQty": 192000,
                     "bidQty": 14400,
-                    "bidprice": 18.35,
+                    "bidprice": 18.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -238,7 +238,7 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -259,17 +259,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 83
             },
             {
                 "CE": {
-                    "askPrice": 22,
+                    "askPrice": 21.4,
                     "askQty": 192000,
                     "bidQty": 14400,
-                    "bidprice": 18.2,
+                    "bidprice": 17.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -284,7 +284,7 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -305,7 +305,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 84
@@ -330,7 +330,7 @@
                     "totalSellQuantity": 211200,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 0.35,
@@ -351,17 +351,17 @@
                     "totalSellQuantity": 216000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 85
             },
             {
                 "CE": {
-                    "askPrice": 20.05,
-                    "askQty": 14400,
-                    "bidQty": 0,
-                    "bidprice": 0,
+                    "askPrice": 19.55,
+                    "askQty": 192000,
+                    "bidQty": 14400,
+                    "bidprice": 15.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -372,14 +372,14 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 86,
-                    "totalBuyQuantity": 0,
-                    "totalSellQuantity": 206400,
+                    "totalBuyQuantity": 206400,
+                    "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 1.75,
+                    "askPrice": 1.85,
                     "askQty": 192000,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -397,17 +397,17 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 86
             },
             {
                 "CE": {
-                    "askPrice": 22.25,
-                    "askQty": 14400,
+                    "askPrice": 18.5,
+                    "askQty": 192000,
                     "bidQty": 14400,
-                    "bidprice": 13.75,
+                    "bidprice": 14.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -419,10 +419,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 87,
                     "totalBuyQuantity": 206400,
-                    "totalSellQuantity": 206400,
+                    "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -443,14 +443,14 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 87
             },
             {
                 "CE": {
-                    "askPrice": 17.75,
+                    "askPrice": 20.05,
                     "askQty": 192000,
                     "bidQty": 14400,
                     "bidprice": 13.9,
@@ -468,10 +468,10 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 1.7,
+                    "askPrice": 1.85,
                     "askQty": 192000,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -489,17 +489,17 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 87.5
             },
             {
                 "CE": {
-                    "askPrice": 20.55,
+                    "askPrice": 17.25,
                     "askQty": 192000,
                     "bidQty": 14400,
-                    "bidprice": 14.15,
+                    "bidprice": 13.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -514,7 +514,7 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 1.85,
@@ -535,17 +535,17 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 88
             },
             {
                 "CE": {
-                    "askPrice": 0,
-                    "askQty": 0,
+                    "askPrice": 22.45,
+                    "askQty": 14400,
                     "bidQty": 14400,
-                    "bidprice": 13.2,
+                    "bidprice": 12.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -557,10 +557,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 89,
                     "totalBuyQuantity": 206400,
-                    "totalSellQuantity": 0,
+                    "totalSellQuantity": 206400,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 1.9,
@@ -581,7 +581,7 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 89
@@ -606,7 +606,7 @@
                     "totalSellQuantity": 235200,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 0.2,
@@ -627,7 +627,7 @@
                     "totalSellQuantity": 211200,
                     "totalTradedVolume": 2,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 90
@@ -637,7 +637,7 @@
                     "askPrice": 17,
                     "askQty": 192000,
                     "bidQty": 14400,
-                    "bidprice": 11.2,
+                    "bidprice": 10.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -652,17 +652,17 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 91
             },
             {
                 "CE": {
-                    "askPrice": 14.9,
+                    "askPrice": 14.5,
                     "askQty": 4800,
                     "bidQty": 4800,
-                    "bidprice": 10.1,
+                    "bidprice": 9.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -677,7 +677,7 @@
                     "totalSellQuantity": 196800,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 2.35,
@@ -698,17 +698,17 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 92
             },
             {
                 "CE": {
-                    "askPrice": 14.25,
+                    "askPrice": 14.15,
                     "askQty": 4800,
                     "bidQty": 4800,
-                    "bidprice": 8.95,
+                    "bidprice": 9.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -723,7 +723,7 @@
                     "totalSellQuantity": 196800,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 1.8,
@@ -744,7 +744,7 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 92.5
@@ -754,7 +754,7 @@
                     "askPrice": 15.25,
                     "askQty": 4800,
                     "bidQty": 4800,
-                    "bidprice": 8.45,
+                    "bidprice": 8.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -769,7 +769,7 @@
                     "totalSellQuantity": 196800,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 93
@@ -794,7 +794,7 @@
                     "totalSellQuantity": 225600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 0.25,
@@ -815,17 +815,17 @@
                     "totalSellQuantity": 240000,
                     "totalTradedVolume": 2,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 94
             },
             {
                 "CE": {
-                    "askPrice": 9.25,
-                    "askQty": 24000,
+                    "askPrice": 8.65,
+                    "askQty": 4800,
                     "bidQty": 4800,
-                    "bidprice": 8.4,
+                    "bidprice": 8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -840,11 +840,11 @@
                     "totalSellQuantity": 259200,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 0.25,
-                    "askQty": 19200,
+                    "askQty": 4800,
                     "bidQty": 14400,
                     "bidprice": 0.2,
                     "change": -0.09999999999999998,
@@ -857,18 +857,18 @@
                     "pChange": -28.571428571428566,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 95,
-                    "totalBuyQuantity": 360000,
-                    "totalSellQuantity": 849600,
+                    "totalBuyQuantity": 283200,
+                    "totalSellQuantity": 734400,
                     "totalTradedVolume": 10,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 95
             },
             {
                 "CE": {
-                    "askPrice": 9.15,
+                    "askPrice": 9.55,
                     "askQty": 4800,
                     "bidQty": 4800,
                     "bidprice": 7.1,
@@ -886,10 +886,10 @@
                     "totalSellQuantity": 240000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 1.4,
+                    "askPrice": 1.95,
                     "askQty": 4800,
                     "bidQty": 4800,
                     "bidprice": 0.25,
@@ -904,17 +904,17 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 96,
                     "totalBuyQuantity": 52800,
-                    "totalSellQuantity": 518400,
+                    "totalSellQuantity": 297600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 96
             },
             {
                 "CE": {
-                    "askPrice": 7.25,
+                    "askPrice": 7.05,
                     "askQty": 4800,
                     "bidQty": 4800,
                     "bidprice": 6,
@@ -932,12 +932,12 @@
                     "totalSellQuantity": 240000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 0.45,
-                    "askQty": 4800,
-                    "bidQty": 4800,
+                    "askPrice": 0.55,
+                    "askQty": 9600,
+                    "bidQty": 9600,
                     "bidprice": 0.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -949,21 +949,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 97,
-                    "totalBuyQuantity": 230400,
-                    "totalSellQuantity": 427200,
+                    "totalBuyQuantity": 235200,
+                    "totalSellQuantity": 417600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 97
             },
             {
                 "CE": {
-                    "askPrice": 8.5,
+                    "askPrice": 8.15,
                     "askQty": 4800,
                     "bidQty": 4800,
-                    "bidprice": 5.35,
+                    "bidprice": 5.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -978,7 +978,7 @@
                     "totalSellQuantity": 240000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 1.9,
@@ -999,17 +999,17 @@
                     "totalSellQuantity": 432000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 97.5
             },
             {
                 "CE": {
-                    "askPrice": 6.55,
+                    "askPrice": 6.3,
                     "askQty": 4800,
                     "bidQty": 4800,
-                    "bidprice": 5.6,
+                    "bidprice": 5.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1024,38 +1024,38 @@
                     "totalSellQuantity": 240000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 0.65,
-                    "askQty": 9600,
+                    "askQty": 14400,
                     "bidQty": 9600,
-                    "bidprice": 0.45,
+                    "bidprice": 0.5,
                     "change": -0.25,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKHINDCOPPER25-05-2023PE98.00",
-                    "impliedVolatility": 42.04,
+                    "impliedVolatility": 39.75,
                     "lastPrice": 0.5,
                     "openInterest": 38,
                     "pChange": -33.33333333333333,
                     "pchangeinOpenInterest": -2.5641025641025643,
                     "strikePrice": 98,
                     "totalBuyQuantity": 436800,
-                    "totalSellQuantity": 580800,
+                    "totalSellQuantity": 585600,
                     "totalTradedVolume": 5,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 98
             },
             {
                 "CE": {
-                    "askPrice": 5.6,
+                    "askPrice": 5.4,
                     "askQty": 4800,
                     "bidQty": 4800,
-                    "bidprice": 4.7,
+                    "bidprice": 4.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1070,7 +1070,7 @@
                     "totalSellQuantity": 331200,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 0.85,
@@ -1091,14 +1091,14 @@
                     "totalSellQuantity": 748800,
                     "totalTradedVolume": 1,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 99
             },
             {
                 "CE": {
-                    "askPrice": 4.4,
+                    "askPrice": 4.45,
                     "askQty": 4800,
                     "bidQty": 9600,
                     "bidprice": 4,
@@ -1106,48 +1106,48 @@
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKHINDCOPPER25-05-2023CE100.00",
-                    "impliedVolatility": 38.11,
+                    "impliedVolatility": 42.9,
                     "lastPrice": 4.4,
                     "openInterest": 109,
                     "pChange": 10.000000000000009,
                     "pchangeinOpenInterest": -1.8018018018018018,
                     "strikePrice": 100,
-                    "totalBuyQuantity": 508800,
-                    "totalSellQuantity": 528000,
+                    "totalBuyQuantity": 504000,
+                    "totalSellQuantity": 537600,
                     "totalTradedVolume": 3,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 1.1,
-                    "askQty": 14400,
-                    "bidQty": 33600,
-                    "bidprice": 0.95,
-                    "change": -0.30000000000000004,
-                    "changeinOpenInterest": -6,
+                    "askQty": 9600,
+                    "bidQty": 19200,
+                    "bidprice": 1.05,
+                    "change": -0.19999999999999996,
+                    "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKHINDCOPPER25-05-2023PE100.00",
-                    "impliedVolatility": 39.06,
-                    "lastPrice": 0.95,
-                    "openInterest": 343,
-                    "pChange": -24.000000000000004,
-                    "pchangeinOpenInterest": -1.7191977077363896,
+                    "impliedVolatility": 39.58,
+                    "lastPrice": 1.05,
+                    "openInterest": 347,
+                    "pChange": -15.999999999999998,
+                    "pchangeinOpenInterest": -0.5730659025787965,
                     "strikePrice": 100,
-                    "totalBuyQuantity": 2280000,
-                    "totalSellQuantity": 720000,
-                    "totalTradedVolume": 12,
+                    "totalBuyQuantity": 2251200,
+                    "totalSellQuantity": 724800,
+                    "totalTradedVolume": 24,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 100
             },
             {
                 "CE": {
-                    "askPrice": 3.7,
+                    "askPrice": 3.95,
                     "askQty": 4800,
                     "bidQty": 4800,
-                    "bidprice": 3.1,
+                    "bidprice": 3.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1158,106 +1158,106 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 101,
-                    "totalBuyQuantity": 494400,
-                    "totalSellQuantity": 499200,
+                    "totalBuyQuantity": 523200,
+                    "totalSellQuantity": 484800,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 1.2,
-                    "askQty": 9600,
+                    "askPrice": 1.3,
+                    "askQty": 4800,
                     "bidQty": 4800,
-                    "bidprice": 1.1,
-                    "change": -0.19999999999999996,
-                    "changeinOpenInterest": 0,
+                    "bidprice": 1.2,
+                    "change": -0.25,
+                    "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKHINDCOPPER25-05-2023PE101.00",
-                    "impliedVolatility": 43.35,
-                    "lastPrice": 1.3,
-                    "openInterest": 29,
-                    "pChange": -13.33333333333333,
-                    "pchangeinOpenInterest": 0,
+                    "impliedVolatility": 40.21,
+                    "lastPrice": 1.25,
+                    "openInterest": 28,
+                    "pChange": -16.666666666666664,
+                    "pchangeinOpenInterest": -3.4482758620689653,
                     "strikePrice": 101,
-                    "totalBuyQuantity": 1070400,
-                    "totalSellQuantity": 657600,
-                    "totalTradedVolume": 1,
+                    "totalBuyQuantity": 1060800,
+                    "totalSellQuantity": 648000,
+                    "totalTradedVolume": 3,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 101
             },
             {
                 "CE": {
-                    "askPrice": 2.9,
-                    "askQty": 4800,
-                    "bidQty": 9600,
-                    "bidprice": 2.8,
-                    "change": 0.3999999999999999,
+                    "askPrice": 3,
+                    "askQty": 9600,
+                    "bidQty": 4800,
+                    "bidprice": 2.85,
+                    "change": 0.25,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKHINDCOPPER25-05-2023CE102.00",
-                    "impliedVolatility": 35.73,
-                    "lastPrice": 3.05,
+                    "impliedVolatility": 41.45,
+                    "lastPrice": 2.9,
                     "openInterest": 151,
-                    "pChange": 15.094339622641506,
+                    "pChange": 9.433962264150944,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 102,
-                    "totalBuyQuantity": 556800,
-                    "totalSellQuantity": 532800,
-                    "totalTradedVolume": 11,
+                    "totalBuyQuantity": 580800,
+                    "totalSellQuantity": 528000,
+                    "totalTradedVolume": 12,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 1.7,
-                    "askQty": 33600,
-                    "bidQty": 9600,
-                    "bidprice": 1.55,
+                    "askQty": 19200,
+                    "bidQty": 4800,
+                    "bidprice": 1.6,
                     "change": -0.30000000000000004,
                     "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKHINDCOPPER25-05-2023PE102.00",
-                    "impliedVolatility": 36.58,
+                    "impliedVolatility": 35,
                     "lastPrice": 1.55,
                     "openInterest": 93,
                     "pChange": -16.216216216216218,
                     "pchangeinOpenInterest": -3.125,
                     "strikePrice": 102,
-                    "totalBuyQuantity": 758400,
-                    "totalSellQuantity": 763200,
+                    "totalBuyQuantity": 753600,
+                    "totalSellQuantity": 753600,
                     "totalTradedVolume": 9,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 102
             },
             {
                 "CE": {
-                    "askPrice": 3.65,
+                    "askPrice": 3.2,
                     "askQty": 4800,
                     "bidQty": 4800,
-                    "bidprice": 2.3,
+                    "bidprice": 2.5,
                     "change": 0.75,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKHINDCOPPER25-05-2023CE102.50",
-                    "impliedVolatility": 33.08,
+                    "impliedVolatility": 38.4,
                     "lastPrice": 2.6,
                     "openInterest": 15,
                     "pChange": 40.54054054054054,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 102.5,
                     "totalBuyQuantity": 110400,
-                    "totalSellQuantity": 369600,
+                    "totalSellQuantity": 403200,
                     "totalTradedVolume": 2,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 2.6,
+                    "askPrice": 2.8,
                     "askQty": 4800,
                     "bidQty": 4800,
                     "bidprice": 1.5,
@@ -1272,102 +1272,102 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 102.5,
                     "totalBuyQuantity": 379200,
-                    "totalSellQuantity": 523200,
+                    "totalSellQuantity": 499200,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 102.5
             },
             {
                 "CE": {
-                    "askPrice": 2.2,
-                    "askQty": 14400,
+                    "askPrice": 2.25,
+                    "askQty": 19200,
                     "bidQty": 9600,
                     "bidprice": 2.1,
                     "change": 0.10000000000000009,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKHINDCOPPER25-05-2023CE103.00",
-                    "impliedVolatility": 32.88,
+                    "impliedVolatility": 38.65,
                     "lastPrice": 2.2,
                     "openInterest": 128,
                     "pChange": 4.761904761904765,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 103,
-                    "totalBuyQuantity": 604800,
-                    "totalSellQuantity": 734400,
-                    "totalTradedVolume": 47,
+                    "totalBuyQuantity": 609600,
+                    "totalSellQuantity": 729600,
+                    "totalTradedVolume": 48,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 2.1,
-                    "askQty": 9600,
+                    "askPrice": 2.05,
+                    "askQty": 4800,
                     "bidQty": 4800,
-                    "bidprice": 1.95,
+                    "bidprice": 2,
                     "change": -0.5,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKHINDCOPPER25-05-2023PE103.00",
-                    "impliedVolatility": 39.93,
+                    "impliedVolatility": 35.96,
                     "lastPrice": 1.9,
                     "openInterest": 89,
                     "pChange": -20.833333333333336,
                     "pchangeinOpenInterest": -1.1111111111111112,
                     "strikePrice": 103,
-                    "totalBuyQuantity": 657600,
-                    "totalSellQuantity": 705600,
+                    "totalBuyQuantity": 667200,
+                    "totalSellQuantity": 700800,
                     "totalTradedVolume": 4,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 103
             },
             {
                 "CE": {
-                    "askPrice": 1.7,
-                    "askQty": 4800,
-                    "bidQty": 28800,
-                    "bidprice": 1.6,
-                    "change": 0.050000000000000044,
-                    "changeinOpenInterest": 5,
+                    "askPrice": 1.9,
+                    "askQty": 19200,
+                    "bidQty": 9600,
+                    "bidprice": 1.75,
+                    "change": 0.20000000000000018,
+                    "changeinOpenInterest": 6,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKHINDCOPPER25-05-2023CE104.00",
-                    "impliedVolatility": 34.02,
-                    "lastPrice": 1.7,
-                    "openInterest": 165,
-                    "pChange": 3.030303030303033,
-                    "pchangeinOpenInterest": 3.125,
+                    "impliedVolatility": 38.19,
+                    "lastPrice": 1.85,
+                    "openInterest": 166,
+                    "pChange": 12.121212121212132,
+                    "pchangeinOpenInterest": 3.75,
                     "strikePrice": 104,
                     "totalBuyQuantity": 595200,
-                    "totalSellQuantity": 840000,
-                    "totalTradedVolume": 49,
+                    "totalSellQuantity": 811200,
+                    "totalTradedVolume": 57,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 2.65,
-                    "askQty": 9600,
+                    "askPrice": 2.55,
+                    "askQty": 4800,
                     "bidQty": 9600,
-                    "bidprice": 2.5,
-                    "change": -0.30000000000000027,
-                    "changeinOpenInterest": 0,
+                    "bidprice": 2.45,
+                    "change": -0.3500000000000001,
+                    "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKHINDCOPPER25-05-2023PE104.00",
                     "impliedVolatility": 31.99,
-                    "lastPrice": 2.55,
-                    "openInterest": 137,
-                    "pChange": -10.526315789473694,
-                    "pchangeinOpenInterest": 0,
+                    "lastPrice": 2.5,
+                    "openInterest": 138,
+                    "pChange": -12.280701754385968,
+                    "pchangeinOpenInterest": 0.7299270072992701,
                     "strikePrice": 104,
-                    "totalBuyQuantity": 633600,
-                    "totalSellQuantity": 590400,
-                    "totalTradedVolume": 6,
+                    "totalBuyQuantity": 628800,
+                    "totalSellQuantity": 796800,
+                    "totalTradedVolume": 8,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 104
@@ -1375,30 +1375,30 @@
             {
                 "CE": {
                     "askPrice": 1.55,
-                    "askQty": 14400,
-                    "bidQty": 4800,
+                    "askQty": 9600,
+                    "bidQty": 19200,
                     "bidprice": 1.5,
                     "change": 0.10000000000000009,
-                    "changeinOpenInterest": 15,
+                    "changeinOpenInterest": 18,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKHINDCOPPER25-05-2023CE105.00",
                     "impliedVolatility": 39.15,
                     "lastPrice": 1.5,
-                    "openInterest": 684,
+                    "openInterest": 687,
                     "pChange": 7.1428571428571495,
-                    "pchangeinOpenInterest": 2.242152466367713,
+                    "pchangeinOpenInterest": 2.690582959641256,
                     "strikePrice": 105,
-                    "totalBuyQuantity": 1848000,
-                    "totalSellQuantity": 984000,
-                    "totalTradedVolume": 104,
+                    "totalBuyQuantity": 1838400,
+                    "totalSellQuantity": 998400,
+                    "totalTradedVolume": 116,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 3.1,
+                    "askPrice": 3.3,
                     "askQty": 4800,
-                    "bidQty": 14400,
-                    "bidprice": 2.9,
+                    "bidQty": 4800,
+                    "bidprice": 3.15,
                     "change": -0.5500000000000003,
                     "changeinOpenInterest": 10,
                     "expiryDate": "25-May-2023",
@@ -1409,42 +1409,42 @@
                     "pChange": -15.942028985507253,
                     "pchangeinOpenInterest": 3.9840637450199203,
                     "strikePrice": 105,
-                    "totalBuyQuantity": 451200,
-                    "totalSellQuantity": 580800,
+                    "totalBuyQuantity": 676800,
+                    "totalSellQuantity": 542400,
                     "totalTradedVolume": 17,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 105
             },
             {
                 "CE": {
-                    "askPrice": 1.15,
-                    "askQty": 24000,
-                    "bidQty": 14400,
-                    "bidprice": 1,
-                    "change": 0,
+                    "askPrice": 1.25,
+                    "askQty": 9600,
+                    "bidQty": 4800,
+                    "bidprice": 1.15,
+                    "change": 0.04999999999999982,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKHINDCOPPER25-05-2023CE106.00",
                     "impliedVolatility": 42.77,
-                    "lastPrice": 1.1,
+                    "lastPrice": 1.15,
                     "openInterest": 146,
-                    "pChange": 0,
+                    "pChange": 4.545454545454529,
                     "pchangeinOpenInterest": 0.6896551724137931,
                     "strikePrice": 106,
-                    "totalBuyQuantity": 590400,
-                    "totalSellQuantity": 849600,
-                    "totalTradedVolume": 19,
+                    "totalBuyQuantity": 475200,
+                    "totalSellQuantity": 830400,
+                    "totalTradedVolume": 21,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 4.3,
+                    "askPrice": 4.1,
                     "askQty": 4800,
                     "bidQty": 4800,
-                    "bidprice": 3.55,
+                    "bidprice": 3.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1455,39 +1455,39 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 106,
-                    "totalBuyQuantity": 460800,
+                    "totalBuyQuantity": 494400,
                     "totalSellQuantity": 552000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 106
             },
             {
                 "CE": {
-                    "askPrice": 0.9,
-                    "askQty": 19200,
-                    "bidQty": 19200,
-                    "bidprice": 0.7,
+                    "askPrice": 0.95,
+                    "askQty": 4800,
+                    "bidQty": 14400,
+                    "bidprice": 0.8,
                     "change": 0.04999999999999993,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKHINDCOPPER25-05-2023CE107.00",
-                    "impliedVolatility": 36.6,
+                    "impliedVolatility": 38.41,
                     "lastPrice": 0.85,
                     "openInterest": 302,
                     "pChange": 6.249999999999992,
                     "pchangeinOpenInterest": -0.33003300330033003,
                     "strikePrice": 107,
-                    "totalBuyQuantity": 528000,
-                    "totalSellQuantity": 724800,
+                    "totalBuyQuantity": 542400,
+                    "totalSellQuantity": 696000,
                     "totalTradedVolume": 12,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 4.8,
+                    "askPrice": 4.75,
                     "askQty": 4800,
                     "bidQty": 4800,
                     "bidprice": 4.3,
@@ -1495,17 +1495,17 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKHINDCOPPER25-05-2023PE107.00",
-                    "impliedVolatility": 40.74,
+                    "impliedVolatility": 32.96,
                     "lastPrice": 4.3,
                     "openInterest": 25,
                     "pChange": -13.131313131313139,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 107,
-                    "totalBuyQuantity": 494400,
-                    "totalSellQuantity": 590400,
+                    "totalBuyQuantity": 484800,
+                    "totalSellQuantity": 595200,
                     "totalTradedVolume": 1,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 107
@@ -1530,13 +1530,13 @@
                     "totalSellQuantity": 480000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 5.3,
+                    "askPrice": 5.1,
                     "askQty": 4800,
                     "bidQty": 4800,
-                    "bidprice": 4.6,
+                    "bidprice": 4.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1547,11 +1547,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 107.5,
-                    "totalBuyQuantity": 240000,
+                    "totalBuyQuantity": 244800,
                     "totalSellQuantity": 249600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 107.5
@@ -1559,9 +1559,9 @@
             {
                 "CE": {
                     "askPrice": 0.8,
-                    "askQty": 9600,
+                    "askQty": 4800,
                     "bidQty": 4800,
-                    "bidprice": 0.65,
+                    "bidprice": 0.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1572,17 +1572,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 108,
-                    "totalBuyQuantity": 892800,
-                    "totalSellQuantity": 705600,
+                    "totalBuyQuantity": 883200,
+                    "totalSellQuantity": 700800,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 6,
+                    "askPrice": 5.75,
                     "askQty": 4800,
-                    "bidQty": 24000,
-                    "bidprice": 5,
+                    "bidQty": 4800,
+                    "bidprice": 4.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1593,21 +1593,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 108,
-                    "totalBuyQuantity": 302400,
-                    "totalSellQuantity": 312000,
+                    "totalBuyQuantity": 278400,
+                    "totalSellQuantity": 302400,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 108
             },
             {
                 "CE": {
-                    "askPrice": 0.6,
+                    "askPrice": 0.65,
                     "askQty": 4800,
-                    "bidQty": 9600,
-                    "bidprice": 0.5,
+                    "bidQty": 4800,
+                    "bidprice": 0.55,
                     "change": 0,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
@@ -1619,14 +1619,14 @@
                     "pchangeinOpenInterest": -1.7857142857142858,
                     "strikePrice": 109,
                     "totalBuyQuantity": 868800,
-                    "totalSellQuantity": 859200,
+                    "totalSellQuantity": 854400,
                     "totalTradedVolume": 2,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 7,
-                    "askQty": 9600,
+                    "askPrice": 6.75,
+                    "askQty": 4800,
                     "bidQty": 4800,
                     "bidprice": 6.1,
                     "change": 0,
@@ -1639,11 +1639,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 109,
-                    "totalBuyQuantity": 268800,
+                    "totalBuyQuantity": 249600,
                     "totalSellQuantity": 57600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 109
@@ -1655,26 +1655,26 @@
                     "bidQty": 43200,
                     "bidprice": 0.45,
                     "change": 0,
-                    "changeinOpenInterest": -10,
+                    "changeinOpenInterest": -13,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKHINDCOPPER25-05-2023CE110.00",
-                    "impliedVolatility": 42.86,
+                    "impliedVolatility": 43.76,
                     "lastPrice": 0.5,
-                    "openInterest": 488,
+                    "openInterest": 485,
                     "pChange": 0,
-                    "pchangeinOpenInterest": -2.0080321285140563,
+                    "pchangeinOpenInterest": -2.610441767068273,
                     "strikePrice": 110,
                     "totalBuyQuantity": 2625600,
                     "totalSellQuantity": 1118400,
                     "totalTradedVolume": 20,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 7.65,
+                    "askPrice": 7.5,
                     "askQty": 4800,
                     "bidQty": 4800,
-                    "bidprice": 6.95,
+                    "bidprice": 6.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1685,11 +1685,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 110,
-                    "totalBuyQuantity": 460800,
+                    "totalBuyQuantity": 427200,
                     "totalSellQuantity": 417600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 110
@@ -1704,7 +1704,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKHINDCOPPER25-05-2023CE111.00",
-                    "impliedVolatility": 42.51,
+                    "impliedVolatility": 44.66,
                     "lastPrice": 0.4,
                     "openInterest": 29,
                     "pChange": 14.285714285714299,
@@ -1714,13 +1714,13 @@
                     "totalSellQuantity": 624000,
                     "totalTradedVolume": 5,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 8.95,
+                    "askPrice": 8.7,
                     "askQty": 4800,
                     "bidQty": 4800,
-                    "bidprice": 7.35,
+                    "bidprice": 7.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1735,7 +1735,7 @@
                     "totalSellQuantity": 240000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 111
@@ -1750,7 +1750,7 @@
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKHINDCOPPER25-05-2023CE112.00",
-                    "impliedVolatility": 44.62,
+                    "impliedVolatility": 46.68,
                     "lastPrice": 0.35,
                     "openInterest": 52,
                     "pChange": 0,
@@ -1760,13 +1760,13 @@
                     "totalSellQuantity": 427200,
                     "totalTradedVolume": 4,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 9.35,
+                    "askPrice": 9.95,
                     "askQty": 4800,
                     "bidQty": 4800,
-                    "bidprice": 8.05,
+                    "bidprice": 8.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1781,16 +1781,16 @@
                     "totalSellQuantity": 225600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 112
             },
             {
                 "CE": {
-                    "askPrice": 0.35,
-                    "askQty": 4800,
-                    "bidQty": 9600,
+                    "askPrice": 0.4,
+                    "askQty": 9600,
+                    "bidQty": 33600,
                     "bidprice": 0.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -1802,11 +1802,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 112.5,
-                    "totalBuyQuantity": 220800,
-                    "totalSellQuantity": 460800,
-                    "totalTradedVolume": 2,
+                    "totalBuyQuantity": 302400,
+                    "totalSellQuantity": 360000,
+                    "totalTradedVolume": 8,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 10.4,
@@ -1827,7 +1827,7 @@
                     "totalSellQuantity": 225600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 112.5
@@ -1852,7 +1852,7 @@
                     "totalSellQuantity": 470400,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 10.6,
@@ -1873,7 +1873,7 @@
                     "totalSellQuantity": 225600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 113
@@ -1898,10 +1898,10 @@
                     "totalSellQuantity": 292800,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 12.5,
+                    "askPrice": 12.9,
                     "askQty": 4800,
                     "bidQty": 4800,
                     "bidprice": 10.2,
@@ -1919,7 +1919,7 @@
                     "totalSellQuantity": 225600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 114
@@ -1927,30 +1927,30 @@
             {
                 "CE": {
                     "askPrice": 0.25,
-                    "askQty": 48000,
-                    "bidQty": 48000,
+                    "askQty": 62400,
+                    "bidQty": 43200,
                     "bidprice": 0.2,
                     "change": 0,
-                    "changeinOpenInterest": 0,
+                    "changeinOpenInterest": -4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKHINDCOPPER25-05-2023CE115.00",
                     "impliedVolatility": 50.18,
                     "lastPrice": 0.2,
-                    "openInterest": 256,
+                    "openInterest": 252,
                     "pChange": 0,
-                    "pchangeinOpenInterest": 0,
+                    "pchangeinOpenInterest": -1.5625,
                     "strikePrice": 115,
-                    "totalBuyQuantity": 1608000,
-                    "totalSellQuantity": 916800,
-                    "totalTradedVolume": 9,
+                    "totalBuyQuantity": 1598400,
+                    "totalSellQuantity": 931200,
+                    "totalTradedVolume": 11,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 12.25,
+                    "askPrice": 12.8,
                     "askQty": 4800,
                     "bidQty": 4800,
-                    "bidprice": 11,
+                    "bidprice": 11.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1965,7 +1965,7 @@
                     "totalSellQuantity": 225600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 115
@@ -1990,7 +1990,7 @@
                     "totalSellQuantity": 441600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 13.85,
@@ -2011,7 +2011,7 @@
                     "totalSellQuantity": 225600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 116
@@ -2036,13 +2036,13 @@
                     "totalSellQuantity": 422400,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 14.2,
+                    "askPrice": 14.8,
                     "askQty": 4800,
                     "bidQty": 4800,
-                    "bidprice": 12.95,
+                    "bidprice": 13.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2057,7 +2057,7 @@
                     "totalSellQuantity": 225600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 117
@@ -2082,13 +2082,13 @@
                     "totalSellQuantity": 427200,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 15.2,
                     "askQty": 4800,
                     "bidQty": 4800,
-                    "bidprice": 13.45,
+                    "bidprice": 13.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2103,7 +2103,7 @@
                     "totalSellQuantity": 225600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 117.5
@@ -2128,10 +2128,10 @@
                     "totalSellQuantity": 417600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 16.9,
+                    "askPrice": 16.7,
                     "askQty": 4800,
                     "bidQty": 4800,
                     "bidprice": 13.15,
@@ -2149,7 +2149,7 @@
                     "totalSellQuantity": 196800,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 118
@@ -2174,7 +2174,7 @@
                     "totalSellQuantity": 417600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 17.9,
@@ -2195,7 +2195,7 @@
                     "totalSellQuantity": 196800,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 119
@@ -2203,8 +2203,8 @@
             {
                 "CE": {
                     "askPrice": 0.2,
-                    "askQty": 235200,
-                    "bidQty": 134400,
+                    "askQty": 244800,
+                    "bidQty": 129600,
                     "bidprice": 0.15,
                     "change": 0,
                     "changeinOpenInterest": -13,
@@ -2216,11 +2216,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": -0.9142053445850914,
                     "strikePrice": 120,
-                    "totalBuyQuantity": 3436800,
-                    "totalSellQuantity": 1598400,
-                    "totalTradedVolume": 48,
+                    "totalBuyQuantity": 3432000,
+                    "totalSellQuantity": 1593600,
+                    "totalTradedVolume": 49,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 17.65,
@@ -2241,7 +2241,7 @@
                     "totalSellQuantity": 225600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 120
@@ -2266,7 +2266,7 @@
                     "totalSellQuantity": 249600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 18.2,
@@ -2287,7 +2287,7 @@
                     "totalSellQuantity": 220800,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 121
@@ -2312,7 +2312,7 @@
                     "totalSellQuantity": 384000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 22.9,
@@ -2333,7 +2333,7 @@
                     "totalSellQuantity": 206400,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 122
@@ -2358,10 +2358,10 @@
                     "totalSellQuantity": 24000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 22.7,
+                    "askPrice": 22,
                     "askQty": 14400,
                     "bidQty": 14400,
                     "bidprice": 18.1,
@@ -2379,7 +2379,7 @@
                     "totalSellQuantity": 206400,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 123
@@ -2408,7 +2408,7 @@
                     "totalSellQuantity": 206400,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 2.05,
@@ -2429,7 +2429,7 @@
                     "totalSellQuantity": 196800,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 77.5
@@ -2454,7 +2454,7 @@
                     "totalSellQuantity": 206400,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 0.3,
@@ -2475,7 +2475,7 @@
                     "totalSellQuantity": 225600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 80
@@ -2500,17 +2500,17 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 81
             },
             {
                 "CE": {
-                    "askPrice": 24.55,
+                    "askPrice": 24.45,
                     "askQty": 192000,
-                    "bidQty": 192000,
-                    "bidprice": 19.4,
+                    "bidQty": 14400,
+                    "bidprice": 20.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2521,11 +2521,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 81,
-                    "totalBuyQuantity": 192000,
+                    "totalBuyQuantity": 206400,
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2546,17 +2546,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 81
             },
             {
                 "CE": {
-                    "askPrice": 23.55,
+                    "askPrice": 23.45,
                     "askQty": 192000,
                     "bidQty": 14400,
-                    "bidprice": 18.6,
+                    "bidprice": 19.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2571,7 +2571,7 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 82
@@ -2596,7 +2596,7 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 82
@@ -2621,7 +2621,7 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2642,7 +2642,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 82.5
@@ -2667,17 +2667,17 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 83
             },
             {
                 "CE": {
-                    "askPrice": 22.55,
+                    "askPrice": 22.45,
                     "askQty": 192000,
                     "bidQty": 14400,
-                    "bidprice": 18.35,
+                    "bidprice": 18.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2692,7 +2692,7 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2713,7 +2713,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 83
@@ -2738,7 +2738,7 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2759,17 +2759,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 84
             },
             {
                 "CE": {
-                    "askPrice": 22,
+                    "askPrice": 21.4,
                     "askQty": 192000,
                     "bidQty": 14400,
-                    "bidprice": 18.2,
+                    "bidprice": 17.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2784,7 +2784,7 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2805,7 +2805,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 84
@@ -2830,7 +2830,7 @@
                     "totalSellQuantity": 211200,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 0.35,
@@ -2851,7 +2851,7 @@
                     "totalSellQuantity": 216000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 85
@@ -2876,7 +2876,7 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2897,17 +2897,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 85
             },
             {
                 "CE": {
-                    "askPrice": 20.05,
-                    "askQty": 14400,
-                    "bidQty": 0,
-                    "bidprice": 0,
+                    "askPrice": 19.55,
+                    "askQty": 192000,
+                    "bidQty": 14400,
+                    "bidprice": 15.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2918,14 +2918,14 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 86,
-                    "totalBuyQuantity": 0,
-                    "totalSellQuantity": 206400,
+                    "totalBuyQuantity": 206400,
+                    "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 1.75,
+                    "askPrice": 1.85,
                     "askQty": 192000,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -2943,7 +2943,7 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 86
@@ -2968,7 +2968,7 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2989,17 +2989,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 86
             },
             {
                 "CE": {
-                    "askPrice": 22.25,
-                    "askQty": 14400,
+                    "askPrice": 18.5,
+                    "askQty": 192000,
                     "bidQty": 14400,
-                    "bidprice": 13.75,
+                    "bidprice": 14.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3011,10 +3011,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 87,
                     "totalBuyQuantity": 206400,
-                    "totalSellQuantity": 206400,
+                    "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3035,7 +3035,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 87
@@ -3060,7 +3060,7 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3081,14 +3081,14 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 87
             },
             {
                 "CE": {
-                    "askPrice": 17.75,
+                    "askPrice": 20.05,
                     "askQty": 192000,
                     "bidQty": 14400,
                     "bidprice": 13.9,
@@ -3106,10 +3106,10 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 1.7,
+                    "askPrice": 1.85,
                     "askQty": 192000,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -3127,7 +3127,7 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 87.5
@@ -3152,7 +3152,7 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3173,17 +3173,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 88
             },
             {
                 "CE": {
-                    "askPrice": 20.55,
+                    "askPrice": 17.25,
                     "askQty": 192000,
                     "bidQty": 14400,
-                    "bidprice": 14.15,
+                    "bidprice": 13.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3198,7 +3198,7 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 1.85,
@@ -3219,17 +3219,17 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 88
             },
             {
                 "CE": {
-                    "askPrice": 0,
-                    "askQty": 0,
+                    "askPrice": 22.45,
+                    "askQty": 14400,
                     "bidQty": 14400,
-                    "bidprice": 13.2,
+                    "bidprice": 12.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3241,10 +3241,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 89,
                     "totalBuyQuantity": 206400,
-                    "totalSellQuantity": 0,
+                    "totalSellQuantity": 206400,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 1.9,
@@ -3265,7 +3265,7 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 89
@@ -3290,7 +3290,7 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3311,7 +3311,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 89
@@ -3336,7 +3336,7 @@
                     "totalSellQuantity": 235200,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 0.2,
@@ -3357,7 +3357,7 @@
                     "totalSellQuantity": 211200,
                     "totalTradedVolume": 2,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 90
@@ -3382,7 +3382,7 @@
                     "totalSellQuantity": 206400,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 1,
@@ -3403,7 +3403,7 @@
                     "totalSellQuantity": 24000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 90
@@ -3413,7 +3413,7 @@
                     "askPrice": 17,
                     "askQty": 192000,
                     "bidQty": 14400,
-                    "bidprice": 11.2,
+                    "bidprice": 10.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3428,7 +3428,7 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 91
@@ -3453,17 +3453,38 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
+                },
+                "PE": {
+                    "askPrice": 0,
+                    "askQty": 0,
+                    "bidQty": 4800,
+                    "bidprice": 0.1,
+                    "change": 0,
+                    "changeinOpenInterest": 0,
+                    "expiryDate": "29-Jun-2023",
+                    "identifier": "OPTSTKHINDCOPPER29-06-2023PE91.00",
+                    "impliedVolatility": 0,
+                    "lastPrice": 0,
+                    "openInterest": 0,
+                    "pChange": 0,
+                    "pchangeinOpenInterest": 0,
+                    "strikePrice": 91,
+                    "totalBuyQuantity": 9600,
+                    "totalSellQuantity": 0,
+                    "totalTradedVolume": 0,
+                    "underlying": "HINDCOPPER",
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 91
             },
             {
                 "CE": {
-                    "askPrice": 14.9,
+                    "askPrice": 14.5,
                     "askQty": 4800,
                     "bidQty": 4800,
-                    "bidprice": 10.1,
+                    "bidprice": 9.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3478,7 +3499,7 @@
                     "totalSellQuantity": 196800,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 2.35,
@@ -3499,7 +3520,7 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 92
@@ -3524,17 +3545,38 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
+                },
+                "PE": {
+                    "askPrice": 0,
+                    "askQty": 0,
+                    "bidQty": 4800,
+                    "bidprice": 0.1,
+                    "change": 0,
+                    "changeinOpenInterest": 0,
+                    "expiryDate": "29-Jun-2023",
+                    "identifier": "OPTSTKHINDCOPPER29-06-2023PE92.00",
+                    "impliedVolatility": 0,
+                    "lastPrice": 0,
+                    "openInterest": 0,
+                    "pChange": 0,
+                    "pchangeinOpenInterest": 0,
+                    "strikePrice": 92,
+                    "totalBuyQuantity": 9600,
+                    "totalSellQuantity": 0,
+                    "totalTradedVolume": 0,
+                    "underlying": "HINDCOPPER",
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 92
             },
             {
                 "CE": {
-                    "askPrice": 14.25,
+                    "askPrice": 14.15,
                     "askQty": 4800,
                     "bidQty": 4800,
-                    "bidprice": 8.95,
+                    "bidprice": 9.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3549,7 +3591,7 @@
                     "totalSellQuantity": 196800,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 1.8,
@@ -3570,7 +3612,7 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 92.5
@@ -3580,7 +3622,7 @@
                     "askPrice": 15.25,
                     "askQty": 4800,
                     "bidQty": 4800,
-                    "bidprice": 8.45,
+                    "bidprice": 8.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3595,7 +3637,7 @@
                     "totalSellQuantity": 196800,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 93
@@ -3620,7 +3662,7 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -3641,7 +3683,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 93
@@ -3666,7 +3708,7 @@
                     "totalSellQuantity": 225600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 0.25,
@@ -3687,7 +3729,7 @@
                     "totalSellQuantity": 240000,
                     "totalTradedVolume": 2,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 94
@@ -3712,17 +3754,17 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 94
             },
             {
                 "CE": {
-                    "askPrice": 9.25,
-                    "askQty": 24000,
+                    "askPrice": 8.65,
+                    "askQty": 4800,
                     "bidQty": 4800,
-                    "bidprice": 8.4,
+                    "bidprice": 8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3737,11 +3779,11 @@
                     "totalSellQuantity": 259200,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 0.25,
-                    "askQty": 19200,
+                    "askQty": 4800,
                     "bidQty": 14400,
                     "bidprice": 0.2,
                     "change": -0.09999999999999998,
@@ -3754,19 +3796,19 @@
                     "pChange": -28.571428571428566,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 95,
-                    "totalBuyQuantity": 360000,
-                    "totalSellQuantity": 849600,
+                    "totalBuyQuantity": 283200,
+                    "totalSellQuantity": 734400,
                     "totalTradedVolume": 10,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 95
             },
             {
                 "CE": {
-                    "askPrice": 12.5,
-                    "askQty": 14400,
+                    "askPrice": 12.3,
+                    "askQty": 4800,
                     "bidQty": 24000,
                     "bidprice": 4.05,
                     "change": 0,
@@ -3780,10 +3822,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 95,
                     "totalBuyQuantity": 24000,
-                    "totalSellQuantity": 206400,
+                    "totalSellQuantity": 196800,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 1.5,
@@ -3800,18 +3842,18 @@
                     "pChange": -3.448275862068969,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 95,
-                    "totalBuyQuantity": 57600,
+                    "totalBuyQuantity": 62400,
                     "totalSellQuantity": 57600,
                     "totalTradedVolume": 1,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 95
             },
             {
                 "CE": {
-                    "askPrice": 9.15,
+                    "askPrice": 9.55,
                     "askQty": 4800,
                     "bidQty": 4800,
                     "bidprice": 7.1,
@@ -3829,10 +3871,10 @@
                     "totalSellQuantity": 240000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 1.4,
+                    "askPrice": 1.95,
                     "askQty": 4800,
                     "bidQty": 4800,
                     "bidprice": 0.25,
@@ -3847,10 +3889,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 96,
                     "totalBuyQuantity": 52800,
-                    "totalSellQuantity": 518400,
+                    "totalSellQuantity": 297600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 96
@@ -3875,14 +3917,14 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 96
             },
             {
                 "CE": {
-                    "askPrice": 7.25,
+                    "askPrice": 7.05,
                     "askQty": 4800,
                     "bidQty": 4800,
                     "bidprice": 6,
@@ -3900,12 +3942,12 @@
                     "totalSellQuantity": 240000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 0.45,
-                    "askQty": 4800,
-                    "bidQty": 4800,
+                    "askPrice": 0.55,
+                    "askQty": 9600,
+                    "bidQty": 9600,
                     "bidprice": 0.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -3917,11 +3959,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 97,
-                    "totalBuyQuantity": 230400,
-                    "totalSellQuantity": 427200,
+                    "totalBuyQuantity": 235200,
+                    "totalSellQuantity": 417600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 97
@@ -3946,17 +3988,17 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 97
             },
             {
                 "CE": {
-                    "askPrice": 8.5,
+                    "askPrice": 8.15,
                     "askQty": 4800,
                     "bidQty": 4800,
-                    "bidprice": 5.35,
+                    "bidprice": 5.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3971,7 +4013,7 @@
                     "totalSellQuantity": 240000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 1.9,
@@ -3992,17 +4034,17 @@
                     "totalSellQuantity": 432000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 97.5
             },
             {
                 "CE": {
-                    "askPrice": 6.55,
+                    "askPrice": 6.3,
                     "askQty": 4800,
                     "bidQty": 4800,
-                    "bidprice": 5.6,
+                    "bidprice": 5.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4017,38 +4059,38 @@
                     "totalSellQuantity": 240000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 0.65,
-                    "askQty": 9600,
+                    "askQty": 14400,
                     "bidQty": 9600,
-                    "bidprice": 0.45,
+                    "bidprice": 0.5,
                     "change": -0.25,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKHINDCOPPER25-05-2023PE98.00",
-                    "impliedVolatility": 42.04,
+                    "impliedVolatility": 39.75,
                     "lastPrice": 0.5,
                     "openInterest": 38,
                     "pChange": -33.33333333333333,
                     "pchangeinOpenInterest": -2.5641025641025643,
                     "strikePrice": 98,
                     "totalBuyQuantity": 436800,
-                    "totalSellQuantity": 580800,
+                    "totalSellQuantity": 585600,
                     "totalTradedVolume": 5,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 98
             },
             {
                 "CE": {
-                    "askPrice": 5.6,
+                    "askPrice": 5.4,
                     "askQty": 4800,
                     "bidQty": 4800,
-                    "bidprice": 4.7,
+                    "bidprice": 4.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4063,7 +4105,7 @@
                     "totalSellQuantity": 331200,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 0.85,
@@ -4084,7 +4126,7 @@
                     "totalSellQuantity": 748800,
                     "totalTradedVolume": 1,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 99
@@ -4094,7 +4136,7 @@
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 4800,
-                    "bidprice": 1.75,
+                    "bidprice": 1.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4109,14 +4151,14 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 99
             },
             {
                 "CE": {
-                    "askPrice": 4.4,
+                    "askPrice": 4.45,
                     "askQty": 4800,
                     "bidQty": 9600,
                     "bidprice": 4,
@@ -4124,48 +4166,48 @@
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKHINDCOPPER25-05-2023CE100.00",
-                    "impliedVolatility": 38.11,
+                    "impliedVolatility": 42.9,
                     "lastPrice": 4.4,
                     "openInterest": 109,
                     "pChange": 10.000000000000009,
                     "pchangeinOpenInterest": -1.8018018018018018,
                     "strikePrice": 100,
-                    "totalBuyQuantity": 508800,
-                    "totalSellQuantity": 528000,
+                    "totalBuyQuantity": 504000,
+                    "totalSellQuantity": 537600,
                     "totalTradedVolume": 3,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 1.1,
-                    "askQty": 14400,
-                    "bidQty": 33600,
-                    "bidprice": 0.95,
-                    "change": -0.30000000000000004,
-                    "changeinOpenInterest": -6,
+                    "askQty": 9600,
+                    "bidQty": 19200,
+                    "bidprice": 1.05,
+                    "change": -0.19999999999999996,
+                    "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKHINDCOPPER25-05-2023PE100.00",
-                    "impliedVolatility": 39.06,
-                    "lastPrice": 0.95,
-                    "openInterest": 343,
-                    "pChange": -24.000000000000004,
-                    "pchangeinOpenInterest": -1.7191977077363896,
+                    "impliedVolatility": 39.58,
+                    "lastPrice": 1.05,
+                    "openInterest": 347,
+                    "pChange": -15.999999999999998,
+                    "pchangeinOpenInterest": -0.5730659025787965,
                     "strikePrice": 100,
-                    "totalBuyQuantity": 2280000,
-                    "totalSellQuantity": 720000,
-                    "totalTradedVolume": 12,
+                    "totalBuyQuantity": 2251200,
+                    "totalSellQuantity": 724800,
+                    "totalTradedVolume": 24,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 100
             },
             {
                 "CE": {
-                    "askPrice": 7.25,
+                    "askPrice": 7.1,
                     "askQty": 4800,
-                    "bidQty": 4800,
-                    "bidprice": 7,
+                    "bidQty": 14400,
+                    "bidprice": 6.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4180,38 +4222,38 @@
                     "totalSellQuantity": 206400,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 3.05,
+                    "askPrice": 3,
                     "askQty": 4800,
-                    "bidQty": 19200,
-                    "bidprice": 2.9,
-                    "change": -0.050000000000000266,
-                    "changeinOpenInterest": 0,
+                    "bidQty": 14400,
+                    "bidprice": 2.85,
+                    "change": 0,
+                    "changeinOpenInterest": 3,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKHINDCOPPER29-06-2023PE100.00",
                     "impliedVolatility": 34.58,
-                    "lastPrice": 2.9,
-                    "openInterest": 38,
-                    "pChange": -1.6949152542372972,
-                    "pchangeinOpenInterest": 0,
+                    "lastPrice": 2.95,
+                    "openInterest": 41,
+                    "pChange": 0,
+                    "pchangeinOpenInterest": 7.894736842105263,
                     "strikePrice": 100,
-                    "totalBuyQuantity": 523200,
+                    "totalBuyQuantity": 508800,
                     "totalSellQuantity": 244800,
-                    "totalTradedVolume": 3,
+                    "totalTradedVolume": 4,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 100
             },
             {
                 "CE": {
-                    "askPrice": 3.7,
+                    "askPrice": 3.95,
                     "askQty": 4800,
                     "bidQty": 4800,
-                    "bidprice": 3.1,
+                    "bidprice": 3.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4222,32 +4264,32 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 101,
-                    "totalBuyQuantity": 494400,
-                    "totalSellQuantity": 499200,
+                    "totalBuyQuantity": 523200,
+                    "totalSellQuantity": 484800,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 1.2,
-                    "askQty": 9600,
+                    "askPrice": 1.3,
+                    "askQty": 4800,
                     "bidQty": 4800,
-                    "bidprice": 1.1,
-                    "change": -0.19999999999999996,
-                    "changeinOpenInterest": 0,
+                    "bidprice": 1.2,
+                    "change": -0.25,
+                    "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKHINDCOPPER25-05-2023PE101.00",
-                    "impliedVolatility": 43.35,
-                    "lastPrice": 1.3,
-                    "openInterest": 29,
-                    "pChange": -13.33333333333333,
-                    "pchangeinOpenInterest": 0,
+                    "impliedVolatility": 40.21,
+                    "lastPrice": 1.25,
+                    "openInterest": 28,
+                    "pChange": -16.666666666666664,
+                    "pchangeinOpenInterest": -3.4482758620689653,
                     "strikePrice": 101,
-                    "totalBuyQuantity": 1070400,
-                    "totalSellQuantity": 657600,
-                    "totalTradedVolume": 1,
+                    "totalBuyQuantity": 1060800,
+                    "totalSellQuantity": 648000,
+                    "totalTradedVolume": 3,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 101
@@ -4272,7 +4314,7 @@
                     "totalSellQuantity": 4800,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -4293,53 +4335,53 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 101
             },
             {
                 "CE": {
-                    "askPrice": 2.9,
-                    "askQty": 4800,
-                    "bidQty": 9600,
-                    "bidprice": 2.8,
-                    "change": 0.3999999999999999,
+                    "askPrice": 3,
+                    "askQty": 9600,
+                    "bidQty": 4800,
+                    "bidprice": 2.85,
+                    "change": 0.25,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKHINDCOPPER25-05-2023CE102.00",
-                    "impliedVolatility": 35.73,
-                    "lastPrice": 3.05,
+                    "impliedVolatility": 41.45,
+                    "lastPrice": 2.9,
                     "openInterest": 151,
-                    "pChange": 15.094339622641506,
+                    "pChange": 9.433962264150944,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 102,
-                    "totalBuyQuantity": 556800,
-                    "totalSellQuantity": 532800,
-                    "totalTradedVolume": 11,
+                    "totalBuyQuantity": 580800,
+                    "totalSellQuantity": 528000,
+                    "totalTradedVolume": 12,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 1.7,
-                    "askQty": 33600,
-                    "bidQty": 9600,
-                    "bidprice": 1.55,
+                    "askQty": 19200,
+                    "bidQty": 4800,
+                    "bidprice": 1.6,
                     "change": -0.30000000000000004,
                     "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKHINDCOPPER25-05-2023PE102.00",
-                    "impliedVolatility": 36.58,
+                    "impliedVolatility": 35,
                     "lastPrice": 1.55,
                     "openInterest": 93,
                     "pChange": -16.216216216216218,
                     "pchangeinOpenInterest": -3.125,
                     "strikePrice": 102,
-                    "totalBuyQuantity": 758400,
-                    "totalSellQuantity": 763200,
+                    "totalBuyQuantity": 753600,
+                    "totalSellQuantity": 753600,
                     "totalTradedVolume": 9,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 102
@@ -4364,7 +4406,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -4385,35 +4427,35 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 102
             },
             {
                 "CE": {
-                    "askPrice": 3.65,
+                    "askPrice": 3.2,
                     "askQty": 4800,
                     "bidQty": 4800,
-                    "bidprice": 2.3,
+                    "bidprice": 2.5,
                     "change": 0.75,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKHINDCOPPER25-05-2023CE102.50",
-                    "impliedVolatility": 33.08,
+                    "impliedVolatility": 38.4,
                     "lastPrice": 2.6,
                     "openInterest": 15,
                     "pChange": 40.54054054054054,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 102.5,
                     "totalBuyQuantity": 110400,
-                    "totalSellQuantity": 369600,
+                    "totalSellQuantity": 403200,
                     "totalTradedVolume": 2,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 2.6,
+                    "askPrice": 2.8,
                     "askQty": 4800,
                     "bidQty": 4800,
                     "bidprice": 1.5,
@@ -4428,56 +4470,56 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 102.5,
                     "totalBuyQuantity": 379200,
-                    "totalSellQuantity": 523200,
+                    "totalSellQuantity": 499200,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 102.5
             },
             {
                 "CE": {
-                    "askPrice": 2.2,
-                    "askQty": 14400,
+                    "askPrice": 2.25,
+                    "askQty": 19200,
                     "bidQty": 9600,
                     "bidprice": 2.1,
                     "change": 0.10000000000000009,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKHINDCOPPER25-05-2023CE103.00",
-                    "impliedVolatility": 32.88,
+                    "impliedVolatility": 38.65,
                     "lastPrice": 2.2,
                     "openInterest": 128,
                     "pChange": 4.761904761904765,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 103,
-                    "totalBuyQuantity": 604800,
-                    "totalSellQuantity": 734400,
-                    "totalTradedVolume": 47,
+                    "totalBuyQuantity": 609600,
+                    "totalSellQuantity": 729600,
+                    "totalTradedVolume": 48,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 2.1,
-                    "askQty": 9600,
+                    "askPrice": 2.05,
+                    "askQty": 4800,
                     "bidQty": 4800,
-                    "bidprice": 1.95,
+                    "bidprice": 2,
                     "change": -0.5,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKHINDCOPPER25-05-2023PE103.00",
-                    "impliedVolatility": 39.93,
+                    "impliedVolatility": 35.96,
                     "lastPrice": 1.9,
                     "openInterest": 89,
                     "pChange": -20.833333333333336,
                     "pchangeinOpenInterest": -1.1111111111111112,
                     "strikePrice": 103,
-                    "totalBuyQuantity": 657600,
-                    "totalSellQuantity": 705600,
+                    "totalBuyQuantity": 667200,
+                    "totalSellQuantity": 700800,
                     "totalTradedVolume": 4,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 103
@@ -4502,7 +4544,7 @@
                     "totalSellQuantity": 9600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -4523,7 +4565,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 103
@@ -4548,13 +4590,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 4800,
-                    "bidprice": 3.4,
+                    "bidprice": 3.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4569,53 +4611,53 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 104
             },
             {
                 "CE": {
-                    "askPrice": 1.7,
-                    "askQty": 4800,
-                    "bidQty": 28800,
-                    "bidprice": 1.6,
-                    "change": 0.050000000000000044,
-                    "changeinOpenInterest": 5,
+                    "askPrice": 1.9,
+                    "askQty": 19200,
+                    "bidQty": 9600,
+                    "bidprice": 1.75,
+                    "change": 0.20000000000000018,
+                    "changeinOpenInterest": 6,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKHINDCOPPER25-05-2023CE104.00",
-                    "impliedVolatility": 34.02,
-                    "lastPrice": 1.7,
-                    "openInterest": 165,
-                    "pChange": 3.030303030303033,
-                    "pchangeinOpenInterest": 3.125,
+                    "impliedVolatility": 38.19,
+                    "lastPrice": 1.85,
+                    "openInterest": 166,
+                    "pChange": 12.121212121212132,
+                    "pchangeinOpenInterest": 3.75,
                     "strikePrice": 104,
                     "totalBuyQuantity": 595200,
-                    "totalSellQuantity": 840000,
-                    "totalTradedVolume": 49,
+                    "totalSellQuantity": 811200,
+                    "totalTradedVolume": 57,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 2.65,
-                    "askQty": 9600,
+                    "askPrice": 2.55,
+                    "askQty": 4800,
                     "bidQty": 9600,
-                    "bidprice": 2.5,
-                    "change": -0.30000000000000027,
-                    "changeinOpenInterest": 0,
+                    "bidprice": 2.45,
+                    "change": -0.3500000000000001,
+                    "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKHINDCOPPER25-05-2023PE104.00",
                     "impliedVolatility": 31.99,
-                    "lastPrice": 2.55,
-                    "openInterest": 137,
-                    "pChange": -10.526315789473694,
-                    "pchangeinOpenInterest": 0,
+                    "lastPrice": 2.5,
+                    "openInterest": 138,
+                    "pChange": -12.280701754385968,
+                    "pchangeinOpenInterest": 0.7299270072992701,
                     "strikePrice": 104,
-                    "totalBuyQuantity": 633600,
-                    "totalSellQuantity": 590400,
-                    "totalTradedVolume": 6,
+                    "totalBuyQuantity": 628800,
+                    "totalSellQuantity": 796800,
+                    "totalTradedVolume": 8,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 104
@@ -4640,7 +4682,7 @@
                     "totalSellQuantity": 5300,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 104
@@ -4648,30 +4690,30 @@
             {
                 "CE": {
                     "askPrice": 1.55,
-                    "askQty": 14400,
-                    "bidQty": 4800,
+                    "askQty": 9600,
+                    "bidQty": 19200,
                     "bidprice": 1.5,
                     "change": 0.10000000000000009,
-                    "changeinOpenInterest": 15,
+                    "changeinOpenInterest": 18,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKHINDCOPPER25-05-2023CE105.00",
                     "impliedVolatility": 39.15,
                     "lastPrice": 1.5,
-                    "openInterest": 684,
+                    "openInterest": 687,
                     "pChange": 7.1428571428571495,
-                    "pchangeinOpenInterest": 2.242152466367713,
+                    "pchangeinOpenInterest": 2.690582959641256,
                     "strikePrice": 105,
-                    "totalBuyQuantity": 1848000,
-                    "totalSellQuantity": 984000,
-                    "totalTradedVolume": 104,
+                    "totalBuyQuantity": 1838400,
+                    "totalSellQuantity": 998400,
+                    "totalTradedVolume": 116,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 3.1,
+                    "askPrice": 3.3,
                     "askQty": 4800,
-                    "bidQty": 14400,
-                    "bidprice": 2.9,
+                    "bidQty": 4800,
+                    "bidprice": 3.15,
                     "change": -0.5500000000000003,
                     "changeinOpenInterest": 10,
                     "expiryDate": "25-May-2023",
@@ -4682,42 +4724,42 @@
                     "pChange": -15.942028985507253,
                     "pchangeinOpenInterest": 3.9840637450199203,
                     "strikePrice": 105,
-                    "totalBuyQuantity": 451200,
-                    "totalSellQuantity": 580800,
+                    "totalBuyQuantity": 676800,
+                    "totalSellQuantity": 542400,
                     "totalTradedVolume": 17,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 105
             },
             {
                 "CE": {
-                    "askPrice": 4.3,
+                    "askPrice": 4.45,
                     "askQty": 9600,
-                    "bidQty": 9600,
-                    "bidprice": 4.15,
+                    "bidQty": 4800,
+                    "bidprice": 4.3,
                     "change": 0.25,
-                    "changeinOpenInterest": 0,
+                    "changeinOpenInterest": 1,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKHINDCOPPER29-06-2023CE105.00",
-                    "impliedVolatility": 32.79,
+                    "impliedVolatility": 34.6,
                     "lastPrice": 4.2,
-                    "openInterest": 8,
+                    "openInterest": 9,
                     "pChange": 6.329113924050632,
-                    "pchangeinOpenInterest": 0,
+                    "pchangeinOpenInterest": 12.5,
                     "strikePrice": 105,
-                    "totalBuyQuantity": 360000,
-                    "totalSellQuantity": 302400,
+                    "totalBuyQuantity": 312000,
+                    "totalSellQuantity": 259200,
                     "totalTradedVolume": 3,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 5.25,
+                    "askPrice": 5.3,
                     "askQty": 4800,
-                    "bidQty": 9600,
-                    "bidprice": 5.1,
+                    "bidQty": 4800,
+                    "bidprice": 5.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4732,38 +4774,38 @@
                     "totalSellQuantity": 14400,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 105
             },
             {
                 "CE": {
-                    "askPrice": 1.15,
-                    "askQty": 24000,
-                    "bidQty": 14400,
-                    "bidprice": 1,
-                    "change": 0,
+                    "askPrice": 1.25,
+                    "askQty": 9600,
+                    "bidQty": 4800,
+                    "bidprice": 1.15,
+                    "change": 0.04999999999999982,
                     "changeinOpenInterest": 1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKHINDCOPPER25-05-2023CE106.00",
                     "impliedVolatility": 42.77,
-                    "lastPrice": 1.1,
+                    "lastPrice": 1.15,
                     "openInterest": 146,
-                    "pChange": 0,
+                    "pChange": 4.545454545454529,
                     "pchangeinOpenInterest": 0.6896551724137931,
                     "strikePrice": 106,
-                    "totalBuyQuantity": 590400,
-                    "totalSellQuantity": 849600,
-                    "totalTradedVolume": 19,
+                    "totalBuyQuantity": 475200,
+                    "totalSellQuantity": 830400,
+                    "totalTradedVolume": 21,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 4.3,
+                    "askPrice": 4.1,
                     "askQty": 4800,
                     "bidQty": 4800,
-                    "bidprice": 3.55,
+                    "bidprice": 3.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4774,11 +4816,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 106,
-                    "totalBuyQuantity": 460800,
+                    "totalBuyQuantity": 494400,
                     "totalSellQuantity": 552000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 106
@@ -4803,7 +4845,7 @@
                     "totalSellQuantity": 201600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -4824,35 +4866,35 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 106
             },
             {
                 "CE": {
-                    "askPrice": 0.9,
-                    "askQty": 19200,
-                    "bidQty": 19200,
-                    "bidprice": 0.7,
+                    "askPrice": 0.95,
+                    "askQty": 4800,
+                    "bidQty": 14400,
+                    "bidprice": 0.8,
                     "change": 0.04999999999999993,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKHINDCOPPER25-05-2023CE107.00",
-                    "impliedVolatility": 36.6,
+                    "impliedVolatility": 38.41,
                     "lastPrice": 0.85,
                     "openInterest": 302,
                     "pChange": 6.249999999999992,
                     "pchangeinOpenInterest": -0.33003300330033003,
                     "strikePrice": 107,
-                    "totalBuyQuantity": 528000,
-                    "totalSellQuantity": 724800,
+                    "totalBuyQuantity": 542400,
+                    "totalSellQuantity": 696000,
                     "totalTradedVolume": 12,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 4.8,
+                    "askPrice": 4.75,
                     "askQty": 4800,
                     "bidQty": 4800,
                     "bidprice": 4.3,
@@ -4860,17 +4902,17 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKHINDCOPPER25-05-2023PE107.00",
-                    "impliedVolatility": 40.74,
+                    "impliedVolatility": 32.96,
                     "lastPrice": 4.3,
                     "openInterest": 25,
                     "pChange": -13.131313131313139,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 107,
-                    "totalBuyQuantity": 494400,
-                    "totalSellQuantity": 590400,
+                    "totalBuyQuantity": 484800,
+                    "totalSellQuantity": 595200,
                     "totalTradedVolume": 1,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 107
@@ -4892,10 +4934,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 107,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 201600,
+                    "totalSellQuantity": 196800,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 15,
@@ -4916,7 +4958,7 @@
                     "totalSellQuantity": 14400,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 107
@@ -4941,13 +4983,13 @@
                     "totalSellQuantity": 480000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 5.3,
+                    "askPrice": 5.1,
                     "askQty": 4800,
                     "bidQty": 4800,
-                    "bidprice": 4.6,
+                    "bidprice": 4.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4958,11 +5000,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 107.5,
-                    "totalBuyQuantity": 240000,
+                    "totalBuyQuantity": 244800,
                     "totalSellQuantity": 249600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 107.5
@@ -4970,9 +5012,9 @@
             {
                 "CE": {
                     "askPrice": 0.8,
-                    "askQty": 9600,
+                    "askQty": 4800,
                     "bidQty": 4800,
-                    "bidprice": 0.65,
+                    "bidprice": 0.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4983,17 +5025,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 108,
-                    "totalBuyQuantity": 892800,
-                    "totalSellQuantity": 705600,
+                    "totalBuyQuantity": 883200,
+                    "totalSellQuantity": 700800,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 6,
+                    "askPrice": 5.75,
                     "askQty": 4800,
-                    "bidQty": 24000,
-                    "bidprice": 5,
+                    "bidQty": 4800,
+                    "bidprice": 4.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5004,18 +5046,18 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 108,
-                    "totalBuyQuantity": 302400,
-                    "totalSellQuantity": 312000,
+                    "totalBuyQuantity": 278400,
+                    "totalSellQuantity": 302400,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 108
             },
             {
                 "CE": {
-                    "askPrice": 3.4,
+                    "askPrice": 3.35,
                     "askQty": 4800,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -5033,7 +5075,7 @@
                     "totalSellQuantity": 206400,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 15.9,
@@ -5054,17 +5096,17 @@
                     "totalSellQuantity": 14400,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 108
             },
             {
                 "CE": {
-                    "askPrice": 0.6,
+                    "askPrice": 0.65,
                     "askQty": 4800,
-                    "bidQty": 9600,
-                    "bidprice": 0.5,
+                    "bidQty": 4800,
+                    "bidprice": 0.55,
                     "change": 0,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
@@ -5076,14 +5118,14 @@
                     "pchangeinOpenInterest": -1.7857142857142858,
                     "strikePrice": 109,
                     "totalBuyQuantity": 868800,
-                    "totalSellQuantity": 859200,
+                    "totalSellQuantity": 854400,
                     "totalTradedVolume": 2,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 7,
-                    "askQty": 9600,
+                    "askPrice": 6.75,
+                    "askQty": 4800,
                     "bidQty": 4800,
                     "bidprice": 6.1,
                     "change": 0,
@@ -5096,11 +5138,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 109,
-                    "totalBuyQuantity": 268800,
+                    "totalBuyQuantity": 249600,
                     "totalSellQuantity": 57600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 109
@@ -5125,7 +5167,7 @@
                     "totalSellQuantity": 201600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 16.75,
@@ -5146,7 +5188,7 @@
                     "totalSellQuantity": 14400,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 109
@@ -5158,26 +5200,26 @@
                     "bidQty": 43200,
                     "bidprice": 0.45,
                     "change": 0,
-                    "changeinOpenInterest": -10,
+                    "changeinOpenInterest": -13,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKHINDCOPPER25-05-2023CE110.00",
-                    "impliedVolatility": 42.86,
+                    "impliedVolatility": 43.76,
                     "lastPrice": 0.5,
-                    "openInterest": 488,
+                    "openInterest": 485,
                     "pChange": 0,
-                    "pchangeinOpenInterest": -2.0080321285140563,
+                    "pchangeinOpenInterest": -2.610441767068273,
                     "strikePrice": 110,
                     "totalBuyQuantity": 2625600,
                     "totalSellQuantity": 1118400,
                     "totalTradedVolume": 20,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 7.65,
+                    "askPrice": 7.5,
                     "askQty": 4800,
                     "bidQty": 4800,
-                    "bidprice": 6.95,
+                    "bidprice": 6.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5188,11 +5230,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 110,
-                    "totalBuyQuantity": 460800,
+                    "totalBuyQuantity": 427200,
                     "totalSellQuantity": 417600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 110
@@ -5200,24 +5242,24 @@
             {
                 "CE": {
                     "askPrice": 2.5,
-                    "askQty": 4800,
+                    "askQty": 9600,
                     "bidQty": 4800,
                     "bidprice": 2.45,
                     "change": 0.25,
                     "changeinOpenInterest": 4,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKHINDCOPPER29-06-2023CE110.00",
-                    "impliedVolatility": 32.97,
+                    "impliedVolatility": 34.31,
                     "lastPrice": 2.6,
                     "openInterest": 63,
                     "pChange": 10.638297872340425,
                     "pchangeinOpenInterest": 6.779661016949152,
                     "strikePrice": 110,
-                    "totalBuyQuantity": 340800,
+                    "totalBuyQuantity": 336000,
                     "totalSellQuantity": 489600,
                     "totalTradedVolume": 5,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 0,
@@ -5238,7 +5280,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 110
@@ -5253,7 +5295,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKHINDCOPPER25-05-2023CE111.00",
-                    "impliedVolatility": 42.51,
+                    "impliedVolatility": 44.66,
                     "lastPrice": 0.4,
                     "openInterest": 29,
                     "pChange": 14.285714285714299,
@@ -5263,13 +5305,13 @@
                     "totalSellQuantity": 624000,
                     "totalTradedVolume": 5,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 8.95,
+                    "askPrice": 8.7,
                     "askQty": 4800,
                     "bidQty": 4800,
-                    "bidprice": 7.35,
+                    "bidprice": 7.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5284,7 +5326,7 @@
                     "totalSellQuantity": 240000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 111
@@ -5309,7 +5351,7 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 18.5,
@@ -5330,7 +5372,7 @@
                     "totalSellQuantity": 14400,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 111
@@ -5345,7 +5387,7 @@
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKHINDCOPPER25-05-2023CE112.00",
-                    "impliedVolatility": 44.62,
+                    "impliedVolatility": 46.68,
                     "lastPrice": 0.35,
                     "openInterest": 52,
                     "pChange": 0,
@@ -5355,13 +5397,13 @@
                     "totalSellQuantity": 427200,
                     "totalTradedVolume": 4,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 9.35,
+                    "askPrice": 9.95,
                     "askQty": 4800,
                     "bidQty": 4800,
-                    "bidprice": 8.05,
+                    "bidprice": 8.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5376,7 +5418,7 @@
                     "totalSellQuantity": 225600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 112
@@ -5401,7 +5443,7 @@
                     "totalSellQuantity": 196800,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 19.45,
@@ -5422,16 +5464,16 @@
                     "totalSellQuantity": 14400,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 112
             },
             {
                 "CE": {
-                    "askPrice": 0.35,
-                    "askQty": 4800,
-                    "bidQty": 9600,
+                    "askPrice": 0.4,
+                    "askQty": 9600,
+                    "bidQty": 33600,
                     "bidprice": 0.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -5443,11 +5485,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 112.5,
-                    "totalBuyQuantity": 220800,
-                    "totalSellQuantity": 460800,
-                    "totalTradedVolume": 2,
+                    "totalBuyQuantity": 302400,
+                    "totalSellQuantity": 360000,
+                    "totalTradedVolume": 8,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 10.4,
@@ -5468,7 +5510,7 @@
                     "totalSellQuantity": 225600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 112.5
@@ -5493,7 +5535,7 @@
                     "totalSellQuantity": 470400,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 10.6,
@@ -5514,7 +5556,7 @@
                     "totalSellQuantity": 225600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 113
@@ -5539,7 +5581,7 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 20.35,
@@ -5560,7 +5602,7 @@
                     "totalSellQuantity": 14400,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 113
@@ -5585,7 +5627,7 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 21.25,
@@ -5606,7 +5648,7 @@
                     "totalSellQuantity": 14400,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 114
@@ -5631,10 +5673,10 @@
                     "totalSellQuantity": 292800,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 12.5,
+                    "askPrice": 12.9,
                     "askQty": 4800,
                     "bidQty": 4800,
                     "bidprice": 10.2,
@@ -5652,7 +5694,7 @@
                     "totalSellQuantity": 225600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 114
@@ -5660,30 +5702,30 @@
             {
                 "CE": {
                     "askPrice": 0.25,
-                    "askQty": 48000,
-                    "bidQty": 48000,
+                    "askQty": 62400,
+                    "bidQty": 43200,
                     "bidprice": 0.2,
                     "change": 0,
-                    "changeinOpenInterest": 0,
+                    "changeinOpenInterest": -4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKHINDCOPPER25-05-2023CE115.00",
                     "impliedVolatility": 50.18,
                     "lastPrice": 0.2,
-                    "openInterest": 256,
+                    "openInterest": 252,
                     "pChange": 0,
-                    "pchangeinOpenInterest": 0,
+                    "pchangeinOpenInterest": -1.5625,
                     "strikePrice": 115,
-                    "totalBuyQuantity": 1608000,
-                    "totalSellQuantity": 916800,
-                    "totalTradedVolume": 9,
+                    "totalBuyQuantity": 1598400,
+                    "totalSellQuantity": 931200,
+                    "totalTradedVolume": 11,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 12.25,
+                    "askPrice": 12.8,
                     "askQty": 4800,
                     "bidQty": 4800,
-                    "bidprice": 11,
+                    "bidprice": 11.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5698,7 +5740,7 @@
                     "totalSellQuantity": 225600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 115
@@ -5723,7 +5765,7 @@
                     "totalSellQuantity": 201600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 22.2,
@@ -5744,7 +5786,7 @@
                     "totalSellQuantity": 14400,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 115
@@ -5769,7 +5811,7 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 23.1,
@@ -5790,7 +5832,7 @@
                     "totalSellQuantity": 14400,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 116
@@ -5815,7 +5857,7 @@
                     "totalSellQuantity": 441600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 13.85,
@@ -5836,7 +5878,7 @@
                     "totalSellQuantity": 225600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 116
@@ -5861,13 +5903,13 @@
                     "totalSellQuantity": 422400,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 14.2,
+                    "askPrice": 14.8,
                     "askQty": 4800,
                     "bidQty": 4800,
-                    "bidprice": 12.95,
+                    "bidprice": 13.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5882,7 +5924,7 @@
                     "totalSellQuantity": 225600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 117
@@ -5907,7 +5949,7 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 24.1,
@@ -5928,7 +5970,7 @@
                     "totalSellQuantity": 14400,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 117
@@ -5953,13 +5995,13 @@
                     "totalSellQuantity": 427200,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 15.2,
                     "askQty": 4800,
                     "bidQty": 4800,
-                    "bidprice": 13.45,
+                    "bidprice": 13.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5974,7 +6016,7 @@
                     "totalSellQuantity": 225600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 117.5
@@ -5999,10 +6041,10 @@
                     "totalSellQuantity": 417600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 16.9,
+                    "askPrice": 16.7,
                     "askQty": 4800,
                     "bidQty": 4800,
                     "bidprice": 13.15,
@@ -6020,7 +6062,7 @@
                     "totalSellQuantity": 196800,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 118
@@ -6045,7 +6087,7 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 25.05,
@@ -6066,7 +6108,7 @@
                     "totalSellQuantity": 14400,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 118
@@ -6091,7 +6133,7 @@
                     "totalSellQuantity": 417600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 17.9,
@@ -6112,7 +6154,7 @@
                     "totalSellQuantity": 196800,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 119
@@ -6137,7 +6179,7 @@
                     "totalSellQuantity": 14400,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 119
@@ -6145,8 +6187,8 @@
             {
                 "CE": {
                     "askPrice": 0.2,
-                    "askQty": 235200,
-                    "bidQty": 134400,
+                    "askQty": 244800,
+                    "bidQty": 129600,
                     "bidprice": 0.15,
                     "change": 0,
                     "changeinOpenInterest": -13,
@@ -6158,11 +6200,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": -0.9142053445850914,
                     "strikePrice": 120,
-                    "totalBuyQuantity": 3436800,
-                    "totalSellQuantity": 1598400,
-                    "totalTradedVolume": 48,
+                    "totalBuyQuantity": 3432000,
+                    "totalSellQuantity": 1593600,
+                    "totalTradedVolume": 49,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 17.65,
@@ -6183,7 +6225,7 @@
                     "totalSellQuantity": 225600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 120
@@ -6208,7 +6250,7 @@
                     "totalSellQuantity": 196800,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 27,
@@ -6229,7 +6271,7 @@
                     "totalSellQuantity": 14400,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 120
@@ -6254,7 +6296,7 @@
                     "totalSellQuantity": 249600,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 18.2,
@@ -6275,7 +6317,7 @@
                     "totalSellQuantity": 220800,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 121
@@ -6300,7 +6342,7 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 27.95,
@@ -6321,7 +6363,7 @@
                     "totalSellQuantity": 14400,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 121
@@ -6346,7 +6388,7 @@
                     "totalSellQuantity": 384000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 22.9,
@@ -6367,7 +6409,7 @@
                     "totalSellQuantity": 206400,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 122
@@ -6392,7 +6434,7 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 28.95,
@@ -6413,7 +6455,7 @@
                     "totalSellQuantity": 14400,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 122
@@ -6438,10 +6480,10 @@
                     "totalSellQuantity": 24000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
-                    "askPrice": 22.7,
+                    "askPrice": 22,
                     "askQty": 14400,
                     "bidQty": 14400,
                     "bidprice": 18.1,
@@ -6459,7 +6501,7 @@
                     "totalSellQuantity": 206400,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 123
@@ -6484,7 +6526,7 @@
                     "totalSellQuantity": 192000,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103.1
+                    "underlyingValue": 103.25
                 },
                 "PE": {
                     "askPrice": 29.95,
@@ -6505,7 +6547,7 @@
                     "totalSellQuantity": 14400,
                     "totalTradedVolume": 0,
                     "underlying": "HINDCOPPER",
-                    "underlyingValue": 103
+                    "underlyingValue": 103.25
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 123
@@ -6571,7 +6613,7 @@
             122,
             123
         ],
-        "timestamp": "18-May-2023 10:19:49",
-        "underlyingValue": 103.1
+        "timestamp": "18-May-2023 10:25:46",
+        "underlyingValue": 103.25
     }
 }

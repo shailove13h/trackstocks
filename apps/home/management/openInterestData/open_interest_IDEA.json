@@ -1,20 +1,20 @@
 {
     "filtered": {
         "CE": {
-            "totOI": 2706,
-            "totVol": 417
+            "totOI": 2711,
+            "totVol": 418
         },
         "PE": {
-            "totOI": 1339,
-            "totVol": 106
+            "totOI": 1336,
+            "totVol": 155
         },
         "data": [
             {
                 "CE": {
-                    "askPrice": 8.2,
-                    "askQty": 210000,
-                    "bidQty": 0,
-                    "bidprice": 0,
+                    "askPrice": 6.35,
+                    "askQty": 140000,
+                    "bidQty": 140000,
+                    "bidprice": 5.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -25,11 +25,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1,
-                    "totalBuyQuantity": 0,
-                    "totalSellQuantity": 2310000,
+                    "totalBuyQuantity": 140000,
+                    "totalSellQuantity": 2450000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
                     "askPrice": 0.05,
@@ -50,17 +50,17 @@
                     "totalSellQuantity": 840000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1
             },
             {
                 "CE": {
-                    "askPrice": 6.75,
-                    "askQty": 210000,
-                    "bidQty": 2100000,
-                    "bidprice": 3.15,
+                    "askPrice": 5.3,
+                    "askQty": 140000,
+                    "bidQty": 140000,
+                    "bidprice": 4.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -71,11 +71,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 2,
-                    "totalBuyQuantity": 2100000,
-                    "totalSellQuantity": 2310000,
+                    "totalBuyQuantity": 140000,
+                    "totalSellQuantity": 2240000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
                     "askPrice": 0.05,
@@ -96,17 +96,17 @@
                     "totalSellQuantity": 420000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 2
             },
             {
                 "CE": {
-                    "askPrice": 5.8,
-                    "askQty": 210000,
-                    "bidQty": 210000,
-                    "bidprice": 1.9,
+                    "askPrice": 4.3,
+                    "askQty": 140000,
+                    "bidQty": 140000,
+                    "bidprice": 3.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -117,11 +117,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 3,
-                    "totalBuyQuantity": 350000,
-                    "totalSellQuantity": 2310000,
+                    "totalBuyQuantity": 280000,
+                    "totalSellQuantity": 2240000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
                     "askPrice": 0.05,
@@ -142,14 +142,14 @@
                     "totalSellQuantity": 1120000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 3
             },
             {
                 "CE": {
-                    "askPrice": 3.2,
+                    "askPrice": 3.15,
                     "askQty": 70000,
                     "bidQty": 70000,
                     "bidprice": 3,
@@ -163,11 +163,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 4,
-                    "totalBuyQuantity": 280000,
-                    "totalSellQuantity": 2170000,
+                    "totalBuyQuantity": 420000,
+                    "totalSellQuantity": 2240000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
                     "askPrice": 0.05,
@@ -188,17 +188,17 @@
                     "totalSellQuantity": 1400000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 4
             },
             {
                 "CE": {
-                    "askPrice": 2.05,
+                    "askPrice": 2.15,
                     "askQty": 70000,
-                    "bidQty": 210000,
-                    "bidprice": 1.9,
+                    "bidQty": 70000,
+                    "bidprice": 2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -213,7 +213,7 @@
                     "totalSellQuantity": 350000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
                     "askPrice": 0.05,
@@ -234,7 +234,7 @@
                     "totalSellQuantity": 7700000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 5
@@ -259,7 +259,7 @@
                     "totalSellQuantity": 4270000,
                     "totalTradedVolume": 15,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
                     "askPrice": 0.05,
@@ -270,17 +270,17 @@
                     "changeinOpenInterest": 13,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDEA25-05-2023PE6.00",
-                    "impliedVolatility": 98.48,
+                    "impliedVolatility": 101.4,
                     "lastPrice": 0.05,
                     "openInterest": 552,
                     "pChange": 0,
                     "pchangeinOpenInterest": 2.411873840445269,
                     "strikePrice": 6,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 38500000,
+                    "totalSellQuantity": 38080000,
                     "totalTradedVolume": 15,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 6
@@ -289,44 +289,44 @@
                 "CE": {
                     "askPrice": 0.25,
                     "askQty": 11480000,
-                    "bidQty": 13790000,
+                    "bidQty": 10430000,
                     "bidprice": 0.2,
-                    "change": 0,
-                    "changeinOpenInterest": -13,
+                    "change": -0.04999999999999999,
+                    "changeinOpenInterest": -8,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDEA25-05-2023CE7.00",
-                    "impliedVolatility": 55.94,
-                    "lastPrice": 0.25,
-                    "openInterest": 845,
-                    "pChange": 0,
-                    "pchangeinOpenInterest": -1.5151515151515151,
+                    "impliedVolatility": 48.29,
+                    "lastPrice": 0.2,
+                    "openInterest": 850,
+                    "pChange": -19.999999999999996,
+                    "pchangeinOpenInterest": -0.9324009324009324,
                     "strikePrice": 7,
-                    "totalBuyQuantity": 83930000,
-                    "totalSellQuantity": 40390000,
-                    "totalTradedVolume": 161,
+                    "totalBuyQuantity": 80570000,
+                    "totalSellQuantity": 40460000,
+                    "totalTradedVolume": 162,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
-                    "askPrice": 0.2,
-                    "askQty": 11900000,
-                    "bidQty": 7140000,
-                    "bidprice": 0.15,
-                    "change": 0,
-                    "changeinOpenInterest": -42,
+                    "askPrice": 0.15,
+                    "askQty": 2940000,
+                    "bidQty": 28560000,
+                    "bidprice": 0.1,
+                    "change": -0.05000000000000002,
+                    "changeinOpenInterest": -43,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDEA25-05-2023PE7.00",
-                    "impliedVolatility": 59.42,
-                    "lastPrice": 0.2,
-                    "openInterest": 424,
-                    "pChange": 0,
-                    "pchangeinOpenInterest": -9.012875536480687,
+                    "impliedVolatility": 64.96,
+                    "lastPrice": 0.15,
+                    "openInterest": 423,
+                    "pChange": -25.000000000000007,
+                    "pchangeinOpenInterest": -9.227467811158798,
                     "strikePrice": 7,
-                    "totalBuyQuantity": 55930000,
-                    "totalSellQuantity": 36750000,
-                    "totalTradedVolume": 90,
+                    "totalBuyQuantity": 50050000,
+                    "totalSellQuantity": 39130000,
+                    "totalTradedVolume": 136,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 7
@@ -334,45 +334,45 @@
             {
                 "CE": {
                     "askPrice": 0.1,
-                    "askQty": 44520000,
-                    "bidQty": 12810000,
+                    "askQty": 44870000,
+                    "bidQty": 12180000,
                     "bidprice": 0.05,
                     "change": -0.05,
                     "changeinOpenInterest": 86,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDEA25-05-2023CE8.00",
-                    "impliedVolatility": 77.99,
+                    "impliedVolatility": 74.8,
                     "lastPrice": 0.05,
                     "openInterest": 981,
                     "pChange": -50,
                     "pchangeinOpenInterest": 9.608938547486034,
                     "strikePrice": 8,
-                    "totalBuyQuantity": 12810000,
-                    "totalSellQuantity": 94780000,
+                    "totalBuyQuantity": 12180000,
+                    "totalSellQuantity": 95200000,
                     "totalTradedVolume": 241,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
-                    "askPrice": 1.05,
-                    "askQty": 350000,
-                    "bidQty": 140000,
-                    "bidprice": 1,
+                    "askPrice": 1,
+                    "askQty": 630000,
+                    "bidQty": 700000,
+                    "bidprice": 0.95,
                     "change": 0,
-                    "changeinOpenInterest": 0,
+                    "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDEA25-05-2023PE8.00",
                     "impliedVolatility": 0,
-                    "lastPrice": 0,
-                    "openInterest": 131,
+                    "lastPrice": 1,
+                    "openInterest": 129,
                     "pChange": 0,
-                    "pchangeinOpenInterest": 0,
+                    "pchangeinOpenInterest": -1.5267175572519085,
                     "strikePrice": 8,
-                    "totalBuyQuantity": 5600000,
-                    "totalSellQuantity": 700000,
-                    "totalTradedVolume": 0,
+                    "totalBuyQuantity": 6020000,
+                    "totalSellQuantity": 1680000,
+                    "totalTradedVolume": 3,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 8
@@ -397,13 +397,13 @@
                     "totalSellQuantity": 40810000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
-                    "askPrice": 2.1,
+                    "askPrice": 2,
                     "askQty": 140000,
                     "bidQty": 70000,
-                    "bidprice": 1.9,
+                    "bidprice": 1.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -414,11 +414,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 9,
-                    "totalBuyQuantity": 5740000,
-                    "totalSellQuantity": 350000,
+                    "totalBuyQuantity": 5810000,
+                    "totalSellQuantity": 280000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 9
@@ -443,28 +443,28 @@
                     "totalSellQuantity": 10850000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
-                    "askPrice": 3.1,
+                    "askPrice": 3,
                     "askQty": 70000,
                     "bidQty": 210000,
-                    "bidprice": 2.95,
+                    "bidprice": 2.85,
                     "change": 0.25,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDEA25-05-2023PE10.00",
-                    "impliedVolatility": 175.28,
+                    "impliedVolatility": 198.56,
                     "lastPrice": 3,
                     "openInterest": 11,
                     "pChange": 9.090909090909092,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 10,
                     "totalBuyQuantity": 1540000,
-                    "totalSellQuantity": 140000,
+                    "totalSellQuantity": 210000,
                     "totalTradedVolume": 1,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 10
@@ -489,13 +489,13 @@
                     "totalSellQuantity": 1610000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
                     "askPrice": 6.95,
                     "askQty": 210000,
-                    "bidQty": 630000,
-                    "bidprice": 1.4,
+                    "bidQty": 700000,
+                    "bidprice": 1.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -506,11 +506,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 11,
-                    "totalBuyQuantity": 980000,
+                    "totalBuyQuantity": 840000,
                     "totalSellQuantity": 210000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 11
@@ -535,13 +535,13 @@
                     "totalSellQuantity": 1610000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
-                    "askPrice": 7.95,
-                    "askQty": 210000,
-                    "bidQty": 210000,
-                    "bidprice": 3.25,
+                    "askPrice": 5.1,
+                    "askQty": 140000,
+                    "bidQty": 140000,
+                    "bidprice": 4.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -552,11 +552,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 12,
-                    "totalBuyQuantity": 2310000,
-                    "totalSellQuantity": 210000,
+                    "totalBuyQuantity": 2240000,
+                    "totalSellQuantity": 140000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 12
@@ -567,10 +567,10 @@
         "data": [
             {
                 "CE": {
-                    "askPrice": 8.2,
-                    "askQty": 210000,
-                    "bidQty": 0,
-                    "bidprice": 0,
+                    "askPrice": 6.35,
+                    "askQty": 140000,
+                    "bidQty": 140000,
+                    "bidprice": 5.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -581,11 +581,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1,
-                    "totalBuyQuantity": 0,
-                    "totalSellQuantity": 2310000,
+                    "totalBuyQuantity": 140000,
+                    "totalSellQuantity": 2450000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
                     "askPrice": 0.05,
@@ -606,7 +606,7 @@
                     "totalSellQuantity": 840000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1
@@ -631,7 +631,7 @@
                     "totalSellQuantity": 2310000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
                     "askPrice": 0.05,
@@ -652,7 +652,7 @@
                     "totalSellQuantity": 630000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1
@@ -673,11 +673,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 2,
-                    "totalBuyQuantity": 210000,
-                    "totalSellQuantity": 2450000,
+                    "totalBuyQuantity": 140000,
+                    "totalSellQuantity": 2240000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
                     "askPrice": 0.05,
@@ -698,17 +698,17 @@
                     "totalSellQuantity": 70000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 2
             },
             {
                 "CE": {
-                    "askPrice": 6.75,
-                    "askQty": 210000,
-                    "bidQty": 2100000,
-                    "bidprice": 3.15,
+                    "askPrice": 5.3,
+                    "askQty": 140000,
+                    "bidQty": 140000,
+                    "bidprice": 4.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -719,11 +719,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 2,
-                    "totalBuyQuantity": 2100000,
-                    "totalSellQuantity": 2310000,
+                    "totalBuyQuantity": 140000,
+                    "totalSellQuantity": 2240000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
                     "askPrice": 0.05,
@@ -744,7 +744,7 @@
                     "totalSellQuantity": 420000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 2
@@ -769,17 +769,17 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 2
             },
             {
                 "CE": {
-                    "askPrice": 5.8,
-                    "askQty": 210000,
-                    "bidQty": 210000,
-                    "bidprice": 1.9,
+                    "askPrice": 4.3,
+                    "askQty": 140000,
+                    "bidQty": 140000,
+                    "bidprice": 3.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -790,11 +790,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 3,
-                    "totalBuyQuantity": 350000,
-                    "totalSellQuantity": 2310000,
+                    "totalBuyQuantity": 280000,
+                    "totalSellQuantity": 2240000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
                     "askPrice": 0.05,
@@ -815,17 +815,17 @@
                     "totalSellQuantity": 1120000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 3
             },
             {
                 "CE": {
-                    "askPrice": 4.35,
-                    "askQty": 210000,
+                    "askPrice": 4.4,
+                    "askQty": 140000,
                     "bidQty": 140000,
-                    "bidprice": 3.8,
+                    "bidprice": 3.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -836,11 +836,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 3,
-                    "totalBuyQuantity": 140000,
-                    "totalSellQuantity": 2450000,
+                    "totalBuyQuantity": 2240000,
+                    "totalSellQuantity": 2240000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
                     "askPrice": 0.05,
@@ -861,7 +861,7 @@
                     "totalSellQuantity": 70000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 3
@@ -882,11 +882,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 4,
-                    "totalBuyQuantity": 840000,
+                    "totalBuyQuantity": 140000,
                     "totalSellQuantity": 2240000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
                     "askPrice": 0.05,
@@ -904,10 +904,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 4,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 840000,
+                    "totalSellQuantity": 280000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 4
@@ -932,7 +932,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
                     "askPrice": 3,
@@ -953,14 +953,14 @@
                     "totalSellQuantity": 80000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 4
             },
             {
                 "CE": {
-                    "askPrice": 3.2,
+                    "askPrice": 3.15,
                     "askQty": 70000,
                     "bidQty": 70000,
                     "bidprice": 3,
@@ -974,11 +974,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 4,
-                    "totalBuyQuantity": 280000,
-                    "totalSellQuantity": 2170000,
+                    "totalBuyQuantity": 420000,
+                    "totalSellQuantity": 2240000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
                     "askPrice": 0.05,
@@ -999,7 +999,7 @@
                     "totalSellQuantity": 1400000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 4
@@ -1024,7 +1024,7 @@
                     "totalSellQuantity": 770000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
                     "askPrice": 0.05,
@@ -1035,7 +1035,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKIDEA29-06-2023PE5.00",
-                    "impliedVolatility": 73.2,
+                    "impliedVolatility": 74.25,
                     "lastPrice": 0.05,
                     "openInterest": 8,
                     "pChange": 0,
@@ -1045,7 +1045,7 @@
                     "totalSellQuantity": 3990000,
                     "totalTradedVolume": 1,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 5
@@ -1070,7 +1070,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
                     "askPrice": 0.1,
@@ -1091,17 +1091,17 @@
                     "totalSellQuantity": 240000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 5
             },
             {
                 "CE": {
-                    "askPrice": 2.05,
+                    "askPrice": 2.15,
                     "askQty": 70000,
-                    "bidQty": 210000,
-                    "bidprice": 1.9,
+                    "bidQty": 70000,
+                    "bidprice": 2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1116,7 +1116,7 @@
                     "totalSellQuantity": 350000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
                     "askPrice": 0.05,
@@ -1137,7 +1137,7 @@
                     "totalSellQuantity": 7700000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 5
@@ -1162,7 +1162,7 @@
                     "totalSellQuantity": 4270000,
                     "totalTradedVolume": 15,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
                     "askPrice": 0.05,
@@ -1173,17 +1173,17 @@
                     "changeinOpenInterest": 13,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDEA25-05-2023PE6.00",
-                    "impliedVolatility": 98.48,
+                    "impliedVolatility": 101.4,
                     "lastPrice": 0.05,
                     "openInterest": 552,
                     "pChange": 0,
                     "pchangeinOpenInterest": 2.411873840445269,
                     "strikePrice": 6,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 38500000,
+                    "totalSellQuantity": 38080000,
                     "totalTradedVolume": 15,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 6
@@ -1208,28 +1208,28 @@
                     "totalSellQuantity": 2100000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
                     "askPrice": 0.2,
-                    "askQty": 3150000,
+                    "askQty": 3360000,
                     "bidQty": 3570000,
                     "bidprice": 0.15,
                     "change": 0.05000000000000002,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKIDEA29-06-2023PE6.00",
-                    "impliedVolatility": 68.72,
+                    "impliedVolatility": 70.19,
                     "lastPrice": 0.2,
                     "openInterest": 139,
                     "pChange": 33.33333333333335,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 6,
                     "totalBuyQuantity": 17360000,
-                    "totalSellQuantity": 7840000,
+                    "totalSellQuantity": 7700000,
                     "totalTradedVolume": 1,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 6
@@ -1254,7 +1254,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
                     "askPrice": 0.3,
@@ -1275,7 +1275,7 @@
                     "totalSellQuantity": 480000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 6
@@ -1284,44 +1284,44 @@
                 "CE": {
                     "askPrice": 0.25,
                     "askQty": 11480000,
-                    "bidQty": 13790000,
+                    "bidQty": 10430000,
                     "bidprice": 0.2,
-                    "change": 0,
-                    "changeinOpenInterest": -13,
+                    "change": -0.04999999999999999,
+                    "changeinOpenInterest": -8,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDEA25-05-2023CE7.00",
-                    "impliedVolatility": 55.94,
-                    "lastPrice": 0.25,
-                    "openInterest": 845,
-                    "pChange": 0,
-                    "pchangeinOpenInterest": -1.5151515151515151,
+                    "impliedVolatility": 48.29,
+                    "lastPrice": 0.2,
+                    "openInterest": 850,
+                    "pChange": -19.999999999999996,
+                    "pchangeinOpenInterest": -0.9324009324009324,
                     "strikePrice": 7,
-                    "totalBuyQuantity": 83930000,
-                    "totalSellQuantity": 40390000,
-                    "totalTradedVolume": 161,
+                    "totalBuyQuantity": 80570000,
+                    "totalSellQuantity": 40460000,
+                    "totalTradedVolume": 162,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
-                    "askPrice": 0.2,
-                    "askQty": 11900000,
-                    "bidQty": 7140000,
-                    "bidprice": 0.15,
-                    "change": 0,
-                    "changeinOpenInterest": -42,
+                    "askPrice": 0.15,
+                    "askQty": 2940000,
+                    "bidQty": 28560000,
+                    "bidprice": 0.1,
+                    "change": -0.05000000000000002,
+                    "changeinOpenInterest": -43,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDEA25-05-2023PE7.00",
-                    "impliedVolatility": 59.42,
-                    "lastPrice": 0.2,
-                    "openInterest": 424,
-                    "pChange": 0,
-                    "pchangeinOpenInterest": -9.012875536480687,
+                    "impliedVolatility": 64.96,
+                    "lastPrice": 0.15,
+                    "openInterest": 423,
+                    "pChange": -25.000000000000007,
+                    "pchangeinOpenInterest": -9.227467811158798,
                     "strikePrice": 7,
-                    "totalBuyQuantity": 55930000,
-                    "totalSellQuantity": 36750000,
-                    "totalTradedVolume": 90,
+                    "totalBuyQuantity": 50050000,
+                    "totalSellQuantity": 39130000,
+                    "totalTradedVolume": 136,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 7
@@ -1336,7 +1336,7 @@
                     "changeinOpenInterest": 17,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKIDEA29-06-2023CE7.00",
-                    "impliedVolatility": 56.41,
+                    "impliedVolatility": 53.29,
                     "lastPrice": 0.6,
                     "openInterest": 486,
                     "pChange": -14.285714285714283,
@@ -1346,7 +1346,7 @@
                     "totalSellQuantity": 16100000,
                     "totalTradedVolume": 24,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
                     "askPrice": 0.55,
@@ -1357,7 +1357,7 @@
                     "changeinOpenInterest": 53,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKIDEA29-06-2023PE7.00",
-                    "impliedVolatility": 59.63,
+                    "impliedVolatility": 61.85,
                     "lastPrice": 0.5,
                     "openInterest": 295,
                     "pChange": 0,
@@ -1367,7 +1367,7 @@
                     "totalSellQuantity": 8190000,
                     "totalTradedVolume": 70,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 7
@@ -1388,11 +1388,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 7,
-                    "totalBuyQuantity": 880000,
-                    "totalSellQuantity": 400000,
+                    "totalBuyQuantity": 800000,
+                    "totalSellQuantity": 240000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
                     "askPrice": 0.7,
@@ -1413,7 +1413,7 @@
                     "totalSellQuantity": 240000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 7
@@ -1421,45 +1421,45 @@
             {
                 "CE": {
                     "askPrice": 0.1,
-                    "askQty": 44520000,
-                    "bidQty": 12810000,
+                    "askQty": 44870000,
+                    "bidQty": 12180000,
                     "bidprice": 0.05,
                     "change": -0.05,
                     "changeinOpenInterest": 86,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDEA25-05-2023CE8.00",
-                    "impliedVolatility": 77.99,
+                    "impliedVolatility": 74.8,
                     "lastPrice": 0.05,
                     "openInterest": 981,
                     "pChange": -50,
                     "pchangeinOpenInterest": 9.608938547486034,
                     "strikePrice": 8,
-                    "totalBuyQuantity": 12810000,
-                    "totalSellQuantity": 94780000,
+                    "totalBuyQuantity": 12180000,
+                    "totalSellQuantity": 95200000,
                     "totalTradedVolume": 241,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
-                    "askPrice": 1.05,
-                    "askQty": 350000,
-                    "bidQty": 140000,
-                    "bidprice": 1,
+                    "askPrice": 1,
+                    "askQty": 630000,
+                    "bidQty": 700000,
+                    "bidprice": 0.95,
                     "change": 0,
-                    "changeinOpenInterest": 0,
+                    "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDEA25-05-2023PE8.00",
                     "impliedVolatility": 0,
-                    "lastPrice": 0,
-                    "openInterest": 131,
+                    "lastPrice": 1,
+                    "openInterest": 129,
                     "pChange": 0,
-                    "pchangeinOpenInterest": 0,
+                    "pchangeinOpenInterest": -1.5267175572519085,
                     "strikePrice": 8,
-                    "totalBuyQuantity": 5600000,
-                    "totalSellQuantity": 700000,
-                    "totalTradedVolume": 0,
+                    "totalBuyQuantity": 6020000,
+                    "totalSellQuantity": 1680000,
+                    "totalTradedVolume": 3,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 8
@@ -1484,7 +1484,7 @@
                     "totalSellQuantity": 160000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
                     "askPrice": 1.45,
@@ -1505,7 +1505,7 @@
                     "totalSellQuantity": 160000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 8
@@ -1520,7 +1520,7 @@
                     "changeinOpenInterest": -4,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKIDEA29-06-2023CE8.00",
-                    "impliedVolatility": 63.39,
+                    "impliedVolatility": 61.47,
                     "lastPrice": 0.3,
                     "openInterest": 464,
                     "pChange": 0,
@@ -1530,28 +1530,28 @@
                     "totalSellQuantity": 20020000,
                     "totalTradedVolume": 14,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
                     "askPrice": 1.15,
                     "askQty": 70000,
-                    "bidQty": 1120000,
+                    "bidQty": 840000,
                     "bidprice": 1.1,
-                    "change": 0,
+                    "change": -0.04999999999999982,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKIDEA29-06-2023PE8.00",
                     "impliedVolatility": 0,
-                    "lastPrice": 0,
+                    "lastPrice": 1.1,
                     "openInterest": 84,
-                    "pChange": 0,
+                    "pChange": -4.347826086956506,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 8,
-                    "totalBuyQuantity": 2450000,
+                    "totalBuyQuantity": 2100000,
                     "totalSellQuantity": 630000,
-                    "totalTradedVolume": 0,
+                    "totalTradedVolume": 1,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 8
@@ -1576,13 +1576,13 @@
                     "totalSellQuantity": 40810000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
-                    "askPrice": 2.1,
+                    "askPrice": 2,
                     "askQty": 140000,
                     "bidQty": 70000,
-                    "bidprice": 1.9,
+                    "bidprice": 1.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1593,42 +1593,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 9,
-                    "totalBuyQuantity": 5740000,
-                    "totalSellQuantity": 350000,
+                    "totalBuyQuantity": 5810000,
+                    "totalSellQuantity": 280000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 9
             },
             {
                 "CE": {
-                    "askPrice": 0.15,
-                    "askQty": 1400000,
-                    "bidQty": 10290000,
-                    "bidprice": 0.1,
+                    "askPrice": 0.2,
+                    "askQty": 7700000,
+                    "bidQty": 4060000,
+                    "bidprice": 0.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKIDEA29-06-2023CE9.00",
-                    "impliedVolatility": 68.15,
+                    "impliedVolatility": 66.7,
                     "lastPrice": 0.15,
                     "openInterest": 120,
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 9,
-                    "totalBuyQuantity": 15050000,
-                    "totalSellQuantity": 16870000,
-                    "totalTradedVolume": 1,
+                    "totalBuyQuantity": 18690000,
+                    "totalSellQuantity": 15470000,
+                    "totalTradedVolume": 9,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
-                    "askPrice": 2.15,
-                    "askQty": 140000,
+                    "askPrice": 2.1,
+                    "askQty": 70000,
                     "bidQty": 140000,
-                    "bidprice": 1.85,
+                    "bidprice": 1.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -1639,11 +1639,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 9,
-                    "totalBuyQuantity": 3500000,
-                    "totalSellQuantity": 490000,
+                    "totalBuyQuantity": 3640000,
+                    "totalSellQuantity": 560000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 9
@@ -1668,7 +1668,7 @@
                     "totalSellQuantity": 160000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1689,7 +1689,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 9
@@ -1714,28 +1714,28 @@
                     "totalSellQuantity": 10850000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
-                    "askPrice": 3.1,
+                    "askPrice": 3,
                     "askQty": 70000,
                     "bidQty": 210000,
-                    "bidprice": 2.95,
+                    "bidprice": 2.85,
                     "change": 0.25,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKIDEA25-05-2023PE10.00",
-                    "impliedVolatility": 175.28,
+                    "impliedVolatility": 198.56,
                     "lastPrice": 3,
                     "openInterest": 11,
                     "pChange": 9.090909090909092,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 10,
                     "totalBuyQuantity": 1540000,
-                    "totalSellQuantity": 140000,
+                    "totalSellQuantity": 210000,
                     "totalTradedVolume": 1,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 10
@@ -1750,7 +1750,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKIDEA29-06-2023CE10.00",
-                    "impliedVolatility": 65.07,
+                    "impliedVolatility": 63.95,
                     "lastPrice": 0.05,
                     "openInterest": 95,
                     "pChange": -50,
@@ -1760,7 +1760,7 @@
                     "totalSellQuantity": 14000000,
                     "totalTradedVolume": 4,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
                     "askPrice": 3.1,
@@ -1771,7 +1771,7 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKIDEA29-06-2023PE10.00",
-                    "impliedVolatility": 68.94,
+                    "impliedVolatility": 78.61,
                     "lastPrice": 2.9,
                     "openInterest": 0,
                     "pChange": -27.500000000000004,
@@ -1781,7 +1781,7 @@
                     "totalSellQuantity": 2310000,
                     "totalTradedVolume": 1,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 10
@@ -1806,7 +1806,7 @@
                     "totalSellQuantity": 560000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1827,7 +1827,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 10
@@ -1852,13 +1852,13 @@
                     "totalSellQuantity": 1610000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
                     "askPrice": 6.95,
                     "askQty": 210000,
-                    "bidQty": 630000,
-                    "bidprice": 1.4,
+                    "bidQty": 700000,
+                    "bidprice": 1.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1869,11 +1869,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 11,
-                    "totalBuyQuantity": 980000,
+                    "totalBuyQuantity": 840000,
                     "totalSellQuantity": 210000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 11
@@ -1898,13 +1898,13 @@
                     "totalSellQuantity": 3080000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
-                    "askPrice": 4.2,
+                    "askPrice": 4.15,
                     "askQty": 140000,
                     "bidQty": 140000,
-                    "bidprice": 3.75,
+                    "bidprice": 3.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -1919,7 +1919,7 @@
                     "totalSellQuantity": 140000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 11
@@ -1944,13 +1944,13 @@
                     "totalSellQuantity": 1610000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
-                    "askPrice": 7.95,
-                    "askQty": 210000,
-                    "bidQty": 210000,
-                    "bidprice": 3.25,
+                    "askPrice": 5.1,
+                    "askQty": 140000,
+                    "bidQty": 140000,
+                    "bidprice": 4.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1961,11 +1961,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 12,
-                    "totalBuyQuantity": 2310000,
-                    "totalSellQuantity": 210000,
+                    "totalBuyQuantity": 2240000,
+                    "totalSellQuantity": 140000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 12
@@ -1990,13 +1990,13 @@
                     "totalSellQuantity": 280000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "PE": {
                     "askPrice": 5.15,
                     "askQty": 140000,
-                    "bidQty": 210000,
-                    "bidprice": 4.7,
+                    "bidQty": 140000,
+                    "bidprice": 4.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2007,11 +2007,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 12,
-                    "totalBuyQuantity": 2450000,
-                    "totalSellQuantity": 2240000,
+                    "totalBuyQuantity": 2240000,
+                    "totalSellQuantity": 140000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 12
@@ -2036,7 +2036,7 @@
                     "totalSellQuantity": 240000,
                     "totalTradedVolume": 0,
                     "underlying": "IDEA",
-                    "underlyingValue": 7.1
+                    "underlyingValue": 7.05
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 12
@@ -2061,7 +2061,7 @@
             11,
             12
         ],
-        "timestamp": "18-May-2023 10:19:49",
-        "underlyingValue": 7.1
+        "timestamp": "18-May-2023 10:26:47",
+        "underlyingValue": 7.05
     }
 }

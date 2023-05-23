@@ -1,12 +1,12 @@
 {
     "filtered": {
         "CE": {
-            "totOI": 14034,
-            "totVol": 2668
+            "totOI": 14043,
+            "totVol": 2919
         },
         "PE": {
-            "totOI": 6545,
-            "totVol": 877
+            "totOI": 6557,
+            "totVol": 995
         },
         "data": [
             {
@@ -29,7 +29,7 @@
                     "totalSellQuantity": 42900,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
                     "askPrice": 0,
@@ -50,7 +50,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 560
@@ -75,7 +75,7 @@
                     "totalSellQuantity": 42900,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
                     "askPrice": 3,
@@ -96,7 +96,7 @@
                     "totalSellQuantity": 40300,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 570
@@ -121,7 +121,7 @@
                     "totalSellQuantity": 42900,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
                     "askPrice": 2.95,
@@ -142,17 +142,17 @@
                     "totalSellQuantity": 39000,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 580
             },
             {
                 "CE": {
-                    "askPrice": 91.4,
+                    "askPrice": 89.2,
                     "askQty": 3900,
                     "bidQty": 3900,
-                    "bidprice": 84.85,
+                    "bidprice": 83.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -163,17 +163,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 590,
-                    "totalBuyQuantity": 50700,
+                    "totalBuyQuantity": 54600,
                     "totalSellQuantity": 54600,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
                     "askPrice": 0.6,
                     "askQty": 1300,
                     "bidQty": 1300,
-                    "bidprice": 0.1,
+                    "bidprice": 0.15,
                     "change": -0.04999999999999999,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -184,11 +184,11 @@
                     "pChange": -33.33333333333333,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 590,
-                    "totalBuyQuantity": 84500,
-                    "totalSellQuantity": 46800,
+                    "totalBuyQuantity": 85800,
+                    "totalSellQuantity": 50700,
                     "totalTradedVolume": 3,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 590
@@ -197,8 +197,8 @@
                 "CE": {
                     "askPrice": 79.05,
                     "askQty": 3900,
-                    "bidQty": 7800,
-                    "bidprice": 73.3,
+                    "bidQty": 2600,
+                    "bidprice": 73.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -209,11 +209,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 600,
-                    "totalBuyQuantity": 52000,
+                    "totalBuyQuantity": 53300,
                     "totalSellQuantity": 54600,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
                     "askPrice": 0.3,
@@ -234,17 +234,17 @@
                     "totalSellQuantity": 128700,
                     "totalTradedVolume": 6,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 600
             },
             {
                 "CE": {
-                    "askPrice": 70.05,
-                    "askQty": 9100,
+                    "askPrice": 69,
+                    "askQty": 3900,
                     "bidQty": 3900,
-                    "bidprice": 63.45,
+                    "bidprice": 63.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -255,11 +255,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 610,
-                    "totalBuyQuantity": 54600,
-                    "totalSellQuantity": 59800,
+                    "totalBuyQuantity": 50700,
+                    "totalSellQuantity": 54600,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
                     "askPrice": 0.5,
@@ -280,15 +280,15 @@
                     "totalSellQuantity": 48100,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 610
             },
             {
                 "CE": {
-                    "askPrice": 60.55,
-                    "askQty": 3900,
+                    "askPrice": 59.35,
+                    "askQty": 2600,
                     "bidQty": 3900,
                     "bidprice": 53.55,
                     "change": 0,
@@ -302,16 +302,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 620,
                     "totalBuyQuantity": 54600,
-                    "totalSellQuantity": 50700,
+                    "totalSellQuantity": 54600,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
-                    "askPrice": 0.6,
-                    "askQty": 1300,
+                    "askPrice": 0.55,
+                    "askQty": 3900,
                     "bidQty": 2600,
-                    "bidprice": 0.55,
+                    "bidprice": 0.5,
                     "change": -0.09999999999999998,
                     "changeinOpenInterest": 7,
                     "expiryDate": "25-May-2023",
@@ -322,21 +322,21 @@
                     "pChange": -15.38461538461538,
                     "pchangeinOpenInterest": 3.8043478260869565,
                     "strikePrice": 620,
-                    "totalBuyQuantity": 226200,
-                    "totalSellQuantity": 141700,
+                    "totalBuyQuantity": 227500,
+                    "totalSellQuantity": 145600,
                     "totalTradedVolume": 14,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 620
             },
             {
                 "CE": {
-                    "askPrice": 48.1,
+                    "askPrice": 49.05,
                     "askQty": 3900,
-                    "bidQty": 2600,
-                    "bidprice": 44.7,
+                    "bidQty": 1300,
+                    "bidprice": 47.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -348,41 +348,41 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 630,
                     "totalBuyQuantity": 59800,
-                    "totalSellQuantity": 55900,
+                    "totalSellQuantity": 63700,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
-                    "askPrice": 1.05,
-                    "askQty": 1300,
+                    "askPrice": 1,
+                    "askQty": 6500,
                     "bidQty": 3900,
-                    "bidprice": 1,
-                    "change": -0.10000000000000009,
-                    "changeinOpenInterest": 0,
+                    "bidprice": 0.95,
+                    "change": -0.15000000000000013,
+                    "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023PE630.00",
                     "impliedVolatility": 35.48,
-                    "lastPrice": 1,
-                    "openInterest": 287,
-                    "pChange": -9.090909090909099,
-                    "pchangeinOpenInterest": 0,
+                    "lastPrice": 0.95,
+                    "openInterest": 286,
+                    "pChange": -13.636363636363647,
+                    "pchangeinOpenInterest": -0.34843205574912894,
                     "strikePrice": 630,
-                    "totalBuyQuantity": 339300,
-                    "totalSellQuantity": 170300,
-                    "totalTradedVolume": 113,
+                    "totalBuyQuantity": 344500,
+                    "totalSellQuantity": 175500,
+                    "totalTradedVolume": 139,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 630
             },
             {
                 "CE": {
-                    "askPrice": 38.65,
-                    "askQty": 3900,
-                    "bidQty": 1300,
-                    "bidprice": 36.45,
+                    "askPrice": 39,
+                    "askQty": 1300,
+                    "bidQty": 2600,
+                    "bidprice": 36.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -394,41 +394,41 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 640,
                     "totalBuyQuantity": 65000,
-                    "totalSellQuantity": 61100,
+                    "totalSellQuantity": 53300,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
-                    "askPrice": 1.8,
-                    "askQty": 7800,
+                    "askPrice": 1.6,
+                    "askQty": 2600,
                     "bidQty": 1300,
-                    "bidprice": 1.7,
-                    "change": 0.050000000000000044,
-                    "changeinOpenInterest": -10,
+                    "bidprice": 1.55,
+                    "change": -0.1499999999999999,
+                    "changeinOpenInterest": -12,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023PE640.00",
                     "impliedVolatility": 34.11,
-                    "lastPrice": 1.75,
-                    "openInterest": 328,
-                    "pChange": 2.941176470588238,
-                    "pchangeinOpenInterest": -2.9585798816568047,
+                    "lastPrice": 1.55,
+                    "openInterest": 326,
+                    "pChange": -8.823529411764701,
+                    "pchangeinOpenInterest": -3.5502958579881656,
                     "strikePrice": 640,
-                    "totalBuyQuantity": 284700,
-                    "totalSellQuantity": 179400,
-                    "totalTradedVolume": 84,
+                    "totalBuyQuantity": 278200,
+                    "totalSellQuantity": 192400,
+                    "totalTradedVolume": 107,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 640
             },
             {
                 "CE": {
-                    "askPrice": 28.65,
+                    "askPrice": 29.25,
                     "askQty": 1300,
-                    "bidQty": 3900,
-                    "bidprice": 28.15,
+                    "bidQty": 1300,
+                    "bidprice": 28.9,
                     "change": -3.700000000000003,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
@@ -440,123 +440,123 @@
                     "pchangeinOpenInterest": -6.896551724137931,
                     "strikePrice": 650,
                     "totalBuyQuantity": 72800,
-                    "totalSellQuantity": 85800,
+                    "totalSellQuantity": 84500,
                     "totalTradedVolume": 12,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
-                    "askPrice": 2.85,
-                    "askQty": 5200,
-                    "bidQty": 2600,
-                    "bidprice": 2.75,
-                    "change": 0.09999999999999964,
-                    "changeinOpenInterest": -23,
+                    "askPrice": 2.65,
+                    "askQty": 3900,
+                    "bidQty": 1300,
+                    "bidprice": 2.55,
+                    "change": -0.10000000000000009,
+                    "changeinOpenInterest": -25,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023PE650.00",
                     "impliedVolatility": 31.98,
-                    "lastPrice": 2.8,
-                    "openInterest": 882,
-                    "pChange": 3.7037037037036904,
-                    "pchangeinOpenInterest": -2.541436464088398,
+                    "lastPrice": 2.6,
+                    "openInterest": 880,
+                    "pChange": -3.703703703703707,
+                    "pchangeinOpenInterest": -2.7624309392265194,
                     "strikePrice": 650,
-                    "totalBuyQuantity": 257400,
-                    "totalSellQuantity": 144300,
-                    "totalTradedVolume": 100,
+                    "totalBuyQuantity": 265200,
+                    "totalSellQuantity": 146900,
+                    "totalTradedVolume": 103,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 650
             },
             {
                 "CE": {
-                    "askPrice": 20.25,
-                    "askQty": 1300,
-                    "bidQty": 1300,
-                    "bidprice": 19.95,
-                    "change": -2.3500000000000014,
+                    "askPrice": 21.05,
+                    "askQty": 2600,
+                    "bidQty": 2600,
+                    "bidprice": 20.75,
+                    "change": -2.450000000000003,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023CE660.00",
                     "impliedVolatility": 25.11,
-                    "lastPrice": 20.25,
+                    "lastPrice": 20.15,
                     "openInterest": 41,
-                    "pChange": -10.39823008849558,
+                    "pChange": -10.840707964601782,
                     "pchangeinOpenInterest": -4.651162790697675,
                     "strikePrice": 660,
-                    "totalBuyQuantity": 132600,
-                    "totalSellQuantity": 124800,
-                    "totalTradedVolume": 18,
+                    "totalBuyQuantity": 135200,
+                    "totalSellQuantity": 111800,
+                    "totalTradedVolume": 20,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
-                    "askPrice": 4.45,
-                    "askQty": 1300,
-                    "bidQty": 5200,
-                    "bidprice": 4.35,
-                    "change": 0.5000000000000004,
+                    "askPrice": 4.1,
+                    "askQty": 2600,
+                    "bidQty": 3900,
+                    "bidprice": 4,
+                    "change": 0.1499999999999999,
                     "changeinOpenInterest": 21,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023PE660.00",
                     "impliedVolatility": 29.44,
-                    "lastPrice": 4.4,
+                    "lastPrice": 4.05,
                     "openInterest": 466,
-                    "pChange": 12.820512820512834,
+                    "pChange": 3.8461538461538445,
                     "pchangeinOpenInterest": 4.719101123595506,
                     "strikePrice": 660,
-                    "totalBuyQuantity": 240500,
-                    "totalSellQuantity": 195000,
-                    "totalTradedVolume": 108,
+                    "totalBuyQuantity": 197600,
+                    "totalSellQuantity": 205400,
+                    "totalTradedVolume": 116,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 660
             },
             {
                 "CE": {
-                    "askPrice": 12.9,
-                    "askQty": 1300,
-                    "bidQty": 1300,
-                    "bidprice": 12.8,
-                    "change": -2.549999999999999,
+                    "askPrice": 13.6,
+                    "askQty": 2600,
+                    "bidQty": 2600,
+                    "bidprice": 13.4,
+                    "change": -1.9000000000000004,
                     "changeinOpenInterest": 31,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023CE670.00",
                     "impliedVolatility": 24.72,
-                    "lastPrice": 12.8,
+                    "lastPrice": 13.45,
                     "openInterest": 257,
-                    "pChange": -16.61237785016286,
+                    "pChange": -12.377850162866451,
                     "pchangeinOpenInterest": 13.716814159292035,
                     "strikePrice": 670,
-                    "totalBuyQuantity": 156000,
-                    "totalSellQuantity": 176800,
-                    "totalTradedVolume": 248,
+                    "totalBuyQuantity": 176800,
+                    "totalSellQuantity": 172900,
+                    "totalTradedVolume": 254,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
-                    "askPrice": 7.1,
-                    "askQty": 5200,
-                    "bidQty": 2600,
-                    "bidprice": 7.05,
-                    "change": 0.6999999999999993,
-                    "changeinOpenInterest": 24,
+                    "askPrice": 6.8,
+                    "askQty": 2600,
+                    "bidQty": 1300,
+                    "bidprice": 6.7,
+                    "change": 0.39999999999999947,
+                    "changeinOpenInterest": 52,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023PE670.00",
                     "impliedVolatility": 27.77,
-                    "lastPrice": 7.1,
-                    "openInterest": 486,
-                    "pChange": 10.93749999999999,
-                    "pchangeinOpenInterest": 5.194805194805195,
+                    "lastPrice": 6.8,
+                    "openInterest": 514,
+                    "pChange": 6.249999999999992,
+                    "pchangeinOpenInterest": 11.255411255411255,
                     "strikePrice": 670,
-                    "totalBuyQuantity": 291200,
-                    "totalSellQuantity": 213200,
-                    "totalTradedVolume": 281,
+                    "totalBuyQuantity": 292500,
+                    "totalSellQuantity": 219700,
+                    "totalTradedVolume": 305,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 670
@@ -564,168 +564,168 @@
             {
                 "CE": {
                     "askPrice": 7.8,
-                    "askQty": 3900,
-                    "bidQty": 2600,
-                    "bidprice": 7.7,
+                    "askQty": 7800,
+                    "bidQty": 3900,
+                    "bidprice": 7.65,
                     "change": -1.7499999999999991,
-                    "changeinOpenInterest": 82,
+                    "changeinOpenInterest": 109,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023CE680.00",
                     "impliedVolatility": 24.07,
                     "lastPrice": 7.7,
-                    "openInterest": 1391,
+                    "openInterest": 1418,
                     "pChange": -18.51851851851851,
-                    "pchangeinOpenInterest": 6.264323911382735,
+                    "pchangeinOpenInterest": 8.326967150496563,
                     "strikePrice": 680,
-                    "totalBuyQuantity": 283400,
-                    "totalSellQuantity": 504400,
-                    "totalTradedVolume": 728,
+                    "totalBuyQuantity": 280800,
+                    "totalSellQuantity": 518700,
+                    "totalTradedVolume": 864,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
-                    "askPrice": 11.7,
+                    "askPrice": 11.1,
                     "askQty": 2600,
-                    "bidQty": 1300,
-                    "bidprice": 11.5,
-                    "change": 1.1999999999999993,
-                    "changeinOpenInterest": -5,
+                    "bidQty": 2600,
+                    "bidprice": 10.9,
+                    "change": 0.8499999999999996,
+                    "changeinOpenInterest": -15,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023PE680.00",
                     "impliedVolatility": 26.9,
-                    "lastPrice": 11.5,
-                    "openInterest": 770,
-                    "pChange": 11.650485436893195,
-                    "pchangeinOpenInterest": -0.6451612903225806,
+                    "lastPrice": 11.15,
+                    "openInterest": 760,
+                    "pChange": 8.252427184466015,
+                    "pchangeinOpenInterest": -1.935483870967742,
                     "strikePrice": 680,
-                    "totalBuyQuantity": 282100,
-                    "totalSellQuantity": 166400,
-                    "totalTradedVolume": 113,
+                    "totalBuyQuantity": 275600,
+                    "totalSellQuantity": 162500,
+                    "totalTradedVolume": 139,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 680
             },
             {
                 "CE": {
-                    "askPrice": 4.15,
-                    "askQty": 1300,
-                    "bidQty": 1300,
-                    "bidprice": 4.1,
-                    "change": -1.4500000000000002,
-                    "changeinOpenInterest": 3,
+                    "askPrice": 4.4,
+                    "askQty": 3900,
+                    "bidQty": 6500,
+                    "bidprice": 4.3,
+                    "change": -1.1499999999999995,
+                    "changeinOpenInterest": -10,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023CE690.00",
                     "impliedVolatility": 24.86,
-                    "lastPrice": 4.1,
-                    "openInterest": 1126,
-                    "pChange": -26.12612612612613,
-                    "pchangeinOpenInterest": 0.26714158504007124,
+                    "lastPrice": 4.4,
+                    "openInterest": 1113,
+                    "pChange": -20.720720720720713,
+                    "pchangeinOpenInterest": -0.8904719501335708,
                     "strikePrice": 690,
-                    "totalBuyQuantity": 240500,
-                    "totalSellQuantity": 458900,
-                    "totalTradedVolume": 445,
+                    "totalBuyQuantity": 262600,
+                    "totalSellQuantity": 438100,
+                    "totalTradedVolume": 478,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
-                    "askPrice": 18.5,
-                    "askQty": 1300,
-                    "bidQty": 3900,
-                    "bidprice": 18.15,
-                    "change": 1.9499999999999993,
+                    "askPrice": 17.85,
+                    "askQty": 2600,
+                    "bidQty": 1300,
+                    "bidprice": 17.55,
+                    "change": 1.3499999999999979,
                     "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023PE690.00",
                     "impliedVolatility": 28.55,
-                    "lastPrice": 18.3,
+                    "lastPrice": 17.7,
                     "openInterest": 239,
-                    "pChange": 11.926605504587151,
+                    "pChange": 8.256880733944941,
                     "pchangeinOpenInterest": -1.2396694214876034,
                     "strikePrice": 690,
-                    "totalBuyQuantity": 183300,
-                    "totalSellQuantity": 115700,
-                    "totalTradedVolume": 29,
+                    "totalBuyQuantity": 178100,
+                    "totalSellQuantity": 110500,
+                    "totalTradedVolume": 31,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 690
             },
             {
                 "CE": {
-                    "askPrice": 2.75,
-                    "askQty": 3900,
-                    "bidQty": 7800,
-                    "bidprice": 2.65,
+                    "askPrice": 2.7,
+                    "askQty": 5200,
+                    "bidQty": 5200,
+                    "bidprice": 2.6,
                     "change": -0.6999999999999997,
-                    "changeinOpenInterest": 50,
+                    "changeinOpenInterest": 48,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023CE700.00",
                     "impliedVolatility": 27.16,
                     "lastPrice": 2.7,
-                    "openInterest": 2285,
+                    "openInterest": 2283,
                     "pChange": -20.58823529411764,
-                    "pchangeinOpenInterest": 2.237136465324385,
+                    "pchangeinOpenInterest": 2.1476510067114094,
                     "strikePrice": 700,
-                    "totalBuyQuantity": 280800,
-                    "totalSellQuantity": 523900,
-                    "totalTradedVolume": 369,
+                    "totalBuyQuantity": 273000,
+                    "totalSellQuantity": 531700,
+                    "totalTradedVolume": 398,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
-                    "askPrice": 27.05,
+                    "askPrice": 25.85,
                     "askQty": 2600,
                     "bidQty": 1300,
-                    "bidprice": 26.45,
-                    "change": 2.349999999999998,
-                    "changeinOpenInterest": -4,
+                    "bidprice": 25.5,
+                    "change": 1.3499999999999979,
+                    "changeinOpenInterest": -5,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023PE700.00",
                     "impliedVolatility": 31.36,
-                    "lastPrice": 26.65,
-                    "openInterest": 659,
-                    "pChange": 9.670781893004106,
-                    "pchangeinOpenInterest": -0.6033182503770739,
+                    "lastPrice": 25.65,
+                    "openInterest": 658,
+                    "pChange": 5.5555555555555465,
+                    "pchangeinOpenInterest": -0.7541478129713424,
                     "strikePrice": 700,
-                    "totalBuyQuantity": 163800,
-                    "totalSellQuantity": 109200,
-                    "totalTradedVolume": 16,
+                    "totalBuyQuantity": 167700,
+                    "totalSellQuantity": 117000,
+                    "totalTradedVolume": 19,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 700
             },
             {
                 "CE": {
-                    "askPrice": 1.65,
-                    "askQty": 5200,
-                    "bidQty": 5200,
-                    "bidprice": 1.55,
-                    "change": -0.44999999999999973,
-                    "changeinOpenInterest": 2,
+                    "askPrice": 1.7,
+                    "askQty": 10400,
+                    "bidQty": 2600,
+                    "bidprice": 1.6,
+                    "change": -0.3999999999999999,
+                    "changeinOpenInterest": 4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023CE710.00",
                     "impliedVolatility": 29.32,
-                    "lastPrice": 1.6,
-                    "openInterest": 1410,
-                    "pChange": -21.95121951219511,
-                    "pchangeinOpenInterest": 0.14204545454545456,
+                    "lastPrice": 1.65,
+                    "openInterest": 1412,
+                    "pChange": -19.51219512195122,
+                    "pchangeinOpenInterest": 0.2840909090909091,
                     "strikePrice": 710,
-                    "totalBuyQuantity": 261300,
-                    "totalSellQuantity": 300300,
-                    "totalTradedVolume": 171,
+                    "totalBuyQuantity": 269100,
+                    "totalSellQuantity": 302900,
+                    "totalTradedVolume": 178,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
-                    "askPrice": 35.95,
-                    "askQty": 1300,
-                    "bidQty": 1300,
-                    "bidprice": 35.4,
+                    "askPrice": 35.1,
+                    "askQty": 2600,
+                    "bidQty": 2600,
+                    "bidprice": 34.65,
                     "change": 2.9000000000000057,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -736,42 +736,42 @@
                     "pChange": 8.909370199692798,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 710,
-                    "totalBuyQuantity": 107900,
-                    "totalSellQuantity": 104000,
+                    "totalBuyQuantity": 106600,
+                    "totalSellQuantity": 106600,
                     "totalTradedVolume": 2,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 710
             },
             {
                 "CE": {
-                    "askPrice": 1.25,
-                    "askQty": 6500,
-                    "bidQty": 18200,
-                    "bidprice": 1.2,
-                    "change": -0.30000000000000004,
-                    "changeinOpenInterest": 29,
+                    "askPrice": 1.3,
+                    "askQty": 2600,
+                    "bidQty": 3900,
+                    "bidprice": 1.25,
+                    "change": -0.25,
+                    "changeinOpenInterest": 11,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023CE720.00",
                     "impliedVolatility": 32.79,
-                    "lastPrice": 1.2,
-                    "openInterest": 1585,
-                    "pChange": -20.000000000000004,
-                    "pchangeinOpenInterest": 1.8637532133676094,
+                    "lastPrice": 1.25,
+                    "openInterest": 1567,
+                    "pChange": -16.666666666666664,
+                    "pchangeinOpenInterest": 0.7069408740359897,
                     "strikePrice": 720,
                     "totalBuyQuantity": 388700,
-                    "totalSellQuantity": 340600,
-                    "totalTradedVolume": 339,
+                    "totalSellQuantity": 343200,
+                    "totalTradedVolume": 347,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
-                    "askPrice": 45.6,
-                    "askQty": 2600,
+                    "askPrice": 44.6,
+                    "askQty": 1300,
                     "bidQty": 1300,
-                    "bidprice": 44.8,
+                    "bidprice": 43.9,
                     "change": 3.25,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -782,11 +782,11 @@
                     "pChange": 7.784431137724551,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 720,
-                    "totalBuyQuantity": 105300,
+                    "totalBuyQuantity": 104000,
                     "totalSellQuantity": 94900,
                     "totalTradedVolume": 2,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 720
@@ -794,45 +794,45 @@
             {
                 "CE": {
                     "askPrice": 0.9,
-                    "askQty": 5200,
-                    "bidQty": 2600,
+                    "askQty": 7800,
+                    "bidQty": 6500,
                     "bidprice": 0.85,
-                    "change": -0.2500000000000001,
-                    "changeinOpenInterest": 23,
+                    "change": -0.20000000000000007,
+                    "changeinOpenInterest": 25,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023CE730.00",
                     "impliedVolatility": 35.05,
-                    "lastPrice": 0.85,
-                    "openInterest": 991,
-                    "pChange": -22.727272727272734,
-                    "pchangeinOpenInterest": 2.37603305785124,
+                    "lastPrice": 0.9,
+                    "openInterest": 993,
+                    "pChange": -18.181818181818183,
+                    "pchangeinOpenInterest": 2.5826446280991737,
                     "strikePrice": 730,
-                    "totalBuyQuantity": 314600,
-                    "totalSellQuantity": 235300,
-                    "totalTradedVolume": 145,
+                    "totalBuyQuantity": 315900,
+                    "totalSellQuantity": 241800,
+                    "totalTradedVolume": 154,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
-                    "askPrice": 55.15,
+                    "askPrice": 54.3,
                     "askQty": 1300,
-                    "bidQty": 1300,
-                    "bidprice": 54.25,
-                    "change": 2.799999999999997,
+                    "bidQty": 2600,
+                    "bidprice": 52.95,
+                    "change": 2,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023PE730.00",
                     "impliedVolatility": 43.44,
-                    "lastPrice": 54.8,
+                    "lastPrice": 54,
                     "openInterest": 193,
-                    "pChange": 5.38461538461538,
+                    "pChange": 3.8461538461538463,
                     "pchangeinOpenInterest": -1.0256410256410255,
                     "strikePrice": 730,
-                    "totalBuyQuantity": 97500,
-                    "totalSellQuantity": 89700,
-                    "totalTradedVolume": 4,
+                    "totalBuyQuantity": 104000,
+                    "totalSellQuantity": 96200,
+                    "totalTradedVolume": 7,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 730
@@ -840,30 +840,30 @@
             {
                 "CE": {
                     "askPrice": 0.65,
-                    "askQty": 18200,
-                    "bidQty": 6500,
+                    "askQty": 6500,
+                    "bidQty": 22100,
                     "bidprice": 0.6,
-                    "change": -0.19999999999999996,
-                    "changeinOpenInterest": 8,
+                    "change": -0.25,
+                    "changeinOpenInterest": 16,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023CE740.00",
                     "impliedVolatility": 37.38,
-                    "lastPrice": 0.65,
-                    "openInterest": 899,
-                    "pChange": -23.529411764705877,
-                    "pchangeinOpenInterest": 0.8978675645342312,
+                    "lastPrice": 0.6,
+                    "openInterest": 907,
+                    "pChange": -29.411764705882355,
+                    "pchangeinOpenInterest": 1.7957351290684624,
                     "strikePrice": 740,
-                    "totalBuyQuantity": 479700,
-                    "totalSellQuantity": 317200,
-                    "totalTradedVolume": 84,
+                    "totalBuyQuantity": 501800,
+                    "totalSellQuantity": 301600,
+                    "totalTradedVolume": 85,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
-                    "askPrice": 65.15,
-                    "askQty": 2600,
-                    "bidQty": 7800,
-                    "bidprice": 63.65,
+                    "askPrice": 64.35,
+                    "askQty": 1300,
+                    "bidQty": 2600,
+                    "bidprice": 63,
                     "change": 2.6000000000000014,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -874,11 +874,11 @@
                     "pChange": 4.237978810105951,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 740,
-                    "totalBuyQuantity": 110500,
-                    "totalSellQuantity": 85800,
+                    "totalBuyQuantity": 102700,
+                    "totalSellQuantity": 88400,
                     "totalTradedVolume": 1,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 740
@@ -886,30 +886,30 @@
             {
                 "CE": {
                     "askPrice": 0.5,
-                    "askQty": 10400,
-                    "bidQty": 29900,
+                    "askQty": 1300,
+                    "bidQty": 19500,
                     "bidprice": 0.45,
                     "change": -0.15000000000000002,
-                    "changeinOpenInterest": -29,
+                    "changeinOpenInterest": -33,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023CE750.00",
                     "impliedVolatility": 39.92,
                     "lastPrice": 0.5,
-                    "openInterest": 1366,
+                    "openInterest": 1362,
                     "pChange": -23.076923076923077,
-                    "pchangeinOpenInterest": -2.078853046594982,
+                    "pchangeinOpenInterest": -2.3655913978494625,
                     "strikePrice": 750,
-                    "totalBuyQuantity": 934700,
-                    "totalSellQuantity": 273000,
-                    "totalTradedVolume": 72,
+                    "totalBuyQuantity": 937300,
+                    "totalSellQuantity": 265200,
+                    "totalTradedVolume": 81,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
-                    "askPrice": 76.35,
+                    "askPrice": 73.9,
                     "askQty": 2600,
-                    "bidQty": 5200,
-                    "bidprice": 72.35,
+                    "bidQty": 1300,
+                    "bidprice": 72.65,
                     "change": 0.45000000000000284,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -920,11 +920,11 @@
                     "pChange": 0.6306937631394574,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 750,
-                    "totalBuyQuantity": 115700,
-                    "totalSellQuantity": 97500,
+                    "totalBuyQuantity": 104000,
+                    "totalSellQuantity": 92300,
                     "totalTradedVolume": 1,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 750
@@ -932,30 +932,30 @@
             {
                 "CE": {
                     "askPrice": 0.45,
-                    "askQty": 2600,
-                    "bidQty": 15600,
-                    "bidprice": 0.35,
-                    "change": -0.15000000000000002,
+                    "askQty": 5200,
+                    "bidQty": 1300,
+                    "bidprice": 0.4,
+                    "change": -0.10000000000000003,
                     "changeinOpenInterest": -12,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023CE760.00",
                     "impliedVolatility": 42.51,
-                    "lastPrice": 0.4,
+                    "lastPrice": 0.45,
                     "openInterest": 597,
-                    "pChange": -27.272727272727277,
+                    "pChange": -18.181818181818183,
                     "pchangeinOpenInterest": -1.9704433497536946,
                     "strikePrice": 760,
-                    "totalBuyQuantity": 365300,
-                    "totalSellQuantity": 202800,
-                    "totalTradedVolume": 23,
+                    "totalBuyQuantity": 369200,
+                    "totalSellQuantity": 208000,
+                    "totalTradedVolume": 25,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
-                    "askPrice": 84.9,
+                    "askPrice": 84.25,
                     "askQty": 1300,
                     "bidQty": 5200,
-                    "bidprice": 81.8,
+                    "bidprice": 82.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -966,11 +966,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 760,
-                    "totalBuyQuantity": 93600,
+                    "totalBuyQuantity": 94900,
                     "totalSellQuantity": 63700,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 760
@@ -991,17 +991,17 @@
                     "pChange": -12.50000000000001,
                     "pchangeinOpenInterest": 0.303951367781155,
                     "strikePrice": 770,
-                    "totalBuyQuantity": 366600,
+                    "totalBuyQuantity": 371800,
                     "totalSellQuantity": 163800,
                     "totalTradedVolume": 7,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
-                    "askPrice": 96.6,
+                    "askPrice": 96.75,
                     "askQty": 3900,
-                    "bidQty": 3900,
-                    "bidprice": 91.45,
+                    "bidQty": 5200,
+                    "bidprice": 91.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1012,11 +1012,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 770,
-                    "totalBuyQuantity": 92300,
-                    "totalSellQuantity": 62400,
+                    "totalBuyQuantity": 89700,
+                    "totalSellQuantity": 58500,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 770
@@ -1028,26 +1028,26 @@
                     "bidQty": 9100,
                     "bidprice": 0.25,
                     "change": 0,
-                    "changeinOpenInterest": 0,
+                    "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023CE780.00",
                     "impliedVolatility": 0,
                     "lastPrice": 0,
-                    "openInterest": 430,
+                    "openInterest": 429,
                     "pChange": 0,
-                    "pchangeinOpenInterest": 0,
+                    "pchangeinOpenInterest": -0.23255813953488372,
                     "strikePrice": 780,
                     "totalBuyQuantity": 200200,
                     "totalSellQuantity": 137800,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
-                    "askPrice": 106.9,
+                    "askPrice": 105.85,
                     "askQty": 3900,
                     "bidQty": 3900,
-                    "bidprice": 99.3,
+                    "bidprice": 101.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1058,11 +1058,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 780,
-                    "totalBuyQuantity": 52000,
-                    "totalSellQuantity": 50700,
+                    "totalBuyQuantity": 55900,
+                    "totalSellQuantity": 54600,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 780
@@ -1087,13 +1087,13 @@
                     "totalSellQuantity": 85800,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
-                    "askPrice": 115.95,
+                    "askPrice": 117.35,
                     "askQty": 3900,
                     "bidQty": 3900,
-                    "bidprice": 111.6,
+                    "bidprice": 110.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1104,11 +1104,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 790,
-                    "totalBuyQuantity": 50700,
+                    "totalBuyQuantity": 54600,
                     "totalSellQuantity": 50700,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 790
@@ -1116,30 +1116,30 @@
             {
                 "CE": {
                     "askPrice": 0.2,
-                    "askQty": 9100,
-                    "bidQty": 237900,
+                    "askQty": 20800,
+                    "bidQty": 226200,
                     "bidprice": 0.15,
-                    "change": -0.04999999999999999,
+                    "change": -0.1,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023CE800.00",
                     "impliedVolatility": 52.48,
-                    "lastPrice": 0.2,
+                    "lastPrice": 0.15,
                     "openInterest": 650,
-                    "pChange": -19.999999999999996,
+                    "pChange": -40,
                     "pchangeinOpenInterest": -0.15360983102918588,
                     "strikePrice": 800,
-                    "totalBuyQuantity": 516100,
-                    "totalSellQuantity": 114400,
-                    "totalTradedVolume": 6,
+                    "totalBuyQuantity": 509600,
+                    "totalSellQuantity": 126100,
+                    "totalTradedVolume": 15,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
-                    "askPrice": 126.9,
+                    "askPrice": 126.75,
                     "askQty": 3900,
-                    "bidQty": 3900,
-                    "bidprice": 120.05,
+                    "bidQty": 1300,
+                    "bidprice": 120.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1150,11 +1150,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 800,
-                    "totalBuyQuantity": 58500,
-                    "totalSellQuantity": 54600,
+                    "totalBuyQuantity": 59800,
+                    "totalSellQuantity": 58500,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 800
@@ -1179,7 +1179,7 @@
                     "totalSellQuantity": 117000,
                     "totalTradedVolume": 1,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
                     "askPrice": 136.45,
@@ -1200,7 +1200,7 @@
                     "totalSellQuantity": 46800,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 810
@@ -1225,7 +1225,7 @@
                     "totalSellQuantity": 87100,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
                     "askPrice": 146.8,
@@ -1246,7 +1246,7 @@
                     "totalSellQuantity": 50700,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 820
@@ -1271,13 +1271,13 @@
                     "totalSellQuantity": 57200,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
-                    "askPrice": 156.5,
+                    "askPrice": 155.4,
                     "askQty": 3900,
-                    "bidQty": 3900,
-                    "bidprice": 149.65,
+                    "bidQty": 1300,
+                    "bidprice": 148.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1288,11 +1288,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 830,
-                    "totalBuyQuantity": 52000,
+                    "totalBuyQuantity": 48100,
                     "totalSellQuantity": 50700,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 830
@@ -1317,13 +1317,13 @@
                     "totalSellQuantity": 44200,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
-                    "askPrice": 166.7,
-                    "askQty": 3900,
+                    "askPrice": 166.75,
+                    "askQty": 7800,
                     "bidQty": 3900,
-                    "bidprice": 160.25,
+                    "bidprice": 158.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1335,10 +1335,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 840,
                     "totalBuyQuantity": 54600,
-                    "totalSellQuantity": 50700,
+                    "totalSellQuantity": 46800,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 840
@@ -1363,7 +1363,7 @@
                     "totalSellQuantity": 41600,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
                     "askPrice": 176.65,
@@ -1384,14 +1384,14 @@
                     "totalSellQuantity": 46800,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 850
             },
             {
                 "CE": {
-                    "askPrice": 1.05,
+                    "askPrice": 0.5,
                     "askQty": 5200,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -1406,10 +1406,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 860,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 44200,
+                    "totalSellQuantity": 13000,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
                     "askPrice": 203.3,
@@ -1430,12 +1430,33 @@
                     "totalSellQuantity": 39000,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 860
             },
             {
+                "CE": {
+                    "askPrice": 0.3,
+                    "askQty": 2600,
+                    "bidQty": 0,
+                    "bidprice": 0,
+                    "change": 0,
+                    "changeinOpenInterest": 0,
+                    "expiryDate": "25-May-2023",
+                    "identifier": "OPTSTKUPL25-05-2023CE870.00",
+                    "impliedVolatility": 0,
+                    "lastPrice": 0,
+                    "openInterest": 8,
+                    "pChange": 0,
+                    "pchangeinOpenInterest": 0,
+                    "strikePrice": 870,
+                    "totalBuyQuantity": 0,
+                    "totalSellQuantity": 15600,
+                    "totalTradedVolume": 0,
+                    "underlying": "UPL",
+                    "underlyingValue": 676.1
+                },
                 "PE": {
                     "askPrice": 214.45,
                     "askQty": 39000,
@@ -1455,7 +1476,7 @@
                     "totalSellQuantity": 39000,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 870
@@ -1484,7 +1505,7 @@
                     "totalSellQuantity": 42900,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1505,7 +1526,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 560
@@ -1530,7 +1551,7 @@
                     "totalSellQuantity": 39000,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 560
@@ -1555,7 +1576,7 @@
                     "totalSellQuantity": 42900,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
                     "askPrice": 2.8,
@@ -1576,7 +1597,7 @@
                     "totalSellQuantity": 39000,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 570
@@ -1601,7 +1622,7 @@
                     "totalSellQuantity": 42900,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
                     "askPrice": 3,
@@ -1622,7 +1643,7 @@
                     "totalSellQuantity": 40300,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 570
@@ -1647,7 +1668,7 @@
                     "totalSellQuantity": 42900,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
                     "askPrice": 2.95,
@@ -1668,7 +1689,7 @@
                     "totalSellQuantity": 39000,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 580
@@ -1693,7 +1714,7 @@
                     "totalSellQuantity": 42900,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
                     "askPrice": 4.05,
@@ -1714,7 +1735,7 @@
                     "totalSellQuantity": 39000,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 580
@@ -1739,7 +1760,7 @@
                     "totalSellQuantity": 39000,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1760,17 +1781,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 590
             },
             {
                 "CE": {
-                    "askPrice": 91.4,
+                    "askPrice": 89.2,
                     "askQty": 3900,
                     "bidQty": 3900,
-                    "bidprice": 84.85,
+                    "bidprice": 83.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1781,17 +1802,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 590,
-                    "totalBuyQuantity": 50700,
+                    "totalBuyQuantity": 54600,
                     "totalSellQuantity": 54600,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
                     "askPrice": 0.6,
                     "askQty": 1300,
                     "bidQty": 1300,
-                    "bidprice": 0.1,
+                    "bidprice": 0.15,
                     "change": -0.04999999999999999,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1802,11 +1823,11 @@
                     "pChange": -33.33333333333333,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 590,
-                    "totalBuyQuantity": 84500,
-                    "totalSellQuantity": 46800,
+                    "totalBuyQuantity": 85800,
+                    "totalSellQuantity": 50700,
                     "totalTradedVolume": 3,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 590
@@ -1815,8 +1836,8 @@
                 "CE": {
                     "askPrice": 79.05,
                     "askQty": 3900,
-                    "bidQty": 7800,
-                    "bidprice": 73.3,
+                    "bidQty": 2600,
+                    "bidprice": 73.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1827,11 +1848,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 600,
-                    "totalBuyQuantity": 52000,
+                    "totalBuyQuantity": 53300,
                     "totalSellQuantity": 54600,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
                     "askPrice": 0.3,
@@ -1852,17 +1873,17 @@
                     "totalSellQuantity": 128700,
                     "totalTradedVolume": 6,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 600
             },
             {
                 "CE": {
-                    "askPrice": 94.05,
+                    "askPrice": 93.95,
                     "askQty": 3900,
                     "bidQty": 3900,
-                    "bidprice": 75.35,
+                    "bidprice": 72.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -1873,17 +1894,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 600,
-                    "totalBuyQuantity": 45500,
+                    "totalBuyQuantity": 42900,
                     "totalSellQuantity": 42900,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
-                    "askPrice": 3.3,
-                    "askQty": 1300,
+                    "askPrice": 3.5,
+                    "askQty": 2600,
                     "bidQty": 1300,
-                    "bidprice": 0.95,
+                    "bidprice": 0.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -1894,21 +1915,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 600,
-                    "totalBuyQuantity": 58500,
-                    "totalSellQuantity": 9100,
+                    "totalBuyQuantity": 57200,
+                    "totalSellQuantity": 6500,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 600
             },
             {
                 "CE": {
-                    "askPrice": 70.05,
-                    "askQty": 9100,
+                    "askPrice": 69,
+                    "askQty": 3900,
                     "bidQty": 3900,
-                    "bidprice": 63.45,
+                    "bidprice": 63.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1919,11 +1940,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 610,
-                    "totalBuyQuantity": 54600,
-                    "totalSellQuantity": 59800,
+                    "totalBuyQuantity": 50700,
+                    "totalSellQuantity": 54600,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
                     "askPrice": 0.5,
@@ -1944,17 +1965,17 @@
                     "totalSellQuantity": 48100,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 610
             },
             {
                 "CE": {
-                    "askPrice": 78.2,
+                    "askPrice": 78.1,
                     "askQty": 1300,
-                    "bidQty": 1300,
-                    "bidprice": 68.5,
+                    "bidQty": 5200,
+                    "bidprice": 68.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -1965,11 +1986,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 610,
-                    "totalBuyQuantity": 40300,
+                    "totalBuyQuantity": 44200,
                     "totalSellQuantity": 40300,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
                     "askPrice": 5.6,
@@ -1990,7 +2011,7 @@
                     "totalSellQuantity": 40300,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 610
@@ -2015,7 +2036,7 @@
                     "totalSellQuantity": 1300,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
                     "askPrice": 15.85,
@@ -2036,15 +2057,15 @@
                     "totalSellQuantity": 1300,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 620
             },
             {
                 "CE": {
-                    "askPrice": 60.55,
-                    "askQty": 3900,
+                    "askPrice": 59.35,
+                    "askQty": 2600,
                     "bidQty": 3900,
                     "bidprice": 53.55,
                     "change": 0,
@@ -2058,16 +2079,16 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 620,
                     "totalBuyQuantity": 54600,
-                    "totalSellQuantity": 50700,
+                    "totalSellQuantity": 54600,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
-                    "askPrice": 0.6,
-                    "askQty": 1300,
+                    "askPrice": 0.55,
+                    "askQty": 3900,
                     "bidQty": 2600,
-                    "bidprice": 0.55,
+                    "bidprice": 0.5,
                     "change": -0.09999999999999998,
                     "changeinOpenInterest": 7,
                     "expiryDate": "25-May-2023",
@@ -2078,11 +2099,11 @@
                     "pChange": -15.38461538461538,
                     "pchangeinOpenInterest": 3.8043478260869565,
                     "strikePrice": 620,
-                    "totalBuyQuantity": 226200,
-                    "totalSellQuantity": 141700,
+                    "totalBuyQuantity": 227500,
+                    "totalSellQuantity": 145600,
                     "totalTradedVolume": 14,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 620
@@ -2107,7 +2128,7 @@
                     "totalSellQuantity": 44200,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
                     "askPrice": 3.7,
@@ -2128,17 +2149,17 @@
                     "totalSellQuantity": 45500,
                     "totalTradedVolume": 1,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 620
             },
             {
                 "CE": {
-                    "askPrice": 48.1,
+                    "askPrice": 49.05,
                     "askQty": 3900,
-                    "bidQty": 2600,
-                    "bidprice": 44.7,
+                    "bidQty": 1300,
+                    "bidprice": 47.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2150,31 +2171,31 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 630,
                     "totalBuyQuantity": 59800,
-                    "totalSellQuantity": 55900,
+                    "totalSellQuantity": 63700,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
-                    "askPrice": 1.05,
-                    "askQty": 1300,
+                    "askPrice": 1,
+                    "askQty": 6500,
                     "bidQty": 3900,
-                    "bidprice": 1,
-                    "change": -0.10000000000000009,
-                    "changeinOpenInterest": 0,
+                    "bidprice": 0.95,
+                    "change": -0.15000000000000013,
+                    "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023PE630.00",
                     "impliedVolatility": 35.48,
-                    "lastPrice": 1,
-                    "openInterest": 287,
-                    "pChange": -9.090909090909099,
-                    "pchangeinOpenInterest": 0,
+                    "lastPrice": 0.95,
+                    "openInterest": 286,
+                    "pChange": -13.636363636363647,
+                    "pchangeinOpenInterest": -0.34843205574912894,
                     "strikePrice": 630,
-                    "totalBuyQuantity": 339300,
-                    "totalSellQuantity": 170300,
-                    "totalTradedVolume": 113,
+                    "totalBuyQuantity": 344500,
+                    "totalSellQuantity": 175500,
+                    "totalTradedVolume": 139,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 630
@@ -2199,7 +2220,7 @@
                     "totalSellQuantity": 44200,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
                     "askPrice": 8.15,
@@ -2220,17 +2241,17 @@
                     "totalSellQuantity": 79300,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 630
             },
             {
                 "CE": {
-                    "askPrice": 60.55,
+                    "askPrice": 56.35,
                     "askQty": 3900,
                     "bidQty": 3900,
-                    "bidprice": 33.6,
+                    "bidprice": 36.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2241,14 +2262,14 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 640,
-                    "totalBuyQuantity": 3900,
-                    "totalSellQuantity": 42900,
+                    "totalBuyQuantity": 6500,
+                    "totalSellQuantity": 45500,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
-                    "askPrice": 9.2,
+                    "askPrice": 8.5,
                     "askQty": 1300,
                     "bidQty": 2600,
                     "bidprice": 6,
@@ -2262,21 +2283,21 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 640,
-                    "totalBuyQuantity": 41600,
-                    "totalSellQuantity": 84500,
+                    "totalBuyQuantity": 2600,
+                    "totalSellQuantity": 46800,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 640
             },
             {
                 "CE": {
-                    "askPrice": 38.65,
-                    "askQty": 3900,
-                    "bidQty": 1300,
-                    "bidprice": 36.45,
+                    "askPrice": 39,
+                    "askQty": 1300,
+                    "bidQty": 2600,
+                    "bidprice": 36.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2288,41 +2309,41 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 640,
                     "totalBuyQuantity": 65000,
-                    "totalSellQuantity": 61100,
+                    "totalSellQuantity": 53300,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
-                    "askPrice": 1.8,
-                    "askQty": 7800,
+                    "askPrice": 1.6,
+                    "askQty": 2600,
                     "bidQty": 1300,
-                    "bidprice": 1.7,
-                    "change": 0.050000000000000044,
-                    "changeinOpenInterest": -10,
+                    "bidprice": 1.55,
+                    "change": -0.1499999999999999,
+                    "changeinOpenInterest": -12,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023PE640.00",
                     "impliedVolatility": 34.11,
-                    "lastPrice": 1.75,
-                    "openInterest": 328,
-                    "pChange": 2.941176470588238,
-                    "pchangeinOpenInterest": -2.9585798816568047,
+                    "lastPrice": 1.55,
+                    "openInterest": 326,
+                    "pChange": -8.823529411764701,
+                    "pchangeinOpenInterest": -3.5502958579881656,
                     "strikePrice": 640,
-                    "totalBuyQuantity": 284700,
-                    "totalSellQuantity": 179400,
-                    "totalTradedVolume": 84,
+                    "totalBuyQuantity": 278200,
+                    "totalSellQuantity": 192400,
+                    "totalTradedVolume": 107,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 640
             },
             {
                 "CE": {
-                    "askPrice": 41.45,
-                    "askQty": 2600,
-                    "bidQty": 5200,
-                    "bidprice": 34.4,
+                    "askPrice": 42.3,
+                    "askQty": 1300,
+                    "bidQty": 1300,
+                    "bidprice": 38.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2333,42 +2354,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 650,
-                    "totalBuyQuantity": 6500,
-                    "totalSellQuantity": 42900,
+                    "totalBuyQuantity": 1300,
+                    "totalSellQuantity": 40300,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
-                    "askPrice": 9.5,
+                    "askPrice": 9.15,
                     "askQty": 1300,
                     "bidQty": 6500,
-                    "bidprice": 9.2,
-                    "change": 0.9000000000000004,
+                    "bidprice": 8.95,
+                    "change": 0.6500000000000004,
                     "changeinOpenInterest": -6,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKUPL29-06-2023PE650.00",
                     "impliedVolatility": 24.64,
-                    "lastPrice": 9.25,
+                    "lastPrice": 9,
                     "openInterest": 205,
-                    "pChange": 10.77844311377246,
+                    "pChange": 7.784431137724555,
                     "pchangeinOpenInterest": -2.843601895734597,
                     "strikePrice": 650,
-                    "totalBuyQuantity": 163800,
-                    "totalSellQuantity": 146900,
-                    "totalTradedVolume": 15,
+                    "totalBuyQuantity": 162500,
+                    "totalSellQuantity": 150800,
+                    "totalTradedVolume": 17,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 650
             },
             {
                 "CE": {
-                    "askPrice": 28.65,
+                    "askPrice": 29.25,
                     "askQty": 1300,
-                    "bidQty": 3900,
-                    "bidprice": 28.15,
+                    "bidQty": 1300,
+                    "bidprice": 28.9,
                     "change": -3.700000000000003,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
@@ -2380,31 +2401,31 @@
                     "pchangeinOpenInterest": -6.896551724137931,
                     "strikePrice": 650,
                     "totalBuyQuantity": 72800,
-                    "totalSellQuantity": 85800,
+                    "totalSellQuantity": 84500,
                     "totalTradedVolume": 12,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
-                    "askPrice": 2.85,
-                    "askQty": 5200,
-                    "bidQty": 2600,
-                    "bidprice": 2.75,
-                    "change": 0.09999999999999964,
-                    "changeinOpenInterest": -23,
+                    "askPrice": 2.65,
+                    "askQty": 3900,
+                    "bidQty": 1300,
+                    "bidprice": 2.55,
+                    "change": -0.10000000000000009,
+                    "changeinOpenInterest": -25,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023PE650.00",
                     "impliedVolatility": 31.98,
-                    "lastPrice": 2.8,
-                    "openInterest": 882,
-                    "pChange": 3.7037037037036904,
-                    "pchangeinOpenInterest": -2.541436464088398,
+                    "lastPrice": 2.6,
+                    "openInterest": 880,
+                    "pChange": -3.703703703703707,
+                    "pchangeinOpenInterest": -2.7624309392265194,
                     "strikePrice": 650,
-                    "totalBuyQuantity": 257400,
-                    "totalSellQuantity": 144300,
-                    "totalTradedVolume": 100,
+                    "totalBuyQuantity": 265200,
+                    "totalSellQuantity": 146900,
+                    "totalTradedVolume": 103,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 650
@@ -2429,13 +2450,13 @@
                     "totalSellQuantity": 1300,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
                     "askPrice": 15,
                     "askQty": 1300,
                     "bidQty": 1300,
-                    "bidprice": 13.35,
+                    "bidprice": 11.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "27-Jul-2023",
@@ -2450,17 +2471,17 @@
                     "totalSellQuantity": 2600,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 650
             },
             {
                 "CE": {
-                    "askPrice": 38.8,
+                    "askPrice": 38.7,
                     "askQty": 1300,
-                    "bidQty": 1300,
-                    "bidprice": 30.45,
+                    "bidQty": 5200,
+                    "bidprice": 30.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2471,17 +2492,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 660,
-                    "totalBuyQuantity": 2600,
+                    "totalBuyQuantity": 7800,
                     "totalSellQuantity": 42900,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
-                    "askPrice": 15.05,
+                    "askPrice": 13.05,
                     "askQty": 1300,
                     "bidQty": 1300,
-                    "bidprice": 12.05,
+                    "bidprice": 11.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2496,63 +2517,63 @@
                     "totalSellQuantity": 83200,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 660
             },
             {
                 "CE": {
-                    "askPrice": 20.25,
-                    "askQty": 1300,
-                    "bidQty": 1300,
-                    "bidprice": 19.95,
-                    "change": -2.3500000000000014,
+                    "askPrice": 21.05,
+                    "askQty": 2600,
+                    "bidQty": 2600,
+                    "bidprice": 20.75,
+                    "change": -2.450000000000003,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023CE660.00",
                     "impliedVolatility": 25.11,
-                    "lastPrice": 20.25,
+                    "lastPrice": 20.15,
                     "openInterest": 41,
-                    "pChange": -10.39823008849558,
+                    "pChange": -10.840707964601782,
                     "pchangeinOpenInterest": -4.651162790697675,
                     "strikePrice": 660,
-                    "totalBuyQuantity": 132600,
-                    "totalSellQuantity": 124800,
-                    "totalTradedVolume": 18,
+                    "totalBuyQuantity": 135200,
+                    "totalSellQuantity": 111800,
+                    "totalTradedVolume": 20,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
-                    "askPrice": 4.45,
-                    "askQty": 1300,
-                    "bidQty": 5200,
-                    "bidprice": 4.35,
-                    "change": 0.5000000000000004,
+                    "askPrice": 4.1,
+                    "askQty": 2600,
+                    "bidQty": 3900,
+                    "bidprice": 4,
+                    "change": 0.1499999999999999,
                     "changeinOpenInterest": 21,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023PE660.00",
                     "impliedVolatility": 29.44,
-                    "lastPrice": 4.4,
+                    "lastPrice": 4.05,
                     "openInterest": 466,
-                    "pChange": 12.820512820512834,
+                    "pChange": 3.8461538461538445,
                     "pchangeinOpenInterest": 4.719101123595506,
                     "strikePrice": 660,
-                    "totalBuyQuantity": 240500,
-                    "totalSellQuantity": 195000,
-                    "totalTradedVolume": 108,
+                    "totalBuyQuantity": 197600,
+                    "totalSellQuantity": 205400,
+                    "totalTradedVolume": 116,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 660
             },
             {
                 "CE": {
-                    "askPrice": 28.85,
+                    "askPrice": 29.05,
                     "askQty": 1300,
-                    "bidQty": 2600,
-                    "bidprice": 25.9,
+                    "bidQty": 1300,
+                    "bidprice": 26.25,
                     "change": -0.6000000000000014,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2563,124 +2584,124 @@
                     "pChange": -2.097902097902103,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 670,
-                    "totalBuyQuantity": 6500,
-                    "totalSellQuantity": 52000,
+                    "totalBuyQuantity": 7800,
+                    "totalSellQuantity": 50700,
                     "totalTradedVolume": 1,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
-                    "askPrice": 17.15,
+                    "askPrice": 16.6,
                     "askQty": 1300,
-                    "bidQty": 3900,
-                    "bidprice": 16.35,
-                    "change": 1.0999999999999996,
+                    "bidQty": 1300,
+                    "bidprice": 15.9,
+                    "change": 1.5500000000000007,
                     "changeinOpenInterest": 2,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKUPL29-06-2023PE670.00",
                     "impliedVolatility": 24.41,
-                    "lastPrice": 15.9,
+                    "lastPrice": 16.35,
                     "openInterest": 58,
-                    "pChange": 7.43243243243243,
+                    "pChange": 10.472972972972977,
                     "pchangeinOpenInterest": 3.5714285714285716,
                     "strikePrice": 670,
-                    "totalBuyQuantity": 106600,
-                    "totalSellQuantity": 98800,
-                    "totalTradedVolume": 5,
+                    "totalBuyQuantity": 113100,
+                    "totalSellQuantity": 106600,
+                    "totalTradedVolume": 6,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 670
             },
             {
                 "CE": {
-                    "askPrice": 12.9,
-                    "askQty": 1300,
-                    "bidQty": 1300,
-                    "bidprice": 12.8,
-                    "change": -2.549999999999999,
+                    "askPrice": 13.6,
+                    "askQty": 2600,
+                    "bidQty": 2600,
+                    "bidprice": 13.4,
+                    "change": -1.9000000000000004,
                     "changeinOpenInterest": 31,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023CE670.00",
                     "impliedVolatility": 24.72,
-                    "lastPrice": 12.8,
+                    "lastPrice": 13.45,
                     "openInterest": 257,
-                    "pChange": -16.61237785016286,
+                    "pChange": -12.377850162866451,
                     "pchangeinOpenInterest": 13.716814159292035,
                     "strikePrice": 670,
-                    "totalBuyQuantity": 156000,
-                    "totalSellQuantity": 176800,
-                    "totalTradedVolume": 248,
+                    "totalBuyQuantity": 176800,
+                    "totalSellQuantity": 172900,
+                    "totalTradedVolume": 254,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
-                    "askPrice": 7.1,
-                    "askQty": 5200,
-                    "bidQty": 2600,
-                    "bidprice": 7.05,
-                    "change": 0.6999999999999993,
-                    "changeinOpenInterest": 24,
+                    "askPrice": 6.8,
+                    "askQty": 2600,
+                    "bidQty": 1300,
+                    "bidprice": 6.7,
+                    "change": 0.39999999999999947,
+                    "changeinOpenInterest": 52,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023PE670.00",
                     "impliedVolatility": 27.77,
-                    "lastPrice": 7.1,
-                    "openInterest": 486,
-                    "pChange": 10.93749999999999,
-                    "pchangeinOpenInterest": 5.194805194805195,
+                    "lastPrice": 6.8,
+                    "openInterest": 514,
+                    "pChange": 6.249999999999992,
+                    "pchangeinOpenInterest": 11.255411255411255,
                     "strikePrice": 670,
-                    "totalBuyQuantity": 291200,
-                    "totalSellQuantity": 213200,
-                    "totalTradedVolume": 281,
+                    "totalBuyQuantity": 292500,
+                    "totalSellQuantity": 219700,
+                    "totalTradedVolume": 305,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 670
             },
             {
                 "CE": {
-                    "askPrice": 22.35,
+                    "askPrice": 22.6,
                     "askQty": 2600,
                     "bidQty": 1300,
-                    "bidprice": 22.15,
-                    "change": -0.8999999999999986,
+                    "bidprice": 22.2,
+                    "change": -0.6999999999999993,
                     "changeinOpenInterest": 38,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKUPL29-06-2023CE680.00",
                     "impliedVolatility": 22.4,
-                    "lastPrice": 22.35,
+                    "lastPrice": 22.55,
                     "openInterest": 147,
-                    "pChange": -3.8709677419354778,
+                    "pChange": -3.01075268817204,
                     "pchangeinOpenInterest": 34.862385321100916,
                     "strikePrice": 680,
-                    "totalBuyQuantity": 143000,
+                    "totalBuyQuantity": 141700,
                     "totalSellQuantity": 111800,
-                    "totalTradedVolume": 49,
+                    "totalTradedVolume": 53,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
-                    "askPrice": 21.75,
+                    "askPrice": 21.4,
                     "askQty": 1300,
                     "bidQty": 1300,
-                    "bidprice": 20.6,
-                    "change": -0.1999999999999993,
+                    "bidprice": 20.05,
+                    "change": 0.9000000000000021,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKUPL29-06-2023PE680.00",
                     "impliedVolatility": 23.09,
-                    "lastPrice": 19.25,
+                    "lastPrice": 20.35,
                     "openInterest": 162,
-                    "pChange": -1.028277634961436,
+                    "pChange": 4.627249357326489,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 680,
                     "totalBuyQuantity": 85800,
                     "totalSellQuantity": 48100,
-                    "totalTradedVolume": 1,
+                    "totalTradedVolume": 2,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 680
@@ -2705,7 +2726,7 @@
                     "totalSellQuantity": 1300,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
                     "askPrice": 37.8,
@@ -2726,7 +2747,7 @@
                     "totalSellQuantity": 1300,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 680
@@ -2734,73 +2755,73 @@
             {
                 "CE": {
                     "askPrice": 7.8,
-                    "askQty": 3900,
-                    "bidQty": 2600,
-                    "bidprice": 7.7,
+                    "askQty": 7800,
+                    "bidQty": 3900,
+                    "bidprice": 7.65,
                     "change": -1.7499999999999991,
-                    "changeinOpenInterest": 82,
+                    "changeinOpenInterest": 109,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023CE680.00",
                     "impliedVolatility": 24.07,
                     "lastPrice": 7.7,
-                    "openInterest": 1391,
+                    "openInterest": 1418,
                     "pChange": -18.51851851851851,
-                    "pchangeinOpenInterest": 6.264323911382735,
+                    "pchangeinOpenInterest": 8.326967150496563,
                     "strikePrice": 680,
-                    "totalBuyQuantity": 283400,
-                    "totalSellQuantity": 504400,
-                    "totalTradedVolume": 728,
+                    "totalBuyQuantity": 280800,
+                    "totalSellQuantity": 518700,
+                    "totalTradedVolume": 864,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
-                    "askPrice": 11.7,
+                    "askPrice": 11.1,
                     "askQty": 2600,
-                    "bidQty": 1300,
-                    "bidprice": 11.5,
-                    "change": 1.1999999999999993,
-                    "changeinOpenInterest": -5,
+                    "bidQty": 2600,
+                    "bidprice": 10.9,
+                    "change": 0.8499999999999996,
+                    "changeinOpenInterest": -15,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023PE680.00",
                     "impliedVolatility": 26.9,
-                    "lastPrice": 11.5,
-                    "openInterest": 770,
-                    "pChange": 11.650485436893195,
-                    "pchangeinOpenInterest": -0.6451612903225806,
+                    "lastPrice": 11.15,
+                    "openInterest": 760,
+                    "pChange": 8.252427184466015,
+                    "pchangeinOpenInterest": -1.935483870967742,
                     "strikePrice": 680,
-                    "totalBuyQuantity": 282100,
-                    "totalSellQuantity": 166400,
-                    "totalTradedVolume": 113,
+                    "totalBuyQuantity": 275600,
+                    "totalSellQuantity": 162500,
+                    "totalTradedVolume": 139,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 680
             },
             {
                 "CE": {
-                    "askPrice": 17.75,
+                    "askPrice": 18.2,
                     "askQty": 1300,
-                    "bidQty": 1300,
-                    "bidprice": 16.35,
-                    "change": 0,
+                    "bidQty": 3900,
+                    "bidprice": 17.45,
+                    "change": -0.75,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKUPL29-06-2023CE690.00",
                     "impliedVolatility": 22.79,
-                    "lastPrice": 18,
+                    "lastPrice": 17.25,
                     "openInterest": 57,
-                    "pChange": 0,
+                    "pChange": -4.166666666666666,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 690,
-                    "totalBuyQuantity": 81900,
-                    "totalSellQuantity": 83200,
-                    "totalTradedVolume": 2,
+                    "totalBuyQuantity": 92300,
+                    "totalSellQuantity": 94900,
+                    "totalTradedVolume": 4,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
-                    "askPrice": 27.45,
+                    "askPrice": 29.25,
                     "askQty": 1300,
                     "bidQty": 1300,
                     "bidprice": 25.7,
@@ -2814,134 +2835,134 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 690,
-                    "totalBuyQuantity": 3900,
-                    "totalSellQuantity": 3900,
+                    "totalBuyQuantity": 2600,
+                    "totalSellQuantity": 6500,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 690
             },
             {
                 "CE": {
-                    "askPrice": 4.15,
-                    "askQty": 1300,
-                    "bidQty": 1300,
-                    "bidprice": 4.1,
-                    "change": -1.4500000000000002,
-                    "changeinOpenInterest": 3,
+                    "askPrice": 4.4,
+                    "askQty": 3900,
+                    "bidQty": 6500,
+                    "bidprice": 4.3,
+                    "change": -1.1499999999999995,
+                    "changeinOpenInterest": -10,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023CE690.00",
                     "impliedVolatility": 24.86,
-                    "lastPrice": 4.1,
-                    "openInterest": 1126,
-                    "pChange": -26.12612612612613,
-                    "pchangeinOpenInterest": 0.26714158504007124,
+                    "lastPrice": 4.4,
+                    "openInterest": 1113,
+                    "pChange": -20.720720720720713,
+                    "pchangeinOpenInterest": -0.8904719501335708,
                     "strikePrice": 690,
-                    "totalBuyQuantity": 240500,
-                    "totalSellQuantity": 458900,
-                    "totalTradedVolume": 445,
+                    "totalBuyQuantity": 262600,
+                    "totalSellQuantity": 438100,
+                    "totalTradedVolume": 478,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
-                    "askPrice": 18.5,
-                    "askQty": 1300,
-                    "bidQty": 3900,
-                    "bidprice": 18.15,
-                    "change": 1.9499999999999993,
+                    "askPrice": 17.85,
+                    "askQty": 2600,
+                    "bidQty": 1300,
+                    "bidprice": 17.55,
+                    "change": 1.3499999999999979,
                     "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023PE690.00",
                     "impliedVolatility": 28.55,
-                    "lastPrice": 18.3,
+                    "lastPrice": 17.7,
                     "openInterest": 239,
-                    "pChange": 11.926605504587151,
+                    "pChange": 8.256880733944941,
                     "pchangeinOpenInterest": -1.2396694214876034,
                     "strikePrice": 690,
-                    "totalBuyQuantity": 183300,
-                    "totalSellQuantity": 115700,
-                    "totalTradedVolume": 29,
+                    "totalBuyQuantity": 178100,
+                    "totalSellQuantity": 110500,
+                    "totalTradedVolume": 31,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 690
             },
             {
                 "CE": {
-                    "askPrice": 2.75,
-                    "askQty": 3900,
-                    "bidQty": 7800,
-                    "bidprice": 2.65,
+                    "askPrice": 2.7,
+                    "askQty": 5200,
+                    "bidQty": 5200,
+                    "bidprice": 2.6,
                     "change": -0.6999999999999997,
-                    "changeinOpenInterest": 50,
+                    "changeinOpenInterest": 48,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023CE700.00",
                     "impliedVolatility": 27.16,
                     "lastPrice": 2.7,
-                    "openInterest": 2285,
+                    "openInterest": 2283,
                     "pChange": -20.58823529411764,
-                    "pchangeinOpenInterest": 2.237136465324385,
+                    "pchangeinOpenInterest": 2.1476510067114094,
                     "strikePrice": 700,
-                    "totalBuyQuantity": 280800,
-                    "totalSellQuantity": 523900,
-                    "totalTradedVolume": 369,
+                    "totalBuyQuantity": 273000,
+                    "totalSellQuantity": 531700,
+                    "totalTradedVolume": 398,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
-                    "askPrice": 27.05,
+                    "askPrice": 25.85,
                     "askQty": 2600,
                     "bidQty": 1300,
-                    "bidprice": 26.45,
-                    "change": 2.349999999999998,
-                    "changeinOpenInterest": -4,
+                    "bidprice": 25.5,
+                    "change": 1.3499999999999979,
+                    "changeinOpenInterest": -5,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023PE700.00",
                     "impliedVolatility": 31.36,
-                    "lastPrice": 26.65,
-                    "openInterest": 659,
-                    "pChange": 9.670781893004106,
-                    "pchangeinOpenInterest": -0.6033182503770739,
+                    "lastPrice": 25.65,
+                    "openInterest": 658,
+                    "pChange": 5.5555555555555465,
+                    "pchangeinOpenInterest": -0.7541478129713424,
                     "strikePrice": 700,
-                    "totalBuyQuantity": 163800,
-                    "totalSellQuantity": 109200,
-                    "totalTradedVolume": 16,
+                    "totalBuyQuantity": 167700,
+                    "totalSellQuantity": 117000,
+                    "totalTradedVolume": 19,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 700
             },
             {
                 "CE": {
-                    "askPrice": 13.9,
-                    "askQty": 2600,
-                    "bidQty": 1300,
-                    "bidprice": 13.7,
-                    "change": -0.6500000000000004,
+                    "askPrice": 14,
+                    "askQty": 1300,
+                    "bidQty": 2600,
+                    "bidprice": 13.75,
+                    "change": -0.5499999999999989,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKUPL29-06-2023CE700.00",
                     "impliedVolatility": 22.36,
-                    "lastPrice": 13.7,
+                    "lastPrice": 13.8,
                     "openInterest": 232,
-                    "pChange": -4.529616724738679,
+                    "pChange": -3.832752613240411,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 700,
-                    "totalBuyQuantity": 159900,
-                    "totalSellQuantity": 174200,
-                    "totalTradedVolume": 52,
+                    "totalBuyQuantity": 166400,
+                    "totalSellQuantity": 178100,
+                    "totalTradedVolume": 55,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
-                    "askPrice": 33.25,
-                    "askQty": 2600,
-                    "bidQty": 1300,
-                    "bidprice": 32.25,
+                    "askPrice": 32.45,
+                    "askQty": 1300,
+                    "bidQty": 2600,
+                    "bidprice": 31.65,
                     "change": 2.6999999999999993,
                     "changeinOpenInterest": 1,
                     "expiryDate": "29-Jun-2023",
@@ -2953,10 +2974,10 @@
                     "pchangeinOpenInterest": 0.4366812227074236,
                     "strikePrice": 700,
                     "totalBuyQuantity": 94900,
-                    "totalSellQuantity": 91000,
+                    "totalSellQuantity": 89700,
                     "totalTradedVolume": 7,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 700
@@ -2981,7 +3002,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
                     "askPrice": 48.85,
@@ -3002,38 +3023,38 @@
                     "totalSellQuantity": 1300,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 700
             },
             {
                 "CE": {
-                    "askPrice": 1.65,
-                    "askQty": 5200,
-                    "bidQty": 5200,
-                    "bidprice": 1.55,
-                    "change": -0.44999999999999973,
-                    "changeinOpenInterest": 2,
+                    "askPrice": 1.7,
+                    "askQty": 10400,
+                    "bidQty": 2600,
+                    "bidprice": 1.6,
+                    "change": -0.3999999999999999,
+                    "changeinOpenInterest": 4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023CE710.00",
                     "impliedVolatility": 29.32,
-                    "lastPrice": 1.6,
-                    "openInterest": 1410,
-                    "pChange": -21.95121951219511,
-                    "pchangeinOpenInterest": 0.14204545454545456,
+                    "lastPrice": 1.65,
+                    "openInterest": 1412,
+                    "pChange": -19.51219512195122,
+                    "pchangeinOpenInterest": 0.2840909090909091,
                     "strikePrice": 710,
-                    "totalBuyQuantity": 261300,
-                    "totalSellQuantity": 300300,
-                    "totalTradedVolume": 171,
+                    "totalBuyQuantity": 269100,
+                    "totalSellQuantity": 302900,
+                    "totalTradedVolume": 178,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
-                    "askPrice": 35.95,
-                    "askQty": 1300,
-                    "bidQty": 1300,
-                    "bidprice": 35.4,
+                    "askPrice": 35.1,
+                    "askQty": 2600,
+                    "bidQty": 2600,
+                    "bidprice": 34.65,
                     "change": 2.9000000000000057,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3044,11 +3065,11 @@
                     "pChange": 8.909370199692798,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 710,
-                    "totalBuyQuantity": 107900,
-                    "totalSellQuantity": 104000,
+                    "totalBuyQuantity": 106600,
+                    "totalSellQuantity": 106600,
                     "totalTradedVolume": 2,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 710
@@ -3058,7 +3079,7 @@
                     "askPrice": 10.95,
                     "askQty": 1300,
                     "bidQty": 1300,
-                    "bidprice": 10.15,
+                    "bidprice": 10.25,
                     "change": -0.05000000000000071,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3069,17 +3090,17 @@
                     "pChange": -0.4524886877828118,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 710,
-                    "totalBuyQuantity": 87100,
-                    "totalSellQuantity": 89700,
+                    "totalBuyQuantity": 88400,
+                    "totalSellQuantity": 88400,
                     "totalTradedVolume": 3,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
-                    "askPrice": 42.6,
-                    "askQty": 1300,
-                    "bidQty": 3900,
-                    "bidprice": 28.85,
+                    "askPrice": 49.35,
+                    "askQty": 39000,
+                    "bidQty": 0,
+                    "bidprice": 0,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3090,11 +3111,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 710,
-                    "totalBuyQuantity": 3900,
-                    "totalSellQuantity": 40300,
+                    "totalBuyQuantity": 0,
+                    "totalSellQuantity": 39000,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 710
@@ -3119,38 +3140,38 @@
                     "totalSellQuantity": 1300,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 710
             },
             {
                 "CE": {
-                    "askPrice": 1.25,
-                    "askQty": 6500,
-                    "bidQty": 18200,
-                    "bidprice": 1.2,
-                    "change": -0.30000000000000004,
-                    "changeinOpenInterest": 29,
+                    "askPrice": 1.3,
+                    "askQty": 2600,
+                    "bidQty": 3900,
+                    "bidprice": 1.25,
+                    "change": -0.25,
+                    "changeinOpenInterest": 11,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023CE720.00",
                     "impliedVolatility": 32.79,
-                    "lastPrice": 1.2,
-                    "openInterest": 1585,
-                    "pChange": -20.000000000000004,
-                    "pchangeinOpenInterest": 1.8637532133676094,
+                    "lastPrice": 1.25,
+                    "openInterest": 1567,
+                    "pChange": -16.666666666666664,
+                    "pchangeinOpenInterest": 0.7069408740359897,
                     "strikePrice": 720,
                     "totalBuyQuantity": 388700,
-                    "totalSellQuantity": 340600,
-                    "totalTradedVolume": 339,
+                    "totalSellQuantity": 343200,
+                    "totalTradedVolume": 347,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
-                    "askPrice": 45.6,
-                    "askQty": 2600,
+                    "askPrice": 44.6,
+                    "askQty": 1300,
                     "bidQty": 1300,
-                    "bidprice": 44.8,
+                    "bidprice": 43.9,
                     "change": 3.25,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3161,21 +3182,21 @@
                     "pChange": 7.784431137724551,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 720,
-                    "totalBuyQuantity": 105300,
+                    "totalBuyQuantity": 104000,
                     "totalSellQuantity": 94900,
                     "totalTradedVolume": 2,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 720
             },
             {
                 "CE": {
-                    "askPrice": 8.35,
-                    "askQty": 2600,
+                    "askPrice": 8.6,
+                    "askQty": 5200,
                     "bidQty": 1300,
-                    "bidprice": 7.65,
+                    "bidprice": 7.85,
                     "change": 1.25,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3187,14 +3208,14 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 720,
                     "totalBuyQuantity": 84500,
-                    "totalSellQuantity": 97500,
+                    "totalSellQuantity": 100100,
                     "totalTradedVolume": 1,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
                     "askPrice": 56.85,
-                    "askQty": 5200,
+                    "askQty": 3900,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -3208,10 +3229,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 720,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 44200,
+                    "totalSellQuantity": 42900,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 720
@@ -3236,14 +3257,14 @@
                     "totalSellQuantity": 2600,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 720
             },
             {
                 "CE": {
-                    "askPrice": 6.45,
+                    "askPrice": 6.5,
                     "askQty": 6500,
                     "bidQty": 1300,
                     "bidprice": 6.05,
@@ -3261,13 +3282,13 @@
                     "totalSellQuantity": 105300,
                     "totalTradedVolume": 3,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
-                    "askPrice": 63.45,
+                    "askPrice": 65.45,
                     "askQty": 3900,
-                    "bidQty": 3900,
-                    "bidprice": 44.15,
+                    "bidQty": 1300,
+                    "bidprice": 45.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3278,11 +3299,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 730,
-                    "totalBuyQuantity": 7800,
-                    "totalSellQuantity": 45500,
+                    "totalBuyQuantity": 3900,
+                    "totalSellQuantity": 42900,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 730
@@ -3290,55 +3311,55 @@
             {
                 "CE": {
                     "askPrice": 0.9,
-                    "askQty": 5200,
-                    "bidQty": 2600,
+                    "askQty": 7800,
+                    "bidQty": 6500,
                     "bidprice": 0.85,
-                    "change": -0.2500000000000001,
-                    "changeinOpenInterest": 23,
+                    "change": -0.20000000000000007,
+                    "changeinOpenInterest": 25,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023CE730.00",
                     "impliedVolatility": 35.05,
-                    "lastPrice": 0.85,
-                    "openInterest": 991,
-                    "pChange": -22.727272727272734,
-                    "pchangeinOpenInterest": 2.37603305785124,
+                    "lastPrice": 0.9,
+                    "openInterest": 993,
+                    "pChange": -18.181818181818183,
+                    "pchangeinOpenInterest": 2.5826446280991737,
                     "strikePrice": 730,
-                    "totalBuyQuantity": 314600,
-                    "totalSellQuantity": 235300,
-                    "totalTradedVolume": 145,
+                    "totalBuyQuantity": 315900,
+                    "totalSellQuantity": 241800,
+                    "totalTradedVolume": 154,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
-                    "askPrice": 55.15,
+                    "askPrice": 54.3,
                     "askQty": 1300,
-                    "bidQty": 1300,
-                    "bidprice": 54.25,
-                    "change": 2.799999999999997,
+                    "bidQty": 2600,
+                    "bidprice": 52.95,
+                    "change": 2,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023PE730.00",
                     "impliedVolatility": 43.44,
-                    "lastPrice": 54.8,
+                    "lastPrice": 54,
                     "openInterest": 193,
-                    "pChange": 5.38461538461538,
+                    "pChange": 3.8461538461538463,
                     "pchangeinOpenInterest": -1.0256410256410255,
                     "strikePrice": 730,
-                    "totalBuyQuantity": 97500,
-                    "totalSellQuantity": 89700,
-                    "totalTradedVolume": 4,
+                    "totalBuyQuantity": 104000,
+                    "totalSellQuantity": 96200,
+                    "totalTradedVolume": 7,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 730
             },
             {
                 "CE": {
-                    "askPrice": 5.65,
+                    "askPrice": 5.6,
                     "askQty": 1300,
                     "bidQty": 2600,
-                    "bidprice": 3.95,
+                    "bidprice": 3.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3349,17 +3370,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 740,
-                    "totalBuyQuantity": 85800,
+                    "totalBuyQuantity": 48100,
                     "totalSellQuantity": 87100,
                     "totalTradedVolume": 1,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
-                    "askPrice": 72.85,
+                    "askPrice": 70.05,
                     "askQty": 3900,
-                    "bidQty": 3900,
-                    "bidprice": 49.15,
+                    "bidQty": 39000,
+                    "bidprice": 49.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3370,11 +3391,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 740,
-                    "totalBuyQuantity": 44200,
+                    "totalBuyQuantity": 40300,
                     "totalSellQuantity": 45500,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 740
@@ -3399,7 +3420,7 @@
                     "totalSellQuantity": 1300,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
                     "askPrice": 77.9,
@@ -3420,7 +3441,7 @@
                     "totalSellQuantity": 1300,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 740
@@ -3428,30 +3449,30 @@
             {
                 "CE": {
                     "askPrice": 0.65,
-                    "askQty": 18200,
-                    "bidQty": 6500,
+                    "askQty": 6500,
+                    "bidQty": 22100,
                     "bidprice": 0.6,
-                    "change": -0.19999999999999996,
-                    "changeinOpenInterest": 8,
+                    "change": -0.25,
+                    "changeinOpenInterest": 16,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023CE740.00",
                     "impliedVolatility": 37.38,
-                    "lastPrice": 0.65,
-                    "openInterest": 899,
-                    "pChange": -23.529411764705877,
-                    "pchangeinOpenInterest": 0.8978675645342312,
+                    "lastPrice": 0.6,
+                    "openInterest": 907,
+                    "pChange": -29.411764705882355,
+                    "pchangeinOpenInterest": 1.7957351290684624,
                     "strikePrice": 740,
-                    "totalBuyQuantity": 479700,
-                    "totalSellQuantity": 317200,
-                    "totalTradedVolume": 84,
+                    "totalBuyQuantity": 501800,
+                    "totalSellQuantity": 301600,
+                    "totalTradedVolume": 85,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
-                    "askPrice": 65.15,
-                    "askQty": 2600,
-                    "bidQty": 7800,
-                    "bidprice": 63.65,
+                    "askPrice": 64.35,
+                    "askQty": 1300,
+                    "bidQty": 2600,
+                    "bidprice": 63,
                     "change": 2.6000000000000014,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3462,21 +3483,21 @@
                     "pChange": 4.237978810105951,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 740,
-                    "totalBuyQuantity": 110500,
-                    "totalSellQuantity": 85800,
+                    "totalBuyQuantity": 102700,
+                    "totalSellQuantity": 88400,
                     "totalTradedVolume": 1,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 740
             },
             {
                 "CE": {
-                    "askPrice": 3.65,
+                    "askPrice": 3.7,
                     "askQty": 2600,
                     "bidQty": 1300,
-                    "bidprice": 3.55,
+                    "bidprice": 3.5,
                     "change": 0,
                     "changeinOpenInterest": 4,
                     "expiryDate": "29-Jun-2023",
@@ -3491,13 +3512,13 @@
                     "totalSellQuantity": 140400,
                     "totalTradedVolume": 6,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
-                    "askPrice": 74.05,
+                    "askPrice": 73.7,
                     "askQty": 3900,
-                    "bidQty": 11700,
-                    "bidprice": 67.55,
+                    "bidQty": 3900,
+                    "bidprice": 68.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3508,11 +3529,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 750,
-                    "totalBuyQuantity": 52000,
+                    "totalBuyQuantity": 45500,
                     "totalSellQuantity": 42900,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 750
@@ -3520,30 +3541,30 @@
             {
                 "CE": {
                     "askPrice": 0.5,
-                    "askQty": 10400,
-                    "bidQty": 29900,
+                    "askQty": 1300,
+                    "bidQty": 19500,
                     "bidprice": 0.45,
                     "change": -0.15000000000000002,
-                    "changeinOpenInterest": -29,
+                    "changeinOpenInterest": -33,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023CE750.00",
                     "impliedVolatility": 39.92,
                     "lastPrice": 0.5,
-                    "openInterest": 1366,
+                    "openInterest": 1362,
                     "pChange": -23.076923076923077,
-                    "pchangeinOpenInterest": -2.078853046594982,
+                    "pchangeinOpenInterest": -2.3655913978494625,
                     "strikePrice": 750,
-                    "totalBuyQuantity": 934700,
-                    "totalSellQuantity": 273000,
-                    "totalTradedVolume": 72,
+                    "totalBuyQuantity": 937300,
+                    "totalSellQuantity": 265200,
+                    "totalTradedVolume": 81,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
-                    "askPrice": 76.35,
+                    "askPrice": 73.9,
                     "askQty": 2600,
-                    "bidQty": 5200,
-                    "bidprice": 72.35,
+                    "bidQty": 1300,
+                    "bidprice": 72.65,
                     "change": 0.45000000000000284,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3554,21 +3575,21 @@
                     "pChange": 0.6306937631394574,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 750,
-                    "totalBuyQuantity": 115700,
-                    "totalSellQuantity": 97500,
+                    "totalBuyQuantity": 104000,
+                    "totalSellQuantity": 92300,
                     "totalTradedVolume": 1,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 750
             },
             {
                 "CE": {
-                    "askPrice": 5.2,
+                    "askPrice": 5.3,
                     "askQty": 1300,
                     "bidQty": 1300,
-                    "bidprice": 2.3,
+                    "bidprice": 2.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3579,17 +3600,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 760,
-                    "totalBuyQuantity": 55900,
+                    "totalBuyQuantity": 16900,
                     "totalSellQuantity": 42900,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
                     "askPrice": 94.7,
                     "askQty": 3900,
-                    "bidQty": 3900,
-                    "bidprice": 69.2,
+                    "bidQty": 39000,
+                    "bidprice": 69.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3600,11 +3621,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 760,
-                    "totalBuyQuantity": 42900,
+                    "totalBuyQuantity": 39000,
                     "totalSellQuantity": 42900,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 760
@@ -3629,7 +3650,7 @@
                     "totalSellQuantity": 1300,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
                     "askPrice": 94.35,
@@ -3650,7 +3671,7 @@
                     "totalSellQuantity": 1300,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 760
@@ -3658,30 +3679,30 @@
             {
                 "CE": {
                     "askPrice": 0.45,
-                    "askQty": 2600,
-                    "bidQty": 15600,
-                    "bidprice": 0.35,
-                    "change": -0.15000000000000002,
+                    "askQty": 5200,
+                    "bidQty": 1300,
+                    "bidprice": 0.4,
+                    "change": -0.10000000000000003,
                     "changeinOpenInterest": -12,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023CE760.00",
                     "impliedVolatility": 42.51,
-                    "lastPrice": 0.4,
+                    "lastPrice": 0.45,
                     "openInterest": 597,
-                    "pChange": -27.272727272727277,
+                    "pChange": -18.181818181818183,
                     "pchangeinOpenInterest": -1.9704433497536946,
                     "strikePrice": 760,
-                    "totalBuyQuantity": 365300,
-                    "totalSellQuantity": 202800,
-                    "totalTradedVolume": 23,
+                    "totalBuyQuantity": 369200,
+                    "totalSellQuantity": 208000,
+                    "totalTradedVolume": 25,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
-                    "askPrice": 84.9,
+                    "askPrice": 84.25,
                     "askQty": 1300,
                     "bidQty": 5200,
-                    "bidprice": 81.8,
+                    "bidprice": 82.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3692,11 +3713,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 760,
-                    "totalBuyQuantity": 93600,
+                    "totalBuyQuantity": 94900,
                     "totalSellQuantity": 63700,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 760
@@ -3717,17 +3738,17 @@
                     "pChange": -12.50000000000001,
                     "pchangeinOpenInterest": 0.303951367781155,
                     "strikePrice": 770,
-                    "totalBuyQuantity": 366600,
+                    "totalBuyQuantity": 371800,
                     "totalSellQuantity": 163800,
                     "totalTradedVolume": 7,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
-                    "askPrice": 96.6,
+                    "askPrice": 96.75,
                     "askQty": 3900,
-                    "bidQty": 3900,
-                    "bidprice": 91.45,
+                    "bidQty": 5200,
+                    "bidprice": 91.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3738,11 +3759,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 770,
-                    "totalBuyQuantity": 92300,
-                    "totalSellQuantity": 62400,
+                    "totalBuyQuantity": 89700,
+                    "totalSellQuantity": 58500,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 770
@@ -3767,13 +3788,13 @@
                     "totalSellQuantity": 41600,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
-                    "askPrice": 102.5,
-                    "askQty": 39000,
-                    "bidQty": 6500,
-                    "bidprice": 79.05,
+                    "askPrice": 102.45,
+                    "askQty": 2600,
+                    "bidQty": 2600,
+                    "bidprice": 79.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3784,11 +3805,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 770,
-                    "totalBuyQuantity": 45500,
-                    "totalSellQuantity": 39000,
+                    "totalBuyQuantity": 41600,
+                    "totalSellQuantity": 41600,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 770
@@ -3800,26 +3821,26 @@
                     "bidQty": 9100,
                     "bidprice": 0.25,
                     "change": 0,
-                    "changeinOpenInterest": 0,
+                    "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023CE780.00",
                     "impliedVolatility": 0,
                     "lastPrice": 0,
-                    "openInterest": 430,
+                    "openInterest": 429,
                     "pChange": 0,
-                    "pchangeinOpenInterest": 0,
+                    "pchangeinOpenInterest": -0.23255813953488372,
                     "strikePrice": 780,
                     "totalBuyQuantity": 200200,
                     "totalSellQuantity": 137800,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
-                    "askPrice": 106.9,
+                    "askPrice": 105.85,
                     "askQty": 3900,
                     "bidQty": 3900,
-                    "bidprice": 99.3,
+                    "bidprice": 101.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3830,11 +3851,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 780,
-                    "totalBuyQuantity": 52000,
-                    "totalSellQuantity": 50700,
+                    "totalBuyQuantity": 55900,
+                    "totalSellQuantity": 54600,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 780
@@ -3859,13 +3880,13 @@
                     "totalSellQuantity": 45500,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
                     "askPrice": 110.8,
                     "askQty": 3900,
                     "bidQty": 3900,
-                    "bidprice": 89,
+                    "bidprice": 91.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3876,11 +3897,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 780,
-                    "totalBuyQuantity": 42900,
+                    "totalBuyQuantity": 44200,
                     "totalSellQuantity": 42900,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 780
@@ -3905,7 +3926,7 @@
                     "totalSellQuantity": 1300,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
                     "askPrice": 111.85,
@@ -3926,7 +3947,7 @@
                     "totalSellQuantity": 1300,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 780
@@ -3951,13 +3972,13 @@
                     "totalSellQuantity": 85800,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
-                    "askPrice": 115.95,
+                    "askPrice": 117.35,
                     "askQty": 3900,
                     "bidQty": 3900,
-                    "bidprice": 111.6,
+                    "bidprice": 110.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3968,11 +3989,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 790,
-                    "totalBuyQuantity": 50700,
+                    "totalBuyQuantity": 54600,
                     "totalSellQuantity": 50700,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 790
@@ -3997,13 +4018,13 @@
                     "totalSellQuantity": 39000,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
-                    "askPrice": 123.35,
+                    "askPrice": 122.75,
                     "askQty": 3900,
                     "bidQty": 3900,
-                    "bidprice": 98.85,
+                    "bidprice": 99.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4018,7 +4039,7 @@
                     "totalSellQuantity": 42900,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 790
@@ -4026,30 +4047,30 @@
             {
                 "CE": {
                     "askPrice": 0.2,
-                    "askQty": 9100,
-                    "bidQty": 237900,
+                    "askQty": 20800,
+                    "bidQty": 226200,
                     "bidprice": 0.15,
-                    "change": -0.04999999999999999,
+                    "change": -0.1,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKUPL25-05-2023CE800.00",
                     "impliedVolatility": 52.48,
-                    "lastPrice": 0.2,
+                    "lastPrice": 0.15,
                     "openInterest": 650,
-                    "pChange": -19.999999999999996,
+                    "pChange": -40,
                     "pchangeinOpenInterest": -0.15360983102918588,
                     "strikePrice": 800,
-                    "totalBuyQuantity": 516100,
-                    "totalSellQuantity": 114400,
-                    "totalTradedVolume": 6,
+                    "totalBuyQuantity": 509600,
+                    "totalSellQuantity": 126100,
+                    "totalTradedVolume": 15,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
-                    "askPrice": 126.9,
+                    "askPrice": 126.75,
                     "askQty": 3900,
-                    "bidQty": 3900,
-                    "bidprice": 120.05,
+                    "bidQty": 1300,
+                    "bidprice": 120.65,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4060,36 +4081,36 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 800,
-                    "totalBuyQuantity": 58500,
-                    "totalSellQuantity": 54600,
+                    "totalBuyQuantity": 59800,
+                    "totalSellQuantity": 58500,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 800
             },
             {
                 "CE": {
-                    "askPrice": 1.4,
+                    "askPrice": 1.5,
                     "askQty": 2600,
                     "bidQty": 1300,
-                    "bidprice": 1.35,
+                    "bidprice": 1.25,
                     "change": 0.19999999999999996,
-                    "changeinOpenInterest": 2,
+                    "changeinOpenInterest": 1,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKUPL29-06-2023CE800.00",
                     "impliedVolatility": 27.91,
                     "lastPrice": 1.4,
-                    "openInterest": 144,
+                    "openInterest": 143,
                     "pChange": 16.666666666666664,
-                    "pchangeinOpenInterest": 1.408450704225352,
+                    "pchangeinOpenInterest": 0.704225352112676,
                     "strikePrice": 800,
                     "totalBuyQuantity": 88400,
                     "totalSellQuantity": 70200,
-                    "totalTradedVolume": 8,
+                    "totalTradedVolume": 10,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
                     "askPrice": 129.35,
@@ -4110,7 +4131,7 @@
                     "totalSellQuantity": 42900,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 800
@@ -4135,7 +4156,7 @@
                     "totalSellQuantity": 117000,
                     "totalTradedVolume": 1,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
                     "askPrice": 136.45,
@@ -4156,7 +4177,7 @@
                     "totalSellQuantity": 46800,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 810
@@ -4181,13 +4202,13 @@
                     "totalSellQuantity": 40300,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
-                    "askPrice": 144.3,
-                    "askQty": 3900,
+                    "askPrice": 144.85,
+                    "askQty": 39000,
                     "bidQty": 3900,
-                    "bidprice": 125.4,
+                    "bidprice": 119.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4198,11 +4219,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 810,
-                    "totalBuyQuantity": 45500,
-                    "totalSellQuantity": 45500,
+                    "totalBuyQuantity": 42900,
+                    "totalSellQuantity": 39000,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 810
@@ -4227,7 +4248,7 @@
                     "totalSellQuantity": 87100,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
                     "askPrice": 146.8,
@@ -4248,7 +4269,7 @@
                     "totalSellQuantity": 50700,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 820
@@ -4273,13 +4294,13 @@
                     "totalSellQuantity": 2600,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
-                    "askPrice": 150.35,
+                    "askPrice": 143.85,
                     "askQty": 3900,
-                    "bidQty": 3900,
-                    "bidprice": 128.9,
+                    "bidQty": 39000,
+                    "bidprice": 129.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4290,11 +4311,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 820,
-                    "totalBuyQuantity": 42900,
-                    "totalSellQuantity": 42900,
+                    "totalBuyQuantity": 39000,
+                    "totalSellQuantity": 48100,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 820
@@ -4319,13 +4340,13 @@
                     "totalSellQuantity": 57200,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "PE": {
-                    "askPrice": 156.5,
+                    "askPrice": 155.4,
                     "askQty": 3900,
-                    "bidQty": 3900,
-                    "bidprice": 149.65,
+                    "bidQty": 1300,
+                    "bidprice": 148.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4336,11 +4357,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 830,
-                    "totalBuyQuantity": 52000,
+                    "totalBuyQuantity": 48100,
                     "totalSellQuantity": 50700,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 830
@@ -4350,7 +4371,7 @@
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 2600,
-                    "bidprice": 0.3,
+                    "bidprice": 0.35,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4361,11 +4382,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 830,
-                    "totalBuyQuantity": 2600,
+                    "totalBuyQuantity": 9100,
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
                     "askPrice": 162.95,
@@ -4386,7 +4407,7 @@
                     "totalSellQuantity": 39000,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 830
@@ -4411,13 +4432,13 @@
                     "totalSellQuantity": 44200,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
-                    "askPrice": 166.7,
-                    "askQty": 3900,
+                    "askPrice": 166.75,
+                    "askQty": 7800,
                     "bidQty": 3900,
-                    "bidprice": 160.25,
+                    "bidprice": 158.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4429,10 +4450,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 840,
                     "totalBuyQuantity": 54600,
-                    "totalSellQuantity": 50700,
+                    "totalSellQuantity": 46800,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 840
@@ -4457,7 +4478,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
                     "askPrice": 172.8,
@@ -4478,7 +4499,7 @@
                     "totalSellQuantity": 42900,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 840
@@ -4503,7 +4524,7 @@
                     "totalSellQuantity": 41600,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
                     "askPrice": 176.65,
@@ -4524,7 +4545,7 @@
                     "totalSellQuantity": 46800,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 850
@@ -4549,7 +4570,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
                     "askPrice": 183.25,
@@ -4570,14 +4591,14 @@
                     "totalSellQuantity": 42900,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 850
             },
             {
                 "CE": {
-                    "askPrice": 1.05,
+                    "askPrice": 0.5,
                     "askQty": 5200,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -4592,10 +4613,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 860,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 44200,
+                    "totalSellQuantity": 13000,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "PE": {
                     "askPrice": 203.3,
@@ -4616,7 +4637,7 @@
                     "totalSellQuantity": 39000,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 860
@@ -4641,12 +4662,33 @@
                     "totalSellQuantity": 42900,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.15
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 860
             },
             {
+                "CE": {
+                    "askPrice": 0.3,
+                    "askQty": 2600,
+                    "bidQty": 0,
+                    "bidprice": 0,
+                    "change": 0,
+                    "changeinOpenInterest": 0,
+                    "expiryDate": "25-May-2023",
+                    "identifier": "OPTSTKUPL25-05-2023CE870.00",
+                    "impliedVolatility": 0,
+                    "lastPrice": 0,
+                    "openInterest": 8,
+                    "pChange": 0,
+                    "pchangeinOpenInterest": 0,
+                    "strikePrice": 870,
+                    "totalBuyQuantity": 0,
+                    "totalSellQuantity": 15600,
+                    "totalTradedVolume": 0,
+                    "underlying": "UPL",
+                    "underlyingValue": 676.1
+                },
                 "PE": {
                     "askPrice": 214.45,
                     "askQty": 39000,
@@ -4666,7 +4708,7 @@
                     "totalSellQuantity": 39000,
                     "totalTradedVolume": 0,
                     "underlying": "UPL",
-                    "underlyingValue": 675.3
+                    "underlyingValue": 676.1
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 870
@@ -4711,7 +4753,7 @@
             860,
             870
         ],
-        "timestamp": "18-May-2023 10:21:15",
-        "underlyingValue": 675.3
+        "timestamp": "18-May-2023 10:26:47",
+        "underlyingValue": 676.15
     }
 }

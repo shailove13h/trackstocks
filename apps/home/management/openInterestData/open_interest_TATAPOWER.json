@@ -1,12 +1,12 @@
 {
     "filtered": {
         "CE": {
-            "totOI": 13900,
-            "totVol": 3916
+            "totOI": 13903,
+            "totVol": 4033
         },
         "PE": {
-            "totOI": 9895,
-            "totVol": 2017
+            "totOI": 9900,
+            "totVol": 2031
         },
         "data": [
             {
@@ -29,7 +29,7 @@
                     "totalSellQuantity": 101250,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 1,
@@ -50,7 +50,7 @@
                     "totalSellQuantity": 10125,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 150
@@ -75,7 +75,7 @@
                     "totalSellQuantity": 101250,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 1.65,
@@ -96,7 +96,7 @@
                     "totalSellQuantity": 101250,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 155
@@ -121,7 +121,7 @@
                     "totalSellQuantity": 111375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 157.5
@@ -131,7 +131,7 @@
                     "askPrice": 52.2,
                     "askQty": 20250,
                     "bidQty": 10125,
-                    "bidprice": 47.15,
+                    "bidprice": 47.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -146,7 +146,7 @@
                     "totalSellQuantity": 121500,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 0.05,
@@ -167,7 +167,7 @@
                     "totalSellQuantity": 131625,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 160
@@ -192,7 +192,7 @@
                     "totalSellQuantity": 111375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 0.5,
@@ -213,7 +213,7 @@
                     "totalSellQuantity": 33750,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 162.5
@@ -238,11 +238,11 @@
                     "totalSellQuantity": 111375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 0.3,
-                    "askQty": 3375,
+                    "askPrice": 0.25,
+                    "askQty": 54000,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -256,10 +256,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 165,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 70875,
+                    "totalSellQuantity": 124875,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 165
@@ -284,7 +284,7 @@
                     "totalSellQuantity": 111375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 0.5,
@@ -305,7 +305,7 @@
                     "totalSellQuantity": 33750,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 167.5
@@ -330,7 +330,7 @@
                     "totalSellQuantity": 111375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 0.05,
@@ -351,7 +351,7 @@
                     "totalSellQuantity": 276750,
                     "totalTradedVolume": 1,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 170
@@ -376,7 +376,7 @@
                     "totalSellQuantity": 111375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 172.5
@@ -401,7 +401,7 @@
                     "totalSellQuantity": 111375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 0.05,
@@ -422,7 +422,7 @@
                     "totalSellQuantity": 442125,
                     "totalTradedVolume": 1,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 175
@@ -447,7 +447,7 @@
                     "totalSellQuantity": 111375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 0.7,
@@ -468,17 +468,17 @@
                     "totalSellQuantity": 33750,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 177.5
             },
             {
                 "CE": {
-                    "askPrice": 30.1,
-                    "askQty": 3375,
-                    "bidQty": 3375,
-                    "bidprice": 27.35,
+                    "askPrice": 29.5,
+                    "askQty": 10125,
+                    "bidQty": 6750,
+                    "bidprice": 28.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -489,11 +489,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 180,
-                    "totalBuyQuantity": 135000,
-                    "totalSellQuantity": 135000,
+                    "totalBuyQuantity": 138375,
+                    "totalSellQuantity": 131625,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 0.1,
@@ -514,7 +514,7 @@
                     "totalSellQuantity": 826875,
                     "totalTradedVolume": 30,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 180
@@ -539,7 +539,7 @@
                     "totalSellQuantity": 131625,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 0.1,
@@ -560,17 +560,17 @@
                     "totalSellQuantity": 469125,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 182.5
             },
             {
                 "CE": {
-                    "askPrice": 24.25,
+                    "askPrice": 24.3,
                     "askQty": 10125,
                     "bidQty": 10125,
-                    "bidprice": 23.1,
+                    "bidprice": 23.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -585,12 +585,12 @@
                     "totalSellQuantity": 141750,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 0.1,
                     "askQty": 165375,
-                    "bidQty": 705375,
+                    "bidQty": 708750,
                     "bidprice": 0.05,
                     "change": -0.05,
                     "changeinOpenInterest": -3,
@@ -602,11 +602,11 @@
                     "pChange": -50,
                     "pchangeinOpenInterest": -0.7407407407407407,
                     "strikePrice": 185,
-                    "totalBuyQuantity": 705375,
+                    "totalBuyQuantity": 708750,
                     "totalSellQuantity": 823500,
                     "totalTradedVolume": 7,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 185
@@ -631,7 +631,7 @@
                     "totalSellQuantity": 141750,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 0.15,
@@ -652,63 +652,63 @@
                     "totalSellQuantity": 290250,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 187.5
             },
             {
                 "CE": {
-                    "askPrice": 18.85,
+                    "askPrice": 19.05,
                     "askQty": 3375,
-                    "bidQty": 10125,
-                    "bidprice": 18.5,
-                    "change": 1.3999999999999986,
-                    "changeinOpenInterest": -1,
+                    "bidQty": 6750,
+                    "bidprice": 18.8,
+                    "change": 1,
+                    "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATAPOWER25-05-2023CE190.00",
                     "impliedVolatility": 47.65,
-                    "lastPrice": 19.4,
-                    "openInterest": 112,
-                    "pChange": 7.77777777777777,
-                    "pchangeinOpenInterest": -0.8849557522123894,
+                    "lastPrice": 19,
+                    "openInterest": 111,
+                    "pChange": 5.555555555555555,
+                    "pchangeinOpenInterest": -1.7699115044247788,
                     "strikePrice": 190,
-                    "totalBuyQuantity": 270000,
-                    "totalSellQuantity": 273375,
-                    "totalTradedVolume": 9,
+                    "totalBuyQuantity": 286875,
+                    "totalSellQuantity": 263250,
+                    "totalTradedVolume": 15,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 0.15,
-                    "askQty": 671625,
+                    "askQty": 725625,
                     "bidQty": 681750,
                     "bidprice": 0.1,
-                    "change": -0.04999999999999999,
-                    "changeinOpenInterest": -1,
+                    "change": 0,
+                    "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATAPOWER25-05-2023PE190.00",
                     "impliedVolatility": 35.64,
-                    "lastPrice": 0.1,
-                    "openInterest": 551,
-                    "pChange": -33.33333333333333,
-                    "pchangeinOpenInterest": -0.18115942028985507,
+                    "lastPrice": 0.15,
+                    "openInterest": 554,
+                    "pChange": 0,
+                    "pchangeinOpenInterest": 0.36231884057971014,
                     "strikePrice": 190,
-                    "totalBuyQuantity": 2031750,
-                    "totalSellQuantity": 1599750,
-                    "totalTradedVolume": 7,
+                    "totalBuyQuantity": 2052000,
+                    "totalSellQuantity": 1653750,
+                    "totalTradedVolume": 9,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 190
             },
             {
                 "CE": {
-                    "askPrice": 16.5,
+                    "askPrice": 16.6,
                     "askQty": 3375,
                     "bidQty": 3375,
-                    "bidprice": 16.05,
+                    "bidprice": 16.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -719,16 +719,16 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 192.5,
-                    "totalBuyQuantity": 266625,
+                    "totalBuyQuantity": 280125,
                     "totalSellQuantity": 253125,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 0.2,
-                    "askQty": 33750,
-                    "bidQty": 212625,
+                    "askQty": 13500,
+                    "bidQty": 199125,
                     "bidprice": 0.1,
                     "change": -0.05000000000000002,
                     "changeinOpenInterest": 0,
@@ -740,21 +740,21 @@
                     "pChange": -25.000000000000007,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 192.5,
-                    "totalBuyQuantity": 489375,
-                    "totalSellQuantity": 472500,
+                    "totalBuyQuantity": 475875,
+                    "totalSellQuantity": 411750,
                     "totalTradedVolume": 5,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 192.5
             },
             {
                 "CE": {
-                    "askPrice": 14,
+                    "askPrice": 14.1,
                     "askQty": 3375,
-                    "bidQty": 10125,
-                    "bidprice": 13.6,
+                    "bidQty": 3375,
+                    "bidprice": 13.8,
                     "change": 0.8500000000000014,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
@@ -769,11 +769,11 @@
                     "totalSellQuantity": 310500,
                     "totalTradedVolume": 2,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 0.2,
-                    "askQty": 604125,
+                    "askQty": 600750,
                     "bidQty": 1009125,
                     "bidprice": 0.15,
                     "change": -0.04999999999999999,
@@ -787,20 +787,20 @@
                     "pchangeinOpenInterest": 6.183368869936034,
                     "strikePrice": 195,
                     "totalBuyQuantity": 3084750,
-                    "totalSellQuantity": 2241000,
-                    "totalTradedVolume": 130,
+                    "totalSellQuantity": 2237625,
+                    "totalTradedVolume": 131,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 195
             },
             {
                 "CE": {
-                    "askPrice": 11.35,
-                    "askQty": 10125,
-                    "bidQty": 10125,
-                    "bidprice": 11.15,
+                    "askPrice": 11.6,
+                    "askQty": 3375,
+                    "bidQty": 13500,
+                    "bidprice": 11.4,
                     "change": 1.3499999999999996,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
@@ -815,11 +815,11 @@
                     "totalSellQuantity": 307125,
                     "totalTradedVolume": 2,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 0.3,
-                    "askQty": 10125,
+                    "askQty": 20250,
                     "bidQty": 30375,
                     "bidprice": 0.25,
                     "change": -0.15000000000000002,
@@ -832,41 +832,41 @@
                     "pChange": -37.50000000000001,
                     "pchangeinOpenInterest": -2.4539877300613497,
                     "strikePrice": 197.5,
-                    "totalBuyQuantity": 982125,
-                    "totalSellQuantity": 384750,
+                    "totalBuyQuantity": 955125,
+                    "totalSellQuantity": 394875,
                     "totalTradedVolume": 61,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 197.5
             },
             {
                 "CE": {
-                    "askPrice": 8.95,
+                    "askPrice": 9.2,
                     "askQty": 3375,
-                    "bidQty": 13500,
-                    "bidprice": 8.8,
-                    "change": 0.7999999999999989,
+                    "bidQty": 3375,
+                    "bidprice": 9.15,
+                    "change": 0.6999999999999993,
                     "changeinOpenInterest": -12,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATAPOWER25-05-2023CE200.00",
                     "impliedVolatility": 19.42,
-                    "lastPrice": 9.1,
+                    "lastPrice": 9,
                     "openInterest": 465,
-                    "pChange": 9.638554216867457,
+                    "pChange": 8.433734939759027,
                     "pchangeinOpenInterest": -2.5157232704402515,
                     "strikePrice": 200,
-                    "totalBuyQuantity": 337500,
-                    "totalSellQuantity": 334125,
-                    "totalTradedVolume": 24,
+                    "totalBuyQuantity": 327375,
+                    "totalSellQuantity": 327375,
+                    "totalTradedVolume": 25,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 0.4,
-                    "askQty": 151875,
-                    "bidQty": 398250,
+                    "askQty": 185625,
+                    "bidQty": 401625,
                     "bidprice": 0.35,
                     "change": -0.19999999999999996,
                     "changeinOpenInterest": -129,
@@ -878,21 +878,21 @@
                     "pChange": -33.33333333333333,
                     "pchangeinOpenInterest": -6.9994574064026045,
                     "strikePrice": 200,
-                    "totalBuyQuantity": 4681125,
-                    "totalSellQuantity": 1967625,
-                    "totalTradedVolume": 610,
+                    "totalBuyQuantity": 4687875,
+                    "totalSellQuantity": 2001375,
+                    "totalTradedVolume": 611,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 200
             },
             {
                 "CE": {
-                    "askPrice": 6.75,
-                    "askQty": 10125,
-                    "bidQty": 10125,
-                    "bidprice": 6.55,
+                    "askPrice": 6.85,
+                    "askQty": 6750,
+                    "bidQty": 6750,
+                    "bidprice": 6.7,
                     "change": 1.0999999999999996,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -903,16 +903,16 @@
                     "pChange": 18.333333333333325,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 202.5,
-                    "totalBuyQuantity": 300375,
+                    "totalBuyQuantity": 297000,
                     "totalSellQuantity": 303750,
                     "totalTradedVolume": 4,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 0.55,
-                    "askQty": 43875,
-                    "bidQty": 50625,
+                    "askQty": 54000,
+                    "bidQty": 43875,
                     "bidprice": 0.5,
                     "change": -0.25,
                     "changeinOpenInterest": -22,
@@ -925,179 +925,179 @@
                     "pchangeinOpenInterest": -4.271844660194175,
                     "strikePrice": 202.5,
                     "totalBuyQuantity": 1528875,
-                    "totalSellQuantity": 617625,
+                    "totalSellQuantity": 621000,
                     "totalTradedVolume": 253,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 202.5
             },
             {
                 "CE": {
-                    "askPrice": 4.7,
+                    "askPrice": 4.75,
                     "askQty": 6750,
-                    "bidQty": 13500,
-                    "bidprice": 4.6,
-                    "change": 0.5499999999999998,
-                    "changeinOpenInterest": 0,
+                    "bidQty": 6750,
+                    "bidprice": 4.65,
+                    "change": 0.6500000000000004,
+                    "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATAPOWER25-05-2023CE205.00",
                     "impliedVolatility": 17.53,
-                    "lastPrice": 4.6,
-                    "openInterest": 1075,
-                    "pChange": 13.580246913580243,
-                    "pchangeinOpenInterest": 0,
+                    "lastPrice": 4.7,
+                    "openInterest": 1074,
+                    "pChange": 16.049382716049394,
+                    "pchangeinOpenInterest": -0.09302325581395349,
                     "strikePrice": 205,
-                    "totalBuyQuantity": 459000,
-                    "totalSellQuantity": 475875,
-                    "totalTradedVolume": 324,
+                    "totalBuyQuantity": 455625,
+                    "totalSellQuantity": 472500,
+                    "totalTradedVolume": 335,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 1,
-                    "askQty": 33750,
-                    "bidQty": 54000,
+                    "askPrice": 0.95,
+                    "askQty": 30375,
+                    "bidQty": 23625,
                     "bidprice": 0.9,
-                    "change": -0.3500000000000001,
+                    "change": -0.4,
                     "changeinOpenInterest": 92,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATAPOWER25-05-2023PE205.00",
                     "impliedVolatility": 20.88,
-                    "lastPrice": 0.95,
+                    "lastPrice": 0.9,
                     "openInterest": 1174,
-                    "pChange": -26.923076923076927,
+                    "pChange": -30.76923076923077,
                     "pchangeinOpenInterest": 8.502772643253234,
                     "strikePrice": 205,
-                    "totalBuyQuantity": 3857625,
-                    "totalSellQuantity": 759375,
-                    "totalTradedVolume": 287,
+                    "totalBuyQuantity": 3834000,
+                    "totalSellQuantity": 769500,
+                    "totalTradedVolume": 290,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 205
             },
             {
                 "CE": {
-                    "askPrice": 3.15,
-                    "askQty": 10125,
-                    "bidQty": 16875,
-                    "bidprice": 3.05,
-                    "change": 0.34999999999999964,
-                    "changeinOpenInterest": -43,
+                    "askPrice": 3.2,
+                    "askQty": 3375,
+                    "bidQty": 10125,
+                    "bidprice": 3.15,
+                    "change": 0.5,
+                    "changeinOpenInterest": -36,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATAPOWER25-05-2023CE207.50",
                     "impliedVolatility": 20.7,
-                    "lastPrice": 3.05,
-                    "openInterest": 241,
-                    "pChange": 12.962962962962948,
-                    "pchangeinOpenInterest": -15.140845070422536,
+                    "lastPrice": 3.2,
+                    "openInterest": 248,
+                    "pChange": 18.51851851851852,
+                    "pchangeinOpenInterest": -12.67605633802817,
                     "strikePrice": 207.5,
-                    "totalBuyQuantity": 394875,
-                    "totalSellQuantity": 496125,
-                    "totalTradedVolume": 306,
+                    "totalBuyQuantity": 405000,
+                    "totalSellQuantity": 499500,
+                    "totalTradedVolume": 315,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 2,
-                    "askQty": 27000,
-                    "bidQty": 16875,
-                    "bidprice": 1.9,
-                    "change": -0.5000000000000002,
-                    "changeinOpenInterest": -5,
+                    "askPrice": 1.95,
+                    "askQty": 23625,
+                    "bidQty": 13500,
+                    "bidprice": 1.85,
+                    "change": -0.5500000000000003,
+                    "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATAPOWER25-05-2023PE207.50",
                     "impliedVolatility": 22.47,
-                    "lastPrice": 1.95,
-                    "openInterest": 413,
-                    "pChange": -20.408163265306133,
-                    "pchangeinOpenInterest": -1.1961722488038278,
+                    "lastPrice": 1.9,
+                    "openInterest": 415,
+                    "pChange": -22.448979591836743,
+                    "pchangeinOpenInterest": -0.7177033492822966,
                     "strikePrice": 207.5,
                     "totalBuyQuantity": 1721250,
-                    "totalSellQuantity": 567000,
-                    "totalTradedVolume": 235,
+                    "totalSellQuantity": 580500,
+                    "totalTradedVolume": 238,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 207.5
             },
             {
                 "CE": {
-                    "askPrice": 2.15,
-                    "askQty": 60750,
-                    "bidQty": 47250,
-                    "bidprice": 2.1,
-                    "change": 0.25,
-                    "changeinOpenInterest": 11,
+                    "askPrice": 2.2,
+                    "askQty": 37125,
+                    "bidQty": 10125,
+                    "bidprice": 2.15,
+                    "change": 0.2999999999999998,
+                    "changeinOpenInterest": 15,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATAPOWER25-05-2023CE210.00",
                     "impliedVolatility": 22.23,
-                    "lastPrice": 2.1,
-                    "openInterest": 2909,
-                    "pChange": 13.513513513513512,
-                    "pchangeinOpenInterest": 0.3795721187025535,
+                    "lastPrice": 2.15,
+                    "openInterest": 2913,
+                    "pChange": 16.216216216216207,
+                    "pchangeinOpenInterest": 0.5175983436853002,
                     "strikePrice": 210,
-                    "totalBuyQuantity": 3287250,
-                    "totalSellQuantity": 1589625,
-                    "totalTradedVolume": 1098,
+                    "totalBuyQuantity": 3341250,
+                    "totalSellQuantity": 1586250,
+                    "totalTradedVolume": 1157,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 3.5,
-                    "askQty": 16875,
-                    "bidQty": 20250,
-                    "bidprice": 3.35,
-                    "change": -0.5999999999999996,
+                    "askPrice": 3.4,
+                    "askQty": 6750,
+                    "bidQty": 16875,
+                    "bidprice": 3.3,
+                    "change": -0.6999999999999997,
                     "changeinOpenInterest": 11,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATAPOWER25-05-2023PE210.00",
                     "impliedVolatility": 24.44,
-                    "lastPrice": 3.45,
+                    "lastPrice": 3.35,
                     "openInterest": 1015,
-                    "pChange": -14.814814814814806,
+                    "pChange": -17.283950617283946,
                     "pchangeinOpenInterest": 1.095617529880478,
                     "strikePrice": 210,
-                    "totalBuyQuantity": 1967625,
-                    "totalSellQuantity": 590625,
-                    "totalTradedVolume": 335,
+                    "totalBuyQuantity": 1971000,
+                    "totalSellQuantity": 597375,
+                    "totalTradedVolume": 339,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 210
             },
             {
                 "CE": {
-                    "askPrice": 1.3,
-                    "askQty": 6750,
-                    "bidQty": 27000,
-                    "bidprice": 1.25,
+                    "askPrice": 1.35,
+                    "askQty": 13500,
+                    "bidQty": 16875,
+                    "bidprice": 1.3,
                     "change": 0.15000000000000013,
-                    "changeinOpenInterest": 41,
+                    "changeinOpenInterest": 36,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATAPOWER25-05-2023CE212.50",
                     "impliedVolatility": 23.67,
                     "lastPrice": 1.3,
-                    "openInterest": 752,
+                    "openInterest": 747,
                     "pChange": 13.043478260869579,
-                    "pchangeinOpenInterest": 5.766526019690577,
+                    "pchangeinOpenInterest": 5.063291139240507,
                     "strikePrice": 212.5,
-                    "totalBuyQuantity": 1724625,
-                    "totalSellQuantity": 715500,
-                    "totalTradedVolume": 326,
+                    "totalBuyQuantity": 1738125,
+                    "totalSellQuantity": 752625,
+                    "totalTradedVolume": 330,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 5.25,
-                    "askQty": 13500,
+                    "askPrice": 5.05,
+                    "askQty": 3375,
                     "bidQty": 13500,
-                    "bidprice": 5.05,
+                    "bidprice": 4.95,
                     "change": -0.9500000000000002,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
@@ -1109,41 +1109,41 @@
                     "pchangeinOpenInterest": -1.6260162601626016,
                     "strikePrice": 212.5,
                     "totalBuyQuantity": 334125,
-                    "totalSellQuantity": 330750,
+                    "totalSellQuantity": 337500,
                     "totalTradedVolume": 32,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 212.5
             },
             {
                 "CE": {
-                    "askPrice": 0.85,
-                    "askQty": 108000,
-                    "bidQty": 158625,
-                    "bidprice": 0.8,
-                    "change": 0,
-                    "changeinOpenInterest": -39,
+                    "askPrice": 0.9,
+                    "askQty": 155250,
+                    "bidQty": 70875,
+                    "bidprice": 0.85,
+                    "change": 0.04999999999999993,
+                    "changeinOpenInterest": -40,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATAPOWER25-05-2023CE215.00",
                     "impliedVolatility": 24.96,
-                    "lastPrice": 0.8,
-                    "openInterest": 2171,
-                    "pChange": 0,
-                    "pchangeinOpenInterest": -1.7647058823529411,
+                    "lastPrice": 0.85,
+                    "openInterest": 2170,
+                    "pChange": 6.249999999999992,
+                    "pchangeinOpenInterest": -1.8099547511312217,
                     "strikePrice": 215,
-                    "totalBuyQuantity": 5362875,
-                    "totalSellQuantity": 1836000,
-                    "totalTradedVolume": 707,
+                    "totalBuyQuantity": 5575500,
+                    "totalSellQuantity": 1798875,
+                    "totalTradedVolume": 729,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 7.25,
+                    "askPrice": 7.1,
                     "askQty": 3375,
                     "bidQty": 6750,
-                    "bidprice": 7.1,
+                    "bidprice": 7,
                     "change": -1.0499999999999998,
                     "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
@@ -1155,10 +1155,10 @@
                     "pchangeinOpenInterest": -0.44052863436123346,
                     "strikePrice": 215,
                     "totalBuyQuantity": 405000,
-                    "totalSellQuantity": 320625,
+                    "totalSellQuantity": 317250,
                     "totalTradedVolume": 13,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 215
@@ -1166,7 +1166,7 @@
             {
                 "CE": {
                     "askPrice": 0.6,
-                    "askQty": 43875,
+                    "askQty": 47250,
                     "bidQty": 37125,
                     "bidprice": 0.55,
                     "change": 0,
@@ -1180,16 +1180,16 @@
                     "pchangeinOpenInterest": -4.4692737430167595,
                     "strikePrice": 217.5,
                     "totalBuyQuantity": 1832625,
-                    "totalSellQuantity": 786375,
+                    "totalSellQuantity": 796500,
                     "totalTradedVolume": 154,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 9.5,
-                    "askQty": 3375,
+                    "askPrice": 9.4,
+                    "askQty": 10125,
                     "bidQty": 6750,
-                    "bidprice": 9.3,
+                    "bidprice": 9.2,
                     "change": -2.200000000000001,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
@@ -1204,7 +1204,7 @@
                     "totalSellQuantity": 293625,
                     "totalTradedVolume": 3,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 217.5
@@ -1213,29 +1213,29 @@
                 "CE": {
                     "askPrice": 0.45,
                     "askQty": 357750,
-                    "bidQty": 216000,
+                    "bidQty": 516375,
                     "bidprice": 0.4,
-                    "change": 0,
+                    "change": 0.04999999999999999,
                     "changeinOpenInterest": -40,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATAPOWER25-05-2023CE220.00",
                     "impliedVolatility": 28.79,
-                    "lastPrice": 0.4,
+                    "lastPrice": 0.45,
                     "openInterest": 2466,
-                    "pChange": 0,
+                    "pChange": 12.499999999999996,
                     "pchangeinOpenInterest": -1.596169193934557,
                     "strikePrice": 220,
-                    "totalBuyQuantity": 9304875,
-                    "totalSellQuantity": 3344625,
-                    "totalTradedVolume": 654,
+                    "totalBuyQuantity": 9618750,
+                    "totalSellQuantity": 3591000,
+                    "totalTradedVolume": 656,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 11.8,
+                    "askPrice": 11.65,
                     "askQty": 3375,
                     "bidQty": 3375,
-                    "bidprice": 11.6,
+                    "bidprice": 11.45,
                     "change": -0.75,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1246,11 +1246,11 @@
                     "pChange": -5.97609561752988,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 220,
-                    "totalBuyQuantity": 185625,
-                    "totalSellQuantity": 175500,
+                    "totalBuyQuantity": 182250,
+                    "totalSellQuantity": 185625,
                     "totalTradedVolume": 2,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 220
@@ -1259,7 +1259,7 @@
                 "CE": {
                     "askPrice": 0.35,
                     "askQty": 57375,
-                    "bidQty": 33750,
+                    "bidQty": 43875,
                     "bidprice": 0.3,
                     "change": 0,
                     "changeinOpenInterest": 4,
@@ -1271,16 +1271,16 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 3.225806451612903,
                     "strikePrice": 222.5,
-                    "totalBuyQuantity": 1177875,
-                    "totalSellQuantity": 455625,
+                    "totalBuyQuantity": 1184625,
+                    "totalSellQuantity": 445500,
                     "totalTradedVolume": 37,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 14.25,
+                    "askPrice": 14.3,
                     "askQty": 3375,
-                    "bidQty": 3375,
+                    "bidQty": 6750,
                     "bidprice": 13.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -1292,11 +1292,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 222.5,
-                    "totalBuyQuantity": 138375,
-                    "totalSellQuantity": 138375,
+                    "totalBuyQuantity": 141750,
+                    "totalSellQuantity": 148500,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 222.5
@@ -1318,16 +1318,16 @@
                     "pchangeinOpenInterest": 10.583941605839415,
                     "strikePrice": 225,
                     "totalBuyQuantity": 4272750,
-                    "totalSellQuantity": 1630125,
+                    "totalSellQuantity": 1633500,
                     "totalTradedVolume": 227,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 16.65,
+                    "askPrice": 16.5,
                     "askQty": 3375,
                     "bidQty": 3375,
-                    "bidprice": 16.4,
+                    "bidprice": 16.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1338,11 +1338,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 225,
-                    "totalBuyQuantity": 138375,
-                    "totalSellQuantity": 141750,
+                    "totalBuyQuantity": 148500,
+                    "totalSellQuantity": 138375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 225
@@ -1367,13 +1367,13 @@
                     "totalSellQuantity": 371250,
                     "totalTradedVolume": 8,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 19.6,
-                    "askQty": 10125,
-                    "bidQty": 20250,
-                    "bidprice": 18.35,
+                    "askPrice": 19.75,
+                    "askQty": 13500,
+                    "bidQty": 10125,
+                    "bidprice": 18.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1385,10 +1385,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 227.5,
                     "totalBuyQuantity": 151875,
-                    "totalSellQuantity": 141750,
+                    "totalSellQuantity": 155250,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 227.5
@@ -1396,30 +1396,30 @@
             {
                 "CE": {
                     "askPrice": 0.15,
-                    "askQty": 276750,
-                    "bidQty": 1066500,
+                    "askQty": 374625,
+                    "bidQty": 1056375,
                     "bidprice": 0.1,
-                    "change": 0,
+                    "change": 0.04999999999999999,
                     "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATAPOWER25-05-2023CE230.00",
                     "impliedVolatility": 35.22,
-                    "lastPrice": 0.1,
+                    "lastPrice": 0.15,
                     "openInterest": 1045,
-                    "pChange": 0,
+                    "pChange": 49.999999999999986,
                     "pchangeinOpenInterest": -0.2862595419847328,
                     "strikePrice": 230,
-                    "totalBuyQuantity": 3054375,
-                    "totalSellQuantity": 1795500,
-                    "totalTradedVolume": 13,
+                    "totalBuyQuantity": 3044250,
+                    "totalSellQuantity": 1910250,
+                    "totalTradedVolume": 16,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 21.4,
+                    "askPrice": 21.45,
                     "askQty": 3375,
-                    "bidQty": 3375,
-                    "bidprice": 21.1,
+                    "bidQty": 10125,
+                    "bidprice": 21.15,
                     "change": -1.9499999999999993,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
@@ -1430,11 +1430,11 @@
                     "pChange": -8.666666666666664,
                     "pchangeinOpenInterest": -0.15479876160990713,
                     "strikePrice": 230,
-                    "totalBuyQuantity": 145125,
-                    "totalSellQuantity": 162000,
+                    "totalBuyQuantity": 155250,
+                    "totalSellQuantity": 151875,
                     "totalTradedVolume": 4,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 230
@@ -1459,10 +1459,10 @@
                     "totalSellQuantity": 158625,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 24.65,
+                    "askPrice": 24.6,
                     "askQty": 10125,
                     "bidQty": 10125,
                     "bidprice": 23,
@@ -1477,10 +1477,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 232.5,
                     "totalBuyQuantity": 141750,
-                    "totalSellQuantity": 131625,
+                    "totalSellQuantity": 141750,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 232.5
@@ -1505,11 +1505,11 @@
                     "totalSellQuantity": 617625,
                     "totalTradedVolume": 8,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 27.9,
-                    "askQty": 20250,
+                    "askPrice": 27.05,
+                    "askQty": 13500,
                     "bidQty": 10125,
                     "bidprice": 24.95,
                     "change": 0,
@@ -1523,10 +1523,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 235,
                     "totalBuyQuantity": 131625,
-                    "totalSellQuantity": 121500,
+                    "totalSellQuantity": 135000,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 235
@@ -1535,7 +1535,7 @@
                 "CE": {
                     "askPrice": 0.15,
                     "askQty": 3375,
-                    "bidQty": 33750,
+                    "bidQty": 50625,
                     "bidprice": 0.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -1547,11 +1547,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 237.5,
-                    "totalBuyQuantity": 33750,
+                    "totalBuyQuantity": 50625,
                     "totalSellQuantity": 165375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 30.3,
@@ -1572,7 +1572,7 @@
                     "totalSellQuantity": 131625,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 237.5
@@ -1597,13 +1597,13 @@
                     "totalSellQuantity": 1093500,
                     "totalTradedVolume": 12,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 31.6,
+                    "askPrice": 31.45,
                     "askQty": 3375,
                     "bidQty": 3375,
-                    "bidprice": 31.2,
+                    "bidprice": 30.95,
                     "change": -0.45000000000000284,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1618,7 +1618,7 @@
                     "totalSellQuantity": 141750,
                     "totalTradedVolume": 1,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 240
@@ -1643,7 +1643,7 @@
                     "totalSellQuantity": 111375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 242.5
@@ -1668,7 +1668,7 @@
                     "totalSellQuantity": 583875,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 36.65,
@@ -1689,7 +1689,7 @@
                     "totalSellQuantity": 128250,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 245
@@ -1714,13 +1714,13 @@
                     "totalSellQuantity": 189000,
                     "totalTradedVolume": 1,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 41.2,
+                    "askPrice": 39.7,
                     "askQty": 10125,
                     "bidQty": 10125,
-                    "bidprice": 37.55,
+                    "bidprice": 37.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1732,10 +1732,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 247.5,
                     "totalBuyQuantity": 118125,
-                    "totalSellQuantity": 111375,
+                    "totalSellQuantity": 118125,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 247.5
@@ -1764,7 +1764,7 @@
                     "totalSellQuantity": 101250,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 1,
@@ -1785,7 +1785,7 @@
                     "totalSellQuantity": 10125,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 150
@@ -1810,7 +1810,7 @@
                     "totalSellQuantity": 101250,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 152.5
@@ -1835,7 +1835,7 @@
                     "totalSellQuantity": 101250,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 155
@@ -1860,7 +1860,7 @@
                     "totalSellQuantity": 101250,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 1.65,
@@ -1881,7 +1881,7 @@
                     "totalSellQuantity": 101250,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 155
@@ -1906,7 +1906,7 @@
                     "totalSellQuantity": 111375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 157.5
@@ -1931,7 +1931,7 @@
                     "totalSellQuantity": 101250,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 157.5
@@ -1956,7 +1956,7 @@
                     "totalSellQuantity": 111375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 2,
@@ -1977,7 +1977,7 @@
                     "totalSellQuantity": 3375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 160
@@ -1987,7 +1987,7 @@
                     "askPrice": 52.2,
                     "askQty": 20250,
                     "bidQty": 10125,
-                    "bidprice": 47.15,
+                    "bidprice": 47.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2002,7 +2002,7 @@
                     "totalSellQuantity": 121500,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 0.05,
@@ -2023,7 +2023,7 @@
                     "totalSellQuantity": 131625,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 160
@@ -2048,7 +2048,7 @@
                     "totalSellQuantity": 111375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 0.5,
@@ -2069,7 +2069,7 @@
                     "totalSellQuantity": 33750,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 162.5
@@ -2094,7 +2094,7 @@
                     "totalSellQuantity": 101250,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 162.5
@@ -2119,11 +2119,11 @@
                     "totalSellQuantity": 111375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 0.3,
-                    "askQty": 3375,
+                    "askPrice": 0.25,
+                    "askQty": 54000,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -2137,10 +2137,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 165,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 70875,
+                    "totalSellQuantity": 124875,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 165
@@ -2165,7 +2165,7 @@
                     "totalSellQuantity": 101250,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2186,7 +2186,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 165
@@ -2211,7 +2211,7 @@
                     "totalSellQuantity": 111375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 0.5,
@@ -2232,7 +2232,7 @@
                     "totalSellQuantity": 33750,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 167.5
@@ -2257,7 +2257,7 @@
                     "totalSellQuantity": 101250,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2278,7 +2278,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 167.5
@@ -2303,7 +2303,7 @@
                     "totalSellQuantity": 111375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 0.05,
@@ -2324,7 +2324,7 @@
                     "totalSellQuantity": 276750,
                     "totalTradedVolume": 1,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 170
@@ -2349,7 +2349,7 @@
                     "totalSellQuantity": 111375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2370,7 +2370,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 170
@@ -2395,7 +2395,7 @@
                     "totalSellQuantity": 111375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 172.5
@@ -2420,7 +2420,7 @@
                     "totalSellQuantity": 114750,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 3.7,
@@ -2441,7 +2441,7 @@
                     "totalSellQuantity": 104625,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 172.5
@@ -2466,7 +2466,7 @@
                     "totalSellQuantity": 111375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 0.05,
@@ -2487,7 +2487,7 @@
                     "totalSellQuantity": 442125,
                     "totalTradedVolume": 1,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 175
@@ -2512,7 +2512,7 @@
                     "totalSellQuantity": 114750,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 3.95,
@@ -2533,7 +2533,7 @@
                     "totalSellQuantity": 104625,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 175
@@ -2558,7 +2558,7 @@
                     "totalSellQuantity": 111375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 0.7,
@@ -2579,7 +2579,7 @@
                     "totalSellQuantity": 33750,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 177.5
@@ -2604,7 +2604,7 @@
                     "totalSellQuantity": 114750,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 3.7,
@@ -2625,17 +2625,17 @@
                     "totalSellQuantity": 205875,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 177.5
             },
             {
                 "CE": {
-                    "askPrice": 30.1,
-                    "askQty": 3375,
-                    "bidQty": 3375,
-                    "bidprice": 27.35,
+                    "askPrice": 29.5,
+                    "askQty": 10125,
+                    "bidQty": 6750,
+                    "bidprice": 28.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2646,11 +2646,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 180,
-                    "totalBuyQuantity": 135000,
-                    "totalSellQuantity": 135000,
+                    "totalBuyQuantity": 138375,
+                    "totalSellQuantity": 131625,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 0.1,
@@ -2671,7 +2671,7 @@
                     "totalSellQuantity": 826875,
                     "totalTradedVolume": 30,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 180
@@ -2696,7 +2696,7 @@
                     "totalSellQuantity": 114750,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 0.95,
@@ -2717,7 +2717,7 @@
                     "totalSellQuantity": 121500,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 180
@@ -2742,7 +2742,7 @@
                     "totalSellQuantity": 131625,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 0.1,
@@ -2763,7 +2763,7 @@
                     "totalSellQuantity": 469125,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 182.5
@@ -2788,7 +2788,7 @@
                     "totalSellQuantity": 114750,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 0.7,
@@ -2809,17 +2809,17 @@
                     "totalSellQuantity": 209250,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 182.5
             },
             {
                 "CE": {
-                    "askPrice": 24.25,
+                    "askPrice": 24.3,
                     "askQty": 10125,
                     "bidQty": 10125,
-                    "bidprice": 23.1,
+                    "bidprice": 23.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2834,12 +2834,12 @@
                     "totalSellQuantity": 141750,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 0.1,
                     "askQty": 165375,
-                    "bidQty": 705375,
+                    "bidQty": 708750,
                     "bidprice": 0.05,
                     "change": -0.05,
                     "changeinOpenInterest": -3,
@@ -2851,11 +2851,11 @@
                     "pChange": -50,
                     "pchangeinOpenInterest": -0.7407407407407407,
                     "strikePrice": 185,
-                    "totalBuyQuantity": 705375,
+                    "totalBuyQuantity": 708750,
                     "totalSellQuantity": 823500,
                     "totalTradedVolume": 7,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 185
@@ -2880,7 +2880,7 @@
                     "totalSellQuantity": 3375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 7.25,
@@ -2901,7 +2901,7 @@
                     "totalSellQuantity": 3375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 185
@@ -2926,7 +2926,7 @@
                     "totalSellQuantity": 114750,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 1.2,
@@ -2947,7 +2947,7 @@
                     "totalSellQuantity": 128250,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 185
@@ -2972,7 +2972,7 @@
                     "totalSellQuantity": 114750,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 4.25,
@@ -2993,7 +2993,7 @@
                     "totalSellQuantity": 104625,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 187.5
@@ -3018,7 +3018,7 @@
                     "totalSellQuantity": 141750,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 0.15,
@@ -3039,7 +3039,7 @@
                     "totalSellQuantity": 290250,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 187.5
@@ -3064,7 +3064,7 @@
                     "totalSellQuantity": 124875,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 1.25,
@@ -3085,7 +3085,7 @@
                     "totalSellQuantity": 178875,
                     "totalTradedVolume": 3,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 190
@@ -3110,7 +3110,7 @@
                     "totalSellQuantity": 3375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 6.3,
@@ -3131,63 +3131,63 @@
                     "totalSellQuantity": 10125,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 190
             },
             {
                 "CE": {
-                    "askPrice": 18.85,
+                    "askPrice": 19.05,
                     "askQty": 3375,
-                    "bidQty": 10125,
-                    "bidprice": 18.5,
-                    "change": 1.3999999999999986,
-                    "changeinOpenInterest": -1,
+                    "bidQty": 6750,
+                    "bidprice": 18.8,
+                    "change": 1,
+                    "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATAPOWER25-05-2023CE190.00",
                     "impliedVolatility": 47.65,
-                    "lastPrice": 19.4,
-                    "openInterest": 112,
-                    "pChange": 7.77777777777777,
-                    "pchangeinOpenInterest": -0.8849557522123894,
+                    "lastPrice": 19,
+                    "openInterest": 111,
+                    "pChange": 5.555555555555555,
+                    "pchangeinOpenInterest": -1.7699115044247788,
                     "strikePrice": 190,
-                    "totalBuyQuantity": 270000,
-                    "totalSellQuantity": 273375,
-                    "totalTradedVolume": 9,
+                    "totalBuyQuantity": 286875,
+                    "totalSellQuantity": 263250,
+                    "totalTradedVolume": 15,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 0.15,
-                    "askQty": 671625,
+                    "askQty": 725625,
                     "bidQty": 681750,
                     "bidprice": 0.1,
-                    "change": -0.04999999999999999,
-                    "changeinOpenInterest": -1,
+                    "change": 0,
+                    "changeinOpenInterest": 2,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATAPOWER25-05-2023PE190.00",
                     "impliedVolatility": 35.64,
-                    "lastPrice": 0.1,
-                    "openInterest": 551,
-                    "pChange": -33.33333333333333,
-                    "pchangeinOpenInterest": -0.18115942028985507,
+                    "lastPrice": 0.15,
+                    "openInterest": 554,
+                    "pChange": 0,
+                    "pchangeinOpenInterest": 0.36231884057971014,
                     "strikePrice": 190,
-                    "totalBuyQuantity": 2031750,
-                    "totalSellQuantity": 1599750,
-                    "totalTradedVolume": 7,
+                    "totalBuyQuantity": 2052000,
+                    "totalSellQuantity": 1653750,
+                    "totalTradedVolume": 9,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 190
             },
             {
                 "CE": {
-                    "askPrice": 16.5,
+                    "askPrice": 16.6,
                     "askQty": 3375,
                     "bidQty": 3375,
-                    "bidprice": 16.05,
+                    "bidprice": 16.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3198,16 +3198,16 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 192.5,
-                    "totalBuyQuantity": 266625,
+                    "totalBuyQuantity": 280125,
                     "totalSellQuantity": 253125,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 0.2,
-                    "askQty": 33750,
-                    "bidQty": 212625,
+                    "askQty": 13500,
+                    "bidQty": 199125,
                     "bidprice": 0.1,
                     "change": -0.05000000000000002,
                     "changeinOpenInterest": 0,
@@ -3219,11 +3219,11 @@
                     "pChange": -25.000000000000007,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 192.5,
-                    "totalBuyQuantity": 489375,
-                    "totalSellQuantity": 472500,
+                    "totalBuyQuantity": 475875,
+                    "totalSellQuantity": 411750,
                     "totalTradedVolume": 5,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 192.5
@@ -3248,7 +3248,7 @@
                     "totalSellQuantity": 104625,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 4.85,
@@ -3269,7 +3269,7 @@
                     "totalSellQuantity": 205875,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 192.5
@@ -3294,13 +3294,13 @@
                     "totalSellQuantity": 104625,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 2,
-                    "askQty": 13500,
-                    "bidQty": 6750,
-                    "bidprice": 1.9,
+                    "askQty": 16875,
+                    "bidQty": 10125,
+                    "bidprice": 1.85,
                     "change": -0.40000000000000013,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3311,21 +3311,21 @@
                     "pChange": -18.181818181818183,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 195,
-                    "totalBuyQuantity": 81000,
+                    "totalBuyQuantity": 182250,
                     "totalSellQuantity": 300375,
                     "totalTradedVolume": 3,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 195
             },
             {
                 "CE": {
-                    "askPrice": 14,
+                    "askPrice": 14.1,
                     "askQty": 3375,
-                    "bidQty": 10125,
-                    "bidprice": 13.6,
+                    "bidQty": 3375,
+                    "bidprice": 13.8,
                     "change": 0.8500000000000014,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
@@ -3340,11 +3340,11 @@
                     "totalSellQuantity": 310500,
                     "totalTradedVolume": 2,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 0.2,
-                    "askQty": 604125,
+                    "askQty": 600750,
                     "bidQty": 1009125,
                     "bidprice": 0.15,
                     "change": -0.04999999999999999,
@@ -3358,20 +3358,20 @@
                     "pchangeinOpenInterest": 6.183368869936034,
                     "strikePrice": 195,
                     "totalBuyQuantity": 3084750,
-                    "totalSellQuantity": 2241000,
-                    "totalTradedVolume": 130,
+                    "totalSellQuantity": 2237625,
+                    "totalTradedVolume": 131,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 195
             },
             {
                 "CE": {
-                    "askPrice": 11.35,
-                    "askQty": 10125,
-                    "bidQty": 10125,
-                    "bidprice": 11.15,
+                    "askPrice": 11.6,
+                    "askQty": 3375,
+                    "bidQty": 13500,
+                    "bidprice": 11.4,
                     "change": 1.3499999999999996,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
@@ -3386,11 +3386,11 @@
                     "totalSellQuantity": 307125,
                     "totalTradedVolume": 2,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 0.3,
-                    "askQty": 10125,
+                    "askQty": 20250,
                     "bidQty": 30375,
                     "bidprice": 0.25,
                     "change": -0.15000000000000002,
@@ -3403,11 +3403,11 @@
                     "pChange": -37.50000000000001,
                     "pchangeinOpenInterest": -2.4539877300613497,
                     "strikePrice": 197.5,
-                    "totalBuyQuantity": 982125,
-                    "totalSellQuantity": 384750,
+                    "totalBuyQuantity": 955125,
+                    "totalSellQuantity": 394875,
                     "totalTradedVolume": 61,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 197.5
@@ -3432,7 +3432,7 @@
                     "totalSellQuantity": 3375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 11.9,
@@ -3453,14 +3453,14 @@
                     "totalSellQuantity": 3375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 197.5
             },
             {
                 "CE": {
-                    "askPrice": 17.3,
+                    "askPrice": 17.45,
                     "askQty": 10125,
                     "bidQty": 16875,
                     "bidprice": 9.6,
@@ -3478,13 +3478,13 @@
                     "totalSellQuantity": 114750,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 4.7,
+                    "askPrice": 3.3,
                     "askQty": 3375,
                     "bidQty": 3375,
-                    "bidprice": 1.5,
+                    "bidprice": 1.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3495,41 +3495,41 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 197.5,
-                    "totalBuyQuantity": 108000,
-                    "totalSellQuantity": 104625,
+                    "totalBuyQuantity": 104625,
+                    "totalSellQuantity": 108000,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 197.5
             },
             {
                 "CE": {
-                    "askPrice": 8.95,
+                    "askPrice": 9.2,
                     "askQty": 3375,
-                    "bidQty": 13500,
-                    "bidprice": 8.8,
-                    "change": 0.7999999999999989,
+                    "bidQty": 3375,
+                    "bidprice": 9.15,
+                    "change": 0.6999999999999993,
                     "changeinOpenInterest": -12,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATAPOWER25-05-2023CE200.00",
                     "impliedVolatility": 19.42,
-                    "lastPrice": 9.1,
+                    "lastPrice": 9,
                     "openInterest": 465,
-                    "pChange": 9.638554216867457,
+                    "pChange": 8.433734939759027,
                     "pchangeinOpenInterest": -2.5157232704402515,
                     "strikePrice": 200,
-                    "totalBuyQuantity": 337500,
-                    "totalSellQuantity": 334125,
-                    "totalTradedVolume": 24,
+                    "totalBuyQuantity": 327375,
+                    "totalSellQuantity": 327375,
+                    "totalTradedVolume": 25,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 0.4,
-                    "askQty": 151875,
-                    "bidQty": 398250,
+                    "askQty": 185625,
+                    "bidQty": 401625,
                     "bidprice": 0.35,
                     "change": -0.19999999999999996,
                     "changeinOpenInterest": -129,
@@ -3541,36 +3541,36 @@
                     "pChange": -33.33333333333333,
                     "pchangeinOpenInterest": -6.9994574064026045,
                     "strikePrice": 200,
-                    "totalBuyQuantity": 4681125,
-                    "totalSellQuantity": 1967625,
-                    "totalTradedVolume": 610,
+                    "totalBuyQuantity": 4687875,
+                    "totalSellQuantity": 2001375,
+                    "totalTradedVolume": 611,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 200
             },
             {
                 "CE": {
-                    "askPrice": 11.5,
-                    "askQty": 6750,
-                    "bidQty": 6750,
+                    "askPrice": 11.4,
+                    "askQty": 3375,
+                    "bidQty": 3375,
                     "bidprice": 11.3,
-                    "change": 0.6999999999999993,
+                    "change": 0.5499999999999989,
                     "changeinOpenInterest": -1,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKTATAPOWER29-06-2023CE200.00",
                     "impliedVolatility": 13.91,
-                    "lastPrice": 11.5,
+                    "lastPrice": 11.35,
                     "openInterest": 174,
-                    "pChange": 6.481481481481474,
+                    "pChange": 5.092592592592583,
                     "pchangeinOpenInterest": -0.5714285714285714,
                     "strikePrice": 200,
-                    "totalBuyQuantity": 297000,
-                    "totalSellQuantity": 175500,
-                    "totalTradedVolume": 17,
+                    "totalBuyQuantity": 293625,
+                    "totalSellQuantity": 178875,
+                    "totalTradedVolume": 25,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 3.1,
@@ -3587,11 +3587,11 @@
                     "pChange": -11.428571428571425,
                     "pchangeinOpenInterest": 0.7312614259597806,
                     "strikePrice": 200,
-                    "totalBuyQuantity": 442125,
-                    "totalSellQuantity": 570375,
+                    "totalBuyQuantity": 344250,
+                    "totalSellQuantity": 472500,
                     "totalTradedVolume": 33,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 200
@@ -3616,13 +3616,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 5.2,
+                    "askPrice": 4.85,
                     "askQty": 3375,
                     "bidQty": 3375,
-                    "bidprice": 4.4,
+                    "bidprice": 4.45,
                     "change": -0.4500000000000002,
                     "changeinOpenInterest": 1,
                     "expiryDate": "27-Jul-2023",
@@ -3633,21 +3633,21 @@
                     "pChange": -9.000000000000004,
                     "pchangeinOpenInterest": 5.555555555555555,
                     "strikePrice": 200,
-                    "totalBuyQuantity": 23625,
-                    "totalSellQuantity": 13500,
+                    "totalBuyQuantity": 10125,
+                    "totalSellQuantity": 6750,
                     "totalTradedVolume": 2,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 200
             },
             {
                 "CE": {
-                    "askPrice": 6.75,
-                    "askQty": 10125,
-                    "bidQty": 10125,
-                    "bidprice": 6.55,
+                    "askPrice": 6.85,
+                    "askQty": 6750,
+                    "bidQty": 6750,
+                    "bidprice": 6.7,
                     "change": 1.0999999999999996,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3658,16 +3658,16 @@
                     "pChange": 18.333333333333325,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 202.5,
-                    "totalBuyQuantity": 300375,
+                    "totalBuyQuantity": 297000,
                     "totalSellQuantity": 303750,
                     "totalTradedVolume": 4,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 0.55,
-                    "askQty": 43875,
-                    "bidQty": 50625,
+                    "askQty": 54000,
+                    "bidQty": 43875,
                     "bidprice": 0.5,
                     "change": -0.25,
                     "changeinOpenInterest": -22,
@@ -3680,18 +3680,18 @@
                     "pchangeinOpenInterest": -4.271844660194175,
                     "strikePrice": 202.5,
                     "totalBuyQuantity": 1528875,
-                    "totalSellQuantity": 617625,
+                    "totalSellQuantity": 621000,
                     "totalTradedVolume": 253,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 202.5
             },
             {
                 "CE": {
-                    "askPrice": 13.4,
-                    "askQty": 101250,
+                    "askPrice": 13.5,
+                    "askQty": 10125,
                     "bidQty": 20250,
                     "bidprice": 4.1,
                     "change": 0,
@@ -3708,7 +3708,7 @@
                     "totalSellQuantity": 114750,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 4.3,
@@ -3729,7 +3729,7 @@
                     "totalSellQuantity": 111375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 202.5
@@ -3754,63 +3754,63 @@
                     "totalSellQuantity": 3375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 202.5
             },
             {
                 "CE": {
-                    "askPrice": 4.7,
+                    "askPrice": 4.75,
                     "askQty": 6750,
-                    "bidQty": 13500,
-                    "bidprice": 4.6,
-                    "change": 0.5499999999999998,
-                    "changeinOpenInterest": 0,
+                    "bidQty": 6750,
+                    "bidprice": 4.65,
+                    "change": 0.6500000000000004,
+                    "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATAPOWER25-05-2023CE205.00",
                     "impliedVolatility": 17.53,
-                    "lastPrice": 4.6,
-                    "openInterest": 1075,
-                    "pChange": 13.580246913580243,
-                    "pchangeinOpenInterest": 0,
+                    "lastPrice": 4.7,
+                    "openInterest": 1074,
+                    "pChange": 16.049382716049394,
+                    "pchangeinOpenInterest": -0.09302325581395349,
                     "strikePrice": 205,
-                    "totalBuyQuantity": 459000,
-                    "totalSellQuantity": 475875,
-                    "totalTradedVolume": 324,
+                    "totalBuyQuantity": 455625,
+                    "totalSellQuantity": 472500,
+                    "totalTradedVolume": 335,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 1,
-                    "askQty": 33750,
-                    "bidQty": 54000,
+                    "askPrice": 0.95,
+                    "askQty": 30375,
+                    "bidQty": 23625,
                     "bidprice": 0.9,
-                    "change": -0.3500000000000001,
+                    "change": -0.4,
                     "changeinOpenInterest": 92,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATAPOWER25-05-2023PE205.00",
                     "impliedVolatility": 20.88,
-                    "lastPrice": 0.95,
+                    "lastPrice": 0.9,
                     "openInterest": 1174,
-                    "pChange": -26.923076923076927,
+                    "pChange": -30.76923076923077,
                     "pchangeinOpenInterest": 8.502772643253234,
                     "strikePrice": 205,
-                    "totalBuyQuantity": 3857625,
-                    "totalSellQuantity": 759375,
-                    "totalTradedVolume": 287,
+                    "totalBuyQuantity": 3834000,
+                    "totalSellQuantity": 769500,
+                    "totalTradedVolume": 290,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 205
             },
             {
                 "CE": {
-                    "askPrice": 8.35,
-                    "askQty": 6750,
-                    "bidQty": 6750,
-                    "bidprice": 8.1,
+                    "askPrice": 8.5,
+                    "askQty": 3375,
+                    "bidQty": 3375,
+                    "bidprice": 8.25,
                     "change": 0.5500000000000007,
                     "changeinOpenInterest": -8,
                     "expiryDate": "29-Jun-2023",
@@ -3822,15 +3822,15 @@
                     "pchangeinOpenInterest": -7.6923076923076925,
                     "strikePrice": 205,
                     "totalBuyQuantity": 165375,
-                    "totalSellQuantity": 182250,
+                    "totalSellQuantity": 178875,
                     "totalTradedVolume": 17,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 4.95,
                     "askQty": 3375,
-                    "bidQty": 13500,
+                    "bidQty": 3375,
                     "bidprice": 4.85,
                     "change": -0.5,
                     "changeinOpenInterest": 3,
@@ -3842,11 +3842,11 @@
                     "pChange": -9.174311926605503,
                     "pchangeinOpenInterest": 1.492537313432836,
                     "strikePrice": 205,
-                    "totalBuyQuantity": 195750,
-                    "totalSellQuantity": 286875,
+                    "totalBuyQuantity": 297000,
+                    "totalSellQuantity": 293625,
                     "totalTradedVolume": 5,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 205
@@ -3871,60 +3871,60 @@
                     "totalSellQuantity": 16875,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 205
             },
             {
                 "CE": {
-                    "askPrice": 3.15,
-                    "askQty": 10125,
-                    "bidQty": 16875,
-                    "bidprice": 3.05,
-                    "change": 0.34999999999999964,
-                    "changeinOpenInterest": -43,
+                    "askPrice": 3.2,
+                    "askQty": 3375,
+                    "bidQty": 10125,
+                    "bidprice": 3.15,
+                    "change": 0.5,
+                    "changeinOpenInterest": -36,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATAPOWER25-05-2023CE207.50",
                     "impliedVolatility": 20.7,
-                    "lastPrice": 3.05,
-                    "openInterest": 241,
-                    "pChange": 12.962962962962948,
-                    "pchangeinOpenInterest": -15.140845070422536,
+                    "lastPrice": 3.2,
+                    "openInterest": 248,
+                    "pChange": 18.51851851851852,
+                    "pchangeinOpenInterest": -12.67605633802817,
                     "strikePrice": 207.5,
-                    "totalBuyQuantity": 394875,
-                    "totalSellQuantity": 496125,
-                    "totalTradedVolume": 306,
+                    "totalBuyQuantity": 405000,
+                    "totalSellQuantity": 499500,
+                    "totalTradedVolume": 315,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 2,
-                    "askQty": 27000,
-                    "bidQty": 16875,
-                    "bidprice": 1.9,
-                    "change": -0.5000000000000002,
-                    "changeinOpenInterest": -5,
+                    "askPrice": 1.95,
+                    "askQty": 23625,
+                    "bidQty": 13500,
+                    "bidprice": 1.85,
+                    "change": -0.5500000000000003,
+                    "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATAPOWER25-05-2023PE207.50",
                     "impliedVolatility": 22.47,
-                    "lastPrice": 1.95,
-                    "openInterest": 413,
-                    "pChange": -20.408163265306133,
-                    "pchangeinOpenInterest": -1.1961722488038278,
+                    "lastPrice": 1.9,
+                    "openInterest": 415,
+                    "pChange": -22.448979591836743,
+                    "pchangeinOpenInterest": -0.7177033492822966,
                     "strikePrice": 207.5,
                     "totalBuyQuantity": 1721250,
-                    "totalSellQuantity": 567000,
-                    "totalTradedVolume": 235,
+                    "totalSellQuantity": 580500,
+                    "totalTradedVolume": 238,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 207.5
             },
             {
                 "CE": {
-                    "askPrice": 7.35,
+                    "askPrice": 7.45,
                     "askQty": 6750,
                     "bidQty": 3375,
                     "bidprice": 7,
@@ -3942,13 +3942,13 @@
                     "totalSellQuantity": 121500,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 6.6,
                     "askQty": 6750,
                     "bidQty": 6750,
-                    "bidprice": 6.1,
+                    "bidprice": 6.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3963,15 +3963,15 @@
                     "totalSellQuantity": 111375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 207.5
             },
             {
                 "CE": {
-                    "askPrice": 13.35,
-                    "askQty": 6750,
+                    "askPrice": 13.45,
+                    "askQty": 3375,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 0,
@@ -3988,7 +3988,7 @@
                     "totalSellQuantity": 10125,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 17.75,
@@ -4009,17 +4009,17 @@
                     "totalSellQuantity": 3375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 207.5
             },
             {
                 "CE": {
-                    "askPrice": 6,
-                    "askQty": 10125,
-                    "bidQty": 3375,
-                    "bidprice": 5.9,
+                    "askPrice": 6.05,
+                    "askQty": 3375,
+                    "bidQty": 6750,
+                    "bidprice": 5.95,
                     "change": 0.2999999999999998,
                     "changeinOpenInterest": 29,
                     "expiryDate": "29-Jun-2023",
@@ -4030,17 +4030,17 @@
                     "pChange": 5.217391304347823,
                     "pchangeinOpenInterest": 6.105263157894737,
                     "strikePrice": 210,
-                    "totalBuyQuantity": 523125,
-                    "totalSellQuantity": 486000,
+                    "totalBuyQuantity": 529875,
+                    "totalSellQuantity": 492750,
                     "totalTradedVolume": 142,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 7.7,
+                    "askPrice": 7.65,
                     "askQty": 3375,
                     "bidQty": 3375,
-                    "bidprice": 7.5,
+                    "bidprice": 7.45,
                     "change": -0.8000000000000007,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4051,67 +4051,67 @@
                     "pChange": -9.638554216867478,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 210,
-                    "totalBuyQuantity": 141750,
-                    "totalSellQuantity": 205875,
+                    "totalBuyQuantity": 158625,
+                    "totalSellQuantity": 209250,
                     "totalTradedVolume": 14,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 210
             },
             {
                 "CE": {
-                    "askPrice": 2.15,
-                    "askQty": 60750,
-                    "bidQty": 47250,
-                    "bidprice": 2.1,
-                    "change": 0.25,
-                    "changeinOpenInterest": 11,
+                    "askPrice": 2.2,
+                    "askQty": 37125,
+                    "bidQty": 10125,
+                    "bidprice": 2.15,
+                    "change": 0.2999999999999998,
+                    "changeinOpenInterest": 15,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATAPOWER25-05-2023CE210.00",
                     "impliedVolatility": 22.23,
-                    "lastPrice": 2.1,
-                    "openInterest": 2909,
-                    "pChange": 13.513513513513512,
-                    "pchangeinOpenInterest": 0.3795721187025535,
+                    "lastPrice": 2.15,
+                    "openInterest": 2913,
+                    "pChange": 16.216216216216207,
+                    "pchangeinOpenInterest": 0.5175983436853002,
                     "strikePrice": 210,
-                    "totalBuyQuantity": 3287250,
-                    "totalSellQuantity": 1589625,
-                    "totalTradedVolume": 1098,
+                    "totalBuyQuantity": 3341250,
+                    "totalSellQuantity": 1586250,
+                    "totalTradedVolume": 1157,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 3.5,
-                    "askQty": 16875,
-                    "bidQty": 20250,
-                    "bidprice": 3.35,
-                    "change": -0.5999999999999996,
+                    "askPrice": 3.4,
+                    "askQty": 6750,
+                    "bidQty": 16875,
+                    "bidprice": 3.3,
+                    "change": -0.6999999999999997,
                     "changeinOpenInterest": 11,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATAPOWER25-05-2023PE210.00",
                     "impliedVolatility": 24.44,
-                    "lastPrice": 3.45,
+                    "lastPrice": 3.35,
                     "openInterest": 1015,
-                    "pChange": -14.814814814814806,
+                    "pChange": -17.283950617283946,
                     "pchangeinOpenInterest": 1.095617529880478,
                     "strikePrice": 210,
-                    "totalBuyQuantity": 1967625,
-                    "totalSellQuantity": 590625,
-                    "totalTradedVolume": 335,
+                    "totalBuyQuantity": 1971000,
+                    "totalSellQuantity": 597375,
+                    "totalTradedVolume": 339,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 210
             },
             {
                 "CE": {
-                    "askPrice": 10.05,
+                    "askPrice": 9.55,
                     "askQty": 3375,
                     "bidQty": 3375,
-                    "bidprice": 7.85,
+                    "bidprice": 8.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "27-Jul-2023",
@@ -4122,11 +4122,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 210,
-                    "totalBuyQuantity": 13500,
+                    "totalBuyQuantity": 10125,
                     "totalSellQuantity": 6750,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 18.55,
@@ -4147,38 +4147,38 @@
                     "totalSellQuantity": 6750,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 210
             },
             {
                 "CE": {
-                    "askPrice": 1.3,
-                    "askQty": 6750,
-                    "bidQty": 27000,
-                    "bidprice": 1.25,
+                    "askPrice": 1.35,
+                    "askQty": 13500,
+                    "bidQty": 16875,
+                    "bidprice": 1.3,
                     "change": 0.15000000000000013,
-                    "changeinOpenInterest": 41,
+                    "changeinOpenInterest": 36,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATAPOWER25-05-2023CE212.50",
                     "impliedVolatility": 23.67,
                     "lastPrice": 1.3,
-                    "openInterest": 752,
+                    "openInterest": 747,
                     "pChange": 13.043478260869579,
-                    "pchangeinOpenInterest": 5.766526019690577,
+                    "pchangeinOpenInterest": 5.063291139240507,
                     "strikePrice": 212.5,
-                    "totalBuyQuantity": 1724625,
-                    "totalSellQuantity": 715500,
-                    "totalTradedVolume": 326,
+                    "totalBuyQuantity": 1738125,
+                    "totalSellQuantity": 752625,
+                    "totalTradedVolume": 330,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 5.25,
-                    "askQty": 13500,
+                    "askPrice": 5.05,
+                    "askQty": 3375,
                     "bidQty": 13500,
-                    "bidprice": 5.05,
+                    "bidprice": 4.95,
                     "change": -0.9500000000000002,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
@@ -4190,17 +4190,17 @@
                     "pchangeinOpenInterest": -1.6260162601626016,
                     "strikePrice": 212.5,
                     "totalBuyQuantity": 334125,
-                    "totalSellQuantity": 330750,
+                    "totalSellQuantity": 337500,
                     "totalTradedVolume": 32,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 212.5
             },
             {
                 "CE": {
-                    "askPrice": 5.15,
+                    "askPrice": 5.25,
                     "askQty": 6750,
                     "bidQty": 3375,
                     "bidprice": 4.8,
@@ -4214,14 +4214,14 @@
                     "pChange": 3.8461538461538494,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 212.5,
-                    "totalBuyQuantity": 222750,
+                    "totalBuyQuantity": 219375,
                     "totalSellQuantity": 216000,
                     "totalTradedVolume": 1,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 12.85,
+                    "askPrice": 12.75,
                     "askQty": 10125,
                     "bidQty": 10125,
                     "bidprice": 6.5,
@@ -4239,14 +4239,14 @@
                     "totalSellQuantity": 114750,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 212.5
             },
             {
                 "CE": {
-                    "askPrice": 11.05,
+                    "askPrice": 11.15,
                     "askQty": 6750,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -4264,17 +4264,17 @@
                     "totalSellQuantity": 10125,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 212.5
             },
             {
                 "CE": {
-                    "askPrice": 4.2,
-                    "askQty": 10125,
-                    "bidQty": 3375,
-                    "bidprice": 4.1,
+                    "askPrice": 4.15,
+                    "askQty": 3375,
+                    "bidQty": 6750,
+                    "bidprice": 4.05,
                     "change": 0.39999999999999947,
                     "changeinOpenInterest": 3,
                     "expiryDate": "29-Jun-2023",
@@ -4285,39 +4285,39 @@
                     "pChange": 10.126582278481,
                     "pchangeinOpenInterest": 0.7246376811594203,
                     "strikePrice": 215,
-                    "totalBuyQuantity": 459000,
-                    "totalSellQuantity": 475875,
+                    "totalBuyQuantity": 462375,
+                    "totalSellQuantity": 482625,
                     "totalTradedVolume": 33,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 11.4,
-                    "askQty": 3375,
-                    "bidQty": 6750,
+                    "askPrice": 10.9,
+                    "askQty": 6750,
+                    "bidQty": 3375,
                     "bidprice": 10.45,
-                    "change": 0,
+                    "change": -1.5,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKTATAPOWER29-06-2023PE215.00",
                     "impliedVolatility": 0,
-                    "lastPrice": 0,
+                    "lastPrice": 10.5,
                     "openInterest": 35,
-                    "pChange": 0,
+                    "pChange": -12.5,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 215,
                     "totalBuyQuantity": 16875,
-                    "totalSellQuantity": 111375,
-                    "totalTradedVolume": 0,
+                    "totalSellQuantity": 124875,
+                    "totalTradedVolume": 1,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 215
             },
             {
                 "CE": {
-                    "askPrice": 7.35,
+                    "askPrice": 7.05,
                     "askQty": 3375,
                     "bidQty": 3375,
                     "bidprice": 6.6,
@@ -4332,41 +4332,41 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 215,
                     "totalBuyQuantity": 13500,
-                    "totalSellQuantity": 16875,
+                    "totalSellQuantity": 13500,
                     "totalTradedVolume": 1,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 215
             },
             {
                 "CE": {
-                    "askPrice": 0.85,
-                    "askQty": 108000,
-                    "bidQty": 158625,
-                    "bidprice": 0.8,
-                    "change": 0,
-                    "changeinOpenInterest": -39,
+                    "askPrice": 0.9,
+                    "askQty": 155250,
+                    "bidQty": 70875,
+                    "bidprice": 0.85,
+                    "change": 0.04999999999999993,
+                    "changeinOpenInterest": -40,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATAPOWER25-05-2023CE215.00",
                     "impliedVolatility": 24.96,
-                    "lastPrice": 0.8,
-                    "openInterest": 2171,
-                    "pChange": 0,
-                    "pchangeinOpenInterest": -1.7647058823529411,
+                    "lastPrice": 0.85,
+                    "openInterest": 2170,
+                    "pChange": 6.249999999999992,
+                    "pchangeinOpenInterest": -1.8099547511312217,
                     "strikePrice": 215,
-                    "totalBuyQuantity": 5362875,
-                    "totalSellQuantity": 1836000,
-                    "totalTradedVolume": 707,
+                    "totalBuyQuantity": 5575500,
+                    "totalSellQuantity": 1798875,
+                    "totalTradedVolume": 729,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 7.25,
+                    "askPrice": 7.1,
                     "askQty": 3375,
                     "bidQty": 6750,
-                    "bidprice": 7.1,
+                    "bidprice": 7,
                     "change": -1.0499999999999998,
                     "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
@@ -4378,10 +4378,10 @@
                     "pchangeinOpenInterest": -0.44052863436123346,
                     "strikePrice": 215,
                     "totalBuyQuantity": 405000,
-                    "totalSellQuantity": 320625,
+                    "totalSellQuantity": 317250,
                     "totalTradedVolume": 13,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 215
@@ -4389,7 +4389,7 @@
             {
                 "CE": {
                     "askPrice": 0.6,
-                    "askQty": 43875,
+                    "askQty": 47250,
                     "bidQty": 37125,
                     "bidprice": 0.55,
                     "change": 0,
@@ -4403,16 +4403,16 @@
                     "pchangeinOpenInterest": -4.4692737430167595,
                     "strikePrice": 217.5,
                     "totalBuyQuantity": 1832625,
-                    "totalSellQuantity": 786375,
+                    "totalSellQuantity": 796500,
                     "totalTradedVolume": 154,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 9.5,
-                    "askQty": 3375,
+                    "askPrice": 9.4,
+                    "askQty": 10125,
                     "bidQty": 6750,
-                    "bidprice": 9.3,
+                    "bidprice": 9.2,
                     "change": -2.200000000000001,
                     "changeinOpenInterest": -2,
                     "expiryDate": "25-May-2023",
@@ -4427,14 +4427,14 @@
                     "totalSellQuantity": 293625,
                     "totalTradedVolume": 3,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 217.5
             },
             {
                 "CE": {
-                    "askPrice": 10.8,
+                    "askPrice": 10.95,
                     "askQty": 3375,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -4452,7 +4452,7 @@
                     "totalSellQuantity": 6750,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 217.5
@@ -4477,13 +4477,13 @@
                     "totalSellQuantity": 209250,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 16.55,
-                    "askQty": 101250,
+                    "askPrice": 16.4,
+                    "askQty": 10125,
                     "bidQty": 10125,
-                    "bidprice": 8.35,
+                    "bidprice": 8.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4495,10 +4495,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 217.5,
                     "totalBuyQuantity": 13500,
-                    "totalSellQuantity": 104625,
+                    "totalSellQuantity": 114750,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 217.5
@@ -4507,29 +4507,29 @@
                 "CE": {
                     "askPrice": 0.45,
                     "askQty": 357750,
-                    "bidQty": 216000,
+                    "bidQty": 516375,
                     "bidprice": 0.4,
-                    "change": 0,
+                    "change": 0.04999999999999999,
                     "changeinOpenInterest": -40,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATAPOWER25-05-2023CE220.00",
                     "impliedVolatility": 28.79,
-                    "lastPrice": 0.4,
+                    "lastPrice": 0.45,
                     "openInterest": 2466,
-                    "pChange": 0,
+                    "pChange": 12.499999999999996,
                     "pchangeinOpenInterest": -1.596169193934557,
                     "strikePrice": 220,
-                    "totalBuyQuantity": 9304875,
-                    "totalSellQuantity": 3344625,
-                    "totalTradedVolume": 654,
+                    "totalBuyQuantity": 9618750,
+                    "totalSellQuantity": 3591000,
+                    "totalTradedVolume": 656,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 11.8,
+                    "askPrice": 11.65,
                     "askQty": 3375,
                     "bidQty": 3375,
-                    "bidprice": 11.6,
+                    "bidprice": 11.45,
                     "change": -0.75,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4540,11 +4540,11 @@
                     "pChange": -5.97609561752988,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 220,
-                    "totalBuyQuantity": 185625,
-                    "totalSellQuantity": 175500,
+                    "totalBuyQuantity": 182250,
+                    "totalSellQuantity": 185625,
                     "totalTradedVolume": 2,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 220
@@ -4552,29 +4552,29 @@
             {
                 "CE": {
                     "askPrice": 2.75,
-                    "askQty": 6750,
-                    "bidQty": 10125,
-                    "bidprice": 2.7,
-                    "change": 0.10000000000000009,
-                    "changeinOpenInterest": 12,
+                    "askQty": 10125,
+                    "bidQty": 23625,
+                    "bidprice": 2.65,
+                    "change": 0.050000000000000266,
+                    "changeinOpenInterest": 13,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKTATAPOWER29-06-2023CE220.00",
                     "impliedVolatility": 21.53,
-                    "lastPrice": 2.75,
-                    "openInterest": 1047,
-                    "pChange": 3.7735849056603805,
-                    "pchangeinOpenInterest": 1.1594202898550725,
+                    "lastPrice": 2.7,
+                    "openInterest": 1048,
+                    "pChange": 1.8867924528301987,
+                    "pchangeinOpenInterest": 1.2560386473429952,
                     "strikePrice": 220,
-                    "totalBuyQuantity": 614250,
-                    "totalSellQuantity": 594000,
-                    "totalTradedVolume": 77,
+                    "totalBuyQuantity": 604125,
+                    "totalSellQuantity": 600750,
+                    "totalTradedVolume": 80,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 14.85,
+                    "askPrice": 14.65,
                     "askQty": 10125,
-                    "bidQty": 6750,
+                    "bidQty": 3375,
                     "bidprice": 13.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -4586,11 +4586,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 220,
-                    "totalBuyQuantity": 118125,
+                    "totalBuyQuantity": 114750,
                     "totalSellQuantity": 118125,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 220
@@ -4615,7 +4615,7 @@
                     "totalSellQuantity": 6750,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 26.95,
@@ -4636,7 +4636,7 @@
                     "totalSellQuantity": 3375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 220
@@ -4645,7 +4645,7 @@
                 "CE": {
                     "askPrice": 0.35,
                     "askQty": 57375,
-                    "bidQty": 33750,
+                    "bidQty": 43875,
                     "bidprice": 0.3,
                     "change": 0,
                     "changeinOpenInterest": 4,
@@ -4657,16 +4657,16 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 3.225806451612903,
                     "strikePrice": 222.5,
-                    "totalBuyQuantity": 1177875,
-                    "totalSellQuantity": 455625,
+                    "totalBuyQuantity": 1184625,
+                    "totalSellQuantity": 445500,
                     "totalTradedVolume": 37,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 14.25,
+                    "askPrice": 14.3,
                     "askQty": 3375,
-                    "bidQty": 3375,
+                    "bidQty": 6750,
                     "bidprice": 13.9,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -4678,11 +4678,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 222.5,
-                    "totalBuyQuantity": 138375,
-                    "totalSellQuantity": 138375,
+                    "totalBuyQuantity": 141750,
+                    "totalSellQuantity": 148500,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 222.5
@@ -4692,7 +4692,7 @@
                     "askPrice": 2.6,
                     "askQty": 10125,
                     "bidQty": 3375,
-                    "bidprice": 1.8,
+                    "bidprice": 1.7,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4707,7 +4707,7 @@
                     "totalSellQuantity": 219375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 19.35,
@@ -4728,14 +4728,14 @@
                     "totalSellQuantity": 114750,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 222.5
             },
             {
                 "CE": {
-                    "askPrice": 11.15,
+                    "askPrice": 11.05,
                     "askQty": 3375,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -4750,10 +4750,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 222.5,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 3375,
+                    "totalSellQuantity": 6750,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 222.5
@@ -4775,16 +4775,16 @@
                     "pchangeinOpenInterest": 10.583941605839415,
                     "strikePrice": 225,
                     "totalBuyQuantity": 4272750,
-                    "totalSellQuantity": 1630125,
+                    "totalSellQuantity": 1633500,
                     "totalTradedVolume": 227,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 16.65,
+                    "askPrice": 16.5,
                     "askQty": 3375,
                     "bidQty": 3375,
-                    "bidprice": 16.4,
+                    "bidprice": 16.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4795,11 +4795,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 225,
-                    "totalBuyQuantity": 138375,
-                    "totalSellQuantity": 141750,
+                    "totalBuyQuantity": 148500,
+                    "totalSellQuantity": 138375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 225
@@ -4807,8 +4807,8 @@
             {
                 "CE": {
                     "askPrice": 1.85,
-                    "askQty": 10125,
-                    "bidQty": 6750,
+                    "askQty": 13500,
+                    "bidQty": 3375,
                     "bidprice": 1.8,
                     "change": 0.10000000000000009,
                     "changeinOpenInterest": 4,
@@ -4820,11 +4820,11 @@
                     "pChange": 5.71428571428572,
                     "pchangeinOpenInterest": 3.669724770642202,
                     "strikePrice": 225,
-                    "totalBuyQuantity": 165375,
+                    "totalBuyQuantity": 168750,
                     "totalSellQuantity": 303750,
                     "totalTradedVolume": 20,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 19.15,
@@ -4845,7 +4845,7 @@
                     "totalSellQuantity": 111375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 225
@@ -4870,7 +4870,7 @@
                     "totalSellQuantity": 3375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 30.5,
@@ -4891,7 +4891,7 @@
                     "totalSellQuantity": 3375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 225
@@ -4916,13 +4916,13 @@
                     "totalSellQuantity": 371250,
                     "totalTradedVolume": 8,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 19.6,
-                    "askQty": 10125,
-                    "bidQty": 20250,
-                    "bidprice": 18.35,
+                    "askPrice": 19.75,
+                    "askQty": 13500,
+                    "bidQty": 10125,
+                    "bidprice": 18.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4934,10 +4934,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 227.5,
                     "totalBuyQuantity": 151875,
-                    "totalSellQuantity": 141750,
+                    "totalSellQuantity": 155250,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 227.5
@@ -4962,13 +4962,13 @@
                     "totalSellQuantity": 212625,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 23.7,
+                    "askPrice": 24.6,
                     "askQty": 10125,
                     "bidQty": 13500,
-                    "bidprice": 15.8,
+                    "bidprice": 16.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4983,7 +4983,7 @@
                     "totalSellQuantity": 114750,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 227.5
@@ -4991,30 +4991,30 @@
             {
                 "CE": {
                     "askPrice": 0.15,
-                    "askQty": 276750,
-                    "bidQty": 1066500,
+                    "askQty": 374625,
+                    "bidQty": 1056375,
                     "bidprice": 0.1,
-                    "change": 0,
+                    "change": 0.04999999999999999,
                     "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKTATAPOWER25-05-2023CE230.00",
                     "impliedVolatility": 35.22,
-                    "lastPrice": 0.1,
+                    "lastPrice": 0.15,
                     "openInterest": 1045,
-                    "pChange": 0,
+                    "pChange": 49.999999999999986,
                     "pchangeinOpenInterest": -0.2862595419847328,
                     "strikePrice": 230,
-                    "totalBuyQuantity": 3054375,
-                    "totalSellQuantity": 1795500,
-                    "totalTradedVolume": 13,
+                    "totalBuyQuantity": 3044250,
+                    "totalSellQuantity": 1910250,
+                    "totalTradedVolume": 16,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 21.4,
+                    "askPrice": 21.45,
                     "askQty": 3375,
-                    "bidQty": 3375,
-                    "bidprice": 21.1,
+                    "bidQty": 10125,
+                    "bidprice": 21.15,
                     "change": -1.9499999999999993,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
@@ -5025,11 +5025,11 @@
                     "pChange": -8.666666666666664,
                     "pchangeinOpenInterest": -0.15479876160990713,
                     "strikePrice": 230,
-                    "totalBuyQuantity": 145125,
-                    "totalSellQuantity": 162000,
+                    "totalBuyQuantity": 155250,
+                    "totalSellQuantity": 151875,
                     "totalTradedVolume": 4,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 230
@@ -5037,8 +5037,8 @@
             {
                 "CE": {
                     "askPrice": 1.35,
-                    "askQty": 13500,
-                    "bidQty": 16875,
+                    "askQty": 6750,
+                    "bidQty": 13500,
                     "bidprice": 1.25,
                     "change": 0,
                     "changeinOpenInterest": 5,
@@ -5050,17 +5050,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 1.4836795252225519,
                     "strikePrice": 230,
-                    "totalBuyQuantity": 438750,
-                    "totalSellQuantity": 448875,
+                    "totalBuyQuantity": 442125,
+                    "totalSellQuantity": 442125,
                     "totalTradedVolume": 21,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 23.05,
+                    "askPrice": 22.85,
                     "askQty": 3375,
                     "bidQty": 3375,
-                    "bidprice": 22.65,
+                    "bidprice": 22.35,
                     "change": -0.5999999999999979,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -5072,10 +5072,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 230,
                     "totalBuyQuantity": 118125,
-                    "totalSellQuantity": 141750,
+                    "totalSellQuantity": 148500,
                     "totalTradedVolume": 1,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 230
@@ -5100,7 +5100,7 @@
                     "totalSellQuantity": 13500,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 34.35,
@@ -5121,7 +5121,7 @@
                     "totalSellQuantity": 3375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 230
@@ -5146,10 +5146,10 @@
                     "totalSellQuantity": 158625,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 24.65,
+                    "askPrice": 24.6,
                     "askQty": 10125,
                     "bidQty": 10125,
                     "bidprice": 23,
@@ -5164,19 +5164,19 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 232.5,
                     "totalBuyQuantity": 141750,
-                    "totalSellQuantity": 131625,
+                    "totalSellQuantity": 141750,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 232.5
             },
             {
                 "CE": {
-                    "askPrice": 1.45,
-                    "askQty": 6750,
-                    "bidQty": 13500,
+                    "askPrice": 1.4,
+                    "askQty": 3375,
+                    "bidQty": 6750,
                     "bidprice": 0.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -5192,10 +5192,10 @@
                     "totalSellQuantity": 212625,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 29.15,
+                    "askPrice": 28.95,
                     "askQty": 10125,
                     "bidQty": 10125,
                     "bidprice": 21.05,
@@ -5213,7 +5213,7 @@
                     "totalSellQuantity": 114750,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 232.5
@@ -5238,11 +5238,11 @@
                     "totalSellQuantity": 617625,
                     "totalTradedVolume": 8,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 27.9,
-                    "askQty": 20250,
+                    "askPrice": 27.05,
+                    "askQty": 13500,
                     "bidQty": 10125,
                     "bidprice": 24.95,
                     "change": 0,
@@ -5256,10 +5256,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 235,
                     "totalBuyQuantity": 131625,
-                    "totalSellQuantity": 121500,
+                    "totalSellQuantity": 135000,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 235
@@ -5284,7 +5284,7 @@
                     "totalSellQuantity": 263250,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 30.15,
@@ -5305,7 +5305,7 @@
                     "totalSellQuantity": 114750,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 235
@@ -5330,7 +5330,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 235
@@ -5339,7 +5339,7 @@
                 "CE": {
                     "askPrice": 0.15,
                     "askQty": 3375,
-                    "bidQty": 33750,
+                    "bidQty": 50625,
                     "bidprice": 0.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
@@ -5351,11 +5351,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 237.5,
-                    "totalBuyQuantity": 33750,
+                    "totalBuyQuantity": 50625,
                     "totalSellQuantity": 165375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 30.3,
@@ -5376,7 +5376,7 @@
                     "totalSellQuantity": 131625,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 237.5
@@ -5401,7 +5401,7 @@
                     "totalSellQuantity": 219375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 32.55,
@@ -5422,7 +5422,7 @@
                     "totalSellQuantity": 111375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 237.5
@@ -5447,13 +5447,13 @@
                     "totalSellQuantity": 1093500,
                     "totalTradedVolume": 12,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 31.6,
+                    "askPrice": 31.45,
                     "askQty": 3375,
                     "bidQty": 3375,
-                    "bidprice": 31.2,
+                    "bidprice": 30.95,
                     "change": -0.45000000000000284,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5468,7 +5468,7 @@
                     "totalSellQuantity": 141750,
                     "totalTradedVolume": 1,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 240
@@ -5480,41 +5480,41 @@
                     "bidQty": 40500,
                     "bidprice": 0.6,
                     "change": -0.050000000000000044,
-                    "changeinOpenInterest": 0,
+                    "changeinOpenInterest": -5,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKTATAPOWER29-06-2023CE240.00",
                     "impliedVolatility": 26.19,
                     "lastPrice": 0.6,
-                    "openInterest": 172,
+                    "openInterest": 167,
                     "pChange": -7.692307692307699,
-                    "pchangeinOpenInterest": 0,
+                    "pchangeinOpenInterest": -2.9069767441860463,
                     "strikePrice": 240,
                     "totalBuyQuantity": 307125,
                     "totalSellQuantity": 361125,
                     "totalTradedVolume": 19,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 32.75,
+                    "askPrice": 32.25,
                     "askQty": 6750,
-                    "bidQty": 3375,
-                    "bidprice": 31.95,
-                    "change": -0.29999999999999716,
+                    "bidQty": 6750,
+                    "bidprice": 31.65,
+                    "change": -1.0499999999999972,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKTATAPOWER29-06-2023PE240.00",
                     "impliedVolatility": 45.34,
-                    "lastPrice": 32.5,
+                    "lastPrice": 31.75,
                     "openInterest": 33,
-                    "pChange": -0.9146341463414549,
+                    "pChange": -3.201219512195114,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 240,
-                    "totalBuyQuantity": 111375,
-                    "totalSellQuantity": 111375,
-                    "totalTradedVolume": 1,
+                    "totalBuyQuantity": 118125,
+                    "totalSellQuantity": 118125,
+                    "totalTradedVolume": 3,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 240
@@ -5539,7 +5539,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 240
@@ -5564,7 +5564,7 @@
                     "totalSellQuantity": 111375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 242.5
@@ -5589,7 +5589,7 @@
                     "totalSellQuantity": 202500,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 40.4,
@@ -5610,7 +5610,7 @@
                     "totalSellQuantity": 111375,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 242.5
@@ -5635,7 +5635,7 @@
                     "totalSellQuantity": 583875,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 36.65,
@@ -5656,7 +5656,7 @@
                     "totalSellQuantity": 128250,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 245
@@ -5677,11 +5677,11 @@
                     "pChange": 14.285714285714299,
                     "pchangeinOpenInterest": 2.272727272727273,
                     "strikePrice": 245,
-                    "totalBuyQuantity": 158625,
-                    "totalSellQuantity": 205875,
+                    "totalBuyQuantity": 155250,
+                    "totalSellQuantity": 209250,
                     "totalTradedVolume": 7,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
                     "askPrice": 40,
@@ -5702,7 +5702,7 @@
                     "totalSellQuantity": 104625,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 245
@@ -5727,13 +5727,13 @@
                     "totalSellQuantity": 189000,
                     "totalTradedVolume": 1,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "PE": {
-                    "askPrice": 41.2,
+                    "askPrice": 39.7,
                     "askQty": 10125,
                     "bidQty": 10125,
-                    "bidprice": 37.55,
+                    "bidprice": 37.15,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5745,10 +5745,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 247.5,
                     "totalBuyQuantity": 118125,
-                    "totalSellQuantity": 111375,
+                    "totalSellQuantity": 118125,
                     "totalTradedVolume": 0,
                     "underlying": "TATAPOWER",
-                    "underlyingValue": 208.7
+                    "underlyingValue": 208.9
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 247.5
@@ -5801,7 +5801,7 @@
             245,
             247.5
         ],
-        "timestamp": "18-May-2023 10:21:15",
-        "underlyingValue": 208.7
+        "timestamp": "18-May-2023 10:25:46",
+        "underlyingValue": 208.9
     }
 }

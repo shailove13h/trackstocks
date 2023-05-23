@@ -1,12 +1,12 @@
 {
     "filtered": {
         "CE": {
-            "totOI": 9335,
-            "totVol": 1198
+            "totOI": 9275,
+            "totVol": 1231
         },
         "PE": {
-            "totOI": 4248,
-            "totVol": 281
+            "totOI": 4288,
+            "totVol": 287
         },
         "data": [
             {
@@ -29,7 +29,7 @@
                     "totalSellQuantity": 2000,
                     "totalTradedVolume": 0,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 260
@@ -54,7 +54,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 369.95
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 290
@@ -79,7 +79,7 @@
                     "totalSellQuantity": 4000,
                     "totalTradedVolume": 0,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 300
@@ -104,7 +104,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 320
@@ -129,7 +129,7 @@
                     "totalSellQuantity": 8000,
                     "totalTradedVolume": 6,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 330
@@ -154,7 +154,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 1,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 335
@@ -179,28 +179,28 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 5,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "PE": {
                     "askPrice": 0.4,
                     "askQty": 8000,
-                    "bidQty": 2000,
-                    "bidprice": 0.3,
+                    "bidQty": 4000,
+                    "bidprice": 0.2,
                     "change": -0.35,
-                    "changeinOpenInterest": -3,
+                    "changeinOpenInterest": -7,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLICHSGFIN25-05-2023PE340.00",
                     "impliedVolatility": 37.12,
                     "lastPrice": 0.35,
-                    "openInterest": 325,
+                    "openInterest": 321,
                     "pChange": -50,
-                    "pchangeinOpenInterest": -0.9146341463414634,
+                    "pchangeinOpenInterest": -2.1341463414634148,
                     "strikePrice": 340,
-                    "totalBuyQuantity": 8000,
-                    "totalSellQuantity": 42000,
-                    "totalTradedVolume": 7,
+                    "totalBuyQuantity": 10000,
+                    "totalSellQuantity": 40000,
+                    "totalTradedVolume": 8,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 340
@@ -225,7 +225,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 1,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "PE": {
                     "askPrice": 0.95,
@@ -246,7 +246,7 @@
                     "totalSellQuantity": 4000,
                     "totalTradedVolume": 5,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 345
@@ -271,28 +271,28 @@
                     "totalSellQuantity": 4000,
                     "totalTradedVolume": 2,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "PE": {
-                    "askPrice": 1.15,
-                    "askQty": 4000,
-                    "bidQty": 4000,
-                    "bidprice": 0.75,
-                    "change": -0.19999999999999996,
+                    "askPrice": 1,
+                    "askQty": 2000,
+                    "bidQty": 2000,
+                    "bidprice": 0.9,
+                    "change": -0.3500000000000001,
                     "changeinOpenInterest": -41,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLICHSGFIN25-05-2023PE350.00",
                     "impliedVolatility": 35.88,
-                    "lastPrice": 1.1,
+                    "lastPrice": 0.95,
                     "openInterest": 481,
-                    "pChange": -15.38461538461538,
+                    "pChange": -26.923076923076927,
                     "pchangeinOpenInterest": -7.854406130268199,
                     "strikePrice": 350,
-                    "totalBuyQuantity": 92000,
-                    "totalSellQuantity": 70000,
-                    "totalTradedVolume": 43,
+                    "totalBuyQuantity": 94000,
+                    "totalSellQuantity": 72000,
+                    "totalTradedVolume": 44,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 350
@@ -317,11 +317,11 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 3,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "PE": {
-                    "askPrice": 1.85,
-                    "askQty": 4000,
+                    "askPrice": 1.6,
+                    "askQty": 2000,
                     "bidQty": 2000,
                     "bidprice": 1.25,
                     "change": -0.20000000000000018,
@@ -335,56 +335,56 @@
                     "pchangeinOpenInterest": -5.5813953488372094,
                     "strikePrice": 355,
                     "totalBuyQuantity": 58000,
-                    "totalSellQuantity": 30000,
+                    "totalSellQuantity": 34000,
                     "totalTradedVolume": 16,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 355
             },
             {
                 "CE": {
-                    "askPrice": 11.8,
-                    "askQty": 4000,
+                    "askPrice": 15,
+                    "askQty": 2000,
                     "bidQty": 2000,
                     "bidprice": 11.6,
                     "change": -1.25,
-                    "changeinOpenInterest": -13,
+                    "changeinOpenInterest": -14,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLICHSGFIN25-05-2023CE360.00",
                     "impliedVolatility": 23.21,
                     "lastPrice": 11.8,
-                    "openInterest": 189,
+                    "openInterest": 188,
                     "pChange": -9.578544061302681,
-                    "pchangeinOpenInterest": -6.435643564356436,
+                    "pchangeinOpenInterest": -6.930693069306931,
                     "strikePrice": 360,
                     "totalBuyQuantity": 18000,
-                    "totalSellQuantity": 20000,
-                    "totalTradedVolume": 14,
+                    "totalSellQuantity": 16000,
+                    "totalTradedVolume": 16,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "PE": {
                     "askPrice": 2.45,
                     "askQty": 2000,
-                    "bidQty": 6000,
+                    "bidQty": 4000,
                     "bidprice": 2.3,
-                    "change": -0.40000000000000036,
-                    "changeinOpenInterest": -106,
+                    "change": -0.25,
+                    "changeinOpenInterest": -111,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLICHSGFIN25-05-2023PE360.00",
                     "impliedVolatility": 33.38,
-                    "lastPrice": 2.3,
-                    "openInterest": 486,
-                    "pChange": -14.814814814814827,
-                    "pchangeinOpenInterest": -17.905405405405407,
+                    "lastPrice": 2.45,
+                    "openInterest": 481,
+                    "pChange": -9.25925925925926,
+                    "pchangeinOpenInterest": -18.75,
                     "strikePrice": 360,
-                    "totalBuyQuantity": 54000,
+                    "totalBuyQuantity": 52000,
                     "totalSellQuantity": 40000,
-                    "totalTradedVolume": 111,
+                    "totalTradedVolume": 113,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 360
@@ -394,7 +394,7 @@
                     "askPrice": 9.45,
                     "askQty": 2000,
                     "bidQty": 2000,
-                    "bidprice": 7.2,
+                    "bidprice": 7.55,
                     "change": 0,
                     "changeinOpenInterest": -4,
                     "expiryDate": "25-May-2023",
@@ -405,11 +405,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": -2.4390243902439024,
                     "strikePrice": 365,
-                    "totalBuyQuantity": 16000,
+                    "totalBuyQuantity": 14000,
                     "totalSellQuantity": 32000,
                     "totalTradedVolume": 8,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "PE": {
                     "askPrice": 4.35,
@@ -430,81 +430,81 @@
                     "totalSellQuantity": 18000,
                     "totalTradedVolume": 16,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 365
             },
             {
                 "CE": {
-                    "askPrice": 6.1,
+                    "askPrice": 6.8,
                     "askQty": 2000,
-                    "bidQty": 4000,
+                    "bidQty": 2000,
                     "bidprice": 4.65,
-                    "change": -0.7999999999999998,
-                    "changeinOpenInterest": -162,
+                    "change": -2,
+                    "changeinOpenInterest": -164,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLICHSGFIN25-05-2023CE370.00",
                     "impliedVolatility": 28.48,
-                    "lastPrice": 6.15,
-                    "openInterest": 631,
-                    "pChange": -11.510791366906473,
-                    "pchangeinOpenInterest": -20.42875157629256,
+                    "lastPrice": 4.95,
+                    "openInterest": 629,
+                    "pChange": -28.776978417266186,
+                    "pchangeinOpenInterest": -20.68095838587642,
                     "strikePrice": 370,
-                    "totalBuyQuantity": 108000,
-                    "totalSellQuantity": 334000,
-                    "totalTradedVolume": 164,
+                    "totalBuyQuantity": 106000,
+                    "totalSellQuantity": 326000,
+                    "totalTradedVolume": 170,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "PE": {
-                    "askPrice": 6.5,
-                    "askQty": 4000,
+                    "askPrice": 6.45,
+                    "askQty": 2000,
                     "bidQty": 2000,
-                    "bidprice": 4.65,
-                    "change": -0.9500000000000002,
+                    "bidprice": 4.6,
+                    "change": 0.04999999999999982,
                     "changeinOpenInterest": -39,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLICHSGFIN25-05-2023PE370.00",
                     "impliedVolatility": 28.52,
-                    "lastPrice": 5.5,
+                    "lastPrice": 6.5,
                     "openInterest": 425,
-                    "pChange": -14.728682170542637,
+                    "pChange": 0.7751937984496096,
                     "pchangeinOpenInterest": -8.405172413793103,
                     "strikePrice": 370,
                     "totalBuyQuantity": 46000,
-                    "totalSellQuantity": 52000,
-                    "totalTradedVolume": 44,
+                    "totalSellQuantity": 50000,
+                    "totalTradedVolume": 45,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 370
             },
             {
                 "CE": {
-                    "askPrice": 5,
+                    "askPrice": 4.95,
                     "askQty": 2000,
-                    "bidQty": 2000,
-                    "bidprice": 3.5,
+                    "bidQty": 6000,
+                    "bidprice": 3.6,
                     "change": -1,
-                    "changeinOpenInterest": -81,
+                    "changeinOpenInterest": -82,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLICHSGFIN25-05-2023CE375.00",
                     "impliedVolatility": 27.5,
                     "lastPrice": 3.75,
-                    "openInterest": 408,
+                    "openInterest": 407,
                     "pChange": -21.052631578947366,
-                    "pchangeinOpenInterest": -16.56441717791411,
+                    "pchangeinOpenInterest": -16.768916155419223,
                     "strikePrice": 375,
-                    "totalBuyQuantity": 32000,
-                    "totalSellQuantity": 188000,
-                    "totalTradedVolume": 84,
+                    "totalBuyQuantity": 40000,
+                    "totalSellQuantity": 190000,
+                    "totalTradedVolume": 85,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "PE": {
-                    "askPrice": 9.55,
+                    "askPrice": 9.05,
                     "askQty": 2000,
                     "bidQty": 4000,
                     "bidprice": 5.45,
@@ -522,7 +522,7 @@
                     "totalSellQuantity": 20000,
                     "totalTradedVolume": 7,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 375
@@ -532,7 +532,7 @@
                     "askPrice": 2.65,
                     "askQty": 2000,
                     "bidQty": 2000,
-                    "bidprice": 2.4,
+                    "bidprice": 2.45,
                     "change": -0.8000000000000003,
                     "changeinOpenInterest": -208,
                     "expiryDate": "25-May-2023",
@@ -543,32 +543,32 @@
                     "pChange": -23.88059701492538,
                     "pchangeinOpenInterest": -14.69964664310954,
                     "strikePrice": 380,
-                    "totalBuyQuantity": 174000,
-                    "totalSellQuantity": 578000,
+                    "totalBuyQuantity": 178000,
+                    "totalSellQuantity": 576000,
                     "totalTradedVolume": 222,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "PE": {
-                    "askPrice": 14.5,
+                    "askPrice": 14.4,
                     "askQty": 2000,
                     "bidQty": 4000,
                     "bidprice": 11.25,
-                    "change": -1.8000000000000007,
-                    "changeinOpenInterest": -20,
+                    "change": 1.6999999999999993,
+                    "changeinOpenInterest": -23,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLICHSGFIN25-05-2023PE380.00",
-                    "impliedVolatility": 25.58,
-                    "lastPrice": 11,
-                    "openInterest": 349,
-                    "pChange": -14.062500000000005,
-                    "pchangeinOpenInterest": -5.420054200542006,
+                    "impliedVolatility": 24.27,
+                    "lastPrice": 14.5,
+                    "openInterest": 346,
+                    "pChange": 13.281249999999995,
+                    "pchangeinOpenInterest": -6.233062330623306,
                     "strikePrice": 380,
-                    "totalBuyQuantity": 30000,
-                    "totalSellQuantity": 22000,
-                    "totalTradedVolume": 23,
+                    "totalBuyQuantity": 28000,
+                    "totalSellQuantity": 32000,
+                    "totalTradedVolume": 24,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 369.95
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 380
@@ -576,7 +576,7 @@
             {
                 "CE": {
                     "askPrice": 1.6,
-                    "askQty": 2000,
+                    "askQty": 4000,
                     "bidQty": 4000,
                     "bidprice": 1.25,
                     "change": -0.75,
@@ -589,11 +589,11 @@
                     "pChange": -31.914893617021274,
                     "pchangeinOpenInterest": -8.35117773019272,
                     "strikePrice": 385,
-                    "totalBuyQuantity": 58000,
-                    "totalSellQuantity": 110000,
+                    "totalBuyQuantity": 54000,
+                    "totalSellQuantity": 112000,
                     "totalTradedVolume": 42,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "PE": {
                     "askPrice": 37.95,
@@ -614,38 +614,38 @@
                     "totalSellQuantity": 2000,
                     "totalTradedVolume": 0,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 385
             },
             {
                 "CE": {
-                    "askPrice": 1.1,
+                    "askPrice": 0.95,
                     "askQty": 2000,
-                    "bidQty": 4000,
+                    "bidQty": 2000,
                     "bidprice": 0.85,
-                    "change": -0.7,
-                    "changeinOpenInterest": -200,
+                    "change": -0.85,
+                    "changeinOpenInterest": -212,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLICHSGFIN25-05-2023CE390.00",
                     "impliedVolatility": 30.58,
-                    "lastPrice": 1,
-                    "openInterest": 1041,
-                    "pChange": -41.17647058823529,
-                    "pchangeinOpenInterest": -16.116035455278002,
+                    "lastPrice": 0.85,
+                    "openInterest": 1029,
+                    "pChange": -50,
+                    "pchangeinOpenInterest": -17.082997582594682,
                     "strikePrice": 390,
-                    "totalBuyQuantity": 60000,
+                    "totalBuyQuantity": 50000,
                     "totalSellQuantity": 286000,
-                    "totalTradedVolume": 211,
+                    "totalTradedVolume": 216,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 2000,
-                    "bidprice": 18.05,
+                    "bidprice": 18.55,
                     "change": 0.05000000000000071,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
@@ -660,7 +660,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 2,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 390
@@ -668,49 +668,70 @@
             {
                 "CE": {
                     "askPrice": 0.95,
-                    "askQty": 4000,
-                    "bidQty": 2000,
-                    "bidprice": 0.7,
-                    "change": -0.30000000000000004,
-                    "changeinOpenInterest": -108,
+                    "askQty": 2000,
+                    "bidQty": 6000,
+                    "bidprice": 0.6,
+                    "change": -0.6500000000000001,
+                    "changeinOpenInterest": -110,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLICHSGFIN25-05-2023CE395.00",
                     "impliedVolatility": 37.43,
-                    "lastPrice": 1.05,
-                    "openInterest": 718,
-                    "pChange": -22.222222222222225,
-                    "pchangeinOpenInterest": -13.075060532687651,
+                    "lastPrice": 0.7,
+                    "openInterest": 716,
+                    "pChange": -48.14814814814816,
+                    "pchangeinOpenInterest": -13.317191283292978,
                     "strikePrice": 395,
-                    "totalBuyQuantity": 150000,
+                    "totalBuyQuantity": 164000,
                     "totalSellQuantity": 288000,
-                    "totalTradedVolume": 110,
+                    "totalTradedVolume": 112,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
+                },
+                "PE": {
+                    "askPrice": 0,
+                    "askQty": 0,
+                    "bidQty": 4000,
+                    "bidprice": 20,
+                    "change": 0,
+                    "changeinOpenInterest": 0,
+                    "expiryDate": "25-May-2023",
+                    "identifier": "OPTSTKLICHSGFIN25-05-2023PE395.00",
+                    "impliedVolatility": 0,
+                    "lastPrice": 0,
+                    "openInterest": 52,
+                    "pChange": 0,
+                    "pchangeinOpenInterest": 0,
+                    "strikePrice": 395,
+                    "totalBuyQuantity": 4000,
+                    "totalSellQuantity": 0,
+                    "totalTradedVolume": 0,
+                    "underlying": "LICHSGFIN",
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 395
             },
             {
                 "CE": {
-                    "askPrice": 0.6,
-                    "askQty": 8000,
+                    "askPrice": 0.55,
+                    "askQty": 4000,
                     "bidQty": 10000,
                     "bidprice": 0.5,
-                    "change": -0.55,
-                    "changeinOpenInterest": -163,
+                    "change": -0.5,
+                    "changeinOpenInterest": -198,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLICHSGFIN25-05-2023CE400.00",
                     "impliedVolatility": 37.08,
-                    "lastPrice": 0.5,
-                    "openInterest": 1748,
-                    "pChange": -52.38095238095239,
-                    "pchangeinOpenInterest": -8.529565672422816,
+                    "lastPrice": 0.55,
+                    "openInterest": 1713,
+                    "pChange": -47.61904761904761,
+                    "pchangeinOpenInterest": -10.361067503924646,
                     "strikePrice": 400,
-                    "totalBuyQuantity": 464000,
-                    "totalSellQuantity": 428000,
-                    "totalTradedVolume": 198,
+                    "totalBuyQuantity": 476000,
+                    "totalSellQuantity": 432000,
+                    "totalTradedVolume": 209,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "PE": {
                     "askPrice": 0,
@@ -731,7 +752,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 369.95
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 400
@@ -752,11 +773,11 @@
                     "pChange": -44.44444444444445,
                     "pchangeinOpenInterest": -1.075268817204301,
                     "strikePrice": 405,
-                    "totalBuyQuantity": 96000,
+                    "totalBuyQuantity": 106000,
                     "totalSellQuantity": 32000,
                     "totalTradedVolume": 7,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 405
@@ -764,24 +785,24 @@
             {
                 "CE": {
                     "askPrice": 0.5,
-                    "askQty": 20000,
-                    "bidQty": 4000,
+                    "askQty": 12000,
+                    "bidQty": 8000,
                     "bidprice": 0.35,
-                    "change": -0.4,
-                    "changeinOpenInterest": -102,
+                    "change": -0.25,
+                    "changeinOpenInterest": -103,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLICHSGFIN25-05-2023CE410.00",
                     "impliedVolatility": 41.35,
-                    "lastPrice": 0.35,
-                    "openInterest": 1186,
-                    "pChange": -53.333333333333336,
-                    "pchangeinOpenInterest": -7.919254658385094,
+                    "lastPrice": 0.5,
+                    "openInterest": 1185,
+                    "pChange": -33.33333333333333,
+                    "pchangeinOpenInterest": -7.996894409937888,
                     "strikePrice": 410,
-                    "totalBuyQuantity": 248000,
-                    "totalSellQuantity": 196000,
-                    "totalTradedVolume": 103,
+                    "totalBuyQuantity": 258000,
+                    "totalSellQuantity": 188000,
+                    "totalTradedVolume": 108,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 410
@@ -806,16 +827,16 @@
                     "totalSellQuantity": 10000,
                     "totalTradedVolume": 0,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 415
             },
             {
                 "CE": {
-                    "askPrice": 0.4,
-                    "askQty": 12000,
-                    "bidQty": 8000,
+                    "askPrice": 0.35,
+                    "askQty": 2000,
+                    "bidQty": 4000,
                     "bidprice": 0.25,
                     "change": -0.15000000000000002,
                     "changeinOpenInterest": -6,
@@ -827,11 +848,11 @@
                     "pChange": -27.272727272727277,
                     "pchangeinOpenInterest": -1.7191977077363896,
                     "strikePrice": 420,
-                    "totalBuyQuantity": 154000,
-                    "totalSellQuantity": 42000,
+                    "totalBuyQuantity": 150000,
+                    "totalSellQuantity": 44000,
                     "totalTradedVolume": 13,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 420
@@ -840,8 +861,8 @@
                 "CE": {
                     "askPrice": 0.45,
                     "askQty": 4000,
-                    "bidQty": 2000,
-                    "bidprice": 0.1,
+                    "bidQty": 50000,
+                    "bidprice": 0.15,
                     "change": -0.25,
                     "changeinOpenInterest": -5,
                     "expiryDate": "25-May-2023",
@@ -852,36 +873,36 @@
                     "pChange": -62.5,
                     "pchangeinOpenInterest": -3.3112582781456954,
                     "strikePrice": 425,
-                    "totalBuyQuantity": 2000,
+                    "totalBuyQuantity": 54000,
                     "totalSellQuantity": 20000,
                     "totalTradedVolume": 6,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 425
             },
             {
                 "CE": {
-                    "askPrice": 0.3,
-                    "askQty": 6000,
-                    "bidQty": 2000,
-                    "bidprice": 0.2,
-                    "change": -0.10000000000000003,
-                    "changeinOpenInterest": 0,
+                    "askPrice": 0.7,
+                    "askQty": 2000,
+                    "bidQty": 4000,
+                    "bidprice": 0.15,
+                    "change": -0.2,
+                    "changeinOpenInterest": -6,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLICHSGFIN25-05-2023CE430.00",
-                    "impliedVolatility": 0,
-                    "lastPrice": 0.3,
-                    "openInterest": 137,
-                    "pChange": -25.000000000000007,
-                    "pchangeinOpenInterest": 0,
+                    "impliedVolatility": 55.17,
+                    "lastPrice": 0.2,
+                    "openInterest": 131,
+                    "pChange": -50,
+                    "pchangeinOpenInterest": -4.37956204379562,
                     "strikePrice": 430,
-                    "totalBuyQuantity": 32000,
-                    "totalSellQuantity": 28000,
-                    "totalTradedVolume": 5,
+                    "totalBuyQuantity": 30000,
+                    "totalSellQuantity": 22000,
+                    "totalTradedVolume": 6,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 369.95
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 430
@@ -902,11 +923,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 435,
-                    "totalBuyQuantity": 76000,
-                    "totalSellQuantity": 8000,
+                    "totalBuyQuantity": 82000,
+                    "totalSellQuantity": 10000,
                     "totalTradedVolume": 0,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 435
@@ -935,7 +956,7 @@
                     "totalSellQuantity": 2000,
                     "totalTradedVolume": 0,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 260
@@ -960,7 +981,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 369.95
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 290
@@ -985,7 +1006,7 @@
                     "totalSellQuantity": 4000,
                     "totalTradedVolume": 0,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 300
@@ -1010,7 +1031,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 320
@@ -1035,7 +1056,7 @@
                     "totalSellQuantity": 8000,
                     "totalTradedVolume": 6,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 330
@@ -1060,7 +1081,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 1,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 335
@@ -1085,28 +1106,28 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 5,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "PE": {
                     "askPrice": 0.4,
                     "askQty": 8000,
-                    "bidQty": 2000,
-                    "bidprice": 0.3,
+                    "bidQty": 4000,
+                    "bidprice": 0.2,
                     "change": -0.35,
-                    "changeinOpenInterest": -3,
+                    "changeinOpenInterest": -7,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLICHSGFIN25-05-2023PE340.00",
                     "impliedVolatility": 37.12,
                     "lastPrice": 0.35,
-                    "openInterest": 325,
+                    "openInterest": 321,
                     "pChange": -50,
-                    "pchangeinOpenInterest": -0.9146341463414634,
+                    "pchangeinOpenInterest": -2.1341463414634148,
                     "strikePrice": 340,
-                    "totalBuyQuantity": 8000,
-                    "totalSellQuantity": 42000,
-                    "totalTradedVolume": 7,
+                    "totalBuyQuantity": 10000,
+                    "totalSellQuantity": 40000,
+                    "totalTradedVolume": 8,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 340
@@ -1131,7 +1152,7 @@
                     "totalSellQuantity": 8000,
                     "totalTradedVolume": 0,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 340
@@ -1156,7 +1177,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 1,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "PE": {
                     "askPrice": 0.95,
@@ -1177,7 +1198,7 @@
                     "totalSellQuantity": 4000,
                     "totalTradedVolume": 5,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 345
@@ -1202,7 +1223,7 @@
                     "totalSellQuantity": 8000,
                     "totalTradedVolume": 0,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "PE": {
                     "askPrice": 4.95,
@@ -1223,7 +1244,7 @@
                     "totalSellQuantity": 40000,
                     "totalTradedVolume": 1,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 350
@@ -1248,28 +1269,28 @@
                     "totalSellQuantity": 4000,
                     "totalTradedVolume": 2,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "PE": {
-                    "askPrice": 1.15,
-                    "askQty": 4000,
-                    "bidQty": 4000,
-                    "bidprice": 0.75,
-                    "change": -0.19999999999999996,
+                    "askPrice": 1,
+                    "askQty": 2000,
+                    "bidQty": 2000,
+                    "bidprice": 0.9,
+                    "change": -0.3500000000000001,
                     "changeinOpenInterest": -41,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLICHSGFIN25-05-2023PE350.00",
                     "impliedVolatility": 35.88,
-                    "lastPrice": 1.1,
+                    "lastPrice": 0.95,
                     "openInterest": 481,
-                    "pChange": -15.38461538461538,
+                    "pChange": -26.923076923076927,
                     "pchangeinOpenInterest": -7.854406130268199,
                     "strikePrice": 350,
-                    "totalBuyQuantity": 92000,
-                    "totalSellQuantity": 70000,
-                    "totalTradedVolume": 43,
+                    "totalBuyQuantity": 94000,
+                    "totalSellQuantity": 72000,
+                    "totalTradedVolume": 44,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 350
@@ -1294,11 +1315,11 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 3,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "PE": {
-                    "askPrice": 1.85,
-                    "askQty": 4000,
+                    "askPrice": 1.6,
+                    "askQty": 2000,
                     "bidQty": 2000,
                     "bidprice": 1.25,
                     "change": -0.20000000000000018,
@@ -1312,56 +1333,56 @@
                     "pchangeinOpenInterest": -5.5813953488372094,
                     "strikePrice": 355,
                     "totalBuyQuantity": 58000,
-                    "totalSellQuantity": 30000,
+                    "totalSellQuantity": 34000,
                     "totalTradedVolume": 16,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 355
             },
             {
                 "CE": {
-                    "askPrice": 11.8,
-                    "askQty": 4000,
+                    "askPrice": 15,
+                    "askQty": 2000,
                     "bidQty": 2000,
                     "bidprice": 11.6,
                     "change": -1.25,
-                    "changeinOpenInterest": -13,
+                    "changeinOpenInterest": -14,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLICHSGFIN25-05-2023CE360.00",
                     "impliedVolatility": 23.21,
                     "lastPrice": 11.8,
-                    "openInterest": 189,
+                    "openInterest": 188,
                     "pChange": -9.578544061302681,
-                    "pchangeinOpenInterest": -6.435643564356436,
+                    "pchangeinOpenInterest": -6.930693069306931,
                     "strikePrice": 360,
                     "totalBuyQuantity": 18000,
-                    "totalSellQuantity": 20000,
-                    "totalTradedVolume": 14,
+                    "totalSellQuantity": 16000,
+                    "totalTradedVolume": 16,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "PE": {
                     "askPrice": 2.45,
                     "askQty": 2000,
-                    "bidQty": 6000,
+                    "bidQty": 4000,
                     "bidprice": 2.3,
-                    "change": -0.40000000000000036,
-                    "changeinOpenInterest": -106,
+                    "change": -0.25,
+                    "changeinOpenInterest": -111,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLICHSGFIN25-05-2023PE360.00",
                     "impliedVolatility": 33.38,
-                    "lastPrice": 2.3,
-                    "openInterest": 486,
-                    "pChange": -14.814814814814827,
-                    "pchangeinOpenInterest": -17.905405405405407,
+                    "lastPrice": 2.45,
+                    "openInterest": 481,
+                    "pChange": -9.25925925925926,
+                    "pchangeinOpenInterest": -18.75,
                     "strikePrice": 360,
-                    "totalBuyQuantity": 54000,
+                    "totalBuyQuantity": 52000,
                     "totalSellQuantity": 40000,
-                    "totalTradedVolume": 111,
+                    "totalTradedVolume": 113,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 360
@@ -1386,7 +1407,7 @@
                     "totalSellQuantity": 12000,
                     "totalTradedVolume": 0,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 360
@@ -1396,7 +1417,7 @@
                     "askPrice": 9.45,
                     "askQty": 2000,
                     "bidQty": 2000,
-                    "bidprice": 7.2,
+                    "bidprice": 7.55,
                     "change": 0,
                     "changeinOpenInterest": -4,
                     "expiryDate": "25-May-2023",
@@ -1407,11 +1428,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": -2.4390243902439024,
                     "strikePrice": 365,
-                    "totalBuyQuantity": 16000,
+                    "totalBuyQuantity": 14000,
                     "totalSellQuantity": 32000,
                     "totalTradedVolume": 8,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "PE": {
                     "askPrice": 4.35,
@@ -1432,53 +1453,53 @@
                     "totalSellQuantity": 18000,
                     "totalTradedVolume": 16,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 365
             },
             {
                 "CE": {
-                    "askPrice": 6.1,
+                    "askPrice": 6.8,
                     "askQty": 2000,
-                    "bidQty": 4000,
+                    "bidQty": 2000,
                     "bidprice": 4.65,
-                    "change": -0.7999999999999998,
-                    "changeinOpenInterest": -162,
+                    "change": -2,
+                    "changeinOpenInterest": -164,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLICHSGFIN25-05-2023CE370.00",
                     "impliedVolatility": 28.48,
-                    "lastPrice": 6.15,
-                    "openInterest": 631,
-                    "pChange": -11.510791366906473,
-                    "pchangeinOpenInterest": -20.42875157629256,
+                    "lastPrice": 4.95,
+                    "openInterest": 629,
+                    "pChange": -28.776978417266186,
+                    "pchangeinOpenInterest": -20.68095838587642,
                     "strikePrice": 370,
-                    "totalBuyQuantity": 108000,
-                    "totalSellQuantity": 334000,
-                    "totalTradedVolume": 164,
+                    "totalBuyQuantity": 106000,
+                    "totalSellQuantity": 326000,
+                    "totalTradedVolume": 170,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "PE": {
-                    "askPrice": 6.5,
-                    "askQty": 4000,
+                    "askPrice": 6.45,
+                    "askQty": 2000,
                     "bidQty": 2000,
-                    "bidprice": 4.65,
-                    "change": -0.9500000000000002,
+                    "bidprice": 4.6,
+                    "change": 0.04999999999999982,
                     "changeinOpenInterest": -39,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLICHSGFIN25-05-2023PE370.00",
                     "impliedVolatility": 28.52,
-                    "lastPrice": 5.5,
+                    "lastPrice": 6.5,
                     "openInterest": 425,
-                    "pChange": -14.728682170542637,
+                    "pChange": 0.7751937984496096,
                     "pchangeinOpenInterest": -8.405172413793103,
                     "strikePrice": 370,
                     "totalBuyQuantity": 46000,
-                    "totalSellQuantity": 52000,
-                    "totalTradedVolume": 44,
+                    "totalSellQuantity": 50000,
+                    "totalTradedVolume": 45,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 370
@@ -1503,7 +1524,7 @@
                     "totalSellQuantity": 12000,
                     "totalTradedVolume": 0,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "PE": {
                     "askPrice": 12,
@@ -1524,7 +1545,7 @@
                     "totalSellQuantity": 18000,
                     "totalTradedVolume": 1,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 370
@@ -1549,7 +1570,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "PE": {
                     "askPrice": 22,
@@ -1570,35 +1591,35 @@
                     "totalSellQuantity": 2000,
                     "totalTradedVolume": 0,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 370
             },
             {
                 "CE": {
-                    "askPrice": 5,
+                    "askPrice": 4.95,
                     "askQty": 2000,
-                    "bidQty": 2000,
-                    "bidprice": 3.5,
+                    "bidQty": 6000,
+                    "bidprice": 3.6,
                     "change": -1,
-                    "changeinOpenInterest": -81,
+                    "changeinOpenInterest": -82,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLICHSGFIN25-05-2023CE375.00",
                     "impliedVolatility": 27.5,
                     "lastPrice": 3.75,
-                    "openInterest": 408,
+                    "openInterest": 407,
                     "pChange": -21.052631578947366,
-                    "pchangeinOpenInterest": -16.56441717791411,
+                    "pchangeinOpenInterest": -16.768916155419223,
                     "strikePrice": 375,
-                    "totalBuyQuantity": 32000,
-                    "totalSellQuantity": 188000,
-                    "totalTradedVolume": 84,
+                    "totalBuyQuantity": 40000,
+                    "totalSellQuantity": 190000,
+                    "totalTradedVolume": 85,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "PE": {
-                    "askPrice": 9.55,
+                    "askPrice": 9.05,
                     "askQty": 2000,
                     "bidQty": 4000,
                     "bidprice": 5.45,
@@ -1616,7 +1637,7 @@
                     "totalSellQuantity": 20000,
                     "totalTradedVolume": 7,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 375
@@ -1641,7 +1662,7 @@
                     "totalSellQuantity": 4000,
                     "totalTradedVolume": 0,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 375
@@ -1651,7 +1672,7 @@
                     "askPrice": 2.65,
                     "askQty": 2000,
                     "bidQty": 2000,
-                    "bidprice": 2.4,
+                    "bidprice": 2.45,
                     "change": -0.8000000000000003,
                     "changeinOpenInterest": -208,
                     "expiryDate": "25-May-2023",
@@ -1662,32 +1683,32 @@
                     "pChange": -23.88059701492538,
                     "pchangeinOpenInterest": -14.69964664310954,
                     "strikePrice": 380,
-                    "totalBuyQuantity": 174000,
-                    "totalSellQuantity": 578000,
+                    "totalBuyQuantity": 178000,
+                    "totalSellQuantity": 576000,
                     "totalTradedVolume": 222,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "PE": {
-                    "askPrice": 14.5,
+                    "askPrice": 14.4,
                     "askQty": 2000,
                     "bidQty": 4000,
                     "bidprice": 11.25,
-                    "change": -1.8000000000000007,
-                    "changeinOpenInterest": -20,
+                    "change": 1.6999999999999993,
+                    "changeinOpenInterest": -23,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLICHSGFIN25-05-2023PE380.00",
-                    "impliedVolatility": 25.58,
-                    "lastPrice": 11,
-                    "openInterest": 349,
-                    "pChange": -14.062500000000005,
-                    "pchangeinOpenInterest": -5.420054200542006,
+                    "impliedVolatility": 24.27,
+                    "lastPrice": 14.5,
+                    "openInterest": 346,
+                    "pChange": 13.281249999999995,
+                    "pchangeinOpenInterest": -6.233062330623306,
                     "strikePrice": 380,
-                    "totalBuyQuantity": 30000,
-                    "totalSellQuantity": 22000,
-                    "totalTradedVolume": 23,
+                    "totalBuyQuantity": 28000,
+                    "totalSellQuantity": 32000,
+                    "totalTradedVolume": 24,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 369.95
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 380
@@ -1709,10 +1730,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 380,
                     "totalBuyQuantity": 4000,
-                    "totalSellQuantity": 50000,
+                    "totalSellQuantity": 54000,
                     "totalTradedVolume": 0,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "PE": {
                     "askPrice": 30,
@@ -1733,7 +1754,7 @@
                     "totalSellQuantity": 8000,
                     "totalTradedVolume": 0,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 380
@@ -1741,7 +1762,7 @@
             {
                 "CE": {
                     "askPrice": 1.6,
-                    "askQty": 2000,
+                    "askQty": 4000,
                     "bidQty": 4000,
                     "bidprice": 1.25,
                     "change": -0.75,
@@ -1754,11 +1775,11 @@
                     "pChange": -31.914893617021274,
                     "pchangeinOpenInterest": -8.35117773019272,
                     "strikePrice": 385,
-                    "totalBuyQuantity": 58000,
-                    "totalSellQuantity": 110000,
+                    "totalBuyQuantity": 54000,
+                    "totalSellQuantity": 112000,
                     "totalTradedVolume": 42,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "PE": {
                     "askPrice": 37.95,
@@ -1779,38 +1800,38 @@
                     "totalSellQuantity": 2000,
                     "totalTradedVolume": 0,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 385
             },
             {
                 "CE": {
-                    "askPrice": 1.1,
+                    "askPrice": 0.95,
                     "askQty": 2000,
-                    "bidQty": 4000,
+                    "bidQty": 2000,
                     "bidprice": 0.85,
-                    "change": -0.7,
-                    "changeinOpenInterest": -200,
+                    "change": -0.85,
+                    "changeinOpenInterest": -212,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLICHSGFIN25-05-2023CE390.00",
                     "impliedVolatility": 30.58,
-                    "lastPrice": 1,
-                    "openInterest": 1041,
-                    "pChange": -41.17647058823529,
-                    "pchangeinOpenInterest": -16.116035455278002,
+                    "lastPrice": 0.85,
+                    "openInterest": 1029,
+                    "pChange": -50,
+                    "pchangeinOpenInterest": -17.082997582594682,
                     "strikePrice": 390,
-                    "totalBuyQuantity": 60000,
+                    "totalBuyQuantity": 50000,
                     "totalSellQuantity": 286000,
-                    "totalTradedVolume": 211,
+                    "totalTradedVolume": 216,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "PE": {
                     "askPrice": 0,
                     "askQty": 0,
                     "bidQty": 2000,
-                    "bidprice": 18.05,
+                    "bidprice": 18.55,
                     "change": 0.05000000000000071,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
@@ -1825,7 +1846,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 2,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 390
@@ -1850,7 +1871,7 @@
                     "totalSellQuantity": 34000,
                     "totalTradedVolume": 1,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 390
@@ -1858,24 +1879,45 @@
             {
                 "CE": {
                     "askPrice": 0.95,
-                    "askQty": 4000,
-                    "bidQty": 2000,
-                    "bidprice": 0.7,
-                    "change": -0.30000000000000004,
-                    "changeinOpenInterest": -108,
+                    "askQty": 2000,
+                    "bidQty": 6000,
+                    "bidprice": 0.6,
+                    "change": -0.6500000000000001,
+                    "changeinOpenInterest": -110,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLICHSGFIN25-05-2023CE395.00",
                     "impliedVolatility": 37.43,
-                    "lastPrice": 1.05,
-                    "openInterest": 718,
-                    "pChange": -22.222222222222225,
-                    "pchangeinOpenInterest": -13.075060532687651,
+                    "lastPrice": 0.7,
+                    "openInterest": 716,
+                    "pChange": -48.14814814814816,
+                    "pchangeinOpenInterest": -13.317191283292978,
                     "strikePrice": 395,
-                    "totalBuyQuantity": 150000,
+                    "totalBuyQuantity": 164000,
                     "totalSellQuantity": 288000,
-                    "totalTradedVolume": 110,
+                    "totalTradedVolume": 112,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
+                },
+                "PE": {
+                    "askPrice": 0,
+                    "askQty": 0,
+                    "bidQty": 4000,
+                    "bidprice": 20,
+                    "change": 0,
+                    "changeinOpenInterest": 0,
+                    "expiryDate": "25-May-2023",
+                    "identifier": "OPTSTKLICHSGFIN25-05-2023PE395.00",
+                    "impliedVolatility": 0,
+                    "lastPrice": 0,
+                    "openInterest": 52,
+                    "pChange": 0,
+                    "pchangeinOpenInterest": 0,
+                    "strikePrice": 395,
+                    "totalBuyQuantity": 4000,
+                    "totalSellQuantity": 0,
+                    "totalTradedVolume": 0,
+                    "underlying": "LICHSGFIN",
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 395
@@ -1900,32 +1942,32 @@
                     "totalSellQuantity": 2000,
                     "totalTradedVolume": 0,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 395
             },
             {
                 "CE": {
-                    "askPrice": 0.6,
-                    "askQty": 8000,
+                    "askPrice": 0.55,
+                    "askQty": 4000,
                     "bidQty": 10000,
                     "bidprice": 0.5,
-                    "change": -0.55,
-                    "changeinOpenInterest": -163,
+                    "change": -0.5,
+                    "changeinOpenInterest": -198,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLICHSGFIN25-05-2023CE400.00",
                     "impliedVolatility": 37.08,
-                    "lastPrice": 0.5,
-                    "openInterest": 1748,
-                    "pChange": -52.38095238095239,
-                    "pchangeinOpenInterest": -8.529565672422816,
+                    "lastPrice": 0.55,
+                    "openInterest": 1713,
+                    "pChange": -47.61904761904761,
+                    "pchangeinOpenInterest": -10.361067503924646,
                     "strikePrice": 400,
-                    "totalBuyQuantity": 464000,
-                    "totalSellQuantity": 428000,
-                    "totalTradedVolume": 198,
+                    "totalBuyQuantity": 476000,
+                    "totalSellQuantity": 432000,
+                    "totalTradedVolume": 209,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1946,32 +1988,32 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 369.95
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 400
             },
             {
                 "CE": {
-                    "askPrice": 4.6,
+                    "askPrice": 3.95,
                     "askQty": 2000,
                     "bidQty": 2000,
                     "bidprice": 3.3,
-                    "change": -0.25,
+                    "change": -1.1,
                     "changeinOpenInterest": -3,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKLICHSGFIN29-06-2023CE400.00",
                     "impliedVolatility": 25.52,
-                    "lastPrice": 4.2,
+                    "lastPrice": 3.35,
                     "openInterest": 291,
-                    "pChange": -5.617977528089887,
+                    "pChange": -24.719101123595507,
                     "pchangeinOpenInterest": -1.0204081632653061,
                     "strikePrice": 400,
-                    "totalBuyQuantity": 46000,
+                    "totalBuyQuantity": 44000,
                     "totalSellQuantity": 52000,
-                    "totalTradedVolume": 4,
+                    "totalTradedVolume": 5,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1992,7 +2034,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 400
@@ -2013,11 +2055,11 @@
                     "pChange": -44.44444444444445,
                     "pchangeinOpenInterest": -1.075268817204301,
                     "strikePrice": 405,
-                    "totalBuyQuantity": 96000,
+                    "totalBuyQuantity": 106000,
                     "totalSellQuantity": 32000,
                     "totalTradedVolume": 7,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 405
@@ -2025,24 +2067,24 @@
             {
                 "CE": {
                     "askPrice": 0.5,
-                    "askQty": 20000,
-                    "bidQty": 4000,
+                    "askQty": 12000,
+                    "bidQty": 8000,
                     "bidprice": 0.35,
-                    "change": -0.4,
-                    "changeinOpenInterest": -102,
+                    "change": -0.25,
+                    "changeinOpenInterest": -103,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLICHSGFIN25-05-2023CE410.00",
                     "impliedVolatility": 41.35,
-                    "lastPrice": 0.35,
-                    "openInterest": 1186,
-                    "pChange": -53.333333333333336,
-                    "pchangeinOpenInterest": -7.919254658385094,
+                    "lastPrice": 0.5,
+                    "openInterest": 1185,
+                    "pChange": -33.33333333333333,
+                    "pchangeinOpenInterest": -7.996894409937888,
                     "strikePrice": 410,
-                    "totalBuyQuantity": 248000,
-                    "totalSellQuantity": 196000,
-                    "totalTradedVolume": 103,
+                    "totalBuyQuantity": 258000,
+                    "totalSellQuantity": 188000,
+                    "totalTradedVolume": 108,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 410
@@ -2064,10 +2106,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 410,
                     "totalBuyQuantity": 16000,
-                    "totalSellQuantity": 8000,
+                    "totalSellQuantity": 10000,
                     "totalTradedVolume": 0,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2088,7 +2130,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 410
@@ -2113,16 +2155,16 @@
                     "totalSellQuantity": 10000,
                     "totalTradedVolume": 0,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 415
             },
             {
                 "CE": {
-                    "askPrice": 0.4,
-                    "askQty": 12000,
-                    "bidQty": 8000,
+                    "askPrice": 0.35,
+                    "askQty": 2000,
+                    "bidQty": 4000,
                     "bidprice": 0.25,
                     "change": -0.15000000000000002,
                     "changeinOpenInterest": -6,
@@ -2134,11 +2176,11 @@
                     "pChange": -27.272727272727277,
                     "pchangeinOpenInterest": -1.7191977077363896,
                     "strikePrice": 420,
-                    "totalBuyQuantity": 154000,
-                    "totalSellQuantity": 42000,
+                    "totalBuyQuantity": 150000,
+                    "totalSellQuantity": 44000,
                     "totalTradedVolume": 13,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 420
@@ -2163,7 +2205,7 @@
                     "totalSellQuantity": 10000,
                     "totalTradedVolume": 0,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 420
@@ -2172,8 +2214,8 @@
                 "CE": {
                     "askPrice": 0.45,
                     "askQty": 4000,
-                    "bidQty": 2000,
-                    "bidprice": 0.1,
+                    "bidQty": 50000,
+                    "bidprice": 0.15,
                     "change": -0.25,
                     "changeinOpenInterest": -5,
                     "expiryDate": "25-May-2023",
@@ -2184,36 +2226,36 @@
                     "pChange": -62.5,
                     "pchangeinOpenInterest": -3.3112582781456954,
                     "strikePrice": 425,
-                    "totalBuyQuantity": 2000,
+                    "totalBuyQuantity": 54000,
                     "totalSellQuantity": 20000,
                     "totalTradedVolume": 6,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 425
             },
             {
                 "CE": {
-                    "askPrice": 0.3,
-                    "askQty": 6000,
-                    "bidQty": 2000,
-                    "bidprice": 0.2,
-                    "change": -0.10000000000000003,
-                    "changeinOpenInterest": 0,
+                    "askPrice": 0.7,
+                    "askQty": 2000,
+                    "bidQty": 4000,
+                    "bidprice": 0.15,
+                    "change": -0.2,
+                    "changeinOpenInterest": -6,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKLICHSGFIN25-05-2023CE430.00",
-                    "impliedVolatility": 0,
-                    "lastPrice": 0.3,
-                    "openInterest": 137,
-                    "pChange": -25.000000000000007,
-                    "pchangeinOpenInterest": 0,
+                    "impliedVolatility": 55.17,
+                    "lastPrice": 0.2,
+                    "openInterest": 131,
+                    "pChange": -50,
+                    "pchangeinOpenInterest": -4.37956204379562,
                     "strikePrice": 430,
-                    "totalBuyQuantity": 32000,
-                    "totalSellQuantity": 28000,
-                    "totalTradedVolume": 5,
+                    "totalBuyQuantity": 30000,
+                    "totalSellQuantity": 22000,
+                    "totalTradedVolume": 6,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 369.95
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 430
@@ -2238,7 +2280,7 @@
                     "totalSellQuantity": 4000,
                     "totalTradedVolume": 0,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 430
@@ -2259,11 +2301,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 435,
-                    "totalBuyQuantity": 76000,
-                    "totalSellQuantity": 8000,
+                    "totalBuyQuantity": 82000,
+                    "totalSellQuantity": 10000,
                     "totalTradedVolume": 0,
                     "underlying": "LICHSGFIN",
-                    "underlyingValue": 370.35
+                    "underlyingValue": 369.65
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 435
@@ -2302,7 +2344,7 @@
             430,
             435
         ],
-        "timestamp": "18-May-2023 10:21:15",
-        "underlyingValue": 370.35
+        "timestamp": "18-May-2023 10:26:47",
+        "underlyingValue": 369.65
     }
 }

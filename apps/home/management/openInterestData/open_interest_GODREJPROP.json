@@ -1,12 +1,12 @@
 {
     "filtered": {
         "CE": {
-            "totOI": 6739,
-            "totVol": 3616
+            "totOI": 6775,
+            "totVol": 3759
         },
         "PE": {
-            "totOI": 3729,
-            "totVol": 1106
+            "totOI": 3707,
+            "totVol": 1178
         },
         "data": [
             {
@@ -29,7 +29,7 @@
                     "totalSellQuantity": 17000,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 820
@@ -54,7 +54,7 @@
                     "totalSellQuantity": 17000,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 860
@@ -79,7 +79,7 @@
                     "totalSellQuantity": 17000,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 880
@@ -104,7 +104,7 @@
                     "totalSellQuantity": 17000,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 920
@@ -129,7 +129,7 @@
                     "totalSellQuantity": 17000,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 940
@@ -154,7 +154,7 @@
                     "totalSellQuantity": 17000,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 960
@@ -179,7 +179,7 @@
                     "totalSellQuantity": 17000,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1000
@@ -204,17 +204,17 @@
                     "totalSellQuantity": 17000,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1040
             },
             {
                 "CE": {
-                    "askPrice": 327.25,
+                    "askPrice": 326.35,
                     "askQty": 1275,
                     "bidQty": 1275,
-                    "bidprice": 281.35,
+                    "bidprice": 281.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -229,17 +229,17 @@
                     "totalSellQuantity": 18275,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1060
             },
             {
                 "CE": {
-                    "askPrice": 306.1,
+                    "askPrice": 305.2,
                     "askQty": 1275,
                     "bidQty": 1275,
-                    "bidprice": 214,
+                    "bidprice": 232.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -254,7 +254,7 @@
                     "totalSellQuantity": 18275,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 0,
@@ -275,17 +275,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1080
             },
             {
                 "CE": {
-                    "askPrice": 286.05,
+                    "askPrice": 270.85,
                     "askQty": 1275,
-                    "bidQty": 1275,
-                    "bidprice": 255.6,
+                    "bidQty": 425,
+                    "bidprice": 263,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -296,11 +296,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1100,
-                    "totalBuyQuantity": 22525,
-                    "totalSellQuantity": 18275,
+                    "totalBuyQuantity": 21250,
+                    "totalSellQuantity": 21675,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 0,
@@ -321,17 +321,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1100
             },
             {
                 "CE": {
-                    "askPrice": 266.05,
+                    "askPrice": 265.15,
                     "askQty": 1275,
                     "bidQty": 1275,
-                    "bidprice": 186.45,
+                    "bidprice": 201.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -346,7 +346,7 @@
                     "totalSellQuantity": 18275,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 0,
@@ -367,17 +367,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1120
             },
             {
                 "CE": {
-                    "askPrice": 245.65,
+                    "askPrice": 245.15,
                     "askQty": 1275,
                     "bidQty": 1275,
-                    "bidprice": 211.2,
+                    "bidprice": 206.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -392,7 +392,7 @@
                     "totalSellQuantity": 18275,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 0,
@@ -413,14 +413,14 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1140
             },
             {
                 "CE": {
-                    "askPrice": 211.7,
+                    "askPrice": 210.65,
                     "askQty": 1275,
                     "bidQty": 2125,
                     "bidprice": 194.75,
@@ -438,7 +438,7 @@
                     "totalSellQuantity": 21675,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 2,
@@ -459,14 +459,14 @@
                     "totalSellQuantity": 425,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1160
             },
             {
                 "CE": {
-                    "askPrice": 204.7,
+                    "askPrice": 204.4,
                     "askQty": 1275,
                     "bidQty": 2125,
                     "bidprice": 176.3,
@@ -484,7 +484,7 @@
                     "totalSellQuantity": 18275,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 0,
@@ -505,63 +505,63 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1180
             },
             {
                 "CE": {
-                    "askPrice": 165.35,
+                    "askPrice": 164.25,
                     "askQty": 425,
                     "bidQty": 425,
-                    "bidprice": 160.1,
+                    "bidprice": 160.6,
                     "change": -27,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023CE1200.00",
-                    "impliedVolatility": 79.73,
+                    "impliedVolatility": 78.98,
                     "lastPrice": 172,
                     "openInterest": 77,
                     "pChange": -13.5678391959799,
                     "pchangeinOpenInterest": -1.2820512820512822,
                     "strikePrice": 1200,
-                    "totalBuyQuantity": 33150,
-                    "totalSellQuantity": 28900,
+                    "totalBuyQuantity": 32725,
+                    "totalSellQuantity": 29750,
                     "totalTradedVolume": 3,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 1.05,
-                    "askQty": 850,
-                    "bidQty": 425,
+                    "askQty": 425,
+                    "bidQty": 850,
                     "bidprice": 0.9,
-                    "change": 0.19999999999999996,
+                    "change": 0.30000000000000004,
                     "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023PE1200.00",
-                    "impliedVolatility": 49.03,
-                    "lastPrice": 0.95,
+                    "impliedVolatility": 48.68,
+                    "lastPrice": 1.05,
                     "openInterest": 354,
-                    "pChange": 26.66666666666666,
+                    "pChange": 40.00000000000001,
                     "pchangeinOpenInterest": -0.8403361344537815,
                     "strikePrice": 1200,
-                    "totalBuyQuantity": 79050,
+                    "totalBuyQuantity": 80325,
                     "totalSellQuantity": 46750,
-                    "totalTradedVolume": 14,
+                    "totalTradedVolume": 15,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1200
             },
             {
                 "CE": {
-                    "askPrice": 166.05,
+                    "askPrice": 165.55,
                     "askQty": 1275,
                     "bidQty": 1275,
-                    "bidprice": 137.7,
+                    "bidprice": 131.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -576,7 +576,7 @@
                     "totalSellQuantity": 18275,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 0,
@@ -597,109 +597,109 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1220
             },
             {
                 "CE": {
-                    "askPrice": 125,
+                    "askPrice": 126.55,
                     "askQty": 425,
-                    "bidQty": 425,
-                    "bidprice": 122.75,
+                    "bidQty": 850,
+                    "bidprice": 123.05,
                     "change": -9.550000000000011,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023CE1240.00",
-                    "impliedVolatility": 57.81,
+                    "impliedVolatility": 57.05,
                     "lastPrice": 129.45,
                     "openInterest": 7,
                     "pChange": -6.87050359712231,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1240,
-                    "totalBuyQuantity": 22525,
-                    "totalSellQuantity": 22100,
+                    "totalBuyQuantity": 22950,
+                    "totalSellQuantity": 22525,
                     "totalTradedVolume": 2,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
-                    "askPrice": 2.35,
+                    "askPrice": 2.3,
                     "askQty": 850,
                     "bidQty": 425,
                     "bidprice": 2.2,
-                    "change": 0.55,
+                    "change": 0.5999999999999999,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023PE1240.00",
-                    "impliedVolatility": 44.4,
-                    "lastPrice": 2.1,
+                    "impliedVolatility": 44.48,
+                    "lastPrice": 2.15,
                     "openInterest": 115,
-                    "pChange": 35.483870967741936,
+                    "pChange": 38.709677419354826,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1240,
-                    "totalBuyQuantity": 74800,
-                    "totalSellQuantity": 49725,
-                    "totalTradedVolume": 4,
+                    "totalBuyQuantity": 82025,
+                    "totalSellQuantity": 57375,
+                    "totalTradedVolume": 5,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1240
             },
             {
                 "CE": {
-                    "askPrice": 106,
+                    "askPrice": 106.35,
                     "askQty": 425,
-                    "bidQty": 850,
-                    "bidprice": 100.4,
+                    "bidQty": 425,
+                    "bidprice": 103.65,
                     "change": -40,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023CE1260.00",
-                    "impliedVolatility": 65.4,
+                    "impliedVolatility": 64.9,
                     "lastPrice": 116,
                     "openInterest": 26,
                     "pChange": -25.64102564102564,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1260,
-                    "totalBuyQuantity": 38250,
-                    "totalSellQuantity": 32725,
+                    "totalBuyQuantity": 34425,
+                    "totalSellQuantity": 30600,
                     "totalTradedVolume": 1,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
-                    "askPrice": 3.2,
+                    "askPrice": 3.25,
                     "askQty": 425,
-                    "bidQty": 850,
-                    "bidprice": 3.05,
-                    "change": 0.7000000000000002,
+                    "bidQty": 425,
+                    "bidprice": 3.1,
+                    "change": 0.6500000000000004,
                     "changeinOpenInterest": 4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023PE1260.00",
-                    "impliedVolatility": 42.87,
-                    "lastPrice": 3.25,
+                    "impliedVolatility": 42.45,
+                    "lastPrice": 3.2,
                     "openInterest": 306,
-                    "pChange": 27.450980392156872,
+                    "pChange": 25.49019607843139,
                     "pchangeinOpenInterest": 1.3245033112582782,
                     "strikePrice": 1260,
-                    "totalBuyQuantity": 111775,
-                    "totalSellQuantity": 68850,
-                    "totalTradedVolume": 35,
+                    "totalBuyQuantity": 112200,
+                    "totalSellQuantity": 70125,
+                    "totalTradedVolume": 42,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1260
             },
             {
                 "CE": {
-                    "askPrice": 92.7,
-                    "askQty": 1275,
-                    "bidQty": 850,
-                    "bidprice": 83.55,
+                    "askPrice": 90.35,
+                    "askQty": 1700,
+                    "bidQty": 425,
+                    "bidprice": 85.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -710,308 +710,308 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1280,
-                    "totalBuyQuantity": 36975,
-                    "totalSellQuantity": 33150,
+                    "totalBuyQuantity": 36550,
+                    "totalSellQuantity": 31875,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
-                    "askPrice": 4.7,
-                    "askQty": 425,
-                    "bidQty": 425,
-                    "bidprice": 4.45,
-                    "change": 1.1500000000000004,
+                    "askPrice": 4.65,
+                    "askQty": 850,
+                    "bidQty": 850,
+                    "bidprice": 4.4,
+                    "change": 1.4000000000000004,
                     "changeinOpenInterest": -9,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023PE1280.00",
-                    "impliedVolatility": 40.8,
-                    "lastPrice": 4.4,
+                    "impliedVolatility": 39.58,
+                    "lastPrice": 4.65,
                     "openInterest": 174,
-                    "pChange": 35.3846153846154,
+                    "pChange": 43.07692307692309,
                     "pchangeinOpenInterest": -4.918032786885246,
                     "strikePrice": 1280,
-                    "totalBuyQuantity": 113475,
-                    "totalSellQuantity": 88400,
-                    "totalTradedVolume": 66,
+                    "totalBuyQuantity": 111775,
+                    "totalSellQuantity": 87125,
+                    "totalTradedVolume": 68,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1280
             },
             {
                 "CE": {
-                    "askPrice": 69.4,
+                    "askPrice": 69.45,
                     "askQty": 425,
-                    "bidQty": 850,
-                    "bidprice": 68.05,
-                    "change": -24.099999999999994,
-                    "changeinOpenInterest": -6,
+                    "bidQty": 425,
+                    "bidprice": 68.15,
+                    "change": -23.799999999999997,
+                    "changeinOpenInterest": -7,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023CE1300.00",
-                    "impliedVolatility": 51.83,
-                    "lastPrice": 69,
-                    "openInterest": 156,
-                    "pChange": -25.88614393125671,
-                    "pchangeinOpenInterest": -3.7037037037037037,
+                    "impliedVolatility": 39.24,
+                    "lastPrice": 69.3,
+                    "openInterest": 155,
+                    "pChange": -25.563909774436087,
+                    "pchangeinOpenInterest": -4.320987654320987,
                     "strikePrice": 1300,
-                    "totalBuyQuantity": 47600,
-                    "totalSellQuantity": 44625,
-                    "totalTradedVolume": 15,
+                    "totalBuyQuantity": 48025,
+                    "totalSellQuantity": 44200,
+                    "totalTradedVolume": 20,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
-                    "askPrice": 6.95,
-                    "askQty": 850,
-                    "bidQty": 425,
-                    "bidprice": 6.8,
-                    "change": 2.1499999999999995,
-                    "changeinOpenInterest": -29,
+                    "askPrice": 6.65,
+                    "askQty": 425,
+                    "bidQty": 850,
+                    "bidprice": 6.5,
+                    "change": 1.9500000000000002,
+                    "changeinOpenInterest": -38,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023PE1300.00",
-                    "impliedVolatility": 37.78,
-                    "lastPrice": 6.85,
-                    "openInterest": 519,
-                    "pChange": 45.74468085106382,
-                    "pchangeinOpenInterest": -5.291970802919708,
+                    "impliedVolatility": 37.89,
+                    "lastPrice": 6.65,
+                    "openInterest": 510,
+                    "pChange": 41.48936170212767,
+                    "pchangeinOpenInterest": -6.934306569343065,
                     "strikePrice": 1300,
-                    "totalBuyQuantity": 83725,
-                    "totalSellQuantity": 96900,
-                    "totalTradedVolume": 222,
+                    "totalBuyQuantity": 82025,
+                    "totalSellQuantity": 99025,
+                    "totalTradedVolume": 232,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1300
             },
             {
                 "CE": {
-                    "askPrice": 53.4,
+                    "askPrice": 52.8,
                     "askQty": 425,
                     "bidQty": 425,
-                    "bidprice": 51.35,
+                    "bidprice": 50.95,
                     "change": -12.75,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023CE1320.00",
-                    "impliedVolatility": 44.14,
+                    "impliedVolatility": 43.81,
                     "lastPrice": 59,
                     "openInterest": 114,
                     "pChange": -17.770034843205575,
                     "pchangeinOpenInterest": -0.8695652173913043,
                     "strikePrice": 1320,
-                    "totalBuyQuantity": 26350,
-                    "totalSellQuantity": 37400,
+                    "totalBuyQuantity": 24650,
+                    "totalSellQuantity": 35700,
                     "totalTradedVolume": 2,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
-                    "askPrice": 10.25,
-                    "askQty": 425,
+                    "askPrice": 10.1,
+                    "askQty": 850,
                     "bidQty": 425,
-                    "bidprice": 10.05,
-                    "change": 2.9000000000000004,
-                    "changeinOpenInterest": 25,
+                    "bidprice": 9.85,
+                    "change": 3.1500000000000004,
+                    "changeinOpenInterest": 21,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023PE1320.00",
-                    "impliedVolatility": 35.31,
-                    "lastPrice": 9.75,
-                    "openInterest": 314,
-                    "pChange": 42.335766423357676,
-                    "pchangeinOpenInterest": 8.650519031141869,
+                    "impliedVolatility": 35.77,
+                    "lastPrice": 10,
+                    "openInterest": 310,
+                    "pChange": 45.98540145985402,
+                    "pchangeinOpenInterest": 7.26643598615917,
                     "strikePrice": 1320,
-                    "totalBuyQuantity": 81175,
-                    "totalSellQuantity": 62900,
-                    "totalTradedVolume": 114,
+                    "totalBuyQuantity": 79475,
+                    "totalSellQuantity": 64600,
+                    "totalTradedVolume": 125,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1320
             },
             {
                 "CE": {
-                    "askPrice": 38.5,
+                    "askPrice": 38.3,
                     "askQty": 425,
                     "bidQty": 425,
-                    "bidprice": 37.65,
-                    "change": -18.35,
-                    "changeinOpenInterest": 7,
+                    "bidprice": 37.35,
+                    "change": -17.6,
+                    "changeinOpenInterest": 8,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023CE1340.00",
-                    "impliedVolatility": 32.75,
-                    "lastPrice": 38.25,
-                    "openInterest": 136,
-                    "pChange": -32.420494699646646,
-                    "pchangeinOpenInterest": 5.426356589147287,
+                    "impliedVolatility": 32.76,
+                    "lastPrice": 39,
+                    "openInterest": 137,
+                    "pChange": -31.095406360424032,
+                    "pchangeinOpenInterest": 6.2015503875969,
                     "strikePrice": 1340,
-                    "totalBuyQuantity": 31875,
-                    "totalSellQuantity": 41650,
-                    "totalTradedVolume": 37,
+                    "totalBuyQuantity": 32725,
+                    "totalSellQuantity": 42075,
+                    "totalTradedVolume": 40,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
-                    "askPrice": 15.9,
+                    "askPrice": 15.75,
                     "askQty": 425,
-                    "bidQty": 850,
-                    "bidprice": 15.4,
-                    "change": 5.15,
-                    "changeinOpenInterest": -28,
+                    "bidQty": 425,
+                    "bidprice": 15.25,
+                    "change": 4.950000000000001,
+                    "changeinOpenInterest": -22,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023PE1340.00",
-                    "impliedVolatility": 34.29,
-                    "lastPrice": 15.35,
-                    "openInterest": 268,
-                    "pChange": 50.49019607843138,
-                    "pchangeinOpenInterest": -9.45945945945946,
+                    "impliedVolatility": 34.66,
+                    "lastPrice": 15.15,
+                    "openInterest": 274,
+                    "pChange": 48.5294117647059,
+                    "pchangeinOpenInterest": -7.4324324324324325,
                     "strikePrice": 1340,
-                    "totalBuyQuantity": 78625,
-                    "totalSellQuantity": 62900,
-                    "totalTradedVolume": 118,
+                    "totalBuyQuantity": 75650,
+                    "totalSellQuantity": 62050,
+                    "totalTradedVolume": 128,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1340
             },
             {
                 "CE": {
-                    "askPrice": 26.4,
+                    "askPrice": 26.35,
                     "askQty": 425,
                     "bidQty": 425,
                     "bidprice": 25.85,
-                    "change": -15.599999999999998,
-                    "changeinOpenInterest": 22,
-                    "expiryDate": "25-May-2023",
-                    "identifier": "OPTSTKGODREJPROP25-05-2023CE1360.00",
-                    "impliedVolatility": 32.56,
-                    "lastPrice": 26.8,
-                    "openInterest": 206,
-                    "pChange": -36.79245283018868,
-                    "pchangeinOpenInterest": 11.956521739130435,
-                    "strikePrice": 1360,
-                    "totalBuyQuantity": 39525,
-                    "totalSellQuantity": 28050,
-                    "totalTradedVolume": 121,
-                    "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
-                },
-                "PE": {
-                    "askPrice": 23.75,
-                    "askQty": 850,
-                    "bidQty": 425,
-                    "bidprice": 23.35,
-                    "change": 7.799999999999999,
+                    "change": -16.049999999999997,
                     "changeinOpenInterest": 33,
                     "expiryDate": "25-May-2023",
-                    "identifier": "OPTSTKGODREJPROP25-05-2023PE1360.00",
-                    "impliedVolatility": 33.24,
-                    "lastPrice": 23.45,
-                    "openInterest": 367,
-                    "pChange": 49.84025559105431,
-                    "pchangeinOpenInterest": 9.880239520958083,
+                    "identifier": "OPTSTKGODREJPROP25-05-2023CE1360.00",
+                    "impliedVolatility": 32.48,
+                    "lastPrice": 26.35,
+                    "openInterest": 217,
+                    "pChange": -37.85377358490565,
+                    "pchangeinOpenInterest": 17.934782608695652,
                     "strikePrice": 1360,
-                    "totalBuyQuantity": 73950,
-                    "totalSellQuantity": 67575,
-                    "totalTradedVolume": 245,
+                    "totalBuyQuantity": 38250,
+                    "totalSellQuantity": 26350,
+                    "totalTradedVolume": 123,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
+                },
+                "PE": {
+                    "askPrice": 23.7,
+                    "askQty": 425,
+                    "bidQty": 1275,
+                    "bidprice": 23.1,
+                    "change": 7.499999999999998,
+                    "changeinOpenInterest": 26,
+                    "expiryDate": "25-May-2023",
+                    "identifier": "OPTSTKGODREJPROP25-05-2023PE1360.00",
+                    "impliedVolatility": 33.56,
+                    "lastPrice": 23.15,
+                    "openInterest": 360,
+                    "pChange": 47.92332268370606,
+                    "pchangeinOpenInterest": 7.7844311377245505,
+                    "strikePrice": 1360,
+                    "totalBuyQuantity": 71825,
+                    "totalSellQuantity": 68425,
+                    "totalTradedVolume": 266,
+                    "underlying": "GODREJPROP",
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1360
             },
             {
                 "CE": {
-                    "askPrice": 18.1,
-                    "askQty": 850,
-                    "bidQty": 425,
-                    "bidprice": 17.8,
-                    "change": -12.150000000000002,
-                    "changeinOpenInterest": 68,
+                    "askPrice": 17.95,
+                    "askQty": 425,
+                    "bidQty": 850,
+                    "bidprice": 17.55,
+                    "change": -13.150000000000002,
+                    "changeinOpenInterest": 66,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023CE1380.00",
-                    "impliedVolatility": 33.45,
-                    "lastPrice": 18.45,
-                    "openInterest": 420,
-                    "pChange": -39.70588235294118,
-                    "pchangeinOpenInterest": 19.318181818181817,
+                    "impliedVolatility": 34.03,
+                    "lastPrice": 17.45,
+                    "openInterest": 418,
+                    "pChange": -42.97385620915033,
+                    "pchangeinOpenInterest": 18.75,
                     "strikePrice": 1380,
-                    "totalBuyQuantity": 69275,
-                    "totalSellQuantity": 69275,
-                    "totalTradedVolume": 309,
+                    "totalBuyQuantity": 73525,
+                    "totalSellQuantity": 67575,
+                    "totalTradedVolume": 334,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
-                    "askPrice": 35.85,
+                    "askPrice": 35.4,
                     "askQty": 425,
                     "bidQty": 425,
-                    "bidprice": 34.95,
-                    "change": 10.95,
-                    "changeinOpenInterest": -16,
+                    "bidprice": 34.7,
+                    "change": 11.95,
+                    "changeinOpenInterest": -21,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023PE1380.00",
-                    "impliedVolatility": 33.92,
-                    "lastPrice": 34.5,
-                    "openInterest": 135,
-                    "pChange": 46.4968152866242,
-                    "pchangeinOpenInterest": -10.596026490066226,
+                    "impliedVolatility": 34.03,
+                    "lastPrice": 35.5,
+                    "openInterest": 130,
+                    "pChange": 50.74309978768577,
+                    "pchangeinOpenInterest": -13.907284768211921,
                     "strikePrice": 1380,
-                    "totalBuyQuantity": 51850,
-                    "totalSellQuantity": 42075,
-                    "totalTradedVolume": 130,
+                    "totalBuyQuantity": 51425,
+                    "totalSellQuantity": 42500,
+                    "totalTradedVolume": 138,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1380
             },
             {
                 "CE": {
-                    "askPrice": 12.6,
+                    "askPrice": 12.3,
                     "askQty": 850,
                     "bidQty": 425,
-                    "bidprice": 12.4,
-                    "change": -8.950000000000001,
-                    "changeinOpenInterest": 125,
+                    "bidprice": 12.2,
+                    "change": -9.3,
+                    "changeinOpenInterest": 148,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023CE1400.00",
-                    "impliedVolatility": 35.03,
-                    "lastPrice": 12.6,
-                    "openInterest": 2248,
-                    "pChange": -41.53132250580047,
-                    "pchangeinOpenInterest": 5.887894488930758,
+                    "impliedVolatility": 35.35,
+                    "lastPrice": 12.25,
+                    "openInterest": 2271,
+                    "pChange": -43.1554524361949,
+                    "pchangeinOpenInterest": 6.971267074894018,
                     "strikePrice": 1400,
-                    "totalBuyQuantity": 119000,
-                    "totalSellQuantity": 150025,
-                    "totalTradedVolume": 808,
+                    "totalBuyQuantity": 118150,
+                    "totalSellQuantity": 146200,
+                    "totalTradedVolume": 831,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
-                    "askPrice": 50,
+                    "askPrice": 50.1,
                     "askQty": 425,
-                    "bidQty": 850,
-                    "bidprice": 49,
-                    "change": 14.199999999999996,
-                    "changeinOpenInterest": -39,
+                    "bidQty": 425,
+                    "bidprice": 49.05,
+                    "change": 14.599999999999994,
+                    "changeinOpenInterest": -42,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023PE1400.00",
-                    "impliedVolatility": 35.61,
-                    "lastPrice": 48.65,
-                    "openInterest": 297,
-                    "pChange": 41.21915820029026,
-                    "pchangeinOpenInterest": -11.607142857142858,
+                    "impliedVolatility": 35.93,
+                    "lastPrice": 49.05,
+                    "openInterest": 294,
+                    "pChange": 42.38026124818576,
+                    "pchangeinOpenInterest": -12.5,
                     "strikePrice": 1400,
-                    "totalBuyQuantity": 34850,
-                    "totalSellQuantity": 23800,
-                    "totalTradedVolume": 145,
+                    "totalBuyQuantity": 34425,
+                    "totalSellQuantity": 22525,
+                    "totalTradedVolume": 146,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1400
@@ -1021,74 +1021,74 @@
                     "askPrice": 7.7,
                     "askQty": 425,
                     "bidQty": 425,
-                    "bidprice": 7.5,
-                    "change": -6.299999999999999,
-                    "changeinOpenInterest": 49,
+                    "bidprice": 7.45,
+                    "change": -6.049999999999999,
+                    "changeinOpenInterest": 40,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023CE1420.00",
-                    "impliedVolatility": 35.35,
-                    "lastPrice": 7.65,
-                    "openInterest": 586,
-                    "pChange": -45.16129032258064,
-                    "pchangeinOpenInterest": 9.124767225325884,
+                    "impliedVolatility": 35.23,
+                    "lastPrice": 7.9,
+                    "openInterest": 577,
+                    "pChange": -43.36917562724014,
+                    "pchangeinOpenInterest": 7.4487895716946,
                     "strikePrice": 1420,
-                    "totalBuyQuantity": 70975,
-                    "totalSellQuantity": 104125,
-                    "totalTradedVolume": 339,
+                    "totalBuyQuantity": 72250,
+                    "totalSellQuantity": 101575,
+                    "totalTradedVolume": 358,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
-                    "askPrice": 65.3,
+                    "askPrice": 65.15,
                     "askQty": 425,
-                    "bidQty": 425,
-                    "bidprice": 63.75,
+                    "bidQty": 850,
+                    "bidprice": 63.6,
                     "change": 18.500000000000007,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023PE1420.00",
-                    "impliedVolatility": 26.35,
+                    "impliedVolatility": 26.96,
                     "lastPrice": 64.65,
                     "openInterest": 103,
                     "pChange": 40.08667388949081,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1420,
-                    "totalBuyQuantity": 36550,
-                    "totalSellQuantity": 28475,
+                    "totalBuyQuantity": 34425,
+                    "totalSellQuantity": 25500,
                     "totalTradedVolume": 7,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1420
             },
             {
                 "CE": {
-                    "askPrice": 4.7,
-                    "askQty": 850,
-                    "bidQty": 1275,
+                    "askPrice": 4.75,
+                    "askQty": 425,
+                    "bidQty": 3825,
                     "bidprice": 4.55,
-                    "change": -4.15,
-                    "changeinOpenInterest": 1,
+                    "change": -4,
+                    "changeinOpenInterest": 21,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023CE1440.00",
-                    "impliedVolatility": 36.21,
-                    "lastPrice": 4.6,
-                    "openInterest": 583,
-                    "pChange": -47.42857142857143,
-                    "pchangeinOpenInterest": 0.1718213058419244,
+                    "impliedVolatility": 35.99,
+                    "lastPrice": 4.75,
+                    "openInterest": 603,
+                    "pChange": -45.714285714285715,
+                    "pchangeinOpenInterest": 3.6082474226804124,
                     "strikePrice": 1440,
-                    "totalBuyQuantity": 73525,
-                    "totalSellQuantity": 71825,
-                    "totalTradedVolume": 445,
+                    "totalBuyQuantity": 90100,
+                    "totalSellQuantity": 71400,
+                    "totalTradedVolume": 458,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
-                    "askPrice": 83.2,
-                    "askQty": 425,
-                    "bidQty": 425,
-                    "bidprice": 79.95,
+                    "askPrice": 83.7,
+                    "askQty": 850,
+                    "bidQty": 2975,
+                    "bidprice": 76.3,
                     "change": 5.699999999999996,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1099,42 +1099,42 @@
                     "pChange": 9.32134096484055,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1440,
-                    "totalBuyQuantity": 31450,
-                    "totalSellQuantity": 22100,
+                    "totalBuyQuantity": 36125,
+                    "totalSellQuantity": 22525,
                     "totalTradedVolume": 3,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1440
             },
             {
                 "CE": {
-                    "askPrice": 3.15,
-                    "askQty": 850,
-                    "bidQty": 1275,
-                    "bidprice": 3.1,
-                    "change": -2.7,
-                    "changeinOpenInterest": -5,
+                    "askPrice": 3.1,
+                    "askQty": 425,
+                    "bidQty": 850,
+                    "bidprice": 3,
+                    "change": -2.7500000000000004,
+                    "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023CE1460.00",
-                    "impliedVolatility": 37.7,
-                    "lastPrice": 3.2,
-                    "openInterest": 558,
-                    "pChange": -45.76271186440678,
-                    "pchangeinOpenInterest": -0.8880994671403197,
+                    "impliedVolatility": 37.31,
+                    "lastPrice": 3.15,
+                    "openInterest": 562,
+                    "pChange": -46.610169491525426,
+                    "pchangeinOpenInterest": -0.17761989342806395,
                     "strikePrice": 1460,
-                    "totalBuyQuantity": 78625,
-                    "totalSellQuantity": 88400,
-                    "totalTradedVolume": 363,
+                    "totalBuyQuantity": 77350,
+                    "totalSellQuantity": 88825,
+                    "totalTradedVolume": 373,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
-                    "askPrice": 103.65,
+                    "askPrice": 104.3,
                     "askQty": 1700,
-                    "bidQty": 425,
-                    "bidprice": 98.95,
+                    "bidQty": 850,
+                    "bidprice": 96.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1145,42 +1145,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1460,
-                    "totalBuyQuantity": 30600,
+                    "totalBuyQuantity": 34000,
                     "totalSellQuantity": 22950,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1460
             },
             {
                 "CE": {
-                    "askPrice": 2.25,
-                    "askQty": 425,
-                    "bidQty": 6800,
-                    "bidprice": 2.15,
-                    "change": -1.8499999999999996,
-                    "changeinOpenInterest": -35,
+                    "askPrice": 2.3,
+                    "askQty": 1275,
+                    "bidQty": 850,
+                    "bidprice": 2.2,
+                    "change": -1.75,
+                    "changeinOpenInterest": -43,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023CE1480.00",
-                    "impliedVolatility": 39.72,
-                    "lastPrice": 2.2,
-                    "openInterest": 299,
-                    "pChange": -45.679012345679006,
-                    "pchangeinOpenInterest": -10.479041916167665,
+                    "impliedVolatility": 39.25,
+                    "lastPrice": 2.3,
+                    "openInterest": 291,
+                    "pChange": -43.20987654320988,
+                    "pchangeinOpenInterest": -12.874251497005988,
                     "strikePrice": 1480,
-                    "totalBuyQuantity": 121975,
-                    "totalSellQuantity": 96900,
-                    "totalTradedVolume": 127,
+                    "totalBuyQuantity": 121125,
+                    "totalSellQuantity": 96050,
+                    "totalTradedVolume": 145,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
-                    "askPrice": 120.6,
-                    "askQty": 425,
+                    "askPrice": 123.9,
+                    "askQty": 850,
                     "bidQty": 425,
-                    "bidprice": 118,
+                    "bidprice": 117.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1191,42 +1191,42 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1480,
-                    "totalBuyQuantity": 30175,
-                    "totalSellQuantity": 22100,
+                    "totalBuyQuantity": 30600,
+                    "totalSellQuantity": 23800,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1480
             },
             {
                 "CE": {
-                    "askPrice": 1.7,
-                    "askQty": 1700,
-                    "bidQty": 2125,
-                    "bidprice": 1.6,
-                    "change": -1.4000000000000001,
-                    "changeinOpenInterest": -106,
+                    "askPrice": 1.65,
+                    "askQty": 2550,
+                    "bidQty": 5100,
+                    "bidprice": 1.55,
+                    "change": -1.5,
+                    "changeinOpenInterest": -108,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023CE1500.00",
-                    "impliedVolatility": 41.93,
-                    "lastPrice": 1.7,
-                    "openInterest": 965,
-                    "pChange": -45.16129032258065,
-                    "pchangeinOpenInterest": -9.897292250233427,
+                    "impliedVolatility": 41.11,
+                    "lastPrice": 1.6,
+                    "openInterest": 963,
+                    "pChange": -48.387096774193544,
+                    "pchangeinOpenInterest": -10.084033613445378,
                     "strikePrice": 1500,
-                    "totalBuyQuantity": 113900,
-                    "totalSellQuantity": 97750,
-                    "totalTradedVolume": 932,
+                    "totalBuyQuantity": 112625,
+                    "totalSellQuantity": 99025,
+                    "totalTradedVolume": 951,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 140.4,
                     "askQty": 850,
                     "bidQty": 850,
-                    "bidprice": 137,
+                    "bidprice": 136.75,
                     "change": 22.14999999999999,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1237,42 +1237,42 @@
                     "pChange": 20.237551393330282,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1500,
-                    "totalBuyQuantity": 25075,
-                    "totalSellQuantity": 24225,
+                    "totalBuyQuantity": 23800,
+                    "totalSellQuantity": 22525,
                     "totalTradedVolume": 3,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1500
             },
             {
                 "CE": {
-                    "askPrice": 1.15,
-                    "askQty": 1700,
-                    "bidQty": 1700,
-                    "bidprice": 1.05,
+                    "askPrice": 1.1,
+                    "askQty": 1275,
+                    "bidQty": 2125,
+                    "bidprice": 1,
                     "change": -1.1500000000000001,
-                    "changeinOpenInterest": -30,
+                    "changeinOpenInterest": -31,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023CE1520.00",
-                    "impliedVolatility": 43.29,
+                    "impliedVolatility": 43.22,
                     "lastPrice": 1.05,
-                    "openInterest": 258,
+                    "openInterest": 257,
                     "pChange": -52.27272727272727,
-                    "pchangeinOpenInterest": -10.416666666666666,
+                    "pchangeinOpenInterest": -10.76388888888889,
                     "strikePrice": 1520,
-                    "totalBuyQuantity": 73950,
-                    "totalSellQuantity": 79900,
-                    "totalTradedVolume": 100,
+                    "totalBuyQuantity": 72250,
+                    "totalSellQuantity": 79475,
+                    "totalTradedVolume": 106,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
-                    "askPrice": 163.15,
+                    "askPrice": 163.05,
                     "askQty": 425,
                     "bidQty": 850,
-                    "bidprice": 149.3,
+                    "bidprice": 152.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1287,7 +1287,7 @@
                     "totalSellQuantity": 21675,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1520
@@ -1296,23 +1296,23 @@
                 "CE": {
                     "askPrice": 0.9,
                     "askQty": 2125,
-                    "bidQty": 2125,
-                    "bidprice": 0.8,
+                    "bidQty": 850,
+                    "bidprice": 0.85,
                     "change": -0.7999999999999999,
                     "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023CE1540.00",
-                    "impliedVolatility": 45.64,
+                    "impliedVolatility": 45.16,
                     "lastPrice": 0.9,
                     "openInterest": 16,
                     "pChange": -47.05882352941176,
                     "pchangeinOpenInterest": 23.076923076923077,
                     "strikePrice": 1540,
-                    "totalBuyQuantity": 57800,
+                    "totalBuyQuantity": 59075,
                     "totalSellQuantity": 109650,
                     "totalTradedVolume": 11,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 184.85,
@@ -1333,7 +1333,7 @@
                     "totalSellQuantity": 21675,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1540
@@ -1358,13 +1358,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 216.5,
                     "askQty": 1275,
                     "bidQty": 1275,
-                    "bidprice": 175.95,
+                    "bidprice": 176.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1379,7 +1379,7 @@
                     "totalSellQuantity": 18275,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1560
@@ -1404,13 +1404,13 @@
                     "totalSellQuantity": 17000,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 222.7,
                     "askQty": 1275,
                     "bidQty": 1275,
-                    "bidprice": 209.25,
+                    "bidprice": 211.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -1425,14 +1425,14 @@
                     "totalSellQuantity": 20825,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1580
             },
             {
                 "CE": {
-                    "askPrice": 3.1,
+                    "askPrice": 2.85,
                     "askQty": 17000,
                     "bidQty": 8500,
                     "bidprice": 0.1,
@@ -1440,17 +1440,17 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023CE1600.00",
-                    "impliedVolatility": 60.2,
+                    "impliedVolatility": 60.13,
                     "lastPrice": 1.3,
                     "openInterest": 18,
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1600,
                     "totalBuyQuantity": 8925,
-                    "totalSellQuantity": 17425,
+                    "totalSellQuantity": 34850,
                     "totalTradedVolume": 1,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 249.55,
@@ -1471,7 +1471,7 @@
                     "totalSellQuantity": 20825,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1600
@@ -1500,7 +1500,7 @@
                     "totalSellQuantity": 17000,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 820
@@ -1525,7 +1525,7 @@
                     "totalSellQuantity": 17000,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1546,7 +1546,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 840
@@ -1571,7 +1571,7 @@
                     "totalSellQuantity": 17000,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1592,7 +1592,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 860
@@ -1617,7 +1617,7 @@
                     "totalSellQuantity": 17000,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 860
@@ -1642,7 +1642,7 @@
                     "totalSellQuantity": 17000,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 880
@@ -1667,7 +1667,7 @@
                     "totalSellQuantity": 17000,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1688,7 +1688,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 880
@@ -1713,7 +1713,7 @@
                     "totalSellQuantity": 17000,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1734,7 +1734,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 900
@@ -1759,7 +1759,7 @@
                     "totalSellQuantity": 17000,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1780,7 +1780,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 920
@@ -1805,7 +1805,7 @@
                     "totalSellQuantity": 17000,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 920
@@ -1830,7 +1830,7 @@
                     "totalSellQuantity": 17000,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1851,7 +1851,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 940
@@ -1876,7 +1876,7 @@
                     "totalSellQuantity": 17000,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 940
@@ -1901,7 +1901,7 @@
                     "totalSellQuantity": 17000,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 960
@@ -1926,7 +1926,7 @@
                     "totalSellQuantity": 17000,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1947,14 +1947,14 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 960
             },
             {
                 "CE": {
-                    "askPrice": 433.15,
+                    "askPrice": 430.95,
                     "askQty": 1275,
                     "bidQty": 1275,
                     "bidprice": 286,
@@ -1972,7 +1972,7 @@
                     "totalSellQuantity": 18275,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 0,
@@ -1993,7 +1993,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 980
@@ -2018,14 +2018,14 @@
                     "totalSellQuantity": 17000,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1000
             },
             {
                 "CE": {
-                    "askPrice": 411.85,
+                    "askPrice": 409.85,
                     "askQty": 1275,
                     "bidQty": 1275,
                     "bidprice": 266.9,
@@ -2043,7 +2043,7 @@
                     "totalSellQuantity": 18275,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2064,14 +2064,14 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1000
             },
             {
                 "CE": {
-                    "askPrice": 390.6,
+                    "askPrice": 388.2,
                     "askQty": 1275,
                     "bidQty": 1275,
                     "bidprice": 248,
@@ -2089,7 +2089,7 @@
                     "totalSellQuantity": 18275,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2110,7 +2110,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1020
@@ -2135,14 +2135,14 @@
                     "totalSellQuantity": 17000,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1040
             },
             {
                 "CE": {
-                    "askPrice": 369.3,
+                    "askPrice": 366.5,
                     "askQty": 1275,
                     "bidQty": 1275,
                     "bidprice": 229.5,
@@ -2160,7 +2160,7 @@
                     "totalSellQuantity": 18275,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2181,17 +2181,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1040
             },
             {
                 "CE": {
-                    "askPrice": 327.25,
+                    "askPrice": 326.35,
                     "askQty": 1275,
                     "bidQty": 1275,
-                    "bidprice": 281.35,
+                    "bidprice": 281.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2206,14 +2206,14 @@
                     "totalSellQuantity": 18275,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1060
             },
             {
                 "CE": {
-                    "askPrice": 348,
+                    "askPrice": 345.3,
                     "askQty": 1275,
                     "bidQty": 1275,
                     "bidprice": 211.3,
@@ -2231,7 +2231,7 @@
                     "totalSellQuantity": 18275,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2252,14 +2252,14 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1060
             },
             {
                 "CE": {
-                    "askPrice": 326.7,
+                    "askPrice": 325.3,
                     "askQty": 1275,
                     "bidQty": 1275,
                     "bidprice": 193.6,
@@ -2277,7 +2277,7 @@
                     "totalSellQuantity": 18275,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2298,17 +2298,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1080
             },
             {
                 "CE": {
-                    "askPrice": 306.1,
+                    "askPrice": 305.2,
                     "askQty": 1275,
                     "bidQty": 1275,
-                    "bidprice": 214,
+                    "bidprice": 232.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2323,7 +2323,7 @@
                     "totalSellQuantity": 18275,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2344,15 +2344,15 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1080
             },
             {
                 "CE": {
-                    "askPrice": 306,
-                    "askQty": 17000,
+                    "askPrice": 305.55,
+                    "askQty": 1275,
                     "bidQty": 2550,
                     "bidprice": 176.35,
                     "change": 0,
@@ -2366,10 +2366,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1100,
                     "totalBuyQuantity": 2550,
-                    "totalSellQuantity": 17000,
+                    "totalSellQuantity": 18275,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2390,17 +2390,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1100
             },
             {
                 "CE": {
-                    "askPrice": 286.05,
+                    "askPrice": 270.85,
                     "askQty": 1275,
-                    "bidQty": 1275,
-                    "bidprice": 255.6,
+                    "bidQty": 425,
+                    "bidprice": 263,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2411,11 +2411,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1100,
-                    "totalBuyQuantity": 22525,
-                    "totalSellQuantity": 18275,
+                    "totalBuyQuantity": 21250,
+                    "totalSellQuantity": 21675,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2436,14 +2436,14 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1100
             },
             {
                 "CE": {
-                    "askPrice": 293.8,
+                    "askPrice": 293.3,
                     "askQty": 17000,
                     "bidQty": 1275,
                     "bidprice": 159.8,
@@ -2461,7 +2461,7 @@
                     "totalSellQuantity": 17000,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2482,17 +2482,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1120
             },
             {
                 "CE": {
-                    "askPrice": 266.05,
+                    "askPrice": 265.15,
                     "askQty": 1275,
                     "bidQty": 1275,
-                    "bidprice": 186.45,
+                    "bidprice": 201.55,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2507,7 +2507,7 @@
                     "totalSellQuantity": 18275,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2528,17 +2528,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1120
             },
             {
                 "CE": {
-                    "askPrice": 283.5,
+                    "askPrice": 276.2,
                     "askQty": 17000,
                     "bidQty": 1275,
-                    "bidprice": 145.55,
+                    "bidprice": 145.5,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2553,7 +2553,7 @@
                     "totalSellQuantity": 17000,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2574,17 +2574,17 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1140
             },
             {
                 "CE": {
-                    "askPrice": 245.65,
+                    "askPrice": 245.15,
                     "askQty": 1275,
                     "bidQty": 1275,
-                    "bidprice": 211.2,
+                    "bidprice": 206.1,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2599,7 +2599,7 @@
                     "totalSellQuantity": 18275,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2620,14 +2620,14 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1140
             },
             {
                 "CE": {
-                    "askPrice": 211.7,
+                    "askPrice": 210.65,
                     "askQty": 1275,
                     "bidQty": 2125,
                     "bidprice": 194.75,
@@ -2645,7 +2645,7 @@
                     "totalSellQuantity": 21675,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 2,
@@ -2666,17 +2666,17 @@
                     "totalSellQuantity": 425,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1160
             },
             {
                 "CE": {
-                    "askPrice": 261.4,
+                    "askPrice": 255.2,
                     "askQty": 17000,
                     "bidQty": 1275,
-                    "bidprice": 135.25,
+                    "bidprice": 135.2,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -2691,7 +2691,7 @@
                     "totalSellQuantity": 17000,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2712,14 +2712,14 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1160
             },
             {
                 "CE": {
-                    "askPrice": 204.7,
+                    "askPrice": 204.4,
                     "askQty": 1275,
                     "bidQty": 2125,
                     "bidprice": 176.3,
@@ -2737,7 +2737,7 @@
                     "totalSellQuantity": 18275,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2758,14 +2758,14 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1180
             },
             {
                 "CE": {
-                    "askPrice": 240.4,
+                    "askPrice": 234.2,
                     "askQty": 17000,
                     "bidQty": 1275,
                     "bidprice": 125.25,
@@ -2783,7 +2783,7 @@
                     "totalSellQuantity": 17000,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2804,36 +2804,36 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1180
             },
             {
                 "CE": {
-                    "askPrice": 192.6,
-                    "askQty": 2125,
+                    "askPrice": 185.95,
+                    "askQty": 1275,
                     "bidQty": 0,
                     "bidprice": 0,
                     "change": 146.9,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKGODREJPROP29-06-2023CE1200.00",
-                    "impliedVolatility": 36.07,
+                    "impliedVolatility": 35.78,
                     "lastPrice": 185,
                     "openInterest": 0,
                     "pChange": 385.56430446194224,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1200,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 19550,
+                    "totalSellQuantity": 18275,
                     "totalTradedVolume": 1,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
-                    "askPrice": 14,
-                    "askQty": 425,
+                    "askPrice": 9,
+                    "askQty": 850,
                     "bidQty": 425,
                     "bidprice": 0.3,
                     "change": 0,
@@ -2847,56 +2847,56 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1200,
                     "totalBuyQuantity": 425,
-                    "totalSellQuantity": 1275,
+                    "totalSellQuantity": 3825,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1200
             },
             {
                 "CE": {
-                    "askPrice": 165.35,
+                    "askPrice": 164.25,
                     "askQty": 425,
                     "bidQty": 425,
-                    "bidprice": 160.1,
+                    "bidprice": 160.6,
                     "change": -27,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023CE1200.00",
-                    "impliedVolatility": 79.73,
+                    "impliedVolatility": 78.98,
                     "lastPrice": 172,
                     "openInterest": 77,
                     "pChange": -13.5678391959799,
                     "pchangeinOpenInterest": -1.2820512820512822,
                     "strikePrice": 1200,
-                    "totalBuyQuantity": 33150,
-                    "totalSellQuantity": 28900,
+                    "totalBuyQuantity": 32725,
+                    "totalSellQuantity": 29750,
                     "totalTradedVolume": 3,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 1.05,
-                    "askQty": 850,
-                    "bidQty": 425,
+                    "askQty": 425,
+                    "bidQty": 850,
                     "bidprice": 0.9,
-                    "change": 0.19999999999999996,
+                    "change": 0.30000000000000004,
                     "changeinOpenInterest": -3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023PE1200.00",
-                    "impliedVolatility": 49.03,
-                    "lastPrice": 0.95,
+                    "impliedVolatility": 48.68,
+                    "lastPrice": 1.05,
                     "openInterest": 354,
-                    "pChange": 26.66666666666666,
+                    "pChange": 40.00000000000001,
                     "pchangeinOpenInterest": -0.8403361344537815,
                     "strikePrice": 1200,
-                    "totalBuyQuantity": 79050,
+                    "totalBuyQuantity": 80325,
                     "totalSellQuantity": 46750,
-                    "totalTradedVolume": 14,
+                    "totalTradedVolume": 15,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1200
@@ -2921,7 +2921,7 @@
                     "totalSellQuantity": 18700,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 21.05,
@@ -2942,17 +2942,17 @@
                     "totalSellQuantity": 425,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1220
             },
             {
                 "CE": {
-                    "askPrice": 166.05,
+                    "askPrice": 165.55,
                     "askQty": 1275,
                     "bidQty": 1275,
-                    "bidprice": 137.7,
+                    "bidprice": 131.25,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -2967,7 +2967,7 @@
                     "totalSellQuantity": 18275,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 0,
@@ -2988,63 +2988,63 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1220
             },
             {
                 "CE": {
-                    "askPrice": 125,
+                    "askPrice": 126.55,
                     "askQty": 425,
-                    "bidQty": 425,
-                    "bidprice": 122.75,
+                    "bidQty": 850,
+                    "bidprice": 123.05,
                     "change": -9.550000000000011,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023CE1240.00",
-                    "impliedVolatility": 57.81,
+                    "impliedVolatility": 57.05,
                     "lastPrice": 129.45,
                     "openInterest": 7,
                     "pChange": -6.87050359712231,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1240,
-                    "totalBuyQuantity": 22525,
-                    "totalSellQuantity": 22100,
+                    "totalBuyQuantity": 22950,
+                    "totalSellQuantity": 22525,
                     "totalTradedVolume": 2,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
-                    "askPrice": 2.35,
+                    "askPrice": 2.3,
                     "askQty": 850,
                     "bidQty": 425,
                     "bidprice": 2.2,
-                    "change": 0.55,
+                    "change": 0.5999999999999999,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023PE1240.00",
-                    "impliedVolatility": 44.4,
-                    "lastPrice": 2.1,
+                    "impliedVolatility": 44.48,
+                    "lastPrice": 2.15,
                     "openInterest": 115,
-                    "pChange": 35.483870967741936,
+                    "pChange": 38.709677419354826,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1240,
-                    "totalBuyQuantity": 74800,
-                    "totalSellQuantity": 49725,
-                    "totalTradedVolume": 4,
+                    "totalBuyQuantity": 82025,
+                    "totalSellQuantity": 57375,
+                    "totalTradedVolume": 5,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1240
             },
             {
                 "CE": {
-                    "askPrice": 195.65,
-                    "askQty": 17000,
-                    "bidQty": 1275,
-                    "bidprice": 100.5,
+                    "askPrice": 177.65,
+                    "askQty": 1700,
+                    "bidQty": 1700,
+                    "bidprice": 120.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3055,57 +3055,57 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1240,
-                    "totalBuyQuantity": 1275,
-                    "totalSellQuantity": 17000,
+                    "totalBuyQuantity": 1700,
+                    "totalSellQuantity": 18700,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1240
             },
             {
                 "CE": {
-                    "askPrice": 106,
+                    "askPrice": 106.35,
                     "askQty": 425,
-                    "bidQty": 850,
-                    "bidprice": 100.4,
+                    "bidQty": 425,
+                    "bidprice": 103.65,
                     "change": -40,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023CE1260.00",
-                    "impliedVolatility": 65.4,
+                    "impliedVolatility": 64.9,
                     "lastPrice": 116,
                     "openInterest": 26,
                     "pChange": -25.64102564102564,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1260,
-                    "totalBuyQuantity": 38250,
-                    "totalSellQuantity": 32725,
+                    "totalBuyQuantity": 34425,
+                    "totalSellQuantity": 30600,
                     "totalTradedVolume": 1,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
-                    "askPrice": 3.2,
+                    "askPrice": 3.25,
                     "askQty": 425,
-                    "bidQty": 850,
-                    "bidprice": 3.05,
-                    "change": 0.7000000000000002,
+                    "bidQty": 425,
+                    "bidprice": 3.1,
+                    "change": 0.6500000000000004,
                     "changeinOpenInterest": 4,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023PE1260.00",
-                    "impliedVolatility": 42.87,
-                    "lastPrice": 3.25,
+                    "impliedVolatility": 42.45,
+                    "lastPrice": 3.2,
                     "openInterest": 306,
-                    "pChange": 27.450980392156872,
+                    "pChange": 25.49019607843139,
                     "pchangeinOpenInterest": 1.3245033112582782,
                     "strikePrice": 1260,
-                    "totalBuyQuantity": 111775,
-                    "totalSellQuantity": 68850,
-                    "totalTradedVolume": 35,
+                    "totalBuyQuantity": 112200,
+                    "totalSellQuantity": 70125,
+                    "totalTradedVolume": 42,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1260
@@ -3130,7 +3130,7 @@
                     "totalSellQuantity": 18700,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 28.3,
@@ -3151,17 +3151,17 @@
                     "totalSellQuantity": 425,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1260
             },
             {
                 "CE": {
-                    "askPrice": 92.7,
-                    "askQty": 1275,
-                    "bidQty": 850,
-                    "bidprice": 83.55,
+                    "askPrice": 90.35,
+                    "askQty": 1700,
+                    "bidQty": 425,
+                    "bidprice": 85.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -3172,40 +3172,40 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1280,
-                    "totalBuyQuantity": 36975,
-                    "totalSellQuantity": 33150,
+                    "totalBuyQuantity": 36550,
+                    "totalSellQuantity": 31875,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
-                    "askPrice": 4.7,
-                    "askQty": 425,
-                    "bidQty": 425,
-                    "bidprice": 4.45,
-                    "change": 1.1500000000000004,
+                    "askPrice": 4.65,
+                    "askQty": 850,
+                    "bidQty": 850,
+                    "bidprice": 4.4,
+                    "change": 1.4000000000000004,
                     "changeinOpenInterest": -9,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023PE1280.00",
-                    "impliedVolatility": 40.8,
-                    "lastPrice": 4.4,
+                    "impliedVolatility": 39.58,
+                    "lastPrice": 4.65,
                     "openInterest": 174,
-                    "pChange": 35.3846153846154,
+                    "pChange": 43.07692307692309,
                     "pchangeinOpenInterest": -4.918032786885246,
                     "strikePrice": 1280,
-                    "totalBuyQuantity": 113475,
-                    "totalSellQuantity": 88400,
-                    "totalTradedVolume": 66,
+                    "totalBuyQuantity": 111775,
+                    "totalSellQuantity": 87125,
+                    "totalTradedVolume": 68,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1280
             },
             {
                 "CE": {
-                    "askPrice": 146.2,
-                    "askQty": 1700,
+                    "askPrice": 145.5,
+                    "askQty": 1275,
                     "bidQty": 1275,
                     "bidprice": 90.8,
                     "change": 0,
@@ -3222,7 +3222,7 @@
                     "totalSellQuantity": 18700,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 33.2,
@@ -3243,99 +3243,99 @@
                     "totalSellQuantity": 17425,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1280
             },
             {
                 "CE": {
-                    "askPrice": 69.4,
+                    "askPrice": 69.45,
                     "askQty": 425,
-                    "bidQty": 850,
-                    "bidprice": 68.05,
-                    "change": -24.099999999999994,
-                    "changeinOpenInterest": -6,
+                    "bidQty": 425,
+                    "bidprice": 68.15,
+                    "change": -23.799999999999997,
+                    "changeinOpenInterest": -7,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023CE1300.00",
-                    "impliedVolatility": 51.83,
-                    "lastPrice": 69,
-                    "openInterest": 156,
-                    "pChange": -25.88614393125671,
-                    "pchangeinOpenInterest": -3.7037037037037037,
+                    "impliedVolatility": 39.24,
+                    "lastPrice": 69.3,
+                    "openInterest": 155,
+                    "pChange": -25.563909774436087,
+                    "pchangeinOpenInterest": -4.320987654320987,
                     "strikePrice": 1300,
-                    "totalBuyQuantity": 47600,
-                    "totalSellQuantity": 44625,
-                    "totalTradedVolume": 15,
+                    "totalBuyQuantity": 48025,
+                    "totalSellQuantity": 44200,
+                    "totalTradedVolume": 20,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
-                    "askPrice": 6.95,
-                    "askQty": 850,
-                    "bidQty": 425,
-                    "bidprice": 6.8,
-                    "change": 2.1499999999999995,
-                    "changeinOpenInterest": -29,
+                    "askPrice": 6.65,
+                    "askQty": 425,
+                    "bidQty": 850,
+                    "bidprice": 6.5,
+                    "change": 1.9500000000000002,
+                    "changeinOpenInterest": -38,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023PE1300.00",
-                    "impliedVolatility": 37.78,
-                    "lastPrice": 6.85,
-                    "openInterest": 519,
-                    "pChange": 45.74468085106382,
-                    "pchangeinOpenInterest": -5.291970802919708,
+                    "impliedVolatility": 37.89,
+                    "lastPrice": 6.65,
+                    "openInterest": 510,
+                    "pChange": 41.48936170212767,
+                    "pchangeinOpenInterest": -6.934306569343065,
                     "strikePrice": 1300,
-                    "totalBuyQuantity": 83725,
-                    "totalSellQuantity": 96900,
-                    "totalTradedVolume": 222,
+                    "totalBuyQuantity": 82025,
+                    "totalSellQuantity": 99025,
+                    "totalTradedVolume": 232,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1300
             },
             {
                 "CE": {
-                    "askPrice": 101.35,
-                    "askQty": 850,
-                    "bidQty": 1275,
-                    "bidprice": 81.15,
+                    "askPrice": 103.8,
+                    "askQty": 1275,
+                    "bidQty": 850,
+                    "bidprice": 93.65,
                     "change": -12,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKGODREJPROP29-06-2023CE1300.00",
-                    "impliedVolatility": 31.95,
+                    "impliedVolatility": 31.81,
                     "lastPrice": 103,
                     "openInterest": 14,
                     "pChange": -10.434782608695652,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1300,
-                    "totalBuyQuantity": 2975,
-                    "totalSellQuantity": 18275,
+                    "totalBuyQuantity": 1700,
+                    "totalSellQuantity": 19550,
                     "totalTradedVolume": 1,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
-                    "askPrice": 25.7,
+                    "askPrice": 26.75,
                     "askQty": 425,
-                    "bidQty": 1700,
-                    "bidprice": 23.65,
+                    "bidQty": 425,
+                    "bidprice": 24.3,
                     "change": 6.649999999999999,
                     "changeinOpenInterest": 2,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKGODREJPROP29-06-2023PE1300.00",
-                    "impliedVolatility": 30.64,
+                    "impliedVolatility": 30.69,
                     "lastPrice": 25,
                     "openInterest": 42,
                     "pChange": 36.23978201634876,
                     "pchangeinOpenInterest": 5,
                     "strikePrice": 1300,
                     "totalBuyQuantity": 25075,
-                    "totalSellQuantity": 8500,
+                    "totalSellQuantity": 8075,
                     "totalTradedVolume": 13,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1300
@@ -3360,53 +3360,53 @@
                     "totalSellQuantity": 475,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1300
             },
             {
                 "CE": {
-                    "askPrice": 53.4,
+                    "askPrice": 52.8,
                     "askQty": 425,
                     "bidQty": 425,
-                    "bidprice": 51.35,
+                    "bidprice": 50.95,
                     "change": -12.75,
                     "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023CE1320.00",
-                    "impliedVolatility": 44.14,
+                    "impliedVolatility": 43.81,
                     "lastPrice": 59,
                     "openInterest": 114,
                     "pChange": -17.770034843205575,
                     "pchangeinOpenInterest": -0.8695652173913043,
                     "strikePrice": 1320,
-                    "totalBuyQuantity": 26350,
-                    "totalSellQuantity": 37400,
+                    "totalBuyQuantity": 24650,
+                    "totalSellQuantity": 35700,
                     "totalTradedVolume": 2,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
-                    "askPrice": 10.25,
-                    "askQty": 425,
+                    "askPrice": 10.1,
+                    "askQty": 850,
                     "bidQty": 425,
-                    "bidprice": 10.05,
-                    "change": 2.9000000000000004,
-                    "changeinOpenInterest": 25,
+                    "bidprice": 9.85,
+                    "change": 3.1500000000000004,
+                    "changeinOpenInterest": 21,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023PE1320.00",
-                    "impliedVolatility": 35.31,
-                    "lastPrice": 9.75,
-                    "openInterest": 314,
-                    "pChange": 42.335766423357676,
-                    "pchangeinOpenInterest": 8.650519031141869,
+                    "impliedVolatility": 35.77,
+                    "lastPrice": 10,
+                    "openInterest": 310,
+                    "pChange": 45.98540145985402,
+                    "pchangeinOpenInterest": 7.26643598615917,
                     "strikePrice": 1320,
-                    "totalBuyQuantity": 81175,
-                    "totalSellQuantity": 62900,
-                    "totalTradedVolume": 114,
+                    "totalBuyQuantity": 79475,
+                    "totalSellQuantity": 64600,
+                    "totalTradedVolume": 125,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1320
@@ -3431,7 +3431,7 @@
                     "totalSellQuantity": 18700,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 54.75,
@@ -3452,7 +3452,7 @@
                     "totalSellQuantity": 425,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1320
@@ -3477,7 +3477,7 @@
                     "totalSellQuantity": 475,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1320
@@ -3502,7 +3502,7 @@
                     "totalSellQuantity": 17850,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 62.4,
@@ -3523,53 +3523,53 @@
                     "totalSellQuantity": 17850,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1340
             },
             {
                 "CE": {
-                    "askPrice": 38.5,
+                    "askPrice": 38.3,
                     "askQty": 425,
                     "bidQty": 425,
-                    "bidprice": 37.65,
-                    "change": -18.35,
-                    "changeinOpenInterest": 7,
+                    "bidprice": 37.35,
+                    "change": -17.6,
+                    "changeinOpenInterest": 8,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023CE1340.00",
-                    "impliedVolatility": 32.75,
-                    "lastPrice": 38.25,
-                    "openInterest": 136,
-                    "pChange": -32.420494699646646,
-                    "pchangeinOpenInterest": 5.426356589147287,
+                    "impliedVolatility": 32.76,
+                    "lastPrice": 39,
+                    "openInterest": 137,
+                    "pChange": -31.095406360424032,
+                    "pchangeinOpenInterest": 6.2015503875969,
                     "strikePrice": 1340,
-                    "totalBuyQuantity": 31875,
-                    "totalSellQuantity": 41650,
-                    "totalTradedVolume": 37,
+                    "totalBuyQuantity": 32725,
+                    "totalSellQuantity": 42075,
+                    "totalTradedVolume": 40,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
-                    "askPrice": 15.9,
+                    "askPrice": 15.75,
                     "askQty": 425,
-                    "bidQty": 850,
-                    "bidprice": 15.4,
-                    "change": 5.15,
-                    "changeinOpenInterest": -28,
+                    "bidQty": 425,
+                    "bidprice": 15.25,
+                    "change": 4.950000000000001,
+                    "changeinOpenInterest": -22,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023PE1340.00",
-                    "impliedVolatility": 34.29,
-                    "lastPrice": 15.35,
-                    "openInterest": 268,
-                    "pChange": 50.49019607843138,
-                    "pchangeinOpenInterest": -9.45945945945946,
+                    "impliedVolatility": 34.66,
+                    "lastPrice": 15.15,
+                    "openInterest": 274,
+                    "pChange": 48.5294117647059,
+                    "pchangeinOpenInterest": -7.4324324324324325,
                     "strikePrice": 1340,
-                    "totalBuyQuantity": 78625,
-                    "totalSellQuantity": 62900,
-                    "totalTradedVolume": 118,
+                    "totalBuyQuantity": 75650,
+                    "totalSellQuantity": 62050,
+                    "totalTradedVolume": 128,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1340
@@ -3594,7 +3594,7 @@
                     "totalSellQuantity": 475,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 99.9,
@@ -3615,63 +3615,63 @@
                     "totalSellQuantity": 475,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1340
             },
             {
                 "CE": {
-                    "askPrice": 26.4,
+                    "askPrice": 26.35,
                     "askQty": 425,
                     "bidQty": 425,
                     "bidprice": 25.85,
-                    "change": -15.599999999999998,
-                    "changeinOpenInterest": 22,
-                    "expiryDate": "25-May-2023",
-                    "identifier": "OPTSTKGODREJPROP25-05-2023CE1360.00",
-                    "impliedVolatility": 32.56,
-                    "lastPrice": 26.8,
-                    "openInterest": 206,
-                    "pChange": -36.79245283018868,
-                    "pchangeinOpenInterest": 11.956521739130435,
-                    "strikePrice": 1360,
-                    "totalBuyQuantity": 39525,
-                    "totalSellQuantity": 28050,
-                    "totalTradedVolume": 121,
-                    "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
-                },
-                "PE": {
-                    "askPrice": 23.75,
-                    "askQty": 850,
-                    "bidQty": 425,
-                    "bidprice": 23.35,
-                    "change": 7.799999999999999,
+                    "change": -16.049999999999997,
                     "changeinOpenInterest": 33,
                     "expiryDate": "25-May-2023",
-                    "identifier": "OPTSTKGODREJPROP25-05-2023PE1360.00",
-                    "impliedVolatility": 33.24,
-                    "lastPrice": 23.45,
-                    "openInterest": 367,
-                    "pChange": 49.84025559105431,
-                    "pchangeinOpenInterest": 9.880239520958083,
+                    "identifier": "OPTSTKGODREJPROP25-05-2023CE1360.00",
+                    "impliedVolatility": 32.48,
+                    "lastPrice": 26.35,
+                    "openInterest": 217,
+                    "pChange": -37.85377358490565,
+                    "pchangeinOpenInterest": 17.934782608695652,
                     "strikePrice": 1360,
-                    "totalBuyQuantity": 73950,
-                    "totalSellQuantity": 67575,
-                    "totalTradedVolume": 245,
+                    "totalBuyQuantity": 38250,
+                    "totalSellQuantity": 26350,
+                    "totalTradedVolume": 123,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
+                },
+                "PE": {
+                    "askPrice": 23.7,
+                    "askQty": 425,
+                    "bidQty": 1275,
+                    "bidprice": 23.1,
+                    "change": 7.499999999999998,
+                    "changeinOpenInterest": 26,
+                    "expiryDate": "25-May-2023",
+                    "identifier": "OPTSTKGODREJPROP25-05-2023PE1360.00",
+                    "impliedVolatility": 33.56,
+                    "lastPrice": 23.15,
+                    "openInterest": 360,
+                    "pChange": 47.92332268370606,
+                    "pchangeinOpenInterest": 7.7844311377245505,
+                    "strikePrice": 1360,
+                    "totalBuyQuantity": 71825,
+                    "totalSellQuantity": 68425,
+                    "totalTradedVolume": 266,
+                    "underlying": "GODREJPROP",
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1360
             },
             {
                 "CE": {
-                    "askPrice": 67.15,
-                    "askQty": 425,
-                    "bidQty": 425,
-                    "bidprice": 58,
+                    "askPrice": 78.45,
+                    "askQty": 850,
+                    "bidQty": 1275,
+                    "bidprice": 51.45,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3682,11 +3682,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1360,
-                    "totalBuyQuantity": 1275,
-                    "totalSellQuantity": 18275,
+                    "totalBuyQuantity": 1700,
+                    "totalSellQuantity": 18700,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 65.1,
@@ -3707,7 +3707,7 @@
                     "totalSellQuantity": 17850,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1360
@@ -3732,7 +3732,7 @@
                     "totalSellQuantity": 475,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 109.1,
@@ -3753,17 +3753,17 @@
                     "totalSellQuantity": 475,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1360
             },
             {
                 "CE": {
-                    "askPrice": 58.8,
+                    "askPrice": 57.65,
                     "askQty": 425,
                     "bidQty": 425,
-                    "bidprice": 37.8,
+                    "bidprice": 42.95,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3774,17 +3774,17 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1380,
-                    "totalBuyQuantity": 850,
-                    "totalSellQuantity": 19975,
+                    "totalBuyQuantity": 1275,
+                    "totalSellQuantity": 19125,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
-                    "askPrice": 64.1,
+                    "askPrice": 64.15,
                     "askQty": 425,
                     "bidQty": 425,
-                    "bidprice": 42.75,
+                    "bidprice": 42.8,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -3795,11 +3795,11 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1380,
-                    "totalBuyQuantity": 425,
+                    "totalBuyQuantity": 850,
                     "totalSellQuantity": 17850,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1380
@@ -3824,7 +3824,7 @@
                     "totalSellQuantity": 475,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 119.2,
@@ -3845,106 +3845,106 @@
                     "totalSellQuantity": 475,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1380
             },
             {
                 "CE": {
-                    "askPrice": 18.1,
-                    "askQty": 850,
-                    "bidQty": 425,
-                    "bidprice": 17.8,
-                    "change": -12.150000000000002,
-                    "changeinOpenInterest": 68,
+                    "askPrice": 17.95,
+                    "askQty": 425,
+                    "bidQty": 850,
+                    "bidprice": 17.55,
+                    "change": -13.150000000000002,
+                    "changeinOpenInterest": 66,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023CE1380.00",
-                    "impliedVolatility": 33.45,
-                    "lastPrice": 18.45,
-                    "openInterest": 420,
-                    "pChange": -39.70588235294118,
-                    "pchangeinOpenInterest": 19.318181818181817,
+                    "impliedVolatility": 34.03,
+                    "lastPrice": 17.45,
+                    "openInterest": 418,
+                    "pChange": -42.97385620915033,
+                    "pchangeinOpenInterest": 18.75,
                     "strikePrice": 1380,
-                    "totalBuyQuantity": 69275,
-                    "totalSellQuantity": 69275,
-                    "totalTradedVolume": 309,
+                    "totalBuyQuantity": 73525,
+                    "totalSellQuantity": 67575,
+                    "totalTradedVolume": 334,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
-                    "askPrice": 35.85,
+                    "askPrice": 35.4,
                     "askQty": 425,
                     "bidQty": 425,
-                    "bidprice": 34.95,
-                    "change": 10.95,
-                    "changeinOpenInterest": -16,
+                    "bidprice": 34.7,
+                    "change": 11.95,
+                    "changeinOpenInterest": -21,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023PE1380.00",
-                    "impliedVolatility": 33.92,
-                    "lastPrice": 34.5,
-                    "openInterest": 135,
-                    "pChange": 46.4968152866242,
-                    "pchangeinOpenInterest": -10.596026490066226,
+                    "impliedVolatility": 34.03,
+                    "lastPrice": 35.5,
+                    "openInterest": 130,
+                    "pChange": 50.74309978768577,
+                    "pchangeinOpenInterest": -13.907284768211921,
                     "strikePrice": 1380,
-                    "totalBuyQuantity": 51850,
-                    "totalSellQuantity": 42075,
-                    "totalTradedVolume": 130,
+                    "totalBuyQuantity": 51425,
+                    "totalSellQuantity": 42500,
+                    "totalTradedVolume": 138,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1380
             },
             {
                 "CE": {
-                    "askPrice": 12.6,
+                    "askPrice": 12.3,
                     "askQty": 850,
                     "bidQty": 425,
-                    "bidprice": 12.4,
-                    "change": -8.950000000000001,
-                    "changeinOpenInterest": 125,
+                    "bidprice": 12.2,
+                    "change": -9.3,
+                    "changeinOpenInterest": 148,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023CE1400.00",
-                    "impliedVolatility": 35.03,
-                    "lastPrice": 12.6,
-                    "openInterest": 2248,
-                    "pChange": -41.53132250580047,
-                    "pchangeinOpenInterest": 5.887894488930758,
+                    "impliedVolatility": 35.35,
+                    "lastPrice": 12.25,
+                    "openInterest": 2271,
+                    "pChange": -43.1554524361949,
+                    "pchangeinOpenInterest": 6.971267074894018,
                     "strikePrice": 1400,
-                    "totalBuyQuantity": 119000,
-                    "totalSellQuantity": 150025,
-                    "totalTradedVolume": 808,
+                    "totalBuyQuantity": 118150,
+                    "totalSellQuantity": 146200,
+                    "totalTradedVolume": 831,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
-                    "askPrice": 50,
+                    "askPrice": 50.1,
                     "askQty": 425,
-                    "bidQty": 850,
-                    "bidprice": 49,
-                    "change": 14.199999999999996,
-                    "changeinOpenInterest": -39,
+                    "bidQty": 425,
+                    "bidprice": 49.05,
+                    "change": 14.599999999999994,
+                    "changeinOpenInterest": -42,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023PE1400.00",
-                    "impliedVolatility": 35.61,
-                    "lastPrice": 48.65,
-                    "openInterest": 297,
-                    "pChange": 41.21915820029026,
-                    "pchangeinOpenInterest": -11.607142857142858,
+                    "impliedVolatility": 35.93,
+                    "lastPrice": 49.05,
+                    "openInterest": 294,
+                    "pChange": 42.38026124818576,
+                    "pchangeinOpenInterest": -12.5,
                     "strikePrice": 1400,
-                    "totalBuyQuantity": 34850,
-                    "totalSellQuantity": 23800,
-                    "totalTradedVolume": 145,
+                    "totalBuyQuantity": 34425,
+                    "totalSellQuantity": 22525,
+                    "totalTradedVolume": 146,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1400
             },
             {
                 "CE": {
-                    "askPrice": 87.65,
+                    "askPrice": 87.2,
                     "askQty": 475,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -3962,7 +3962,7 @@
                     "totalSellQuantity": 950,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 125.7,
@@ -3983,53 +3983,53 @@
                     "totalSellQuantity": 950,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1400
             },
             {
                 "CE": {
-                    "askPrice": 44.4,
-                    "askQty": 425,
-                    "bidQty": 425,
-                    "bidprice": 43.5,
-                    "change": -6.75,
+                    "askPrice": 43.95,
+                    "askQty": 850,
+                    "bidQty": 850,
+                    "bidprice": 42.3,
+                    "change": -6.700000000000003,
                     "changeinOpenInterest": 3,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKGODREJPROP29-06-2023CE1400.00",
-                    "impliedVolatility": 30.54,
-                    "lastPrice": 44.1,
+                    "impliedVolatility": 28.64,
+                    "lastPrice": 44.15,
                     "openInterest": 54,
-                    "pChange": -13.27433628318584,
+                    "pChange": -13.176007866273359,
                     "pchangeinOpenInterest": 5.882352941176471,
                     "strikePrice": 1400,
                     "totalBuyQuantity": 29750,
-                    "totalSellQuantity": 14025,
-                    "totalTradedVolume": 24,
+                    "totalSellQuantity": 14875,
+                    "totalTradedVolume": 26,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
-                    "askPrice": 72.25,
+                    "askPrice": 71.75,
                     "askQty": 425,
-                    "bidQty": 850,
-                    "bidprice": 67.9,
+                    "bidQty": 425,
+                    "bidprice": 68.75,
                     "change": 3,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKGODREJPROP29-06-2023PE1400.00",
-                    "impliedVolatility": 24.58,
+                    "impliedVolatility": 24.68,
                     "lastPrice": 58,
                     "openInterest": 22,
                     "pChange": 5.454545454545454,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1400,
-                    "totalBuyQuantity": 7225,
-                    "totalSellQuantity": 5100,
+                    "totalBuyQuantity": 5100,
+                    "totalSellQuantity": 19125,
                     "totalTradedVolume": 3,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1400
@@ -4039,58 +4039,58 @@
                     "askPrice": 7.7,
                     "askQty": 425,
                     "bidQty": 425,
-                    "bidprice": 7.5,
-                    "change": -6.299999999999999,
-                    "changeinOpenInterest": 49,
+                    "bidprice": 7.45,
+                    "change": -6.049999999999999,
+                    "changeinOpenInterest": 40,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023CE1420.00",
-                    "impliedVolatility": 35.35,
-                    "lastPrice": 7.65,
-                    "openInterest": 586,
-                    "pChange": -45.16129032258064,
-                    "pchangeinOpenInterest": 9.124767225325884,
+                    "impliedVolatility": 35.23,
+                    "lastPrice": 7.9,
+                    "openInterest": 577,
+                    "pChange": -43.36917562724014,
+                    "pchangeinOpenInterest": 7.4487895716946,
                     "strikePrice": 1420,
-                    "totalBuyQuantity": 70975,
-                    "totalSellQuantity": 104125,
-                    "totalTradedVolume": 339,
+                    "totalBuyQuantity": 72250,
+                    "totalSellQuantity": 101575,
+                    "totalTradedVolume": 358,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
-                    "askPrice": 65.3,
+                    "askPrice": 65.15,
                     "askQty": 425,
-                    "bidQty": 425,
-                    "bidprice": 63.75,
+                    "bidQty": 850,
+                    "bidprice": 63.6,
                     "change": 18.500000000000007,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023PE1420.00",
-                    "impliedVolatility": 26.35,
+                    "impliedVolatility": 26.96,
                     "lastPrice": 64.65,
                     "openInterest": 103,
                     "pChange": 40.08667388949081,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1420,
-                    "totalBuyQuantity": 36550,
-                    "totalSellQuantity": 28475,
+                    "totalBuyQuantity": 34425,
+                    "totalSellQuantity": 25500,
                     "totalTradedVolume": 7,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1420
             },
             {
                 "CE": {
-                    "askPrice": 46.9,
+                    "askPrice": 39.8,
                     "askQty": 425,
                     "bidQty": 425,
-                    "bidprice": 30.45,
+                    "bidprice": 29.95,
                     "change": -1.7000000000000028,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKGODREJPROP29-06-2023CE1420.00",
-                    "impliedVolatility": 0,
+                    "impliedVolatility": 31.43,
                     "lastPrice": 40,
                     "openInterest": 3,
                     "pChange": -4.0767386091127165,
@@ -4100,13 +4100,13 @@
                     "totalSellQuantity": 19550,
                     "totalTradedVolume": 1,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
-                    "askPrice": 123.2,
+                    "askPrice": 124.4,
                     "askQty": 1275,
                     "bidQty": 1275,
-                    "bidprice": 73.6,
+                    "bidprice": 69.4,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4121,14 +4121,14 @@
                     "totalSellQuantity": 18700,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1420
             },
             {
                 "CE": {
-                    "askPrice": 98.4,
+                    "askPrice": 74.7,
                     "askQty": 475,
                     "bidQty": 0,
                     "bidprice": 0,
@@ -4143,10 +4143,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1420,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 475,
+                    "totalSellQuantity": 950,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 142.2,
@@ -4167,38 +4167,38 @@
                     "totalSellQuantity": 475,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1420
             },
             {
                 "CE": {
-                    "askPrice": 4.7,
-                    "askQty": 850,
-                    "bidQty": 1275,
+                    "askPrice": 4.75,
+                    "askQty": 425,
+                    "bidQty": 3825,
                     "bidprice": 4.55,
-                    "change": -4.15,
-                    "changeinOpenInterest": 1,
+                    "change": -4,
+                    "changeinOpenInterest": 21,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023CE1440.00",
-                    "impliedVolatility": 36.21,
-                    "lastPrice": 4.6,
-                    "openInterest": 583,
-                    "pChange": -47.42857142857143,
-                    "pchangeinOpenInterest": 0.1718213058419244,
+                    "impliedVolatility": 35.99,
+                    "lastPrice": 4.75,
+                    "openInterest": 603,
+                    "pChange": -45.714285714285715,
+                    "pchangeinOpenInterest": 3.6082474226804124,
                     "strikePrice": 1440,
-                    "totalBuyQuantity": 73525,
-                    "totalSellQuantity": 71825,
-                    "totalTradedVolume": 445,
+                    "totalBuyQuantity": 90100,
+                    "totalSellQuantity": 71400,
+                    "totalTradedVolume": 458,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
-                    "askPrice": 83.2,
-                    "askQty": 425,
-                    "bidQty": 425,
-                    "bidprice": 79.95,
+                    "askPrice": 83.7,
+                    "askQty": 850,
+                    "bidQty": 2975,
+                    "bidprice": 76.3,
                     "change": 5.699999999999996,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4209,11 +4209,11 @@
                     "pChange": 9.32134096484055,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1440,
-                    "totalBuyQuantity": 31450,
-                    "totalSellQuantity": 22100,
+                    "totalBuyQuantity": 36125,
+                    "totalSellQuantity": 22525,
                     "totalTradedVolume": 3,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1440
@@ -4235,10 +4235,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1440,
                     "totalBuyQuantity": 0,
-                    "totalSellQuantity": 17850,
+                    "totalSellQuantity": 18700,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 123,
@@ -4259,7 +4259,7 @@
                     "totalSellQuantity": 18700,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1440
@@ -4284,38 +4284,38 @@
                     "totalSellQuantity": 475,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1440
             },
             {
                 "CE": {
-                    "askPrice": 3.15,
-                    "askQty": 850,
-                    "bidQty": 1275,
-                    "bidprice": 3.1,
-                    "change": -2.7,
-                    "changeinOpenInterest": -5,
+                    "askPrice": 3.1,
+                    "askQty": 425,
+                    "bidQty": 850,
+                    "bidprice": 3,
+                    "change": -2.7500000000000004,
+                    "changeinOpenInterest": -1,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023CE1460.00",
-                    "impliedVolatility": 37.7,
-                    "lastPrice": 3.2,
-                    "openInterest": 558,
-                    "pChange": -45.76271186440678,
-                    "pchangeinOpenInterest": -0.8880994671403197,
+                    "impliedVolatility": 37.31,
+                    "lastPrice": 3.15,
+                    "openInterest": 562,
+                    "pChange": -46.610169491525426,
+                    "pchangeinOpenInterest": -0.17761989342806395,
                     "strikePrice": 1460,
-                    "totalBuyQuantity": 78625,
-                    "totalSellQuantity": 88400,
-                    "totalTradedVolume": 363,
+                    "totalBuyQuantity": 77350,
+                    "totalSellQuantity": 88825,
+                    "totalTradedVolume": 373,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
-                    "askPrice": 103.65,
+                    "askPrice": 104.3,
                     "askQty": 1700,
-                    "bidQty": 425,
-                    "bidprice": 98.95,
+                    "bidQty": 850,
+                    "bidprice": 96.3,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4326,18 +4326,18 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1460,
-                    "totalBuyQuantity": 30600,
+                    "totalBuyQuantity": 34000,
                     "totalSellQuantity": 22950,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1460
             },
             {
                 "CE": {
-                    "askPrice": 30,
+                    "askPrice": 29.35,
                     "askQty": 425,
                     "bidQty": 425,
                     "bidprice": 17.95,
@@ -4355,7 +4355,7 @@
                     "totalSellQuantity": 1275,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 137.1,
@@ -4376,38 +4376,38 @@
                     "totalSellQuantity": 18700,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1460
             },
             {
                 "CE": {
-                    "askPrice": 2.25,
-                    "askQty": 425,
-                    "bidQty": 6800,
-                    "bidprice": 2.15,
-                    "change": -1.8499999999999996,
-                    "changeinOpenInterest": -35,
+                    "askPrice": 2.3,
+                    "askQty": 1275,
+                    "bidQty": 850,
+                    "bidprice": 2.2,
+                    "change": -1.75,
+                    "changeinOpenInterest": -43,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023CE1480.00",
-                    "impliedVolatility": 39.72,
-                    "lastPrice": 2.2,
-                    "openInterest": 299,
-                    "pChange": -45.679012345679006,
-                    "pchangeinOpenInterest": -10.479041916167665,
+                    "impliedVolatility": 39.25,
+                    "lastPrice": 2.3,
+                    "openInterest": 291,
+                    "pChange": -43.20987654320988,
+                    "pchangeinOpenInterest": -12.874251497005988,
                     "strikePrice": 1480,
-                    "totalBuyQuantity": 121975,
-                    "totalSellQuantity": 96900,
-                    "totalTradedVolume": 127,
+                    "totalBuyQuantity": 121125,
+                    "totalSellQuantity": 96050,
+                    "totalTradedVolume": 145,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
-                    "askPrice": 120.6,
-                    "askQty": 425,
+                    "askPrice": 123.9,
+                    "askQty": 850,
                     "bidQty": 425,
-                    "bidprice": 118,
+                    "bidprice": 117.75,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4418,18 +4418,18 @@
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1480,
-                    "totalBuyQuantity": 30175,
-                    "totalSellQuantity": 22100,
+                    "totalBuyQuantity": 30600,
+                    "totalSellQuantity": 23800,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1480
             },
             {
                 "CE": {
-                    "askPrice": 28.5,
+                    "askPrice": 28.65,
                     "askQty": 425,
                     "bidQty": 425,
                     "bidprice": 12.9,
@@ -4447,7 +4447,7 @@
                     "totalSellQuantity": 850,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 156.55,
@@ -4468,38 +4468,38 @@
                     "totalSellQuantity": 18700,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1480
             },
             {
                 "CE": {
-                    "askPrice": 1.7,
-                    "askQty": 1700,
-                    "bidQty": 2125,
-                    "bidprice": 1.6,
-                    "change": -1.4000000000000001,
-                    "changeinOpenInterest": -106,
+                    "askPrice": 1.65,
+                    "askQty": 2550,
+                    "bidQty": 5100,
+                    "bidprice": 1.55,
+                    "change": -1.5,
+                    "changeinOpenInterest": -108,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023CE1500.00",
-                    "impliedVolatility": 41.93,
-                    "lastPrice": 1.7,
-                    "openInterest": 965,
-                    "pChange": -45.16129032258065,
-                    "pchangeinOpenInterest": -9.897292250233427,
+                    "impliedVolatility": 41.11,
+                    "lastPrice": 1.6,
+                    "openInterest": 963,
+                    "pChange": -48.387096774193544,
+                    "pchangeinOpenInterest": -10.084033613445378,
                     "strikePrice": 1500,
-                    "totalBuyQuantity": 113900,
-                    "totalSellQuantity": 97750,
-                    "totalTradedVolume": 932,
+                    "totalBuyQuantity": 112625,
+                    "totalSellQuantity": 99025,
+                    "totalTradedVolume": 951,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 140.4,
                     "askQty": 850,
                     "bidQty": 850,
-                    "bidprice": 137,
+                    "bidprice": 136.75,
                     "change": 22.14999999999999,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4510,42 +4510,42 @@
                     "pChange": 20.237551393330282,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1500,
-                    "totalBuyQuantity": 25075,
-                    "totalSellQuantity": 24225,
+                    "totalBuyQuantity": 23800,
+                    "totalSellQuantity": 22525,
                     "totalTradedVolume": 3,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1500
             },
             {
                 "CE": {
-                    "askPrice": 17.5,
+                    "askPrice": 16.4,
                     "askQty": 425,
                     "bidQty": 425,
-                    "bidprice": 15.7,
+                    "bidprice": 15.25,
                     "change": -2.1499999999999986,
                     "changeinOpenInterest": 5,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKGODREJPROP29-06-2023CE1500.00",
-                    "impliedVolatility": 30.5,
+                    "impliedVolatility": 29.9,
                     "lastPrice": 16.05,
                     "openInterest": 25,
                     "pChange": -11.813186813186807,
                     "pchangeinOpenInterest": 25,
                     "strikePrice": 1500,
                     "totalBuyQuantity": 28900,
-                    "totalSellQuantity": 24650,
+                    "totalSellQuantity": 29750,
                     "totalTradedVolume": 14,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
-                    "askPrice": 149.1,
+                    "askPrice": 145.5,
                     "askQty": 1275,
                     "bidQty": 1275,
-                    "bidprice": 134.9,
+                    "bidprice": 133,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "29-Jun-2023",
@@ -4557,10 +4557,10 @@
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1500,
                     "totalBuyQuantity": 3400,
-                    "totalSellQuantity": 19125,
+                    "totalSellQuantity": 18700,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1500
@@ -4585,38 +4585,38 @@
                     "totalSellQuantity": 475,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1500
             },
             {
                 "CE": {
-                    "askPrice": 1.15,
-                    "askQty": 1700,
-                    "bidQty": 1700,
-                    "bidprice": 1.05,
+                    "askPrice": 1.1,
+                    "askQty": 1275,
+                    "bidQty": 2125,
+                    "bidprice": 1,
                     "change": -1.1500000000000001,
-                    "changeinOpenInterest": -30,
+                    "changeinOpenInterest": -31,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023CE1520.00",
-                    "impliedVolatility": 43.29,
+                    "impliedVolatility": 43.22,
                     "lastPrice": 1.05,
-                    "openInterest": 258,
+                    "openInterest": 257,
                     "pChange": -52.27272727272727,
-                    "pchangeinOpenInterest": -10.416666666666666,
+                    "pchangeinOpenInterest": -10.76388888888889,
                     "strikePrice": 1520,
-                    "totalBuyQuantity": 73950,
-                    "totalSellQuantity": 79900,
-                    "totalTradedVolume": 100,
+                    "totalBuyQuantity": 72250,
+                    "totalSellQuantity": 79475,
+                    "totalTradedVolume": 106,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
-                    "askPrice": 163.15,
+                    "askPrice": 163.05,
                     "askQty": 425,
                     "bidQty": 850,
-                    "bidprice": 149.3,
+                    "bidprice": 152.05,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4631,7 +4631,7 @@
                     "totalSellQuantity": 21675,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1520
@@ -4656,7 +4656,7 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 190.55,
@@ -4677,7 +4677,7 @@
                     "totalSellQuantity": 17425,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1520
@@ -4702,7 +4702,7 @@
                     "totalSellQuantity": 475,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1520
@@ -4711,23 +4711,23 @@
                 "CE": {
                     "askPrice": 0.9,
                     "askQty": 2125,
-                    "bidQty": 2125,
-                    "bidprice": 0.8,
+                    "bidQty": 850,
+                    "bidprice": 0.85,
                     "change": -0.7999999999999999,
                     "changeinOpenInterest": 3,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023CE1540.00",
-                    "impliedVolatility": 45.64,
+                    "impliedVolatility": 45.16,
                     "lastPrice": 0.9,
                     "openInterest": 16,
                     "pChange": -47.05882352941176,
                     "pchangeinOpenInterest": 23.076923076923077,
                     "strikePrice": 1540,
-                    "totalBuyQuantity": 57800,
+                    "totalBuyQuantity": 59075,
                     "totalSellQuantity": 109650,
                     "totalTradedVolume": 11,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 184.85,
@@ -4748,7 +4748,7 @@
                     "totalSellQuantity": 21675,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1540
@@ -4773,7 +4773,7 @@
                     "totalSellQuantity": 425,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 207.8,
@@ -4794,7 +4794,7 @@
                     "totalSellQuantity": 18700,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1540
@@ -4819,7 +4819,7 @@
                     "totalSellQuantity": 475,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1540
@@ -4844,13 +4844,13 @@
                     "totalSellQuantity": 0,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 216.5,
                     "askQty": 1275,
                     "bidQty": 1275,
-                    "bidprice": 175.95,
+                    "bidprice": 176.85,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -4865,14 +4865,14 @@
                     "totalSellQuantity": 18275,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1560
             },
             {
                 "CE": {
-                    "askPrice": 13.35,
+                    "askPrice": 18.9,
                     "askQty": 425,
                     "bidQty": 3400,
                     "bidprice": 0.5,
@@ -4890,7 +4890,7 @@
                     "totalSellQuantity": 850,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 220.4,
@@ -4911,7 +4911,7 @@
                     "totalSellQuantity": 18700,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1560
@@ -4936,7 +4936,7 @@
                     "totalSellQuantity": 475,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 263.75,
@@ -4957,7 +4957,7 @@
                     "totalSellQuantity": 475,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1560
@@ -4982,13 +4982,13 @@
                     "totalSellQuantity": 17000,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 222.7,
                     "askQty": 1275,
                     "bidQty": 1275,
-                    "bidprice": 209.25,
+                    "bidprice": 211.6,
                     "change": 0,
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
@@ -5003,7 +5003,7 @@
                     "totalSellQuantity": 20825,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1580
@@ -5028,7 +5028,7 @@
                     "totalSellQuantity": 17425,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 243.55,
@@ -5049,7 +5049,7 @@
                     "totalSellQuantity": 18700,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1580
@@ -5074,7 +5074,7 @@
                     "totalSellQuantity": 475,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 280.85,
@@ -5095,14 +5095,14 @@
                     "totalSellQuantity": 475,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1580
             },
             {
                 "CE": {
-                    "askPrice": 3.1,
+                    "askPrice": 2.85,
                     "askQty": 17000,
                     "bidQty": 8500,
                     "bidprice": 0.1,
@@ -5110,17 +5110,17 @@
                     "changeinOpenInterest": 0,
                     "expiryDate": "25-May-2023",
                     "identifier": "OPTSTKGODREJPROP25-05-2023CE1600.00",
-                    "impliedVolatility": 60.2,
+                    "impliedVolatility": 60.13,
                     "lastPrice": 1.3,
                     "openInterest": 18,
                     "pChange": 0,
                     "pchangeinOpenInterest": 0,
                     "strikePrice": 1600,
                     "totalBuyQuantity": 8925,
-                    "totalSellQuantity": 17425,
+                    "totalSellQuantity": 34850,
                     "totalTradedVolume": 1,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 249.55,
@@ -5141,32 +5141,32 @@
                     "totalSellQuantity": 20825,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "25-May-2023",
                 "strikePrice": 1600
             },
             {
                 "CE": {
-                    "askPrice": 7.55,
+                    "askPrice": 12.85,
                     "askQty": 425,
                     "bidQty": 425,
-                    "bidprice": 5.35,
+                    "bidprice": 4.05,
                     "change": -8.5,
                     "changeinOpenInterest": 27,
                     "expiryDate": "29-Jun-2023",
                     "identifier": "OPTSTKGODREJPROP29-06-2023CE1600.00",
-                    "impliedVolatility": 31.27,
+                    "impliedVolatility": 31.23,
                     "lastPrice": 5.5,
                     "openInterest": 29,
                     "pChange": -60.71428571428571,
                     "pchangeinOpenInterest": 1350,
                     "strikePrice": 1600,
-                    "totalBuyQuantity": 29750,
-                    "totalSellQuantity": 24650,
+                    "totalBuyQuantity": 23800,
+                    "totalSellQuantity": 18275,
                     "totalTradedVolume": 29,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 254.7,
@@ -5187,7 +5187,7 @@
                     "totalSellQuantity": 18700,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "29-Jun-2023",
                 "strikePrice": 1600
@@ -5212,7 +5212,7 @@
                     "totalSellQuantity": 475,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "PE": {
                     "askPrice": 298.3,
@@ -5233,7 +5233,7 @@
                     "totalSellQuantity": 475,
                     "totalTradedVolume": 0,
                     "underlying": "GODREJPROP",
-                    "underlyingValue": 1361.4
+                    "underlyingValue": 1362
                 },
                 "expiryDate": "27-Jul-2023",
                 "strikePrice": 1600
@@ -5286,7 +5286,7 @@
             1580,
             1600
         ],
-        "timestamp": "18-May-2023 10:19:49",
-        "underlyingValue": 1361.4
+        "timestamp": "18-May-2023 10:26:47",
+        "underlyingValue": 1362
     }
 }
