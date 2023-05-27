@@ -23,14 +23,70 @@ from django.apps import apps
 from apps.home.models import SimpleTable,selecttime,CEPE_all_oi_high,CE_oi_high_same_CEstrike,PE_oi_high_same_PEstrike, Multi_CEPE_all_oi_high, Multi_CE_oi_high_same_CEstrike, Multi_PE_oi_high_same_PEstrike, cepeBothhigh_OnetimeDatafetchSortcovering, ceoiHigh_OnetimeDatafetchSortcovering, peoiHigh_OnetimeDatafetchSortcovering, cepeBothhigh_onetimeDatafetchLongunwinding,ceoiHigh_onetimeDatafetchLongunwinding,peoiHigh_onetimeDatafetchLongunwinding,Comparision_CEPE_all_oi_high
 import django_tables2 as tables
 from django.views.generic import ListView
+from django.shortcuts import redirect
+from django.core.management import call_command
+
+
+@login_required(login_url="/login/")
+def run_command_onetime(request):
+    print("command is calling now")
+    if request.method == 'POST':
+       
+        print(call_command('add_data_onetime'))
+        return HttpResponse('Command executed successfully.')
+    
+    else:
+        print("invalid request")
+        
+        return HttpResponse('Invalid request method.')
+    
+@login_required(login_url="/login/")
+def run_command_multitime(request):
+    print("command is calling now")
+    if request.method == 'POST':
+       
+        print(call_command('add_data_multitime'))
+        return HttpResponse('Command executed successfully.')
+      
+    else:
+        print("invalid request")
+     
+        return HttpResponse('Invalid request method.')
+    
+
+@login_required(login_url="/login/")
+def run_command_comparision(request):
+    print("command is calling now")
+    if request.method == 'POST':
+       
+        print(call_command('add_data_comparision'))
+        return HttpResponse('Command executed successfully.')
+      
+    else:
+        print("invalid request")
+     
+        return HttpResponse('Invalid request method.')
 
 @login_required(login_url="/login/")
 def index(request):
-    context = {'segment': 'index'}
+    # context = {'segment': 'index'}
 
-    html_template = loader.get_template('home/profile.html')
-    return HttpResponse(html_template.render(context, request))
+    # html_template = loader.get_template('home/profile.html')
+    # return HttpResponse(html_template.render(context, request))
 
+
+    if request.user.is_authenticated:
+        if request.user.is_staff:
+            # Redirect staff users to a specific page
+            return redirect('home/adminuser.html')  # Replace 'staff_dashboard' with the appropriate URL or view name for the staff dashboard
+        else:
+            # Regular authenticated users can continue to the profile page
+            context = {'segment': 'index'}
+            html_template = loader.get_template('home/profile.html')
+            return HttpResponse(html_template.render(context, request))
+    else:
+        # Redirect anonymous users to the login page
+        return redirect('login')  # Replace 'login' with the appropriate URL or view name for the login page
 
 @login_required(login_url="/login/")
 def pages(request):
