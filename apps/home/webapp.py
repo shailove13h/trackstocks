@@ -1,3 +1,8 @@
+# -*- encoding: utf-8 -*-
+"""
+Copyright (c) 2023 - present Shailesh Vasava
+"""
+
 from django.shortcuts import render
 from apps.templates import *
 
@@ -8,7 +13,7 @@ def button(request):
 def output(request):
     
     output_data = "Genius Voice eliminates friction. For years people have had to learn to interact with computers, we turn this around. We teach computers how to interact with humans through voice. This creates a seamless experience without losing the human touch."
-    website_link = "Visit our website: " + "https://www.geniusvoice.nl/"
+    website_link = "Visit our website: " + "https://www.datawithsv.com/"
     
     # return render(request,"fetchoption.html",{"output_data":output_data, "website_link":website_link})
   

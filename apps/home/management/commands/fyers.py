@@ -1,3 +1,8 @@
+# -*- encoding: utf-8 -*-
+"""
+Copyright (c) 2023 - present Shailesh Vasava
+"""
+
 # INSTALLATION:
 # pip install fyers-apiv2
 from django.core.management.base import BaseCommand

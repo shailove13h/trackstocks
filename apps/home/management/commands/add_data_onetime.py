@@ -1,3 +1,8 @@
+# -*- encoding: utf-8 -*-
+"""
+Copyright (c) 2023 - present Shailesh Vasava
+"""
+
 from django.core.management.base import BaseCommand
 from django.conf import settings
 from sqlalchemy import create_engine
@@ -9,7 +14,8 @@ from .onetimesnap import *
 from django.http import HttpResponse
 from datetime import datetime,date
 import numpy as np
-
+# importing timezone from pytz module
+from pytz import timezone
 
 class Command(BaseCommand):
     help = "A command to add dta from data frame to dabase"
@@ -65,14 +71,27 @@ class Command(BaseCommand):
                 cepe_all_hiLongUnwinding.to_sql(cepeBothhigh_onetimeDatafetchLongunwinding._meta.db_table, if_exists="append",con=engine, index=False)
                 ceoihighLongUnwinding.to_sql(ceoiHigh_onetimeDatafetchLongunwinding._meta.db_table, if_exists="append",con=engine, index=False)
                 peoihighLongUnwinding.to_sql(peoiHigh_onetimeDatafetchLongunwinding._meta.db_table, if_exists="append",con=engine, index=False)
-            
+
+
+                format = "%Y-%m-%d %H:%M:%S"
                 datetimed = pd.DataFrame()
-                times = datetime.now()
-                print(times)
+
+
+                now_utc = datetime.now(timezone('UTC'))
+                print(now_utc)
+                print('Current Time in UTC TimeZone:',now_utc.strftime(format))
                 dates = datetime.today()
                 
-                datetimed['created_at'] =[times]
+                # Converting to Asia/Kolkata time zone
+                now_asia = now_utc.astimezone(timezone('Asia/Kolkata'))
+                print("the current date is : " + str(dates))
+                # Format the above datetime using the strftime()
+                print('Current Time in Asia/Kolkata TimeZone:',now_asia.strftime(format))
+                newDatetime = now_asia.strftime(format)
+                datetimed['created_at'] =[newDatetime]
                 datetimed['created_date'] =[dates]
+
+
                 try:
 
                     datetimed.to_sql(selecttime._meta.db_table, if_exists="append",con=engine, index=False)
@@ -222,7 +241,7 @@ def onetimefuction():
         print("opps error in getting fnolist")
         print(err)   
     
-    # lststk = 2
+    lststk = 2
     part = lststk
     
 

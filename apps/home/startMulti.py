@@ -1,3 +1,8 @@
+# -*- encoding: utf-8 -*-
+"""
+Copyright (c) 2023 - present Shailesh Vasava
+"""
+
 import os,sys
 # os.chdir(os.path.dirname(os.path.abspath(__file__)))
 # sys.path.insert(1, os.path.join(sys.path[0], '..'))

@@ -1,8 +1,7 @@
 # -*- encoding: utf-8 -*-
 """
-Copyright (c) 2019 - present AppSeed.us
+Copyright (c) 2023 - present Shailesh Vasava
 """
-
 from django.urls import path, include
 from .views import login_view, register_user
 from django.contrib.auth.views import LogoutView
