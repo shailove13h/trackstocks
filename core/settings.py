@@ -129,11 +129,11 @@ DATABASES = {
         'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
 
-        'NAME': 'trackstock',
+        'NAME': 'trackstocks',
 
-        'USER': 'postgres',
+        'USER': 'trackadmin',
 
-        'PASSWORD': '123',
+        'PASSWORD': 'trackadmin@45371845',
 
         'HOST': 'localhost',
 
