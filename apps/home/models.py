@@ -14,7 +14,7 @@ class selecttime(models.Model) :
     
     id = models.AutoField(primary_key=True)
     
-    created_at = models.DateTimeField(auto_now_add=True, null=True)
+    created_at = models.DateTimeField( null=True, blank=True)
     created_date = models.DateField(null=True)
 
 
@@ -35,7 +35,7 @@ class CEPE_all_oi_high(models.Model) :
     underlyingValue = models.FloatField(max_length=25, null=True)
     underlying = models.CharField (max_length=25, null=True)
     pcr = models.FloatField(max_length=25, null=True)
-    created_at = models.DateTimeField(auto_now_add=True, null=True)
+    created_at = models.DateTimeField( null=True, blank=True)
     created_date = models.DateField(null=True)
     
 
@@ -68,7 +68,7 @@ class CE_oi_high_same_CEstrike(models.Model) :
     underlyingValue = models.FloatField(max_length=25, null=True)
     underlying = models.CharField (max_length=25, null=True)
     pcr = models.FloatField(max_length=25, null=True)
-    created_at = models.DateTimeField(auto_now_add=True, null=True)
+    created_at = models.DateTimeField( null=True, blank=True)
     created_date = models.DateField(null=True)
     
 
@@ -102,7 +102,7 @@ class PE_oi_high_same_PEstrike(models.Model) :
     underlyingValue = models.FloatField(max_length=25, null=True)
     underlying = models.CharField (max_length=25, null=True)
     pcr = models.FloatField(max_length=25, null=True)
-    created_at = models.DateTimeField(auto_now_add=True, null=True)
+    created_at = models.DateTimeField( null=True, blank=True)
     created_date = models.DateField(null=True)
     
 
@@ -142,7 +142,7 @@ class Multi_CEPE_all_oi_high(models.Model) :
     underlyingValue = models.FloatField(max_length=25, null=True)
     underlying = models.CharField (max_length=25, null=True)
     pcr = models.FloatField(max_length=25, null=True)
-    created_at = models.DateTimeField(auto_now_add=True, null=True)
+    created_at = models.DateTimeField( null=True, blank=True)
     created_date = models.DateField(null=True)
 
     
@@ -175,7 +175,7 @@ class Multi_CE_oi_high_same_CEstrike(models.Model) :
     underlyingValue = models.FloatField(max_length=25, null=True)
     underlying = models.CharField (max_length=25, null=True)
     pcr = models.FloatField(max_length=25, null=True)
-    created_at = models.DateTimeField(auto_now_add=True, null=True)
+    created_at = models.DateTimeField( null=True, blank=True)
     created_date = models.DateField(null=True)
 
     
@@ -209,7 +209,7 @@ class Multi_PE_oi_high_same_PEstrike(models.Model) :
     underlyingValue = models.FloatField(max_length=25, null=True)
     underlying = models.CharField (max_length=25, null=True)
     pcr = models.FloatField(max_length=25, null=True)
-    created_at = models.DateTimeField(auto_now_add=True, null=True)
+    created_at = models.DateTimeField( null=True, blank=True)
     created_date = models.DateField(null=True)
     
     #  for puteside
@@ -247,7 +247,7 @@ class Multi_CEPE_all_oi_high_CPT(models.Model) :
     underlyingValue = models.FloatField(max_length=25, null=True)
     underlying = models.CharField (max_length=25, null=True)
     pcr = models.FloatField(max_length=25, null=True)
-    created_at = models.DateTimeField(auto_now_add=True, null=True)
+    created_at = models.DateTimeField( null=True, blank=True)
     created_date = models.DateField(null=True)
 
     
@@ -280,7 +280,7 @@ class Multi_CE_oi_high_same_CEstrike_CPT(models.Model) :
     underlyingValue = models.FloatField(max_length=25, null=True)
     underlying = models.CharField (max_length=25, null=True)
     pcr = models.FloatField(max_length=25, null=True)
-    created_at = models.DateTimeField(auto_now_add=True, null=True)
+    created_at = models.DateTimeField( null=True, blank=True)
     created_date = models.DateField(null=True)
 
     
@@ -314,7 +314,7 @@ class Multi_PE_oi_high_same_PEstrike_CPT(models.Model) :
     underlyingValue = models.FloatField(max_length=25, null=True)
     underlying = models.CharField (max_length=25, null=True)
     pcr = models.FloatField(max_length=25, null=True)
-    created_at = models.DateTimeField(auto_now_add=True, null=True)
+    created_at = models.DateTimeField( null=True, blank=True)
     created_date = models.DateField(null=True)
     
     #  for puteside
@@ -349,7 +349,7 @@ class OnetimeDatafetchSortcovering(models.Model) :
     underlyingValue = models.FloatField(max_length=25, null=True)
     underlying = models.CharField (max_length=25, null=True)
     pcr = models.FloatField(max_length=25, null=True)
-    created_at = models.DateTimeField(auto_now_add=True, null=True)
+    created_at = models.DateTimeField( null=True, blank=True)
     created_date = models.DateField(null=True)
 
     
@@ -384,7 +384,7 @@ class onetimeDatafetchLongunwinding(models.Model) :
     underlyingValue = models.FloatField(max_length=25, null=True)
     underlying = models.CharField (max_length=25, null=True)
     pcr = models.FloatField(max_length=25, null=True)
-    created_at = models.DateTimeField(auto_now_add=True, null=True)
+    created_at = models.DateTimeField( null=True, blank=True)
     created_date = models.DateField(null=True)
 
     #  for puteside
@@ -416,7 +416,7 @@ class cepeBothhigh_OnetimeDatafetchSortcovering(models.Model) :
     underlyingValue = models.FloatField(max_length=25, null=True)
     underlying = models.CharField (max_length=25, null=True)
     pcr = models.FloatField(max_length=25, null=True)
-    created_at = models.DateTimeField(auto_now_add=True, null=True)
+    created_at = models.DateTimeField( null=True, blank=True)
     created_date = models.DateField(null=True)
 
     
@@ -447,7 +447,7 @@ class ceoiHigh_OnetimeDatafetchSortcovering(models.Model) :
     underlyingValue = models.FloatField(max_length=25, null=True)
     underlying = models.CharField (max_length=25, null=True)
     pcr = models.FloatField(max_length=25, null=True)
-    created_at = models.DateTimeField(auto_now_add=True, null=True)
+    created_at = models.DateTimeField( null=True, blank=True)
     created_date = models.DateField(null=True)
 
     
@@ -478,7 +478,7 @@ class peoiHigh_OnetimeDatafetchSortcovering(models.Model) :
     underlyingValue = models.FloatField(max_length=25, null=True)
     underlying = models.CharField (max_length=25, null=True)
     pcr = models.FloatField(max_length=25, null=True)
-    created_at = models.DateTimeField(auto_now_add=True, null=True)
+    created_at = models.DateTimeField( null=True, blank=True)
     created_date = models.DateField(null=True)
 
     
@@ -512,7 +512,7 @@ class cepeBothhigh_onetimeDatafetchLongunwinding(models.Model) :
     underlyingValue = models.FloatField(max_length=25, null=True)
     underlying = models.CharField (max_length=25, null=True)
     pcr = models.FloatField(max_length=25, null=True)
-    created_at = models.DateTimeField(auto_now_add=True, null=True)
+    created_at = models.DateTimeField( null=True, blank=True)
     created_date = models.DateField(null=True)
 
     #  for puteside
@@ -543,7 +543,7 @@ class ceoiHigh_onetimeDatafetchLongunwinding(models.Model) :
     underlyingValue = models.FloatField(max_length=25, null=True)
     underlying = models.CharField (max_length=25, null=True)
     pcr = models.FloatField(max_length=25, null=True)
-    created_at = models.DateTimeField(auto_now_add=True, null=True)
+    created_at = models.DateTimeField( null=True, blank=True)
     created_date = models.DateField(null=True)
 
     #  for puteside
@@ -574,7 +574,7 @@ class peoiHigh_onetimeDatafetchLongunwinding(models.Model) :
     underlyingValue = models.FloatField(max_length=25, null=True)
     underlying = models.CharField (max_length=25, null=True)
     pcr = models.FloatField(max_length=25, null=True)
-    created_at = models.DateTimeField(auto_now_add=True, null=True)
+    created_at = models.DateTimeField( null=True, blank=True)
     created_date = models.DateField(null=True)
 
     #  for puteside
@@ -608,7 +608,7 @@ class Comparision_CEPE_all_oi_high(models.Model) :
     underlying = models.CharField (max_length=25, null=True)
     underlyingValue_diff = models.FloatField(max_length=25, null=True)
     pcr = models.FloatField(max_length=25, null=True)
-    created_at = models.DateTimeField(auto_now_add=True, null=True)
+    created_at = models.DateTimeField( null=True, blank=True)
     created_date = models.DateField(null=True)
 
     #  for puteside

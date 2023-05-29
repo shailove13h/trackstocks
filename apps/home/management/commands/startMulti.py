@@ -43,6 +43,8 @@ if(mode=='local'):
             output = s.get(payload,headers=headers).json()
         return output
 
+
+
 run_time=datetime.datetime.now()
 
 #Constants

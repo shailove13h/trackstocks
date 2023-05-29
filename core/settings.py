@@ -22,13 +22,13 @@ SECRET_KEY = env('SECRET_KEY', default='S#pershailoveS3crEt_007')
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = env('DEBUG')
-
+DEBUG = True
 # Assets Management
 ASSETS_ROOT = os.getenv('ASSETS_ROOT', '/static/assets') 
 
 # load production server from .env
 ALLOWED_HOSTS        = ['localhost', 'localhost:80', '127.0.0.1','*',env('SERVER', default='127.0.0.1') ]
-CSRF_TRUSTED_ORIGINS = ['http://localhost:80', 'http://127.0.0.1', 'https://' + env('SERVER', default='127.0.0.1') ]
+CSRF_TRUSTED_ORIGINS = ['http://localhost:80', 'http://127.0.0.1', 'https://' + env('SERVER', default='127.0.0.1:8000') ]
 
 # Application definition
 
@@ -129,11 +129,11 @@ DATABASES = {
         'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
 
-        'NAME': 'trackstocks',
+        'NAME': 'trackstock',
 
         'USER': 'trackadmin',
 
-        'PASSWORD': 'trackadmin@45371845',
+        'PASSWORD': 'trackadmin_45371845',
 
         'HOST': 'localhost',
 

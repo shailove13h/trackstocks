@@ -136,9 +136,9 @@ def onetimefuction():
     except Exception as err:
 
         print("opps error in getting fnolist")
-        print(err)   
+        print(err)  
     
-    lststk = 2
+    # lststk = 2
     part = lststk
     
 
